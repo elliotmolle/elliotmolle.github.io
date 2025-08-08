@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>YOUR NAME — Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header style="max-width:960px;margin:2rem auto 1rem;padding:0 1rem">
+    <h1>YOUR NAME</h1>
+    <p>Engineering • HSE • Product • Digital Transformation</p>
+    <nav>
+      <a href="#about">About</a> · <a href="#projects">Projects</a> · 
+      <a href="#contact">Contact</a> · <a href="YOUR_RESUME.pdf" target="_blank">Resume</a>
+    </nav>
+  </header>
+
+  <main style="max-width:960px;margin:0 auto;padding:0 1rem">
+    <section id="about"><h2>About</h2><p>1–3 sentences on your value prop.</p></section>
+    <section id="projects"><h2>Projects</h2><ul><li>Project A – 1-line impact.</li><li>Project B – 1-line impact.</li></ul></section>
+    <section id="contact"><h2>Contact</h2><p>Email: <a href="mailto:you@yourdomain.com">you@yourdomain.com</a></p></section>
+  </main>
+
+  <footer style="max-width:960px;margin:2rem auto;padding:0 1rem;color:#666">
+    © <span id="y"></span> YOUR NAME
+  </footer>
+  <script>document.getElementById('y').textContent=new Date().getFullYear();</script>
+</body>
+</html>
