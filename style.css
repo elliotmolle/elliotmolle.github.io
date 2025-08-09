@@ -37,6 +37,13 @@ html, body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6
 .hero-cta .link { text-decoration: none; color: var(--brand); }
 .hero-media img { width: 100%; height: auto; border-radius: 14px; border: 1px solid var(--line); }
 .social a { color: var(--brand); text-decoration: none; }
+.hero-media img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+}
+
 
 /* Sections */
 .section { padding: 2rem 0; border-top: 1px solid var(--line); }
