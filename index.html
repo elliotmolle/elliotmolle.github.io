@@ -3,28 +3,130 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>YOUR NAME — Portfolio</title>
+  <title>Elliot Molle — Electrical Engineer</title>
+  <meta name="description" content="Elliot Molle — Electrical Engineer (Texas A&M '27). Computing, networking, cybersecurity.">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header style="max-width:960px;margin:2rem auto 1rem;padding:0 1rem">
-    <h1>YOUR NAME</h1>
-    <p>Engineering • HSE • Product • Digital Transformation</p>
-    <nav>
-      <a href="#about">About</a> · <a href="#projects">Projects</a> · 
-      <a href="#contact">Contact</a> · <a href="YOUR_RESUME.pdf" target="_blank">Resume</a>
+  <header class="wrap site-header">
+    <a class="brand" href="#top">
+      <span class="brand-title">Elliot Molle</span>
+      <span class="brand-sub">Electrical Engineer</span>
+    </a>
+    <nav class="nav">
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="YOUR_RESUME.pdf" target="_blank" rel="noopener">Resume</a>
     </nav>
   </header>
 
-  <main style="max-width:960px;margin:0 auto;padding:0 1rem">
-    <section id="about"><h2>About</h2><p>1–3 sentences on your value prop.</p></section>
-    <section id="projects"><h2>Projects</h2><ul><li>Project A – 1-line impact.</li><li>Project B – 1-line impact.</li></ul></section>
-    <section id="contact"><h2>Contact</h2><p>Email: <a href="mailto:you@yourdomain.com">you@yourdomain.com</a></p></section>
+  <main id="top">
+    <!-- HERO -->
+    <section class="hero">
+      <div class="wrap hero-inner">
+        <div class="hero-text">
+          <h1 class="hero-title">Howdy — I’m Elliot.</h1>
+          <p class="hero-tag">Electrical Engineer · Katy, TX · Texas A&amp;M University ’27</p>
+          <p class="hero-blurb">
+            I build efficient systems across computing, networking, and cybersecurity. From earning my CCNA out of high school to winning state-level IT competitions, I’ve developed a strong foundation in leadership, communication, and technical problem-solving.
+          </p>
+          <p class="hero-cta">
+            <a class="btn" href="#projects">See Projects</a>
+            <a class="link" href="#about">About Me</a>
+          </p>
+          <p class="social">
+            <a href="https://www.linkedin.com/in/YOURHANDLE" target="_blank" rel="noopener">LinkedIn</a>
+            ·
+            <a href="https://github.com/elliotmolle" target="_blank" rel="noopener">GitHub</a>
+          </p>
+        </div>
+        <!-- Optional: add your own headshot as /assets/headshot.jpg -->
+        <div class="hero-media">
+          <!-- Only use an image you own -->
+          <!-- <img src="assets/headshot.jpg" alt="Portrait of Elliot Molle"> -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="wrap section">
+      <h2>About Me</h2>
+      <p>
+        Aspiring electrical engineer with a passion for computing, networking, and cybersecurity.
+        I earned certifications in Cisco Networking (CCNA) and CompTIA Security+, and I’m currently pursuing a B.S. in Electrical Engineering at Texas A&amp;M University.
+        Outside the lab, you’ll find me on the mats training Brazilian Jiu-Jitsu or in the kitchen perfecting sourdough—because whether I’m rolling or rising, I’m always working on my craft.
+      </p>
+
+      <div class="about-grid">
+        <div>
+          <h3>Technical Skills</h3>
+          <ul>
+            <li>Networking (CCNA), Routing &amp; Switching, VLANs</li>
+            <li>Cybersecurity basics (Security+), hardening &amp; fundamentals</li>
+            <li>Python/Matlab basics, Linux/CLI, Git/GitHub</li>
+            <li>Lab tools: oscilloscopes, DMMs, prototyping</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Extracurriculars</h3>
+          <ul>
+            <li>Student officer, Texas A&amp;M Brazilian Jiu-Jitsu</li>
+            <li>State-level IT competition winner</li>
+            <li>Sourdough baking (process, timing, iteration)</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="wrap section">
+      <h2>Projects</h2>
+      <p class="muted">Note: images here are placeholders; replace only with assets you own or have rights to use.</p>
+
+      <div class="cards">
+        <article class="card">
+          <div class="card-num">01</div>
+          <h3>Analogies Paper</h3>
+          <p>Comparing USB-C’s dominance to a multilane highway and a multilingual airport gate agent.</p>
+          <p class="meta">Coursework: COMM 205 — Summer 2025</p>
+          <!-- Optional: link to a PDF you upload -->
+          <!-- <p><a class="link" href="docs/analogies-paper.pdf" target="_blank" rel="noopener">Read PDF</a></p> -->
+        </article>
+
+        <article class="card">
+          <div class="card-num">02</div>
+          <h3>FAQ Paper — NAT &amp; IPv6</h3>
+          <p>FAQ explaining NAT and IPv6 as solutions to IPv4 address exhaustion.</p>
+          <p class="meta">Coursework: COMM 205 — Summer 2025</p>
+          <!-- <p><a class="link" href="docs/faq-nat-ipv6.pdf" target="_blank" rel="noopener">Read PDF</a></p> -->
+        </article>
+
+        <article class="card">
+          <div class="card-num">03</div>
+          <h3>Podcast Segment</h3>
+          <p>Short segment exploring how NAT and IPv6 can solve IPv4 address exhaustion.</p>
+          <p class="meta">Coursework: COMM 205 — Summer 2025</p>
+          <!-- <p><audio controls src="media/podcast.mp3"></audio></p> -->
+        </article>
+
+        <article class="card">
+          <div class="card-num">04</div>
+          <h3>Slidesets</h3>
+          <p>Slide decks on Wi-Fi adoption, why USB-C wins, NAT vs. IPv6, and Starlink for rural/low-income access.</p>
+          <p class="meta">Coursework: COMM 205 — Summer 2025</p>
+          <!-- <p><a class="link" href="docs/slides.zip">Download slides</a></p> -->
+        </article>
+      </div>
+    </section>
   </main>
 
-  <footer style="max-width:960px;margin:2rem auto;padding:0 1rem;color:#666">
-    © <span id="y"></span> YOUR NAME
+  <footer class="wrap site-footer">
+    <p>© <span id="y"></span> Elliot Molle</p>
+    <p>Email: <a href="mailto:ecmolle@tamu.edu">ecmolle@tamu.edu</a></p>
   </footer>
-  <script>document.getElementById('y').textContent=new Date().getFullYear();</script>
+
+  <script>
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
