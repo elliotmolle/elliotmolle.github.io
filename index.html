@@ -1,4 +1,4 @@
-does everything look right for this html <!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -28,7 +28,7 @@ does everything look right for this html <!doctype html>
           <h1 class="hero-title">Howdy — I’m Elliot.</h1>
           <p class="hero-tag">Electrical Engineer · Katy, TX · Texas A&amp;M University ’27</p>
           <p class="hero-blurb">
-            I build efficient systems across computing, networking, and cybersecurity. From earning my CCNA out of high school to winning state-level IT competitions, I’ve developed a strong foundation in leadership, communication, and technical problem-solving.
+            I’m an Electrical Engineering student passionate about building scalable, efficient power electronics for the modern grid. From converters and inverters to hands-on bench work, I thrive at the intersection of first-principles design, simulation, and real hardware validation. I enjoy modeling topologies in MATLAB/Simulink or LTspice, then bringing them to life with scopes, probes, and careful troubleshooting. My goal is to help accelerate the electrification of everything by designing converters that reliably connect renewables, storage, and loads to the grid.
           </p>
           <p class="hero-cta">
             <a class="btn" href="#projects">See Projects</a>
@@ -50,63 +50,60 @@ does everything look right for this html <!doctype html>
 
     <!-- ABOUT -->
     <section id="about" class="wrap section">
-  <h2>About Me</h2>
-  <p>
-    I’m an Electrical Engineering student at Texas A&amp;M '27 with a hands-on focus in power electronics. I like building real hardware—designing and testing converters, characterizing devices, and validating ideas on the bench with scopes and probes. My goal is to help connect renewables, storage, and modern loads to the grid with scalable, efficient power conversion.
-  </p>
-  <p>
-    I learn by doing. Recent builds include a small generator system (hoverboard wheel alternator → rectifier → switching stage with diode protection → battery charging → buck step-down → USB breakout) and a repurposed wall-mounted monitor from a salvaged laptop panel with an LCD controller. Projects like these sharpen my component selection, safe lab practice, and troubleshooting skills while reinforcing first-principles thinking.
-  </p>
-  <p>
-    Day to day, I split time between bench work and quick simulations to sanity-check behavior. I enjoy collaborating, documenting results clearly, and iterating until the hardware performs the way the math says it should.
-  </p>
+      <h2>About Me</h2>
+      <p>
+        Aspiring electrical engineer with a passion for computing, networking, and cybersecurity.
+        I earned certifications in Cisco Networking (CCNA) and CompTIA Security+, and I’m currently pursuing a B.S. in Electrical Engineering at Texas A&amp;M University.
+        Outside the lab, you’ll find me on the mats training Brazilian Jiu-Jitsu or in the kitchen perfecting sourdough—because whether I’m rolling or rising, I’m always working on my craft.
+      </p>
 
-  <div class="about-grid">
-    <div>
-      <h3>Technical Skills</h3>
-      <ul>
-        <li><strong>Power Electronics &amp; Circuits:</strong> Rectifiers, buck/boost/buck-boost, inverters; device fundamentals, gate driving, protection, filtering</li>
-        <li><strong>Modeling &amp; Simulation:</strong> MATLAB/Simulink for converter behavior and control; LTspice/PLECS basics for circuit simulation</li>
-        <li><strong>Hardware &amp; Lab:</strong> Soldering and prototyping; oscilloscopes, DMMs, function generators, bench supplies; efficiency and thermal checks; waveform analysis</li>
-        <li><strong>Embedded &amp; Control:</strong> Python/MATLAB scripting for measurements and simple test automation; microcontroller exposure (Arduino/STM32 basics)</li>
-        <li><strong>Design Workflow:</strong> Schematic capture &amp; PCB layout fundamentals; structured documentation;</li>
-      </ul>
+      <div class="about-grid">
+        <div>
+          <h3>Technical Skills</h3>
+          <ul>
+            <li>Networking (CCNA), Routing &amp; Switching, VLANs</li>
+            <li>Cybersecurity basics (Security+), hardening &amp; fundamentals</li>
+            <li>Python/Matlab basics, Linux/CLI, Git/GitHub</li>
+            <li>Lab tools: oscilloscopes, DMMs, prototyping</li>
+          </ul>
+          <!-- TECHNICAL GALLERY -->
+          <div class="gallery" aria-label="Technical builds">
+            <figure class="tile">
+              <img src="assets/RasPi.JPG" alt="Raspberry Pi with jumper wires connected" loading="lazy">
+              <figcaption>Raspberry Pi wiring</figcaption>
+            </figure>
 
-      <!-- TECHNICAL GALLERY (keep your existing images/assets if you like) -->
-      <div class="gallery" aria-label="Technical builds">
-        <figure class="tile">
-          <img src="assets/RasPi.JPG" alt="Raspberry Pi with jumper wires connected" loading="lazy">
-          <figcaption>Bench bring-up &amp; wiring</figcaption>
-        </figure>
-        <figure class="tile">
-          <img src="assets/BreadBoard.jpg" alt="Breadboard with LEDs and wiring" loading="lazy">
-          <figcaption>Converter prototyping</figcaption>
-        </figure>
+            <figure class="tile">
+              <img src="assets/BreadBoard.jpg" alt="Breadboard with LEDs and wiring" loading="lazy">
+              <figcaption>LED logic on breadboard</figcaption>
+            </figure>
+          </div>
+
+          
+        </div>
+        <div>
+          <h3>Extracurriculars</h3>
+          <ul>
+            <li>Student officer, Texas A&amp;M Brazilian Jiu-Jitsu</li>
+            <li>State-level IT competition winner</li>
+            <li>Sourdough baking (process, timing, iteration)</li>
+          </ul>
+          <!-- EXTRACURRICULARS GALLERY -->
+          <div class="gallery" aria-label="Sourdough gallery">
+            <figure class="tile">
+              <img src="assets/CrumbShot.jpg" alt="Sourdough crumb shot" loading="lazy">
+              <figcaption>Crumb shot</figcaption>
+            </figure>
+
+            <figure class="tile">
+              <img src="assets/TAMUBJJ.jpg" alt="Texas A&M JiuJitsu takes on UTSA!" loading="lazy">
+              <figcaption>TAMU BJJ Family</figcaption>
+            </figure>
+          </div>
+
+        </div>
       </div>
-    </div>
-
-    <div>
-      <h3>Extracurriculars</h3>
-      <ul>
-        <li>Student officer, Texas A&amp;M Brazilian Jiu-Jitsu (teamwork, resilience under pressure)</li>
-        <li>State-level IT competition winner (structured problem solving, clear communication)</li>
-        <li>Sourdough baking (process control, repeatability, iteration)</li>
-      </ul>
-
-      <!-- EXTRACURRICULARS GALLERY (optional) -->
-      <div class="gallery" aria-label="Sourdough gallery">
-        <figure class="tile">
-          <img src="assets/CrumbShot.jpg" alt="Sourdough crumb shot" loading="lazy">
-          <figcaption>Process &amp; repeatability</figcaption>
-        </figure>
-        <figure class="tile">
-          <img src="assets/TAMUBJJ.jpg" alt="Texas A&M JiuJitsu takes on UTSA!" loading="lazy">
-          <figcaption>Team first</figcaption>
-        </figure>
-      </div>
-    </div>
-  </div>
-</section>
+    </section>
 
     <!-- PROJECTS -->
     <section id="projects" class="wrap section">
