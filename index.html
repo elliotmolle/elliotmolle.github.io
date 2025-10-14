@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Elliot Molle — Electrical Engineer</title>
   <meta name="description" content="Elliot Molle — Electrical Engineer (Texas A&M '27). Computing, networking, cybersecurity.">
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="wrap site-header">
@@ -13,10 +13,10 @@
       <span class="brand-title">Elliot Molle</span>
       <span class="brand-sub">Electrical Engineer</span>
     </a>
-    <nav class="nav">
+    <nav class="nav" aria-label="Primary">
       <a href="#about">About</a>
       <a href="#projects">Projects</a>
-      <a href="assets/ElliotMolleResume.pdf" target="_blank" rel="noopener">Resume</a>
+      <a href="assets/Elliot_Molle_Power_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
     </nav>
   </header>
 
@@ -35,74 +35,72 @@
             <a class="link" href="#about">About Me</a>
           </p>
           <p class="social">
-            <a href="https://www.linkedin.com/in/elliotmolle" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/elliotmolle" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             ·
-            <a href="https://github.com/elliotmolle" target="_blank" rel="noopener">GitHub</a>
+            <a href="https://github.com/elliotmolle" target="_blank" rel="noopener noreferrer">GitHub</a>
           </p>
         </div>
         <!-- Optional: add your own headshot as /assets/headshot.jpg -->
         <div class="hero-media">
-          <img src="assets/ElliotMolleMiner.JPG" alt="Portrait of Elliot Molle">
+          <img src="assets/ElliotMolleMiner.JPG" alt="Portrait of Elliot Molle" loading="lazy">
         </div>
-
       </div>
     </section>
 
     <!-- ABOUT -->
-<section id="about" class="wrap section">
-  <h2>About Me</h2>
-  <p>
-    I’m an Electrical Engineering student at Texas A&amp;M with a passion for designing and testing real hardware. I’ve built projects ranging from a small generator system with rectification and step-down stages, to repurposing an old laptop panel into a fully functioning wall-mounted monitor with an LCD controller. These DIY builds have sharpened my skills in component selection, circuit troubleshooting, and safe lab practice while reinforcing first-principles thinking. My goal is to apply these experiences toward scalable power electronics that connect renewables, storage, and modern loads to the grid.
-  </p>
-  <p>
-    Beyond engineering, I value balance and discipline through extracurriculars. I train Brazilian Jiu-Jitsu with the Texas A&amp;M club, where rolling has taught me resilience, adaptability, and focus. When I’m not on the mats, I’m often in the kitchen baking sourdough — a creative process that mirrors engineering in its cycles of iteration, precision, and growth.
-  </p>
+    <section id="about" class="wrap section">
+      <h2>About Me</h2>
+      <p>
+        I’m an Electrical Engineering student at Texas A&amp;M with a passion for designing and testing real hardware. I’ve built projects ranging from a small generator system with rectification and step-down stages, to repurposing an old laptop panel into a fully functioning wall-mounted monitor with an LCD controller. These DIY builds have sharpened my skills in component selection, circuit troubleshooting, and safe lab practice while reinforcing first-principles thinking. My goal is to apply these experiences toward scalable power electronics that connect renewables, storage, and modern loads to the grid.
+      </p>
+      <p>
+        Beyond engineering, I value balance and discipline through extracurriculars. I train Brazilian Jiu-Jitsu with the Texas A&amp;M club, where rolling has taught me resilience, adaptability, and focus. When I’m not on the mats, I’m often in the kitchen baking sourdough — a creative process that mirrors engineering in its cycles of iteration, precision, and growth.
+      </p>
 
-  <div class="about-grid">
-    <div>
-      <h3>Technical Skills</h3>
-      <ul>
-        <li><strong>Power &amp; Circuits:</strong> Rectifiers, buck/boost converters, inverters; safe lab practice</li>
-        <li><strong>Modeling &amp; Simulation:</strong> LTspice, PLECS basics, MATLAB/Simulink, </li>
-        <li><strong>Hardware &amp; Lab:</strong> Oscilloscopes, DMMs, bench supplies; soldering, prototyping, waveform analysis</li>
-        <li><strong>Embedded &amp; Control:</strong> Python/MATLAB scripting for measurements and automation; microcontroller exposure (Arduino/STM32)</li>
-        <li><strong>Design Workflow:</strong> Schematic capture &amp; PCB layout; structured documentation</li>
-      </ul>
+      <div class="about-grid">
+        <div>
+          <h3>Technical Skills</h3>
+          <ul>
+            <li><strong>Power &amp; Circuits:</strong> Rectifiers, buck/boost converters, inverters; safe lab practice</li>
+            <li><strong>Modeling &amp; Simulation:</strong> LTspice, PLECS basics, MATLAB/Simulink</li>
+            <li><strong>Hardware &amp; Lab:</strong> Oscilloscopes, DMMs, bench supplies; soldering, prototyping, waveform analysis</li>
+            <li><strong>Embedded &amp; Control:</strong> Python/MATLAB scripting for measurements and automation; microcontroller exposure (Arduino/STM32)</li>
+            <li><strong>Design Workflow:</strong> Schematic capture &amp; PCB layout; structured documentation</li>
+          </ul>
 
-      <div class="gallery" aria-label="Technical builds">
-        <figure class="tile">
-          <img src="assets/RasPi.JPG" alt="Raspberry Pi with jumper wires connected" loading="lazy">
-          <figcaption>Bench bring-up &amp; wiring</figcaption>
-        </figure>
-        <figure class="tile">
-          <img src="assets/BreadBoard.jpg" alt="Breadboard with LEDs and wiring" loading="lazy">
-          <figcaption>Converter prototyping</figcaption>
-        </figure>
+          <div class="gallery" aria-label="Technical builds">
+            <figure class="tile">
+              <img src="assets/RasPi.JPG" alt="Raspberry Pi with jumper wires connected" loading="lazy">
+              <figcaption>Raspberry Pi testing</figcaption>
+            </figure>
+            <figure class="tile">
+              <img src="assets/BreadBoard.jpg" alt="Breadboard with LEDs and wiring" loading="lazy">
+              <figcaption>First ripple-carry adder</figcaption>
+            </figure>
+          </div>
+        </div>
+
+        <div>
+          <h3>Extracurriculars</h3>
+          <ul>
+            <li>Student officer, Texas A&amp;M Brazilian Jiu-Jitsu (teamwork, resilience under pressure)</li>
+            <li>State-level IT competition winner (structured problem solving, clear communication)</li>
+            <li>Sourdough baking (process control, iteration, repeatability)</li>
+          </ul>
+
+          <div class="gallery" aria-label="Sourdough gallery">
+            <figure class="tile">
+              <img src="assets/CrumbShot.jpg" alt="Sourdough crumb shot" loading="lazy">
+              <figcaption>Process &amp; repeatability</figcaption>
+            </figure>
+            <figure class="tile">
+              <img src="assets/TAMUBJJ.jpg" alt="Texas A&amp;M Jiu-Jitsu team at UTSA event" loading="lazy">
+              <figcaption>Team first</figcaption>
+            </figure>
+          </div>
+        </div>
       </div>
-    </div>
-
-    <div>
-      <h3>Extracurriculars</h3>
-      <ul>
-        <li>Student officer, Texas A&amp;M Brazilian Jiu-Jitsu (teamwork, resilience under pressure)</li>
-        <li>State-level IT competition winner (structured problem solving, clear communication)</li>
-        <li>Sourdough baking (process control, iteration, repeatability)</li>
-      </ul>
-
-      <div class="gallery" aria-label="Sourdough gallery">
-        <figure class="tile">
-          <img src="assets/CrumbShot.jpg" alt="Sourdough crumb shot" loading="lazy">
-          <figcaption>Process &amp; repeatability</figcaption>
-        </figure>
-        <figure class="tile">
-          <img src="assets/TAMUBJJ.jpg" alt="Texas A&amp;M JiuJitsu takes on UTSA!" loading="lazy">
-          <figcaption>Team first</figcaption>
-        </figure>
-      </div>
-    </div>
-  </div>
-</section>
-
+    </section>
 
     <!-- PROJECTS -->
     <section id="projects" class="wrap section">
@@ -112,35 +110,38 @@
       <div class="cards">
         <article class="card">
           <div class="card-num">01</div>
-          <h3>Analogies Paper</h3>
-          <p>Comparing USB-C’s dominance to a multilane highway and a multilingual airport gate agent.</p>
-          <p class="meta">Coursework: COMM 205 — Summer 2025</p>
-          <!-- Optional: link to a PDF you upload -->
-          <!-- <p><a class="link" href="docs/analogies-paper.pdf" target="_blank" rel="noopener">Read PDF</a></p> -->
+          <h3>Custom PCB work using KiCad (Current Project)</h3>
+          <p>Designing a simple custom PCB to drive an LED heart as a family Christmas gift.</p>
+          <p class="meta">October 2025 – Present</p>
+          <p>KiCad, schematic/PCB layout, component selection, iterative prototyping</p>
+          <!-- <p><a class="link" href="docs/analogies-paper.pdf" target="_blank" rel="noopener noreferrer">Read PDF</a></p> -->
         </article>
 
         <article class="card">
           <div class="card-num">02</div>
-          <h3>FAQ Paper — NAT &amp; IPv6</h3>
-          <p>FAQ explaining NAT and IPv6 as solutions to IPv4 address exhaustion.</p>
-          <p class="meta">Coursework: COMM 205 — Summer 2025</p>
-          <!-- <p><a class="link" href="docs/faq-nat-ipv6.pdf" target="_blank" rel="noopener">Read PDF</a></p> -->
+          <h3>Micro-Scale Brushless Motor Energy Generation System</h3>
+          <p>Built a self-contained portable generator for phone charging with multi-stage power regulation.</p>
+          <p class="meta">May 2025 – June 2025</p>
+          <p>Rectifier, battery storage, buck converter, USB-C breakout; LTspice validation; soldered prototype → permanent build</p>
+          <!-- <p><a class="link" href="docs/faq-nat-ipv6.pdf" target="_blank" rel="noopener noreferrer">Build Notes (PDF)</a></p> -->
         </article>
 
         <article class="card">
           <div class="card-num">03</div>
-          <h3>Podcast Segment</h3>
-          <p>Short segment exploring how NAT and IPv6 can solve IPv4 address exhaustion.</p>
-          <p class="meta">Coursework: COMM 205 — Summer 2025</p>
-          <!-- <p><audio controls src="media/podcast.mp3"></audio></p> -->
+          <h3>Salvaged Component Integration &amp; Custom CAD Enclosure</h3>
+          <p>Repurposed Lenovo ThinkPad parts into a standalone monitor and USB webcam with a custom 3D-printed case.</p>
+          <p class="meta">July 2024</p>
+          <p>LCD controller retrofit, USB webcam wiring adaptation, SketchUp case design, mounting &amp; enclosure work</p>
+          <!-- <p><a class="link" href="docs/salvage-monitor-build.pdf" target="_blank" rel="noopener noreferrer">Build Log (PDF)</a></p> -->
         </article>
 
         <article class="card">
           <div class="card-num">04</div>
-          <h3>Slidesets</h3>
-          <p>Slide decks on Wi-Fi adoption, why USB-C wins, NAT vs. IPv6, and Starlink for rural/low-income access.</p>
-          <p class="meta">Coursework: COMM 205 — Summer 2025</p>
-          <!-- <p><a class="link" href="docs/slides.zip">Download slides</a></p> -->
+          <h3>Raspberry Pi LED Board</h3>
+          <p>Programmed GPIO control for responsive LED patterns with PWM dimming and timed sequences.</p>
+          <p class="meta">January 2024</p>
+          <p>Python (GPIO), PWM effects, state-based pattern engine, performance testing across operating states</p>
+          <!-- <p><a class="link" href="docs/pi-led-board-notes.pdf" target="_blank" rel="noopener noreferrer">Project Notes (PDF)</a></p> -->
         </article>
       </div>
     </section>
@@ -148,7 +149,7 @@
 
   <footer class="wrap site-footer">
     <p>© <span id="y"></span> Elliot Molle</p>
-    <p>Email: <a href="mailto:ecmolle@tamu.edu">ecmolle@tamu.edu</a></p>
+    <p>Email: <a href="mailto:ecmolle@gmail.com">ecmolle@gmail.com</a></p>
   </footer>
 
   <script>
