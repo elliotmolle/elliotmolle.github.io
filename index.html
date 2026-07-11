@@ -1,10 +1,18 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Google tag (gtag.js) – GA4 -->
+  <!-- SEO -->
+  <title>Elliot Molle — Electrical Engineer</title>
+  <meta name="description" content="Elliot Molle is an Electrical Engineering student at Texas A&M '27 specializing in power electronics, embedded systems, and hardware design.">
+  <meta name="keywords" content="Elliot Molle, Electrical Engineer, Texas A&M, Power Electronics, PCB Design, Embedded Systems">
+  <meta property="og:title" content="Elliot Molle — Electrical Engineer">
+  <meta property="og:description" content="Power electronics, embedded systems, and hands-on hardware design.">
+  <meta property="og:type" content="website">
+
+  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-EQ4NM2MHHC"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -13,174 +21,394 @@
     gtag('config', 'G-EQ4NM2MHHC');
   </script>
 
-  <title>Elliot Molle — Electrical Engineer</title>
-  <meta name="description" content="Elliot Molle — Electrical Engineer (Texas A&M '27). Computing, networking, cybersecurity.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="wrap site-header">
-    <a class="brand" href="#top">
-      <span class="brand-title">Elliot Molle</span>
-      <span class="brand-sub">Electrical Engineer</span>
-    </a>
-    <nav class="nav" aria-label="Primary">
-      <a href="#about">About</a>
-      <a href="#projects">Projects</a>
-      <a href="assets/Elliot_Molle_Power_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
-    </nav>
+
+  <!-- Background blobs -->
+  <div class="blob blob-1" aria-hidden="true"></div>
+  <div class="blob blob-2" aria-hidden="true"></div>
+
+  <!-- ===== HEADER ===== -->
+  <header class="site-header" id="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="#top" aria-label="Elliot Molle — Home">
+        <span class="brand-title">Elliot Molle</span>
+        <span class="brand-sub">Electrical Engineer</span>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="assets/Elliot_Molle_Power_Resume.pdf" target="_blank" rel="noopener noreferrer" class="nav-resume">Resume</a>
+        <button class="theme-btn" id="theme-btn" aria-label="Toggle color theme" title="Toggle light/dark">
+          <span id="theme-icon">☀️</span>
+        </button>
+      </nav>
+    </div>
   </header>
 
+  <!-- ===== HERO ===== -->
   <main id="top">
-    <!-- HERO -->
-    <section class="hero">
+    <section class="hero" aria-labelledby="hero-title">
       <div class="wrap hero-inner">
+
+        <!-- Text side -->
         <div class="hero-text">
-          <h1 class="hero-title">Howdy — I’m Elliot.</h1>
-          <p class="hero-tag">Electrical Engineer · Katy, TX · Texas A&amp;M University ’27</p>
+          <div class="hero-eyebrow">
+            <span class="dot"></span>
+            MISO · Generation Interconnection Engineer
+          </div>
+          <h1 class="hero-title" id="hero-title">
+            I'm Elliot Molle.
+          </h1>
+          <p class="hero-tag">
+            <span id="typed-text"></span>
+          </p>
           <p class="hero-blurb">
-            I’m an Electrical Engineering student passionate about building scalable, efficient power electronics for the modern grid. From converters and inverters to hands-on bench work, I thrive at the intersection of first-principles design, simulation, and real hardware validation. I enjoy modeling topologies in MATLAB/Simulink or LTspice, then bringing them to life with scopes, probes, and careful troubleshooting. My goal is to help accelerate the electrification of everything by designing converters that reliably connect renewables, storage, and loads to the grid.
+            Generation Interconnection Engineer at MISO, working at the frontier of bulk power system planning. I study how new generation resources — renewables, storage, and conventional — connect reliably and safely to the grid. My background spans power electronics hardware, simulation, and now large-scale power flow and interconnection analysis.
           </p>
-          <p class="hero-cta">
-            <a class="btn" href="#projects">See Projects</a>
-            <a class="link" href="#about">About Me</a>
-          </p>
-          <p class="social">
-            <a href="https://www.linkedin.com/in/elliotmolle" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            ·
-            <a href="https://github.com/elliotmolle" target="_blank" rel="noopener noreferrer">GitHub</a>
-          </p>
+          <div class="hero-cta">
+            <a class="btn" href="#projects" id="hero-projects-btn">See Projects →</a>
+            <a class="btn btn-ghost" href="#about" id="hero-about-btn">About Me</a>
+          </div>
+          <div class="social-links">
+            <a class="social-link" href="https://www.linkedin.com/in/elliotmolle" target="_blank" rel="noopener noreferrer" id="linkedin-link">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+              LinkedIn
+            </a>
+            <a class="social-link" href="https://github.com/elliotmolle" target="_blank" rel="noopener noreferrer" id="github-link">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+              GitHub
+            </a>
+            <a class="social-link" href="mailto:ecmolle@gmail.com" id="email-link">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+              Email
+            </a>
+          </div>
         </div>
-        <!-- Optional: add your own headshot as /assets/headshot.jpg -->
+
+        <!-- Image side -->
         <div class="hero-media">
-          <img src="assets/ElliotMolleMiner.JPG" alt="Portrait of Elliot Molle" loading="lazy">
+          <div class="hero-img-wrap">
+            <img src="assets/ElliotMolleMiner.JPG" alt="Portrait of Elliot Molle" loading="eager">
+          </div>
+          <div class="hero-badge" aria-label="Texas A&M 2027">
+            <span class="badge-num">A&amp;M</span>
+            <span class="badge-label">Class of '27</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Scroll cue -->
+      <div class="scroll-indicator" aria-hidden="true">
+        <span>Scroll</span>
+        <div class="arrow"></div>
+      </div>
+    </section>
+
+    <hr class="divider">
+
+    <!-- ===== ABOUT ===== -->
+    <section id="about" class="section" aria-labelledby="about-title">
+      <div class="wrap">
+        <div class="section-header reveal">
+          <p class="section-eyebrow">About Me</p>
+          <h2 class="section-title" id="about-title">Power systems engineer.<br>Hardware builder at heart.</h2>
+          <p class="section-sub">
+            Generation Interconnection Engineer at MISO and EE student at Texas A&amp;M '27. My work spans bulk power system planning and interconnection studies for new generation resources connecting to the grid — grounded in a hands-on hardware background that goes from LTspice simulations all the way to finished bench prototypes.
+          </p>
+        </div>
+
+        <div class="about-grid">
+          <!-- Technical skills card -->
+          <div class="about-card reveal reveal-left">
+            <h3>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+              Technical Skills
+            </h3>
+            <ul>
+              <li><strong>Power Systems &amp; Interconnection:</strong> Generation interconnection studies at MISO, large load interconnection, power flow analysis, grid integration of renewables &amp; storage using PSSE, TARA, psspy, and Dataverse</li>
+              <li><strong>Simulation:</strong> LTspice, PLECS, MATLAB/Simulink; power flow &amp; stability analysis</li>
+              <li><strong>Lab Tools:</strong> Oscilloscopes, DMMs, bench supplies; soldering &amp; prototyping</li>
+              <li><strong>Embedded &amp; Control:</strong> Python/MATLAB for measurements; Arduino/STM32 exposure</li>
+              <li><strong>Design:</strong> KiCad schematic &amp; PCB layout; SketchUp / 3D printing</li>
+            </ul>
+            <div class="tag-row">
+              <span class="tag">Power Systems</span>
+              <span class="tag">Large Load Interconnection</span>
+              <span class="tag">PSSE</span>
+              <span class="tag">TARA</span>
+              <span class="tag">Dataverse</span>
+              <span class="tag">psspy</span>
+              <span class="tag">LTspice</span>
+              <span class="tag">MATLAB/Simulink</span>
+              <span class="tag">KiCad</span>
+              <span class="tag">Python</span>
+            </div>
+            <div class="about-gallery">
+              <figure>
+                <img src="assets/RasPi.JPG" alt="Raspberry Pi with jumper wires" loading="lazy">
+                <figcaption>Raspberry Pi testing</figcaption>
+              </figure>
+              <figure>
+                <img src="assets/BreadBoard.jpg" alt="Breadboard circuit" loading="lazy">
+                <figcaption>First ripple-carry adder</figcaption>
+              </figure>
+            </div>
+          </div>
+
+          <!-- Extracurriculars card -->
+          <div class="about-card reveal reveal-right">
+            <h3>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+              Beyond Engineering
+            </h3>
+            <ul>
+              <li><strong>BJJ Student Officer</strong> at Texas A&amp;M — composure, adaptability, team-first mindset</li>
+              <li><strong>State-level IT competition winner</strong> — structured problem solving &amp; clear communication</li>
+              <li><strong>Sourdough baker</strong> — process control, iteration, repeatability</li>
+            </ul>
+            <div class="about-gallery">
+              <figure>
+                <img src="assets/CrumbShot.jpg" alt="Sourdough crumb shot" loading="lazy">
+                <figcaption>Process &amp; repeatability</figcaption>
+              </figure>
+              <figure>
+                <img src="assets/TAMUBJJ.jpg" alt="Texas A&M BJJ team" loading="lazy">
+                <figcaption>Team first</figcaption>
+              </figure>
+            </div>
+          </div>
         </div>
       </div>
     </section>
 
-    <!-- ABOUT -->
-    <section id="about" class="wrap section">
-      <h2>About Me</h2>
-      <p>
-        I’m an Electrical Engineering student at Texas A&amp;M with a passion for designing and testing real hardware. I’ve built projects ranging from a small generator system with rectification and step-down stages, to repurposing an old laptop panel into a fully functioning wall-mounted monitor with an LCD controller. These DIY builds have sharpened my skills in component selection, circuit troubleshooting, and safe lab practice while reinforcing first-principles thinking. My goal is to apply these experiences toward scalable power electronics that connect renewables, storage, and modern loads to the grid.
-      </p>
-      <p>
-        Beyond engineering, I value balance and discipline through extracurriculars. I train Brazilian Jiu-Jitsu with the Texas A&amp;M club, where rolling has taught me resilience, adaptability, and focus. When I’m not on the mats, I’m often in the kitchen baking sourdough — a creative process that mirrors engineering in its cycles of iteration, precision, and growth.
-      </p>
+    <hr class="divider">
 
-      <div class="about-grid">
-        <div>
-          <h3>Technical Skills</h3>
-          <ul>
-            <li><strong>Power &amp; Circuits:</strong> Rectifiers, buck/boost converters, inverters; safe lab practice</li>
-            <li><strong>Modeling &amp; Simulation:</strong> LTspice, PLECS basics, MATLAB/Simulink</li>
-            <li><strong>Hardware &amp; Lab:</strong> Oscilloscopes, DMMs, bench supplies; soldering, prototyping, waveform analysis</li>
-            <li><strong>Embedded &amp; Control:</strong> Python/MATLAB scripting for measurements and automation; microcontroller exposure (Arduino/STM32)</li>
-            <li><strong>Design Workflow:</strong> Schematic capture &amp; PCB layout; structured documentation</li>
-          </ul>
-
-          <div class="gallery" aria-label="Technical builds">
-            <figure class="tile">
-              <img src="assets/RasPi.JPG" alt="Raspberry Pi with jumper wires connected" loading="lazy">
-              <figcaption>Raspberry Pi testing</figcaption>
-            </figure>
-            <figure class="tile">
-              <img src="assets/BreadBoard.jpg" alt="Breadboard with LEDs and wiring" loading="lazy">
-              <figcaption>First ripple-carry adder</figcaption>
-            </figure>
-          </div>
+    <!-- ===== PROJECTS ===== -->
+    <section id="projects" class="section" aria-labelledby="projects-title">
+      <div class="wrap">
+        <div class="section-header reveal">
+          <p class="section-eyebrow">Projects</p>
+          <h2 class="section-title" id="projects-title">Hardware builds in power electronics,<br>embedded systems &amp; grid-adjacent design.</h2>
+          <p class="section-sub">The hands-on projects that built the foundation. Click any card to view full details and gallery.</p>
         </div>
 
-        <div>
-          <h3>Extracurriculars</h3>
-          <ul>
-            <li>Student officer, Texas A&amp;M Brazilian Jiu-Jitsu (teamwork, resilience under pressure)</li>
-            <li>State-level IT competition winner (structured problem solving, clear communication)</li>
-            <li>Sourdough baking (process control, iteration, repeatability)</li>
-          </ul>
-
-          <div class="gallery" aria-label="Sourdough gallery">
-            <figure class="tile">
-              <img src="assets/CrumbShot.jpg" alt="Sourdough crumb shot" loading="lazy">
-              <figcaption>Process &amp; repeatability</figcaption>
-            </figure>
-            <figure class="tile">
-              <img src="assets/TAMUBJJ.jpg" alt="Texas A&amp;M Jiu-Jitsu team at UTSA event" loading="lazy">
-              <figcaption>Team first</figcaption>
-            </figure>
-          </div>
+        <!-- Project cards injected by JS -->
+        <div class="projects-grid" id="projects-grid" role="list">
+          <!-- Cards rendered by projects.js -->
         </div>
-      </div>
-    </section>
-
-    <!-- PROJECTS -->
-    <section id="projects" class="wrap section">
-      <h2>Projects</h2>
-      <p class="muted">A few of my hands-on builds in power electronics, embedded systems, and design.</p>
-
-      <div class="cards">
-        <article class="card">
-          <div class="card-num">01</div>
-          <h3>Custom PCB Work using KiCad (Current Project)</h3>
-          <p>Designing a simple custom PCB to drive an LED heart as a family Christmas gift.</p>
-          <p class="meta">October 2025 – Present</p>
-          <p>KiCad schematic capture, PCB layout, component selection, iterative prototyping</p>
-          <p>
-            <a class="btn" href="https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing" 
-               target="_blank" rel="noopener noreferrer">View Gallery</a>
-          </p>
-        </article>
-
-        <article class="card">
-          <div class="card-num">02</div>
-          <h3>Micro-Scale Brushless Motor Energy Generation System</h3>
-          <p>Built a self-contained portable generator for phone charging with multi-stage power regulation.</p>
-          <p class="meta">May 2025 – June 2025</p>
-          <p>Rectifier, battery storage, buck converter, USB-C breakout; LTspice validation; soldered prototype → permanent build</p>
-          <p>
-            <a class="btn" href="https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing" 
-               target="_blank" rel="noopener noreferrer">View Gallery</a>
-          </p>
-        </article>
-
-        <article class="card">
-          <div class="card-num">03</div>
-          <h3>Salvaged Component Integration &amp; Custom CAD Enclosure</h3>
-          <p>Repurposed Lenovo ThinkPad parts into a standalone monitor and USB webcam with a custom 3D-printed enclosure.</p>
-          <p class="meta">July 2024</p>
-          <p>LCD controller retrofit, USB webcam wiring adaptation, SketchUp case design, mounting &amp; enclosure work</p>
-          <p>
-            <a class="btn" href="https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing" 
-               target="_blank" rel="noopener noreferrer">View Gallery</a>
-          </p>
-        </article>
-
-        <article class="card">
-          <div class="card-num">04</div>
-          <h3>Raspberry Pi LED Board</h3>
-          <p>Programmed GPIO control for responsive LED patterns with PWM dimming and timed sequences.</p>
-          <p class="meta">January 2024</p>
-          <p>Python (GPIO), PWM effects, state-based pattern engine, performance testing across operating states</p>
-          <p>
-            <a class="btn" href="https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing" 
-               target="_blank" rel="noopener noreferrer">View Gallery</a>
-          </p>
-        </article>
-      </div>
-
-      <div class="gallery-cta" style="text-align:center; margin-top:2rem;">
-        <a class="btn" href="https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing" 
-           target="_blank" rel="noopener noreferrer">View Full Project Gallery</a>
       </div>
     </section>
   </main>
 
-  <footer class="wrap site-footer">
-    <p>© <span id="y"></span> Elliot Molle</p>
-    <p>Email: <a href="mailto:ecmolle@gmail.com">ecmolle@gmail.com</a></p>
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <p>© <span id="year"></span> Elliot Molle · Electrical Engineer</p>
+      <nav class="footer-links" aria-label="Footer navigation">
+        <a href="mailto:ecmolle@gmail.com" id="footer-email">ecmolle@gmail.com</a>
+        <a href="https://www.linkedin.com/in/elliotmolle" target="_blank" rel="noopener noreferrer" id="footer-linkedin">LinkedIn</a>
+        <a href="https://github.com/elliotmolle" target="_blank" rel="noopener noreferrer" id="footer-github">GitHub</a>
+      </nav>
+    </div>
   </footer>
 
+  <!-- ===== PROJECT MODAL ===== -->
+  <div class="modal-backdrop" id="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="modal-title" aria-hidden="true">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modal-close" aria-label="Close project details">✕</button>
+      <div class="modal-gallery" id="modal-gallery">
+        <img id="modal-img" src="" alt="">
+        <div class="gallery-caption" id="modal-caption"></div>
+        <div class="gallery-nav" id="gallery-nav">
+          <button class="gallery-btn" id="gallery-prev" aria-label="Previous image">‹</button>
+          <button class="gallery-btn" id="gallery-next" aria-label="Next image">›</button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="modal-eyebrow">
+          <span class="card-id" id="modal-id"></span>
+          <span class="card-status" id="modal-status"></span>
+        </div>
+        <h2 class="modal-title" id="modal-title"></h2>
+        <p class="modal-date" id="modal-date"></p>
+        <p class="modal-description" id="modal-description"></p>
+        <div class="modal-tags" id="modal-tags"></div>
+        <div class="modal-actions">
+          <a class="btn" id="modal-drive-link" href="#" target="_blank" rel="noopener noreferrer">View Full Gallery →</a>
+          <a class="btn btn-ghost" href="#projects" id="modal-back-btn">← Back to Projects</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Data -->
+  <script src="projects.js"></script>
+
+  <!-- App logic -->
   <script>
-    document.getElementById('y').textContent = new Date().getFullYear();
+    // =================== YEAR ===================
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // =================== TYPED EFFECT ===================
+    const phrases = [
+      'Generation Interconnection Engineer',
+      'Power Systems Engineer',
+      'Power Electronics Designer',
+      'Hardware Builder',
+    ];
+    let pi = 0, ci = 0, deleting = false;
+    const typed = document.getElementById('typed-text');
+    function type() {
+      const phrase = phrases[pi];
+      if (!deleting) {
+        typed.textContent = phrase.slice(0, ci + 1);
+        ci++;
+        if (ci === phrase.length) { deleting = true; setTimeout(type, 1800); return; }
+      } else {
+        typed.textContent = phrase.slice(0, ci - 1);
+        ci--;
+        if (ci === 0) { deleting = false; pi = (pi + 1) % phrases.length; }
+      }
+      setTimeout(type, deleting ? 60 : 100);
+    }
+    setTimeout(type, 600);
+
+    // =================== THEME TOGGLE ===================
+    const html = document.documentElement;
+    const themeBtn = document.getElementById('theme-btn');
+    const themeIcon = document.getElementById('theme-icon');
+    function setTheme(t) {
+      html.setAttribute('data-theme', t);
+      themeIcon.textContent = t === 'dark' ? '☀️' : '🌙';
+      localStorage.setItem('theme', t);
+    }
+    themeBtn.addEventListener('click', () => setTheme(html.dataset.theme === 'dark' ? 'light' : 'dark'));
+    const saved = localStorage.getItem('theme');
+    if (saved) setTheme(saved);
+
+    // =================== SCROLLED HEADER ===================
+    const header = document.getElementById('site-header');
+    window.addEventListener('scroll', () => {
+      header.classList.toggle('scrolled', window.scrollY > 20);
+    }, { passive: true });
+
+    // =================== SCROLL REVEAL ===================
+    const revealObserver = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if (e.isIntersecting) {
+          e.target.classList.add('visible');
+          revealObserver.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.12 });
+
+    // We'll call this after cards are injected
+    function observeReveals() {
+      document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
+    }
+
+    // =================== RENDER PROJECT CARDS ===================
+    const grid = document.getElementById('projects-grid');
+    projects.forEach((p, i) => {
+      const hasImg = p.images && p.images.length > 0;
+      const stagger = `stagger-${(i % 4) + 1}`;
+      const statusClass = p.subtitle === 'Active Project' ? 'active' : 'done';
+      const tagsHTML = p.tags.slice(0, 3).map(t => `<span class="card-tag">${t}</span>`).join('');
+      const card = document.createElement('article');
+      card.className = `project-card reveal ${stagger}`;
+      card.setAttribute('role', 'listitem');
+      card.setAttribute('tabindex', '0');
+      card.setAttribute('aria-label', `Project: ${p.title}`);
+      card.innerHTML = `
+        ${hasImg ? `
+        <div class="card-img">
+          <img src="${p.images[0].url}" alt="${p.title}" loading="lazy">
+          <div class="card-img-overlay"></div>
+        </div>` : `
+        <div class="card-img card-img-placeholder">
+          <span class="card-placeholder-id">${p.id}</span>
+        </div>`}
+        <div class="card-body">
+          <div class="card-header">
+            <span class="card-id">${p.id}</span>
+            <span class="card-status ${statusClass}">${p.subtitle}</span>
+          </div>
+          <h3 class="card-title">${p.title}</h3>
+          <p class="card-meta">${p.date}</p>
+          <p class="card-summary">${p.summary}</p>
+          <div class="card-tags">${tagsHTML}</div>
+          <span class="card-arrow" aria-hidden="true">View Details →</span>
+        </div>
+      `;
+      card.addEventListener('click', () => openModal(p));
+      card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') openModal(p); });
+      grid.appendChild(card);
+    });
+
+    observeReveals();
+
+    // =================== MODAL ===================
+    const backdrop = document.getElementById('modal-backdrop');
+    const modalClose = document.getElementById('modal-close');
+    const modalBackBtn = document.getElementById('modal-back-btn');
+    let currentImages = [], currentImgIdx = 0;
+
+    function openModal(p) {
+      const hasImg = p.images && p.images.length > 0;
+      currentImages = p.images || [];
+      currentImgIdx = 0;
+      const modalGallery = document.getElementById('modal-gallery');
+      if (hasImg) {
+        modalGallery.style.display = '';
+        renderModalImage();
+      } else {
+        modalGallery.style.display = 'none';
+      }
+      document.getElementById('modal-id').textContent = p.id;
+      const status = document.getElementById('modal-status');
+      status.textContent = p.subtitle;
+      status.className = 'card-status ' + (p.subtitle === 'Active Project' ? 'active' : 'done');
+      document.getElementById('modal-title').textContent = p.title;
+      document.getElementById('modal-date').textContent = p.date;
+      document.getElementById('modal-description').textContent = p.description;
+      document.getElementById('modal-tags').innerHTML = p.tags.map(t => `<span class="tag">${t}</span>`).join('');
+      document.getElementById('modal-drive-link').href = p.driveLink;
+      // Show/hide nav buttons
+      document.getElementById('gallery-nav').style.display = currentImages.length > 1 ? 'flex' : 'none';
+      backdrop.classList.add('open');
+      backdrop.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+      modalClose.focus();
+    }
+
+    function closeModal() {
+      backdrop.classList.remove('open');
+      backdrop.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+    }
+
+    function renderModalImage() {
+      const img = currentImages[currentImgIdx];
+      document.getElementById('modal-img').src = img.url;
+      document.getElementById('modal-img').alt = img.caption;
+      document.getElementById('modal-caption').textContent = img.caption;
+    }
+
+    document.getElementById('gallery-prev').addEventListener('click', () => {
+      currentImgIdx = (currentImgIdx - 1 + currentImages.length) % currentImages.length;
+      renderModalImage();
+    });
+    document.getElementById('gallery-next').addEventListener('click', () => {
+      currentImgIdx = (currentImgIdx + 1) % currentImages.length;
+      renderModalImage();
+    });
+
+    modalClose.addEventListener('click', closeModal);
+    modalBackBtn.addEventListener('click', closeModal);
+    backdrop.addEventListener('click', e => { if (e.target === backdrop) closeModal(); });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
   </script>
 </body>
 </html>
