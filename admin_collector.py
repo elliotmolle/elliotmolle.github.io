@@ -225,7 +225,7 @@ DEFAULT_CONTRACT_DATA: dict[str, Any] = {
     ],
 }
 
-ALLOWED_TOPICS = {"Energy", "Gaming", "Music Production", "Computer Science", "Mathematics"}
+ALLOWED_TOPICS = {"Energy", "Gaming", "Music Production", "Computer Science", "Mathematics", "Jiu-Jitsu", "UFC", "Rocket League"}
 BLOCKED_TOPICS = {"Admin", "Personal"}
 ALLOWED_FORMATS = {"rss", "rdf", "atom", "json"}
 TRACKING_PARAM_PREFIXES = ("utm_",)

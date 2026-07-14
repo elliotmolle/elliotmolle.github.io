@@ -113,6 +113,48 @@
       "ticker_hints": [],
       "entity_hints": [],
       "purpose": "Deep dives into clean energy technology and policy."
+    },
+    {
+      "id": "bjj-eastern-europe",
+      "name": "BJJ Eastern Europe",
+      "url": "https://bjjee.com/feed/",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Jiu-Jitsu",
+      "category": "News",
+      "sourceTier": "primary",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "News and updates about Brazilian Jiu-Jitsu."
+    },
+    {
+      "id": "mma-junkie",
+      "name": "MMA Junkie",
+      "url": "https://mmajunkie.usatoday.com/feed",
+      "format": "rss",
+      "enabled": true,
+      "topic": "UFC",
+      "category": "News",
+      "sourceTier": "primary",
+      "isPrimarySource": true,
+      "ticker_hints": [],
+      "entity_hints": ["UFC", "MMA"],
+      "purpose": "Latest news and updates for UFC and mixed martial arts."
+    },
+    {
+      "id": "rocket-league-esports",
+      "name": "r/RocketLeagueEsports",
+      "url": "https://www.reddit.com/r/RocketLeagueEsports/.rss",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Rocket League",
+      "category": "Esports",
+      "sourceTier": "primary",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": ["RLCS"],
+      "purpose": "Community news and tournament updates for Rocket League Esports."
     }
   ]
 }
