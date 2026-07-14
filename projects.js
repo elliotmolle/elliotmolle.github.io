@@ -17,6 +17,17 @@
 
 const projects = [
   {
+    id: "00",
+    title: "Nexus Dashboard",
+    subtitle: "Active Project",
+    date: "July 2026 – Present",
+    tags: ["React", "Vite", "Data Aggregation", "UI/UX"],
+    summary: "A private, automated intelligence dashboard tracking energy markets, tech, math, gaming, and music production news.",
+    description: "Built a holistic web dashboard to aggregate news from custom RSS and data feeds. A backend Python collector curates articles across various topics (Energy, Tech, Math, Gaming, Music), saving them to a JSON payload. The frontend is a highly responsive Vite/React application featuring dark mode, category filtering, and micro-animations. It implements a simple authentication layer to restrict personal intelligence tabs, keeping public access scoped to Energy news. It serves as a unified command center for personal and professional interests.",
+    driveLink: "nexus/index.html",
+    images: []
+  },
+  {
     id: "01",
     title: "Custom PCB Design using KiCad",
     subtitle: "Active Project",
