@@ -1,57 +1,57 @@
 [
   {
-    "title": "Assassin's Creed Black Flag Resynced bug is sinking ships in hilarious fashion",
-    "summary": "Assassin's Creed Black Flag Resynced players are encountering a hysterical bug that leaves their crew underwater.",
+    "title": "All tower boss locations and best tower bosses order in Palworld",
+    "summary": "Palworld has eight tower bosses around the map. Our guide lists where to find each tower boss and what to expect from them.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-water-glitch/",
-    "timestamp": "2026-07-14T18:30:17Z",
+    "url": "https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order/",
+    "timestamp": "2026-07-14T19:02:25Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/assassins-creed-black-flag-resynced-water-glitch/"
+      "https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-14T18:30:17Z",
-    "id": "energy-0a0e230ef108a71d"
+    "data_as_of": "2026-07-14T19:02:25Z",
+    "id": "energy-6d047d8bd28104f3"
   },
   {
-    "title": "PlayStation FlexStrike will no longer launch alongside Marvel Tokon",
-    "summary": "PlayStation indefinitely delayed the FlexStrike fight stick controller, which was supposed to launch alongside Marvel Tokon: Fighting Souls in August",
+    "title": "The Incident at Galley House review: 2026's best murder mystery game",
+    "summary": "The Incident at Galley House turns a creepy text adventure game into a full-blown murder mystery that will stick in your brain.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/playstation-flexstrike-controller-delay/",
-    "timestamp": "2026-07-14T18:09:05Z",
+    "url": "https://www.polygon.com/incident-at-galley-house-review/",
+    "timestamp": "2026-07-14T19:00:17Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/playstation-flexstrike-controller-delay/"
+      "https://www.polygon.com/incident-at-galley-house-review/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-14T18:09:05Z",
-    "id": "energy-cdeca7dab605f174"
+    "data_as_of": "2026-07-14T19:00:17Z",
+    "id": "energy-61844ab5ceb2f809"
   },
   {
-    "title": "Where to find Solenne in Palworld",
-    "summary": "If you want the best Handiwork Pal in the game, you'll want a Solenne. We explain where to find it in the wild and how to breed it in our guide.",
+    "title": "MTG Star Trek set release date, Commander decks, mechanics, chase cards, and more",
+    "summary": "Here's everything we know about the upcoming Star Trek set in Magic: The Gathering, from chase cards and products to key mechanics.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/palworld-solenne-where-to-find-breed/",
-    "timestamp": "2026-07-14T18:07:32Z",
+    "url": "https://www.polygon.com/mtg-magic-star-trek-set-release-date/",
+    "timestamp": "2026-07-14T19:00:17Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/palworld-solenne-where-to-find-breed/"
+      "https://www.polygon.com/mtg-magic-star-trek-set-release-date/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-14T18:07:32Z",
-    "id": "energy-410b23ccd220c36e"
+    "data_as_of": "2026-07-14T19:00:17Z",
+    "id": "energy-61ba201ab938879a"
   },
   {
     "title": "Games Industry Veterans Say Console Makers Have To Innovate To Survive: ‘We Should Be Afraid Of The Thousand-Dollar Console’",
@@ -214,6 +214,69 @@
     "primary_source": false,
     "data_as_of": "2026-07-14T15:56:17Z",
     "id": "energy-3e08c03bd793b409"
+  },
+  {
+    "title": "MISO, PJM Wholesale Power Prices Climb As Heat Wave Impacts Midwest, Northeast",
+    "summary": "By Ronnie Turner • MISO Indiana, PJM West on-peak power hit triple digits • Both markets’ temperatures forecast at 5 F above normal Wholesale power prices in the Midcontinent Independent System Operator and PJM Interconnection markets surged into triple digits on July 13 as a heat wave settled over parts of the US Upper Midwest […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/miso-pjm-wholesale-power-prices-climb-as-heat-wave-impacts-midwest-northeast/",
+    "timestamp": "2026-07-14T14:41:30Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/miso-pjm-wholesale-power-prices-climb-as-heat-wave-impacts-midwest-northeast/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-14T14:41:30Z",
+    "id": "energy-079e610db09639a1"
+  },
+  {
+    "title": "Commonwealth Edison Energizes Transmission Upgrades To Enable Wind Additions To PJM Mix",
+    "summary": "By Markham Watson • PJM wind share rises to 4.4% through July • Two wind farms set for 2026-27 operation Commonwealth Edison has energized two 345-kV transmission substations, enabling the interconnection of up to 550 megawatts of wind capacity and continuing to facilitate wind’s role in the PJM Interconnection and Midcontinent Independent System Operator generation […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/commonwealth-edison-energizes-transmission-upgrades-to-enable-wind-additions-to-pjm-mix/",
+    "timestamp": "2026-07-14T14:40:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/commonwealth-edison-energizes-transmission-upgrades-to-enable-wind-additions-to-pjm-mix/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-14T14:40:44Z",
+    "id": "energy-4eb7753711979164"
+  },
+  {
+    "title": "New York To Enact Nation’s First Statewide Moratorium On Data Centers",
+    "summary": "By Grace Ashford Gov. Kathy Hochul of New York is set to sign an executive order on Tuesday placing a one-year pause on the construction of the largest data centers, putting the state at the forefront of the national debate over artificial intelligence companies’ impact on American landscapes and energy grids. The order, the first […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/new-york-to-enact-nations-first-statewide-moratorium-on-data-centers/",
+    "timestamp": "2026-07-14T14:39:59Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/new-york-to-enact-nations-first-statewide-moratorium-on-data-centers/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-14T14:39:59Z",
+    "id": "energy-546ed24e01d3045f"
   },
   {
     "title": "Zygmund type spaces of harmonic functions on the real unit ball",
