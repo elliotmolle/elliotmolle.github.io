@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0.0",
+  "data_as_of": "2026-07-14T14:15:12Z",
+  "sources": [
+    {
+      "id": "hacker-news",
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Computer Science",
+      "category": "General",
+      "sourceTier": "primary",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "Tech news and startup discussions."
+    },
+    {
+      "id": "arxiv-math",
+      "name": "arXiv Math",
+      "url": "http://export.arxiv.org/rss/math",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Mathematics",
+      "category": "Research",
+      "sourceTier": "primary",
+      "isPrimarySource": true,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "Latest math research papers."
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "url": "https://www.polygon.com/rss/index.xml",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Gaming",
+      "category": "General",
+      "sourceTier": "primary",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "Video game news."
+    },
+    {
+      "id": "kotaku",
+      "name": "Kotaku",
+      "url": "https://kotaku.com/rss",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Gaming",
+      "category": "General",
+      "sourceTier": "primary",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "Video game news and reviews."
+    },
+    {
+      "id": "bpb",
+      "name": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/feed/",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Music Production",
+      "category": "Audio Tech",
+      "sourceTier": "primary",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "Music production software news."
+    }
+  ]
+}

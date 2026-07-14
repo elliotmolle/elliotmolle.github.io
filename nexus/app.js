@@ -58,6 +58,7 @@ function cacheDom() {
   dom.dialog = document.getElementById('detail-dialog');
   dom.dialogContent = document.getElementById('dialog-content');
   dom.closeDialog = document.getElementById('close-dialog');
+  dom.adminLoginBtn = document.getElementById('admin-login-btn');
 }
 
 function bindEvents() {
@@ -85,6 +86,9 @@ function bindEvents() {
   dom.dialog.addEventListener('click', onDialogBackdropClick);
   dom.dialog.addEventListener('close', restoreFocusAfterDialog);
   window.addEventListener('keydown', onWindowKeydown);
+  if (dom.adminLoginBtn) {
+    dom.adminLoginBtn.addEventListener('click', handleAdminLogin);
+  }
 }
 
 async function loadFeed() {
@@ -115,6 +119,30 @@ async function loadFeed() {
     showErrorState(error);
   } finally {
     setBusy(false);
+  }
+}
+
+async function handleAdminLogin() {
+  const passcode = prompt("Enter admin passcode:");
+  if (btoa(passcode || "") === "TW9sbGU=") {
+    try {
+      const response = await fetch('./admin_news_data.json', { cache: 'no-store' });
+      if (!response.ok) throw new Error("Admin data not found");
+      const payload = await response.json();
+      const adminItems = payload.map(normalizeRecord).filter(Boolean);
+      
+      const existingIds = new Set(state.allItems.map(item => item.id));
+      const newItems = adminItems.filter(item => !existingIds.has(item.id));
+      
+      state.allItems = [...state.allItems, ...newItems].sort(sortNewest);
+      configureFilters();
+      applyFilters(true);
+      dom.adminLoginBtn.style.display = 'none';
+    } catch (e) {
+      alert("Failed to load admin data.");
+    }
+  } else if (passcode) {
+    alert("Incorrect passcode");
   }
 }
 
