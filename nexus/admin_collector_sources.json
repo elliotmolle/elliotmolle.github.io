@@ -71,6 +71,20 @@
       "ticker_hints": [],
       "entity_hints": [],
       "purpose": "Music production software news."
+    },
+    {
+      "id": "miso-xenwatch",
+      "name": "MISO XenWatch",
+      "url": "https://misoxenwatch.com/feed/",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Energy",
+      "category": "Market Updates",
+      "sourceTier": "primary",
+      "isPrimarySource": true,
+      "ticker_hints": [],
+      "entity_hints": ["MISO"],
+      "purpose": "Authoritative energy news and market updates for MISO region."
     }
   ]
 }
