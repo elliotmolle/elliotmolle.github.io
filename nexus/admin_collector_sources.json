@@ -85,6 +85,48 @@
       "ticker_hints": [],
       "entity_hints": ["MISO"],
       "purpose": "Authoritative energy news and market updates for MISO region."
+    },
+    {
+      "id": "electric-grandma",
+      "name": "The Electric Grandma",
+      "url": "https://electricgrandma.substack.com/feed",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Energy",
+      "category": "Grid Impacts",
+      "sourceTier": "opinion",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "Opinion and deep dives on power grid reliability."
+    },
+    {
+      "id": "energy-bad-boys",
+      "name": "Energy Bad Boys",
+      "url": "https://energybadboys.substack.com/feed",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Energy",
+      "category": "Grid Impacts",
+      "sourceTier": "opinion",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "Analysis and opinion on electricity systems and modeling."
+    },
+    {
+      "id": "volts",
+      "name": "Volts",
+      "url": "https://www.volts.wtf/feed",
+      "format": "rss",
+      "enabled": true,
+      "topic": "Energy",
+      "category": "General",
+      "sourceTier": "opinion",
+      "isPrimarySource": false,
+      "ticker_hints": [],
+      "entity_hints": [],
+      "purpose": "Deep dives into clean energy technology and policy."
     }
   ]
 }
