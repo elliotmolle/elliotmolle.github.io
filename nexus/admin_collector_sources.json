@@ -115,9 +115,9 @@
       "purpose": "Deep dives into clean energy technology and policy."
     },
     {
-      "id": "bjj-eastern-europe",
-      "name": "BJJ Eastern Europe",
-      "url": "https://bjjee.com/feed/",
+      "id": "jits-magazine",
+      "name": "JitsMagazine",
+      "url": "https://jitsmagazine.com/feed/",
       "format": "rss",
       "enabled": true,
       "topic": "Jiu-Jitsu",
@@ -129,9 +129,9 @@
       "purpose": "News and updates about Brazilian Jiu-Jitsu."
     },
     {
-      "id": "mma-junkie",
-      "name": "MMA Junkie",
-      "url": "https://mmajunkie.usatoday.com/feed",
+      "id": "espn-mma",
+      "name": "ESPN MMA",
+      "url": "https://www.espn.com/espn/rss/mma/news",
       "format": "rss",
       "enabled": true,
       "topic": "UFC",

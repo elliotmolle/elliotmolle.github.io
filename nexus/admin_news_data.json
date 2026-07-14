@@ -198,6 +198,24 @@
     "id": "energy-901dae7f9b8a6d17"
   },
   {
+    "title": "FloGrappling And ONE Championship Announce Groundbreaking Partnership",
+    "summary": "FloGrappling have just announced a huge new partnership with ONE Championship, bringing together two of the biggest brands in the martial arts world for the very first time ever. It’s a huge moment that could have a lasting impact on the sport, as both of them have some of the best grapplers in the world […] The post FloGrappling And ONE Championship Announce Groundbreaking Partnership appeared first on Jitsmagazine.com.",
+    "source": "Jitsmagazine.com",
+    "url": "https://jitsmagazine.com/flograppling-and-one-championship-announce-groundbreaking-partnership/",
+    "timestamp": "2026-07-14T16:37:14Z",
+    "topic": "Jiu-Jitsu",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://jitsmagazine.com/flograppling-and-one-championship-announce-groundbreaking-partnership/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-14T16:37:14Z",
+    "id": "energy-f1194d02a161fc64"
+  },
+  {
     "title": "OBLIK Audio releases FREE open beta of asymmetric reverb plugin",
     "summary": "OBLIK Audio has released Oblik, a free open beta reverb plugin for Windows. What I appreciate right away is that “oblik” means shape in my language, too. Not everyone will catch the wordplay, probably, but it was clear to me from the start, and it fits the plugin’s idea perfectly. Oblik is built around a [...] View post: OBLIK Audio releases FREE open beta of asymmetric reverb plugin",
     "source": "Bedroom Producers Blog",
@@ -214,6 +232,28 @@
     "primary_source": false,
     "data_as_of": "2026-07-14T15:56:17Z",
     "id": "energy-3e08c03bd793b409"
+  },
+  {
+    "title": "What's next: Why Max Holloway and Paddy Pimblett c...",
+    "summary": "Quick wins by Max Holloway and Paddy Pimblett may have positioned the pair to be booked against each other soon. Here's what's next for the top fighters from UFC 329.",
+    "source": "www.espn.com - MMA",
+    "url": "https://www.espn.com/mma/story/_/id/49340969/ufc-329-next-conor-mcgregor-max-holloway-paddy-pimblett",
+    "timestamp": "2026-07-14T14:43:13Z",
+    "topic": "UFC",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.espn.com/mma/story/_/id/49340969/ufc-329-next-conor-mcgregor-max-holloway-paddy-pimblett"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "UFC",
+      "MMA"
+    ],
+    "data_as_of": "2026-07-14T14:43:13Z",
+    "id": "energy-8b867b3a6180e5d5"
   },
   {
     "title": "MISO, PJM Wholesale Power Prices Climb As Heat Wave Impacts Midwest, Northeast",
@@ -235,6 +275,28 @@
     ],
     "data_as_of": "2026-07-14T14:41:30Z",
     "id": "energy-079e610db09639a1"
+  },
+  {
+    "title": "MMA divisional rankings: Paddy Pimblett makes a bi...",
+    "summary": "Here's a look at every weight class to determine the best of the best in UFC, PFL and beyond.",
+    "source": "www.espn.com - MMA",
+    "url": "https://www.espn.com/mma/story/_/id/21807736/mma-divisional-rankings-ufc-pfl-rankings-weight-class",
+    "timestamp": "2026-07-14T14:40:58Z",
+    "topic": "UFC",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.espn.com/mma/story/_/id/21807736/mma-divisional-rankings-ufc-pfl-rankings-weight-class"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "UFC",
+      "MMA"
+    ],
+    "data_as_of": "2026-07-14T14:40:58Z",
+    "id": "energy-998c1322d18c8bbb"
   },
   {
     "title": "Commonwealth Edison Energizes Transmission Upgrades To Enable Wind Additions To PJM Mix",
@@ -354,6 +416,46 @@
     "id": "energy-adb9ee683eaf596b"
   },
   {
+    "title": "McGregor to have surgery, plans to fight again",
+    "summary": "Conor McGregor will undergo surgery following his first-round loss to Max Holloway at UFC 329, and then he will fight again.",
+    "source": "www.espn.com - MMA",
+    "url": "https://www.espn.com/mma/story/_/id/49350613/conor-mcgregor-undergo-surgery-plans-fight-again",
+    "timestamp": "2026-07-13T20:50:40Z",
+    "topic": "UFC",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.espn.com/mma/story/_/id/49350613/conor-mcgregor-undergo-surgery-plans-fight-again"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "UFC",
+      "MMA"
+    ],
+    "data_as_of": "2026-07-13T20:50:40Z",
+    "id": "energy-010818e3606c9d74"
+  },
+  {
+    "title": "Incredible Women’s Flyweight Grand Prix Announced For UFC BJJ 10",
+    "summary": "UFC BJJ are now going to crown their inaugural women’s flyweight champion and they’re doing things a little differently this time around, as they’ve set up a grand prix tournament to determine the champion at UFC BJJ 10 on August 20th, 2026. Prior to this, most of their new champions have been crowned after a […] The post Incredible Women’s Flyweight Grand Prix Announced For UFC BJJ 10 appeared first on Jitsmagazine.com.",
+    "source": "Jitsmagazine.com",
+    "url": "https://jitsmagazine.com/incredible-womens-flyweight-grand-prix-announced-for-ufc-bjj-10/",
+    "timestamp": "2026-07-13T17:00:00Z",
+    "topic": "Jiu-Jitsu",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://jitsmagazine.com/incredible-womens-flyweight-grand-prix-announced-for-ufc-bjj-10/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-13T17:00:00Z",
+    "id": "energy-cc561111f3f89519"
+  },
+  {
     "title": "Thoughts on the format?",
     "summary": "I think most people active in the community have noticed how low rl's viewership has gotten across all platforms since the Major ended. YouTube viewership, Twitter, Reddit, and Twitch numbers are all hitting new lows, and I'm not sure if the online events (1s, 2s, LCQs) are helping much. Honestly, they just weren't that entertaining (with the exception of 1s), and I don't think they were as well received as BLAST/Psyonix expected. submitted by /u/Used_Worldliness_287 [link] [comments]",
     "source": "Rocket League Esports",
@@ -394,5 +496,23 @@
     ],
     "data_as_of": "2026-07-13T14:07:15Z",
     "id": "energy-ad1cccae31f1b9da"
+  },
+  {
+    "title": "Bryce Mitchell vs Mikey Musumeci Booked For UFC BJJ 11",
+    "summary": "Bryce Mitchell will now be returning to professional grappling for the biggest challenge that he’s ever faced in that sport, as he takes on Mikey Musumeci at UFC BJJ 11 on September 24th, 2026. This will be a huge step up in competition from the last time that Mitchell tested his grappling skills without strikes […] The post Bryce Mitchell vs Mikey Musumeci Booked For UFC BJJ 11 appeared first on Jitsmagazine.com.",
+    "source": "Jitsmagazine.com",
+    "url": "https://jitsmagazine.com/bryce-mitchell-vs-mikey-musumeci-booked-for-ufc-bjj-11/",
+    "timestamp": "2026-07-12T16:08:49Z",
+    "topic": "Jiu-Jitsu",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://jitsmagazine.com/bryce-mitchell-vs-mikey-musumeci-booked-for-ufc-bjj-11/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-12T16:08:49Z",
+    "id": "energy-7a1a3bd73e7eb50f"
   }
 ]
