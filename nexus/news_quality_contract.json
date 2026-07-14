@@ -14,7 +14,7 @@
   "allowed_values": {
     "impact": ["Low", "Medium", "High"],
     "sentiment": ["Negative", "Neutral", "Positive"],
-    "topic": ["Energy", "Gaming", "Music Production", "Computer Science", "Mathematics"],
+    "topic": ["Energy", "Gaming", "Music Production", "Computer Science", "Mathematics", "Jiu-Jitsu", "UFC", "Rocket League"],
     "category_global": [
       "AI",
       "Audio Tech",
