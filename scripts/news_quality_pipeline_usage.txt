@@ -1,0 +1,22 @@
+Nexus feed quality pipeline
+
+Run from the repository root:
+
+  python .\scripts\news_quality_pipeline.py --feed .\nexus\news_data.json
+
+Optional machine-readable output:
+
+  python .\scripts\news_quality_pipeline.py --feed .\nexus\news_data.json --json
+
+If you want to point at a different feed or contract file:
+
+  python .\scripts\news_quality_pipeline.py --feed .\path\to\feed.json --contract .\nexus\news_quality_contract.json
+
+Exit codes:
+
+  0 = validation completed and no error-level findings were found.
+  1 = validation completed but one or more error-level findings were found.
+  2 = the feed or contract could not be read, or the input JSON was invalid.
+
+The tool is read-only: it reports findings but does not modify the feed.
+It also avoids printing full summaries, so the output does not expose unnecessary private data.

@@ -1,318 +1,324 @@
 [
-    {
-        "id": "67048",
-        "title": "Local Energy Co-op Pilots Virtual Power Plant Technology",
-        "summary": "This is a detailed summary regarding the latest updates from Local Co-op. The impact on small energy companies is currently being analyzed by experts.",
-        "source": "Local Co-op",
-        "url": "#",
-        "timestamp": "2026-07-14T13:04:07.574322",
-        "topic": "Energy",
-        "category": "Small Energy Companies",
-        "impact": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "98269",
-        "title": "Muse Hub Releases Major Update with New Virtual Instruments",
-        "summary": "This is a detailed summary regarding the latest updates from Muse Group. The impact on audio tech is currently being analyzed by experts.",
-        "source": "Muse Group",
-        "url": "#",
-        "timestamp": "2026-07-14T13:04:07.574322",
-        "topic": "Music Production",
-        "category": "Audio Tech",
-        "impact": "Medium",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "72208",
-        "title": "New Legend Revealed for Brawlhalla Upcoming Season",
-        "summary": "This is a detailed summary regarding the latest updates from Brawlhalla Blog. The impact on releases is currently being analyzed by experts.",
-        "source": "Brawlhalla Blog",
-        "url": "#",
-        "timestamp": "2026-07-14T13:04:07.574322",
-        "topic": "Gaming",
-        "category": "Releases",
-        "impact": "Medium",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "21070",
-        "title": "Utility Plans Major Substation Upgrades for EV Charging Depot",
-        "summary": "This is a detailed summary regarding the latest updates from Local Utility. The impact on large loads is currently being analyzed by experts.",
-        "source": "Local Utility",
-        "url": "#",
-        "timestamp": "2026-07-14T13:04:07.574322",
-        "topic": "Energy",
-        "category": "Large Loads",
-        "impact": "Medium",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "51793",
-        "title": "Bjango releases FREE Double Freak frequency follower plugin",
-        "summary": "<div><img alt=\"Bjango Double\" class=\"attachment-main-slider size-main-slider wp-post-image\" height=\"700\" src=\"https://bedroomproducersblog.com/wp-content/uploads/2026/07/bjango-fouble.jpg\" style=\"marg...",
-        "source": "BPB",
-        "url": "https://bedroomproducersblog.com/2026/07/13/bjango-double-freak/",
-        "timestamp": "Mon, 13 Jul 2026 17:34:51 +0000",
-        "topic": "Music Production",
-        "category": "Audio Tech",
-        "impact": "Low",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "75895",
-        "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48869989\">Comments</a>...",
-        "source": "Hacker News",
-        "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-        "timestamp": "Sat, 11 Jul 2026 08:21:27 +0000",
-        "topic": "Computer Science",
-        "category": "Infrastructure",
-        "impact": "Medium",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "54151",
-        "title": "Universal optimality of the double-centred matrix under unitarily invariant norms for dissimilarity data",
-        "summary": "arXiv:2607.09670v1 Announce Type: new \nAbstract: Let $D=(D_{ij})_{i,j=1}^{n}$ be a symmetric dissimilarity matrix and let $D^{(2)}=(D_{ij}^{2})_{i,j=1}^{n}$. We study the affine family of real symmetr...",
-        "source": "arXiv Math",
-        "url": "https://arxiv.org/abs/2607.09670",
-        "timestamp": "Tue, 14 Jul 2026 00:00:00 -0400",
-        "topic": "Mathematics",
-        "category": "Data Science",
-        "impact": "Low",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "42777",
-        "title": "Higher-power inverse functional identities and Frobenius collision obstructions",
-        "summary": "arXiv:2607.09669v1 Announce Type: new \nAbstract: Let $D$ be a division ring, let $n\\geq 2$, and let $f,g:D\\to D$ be additive maps satisfying \\[\n  f(x)x^{-1}+x^n g(x^{-1})=0\\qquad (x\\in D^\\times). \\] T...",
-        "source": "arXiv Math",
-        "url": "https://arxiv.org/abs/2607.09669",
-        "timestamp": "Tue, 14 Jul 2026 00:00:00 -0400",
-        "topic": "Mathematics",
-        "category": "General",
-        "impact": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "57953",
-        "title": "Undecidability of the quasi-isomorphism problem for semi-free dg algebras via the cobar construction",
-        "summary": "arXiv:2607.09667v1 Announce Type: new \nAbstract: We explain how the undecidability of the quasi-isomorphism and derived Morita equivalence problems for semi-free finitely presented dg associative alge...",
-        "source": "arXiv Math",
-        "url": "https://arxiv.org/abs/2607.09667",
-        "timestamp": "Tue, 14 Jul 2026 00:00:00 -0400",
-        "topic": "Mathematics",
-        "category": "Data Science",
-        "impact": "Medium",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "99872",
-        "title": "Show HN: Opening lines of famous literary works",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48908271\">Comments</a>...",
-        "source": "Hacker News",
-        "url": "https://www.verbaprima.com/",
-        "timestamp": "Tue, 14 Jul 2026 15:24:49 +0000",
-        "topic": "Computer Science",
-        "category": "AI",
-        "impact": "Low",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "92916",
-        "title": "OBLIK Audio releases FREE open beta of asymmetric reverb plugin",
-        "summary": "<div><img alt=\"Oblik\" class=\"attachment-main-slider size-main-slider wp-post-image\" height=\"700\" src=\"https://bedroomproducersblog.com/wp-content/uploads/2026/07/oblik-reverb.jpg\" style=\"margin-bottom...",
-        "source": "BPB",
-        "url": "https://bedroomproducersblog.com/2026/07/14/oblik-audio-reverb/",
-        "timestamp": "Tue, 14 Jul 2026 15:56:17 +0000",
-        "topic": "Music Production",
-        "category": "Audio Tech",
-        "impact": "High",
-        "sentiment": "Positive"
-    },
-    {
-        "id": "40178",
-        "title": "Explosive Diarrhea Outbreak Reportedly Tied To Taco Bell",
-        "summary": "<img alt=\"Tacobellsick\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2026/07/tacobellsick.jpg\" style=\"height: auto; margin: auto;\" width=\"1920\" /><...",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/explosive-diarrhea-outbreak-reportedly-tied-to-taco-bell-2000715837",
-        "timestamp": "Tue, 14 Jul 2026 16:00:23 +0000",
-        "topic": "Gaming",
-        "category": "General",
-        "impact": "Low",
-        "sentiment": "Positive"
-    },
-    {
-        "id": "97245",
-        "title": "For A Sneak Peek At The Actor Playing Link In The Zelda Movie, Check Out This Week\u2019s House Of The Dragon",
-        "summary": "<img alt=\"Benjamin Evan Ainsworth\" class=\"attachment-full size-full wp-post-image\" height=\"440\" src=\"https://kotaku.com/app/uploads/2026/07/benjamin-evan-ainsworth.jpg\" style=\"height: auto; margin: au...",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/house-of-the-dragon-link-actor-legend-of-zelda-movie-2000715823",
-        "timestamp": "Tue, 14 Jul 2026 16:15:40 +0000",
-        "topic": "Gaming",
-        "category": "General",
-        "impact": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "11537",
-        "title": "Former PlayStation Boss Wants \u2018Xbox To Get Some Of Its Mojo Back\u2019",
-        "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://kotaku.com/app/uploads/2022/11/106703625c61ab763372ba7fff09f6a6.jpg\" style=\"height: auto; margin: auto;\" width=\"1...",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/former-playstation-boss-xbox-some-mojo-back-2000715360",
-        "timestamp": "Tue, 14 Jul 2026 16:33:26 +0000",
-        "topic": "Gaming",
-        "category": "General",
-        "impact": "Low",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "48775",
-        "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-        "summary": "<a href=\"https://news.ycombinator.com/item?id=48909424\">Comments</a>...",
-        "source": "Hacker News",
-        "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-        "timestamp": "Tue, 14 Jul 2026 16:36:06 +0000",
-        "topic": "Computer Science",
-        "category": "AI",
-        "impact": "Low",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "17870",
-        "title": "The Mandalorian and Grogu digital release date and Blu-ray announced",
-        "summary": "Star Wars: The Mandalorian and Grogu is coming to digital and on 4K/Blu-ray starting July 21, Lucasfilm and Disney have announced....",
-        "source": "Polygon",
-        "url": "https://www.polygon.com/star-wars-mandalorian-and-grogu-digital-release-date-4k-blu-ray/",
-        "timestamp": "Tue, 14 Jul 2026 16:37:59 GMT",
-        "topic": "Gaming",
-        "category": "Reviews",
-        "impact": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "34661",
-        "title": "MAP Audio PAM is a deep pattern-based sampler with an exclusive BPB discount",
-        "summary": "<div><img alt=\"MAP Audio PAM\" class=\"attachment-main-slider size-main-slider wp-post-image\" height=\"700\" src=\"https://bedroomproducersblog.com/wp-content/uploads/2026/07/pam-sampler.jpg\" style=\"margin...",
-        "source": "BPB",
-        "url": "https://bedroomproducersblog.com/2026/07/14/map-audio-pam/",
-        "timestamp": "Tue, 14 Jul 2026 16:45:58 +0000",
-        "topic": "Music Production",
-        "category": "Audio Tech",
-        "impact": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "57112",
-        "title": "An official Hollow Knight Lego set just got one step closer to reality",
-        "summary": "Team Cherry's metroidvania is the subject of a fan-made set that just got a major update...",
-        "source": "Polygon",
-        "url": "https://www.polygon.com/an-official-hollow-knight-lego-set-just-got-one-step-closer-to-reality/",
-        "timestamp": "Tue, 14 Jul 2026 16:56:00 GMT",
-        "topic": "Gaming",
-        "category": "Releases",
-        "impact": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "55555",
-        "title": "PS5 emulation reaches new milestone as it loads GTA 5",
-        "summary": "Following Sony's announcement that it won't support game discs starting in 2028, all eyes are on PlayStation emulators....",
-        "source": "Polygon",
-        "url": "https://www.polygon.com/ps5-emulation-milestone-loads-gta-5/",
-        "timestamp": "Tue, 14 Jul 2026 17:00:24 GMT",
-        "topic": "Gaming",
-        "category": "Competitive",
-        "impact": "Low",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "96198",
-        "title": "ERCOT Issues Conservation Appeal Due to High Temperatures and Outages",
-        "summary": "This is a detailed summary regarding the latest updates from ERCOT. The impact on grid impacts is currently being analyzed by experts.",
-        "source": "ERCOT",
-        "url": "#",
-        "timestamp": "2026-07-14T13:00:06.465671",
-        "category": "Grid Impacts",
-        "impact": "Low",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "52909",
-        "title": "PJM Board Approves New Transmission Projects for Data Center Load",
-        "summary": "This is a detailed summary regarding the latest updates from PJM. The impact on rtos / isos is currently being analyzed by experts.",
-        "source": "PJM",
-        "url": "#",
-        "timestamp": "2026-07-14T13:00:06.465671",
-        "category": "RTOs / ISOs",
-        "impact": "Low",
-        "sentiment": "Positive"
-    },
-    {
-        "id": "22429",
-        "title": "U.S. exports of crude oil and petroleum products reached record in April",
-        "summary": "U.S. petroleum exports reached a record in April as disruptions to international crude oil and refined product flows through the Strait of Hormuz increased global demand for U.S. exports. Exports incr...",
-        "source": "EIA",
-        "url": "https://www.eia.gov/todayinenergy/detail.php?id=67825",
-        "timestamp": "Wed, 8 Jul 2026 09:00:00 EST",
-        "category": "Politics",
-        "impact": "High",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "28310",
-        "title": "Global liquefied natural gas trade volumes reached record high in 2025",
-        "summary": "Global liquefied natural gas (LNG) trade volumes increased 5.4% to a record 56.3 billion cubic feet per day last year (Bcf/d), driven largely by U.S. LNG export capacity expanding to meet growing dema...",
-        "source": "EIA",
-        "url": "https://www.eia.gov/todayinenergy/detail.php?id=",
-        "timestamp": "Tue, 14 Jul 2026 09:00:00 EST",
-        "category": "RTOs / ISOs",
-        "impact": "High",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "18164",
-        "title": "The United States produced more crude oil than any other country in 2025",
-        "summary": "The United States remained the world's largest crude oil producer in 2025, according to our International Energy Statistics database, extending a streak that began in 2018 when the United States overt...",
-        "source": "EIA",
-        "url": "https://www.eia.gov/todayinenergy/detail.php?id=67844",
-        "timestamp": "Thu, 9 Jul 2026 09:00:00 EST",
-        "category": "RTOs / ISOs",
-        "impact": "Medium",
-        "sentiment": "Neutral"
-    },
-    {
-        "id": "59900",
-        "title": "FERC Issues Order on Regional Transmission Planning and Cost Allocation",
-        "summary": "This is a detailed summary regarding the latest updates from FERC. The impact on politics is currently being analyzed by experts.",
-        "source": "FERC",
-        "url": "#",
-        "timestamp": "2026-07-14T12:55:49.035221",
-        "category": "Politics",
-        "impact": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "90163",
-        "title": "MISO Warns of Capacity Shortfalls in Summer Outlook",
-        "summary": "This is a detailed summary regarding the latest updates from MISO. The impact on grid impacts is currently being analyzed by experts.",
-        "source": "MISO",
-        "url": "#",
-        "timestamp": "2026-07-14T12:55:49.035221",
-        "category": "Grid Impacts",
-        "impact": "High",
-        "sentiment": "Negative"
-    },
-    {
-        "id": "32565",
-        "title": "New Semiconductor Plant Requests 500MW Interconnection in NYISO",
-        "summary": "This is a detailed summary regarding the latest updates from NYISO. The impact on large loads is currently being analyzed by experts.",
-        "source": "NYISO",
-        "url": "#",
-        "timestamp": "2026-07-14T12:55:49.035221",
-        "category": "Large Loads",
-        "impact": "Medium",
-        "sentiment": "Neutral"
-    }
+  {
+    "id": "eia-lng-record-2026-07-14",
+    "title": "Global liquefied natural gas trade volumes reached record high in 2025",
+    "summary": "EIA says global LNG trade hit a record in 2025 and U.S. LNG exports rose sharply, supporting LNG infrastructure and gas-exposed assets, while Strait of Hormuz disruptions and sanctions still create supply-chain risk.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67864",
+    "timestamp": "2026-07-14T00:00:00Z",
+    "topic": "Energy",
+    "category": "Market Updates",
+    "impact": "High",
+    "sentiment": "Positive",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["LNG", "United States", "Qatar", "Strait of Hormuz", "Europe"],
+    "claims": [
+      "Global LNG trade reached a record 56.3 Bcf/d in 2025.",
+      "U.S. LNG exports rose 26% to 15.1 Bcf/d and EIA says 2026 flows were slowed by Hormuz-related disruption."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67864"
+    ],
+    "data_as_of": "2026-07-14T00:00:00Z"
+  },
+  {
+    "id": "eia-us-petroleum-exports-record-2026-07-08",
+    "title": "U.S. exports of crude oil and petroleum products reached record in April",
+    "summary": "EIA says U.S. petroleum exports hit a record in April as Hormuz-related disruptions lifted demand for U.S. barrels, but the same geopolitics that support exports can also keep markets volatile.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67825",
+    "timestamp": "2026-07-08T00:00:00Z",
+    "topic": "Energy",
+    "category": "Market Updates",
+    "impact": "Medium",
+    "sentiment": "Positive",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["United States", "petroleum exports", "Strait of Hormuz", "propane", "distillate"],
+    "claims": [
+      "U.S. petroleum exports reached 13.6 million b/d in April 2026.",
+      "Crude, propane, and distillate exports were especially strong."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67825"
+    ],
+    "data_as_of": "2026-07-08T00:00:00Z"
+  },
+  {
+    "id": "eia-refining-capacity-2026-06-29",
+    "title": "U.S. refining capacity decreased during 2025",
+    "summary": "EIA says U.S. refinery capacity fell in 2025 after closures in Houston and Los Angeles, which may aid surviving margins but tightens regional fuel availability, especially on the West Coast.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67807",
+    "timestamp": "2026-06-29T00:00:00Z",
+    "topic": "Energy",
+    "category": "Market Updates",
+    "impact": "Medium",
+    "sentiment": "Negative",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["U.S. refining", "West Coast", "PADD 5", "Houston", "Los Angeles"],
+    "claims": [
+      "U.S. operable atmospheric distillation capacity fell to 18.2 million b/cd on Jan. 1, 2026.",
+      "The report says refinery closures cut West Coast capacity more than Gulf Coast capacity."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67807"
+    ],
+    "data_as_of": "2026-06-29T00:00:00Z"
+  },
+  {
+    "id": "eia-nyiso-solar-midday-demand-2026-06-26",
+    "title": "Metered electricity demand in the New York ISO falls midday because of small-scale solar",
+    "summary": "EIA says small-scale solar is lowering midday metered demand in New York and steepening the evening ramp, which highlights flexibility value but also complicates balancing for grid operators.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67806",
+    "timestamp": "2026-06-26T00:00:00Z",
+    "topic": "Energy",
+    "category": "Grid Impacts",
+    "impact": "Medium",
+    "sentiment": "Neutral",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["NYISO", "small-scale solar", "New York", "metered demand"],
+    "claims": [
+      "Midday metered demand has fallen as small-scale solar has grown.",
+      "The evening ramp has become steeper as solar output fades."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67806"
+    ],
+    "data_as_of": "2026-06-26T00:00:00Z"
+  },
+  {
+    "id": "eia-commercial-crude-inventories-2026-06-24",
+    "title": "U.S. commercial crude oil inventories have decreased in June",
+    "summary": "EIA says U.S. crude inventories, gasoline, and distillate stocks moved lower or mixed in mid-June, which can support price sensitivity and product spreads but also signals a tighter near-term balance.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67805",
+    "timestamp": "2026-06-24T00:00:00Z",
+    "topic": "Energy",
+    "category": "Market Updates",
+    "impact": "Medium",
+    "sentiment": "Neutral",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["U.S. crude inventories", "gasoline", "distillate", "refineries"],
+    "claims": [
+      "Commercial crude inventories fell by 6.1 million barrels in the week ending June 19.",
+      "Gasoline and distillate stocks remained below or near five-year averages."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67805"
+    ],
+    "data_as_of": "2026-06-24T00:00:00Z"
+  },
+  {
+    "id": "eia-uae-opec-plus-2026-06-23",
+    "title": "UAE's exit from OPEC+ reduced the group's share of crude oil production and capacity",
+    "summary": "EIA says the UAE's exit from OPEC+ would reduce the group's share of world crude production and capacity, while Hormuz rerouting and pipeline limits keep geopolitics and logistics risk elevated.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67804",
+    "timestamp": "2026-06-23T00:00:00Z",
+    "topic": "Energy",
+    "category": "Market Updates",
+    "impact": "Medium",
+    "sentiment": "Neutral",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["UAE", "OPEC+", "Strait of Hormuz", "ADCOP", "Saudi Arabia"],
+    "claims": [
+      "Without the UAE, OPEC+'s share of 2025 global crude production would be lower.",
+      "The article highlights pipeline rerouting and Hormuz exposure as constraints on exports."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67804"
+    ],
+    "data_as_of": "2026-06-23T00:00:00Z"
+  },
+  {
+    "id": "eia-permian-gas-growth-2026-06-18",
+    "title": "Permian natural gas production increased faster than crude oil",
+    "summary": "EIA says Permian gas output is growing faster than crude oil as the basin matures, supporting takeaway and gas-fired power themes, but rising gas-oil ratios and infrastructure constraints remain a risk.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67785",
+    "timestamp": "2026-06-18T00:00:00Z",
+    "topic": "Energy",
+    "category": "Market Updates",
+    "impact": "Medium",
+    "sentiment": "Positive",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["Permian Basin", "natural gas", "crude oil", "gas-oil ratio"],
+    "claims": [
+      "Permian marketed gas production grew 60% from 2021 to 2025.",
+      "EIA expects the gas-oil ratio to keep rising as the basin matures."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67785"
+    ],
+    "data_as_of": "2026-06-18T00:00:00Z"
+  },
+  {
+    "id": "pjm-data-center-accuracy-report-2026-06-05",
+    "title": "Data Center Accuracy Report",
+    "summary": "PJM's data-center load forecast accuracy report says large-load forecasting remains variable and hard to predict, which may improve transparency but also signals planning risk for utilities and developers.",
+    "source": "PJM",
+    "url": "https://www.pjm.com/-/media/DotCom/committees-groups/subcommittees/las/2026/20260605/20260605-item-04---load-adjustment-accuracy-report.pdf",
+    "timestamp": "2026-06-05T00:00:00Z",
+    "topic": "Energy",
+    "category": "Large Loads",
+    "impact": "Medium",
+    "sentiment": "Neutral",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["PJM", "data centers", "Long-Term Load Forecast", "forecast accuracy"],
+    "claims": [
+      "PJM will post an annual accuracy report for the data-center portion of its long-term load forecast.",
+      "The presentation says load inputs such as ramp rate and firm versus non-firm status are variable."
+    ],
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/committees-groups/subcommittees/las/2026/20260605/20260605-item-04---load-adjustment-accuracy-report.pdf"
+    ],
+    "data_as_of": "2026-06-05T00:00:00Z"
+  },
+  {
+    "id": "eia-china-nuclear-capacity-2026-06-05",
+    "title": "China's nuclear power capacity nearly doubled since 2016",
+    "summary": "EIA says China's nuclear fleet kept expanding, with more reactors under construction and a growing domestic supply chain, which supports long-cycle nuclear buildout but still leaves execution and concentration risk.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67746",
+    "timestamp": "2026-06-05T00:00:00Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "High",
+    "sentiment": "Positive",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["China", "IAEA PRIS", "nuclear supply chain", "Linglong-1", "SMR"],
+    "claims": [
+      "China's nuclear capacity increased 76% from 2016 to 2024 and rose further in 2025 and through May 2026.",
+      "China has 36 reactors under construction and is building its first SMR."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67746"
+    ],
+    "data_as_of": "2026-06-05T00:00:00Z"
+  },
+  {
+    "id": "pjm-summer-outlook-2026-05-07",
+    "title": "Summer Outlook 2026: PJM Prepared To Meet Growing Summer Demand With Adequate Resources",
+    "summary": "PJM says it expects adequate resources for typical summer peak demand and can lean on demand response, but data-center-driven load growth is tightening reserve margins and raising stress risk during heat or outages.",
+    "source": "PJM",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2026-releases/20260507-summer-outlook-202-pjm-prepared-to-meet-growing-summer-demand-with-adequate-resources.pdf",
+    "timestamp": "2026-05-07T00:00:00Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "High",
+    "sentiment": "Neutral",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["PJM", "demand response", "reserve margins", "data centers"],
+    "claims": [
+      "PJM forecasts sufficient generation for typical peak demand this summer.",
+      "It says load growth from data centers is outpacing new generation and tightening reserve margins."
+    ],
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2026-releases/20260507-summer-outlook-202-pjm-prepared-to-meet-growing-summer-demand-with-adequate-resources.pdf"
+    ],
+    "data_as_of": "2026-05-07T00:00:00Z"
+  },
+  {
+    "id": "eia-smr-microreactors-us-2026-04-27",
+    "title": "Small modular reactors and microreactors under development in the United States",
+    "summary": "EIA says several U.S. SMR and microreactor designs remain in development for grid, industrial, and data-center use, but high capital costs, licensing timelines, and HALEU fuel availability remain major hurdles.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
+    "timestamp": "2026-04-27T00:00:00Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "High",
+    "sentiment": "Positive",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["SMRs", "microreactors", "HALEU", "data centers", "industrial loads"],
+    "claims": [
+      "Several U.S. companies are developing SMR and microreactor designs.",
+      "High capital costs, licensing/approval processes, and HALEU fuel needs still constrain deployment."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67584"
+    ],
+    "data_as_of": "2026-04-27T00:00:00Z"
+  },
+  {
+    "id": "eia-japan-reactor-restart-2026-03-02",
+    "title": "Nuclear reactor restart in Japan will likely displace natural gas electricity generation",
+    "summary": "EIA says restarting Kashiwazaki-Kariwa Unit 6 should displace some LNG-fired generation in Japan, but the country still relies heavily on LNG imports and restart timing remains sensitive.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67244",
+    "timestamp": "2026-03-02T00:00:00Z",
+    "topic": "Energy",
+    "category": "Market Updates",
+    "impact": "Medium",
+    "sentiment": "Neutral",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["Japan", "Kashiwazaki-Kariwa Unit 6", "TEPCO", "LNG"],
+    "claims": [
+      "The restart should displace natural-gas generation.",
+      "Japan still imports large volumes of LNG and TEPCO delayed Unit 7 until 2029-2030."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67244"
+    ],
+    "data_as_of": "2026-03-02T00:00:00Z"
+  },
+  {
+    "id": "eia-nuclear-outages-2026-01-26",
+    "title": "Nuclear plants reported few outages in the first three weeks of January 2026",
+    "summary": "EIA says U.S. nuclear outages averaged 2.0 GW in the first three weeks of January 2026, supporting baseload reliability, although the Palisades restart still accounts for most current outages and planned maintenance remains seasonal.",
+    "source": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67047",
+    "timestamp": "2026-01-26T00:00:00Z",
+    "topic": "Energy",
+    "category": "Market Updates",
+    "impact": "Low",
+    "sentiment": "Positive",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["Palisades Nuclear Plant", "U.S. nuclear fleet", "planned outages"],
+    "claims": [
+      "Average nuclear outages were 2.0 GW from Jan. 1-21, 2026, below the prior five-year range for most days.",
+      "Palisades restart accounted for nearly three-quarters of total U.S. nuclear outages on Jan. 6."
+    ],
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67047"
+    ],
+    "data_as_of": "2026-01-26T00:00:00Z"
+  },
+  {
+    "id": "pjm-large-loads-reliably-2026-01-16",
+    "title": "PJM Board Outlines Plans To Integrate Large Loads Reliably",
+    "summary": "PJM says it plans proposals and process changes to integrate new data centers and other large loads while preserving reliability and affordability, but the plan is interim and could still raise consumer-cost and interconnection risk.",
+    "source": "PJM",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2026-releases/20260116-pjm-board-outlines-plans-to-integrate-large-loads-reliably.pdf",
+    "timestamp": "2026-01-16T00:00:00Z",
+    "topic": "Energy",
+    "category": "Large Loads",
+    "impact": "High",
+    "sentiment": "Neutral",
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": ["PJM", "data centers", "large loads", "FERC", "interconnection"],
+    "claims": [
+      "PJM outlined actions to integrate new data centers and other large loads.",
+      "The plan includes faster interconnection paths, curtailment options, and market reviews."
+    ],
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2026-releases/20260116-pjm-board-outlines-plans-to-integrate-large-loads-reliably.pdf"
+    ],
+    "data_as_of": "2026-01-16T00:00:00Z"
+  }
 ]

@@ -21,9 +21,9 @@ const projects = [
     title: "Nexus Dashboard",
     subtitle: "Active Project",
     date: "July 2026 – Present",
-    tags: ["React", "Vite", "Data Aggregation", "UI/UX"],
-    summary: "A private, automated intelligence dashboard tracking energy markets, tech, math, gaming, and music production news.",
-    description: "Built a holistic web dashboard to aggregate news from custom RSS and data feeds. A backend Python collector curates articles across various topics (Energy, Tech, Math, Gaming, Music), saving them to a JSON payload. The frontend is a highly responsive Vite/React application featuring dark mode, category filtering, and micro-animations. It implements a simple authentication layer to restrict personal intelligence tabs, keeping public access scoped to Energy news. It serves as a unified command center for personal and professional interests.",
+    tags: ["JavaScript", "Data Aggregation", "Market Research", "UI/UX"],
+    summary: "Public energy intelligence dashboard with source-aware filtering and research context.",
+    description: "Built a dependency-free dashboard for reviewing energy market, grid, and technology reporting. The interface loads a validated JSON feed, supports search and category filters, surfaces source and freshness metadata, and keeps the collection pipeline separate from the public GitHub Pages frontend.",
     driveLink: "nexus/index.html",
     images: []
   },
@@ -33,13 +33,13 @@ const projects = [
     subtitle: "Active Project",
     date: "October 2025 – Present",
     tags: ["KiCad", "PCB Layout", "Schematic Capture", "Prototyping"],
-    summary: "Designing a custom double-sided PCB to drive an LED heart layout — a hands-on deep dive into schematic capture, footprint routing, and DRC-clean design.",
-    description: "This project involves designing a small form-factor PCB using KiCad to drive an LED heart display as a family Christmas gift. The workflow covers schematic capture, custom component footprint creation, double-sided board routing, and iterative design-rule-check (DRC) cleanup. Power delivery is handled via a micro-USB connector with appropriate current limiting for the LED array. The project reinforces best practices in component selection, silkscreen documentation, and preparing Gerber files for fabrication.",
+    summary: "Custom double-sided PCB for an LED heart display.",
+    description: "Designing a small KiCad board to drive an LED heart gift. The workflow covers schematic capture, custom footprint creation, double-sided routing, DRC cleanup, current limiting, and Gerber preparation for fabrication.",
     driveLink: "https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing",
     // Add more images from your Google Drive here, e.g.:
     // { url: "assets/projects/pcb_routed.jpg", caption: "Routed board" }
     images: [
-      { url: "assets/projects/pcb_heart.png", caption: "KiCad PCB Editor — LED Heart Layout" }
+      { url: "assets/projects/pcb_heart.png", caption: "KiCad PCB editor, LED heart layout" }
     ]
   },
   {
@@ -48,13 +48,13 @@ const projects = [
     subtitle: "Completed",
     date: "May 2025 – June 2025",
     tags: ["LTspice", "Rectifier", "Buck Converter", "USB-C", "Soldering"],
-    summary: "Built a self-contained portable generator for phone charging, featuring multi-stage AC-to-DC rectification, battery storage, and a regulated USB-C output.",
-    description: "Designed and built a compact portable generator system around a small brushless motor. The power chain includes a full-wave bridge rectifier for AC-to-DC conversion, a lithium cell for intermediate energy storage, a buck converter for regulated 5V output, and a USB-C breakout board for device charging. The design was validated in LTspice before moving to a soldered breadboard prototype, which was then migrated to a permanent enclosure. Key engineering challenges included managing voltage ripple, ensuring safe charge/discharge cycles, and selecting appropriately rated passive components.",
+    summary: "Portable generator prototype with rectifier, storage, and regulated USB-C output.",
+    description: "Built a compact generator around a small brushless motor. The power chain uses a full-wave bridge rectifier, a lithium cell for storage, a buck converter for 5 V output, and a USB-C breakout for charging. The design was validated in LTspice before moving to a soldered breadboard prototype and a permanent enclosure.",
     driveLink: "https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing",
     // Add more images from your Google Drive here, e.g.:
     // { url: "assets/projects/generator_full.jpg", caption: "Full build" }
     images: [
-      { url: "assets/projects/motor_stator.png", caption: "Brushless Motor Stator — Copper Windings" }
+      { url: "assets/projects/motor_stator.png", caption: "Brushless motor stator, copper windings" }
     ]
   },
   {
@@ -63,8 +63,8 @@ const projects = [
     subtitle: "Completed",
     date: "July 2024",
     tags: ["LCD Controller", "3D Printing", "SketchUp", "Hardware Retrofit"],
-    summary: "Repurposed a Lenovo ThinkPad display and webcam module into a fully functional wall-mounted monitor with a custom 3D-printed enclosure.",
-    description: "Rather than discarding a broken ThinkPad laptop, the display panel and integrated webcam module were salvaged and retrofitted into standalone peripherals. An aftermarket LCD controller board was sourced and wired to drive the display over HDMI and USB-C. The webcam module was re-cased and adapted with a standard USB interface. A custom enclosure was designed in SketchUp and 3D-printed in PLA, incorporating mounting tabs, cable management channels, and ventilation slots. The final build functions as a wall-mounted secondary monitor with an integrated webcam.",
+    summary: "ThinkPad display and webcam reused in a wall-mounted monitor.",
+    description: "Salvaged a ThinkPad display panel and webcam module, then rewired them as standalone peripherals. An aftermarket LCD controller board drives the display over HDMI and USB-C, and the webcam uses a standard USB interface. The enclosure was designed in SketchUp and 3D-printed in PLA with mounting tabs, cable routing, and ventilation.",
     driveLink: "https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing",
     // Add more images from your Google Drive here, e.g.:
     // { url: "assets/projects/monitor_finished.jpg", caption: "Finished build" }
@@ -78,12 +78,12 @@ const projects = [
     subtitle: "Completed",
     date: "January 2024",
     tags: ["Python", "GPIO", "PWM", "Raspberry Pi", "Embedded"],
-    summary: "Programmed GPIO control on a Raspberry Pi for responsive LED patterns with PWM-based dimming and a state-driven sequence engine.",
-    description: "This project involved writing Python GPIO code to control an array of LEDs connected to a Raspberry Pi's GPIO pins. The software implements a state-machine-based pattern engine that transitions between pre-programmed light sequences (solid, pulse, chase, strobe). PWM dimming is handled using RPi.GPIO's software PWM, with configurable duty cycles for brightness control. The system was tested across all operating states to verify timing accuracy and thermal performance. This project introduced practical embedded programming skills including signal timing, hardware abstraction, and interactive GPIO testing.",
+    summary: "Python GPIO controller for LED patterns on a Raspberry Pi.",
+    description: "Wrote Python GPIO code for a Raspberry Pi LED array. The program uses a simple state machine to switch between solid, pulse, chase, and strobe patterns, with PWM dimming for brightness control. I tested timing and thermal behavior across the operating states.",
     driveLink: "https://drive.google.com/drive/folders/1JS055aBeeJqllbS_LMKwVPxlxvqH-W2E?usp=sharing",
     images: [
-      { url: "assets/RasPi.JPG", caption: "Raspberry Pi GPIO Setup" },
-      { url: "assets/BreadBoard.jpg", caption: "LED Breadboard Circuit" }
+      { url: "assets/RasPi.JPG", caption: "Raspberry Pi GPIO setup" },
+      { url: "assets/BreadBoard.jpg", caption: "LED breadboard circuit" }
     ]
   }
 ];

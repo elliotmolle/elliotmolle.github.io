@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0.0",
+  "required_fields": ["id", "title", "summary", "source", "url", "timestamp", "topic", "category", "impact", "sentiment"],
+  "optional_fields": [
+    "source_tier",
+    "primary_source",
+    "claims",
+    "citations",
+    "tickers",
+    "entities",
+    "data_as_of",
+    "editorial_notes"
+  ],
+  "allowed_values": {
+    "impact": ["Low", "Medium", "High"],
+    "sentiment": ["Negative", "Neutral", "Positive"],
+    "topic": ["Energy", "Gaming", "Music Production", "Computer Science", "Mathematics"],
+    "category_global": [
+      "AI",
+      "Audio Tech",
+      "Company News",
+      "Competitive",
+      "Corporate",
+      "Data Science",
+      "General",
+      "Grid Impacts",
+      "Infrastructure",
+      "Large Loads",
+      "Market Updates",
+      "Nuclear Policy",
+      "Nuclear Technology",
+      "Policy & Regulation",
+      "Project Finance",
+      "Releases",
+      "Research",
+      "Reviews",
+      "RTOs / ISOs",
+      "Safety",
+      "Security",
+      "Small Energy Companies",
+      "Systems",
+      "Utilities"
+    ],
+    "categories_by_topic": {
+      "Energy": [
+        "Company News",
+        "Corporate",
+        "General",
+        "Grid Impacts",
+        "Large Loads",
+        "Market Updates",
+        "Nuclear Policy",
+        "Nuclear Technology",
+        "Policy & Regulation",
+        "Project Finance",
+        "RTOs / ISOs",
+        "Safety",
+        "Small Energy Companies",
+        "Utilities"
+      ],
+      "Gaming": ["Competitive", "General", "Infrastructure", "Releases", "Reviews"],
+      "Music Production": ["Audio Tech", "General", "Releases", "Reviews"],
+      "Computer Science": ["AI", "General", "Infrastructure", "Research", "Security", "Systems"],
+      "Mathematics": ["Data Science", "General", "Research"]
+    }
+  },
+  "freshness": {
+    "stale_after_hours": 72,
+    "future_grace_minutes": 15
+  },
+  "summary_rules": {
+    "placeholder_phrases": [
+      "this is a detailed summary regarding the latest updates from",
+      "the impact on",
+      "is currently being analyzed by experts"
+    ]
+  },
+  "entity_disambiguation": {
+    "ambiguous_terms": ["Terra", "Terra Energy"],
+    "specific_entities": ["TerraPower", "Terrestrial Energy"]
+  },
+  "source_registry": [
+    {
+      "name": "U.S. Nuclear Regulatory Commission (NRC)",
+      "tier": "primary",
+      "primary_source": true,
+      "canonical_url": "https://www.nrc.gov/",
+      "coverage": "Regulatory notices, reactor oversight, licensing, and safety communications."
+    },
+    {
+      "name": "U.S. Department of Energy – Office of Nuclear Energy",
+      "tier": "primary",
+      "primary_source": true,
+      "canonical_url": "https://www.energy.gov/ne",
+      "coverage": "Federal nuclear energy policy, programs, funding, and technical updates."
+    },
+    {
+      "name": "DOE National Laboratories",
+      "tier": "primary",
+      "primary_source": true,
+      "canonical_url": "https://www.energy.gov/lab-locator",
+      "coverage": "Lab research from INL, ORNL, PNNL, SNL, ANL, and similar DOE labs."
+    },
+    {
+      "name": "SEC EDGAR",
+      "tier": "primary",
+      "primary_source": true,
+      "canonical_url": "https://www.sec.gov/edgar",
+      "coverage": "Public company filings, material disclosures, and issuer statements."
+    },
+    {
+      "name": "Company Investor Relations",
+      "tier": "primary",
+      "primary_source": true,
+      "canonical_url": null,
+      "coverage": "Issuer press releases, earnings materials, and investor presentations.",
+      "note": "Company IR pages are issuer-specific; record the actual issuer domain in item metadata."
+    },
+    {
+      "name": "Reuters",
+      "tier": "secondary",
+      "primary_source": false,
+      "canonical_url": "https://www.reuters.com/",
+      "coverage": "General market coverage and independently reported energy / nuclear news."
+    },
+    {
+      "name": "World Nuclear News",
+      "tier": "trade",
+      "primary_source": false,
+      "canonical_url": "https://world-nuclear-news.org/",
+      "coverage": "Industry trade reporting focused on nuclear power and fuel cycle developments."
+    },
+    {
+      "name": "NucNet",
+      "tier": "trade",
+      "primary_source": false,
+      "canonical_url": "https://www.nucnet.org/",
+      "coverage": "European and global nuclear industry reporting."
+    },
+    {
+      "name": "Nuclear Engineering International",
+      "tier": "trade",
+      "primary_source": false,
+      "canonical_url": "https://www.neimagazine.com/",
+      "coverage": "Nuclear engineering trade reporting and analysis."
+    },
+    {
+      "name": "ANS Nuclear Newswire",
+      "tier": "trade",
+      "primary_source": false,
+      "canonical_url": "https://www.ans.org/news/",
+      "coverage": "American Nuclear Society news and industry updates."
+    }
+  ]
+}

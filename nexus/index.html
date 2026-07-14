@@ -1,14 +1,172 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>energy-dashboard</title>
-    <script type="module" crossorigin src="./assets/index-CN6NcpmP.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-3lL-lE6Q.css">
+    <meta
+      name="description"
+      content="Nexus is a market-intelligence view over the existing news feed with search, filters, sorting, and article detail."
+    />
+    <meta name="theme-color" content="#090d16" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Nexus</title>
+    <script type="module" src="./app.js"></script>
   </head>
   <body>
-    <div id="root"></div>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <div class="app-shell">
+      <header class="site-header" id="top">
+        <div class="site-brand">
+          <p class="eyebrow">Nexus</p>
+          <h1>Market intelligence feed</h1>
+          <p class="lede">
+            Energy is the default view. Search, filter, sort, and inspect feed items without depending on compiled assets.
+          </p>
+        </div>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="#filters">Filters</a>
+          <a href="#results">Reports</a>
+          <a href="#detail-panel">Detail</a>
+        </nav>
+      </header>
+
+      <main id="main-content" class="workspace" aria-busy="true">
+        <section class="status-banner" id="freshness-banner" aria-live="polite" role="status">
+          Loading feed data.
+        </section>
+
+        <section class="panel panel--filters" id="filters" aria-labelledby="filters-heading">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Controls</p>
+              <h2 id="filters-heading">Search and refine</h2>
+            </div>
+            <p class="section-note">
+              Topic, category, impact, and sentiment are feed labels. Summaries are sanitized before display.
+            </p>
+          </div>
+
+          <div class="filters-grid">
+            <label class="field">
+              <span>Search</span>
+              <input
+                id="search-input"
+                type="search"
+                inputmode="search"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder="Search titles, summaries, sources, or labels"
+              />
+            </label>
+
+            <div class="field field--full">
+              <span>Topic</span>
+              <div id="topic-filter-group" class="chip-group" aria-label="Topic filter"></div>
+            </div>
+
+            <label class="field">
+              <span>Category</span>
+              <select id="category-filter">
+                <option value="All categories">All categories</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Impact</span>
+              <select id="impact-filter">
+                <option value="All impacts">All impacts</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Sort</span>
+              <select id="sort-filter">
+                <option value="newest">Newest first</option>
+                <option value="oldest">Oldest first</option>
+                <option value="impact">Impact</option>
+                <option value="source">Source</option>
+                <option value="title">Title</option>
+              </select>
+            </label>
+
+            <div class="field field--actions">
+              <span class="sr-only">Filter actions</span>
+              <button id="reset-filters" type="button" class="button button--secondary">Reset filters</button>
+            </div>
+          </div>
+        </section>
+
+        <div class="content-grid">
+          <section class="panel panel--results" id="results" aria-labelledby="results-heading">
+            <div class="section-head section-head--compact">
+              <div>
+                <p class="eyebrow">Reports</p>
+                <h2 id="results-heading">Article list</h2>
+              </div>
+              <div class="status-metrics" aria-live="polite">
+                <p id="result-count" class="metric">0 reports</p>
+                <p id="last-updated" class="metric metric--subtle">Last updated unavailable</p>
+              </div>
+            </div>
+
+            <p class="results-note" id="results-note">
+              Energy is the default topic filter when available.
+            </p>
+
+            <div id="loading-state" class="state-card state-card--loading">
+              <strong>Loading feed data.</strong>
+              <span>Fetching news_data.json.</span>
+            </div>
+
+            <div id="error-state" class="state-card state-card--error" hidden>
+              <strong>Unable to load the feed.</strong>
+              <span id="error-message">Please try again.</span>
+              <button id="retry-load" type="button" class="button button--secondary">Retry</button>
+            </div>
+
+            <div id="empty-state" class="state-card state-card--empty" hidden>
+              <strong>No matching reports.</strong>
+              <span>Adjust search or filters to broaden the list.</span>
+            </div>
+
+            <ul id="results-list" class="results-list" aria-label="Filtered reports"></ul>
+          </section>
+
+          <aside class="panel panel--detail" id="detail-panel" aria-labelledby="detail-heading">
+            <div class="section-head section-head--compact">
+              <div>
+                <p class="eyebrow">Detail</p>
+                <h2 id="detail-heading">Selected report</h2>
+              </div>
+            </div>
+
+            <div id="detail-empty" class="detail-empty">
+              <strong>No report selected.</strong>
+              <span>Select a report to inspect the sanitized summary, source link, and feed labels.</span>
+            </div>
+
+            <div id="detail-content" hidden></div>
+          </aside>
+        </div>
+      </main>
+    </div>
+
+    <dialog id="detail-dialog" class="detail-dialog" aria-labelledby="dialog-heading">
+      <div class="dialog-shell">
+        <div class="dialog-header">
+          <div>
+            <p class="eyebrow">Expanded detail</p>
+            <h2 id="dialog-heading">Report detail</h2>
+          </div>
+          <button id="close-dialog" type="button" class="icon-button" aria-label="Close detail dialog">
+            Close
+          </button>
+        </div>
+        <div id="dialog-content"></div>
+      </div>
+    </dialog>
   </body>
 </html>
