@@ -1,0 +1,41 @@
+name: Automated News Collector
+
+on:
+  schedule:
+    # Runs at 10:00 UTC (6:00 AM Eastern Daylight Time) every day
+    - cron: '0 10 * * *'
+  workflow_dispatch: # Allow running manually from the GitHub UI
+
+jobs:
+  collect-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push commits back to the repository
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Public Energy Collector
+        run: |
+          python collector.py --write --backup-existing --verbose
+          
+      - name: Run Admin Topic Collector
+        run: |
+          python admin_collector.py --config nexus/admin_collector_sources.json --output nexus/admin_news_data.json --write --backup-existing --verbose
+          
+      - name: Run Quality Verification
+        run: |
+          python scripts/news_quality_pipeline.py --feed nexus/news_data.json
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add nexus/news_data.json nexus/admin_news_data.json
+          # Commit and push only if there are tracked modifications
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily news refresh" && git push)
