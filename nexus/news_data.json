@@ -1,6 +1,141 @@
 [
   {
-    "id": "eia-lng-record-2026-07-14",
+    "title": "A reliability update for customers in New Orleans East",
+    "summary": "Entergy New Orleans continues to make progress on reliability improvements in the Kenilworth area of New Orleans East. This work is focused on strengthening the underground electric system by replacing critical equipment that will help improve reliability and reduce the likelihood of future outages.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/a-reliability-update-for-customers-in-new-orleans-east",
+    "timestamp": "2026-07-15T00:50:16Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/a-reliability-update-for-customers-in-new-orleans-east"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-15T00:50:16Z",
+    "id": "energy-1c0d0ca5400d3d68"
+  },
+  {
+    "title": "Team brings quantum computing into FLiBe chemistry calculations",
+    "summary": "Researchers have reported using a combination of quantum and classical computing to calculate chemistry connected to tritium speciation in a FLiBe—lithium fluoride and beryllium fluoride—molten salt blanket, demonstrating a promising direction for unlocking tritium breeding in fusion machines.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-14/article-8203/team-brings-quantum-computing-into-flibe-chemistry-calculations/",
+    "timestamp": "2026-07-14T20:12:37Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-14/article-8203/team-brings-quantum-computing-into-flibe-chemistry-calculations/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-14T20:12:37Z",
+    "id": "energy-210346b5fdca04f6"
+  },
+  {
+    "title": "Entergy New Orleans hosts annual Energize NOLA! Community Fair and Back-to-School Giveaway",
+    "summary": "Entergy New Orleans is inviting families across the city to join us for the annual Energize NOLA! Community Fair and Back-to-School Giveaway on Saturday, July 18, at the Joe W. Brown Memorial Recreation Center from 11 a.m. to 2 p.m.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-hosts-annual-energize-nola-community-fair-and-back-to-school-giveaway",
+    "timestamp": "2026-07-14T19:21:13Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-new-orleans-hosts-annual-energize-nola-community-fair-and-back-to-school-giveaway"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-14T19:21:13Z",
+    "id": "energy-2d1a1f32d003eee1"
+  },
+  {
+    "title": "ANS webinar looks to Utah’s nuclear future",
+    "summary": "On July 9, the American Nuclear Society hosted the third installment of its “Nuclear in the States” webinar series. This time, the webinar looked to the current landscape of Utah’s nuclear sector—from its policy developments to ongoing projects to workforce needs. ANS CEO Craig Piercy, who led the discussion, was joined by Chris Hayter, cofounder of Hi Tech Solutions and founder of Fulcrum Point Energy; Emy Lesofski, Utah Gov. Spencer Cox’s energy advisor and director of the Utah Office of Energy Development (OED); and Jeff Richardson, president of D&D and chief projects officer at EnergySolutions.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-14/article-8202/ans-webinar-looks-to-utahs-nuclear-future/",
+    "timestamp": "2026-07-14T18:31:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-14/article-8202/ans-webinar-looks-to-utahs-nuclear-future/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-14T18:31:31Z",
+    "id": "energy-1a081cf284f82e52"
+  },
+  {
+    "title": "Terms finalized for Australian uranium exports to India",
+    "summary": "Following up on an agreement that was signed 12 years ago, Australia and India have finalized the details by which Australian uranium will be exported to India for peaceful purposes and under the safeguards of the International Atomic Energy Agency. The Administrative Arrangement to enable the long-term exports was reached at the Third India–Australia Annual Summit, held in Melbourne on July 9. The summit coincided with a meeting between Indian Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-14/article-8201/terms-finalized-for-australian-uranium-exports-to-india/",
+    "timestamp": "2026-07-14T15:14:19Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-14/article-8201/terms-finalized-for-australian-uranium-exports-to-india/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-14T15:14:19Z",
+    "id": "energy-025f5a0dc6b1fce1"
+  },
+  {
+    "title": "Summer 2026 update on regional transmission investment now available; 3 projects under construction in New England",
+    "summary": "One upgrade has been placed in service since March 2026, according to the latest update to the Regional System Plan. The post Summer 2026 update on regional transmission investment now available; 3 projects under construction in New England appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/14/summer-2026-update-on-regional-transmission-investment-now-available-3-projects-under-construction-in-new-england/",
+    "timestamp": "2026-07-14T12:12:45Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/14/summer-2026-update-on-regional-transmission-investment-now-available-3-projects-under-construction-in-new-england/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-14T12:12:45Z",
+    "id": "energy-a0b48aca849e9cdd"
+  },
+  {
     "title": "Global liquefied natural gas trade volumes reached record high in 2025",
     "summary": "EIA says global LNG trade hit a record in 2025 and U.S. LNG exports rose sharply, supporting LNG infrastructure and gas-exposed assets, while Strait of Hormuz disruptions and sanctions still create supply-chain risk.",
     "source": "U.S. Energy Information Administration",
@@ -10,315 +145,91 @@
     "category": "Market Updates",
     "impact": "High",
     "sentiment": "Positive",
+    "citations": [
+      "https://www.eia.gov/todayinenergy/detail.php?id=67864"
+    ],
     "source_tier": "primary",
     "primary_source": true,
-    "entities": ["LNG", "United States", "Qatar", "Strait of Hormuz", "Europe"],
     "claims": [
       "Global LNG trade reached a record 56.3 Bcf/d in 2025.",
       "U.S. LNG exports rose 26% to 15.1 Bcf/d and EIA says 2026 flows were slowed by Hormuz-related disruption."
     ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67864"
+    "entities": [
+      "LNG",
+      "United States",
+      "Qatar",
+      "Strait of Hormuz",
+      "Europe"
     ],
-    "data_as_of": "2026-07-14T00:00:00Z"
+    "data_as_of": "2026-07-14T00:00:00Z",
+    "id": "energy-2fe5694a9e6d52cf"
   },
   {
-    "id": "eia-us-petroleum-exports-record-2026-07-08",
-    "title": "U.S. exports of crude oil and petroleum products reached record in April",
-    "summary": "EIA says U.S. petroleum exports hit a record in April as Hormuz-related disruptions lifted demand for U.S. barrels, but the same geopolitics that support exports can also keep markets volatile.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67825",
-    "timestamp": "2026-07-08T00:00:00Z",
+    "title": "Meet the pros: Spencer Smith",
+    "summary": "At Entergy, every employee has a designated role during a storm response, and whether it’s a minor disruption or a major event, each role is critical to helping us restore power as safely and as quickly as possible.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/meet-the-pros-spencer-smith",
+    "timestamp": "2026-07-13T20:38:50Z",
     "topic": "Energy",
-    "category": "Market Updates",
-    "impact": "Medium",
-    "sentiment": "Positive",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["United States", "petroleum exports", "Strait of Hormuz", "propane", "distillate"],
-    "claims": [
-      "U.S. petroleum exports reached 13.6 million b/d in April 2026.",
-      "Crude, propane, and distillate exports were especially strong."
-    ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67825"
-    ],
-    "data_as_of": "2026-07-08T00:00:00Z"
-  },
-  {
-    "id": "eia-refining-capacity-2026-06-29",
-    "title": "U.S. refining capacity decreased during 2025",
-    "summary": "EIA says U.S. refinery capacity fell in 2025 after closures in Houston and Los Angeles, which may aid surviving margins but tightens regional fuel availability, especially on the West Coast.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67807",
-    "timestamp": "2026-06-29T00:00:00Z",
-    "topic": "Energy",
-    "category": "Market Updates",
-    "impact": "Medium",
-    "sentiment": "Negative",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["U.S. refining", "West Coast", "PADD 5", "Houston", "Los Angeles"],
-    "claims": [
-      "U.S. operable atmospheric distillation capacity fell to 18.2 million b/cd on Jan. 1, 2026.",
-      "The report says refinery closures cut West Coast capacity more than Gulf Coast capacity."
-    ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67807"
-    ],
-    "data_as_of": "2026-06-29T00:00:00Z"
-  },
-  {
-    "id": "eia-nyiso-solar-midday-demand-2026-06-26",
-    "title": "Metered electricity demand in the New York ISO falls midday because of small-scale solar",
-    "summary": "EIA says small-scale solar is lowering midday metered demand in New York and steepening the evening ramp, which highlights flexibility value but also complicates balancing for grid operators.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67806",
-    "timestamp": "2026-06-26T00:00:00Z",
-    "topic": "Energy",
-    "category": "Grid Impacts",
-    "impact": "Medium",
+    "category": "General",
+    "impact": "Low",
     "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/meet-the-pros-spencer-smith"
+    ],
     "source_tier": "primary",
     "primary_source": true,
-    "entities": ["NYISO", "small-scale solar", "New York", "metered demand"],
-    "claims": [
-      "Midday metered demand has fallen as small-scale solar has grown.",
-      "The evening ramp has become steeper as solar output fades."
+    "entities": [
+      "Entergy"
     ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67806"
+    "tickers": [
+      "ETR"
     ],
-    "data_as_of": "2026-06-26T00:00:00Z"
+    "data_as_of": "2026-07-13T20:38:50Z",
+    "id": "energy-454edde3e2199c00"
   },
   {
-    "id": "eia-commercial-crude-inventories-2026-06-24",
-    "title": "U.S. commercial crude oil inventories have decreased in June",
-    "summary": "EIA says U.S. crude inventories, gasoline, and distillate stocks moved lower or mixed in mid-June, which can support price sensitivity and product spreads but also signals a tighter near-term balance.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67805",
-    "timestamp": "2026-06-24T00:00:00Z",
-    "topic": "Energy",
-    "category": "Market Updates",
-    "impact": "Medium",
-    "sentiment": "Neutral",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["U.S. crude inventories", "gasoline", "distillate", "refineries"],
-    "claims": [
-      "Commercial crude inventories fell by 6.1 million barrels in the week ending June 19.",
-      "Gasoline and distillate stocks remained below or near five-year averages."
-    ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67805"
-    ],
-    "data_as_of": "2026-06-24T00:00:00Z"
-  },
-  {
-    "id": "eia-uae-opec-plus-2026-06-23",
-    "title": "UAE's exit from OPEC+ reduced the group's share of crude oil production and capacity",
-    "summary": "EIA says the UAE's exit from OPEC+ would reduce the group's share of world crude production and capacity, while Hormuz rerouting and pipeline limits keep geopolitics and logistics risk elevated.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67804",
-    "timestamp": "2026-06-23T00:00:00Z",
-    "topic": "Energy",
-    "category": "Market Updates",
-    "impact": "Medium",
-    "sentiment": "Neutral",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["UAE", "OPEC+", "Strait of Hormuz", "ADCOP", "Saudi Arabia"],
-    "claims": [
-      "Without the UAE, OPEC+'s share of 2025 global crude production would be lower.",
-      "The article highlights pipeline rerouting and Hormuz exposure as constraints on exports."
-    ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67804"
-    ],
-    "data_as_of": "2026-06-23T00:00:00Z"
-  },
-  {
-    "id": "eia-permian-gas-growth-2026-06-18",
-    "title": "Permian natural gas production increased faster than crude oil",
-    "summary": "EIA says Permian gas output is growing faster than crude oil as the basin matures, supporting takeaway and gas-fired power themes, but rising gas-oil ratios and infrastructure constraints remain a risk.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67785",
-    "timestamp": "2026-06-18T00:00:00Z",
-    "topic": "Energy",
-    "category": "Market Updates",
-    "impact": "Medium",
-    "sentiment": "Positive",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["Permian Basin", "natural gas", "crude oil", "gas-oil ratio"],
-    "claims": [
-      "Permian marketed gas production grew 60% from 2021 to 2025.",
-      "EIA expects the gas-oil ratio to keep rising as the basin matures."
-    ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67785"
-    ],
-    "data_as_of": "2026-06-18T00:00:00Z"
-  },
-  {
-    "id": "pjm-data-center-accuracy-report-2026-06-05",
-    "title": "Data Center Accuracy Report",
-    "summary": "PJM's data-center load forecast accuracy report says large-load forecasting remains variable and hard to predict, which may improve transparency but also signals planning risk for utilities and developers.",
-    "source": "PJM",
-    "url": "https://www.pjm.com/-/media/DotCom/committees-groups/subcommittees/las/2026/20260605/20260605-item-04---load-adjustment-accuracy-report.pdf",
-    "timestamp": "2026-06-05T00:00:00Z",
-    "topic": "Energy",
-    "category": "Large Loads",
-    "impact": "Medium",
-    "sentiment": "Neutral",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["PJM", "data centers", "Long-Term Load Forecast", "forecast accuracy"],
-    "claims": [
-      "PJM will post an annual accuracy report for the data-center portion of its long-term load forecast.",
-      "The presentation says load inputs such as ramp rate and firm versus non-firm status are variable."
-    ],
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/committees-groups/subcommittees/las/2026/20260605/20260605-item-04---load-adjustment-accuracy-report.pdf"
-    ],
-    "data_as_of": "2026-06-05T00:00:00Z"
-  },
-  {
-    "id": "eia-china-nuclear-capacity-2026-06-05",
-    "title": "China's nuclear power capacity nearly doubled since 2016",
-    "summary": "EIA says China's nuclear fleet kept expanding, with more reactors under construction and a growing domestic supply chain, which supports long-cycle nuclear buildout but still leaves execution and concentration risk.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67746",
-    "timestamp": "2026-06-05T00:00:00Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "High",
-    "sentiment": "Positive",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["China", "IAEA PRIS", "nuclear supply chain", "Linglong-1", "SMR"],
-    "claims": [
-      "China's nuclear capacity increased 76% from 2016 to 2024 and rose further in 2025 and through May 2026.",
-      "China has 36 reactors under construction and is building its first SMR."
-    ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67746"
-    ],
-    "data_as_of": "2026-06-05T00:00:00Z"
-  },
-  {
-    "id": "pjm-summer-outlook-2026-05-07",
-    "title": "Summer Outlook 2026: PJM Prepared To Meet Growing Summer Demand With Adequate Resources",
-    "summary": "PJM says it expects adequate resources for typical summer peak demand and can lean on demand response, but data-center-driven load growth is tightening reserve margins and raising stress risk during heat or outages.",
-    "source": "PJM",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2026-releases/20260507-summer-outlook-202-pjm-prepared-to-meet-growing-summer-demand-with-adequate-resources.pdf",
-    "timestamp": "2026-05-07T00:00:00Z",
+    "title": "Ratepayer Letters Received as of July 10, 2026 Regarding Proposed Transmission Upgrades",
+    "summary": "Updated Date: 07.13.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260713-ratepayer-letters-received-as-of-july-2026-re-proposed-transmission-upgrades.pdf",
+    "timestamp": "2026-07-13T14:38:00Z",
     "topic": "Energy",
     "category": "RTOs / ISOs",
-    "impact": "High",
-    "sentiment": "Neutral",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["PJM", "demand response", "reserve margins", "data centers"],
-    "claims": [
-      "PJM forecasts sufficient generation for typical peak demand this summer.",
-      "It says load growth from data centers is outpacing new generation and tightening reserve margins."
-    ],
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2026-releases/20260507-summer-outlook-202-pjm-prepared-to-meet-growing-summer-demand-with-adequate-resources.pdf"
-    ],
-    "data_as_of": "2026-05-07T00:00:00Z"
-  },
-  {
-    "id": "eia-smr-microreactors-us-2026-04-27",
-    "title": "Small modular reactors and microreactors under development in the United States",
-    "summary": "EIA says several U.S. SMR and microreactor designs remain in development for grid, industrial, and data-center use, but high capital costs, licensing timelines, and HALEU fuel availability remain major hurdles.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67584",
-    "timestamp": "2026-04-27T00:00:00Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "High",
-    "sentiment": "Positive",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["SMRs", "microreactors", "HALEU", "data centers", "industrial loads"],
-    "claims": [
-      "Several U.S. companies are developing SMR and microreactor designs.",
-      "High capital costs, licensing/approval processes, and HALEU fuel needs still constrain deployment."
-    ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67584"
-    ],
-    "data_as_of": "2026-04-27T00:00:00Z"
-  },
-  {
-    "id": "eia-japan-reactor-restart-2026-03-02",
-    "title": "Nuclear reactor restart in Japan will likely displace natural gas electricity generation",
-    "summary": "EIA says restarting Kashiwazaki-Kariwa Unit 6 should displace some LNG-fired generation in Japan, but the country still relies heavily on LNG imports and restart timing remains sensitive.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67244",
-    "timestamp": "2026-03-02T00:00:00Z",
-    "topic": "Energy",
-    "category": "Market Updates",
-    "impact": "Medium",
-    "sentiment": "Neutral",
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": ["Japan", "Kashiwazaki-Kariwa Unit 6", "TEPCO", "LNG"],
-    "claims": [
-      "The restart should displace natural-gas generation.",
-      "Japan still imports large volumes of LNG and TEPCO delayed Unit 7 until 2029-2030."
-    ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67244"
-    ],
-    "data_as_of": "2026-03-02T00:00:00Z"
-  },
-  {
-    "id": "eia-nuclear-outages-2026-01-26",
-    "title": "Nuclear plants reported few outages in the first three weeks of January 2026",
-    "summary": "EIA says U.S. nuclear outages averaged 2.0 GW in the first three weeks of January 2026, supporting baseload reliability, although the Palisades restart still accounts for most current outages and planned maintenance remains seasonal.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67047",
-    "timestamp": "2026-01-26T00:00:00Z",
-    "topic": "Energy",
-    "category": "Market Updates",
     "impact": "Low",
-    "sentiment": "Positive",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260713-ratepayer-letters-received-as-of-july-2026-re-proposed-transmission-upgrades.pdf"
+    ],
     "source_tier": "primary",
     "primary_source": true,
-    "entities": ["Palisades Nuclear Plant", "U.S. nuclear fleet", "planned outages"],
-    "claims": [
-      "Average nuclear outages were 2.0 GW from Jan. 1-21, 2026, below the prior five-year range for most days.",
-      "Palisades restart accounted for nearly three-quarters of total U.S. nuclear outages on Jan. 6."
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
     ],
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67047"
-    ],
-    "data_as_of": "2026-01-26T00:00:00Z"
+    "data_as_of": "2026-07-13T14:38:00Z",
+    "id": "energy-862bbbc57b4eb007"
   },
   {
-    "id": "pjm-large-loads-reliably-2026-01-16",
-    "title": "PJM Board Outlines Plans To Integrate Large Loads Reliably",
-    "summary": "PJM says it plans proposals and process changes to integrate new data centers and other large loads while preserving reliability and affordability, but the plan is interim and could still raise consumer-cost and interconnection risk.",
-    "source": "PJM",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2026-releases/20260116-pjm-board-outlines-plans-to-integrate-large-loads-reliably.pdf",
-    "timestamp": "2026-01-16T00:00:00Z",
+    "title": "ISO Minute: Publishing the CELT Report",
+    "summary": "Melanie Buell works with experts across the ISO to compile a foundational resource for system planning and reliability studies. The post ISO Minute: Publishing the CELT Report appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/13/iso-minute-publishing-the-celt-report/",
+    "timestamp": "2026-07-13T12:45:46Z",
     "topic": "Energy",
-    "category": "Large Loads",
-    "impact": "High",
+    "category": "General",
+    "impact": "Low",
     "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/13/iso-minute-publishing-the-celt-report/"
+    ],
     "source_tier": "primary",
     "primary_source": true,
-    "entities": ["PJM", "data centers", "large loads", "FERC", "interconnection"],
-    "claims": [
-      "PJM outlined actions to integrate new data centers and other large loads.",
-      "The plan includes faster interconnection paths, curtailment options, and market reviews."
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
     ],
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2026-releases/20260116-pjm-board-outlines-plans-to-integrate-large-loads-reliably.pdf"
-    ],
-    "data_as_of": "2026-01-16T00:00:00Z"
+    "data_as_of": "2026-07-13T12:45:46Z",
+    "id": "energy-4c31f65266bf1b61"
   }
 ]
