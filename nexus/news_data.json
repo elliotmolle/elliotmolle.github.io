@@ -1,5 +1,141 @@
 [
   {
+    "title": "Gov. Sherrill signs bill to begin nuclear procurement in N.J.",
+    "summary": "On July 13, New Jersey Gov. Mikie Sherrill signed the Power NJ Act, a bill that directs the state’s Board of Public Utilities (BPU), in collaboration with the state’s Economic Development Authority, to establish an “advanced nuclear energy procurement program.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-15/article-8207/gov-sherrill-signs-bill-to-begin-nuclear-procurement-in-nj/",
+    "timestamp": "2026-07-15T20:23:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-15/article-8207/gov-sherrill-signs-bill-to-begin-nuclear-procurement-in-nj/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-15T20:23:00Z",
+    "id": "energy-07e5506052e6a45b"
+  },
+  {
+    "title": "House subcommittee OKs six nuclear permitting reform bills",
+    "summary": "The U.S. House Energy and Commerce Committee’s Subcommittee on Energy introduced six nuclear permitting reform bills back in June. The mostly bipartisan bills returned to the subcommittee on Tuesday for markups—and with strong backing from both sides of the aisle. Despite some lingering concerns in areas like federal transparency, the role of the Advisory Committee on Reactor Safeguards (ACRS), and staff attrition in the Nuclear Regulatory Commission, the subcommittee advanced all six pieces of legislation to the full committee with bipartisan support.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-15/article-8206/house-subcommittee-oks-six-nuclear-permitting-reform-bills/",
+    "timestamp": "2026-07-15T17:40:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-15/article-8206/house-subcommittee-oks-six-nuclear-permitting-reform-bills/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-15T17:40:23Z",
+    "id": "energy-46fb1c750ce996fd"
+  },
+  {
+    "title": "Story named director of industrial accounts at Entergy Arkansas",
+    "summary": "Entergy Arkansas has promoted Bentley Story to director of industrial accounts.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/story-named-director-of-industrial-accounts-at-entergy-arkansas",
+    "timestamp": "2026-07-15T14:44:34Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/story-named-director-of-industrial-accounts-at-entergy-arkansas"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-15T14:44:34Z",
+    "id": "energy-6733ec7f734447c4"
+  },
+  {
+    "title": "Researchers demonstrate remote real-time adjustment of PUR-1 reactor",
+    "summary": "The remote, automatic, real-time adjustment of a research reactor’s power by a geographically distributed control system has been reported by researchers from Idaho National Laboratory, the Grainger College of Engineering at the University of Illinois–Urbana-Champaign, and Purdue University. The investigators first used an automatic adjustment “digital control loop” system to demonstrate remote adjustments of Purdue’s PUR-1 research reactor. They then applied a reinforcement learning model that simulates the interaction of physical forces inside the reactor, making the loop system more autonomous.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-15/article-8205/researchers-demonstrate-remote-realtime-adjustment-of-pur1-reactor/",
+    "timestamp": "2026-07-15T14:33:07Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-15/article-8205/researchers-demonstrate-remote-realtime-adjustment-of-pur1-reactor/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-15T14:33:07Z",
+    "id": "energy-5c34ff5638f24264"
+  },
+  {
+    "title": "Ebb and flow of wholesale energy prices detailed in ISO-NE charts",
+    "summary": "Variables like the weather, consumer demand, and fuel costs mean the price of wholesale electricity is in constant flux. The post Ebb and flow of wholesale energy prices detailed in ISO-NE charts appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/15/ebb-and-flow-of-wholesale-energy-prices-detailed-in-iso-ne-charts/",
+    "timestamp": "2026-07-15T13:29:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/15/ebb-and-flow-of-wholesale-energy-prices-detailed-in-iso-ne-charts/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-15T13:29:20Z",
+    "id": "energy-1ac4e4eb4605cd01"
+  },
+  {
+    "title": "Entergy and MHI Group outline collaborative partnership designed to accelerate commercialization and affordability around carbon capture solutions",
+    "summary": "Entergy and MHI Group take a leadership position in advancing decarbonization with innovative gas turbine combined cycle and carbon dioxide capture and storage solutions to support sustainable and affordable clean power generation.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-and-mhi-group-outline-collaborative-partnership-designed-to-accelerate-commercialization-and-affordability-around-carbon-capture-solutions",
+    "timestamp": "2026-07-15T13:00:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-and-mhi-group-outline-collaborative-partnership-designed-to-accelerate-commercialization-and-affordability-around-carbon-capture-solutions"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-15T13:00:36Z",
+    "id": "energy-6a07b28cdec62b88"
+  },
+  {
     "title": "A reliability update for customers in New Orleans East",
     "summary": "Entergy New Orleans continues to make progress on reliability improvements in the Kenilworth area of New Orleans East. This work is focused on strengthening the underground electric system by replacing critical equipment that will help improve reliability and reduce the likelihood of future outages.",
     "source": "Entergy",
@@ -22,96 +158,6 @@
     ],
     "data_as_of": "2026-07-15T00:50:16Z",
     "id": "energy-1c0d0ca5400d3d68"
-  },
-  {
-    "title": "Team brings quantum computing into FLiBe chemistry calculations",
-    "summary": "Researchers have reported using a combination of quantum and classical computing to calculate chemistry connected to tritium speciation in a FLiBe—lithium fluoride and beryllium fluoride—molten salt blanket, demonstrating a promising direction for unlocking tritium breeding in fusion machines.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-14/article-8203/team-brings-quantum-computing-into-flibe-chemistry-calculations/",
-    "timestamp": "2026-07-14T20:12:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-14/article-8203/team-brings-quantum-computing-into-flibe-chemistry-calculations/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-14T20:12:37Z",
-    "id": "energy-210346b5fdca04f6"
-  },
-  {
-    "title": "Entergy New Orleans hosts annual Energize NOLA! Community Fair and Back-to-School Giveaway",
-    "summary": "Entergy New Orleans is inviting families across the city to join us for the annual Energize NOLA! Community Fair and Back-to-School Giveaway on Saturday, July 18, at the Joe W. Brown Memorial Recreation Center from 11 a.m. to 2 p.m.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-hosts-annual-energize-nola-community-fair-and-back-to-school-giveaway",
-    "timestamp": "2026-07-14T19:21:13Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-hosts-annual-energize-nola-community-fair-and-back-to-school-giveaway"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-14T19:21:13Z",
-    "id": "energy-2d1a1f32d003eee1"
-  },
-  {
-    "title": "ANS webinar looks to Utah’s nuclear future",
-    "summary": "On July 9, the American Nuclear Society hosted the third installment of its “Nuclear in the States” webinar series. This time, the webinar looked to the current landscape of Utah’s nuclear sector—from its policy developments to ongoing projects to workforce needs. ANS CEO Craig Piercy, who led the discussion, was joined by Chris Hayter, cofounder of Hi Tech Solutions and founder of Fulcrum Point Energy; Emy Lesofski, Utah Gov. Spencer Cox’s energy advisor and director of the Utah Office of Energy Development (OED); and Jeff Richardson, president of D&D and chief projects officer at EnergySolutions.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-14/article-8202/ans-webinar-looks-to-utahs-nuclear-future/",
-    "timestamp": "2026-07-14T18:31:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-14/article-8202/ans-webinar-looks-to-utahs-nuclear-future/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-14T18:31:31Z",
-    "id": "energy-1a081cf284f82e52"
-  },
-  {
-    "title": "Terms finalized for Australian uranium exports to India",
-    "summary": "Following up on an agreement that was signed 12 years ago, Australia and India have finalized the details by which Australian uranium will be exported to India for peaceful purposes and under the safeguards of the International Atomic Energy Agency. The Administrative Arrangement to enable the long-term exports was reached at the Third India–Australia Annual Summit, held in Melbourne on July 9. The summit coincided with a meeting between Indian Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-14/article-8201/terms-finalized-for-australian-uranium-exports-to-india/",
-    "timestamp": "2026-07-14T15:14:19Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-14/article-8201/terms-finalized-for-australian-uranium-exports-to-india/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-14T15:14:19Z",
-    "id": "energy-025f5a0dc6b1fce1"
   },
   {
     "title": "Summer 2026 update on regional transmission investment now available; 3 projects under construction in New England",
@@ -163,30 +209,6 @@
     ],
     "data_as_of": "2026-07-14T00:00:00Z",
     "id": "energy-2fe5694a9e6d52cf"
-  },
-  {
-    "title": "Meet the pros: Spencer Smith",
-    "summary": "At Entergy, every employee has a designated role during a storm response, and whether it’s a minor disruption or a major event, each role is critical to helping us restore power as safely and as quickly as possible.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/meet-the-pros-spencer-smith",
-    "timestamp": "2026-07-13T20:38:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/meet-the-pros-spencer-smith"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-13T20:38:50Z",
-    "id": "energy-454edde3e2199c00"
   },
   {
     "title": "Ratepayer Letters Received as of July 10, 2026 Regarding Proposed Transmission Upgrades",

@@ -1,21 +1,399 @@
 [
   {
-    "title": "Assassin’s Creed Black Flag Resynced features the series’ best weapon, and it’s not dual Hidden Blades",
-    "summary": "Assassin’s Creed Black Flag Resynced features plenty of skirmishes on enemy ships, and nothing is better than kicking enemies overboard during them.",
+    "title": "Christopher Nolan's most political movie is also his worst, and it's not the one you think",
+    "summary": "Despite the headlines, The Odyssey is not a political movie. The Dark Knight Rises is, though, which is part of the reason why it's bad",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-best-weapon-spartan-kick/",
-    "timestamp": "2026-07-15T11:00:36Z",
+    "url": "https://www.polygon.com/christopher-nolan-most-political-movie/",
+    "timestamp": "2026-07-16T11:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/assassins-creed-black-flag-resynced-best-weapon-spartan-kick/"
+      "https://www.polygon.com/christopher-nolan-most-political-movie/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-15T11:00:36Z",
-    "id": "energy-4d57a129f977c3be"
+    "data_as_of": "2026-07-16T11:00:12Z",
+    "id": "energy-974a0237312bba67"
+  },
+  {
+    "title": "Mario Tennis Fever gets Super Mario Galaxy-themed 1.1.0 update",
+    "summary": "Nintendo's first big patch for the Switch 2 tennis game includes a new Fever Racket, a new court, a new Special Match, and GameShare support",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/mario-tennis-fever-galaxy-1-1-update-patch/",
+    "timestamp": "2026-07-16T10:42:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/mario-tennis-fever-galaxy-1-1-update-patch/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-16T10:42:15Z",
+    "id": "energy-96df97798c5ea23e"
+  },
+  {
+    "title": "Another Elder Scrolls game is in jeopardy as Xbox layoffs hit heads of major studio",
+    "summary": "Over 200 staff have been laid off from ZeniMax Online Studios, the team behind The Elder Scrolls Online, including senior leadership figures.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/elder-scrolls-online-eso-zenimax-online-studios-xbox-cuts-leadership-team/",
+    "timestamp": "2026-07-16T10:38:07Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/elder-scrolls-online-eso-zenimax-online-studios-xbox-cuts-leadership-team/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-16T10:38:07Z",
+    "id": "energy-749252f40dbbd50a"
+  },
+  {
+    "title": "OnePlus halts operations in USA and Europe",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://community.oneplus.com/thread/2170715118587871237",
+    "timestamp": "2026-07-16T10:14:04Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://community.oneplus.com/thread/2170715118587871237"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-16T10:14:04Z",
+    "id": "energy-609c0b5c3bddd011"
+  },
+  {
+    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://joinedanthropic.com/",
+    "timestamp": "2026-07-16T08:03:35Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://joinedanthropic.com/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-16T08:03:35Z",
+    "id": "energy-5341fa5d39eed2ec"
+  },
+  {
+    "title": "Netstrings (1997)",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://cr.yp.to/proto/netstrings.txt",
+    "timestamp": "2026-07-16T05:33:50Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://cr.yp.to/proto/netstrings.txt"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-16T05:33:50Z",
+    "id": "energy-d620ea2d1bc8fa3e"
+  },
+  {
+    "title": "Words don't come easy: strong affine representations of the polycyclic monoids",
+    "summary": "arXiv:2607.13290v1 Announce Type: new Abstract: Each one-dimensional strong affine representation of the polycyclic monoid $\\mathcal{P}_n$ is induced by a complete system of residues modulo $n$. We completely characterize these representations in the case when the system of residues is an arithmetic sequence. We accomplish this by introducing a closure operator on the set of primitive words over $\\{0,1,\\dots,n-1\\}$, and we also describe the lattice of closed sets. This characterization covers all one-dimensional strong affine representations of $\\mathcal{P}_2$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.13290",
+    "timestamp": "2026-07-16T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.13290"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-16T04:00:00Z",
+    "id": "energy-15f0e3d0507d5d3b"
+  },
+  {
+    "title": "When is the combined load identifiable from a stress-intensity profile? A coupled forward-inverse study on SIFBench finite-element data",
+    "summary": "arXiv:2607.13074v1 Announce Type: new Abstract: This work studies the inverse problem of recovering the relative magnitudes of the tension, bending, and bearing loads acting on a crack from its stress-intensity-factor profile along the crack front, using the public SIFBench finite-element data. The central claim is not forensic load recovery on field cases, but a rigorous characterization of when the combined load is identifiable at all, together with an estimator that returns calibrated uncertainty precisely in the regimes where it is not. For a known geometry the forward map from loads to profile is exactly linear, and identifiability reduces to a single geometric question: whether the three elementary load profiles are linearly independent as functions along the front. When they are nearly dependent, many different load combinations produce almost the same profile and the inverse problem is illposed; the analysis shows that the degree of ill-posedness is controlled by an intrinsic stability margin, not by the conditioning number alone. A single crack-front operator serves both as a structured forward surrogate and as the differentiable map required by a simplex-constrained, set…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.13074",
+    "timestamp": "2026-07-16T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.13074"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-16T04:00:00Z",
+    "id": "energy-5a1253a6d8b5e028"
+  },
+  {
+    "title": "When can a neural operator replace a coarse solve? Architectural principles for two-level preconditioning",
+    "summary": "arXiv:2605.19867v3 Announce Type: replace Abstract: Neural operators are increasingly used as accelerators inside classical numerical methods, but it is rarely clear which architectural ingredients matter for which application. We answer this question for one important use case: the coarse-space correction inside a two-level preconditioner for discretised linear partial differential equations. We systematically vary four DeepONet-like architectures along two design axes: input discretisation (sampling versus integration against a basis) and source-term linearity. In doing this, we show that the favourable corner of this 2$\\times$2 design is occupied by a single architecture, the Neural Green's Operator (NGO), and that moving away from it produces predictable failure modes: structurally non-symmetric preconditioned spectra, breakdown of preconditioned conjugate gradients on self-adjoint problems, and stagnation on non-self-adjoint ones. Used as a coarse-space correction, the NGO matches the iteration count of an exact coarse solve on diffusion and advection-diffusion problems. The principle generalises: integrating inputs against the basis used for the output is what allows a neura…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2605.19867",
+    "timestamp": "2026-07-16T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2605.19867"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-16T04:00:00Z",
+    "id": "energy-38efaa59a313ed8b"
+  },
+  {
+    "title": "Elder Scrolls Online Studio Leadership Revealed To Be Part Of The Xbox Cuts, But Say They Have ‘Tremendous Confidence’ In The Game’s Future",
+    "summary": "Studio head Jo Burba is among the layoffs",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/elder-scrolls-online-studio-leadership-revealed-to-be-part-of-the-xbox-cuts-but-say-they-have-tremendous-confidence-in-the-games-future-2000716382",
+    "timestamp": "2026-07-16T00:06:47Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/elder-scrolls-online-studio-leadership-revealed-to-be-part-of-the-xbox-cuts-but-say-they-have-tremendous-confidence-in-the-games-future-2000716382"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-16T00:06:47Z",
+    "id": "energy-86db784ba148e5a2"
+  },
+  {
+    "title": "PlayStation’s Summer Sale Includes A Ton Of PS5 Games That Cost $15 Or Less",
+    "summary": "A lot of Resident Evil, Mortal Kombat, and Star Wars games are on sale for less than $20",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362",
+    "timestamp": "2026-07-16T00:00:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-16T00:00:19Z",
+    "id": "energy-dbf2ac1e2495c575"
+  },
+  {
+    "title": "PS6 Could Fix The Launch PS5’s Liquid Metal Cooling Snafu",
+    "summary": "A new patent suggests a notable revision for next-gen",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/ps6-could-fix-the-launch-ps5sliquid-metal-cooling-snafu-2000716337",
+    "timestamp": "2026-07-15T23:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/ps6-could-fix-the-launch-ps5sliquid-metal-cooling-snafu-2000716337"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-15T23:00:14Z",
+    "id": "energy-f98e0fc58b7afe8a"
+  },
+  {
+    "title": "My Dream RLCS Format [Video]",
+    "summary": "Since we're in this long break before the World Championship, I've been seeing some discussion around the RLCS Format, and I thought I'd give my two cents on what my personal dream RLCS format would be! tl;dw in the comments submitted by /u/Xmoonsheep [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1uxlbkt/my_dream_rlcs_format_video/",
+    "timestamp": "2026-07-15T22:57:52Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1uxlbkt/my_dream_rlcs_format_video/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-15T22:57:52Z",
+    "id": "energy-bad68e4867a80a56"
+  },
+  {
+    "title": "Grand Canyon University signs Roll Dizz as Head Coach",
+    "summary": "Interesting to see considering the college is only 30 minutes from me lol submitted by /u/xFalcade [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1uxgnz6/grand_canyon_university_signs_roll_dizz_as_head/",
+    "timestamp": "2026-07-15T19:59:25Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1uxgnz6/grand_canyon_university_signs_roll_dizz_as_head/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-15T19:59:25Z",
+    "id": "energy-a4f7e384b04adb66"
+  },
+  {
+    "title": "Which RLCS caster will lose their voice at this years world championship?",
+    "summary": "in 2024 it was stax in 2025 is was herc who do you think it will be this time around? submitted by /u/Legitimate-Sign-371 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1uxf80m/which_rlcs_caster_will_lose_their_voice_at_this/",
+    "timestamp": "2026-07-15T19:02:25Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1uxf80m/which_rlcs_caster_will_lose_their_voice_at_this/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-15T19:02:25Z",
+    "id": "energy-a5068c5a8ea25312"
+  },
+  {
+    "title": "UJAM and Rhodes offer UFX LOFI plugin for FREE",
+    "summary": "UJAM and Rhodes are offering UFX LOFI, UJAM’s retro degradation effect plugin, as a free download for newsletter subscribers. This is a separate Rhodes/UJAM giveaway page, and the process was a bit smoother than the V-Rack offer I covered earlier today. I entered my email on the promo page, and about a minute later, I [...] View post: UJAM and Rhodes offer UFX LOFI plugin for FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/15/ujam-rhodes-ufx-lofi/",
+    "timestamp": "2026-07-15T18:20:15Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/15/ujam-rhodes-ufx-lofi/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-15T18:20:15Z",
+    "id": "energy-0e72f554160a9c53"
+  },
+  {
+    "title": "Get Rhodes V-Rack for FREE via UJAM’s newsletter",
+    "summary": "UJAM is giving newsletter subscribers a free copy of Rhodes V-Rack, but there are a few hoops to jump through. The offer is available until July 19, so I’m posting this one literally minutes after getting the plugin so that BPB readers catch this on time. I received an email from UJAM with the subject [...] View post: Get Rhodes V-Rack for FREE via UJAM’s newsletter",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/15/ujam-rhodes-v-rack/",
+    "timestamp": "2026-07-15T15:55:23Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/15/ujam-rhodes-v-rack/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-15T15:55:23Z",
+    "id": "energy-dba6a43ec07aec69"
+  },
+  {
+    "title": "Reyes Amplifonics recreates the Harmony H303 tube amp with three new plugins (two freebies)",
+    "summary": "Developer Reyes Amplifonics has recreated the Harmony H303 tube amp with three new plugins (two of which are freebies). Reyes Amplifonics’ three new plugins include Triode, Reyes 303, and Kill Filter. Triode is a paid plugin, costing $39.99, while the other two are free to download. Before we get into the plugins, let’s take a [...] View post: Reyes Amplifonics recreates the Harmony H303 tube amp with three new plugins (two freebies)",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/15/reyes-amplifonics-h303/",
+    "timestamp": "2026-07-15T15:31:15Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/15/reyes-amplifonics-h303/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-15T15:31:15Z",
+    "id": "energy-b9be7a9e9f998d1c"
+  },
+  {
+    "title": "MISO’s Market Competitive In 2025 Amid 67% Rise In All-In Energy Price: Watchdog",
+    "summary": "By Ronnie Turner • MISO’s average load up 3% year over year to 78 GW • Real-time congestion management issues persist The Midcontinent Independent System Operator market performed competitively in 2025, MISO’s independent market monitor said in its annual state of the market report, but the grid operator must continue to adapt to new operational […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/misos-market-competitive-in-2025-amid-67-rise-in-all-in-energy-price-watchdog/",
+    "timestamp": "2026-07-15T14:45:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/misos-market-competitive-in-2025-amid-67-rise-in-all-in-energy-price-watchdog/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-15T14:45:27Z",
+    "id": "energy-ceaf93eec71eada2"
+  },
+  {
+    "title": "Miss. Commissioner Revives Call For Reassessment Of MISO Membership",
+    "summary": "By Amanda Durish Cook One public service commissioner wants Entergy Mississippi to scrutinize the advantages of remaining in MISO to avoid the transmission cost sharing that could be on the way. Mississippi Public Service Commissioner Wayne Carr asked Entergy to re-examine the benefits of remaining in MISO. He said recent load growth may have changed […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/miss-commissioner-revives-call-for-reassessment-of-miso-membership/",
+    "timestamp": "2026-07-15T14:44:45Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/miss-commissioner-revives-call-for-reassessment-of-miso-membership/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-15T14:44:45Z",
+    "id": "energy-e28eba8d988ea656"
+  },
+  {
+    "title": "Wisconsin Utilities Seek Halt On Competition For New Power Line Projects",
+    "summary": "By Francesca Pica As massive artificial intelligence data centers ramp up, Wisconsin utilities are racing to build the energy infrastructure needed to serve them. That involves major transmission upgrades, including high-voltage power lines and substations. To speed up building, Wisconsin transmission owners and other state utilities want a halt to competitive bidding on some interstate […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/wisconsin-utilities-seek-halt-on-competition-for-new-power-line-projects/",
+    "timestamp": "2026-07-15T14:43:40Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/wisconsin-utilities-seek-halt-on-competition-for-new-power-line-projects/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-15T14:43:40Z",
+    "id": "energy-314c11e1fdb306be"
   },
   {
     "title": "Spreading the good news about electrification",
@@ -34,117 +412,6 @@
     "primary_source": false,
     "data_as_of": "2026-07-15T10:11:17Z",
     "id": "energy-cce150bbd60847d0"
-  },
-  {
-    "title": "Supergirl is already getting a new adaptation after movie bombs at box office",
-    "summary": "DC and Penguin Random House Audio partner to release a full-cast audiobook adaptation of Tom King and Bilquis Evely's Supergirl: Woman of Tomorrow.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/supergirl-remake-woman-of-tomorrow-audiobook/",
-    "timestamp": "2026-07-15T10:09:06Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/supergirl-remake-woman-of-tomorrow-audiobook/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-15T10:09:06Z",
-    "id": "energy-482c346896f49a48"
-  },
-  {
-    "title": "Robert Pattinson's sci-fi thriller beat Christopher Nolan in 1 brilliant way — and it's completely free to stream",
-    "summary": "High Life is a slow-burn space story that portrays black holes with impressive accuracy.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/robert-pattinson-scifi-christopher-nolan-streaming-tubi-free/",
-    "timestamp": "2026-07-15T10:00:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/robert-pattinson-scifi-christopher-nolan-streaming-tubi-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-15T10:00:18Z",
-    "id": "energy-9ff678d39523657a"
-  },
-  {
-    "title": "Who's running all those tiny RPKI servers?",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
-    "timestamp": "2026-07-15T06:38:56Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-15T06:38:56Z",
-    "id": "energy-6f8d2cbfbadf5b1c"
-  },
-  {
-    "title": "I tricked Claude into leaking your deepest, darkest secrets",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "timestamp": "2026-07-15T06:28:00Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ayush.digital/blog/the-memory-heist"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-15T06:28:00Z",
-    "id": "energy-e8ef5b71091c7d46"
-  },
-  {
-    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-    "timestamp": "2026-07-15T06:02:17Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-15T06:02:17Z",
-    "id": "energy-ca2ff9409e1a95c4"
-  },
-  {
-    "title": "Sneak peek at ReplayGrid; a Rocket League tournament archive, rankings system, and browser-based 3D replay viewer I’ve been building",
-    "summary": "I’ve been working on a Rocket League site called ReplayGrid, and it’s finally far enough along that I wanted to show an early version of it. The idea is to bring tournaments, brackets, standings, match history, rankings, predictions, replay downloads, and replay analysis into one place. The ReplayGrid homepage. Important disclaimer before anything else The database is still incomplete, so a lot of the numbers shown in these screenshots are not accurate yet. I currently have around 40,000 replay files, but many of them still need to be processed, named correctly, connected to the right tournament, matched with the right teams and players, or checked for bad data. That means things like rankings, records, rosters, player names, predictions, dates, and match-review scores may be wrong or incomplete right now. I’m mainly showing the site itself and what I’m working toward. Tournaments ReplayGrid has pages for ongoing, upcoming, and past tournaments. The goal is to make it easy to move between an event overview, its bracket or group stage, individual series, and the replays from those matches. Tournament pages can include: Brackets Groups and standings Match schedules Broadcast links T…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1uwvvfu/sneak_peek_at_replaygrid_a_rocket_league/",
-    "timestamp": "2026-07-15T04:49:28Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1uwvvfu/sneak_peek_at_replaygrid_a_rocket_league/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-15T04:49:28Z",
-    "id": "energy-849660859f445bf0"
   },
   {
     "title": "How Lito Adiwang built one of Philippine MMA's most exciting careers",
@@ -169,192 +436,6 @@
     "id": "energy-0b8b1d59813fa018"
   },
   {
-    "title": "When does a state-dependent proto-area define a bulk geometry?",
-    "summary": "arXiv:2606.22598v2 Announce Type: replace-cross Abstract: An area-like function for each boundary region need not come from a single bulk geometry. Cross-region locality requires the data for all regions to factor through a single boundary-length map. We formulate this common-source condition as a nonlinear sewing problem. For a fixed network chamber, we derive exact primal and dual certificates together with an operator-valued criterion for central area operators. On the hyperbolic disk, the first variation lies in the range of the rank-two geodesic X-ray transform. At second order, extremality no longer removes geodesic displacement, and the forced Jacobi equation determines the normal Hessian of renormalized boundary length. We prove a gauge-invariant necessary and sufficient criterion for a regular proto-area coefficient two-jet to arise from a metric two-jet. At a product reference, we prove an exact orthogonal decomposition for the Bogoliubov--Kubo--Mori (BKM) metric associated with the Petz recovery map. If the traced-out factor is nontrivial, no unrestricted reverse stability bound exists; on an observable tangent space the sharp constant is $(1-\\alpha_E)/\\alpha_E$, with $…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2606.22598",
-    "timestamp": "2026-07-15T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2606.22598"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-15T04:00:00Z",
-    "id": "energy-67b2fb1e7f5da366"
-  },
-  {
-    "title": "Well-Posedness of the Schr\\\"odinger -- Intermediate Long Wave system",
-    "summary": "arXiv:2606.22763v2 Announce Type: replace Abstract: The system coupled by the Schr\\\"odinger equation and the Intermediate Long Wave (ILW) equation is a particular model describing the interaction of long and short waves. We prove local and global well-posedness of the initial value problem associated with this system in Sobolev spaces of low regularity. Our approach relies on the use of energy estimates, Bourgain spaces, and Tao's gauge transformation.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2606.22763",
-    "timestamp": "2026-07-15T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2606.22763"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-15T04:00:00Z",
-    "id": "energy-edddb1d7cd929f2e"
-  },
-  {
-    "title": "Well-posedness of Ricci Flow in Lorentzian Spacetime and its Entropy Formula",
-    "summary": "arXiv:2509.17733v3 Announce Type: replace-cross Abstract: This paper attempts to construct monotonic entropy functionals for four-dimensional Lorentzian spacetime under physical boundary conditions, as an extension of Perelman's monotonic entropy functionals constructed for three-dimensional compact Riemannian manifolds. The monotonicity of these entropy functionals is utilized to prove the well-posedness of applying Ricci flow to four-dimensional Lorentzian spacetime for a long flow-time, particularly for the timelike modes which would seem blow up and ill-defined. The general idea is that the Ricci flow of a Lorentzian spacetime metric and the coupled conjugate heat flow of a density on the Lorentzian spacetime as a whole turns out to be the gradient flows of the monotonic functionals for a long flow-time, so the superficial \"blow-up\" in the individual Ricci flow system or the conjugate heat flow system contradicts the boundedness of the monotonic functionals within finite flow interval, which gives a semi-global control to the whole coupled system. The physical significance and applications of these monotonic entropy functionals in real gravitational systems are also discussed.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2509.17733",
-    "timestamp": "2026-07-15T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2509.17733"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-15T04:00:00Z",
-    "id": "energy-2a2a245041cbe38b"
-  },
-  {
-    "title": "[FIFAe Nations League] Lithuania awarded with 0 pts after playing out and winning series",
-    "summary": "Looking through the results tonight I was wondering what went on in Group B after seeing the curious amount of forfeits. Bosnia and Herzegovina by the looks of it did not show up for any of their 3 series, but after having watched England v Lithuania play out live on SubParButInHD I couldn't help but wonder what went down in Lithuania's other matchup. Game 1 as you can see very clearly ends 2-1 to Lithuania https://www.youtube.com/live/YZkb7N-BOcs?t=870s And Game 2 4-2 to Lithuania https://www.youtube.com/live/YZkb7N-BOcs?t=1382 You can also see this score displayed on FIFAe's official website very briefly here https://www.youtube.com/live/YZkb7N-BOcs?t=1557 However, a bit later on you can see the result has been changed to 0-3 0-3 against Lithuania, awarding them no points https://www.youtube.com/live/YZkb7N-BOcs?t=2021 But why? I didn't see anything untoward during the game or in chat, and it appears all of their players used decals, wheels, toppers etc either freely available in the game or for purchase in the item shop. From what I can see, Lithuania should have been awarded all 3pts as they won the series fair and square, placing them second in the group and not third. submit…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1uwnnqc/fifae_nations_league_lithuania_awarded_with_0_pts/",
-    "timestamp": "2026-07-14T22:35:43Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1uwnnqc/fifae_nations_league_lithuania_awarded_with_0_pts/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-14T22:35:43Z",
-    "id": "energy-45bb8e88946bf4f8"
-  },
-  {
-    "title": "Truth Scrapper Is A Cheerful, Messy, and Breezily Queer Mystery I Can’t Wait To Piece Together",
-    "summary": "I have learned about myself that I am Team Betz",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/truth-scrapper-is-a-cheerful-messy-and-breezily-queer-mystery-i-cant-wait-to-piece-together-2000715933",
-    "timestamp": "2026-07-14T22:28:28Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/truth-scrapper-is-a-cheerful-messy-and-breezily-queer-mystery-i-cant-wait-to-piece-together-2000715933"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-14T22:28:28Z",
-    "id": "energy-6ef3cf502a361ca2"
-  },
-  {
-    "title": "Stizzy builds good chemistry with his teammates following the World Cup semis",
-    "summary": "https://x.com/stizzyrl/status/2077135880494456948?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1uwn5rj/stizzy_builds_good_chemistry_with_his_teammates/",
-    "timestamp": "2026-07-14T22:16:00Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1uwn5rj/stizzy_builds_good_chemistry_with_his_teammates/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-14T22:16:00Z",
-    "id": "energy-b636a0b20e4de2c5"
-  },
-  {
-    "title": "Monster Hunter Wilds Getting Permanent Price Cut Ahead Of Ascendance Expansion",
-    "summary": "Capcom's action-RPG is changing up how it bundles content",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/monster-hunter-wilds-getting-permanent-price-cut-ahead-of-ascendance-expansion-2000715939",
-    "timestamp": "2026-07-14T21:02:02Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/monster-hunter-wilds-getting-permanent-price-cut-ahead-of-ascendance-expansion-2000715939"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-14T21:02:02Z",
-    "id": "energy-157bd3caa495e71d"
-  },
-  {
-    "title": "Sony’s PS5 Fight Stick Will No Longer Arrive In Time For Marvel Tokon: Fighting Souls After Getting Indefinitely Delayed",
-    "summary": "The FlexStrike wireless fight stick is facing manufacturing issues",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/sonys-ps5-fight-stick-will-no-longer-arrive-in-time-for-marvel-tokon-fighting-souls-after-getting-indefinitely-delayed-2000715922",
-    "timestamp": "2026-07-14T20:31:48Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/sonys-ps5-fight-stick-will-no-longer-arrive-in-time-for-marvel-tokon-fighting-souls-after-getting-indefinitely-delayed-2000715922"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-14T20:31:48Z",
-    "id": "energy-b4949dcbdc2bfded"
-  },
-  {
-    "title": "MUEDsp releases two FREE macOS mastering plugins",
-    "summary": "Developer MUEDsp has released two free macOS plugins, MUEDsat and MUEDlim. Both plugins are taken from MUEDsp masterchain, a mastering suite that is currently in development. According to the developer Atsushi, each plugin is an actual stage from the master-bus chain used by the developer, pulled out and made free. So basically, these are not [...] View post: MUEDsp releases two FREE macOS mastering plugins",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/14/muedsp-free-mastering-plugins/",
-    "timestamp": "2026-07-14T17:14:08Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/14/muedsp-free-mastering-plugins/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-14T17:14:08Z",
-    "id": "energy-4e95f20a1b6734d6"
-  },
-  {
-    "title": "MAP Audio PAM is a deep pattern-based sampler with an exclusive BPB discount",
-    "summary": "MAP Audio’s PAM is a pattern-based sampler and drum-synth instrument for macOS and Windows, currently available with an exclusive 15% BPB discount. Use the coupon code BPB15 at checkout to get 15% off PAM until August 15. The regular price is $150, and MAP Audio also offers a rent-to-own option and a 7-day fully functional [...] View post: MAP Audio PAM is a deep pattern-based sampler with an exclusive BPB discount",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/14/map-audio-pam/",
-    "timestamp": "2026-07-14T16:45:58Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/14/map-audio-pam/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-14T16:45:58Z",
-    "id": "energy-901dae7f9b8a6d17"
-  },
-  {
     "title": "FloGrappling And ONE Championship Announce Groundbreaking Partnership",
     "summary": "FloGrappling have just announced a huge new partnership with ONE Championship, bringing together two of the biggest brands in the martial arts world for the very first time ever. It’s a huge moment that could have a lasting impact on the sport, as both of them have some of the best grapplers in the world […] The post FloGrappling And ONE Championship Announce Groundbreaking Partnership appeared first on Jitsmagazine.com.",
     "source": "Jitsmagazine.com",
@@ -371,24 +452,6 @@
     "primary_source": false,
     "data_as_of": "2026-07-14T16:37:14Z",
     "id": "energy-f1194d02a161fc64"
-  },
-  {
-    "title": "OBLIK Audio releases FREE open beta of asymmetric reverb plugin",
-    "summary": "OBLIK Audio has released Oblik, a free open beta reverb plugin for Windows. What I appreciate right away is that “oblik” means shape in my language, too. Not everyone will catch the wordplay, probably, but it was clear to me from the start, and it fits the plugin’s idea perfectly. Oblik is built around a [...] View post: OBLIK Audio releases FREE open beta of asymmetric reverb plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/14/oblik-audio-reverb/",
-    "timestamp": "2026-07-14T15:56:17Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/14/oblik-audio-reverb/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-14T15:56:17Z",
-    "id": "energy-3e08c03bd793b409"
   },
   {
     "title": "What's next: Why Max Holloway and Paddy Pimblett c...",
@@ -413,27 +476,6 @@
     "id": "energy-8b867b3a6180e5d5"
   },
   {
-    "title": "MISO, PJM Wholesale Power Prices Climb As Heat Wave Impacts Midwest, Northeast",
-    "summary": "By Ronnie Turner • MISO Indiana, PJM West on-peak power hit triple digits • Both markets’ temperatures forecast at 5 F above normal Wholesale power prices in the Midcontinent Independent System Operator and PJM Interconnection markets surged into triple digits on July 13 as a heat wave settled over parts of the US Upper Midwest […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/miso-pjm-wholesale-power-prices-climb-as-heat-wave-impacts-midwest-northeast/",
-    "timestamp": "2026-07-14T14:41:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/miso-pjm-wholesale-power-prices-climb-as-heat-wave-impacts-midwest-northeast/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-14T14:41:30Z",
-    "id": "energy-079e610db09639a1"
-  },
-  {
     "title": "MMA divisional rankings: Paddy Pimblett makes a bi...",
     "summary": "Here's a look at every weight class to determine the best of the best in UFC, PFL and beyond.",
     "source": "www.espn.com - MMA",
@@ -456,48 +498,6 @@
     "id": "energy-998c1322d18c8bbb"
   },
   {
-    "title": "Commonwealth Edison Energizes Transmission Upgrades To Enable Wind Additions To PJM Mix",
-    "summary": "By Markham Watson • PJM wind share rises to 4.4% through July • Two wind farms set for 2026-27 operation Commonwealth Edison has energized two 345-kV transmission substations, enabling the interconnection of up to 550 megawatts of wind capacity and continuing to facilitate wind’s role in the PJM Interconnection and Midcontinent Independent System Operator generation […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/commonwealth-edison-energizes-transmission-upgrades-to-enable-wind-additions-to-pjm-mix/",
-    "timestamp": "2026-07-14T14:40:44Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/commonwealth-edison-energizes-transmission-upgrades-to-enable-wind-additions-to-pjm-mix/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-14T14:40:44Z",
-    "id": "energy-4eb7753711979164"
-  },
-  {
-    "title": "New York To Enact Nation’s First Statewide Moratorium On Data Centers",
-    "summary": "By Grace Ashford Gov. Kathy Hochul of New York is set to sign an executive order on Tuesday placing a one-year pause on the construction of the largest data centers, putting the state at the forefront of the national debate over artificial intelligence companies’ impact on American landscapes and energy grids. The order, the first […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/new-york-to-enact-nations-first-statewide-moratorium-on-data-centers/",
-    "timestamp": "2026-07-14T14:39:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/new-york-to-enact-nations-first-statewide-moratorium-on-data-centers/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-14T14:39:59Z",
-    "id": "energy-546ed24e01d3045f"
-  },
-  {
     "title": "Incredible Women’s Flyweight Grand Prix Announced For UFC BJJ 10",
     "summary": "UFC BJJ are now going to crown their inaugural women’s flyweight champion and they’re doing things a little differently this time around, as they’ve set up a grand prix tournament to determine the champion at UFC BJJ 10 on August 20th, 2026. Prior to this, most of their new champions have been crowned after a […] The post Incredible Women’s Flyweight Grand Prix Announced For UFC BJJ 10 appeared first on Jitsmagazine.com.",
     "source": "Jitsmagazine.com",
@@ -514,23 +514,5 @@
     "primary_source": false,
     "data_as_of": "2026-07-13T17:00:00Z",
     "id": "energy-cc561111f3f89519"
-  },
-  {
-    "title": "Bryce Mitchell vs Mikey Musumeci Booked For UFC BJJ 11",
-    "summary": "Bryce Mitchell will now be returning to professional grappling for the biggest challenge that he’s ever faced in that sport, as he takes on Mikey Musumeci at UFC BJJ 11 on September 24th, 2026. This will be a huge step up in competition from the last time that Mitchell tested his grappling skills without strikes […] The post Bryce Mitchell vs Mikey Musumeci Booked For UFC BJJ 11 appeared first on Jitsmagazine.com.",
-    "source": "Jitsmagazine.com",
-    "url": "https://jitsmagazine.com/bryce-mitchell-vs-mikey-musumeci-booked-for-ufc-bjj-11/",
-    "timestamp": "2026-07-12T16:08:49Z",
-    "topic": "Jiu-Jitsu",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://jitsmagazine.com/bryce-mitchell-vs-mikey-musumeci-booked-for-ufc-bjj-11/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-12T16:08:49Z",
-    "id": "energy-7a1a3bd73e7eb50f"
   }
 ]
