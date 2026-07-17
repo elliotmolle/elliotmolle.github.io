@@ -1,60 +1,16 @@
 [
   {
-    "title": "Gov. Sherrill signs bill to begin nuclear procurement in N.J.",
-    "summary": "On July 13, New Jersey Gov. Mikie Sherrill signed the Power NJ Act, a bill that directs the state’s Board of Public Utilities (BPU), in collaboration with the state’s Economic Development Authority, to establish an “advanced nuclear energy procurement program.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-15/article-8207/gov-sherrill-signs-bill-to-begin-nuclear-procurement-in-nj/",
-    "timestamp": "2026-07-15T20:23:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-15/article-8207/gov-sherrill-signs-bill-to-begin-nuclear-procurement-in-nj/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-15T20:23:00Z",
-    "id": "energy-07e5506052e6a45b"
-  },
-  {
-    "title": "House subcommittee OKs six nuclear permitting reform bills",
-    "summary": "The U.S. House Energy and Commerce Committee’s Subcommittee on Energy introduced six nuclear permitting reform bills back in June. The mostly bipartisan bills returned to the subcommittee on Tuesday for markups—and with strong backing from both sides of the aisle. Despite some lingering concerns in areas like federal transparency, the role of the Advisory Committee on Reactor Safeguards (ACRS), and staff attrition in the Nuclear Regulatory Commission, the subcommittee advanced all six pieces of legislation to the full committee with bipartisan support.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-15/article-8206/house-subcommittee-oks-six-nuclear-permitting-reform-bills/",
-    "timestamp": "2026-07-15T17:40:23Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-15/article-8206/house-subcommittee-oks-six-nuclear-permitting-reform-bills/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-15T17:40:23Z",
-    "id": "energy-46fb1c750ce996fd"
-  },
-  {
-    "title": "Story named director of industrial accounts at Entergy Arkansas",
-    "summary": "Entergy Arkansas has promoted Bentley Story to director of industrial accounts.",
+    "title": "Mississippi Public Service Commission holds summit on winter storm",
+    "summary": "The Mississippi Public Service Commission hosted a Winter Storm Preparedness Summit to review the January 2026 storm response and discuss ways to strengthen grid reliability. Entergy Mississippi leaders outlined restoration efforts, infrastructure impacts, and ongoing investments to enhance resilience and support future emergency coordination.",
     "source": "Entergy",
-    "url": "https://www.entergy.com/news/story-named-director-of-industrial-accounts-at-entergy-arkansas",
-    "timestamp": "2026-07-15T14:44:34Z",
+    "url": "https://www.entergy.com/blog/mississippi-public-service-commission-holds-summit-on-winter-storm",
+    "timestamp": "2026-07-16T22:41:06Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/news/story-named-director-of-industrial-accounts-at-entergy-arkansas"
+      "https://www.entergy.com/blog/mississippi-public-service-commission-holds-summit-on-winter-storm"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -64,21 +20,45 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-07-15T14:44:34Z",
-    "id": "energy-6733ec7f734447c4"
+    "data_as_of": "2026-07-16T22:41:06Z",
+    "id": "energy-e0db24165a1a0ca9"
   },
   {
-    "title": "Researchers demonstrate remote real-time adjustment of PUR-1 reactor",
-    "summary": "The remote, automatic, real-time adjustment of a research reactor’s power by a geographically distributed control system has been reported by researchers from Idaho National Laboratory, the Grainger College of Engineering at the University of Illinois–Urbana-Champaign, and Purdue University. The investigators first used an automatic adjustment “digital control loop” system to demonstrate remote adjustments of Purdue’s PUR-1 research reactor. They then applied a reinforcement learning model that simulates the interaction of physical forces inside the reactor, making the loop system more autonomous.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-15/article-8205/researchers-demonstrate-remote-realtime-adjustment-of-pur1-reactor/",
-    "timestamp": "2026-07-15T14:33:07Z",
+    "title": "Entergy Mississippi helping customers stay cool and save money with bill management tools and resources",
+    "summary": "Although the heat of summer can increase electricity use and energy costs, Entergy Mississippi is committed to helping customers stay cool and save money throughout the hotter months with bill management tools and resources. The company’s online Bill Toolkit connects customers to energy efficiency tips and resources, as well as information about bill management and financial assistance options.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-mississippi-helping-customers-stay-cool-and-save-money-with-bill-management-tools-and-resources",
+    "timestamp": "2026-07-16T21:31:11Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-15/article-8205/researchers-demonstrate-remote-realtime-adjustment-of-pur1-reactor/"
+      "https://www.entergy.com/news/entergy-mississippi-helping-customers-stay-cool-and-save-money-with-bill-management-tools-and-resources"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-16T21:31:11Z",
+    "id": "energy-3a417b41933e1267"
+  },
+  {
+    "title": "MIT professor develops method to verify compliance with Outer Space Treaty",
+    "summary": "Danagoulian Areg Danagoulian of the Department of Nuclear Science and Engineering at the Massachusetts Institute of Technology is proposing a mechanism for verifying that Earth-orbiting satellites are in compliance with the Outer Space Treaty, which prohibits the placement of nuclear weapons in space. Danagoulian’s “concept and feasibility study,” titled “Verification of the Outer Space Treaty with cosmic protons,” was published recently in the journal Nature.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-16/article-8211/mit-professor-develops-method-to-verify-compliance-with-outer-space-treaty/",
+    "timestamp": "2026-07-16T20:22:17Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-16/article-8211/mit-professor-develops-method-to-verify-compliance-with-outer-space-treaty/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -86,8 +66,98 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-15T14:33:07Z",
-    "id": "energy-5c34ff5638f24264"
+    "data_as_of": "2026-07-16T20:22:17Z",
+    "id": "energy-3fe1abbb61c1d3f8"
+  },
+  {
+    "title": "Meet the pros: Andrew Gautreaux",
+    "summary": "Meet Andrew Gautreaux, a project manager located at River Bend Station in Killona, Louisiana, who recently joined the data strategy and innovation team.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/meet-the-pros-andrew-gautreaux",
+    "timestamp": "2026-07-16T20:20:10Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/meet-the-pros-andrew-gautreaux"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-16T20:20:10Z",
+    "id": "energy-2101289e1c29da0d"
+  },
+  {
+    "title": "Nuclear is ready now",
+    "summary": "Michael Goff I don’t think we’ve ever had a busier year in the Office of Nuclear Energy, and it’s probably been decades since we’ve had this much momentum within the overall U.S. nuclear industry. President Trump and Energy Secretary Wright have made very clear the important role that nuclear must play in meeting our energy needs, and that’s well demonstrated by the four executive orders that the president signed [more than] 375 days ago. In nuclear, we’re now talking about days, not years. Those EOs set a goal for the United States to quadruple the amount of nuclear that we have. We need to go from the 94 reactors that we have operating right now, which generate roughly 100 gigawatts of electricity, to 400 gigawatts by 2050.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-16/article-8210/nuclear-is-ready-now/",
+    "timestamp": "2026-07-16T16:49:47Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-16/article-8210/nuclear-is-ready-now/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-16T16:49:47Z",
+    "id": "energy-4109e1635e5b7c9b"
+  },
+  {
+    "title": "Wildfire smoke affecting electricity demand in New England",
+    "summary": "The smoke is creating challenging conditions for ISO-NE forecasters through lower temperatures and reduced solar output. The post Wildfire smoke affecting electricity demand in New England appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/16/wildfire-smoke-affecting-electricity-demand-in-new-england/",
+    "timestamp": "2026-07-16T15:40:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/16/wildfire-smoke-affecting-electricity-demand-in-new-england/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-16T15:40:31Z",
+    "id": "energy-3205a0a0b5c362cf"
+  },
+  {
+    "title": "Realta Fusion, Inertia Enterprises select HQ locations",
+    "summary": "Two nuclear fusion companies are setting up shop in disused industrial buildings. Realta Fusion just named a Madison, Wis., location for its “Realta Forge.” Meanwhile, last week, Inertia Enterprises announced the opening of its new headquarters in Livermore, Calif.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-16/article-8209/realta-fusion-inertia-enterprises-select-hq-locations/",
+    "timestamp": "2026-07-16T14:22:07Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-16/article-8209/realta-fusion-inertia-enterprises-select-hq-locations/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-16T14:22:07Z",
+    "id": "energy-97bb12980ea7dc0b"
   },
   {
     "title": "Ebb and flow of wholesale energy prices detailed in ISO-NE charts",
@@ -112,54 +182,6 @@
     "id": "energy-1ac4e4eb4605cd01"
   },
   {
-    "title": "Entergy and MHI Group outline collaborative partnership designed to accelerate commercialization and affordability around carbon capture solutions",
-    "summary": "Entergy and MHI Group take a leadership position in advancing decarbonization with innovative gas turbine combined cycle and carbon dioxide capture and storage solutions to support sustainable and affordable clean power generation.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-and-mhi-group-outline-collaborative-partnership-designed-to-accelerate-commercialization-and-affordability-around-carbon-capture-solutions",
-    "timestamp": "2026-07-15T13:00:36Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-and-mhi-group-outline-collaborative-partnership-designed-to-accelerate-commercialization-and-affordability-around-carbon-capture-solutions"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-15T13:00:36Z",
-    "id": "energy-6a07b28cdec62b88"
-  },
-  {
-    "title": "A reliability update for customers in New Orleans East",
-    "summary": "Entergy New Orleans continues to make progress on reliability improvements in the Kenilworth area of New Orleans East. This work is focused on strengthening the underground electric system by replacing critical equipment that will help improve reliability and reduce the likelihood of future outages.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/a-reliability-update-for-customers-in-new-orleans-east",
-    "timestamp": "2026-07-15T00:50:16Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/a-reliability-update-for-customers-in-new-orleans-east"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-15T00:50:16Z",
-    "id": "energy-1c0d0ca5400d3d68"
-  },
-  {
     "title": "Summer 2026 update on regional transmission investment now available; 3 projects under construction in New England",
     "summary": "One upgrade has been placed in service since March 2026, according to the latest update to the Regional System Plan. The post Summer 2026 update on regional transmission investment now available; 3 projects under construction in New England appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -180,78 +202,5 @@
     ],
     "data_as_of": "2026-07-14T12:12:45Z",
     "id": "energy-a0b48aca849e9cdd"
-  },
-  {
-    "title": "Global liquefied natural gas trade volumes reached record high in 2025",
-    "summary": "EIA says global LNG trade hit a record in 2025 and U.S. LNG exports rose sharply, supporting LNG infrastructure and gas-exposed assets, while Strait of Hormuz disruptions and sanctions still create supply-chain risk.",
-    "source": "U.S. Energy Information Administration",
-    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67864",
-    "timestamp": "2026-07-14T00:00:00Z",
-    "topic": "Energy",
-    "category": "Market Updates",
-    "impact": "High",
-    "sentiment": "Positive",
-    "citations": [
-      "https://www.eia.gov/todayinenergy/detail.php?id=67864"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "claims": [
-      "Global LNG trade reached a record 56.3 Bcf/d in 2025.",
-      "U.S. LNG exports rose 26% to 15.1 Bcf/d and EIA says 2026 flows were slowed by Hormuz-related disruption."
-    ],
-    "entities": [
-      "LNG",
-      "United States",
-      "Qatar",
-      "Strait of Hormuz",
-      "Europe"
-    ],
-    "data_as_of": "2026-07-14T00:00:00Z",
-    "id": "energy-2fe5694a9e6d52cf"
-  },
-  {
-    "title": "Ratepayer Letters Received as of July 10, 2026 Regarding Proposed Transmission Upgrades",
-    "summary": "Updated Date: 07.13.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260713-ratepayer-letters-received-as-of-july-2026-re-proposed-transmission-upgrades.pdf",
-    "timestamp": "2026-07-13T14:38:00Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260713-ratepayer-letters-received-as-of-july-2026-re-proposed-transmission-upgrades.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-07-13T14:38:00Z",
-    "id": "energy-862bbbc57b4eb007"
-  },
-  {
-    "title": "ISO Minute: Publishing the CELT Report",
-    "summary": "Melanie Buell works with experts across the ISO to compile a foundational resource for system planning and reliability studies. The post ISO Minute: Publishing the CELT Report appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/07/13/iso-minute-publishing-the-celt-report/",
-    "timestamp": "2026-07-13T12:45:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/07/13/iso-minute-publishing-the-celt-report/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-07-13T12:45:46Z",
-    "id": "energy-4c31f65266bf1b61"
   }
 ]
