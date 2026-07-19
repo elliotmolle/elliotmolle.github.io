@@ -180,27 +180,5 @@
     ],
     "data_as_of": "2026-07-16T15:40:31Z",
     "id": "energy-3205a0a0b5c362cf"
-  },
-  {
-    "title": "Ebb and flow of wholesale energy prices detailed in ISO-NE charts",
-    "summary": "Variables like the weather, consumer demand, and fuel costs mean the price of wholesale electricity is in constant flux. The post Ebb and flow of wholesale energy prices detailed in ISO-NE charts appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/07/15/ebb-and-flow-of-wholesale-energy-prices-detailed-in-iso-ne-charts/",
-    "timestamp": "2026-07-15T13:29:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/07/15/ebb-and-flow-of-wholesale-energy-prices-detailed-in-iso-ne-charts/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-07-15T13:29:20Z",
-    "id": "energy-1ac4e4eb4605cd01"
   }
 ]
