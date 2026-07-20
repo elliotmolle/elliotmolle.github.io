@@ -1,228 +1,318 @@
 [
   {
-    "title": "Chainsmoker Cat anime captures how poverty keeps the cycle of addiction alive",
-    "summary": "For all its unglamorous imagery, Chainsmoker Cat is one of the few shows that accurately captures the harrowing life of an addict.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/chainsmoker-cat-addiction-and-poverty/",
-    "timestamp": "2026-07-19T11:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/chainsmoker-cat-addiction-and-poverty/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-19T11:00:12Z",
-    "id": "energy-82d24e0fd93bf564"
-  },
-  {
-    "title": "Claude Code uses Bun written in Rust now",
+    "title": "The Trump administration's Threat to Scientific Research",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "timestamp": "2026-07-19T10:03:23Z",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html",
+    "timestamp": "2026-07-20T12:00:43Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
+      "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-19T10:03:23Z",
-    "id": "energy-124b3c60bb4ee678"
+    "data_as_of": "2026-07-20T12:00:43Z",
+    "id": "energy-7a56db788e1be0c6"
   },
   {
-    "title": "Supergirl streaming release date window: When will it be on HBO Max, Blu-ray, and DVD?",
-    "summary": "When will the latest DC Universe film be coming to streaming (HBO Max), Blu-ray, and DVD? Here's what we know.",
+    "title": "Spider-Man: Brand New Day director reveals how the Insomniac games influenced his movie",
+    "summary": "\"I surrounded myself with people who were obsessive gamers,\" Spider-Man: Brand New Day director Destin Daniel Cretton tells Polygon",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/dc-supergirl-movie-streaming-release-date-vod-hbo-max/",
-    "timestamp": "2026-07-19T10:00:12Z",
+    "url": "https://www.polygon.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview/",
+    "timestamp": "2026-07-20T12:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/dc-supergirl-movie-streaming-release-date-vod-hbo-max/"
+      "https://www.polygon.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-19T10:00:12Z",
-    "id": "energy-a4f82b7747297d4f"
+    "data_as_of": "2026-07-20T12:00:12Z",
+    "id": "energy-8a5772b5dae0df08"
   },
   {
-    "title": "Qwen 3.8 Max Preview",
+    "title": "Silverdaw is a FREE open-source Windows DAW for remixing and mashups",
+    "summary": "Silverdaw is a free and open-source Windows DAW built for remixing, mashups, and sample-based music production. The developer sent this to me via email, and I wasn’t expecting a lot (new free DAWs are popping up like mushrooms nowadays), but I ended up impressed. The key thing here is that Silverdaw is not trying to be [...] View post: Silverdaw is a FREE open-source Windows DAW for remixing and mashups",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/20/silverdaw-free/",
+    "timestamp": "2026-07-20T11:34:21Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/20/silverdaw-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-20T11:34:21Z",
+    "id": "energy-d42c1690a718dec3"
+  },
+  {
+    "title": "Why is it so hard for the U.S. to win wars?",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.qwencloud.com/pricing/token-plan",
-    "timestamp": "2026-07-19T08:57:31Z",
+    "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
+    "timestamp": "2026-07-20T11:24:45Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.qwencloud.com/pricing/token-plan"
+      "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-19T08:57:31Z",
-    "id": "energy-d320c34861985d5e"
+    "data_as_of": "2026-07-20T11:24:45Z",
+    "id": "energy-3aa248251e07a3d6"
   },
   {
-    "title": "Half a Second – a book about the XZ backdoor",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.half-second.com/",
-    "timestamp": "2026-07-19T08:48:41Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.half-second.com/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-19T08:48:41Z",
-    "id": "energy-6dbdf16291ba44b2"
-  },
-  {
-    "title": "The Odyssey streaming release date window: When will it be on Peacock, Netflix, Blu-ray, and DVD?",
-    "summary": "The Odyssey is selling out IMAX screenings, but when will it come to streaming (Peacock and Netflix), Blu-ray, and DVD? Here's what we know.",
+    "title": "House of the Dragon showrunner teases more dragons to come",
+    "summary": "With season 4 being the last season of House of the Dragon, Ryan Condal reveals there's plenty more time for other dragons to appear.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-odyssey-streaming-release-date-peacock-netflix/",
-    "timestamp": "2026-07-18T22:00:12Z",
+    "url": "https://www.polygon.com/house-of-the-dragon-the-cannibal-grey-ghost/",
+    "timestamp": "2026-07-20T11:16:03Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/the-odyssey-streaming-release-date-peacock-netflix/"
+      "https://www.polygon.com/house-of-the-dragon-the-cannibal-grey-ghost/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-18T22:00:12Z",
-    "id": "energy-b04c62bff0ac20b4"
+    "data_as_of": "2026-07-20T11:16:03Z",
+    "id": "energy-75637f9509aedaab"
   },
   {
-    "title": "Eric Trump Is Building An Army Of Humanoid Robot Soldiers",
-    "summary": "I would be terrified if I believed the presidential scion could actually pull this off, however",
+    "title": "Different Instruments releases PartialString, a FREE physical modeling synth plugin",
+    "summary": "Different Instruments has released PartialString, a free cross-platform synth that takes a less traditional approach to physical modeling. PartialString is available in AU and VST3 formats for macOS (10.13 or later), Windows (10 or later), and Linux. Developer Christian Baker of Different Instruments began working on PartialString as a side project after the release of [...] View post: Different Instruments releases PartialString, a FREE physical modeling synth plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/20/different-instruments-partialstring/",
+    "timestamp": "2026-07-20T11:10:09Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/20/different-instruments-partialstring/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-20T11:10:09Z",
+    "id": "energy-63bb22b0eafc4a2f"
+  },
+  {
+    "title": "EA Sports predicts World Cup winner 5 times in a row after Spain win",
+    "summary": "Simulation run in EA Sports FC game, formerly known as FIFA, has an unbroken record of accuracy going back 16 years",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/fifa-world-cup-2026-ea-sports-fc-spain-winner-prediction/",
+    "timestamp": "2026-07-20T11:07:28Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/fifa-world-cup-2026-ea-sports-fc-spain-winner-prediction/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-20T11:07:28Z",
+    "id": "energy-52e3993dc9149329"
+  },
+  {
+    "title": "Too Many Sales Have Broken One Of The Best Parts Of Gaming: The Budget Label Re-Release",
+    "summary": "Hear my heartfelt plea for a return to the days of the discounted relaunch",
     "source": "Kotaku",
-    "url": "https://kotaku.com/eric-trump-is-building-an-army-of-humanoid-robot-soldiers-2000717446",
-    "timestamp": "2026-07-18T21:30:31Z",
+    "url": "https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197",
+    "timestamp": "2026-07-20T11:00:18Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/eric-trump-is-building-an-army-of-humanoid-robot-soldiers-2000717446"
+      "https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-18T21:30:31Z",
-    "id": "energy-0c20f006cab75fe4"
+    "data_as_of": "2026-07-20T11:00:18Z",
+    "id": "energy-e000b66ede7b3fb6"
   },
   {
-    "title": "One Country Is Already Trying To Outlaw People From Falling In Love With AI Chatbots",
-    "summary": "Preferring productive bots to flirtatious ones, and stemming AI psychosis disasters, China is instructing companies to remove the more intimate behavior from their models",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/china-introduces-new-laws-to-prevent-people-from-falling-in-love-with-ai-chatbots-2000717442",
-    "timestamp": "2026-07-18T20:00:02Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/china-introduces-new-laws-to-prevent-people-from-falling-in-love-with-ai-chatbots-2000717442"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-18T20:00:02Z",
-    "id": "energy-dcf6ebec4b923ddb"
-  },
-  {
-    "title": "YouTuber Shooter Historian Says Xbox Laid Off Those Responsible For The Decade’s Most Influential Game",
-    "summary": "The influential FPS critic lambasts Microsoft's treatment of id Software and the industry at large’s shortsightedness",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/shooter-historian-civvie-11-says-xbox-laid-off-those-responsible-for-the-decades-most-influential-game-2000717437",
-    "timestamp": "2026-07-18T18:30:05Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/shooter-historian-civvie-11-says-xbox-laid-off-those-responsible-for-the-decades-most-influential-game-2000717437"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-18T18:30:05Z",
-    "id": "energy-c16e528bfa71c6ba"
-  },
-  {
-    "title": "Sorry guys, biggest move of the offseason just leaked",
-    "summary": "submitted by /u/bmaclennan11 [link] [comments]",
+    "title": "Are EWC and ENC and FIFAe the most confusing \"s-tier\" events in RL history?",
+    "summary": "I know of these events, watched a bit here and there (mostly through Feer) And it's by the most convoluted and confusing tournament I've seen in my 8 years of watching RL esports. I genuinely dont event want to touch these tournaments with a 10 foot pole because I dont even know where to watch or who to care about/root for. What time and schedule they have, who is playing. Etc etc. Am I alone and stupid in this? submitted by /u/anon14118 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v03e1e/sorry_guys_biggest_move_of_the_offseason_just/",
-    "timestamp": "2026-07-18T18:25:55Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1hyd9/are_ewc_and_enc_and_fifae_the_most_confusing/",
+    "timestamp": "2026-07-20T10:44:15Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v03e1e/sorry_guys_biggest_move_of_the_offseason_just/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1hyd9/are_ewc_and_enc_and_fifae_the_most_confusing/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-18T18:25:55Z",
-    "id": "energy-9c5d5856d59e5c41"
+    "data_as_of": "2026-07-20T10:44:15Z",
+    "id": "energy-38bd0acf236507ce"
   },
   {
-    "title": "Best teams if a Fusion style tourney takes place right now.",
-    "summary": "IMO(descending order of strength), not the regions but the teams. EU: KC,GM8,Vit NA:SSG,SR,NRG,VP MENA: Twisted, Falcons(potential threat) SAM: Furia NOTE: a player from a team cannot play all 3 gamemodes submitted by /u/eNot_O [link] [comments]",
+    "title": "Airbus Takes Flight from AWS",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+    "timestamp": "2026-07-20T10:12:22Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-20T10:12:22Z",
+    "id": "energy-196dc0db5a1a42ea"
+  },
+  {
+    "title": "Weekly Schedule + Free Talk Thread | July 20 - 26",
+    "summary": "About You can post anything here that might not have been allowed as its own post. Whether that's quick questions, recently/frequently/over discussed content or \"light\" content that you don't deem worthy of its own thread. The table below features upcoming streams of S-Tier, A-Tier and the bigger B-Tier events including their streamed qualifiers. For a full list of all upcoming RLEsports events check Liquipedia or blast.tv. Thursday, Jul 23 Scroll to view times / links >> ET CET AET Streams Matches ⚽ RLCS 2026: MENA LCQ - Playoffs Day 2 12:00 18:00 2:00 Stream Bracket Friday, Jul 24 Scroll to view times / links >> ET CET AET Streams Matches ⚽ RLCS 2026: SAM LCQ - Playoffs Day 2 15:00 21:00 5:00 Stream Bracket Saturday, Jul 25 Scroll to view times / links >> ET CET AET Streams Matches ⚽ RLCS 2026: NA LCQ - Playoffs Day 2 13:00 19:00 3:00 Stream Bracket Sunday, Jul 26 Scroll to view times / links >> ET CET AET Streams Matches ⚽ RLCS 2026: OCE Tiebreaker 8:00 14:00 22:00 Stream Bracket ⚽ RLCS 2026: EU LCQ - Playoffs Day 2 12:00 18:00 2:00 Stream Bracket Event Threads Events prefixed with ⚽ will have an Event Thread posted by mods. Anyone can create an Event Thread or Match Threads fo…",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v006za/best_teams_if_a_fusion_style_tourney_takes_place/",
-    "timestamp": "2026-07-18T16:21:32Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1h6tk/weekly_schedule_free_talk_thread_july_20_26/",
+    "timestamp": "2026-07-20T10:02:29Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v006za/best_teams_if_a_fusion_style_tourney_takes_place/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1h6tk/weekly_schedule_free_talk_thread_july_20_26/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-18T16:21:32Z",
-    "id": "energy-0e62181be8603476"
+    "data_as_of": "2026-07-20T10:02:29Z",
+    "id": "energy-f9af45d834b9d58c"
   },
   {
-    "title": "Shark ceiling reset into flip reset double tap vs Portugal",
-    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
+    "title": "The Greatest Example of Building Rocket League National Team from nothing",
+    "summary": "With the Esports Nations Cup qualifiers being done (a 48 country tournament held in Riyadh in November) and all the national teams being decided there is one specific National team that I would like to highlight for a truly unique approach to raising the level of the team to being continentally competitive. West African rocket league has always been the worst in the continent, last year there were confirmed 0 players living in West Africa who ever reached SSL until Lankai became the first and so far only, thus it implies that during continental qualifiers such as FifaE etc. Ghana constantly came last alongside other West African countries and produced some of the worst quality performances we have ever seen. But this ENC there has been a radically new approach spearheaded by Ghana and followed by other West African countries which has allowed for West Africa, the worst RL region in the world to compete and qualify for their first ever international LAN with Ghana beating Senegal to qualify for the LAN. As I mentioned before Lankai was the only SSL in West Africa and frequently played in SSA RLCS and got a highest placement of Top 16, this season he moved to EU and has been floatin…",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v00166/shark_ceiling_reset_into_flip_reset_double_tap_vs/",
-    "timestamp": "2026-07-18T16:15:06Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1gk08/the_greatest_example_of_building_rocket_league/",
+    "timestamp": "2026-07-20T09:25:56Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v00166/shark_ceiling_reset_into_flip_reset_double_tap_vs/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1gk08/the_greatest_example_of_building_rocket_league/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-18T16:15:06Z",
-    "id": "energy-5960b4645db3e1b5"
+    "data_as_of": "2026-07-20T09:25:56Z",
+    "id": "energy-0420c6eef8562369"
+  },
+  {
+    "title": "Wide subcategories and brick-finiteness for length categories",
+    "summary": "arXiv:2607.15991v1 Announce Type: new Abstract: We extend to abelian length categories of finite rank a characterisation of brick-finiteness known for finite-dimensional algebras. We prove that such a category is brick-finite if and only if every torsion class is generated by a wide subcategory and every torsionfree class is cogenerated by a wide subcategory. The proof is based on an exchange relation for brick labels across wide intervals which is a shadow of the mutation of simple minded collections. As a corollary,we extend the validity of the first Brick Brauer-Thrall conjecture to this setting.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.15991",
+    "timestamp": "2026-07-20T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.15991"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-20T04:00:00Z",
+    "id": "energy-e301bcd718395546"
+  },
+  {
+    "title": "What are the odds that a conic bundle over a finite field is rational?",
+    "summary": "arXiv:2607.15997v1 Announce Type: new Abstract: We study rationality of conic bundles over finite fields defined over the line. In particular, for a fixed number $n$ of degenerate fibers, what is the proportion of good conic bundles that are rational over a finite field of order $q$? The Galois action on their Picard groups factors through the Weyl group $W(D_n)$, reducing rationality to a condition on signed permutation types. Using work of Colliot-Th\\'el\\`ene and Yang together with Chebotarev density, we compute the asymptotic proportion of such conic bundles that are rational as $q$ goes to infinity.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.15997",
+    "timestamp": "2026-07-20T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.15997"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-20T04:00:00Z",
+    "id": "energy-6f25badd5d62a2c2"
+  },
+  {
+    "title": "Weighted Derivative Sums of a Gamma Quotient: Sun's Conjecture and Cyclotomic Specializations",
+    "summary": "arXiv:2607.15303v1 Announce Type: new Abstract: Let $f(x) = \\Gamma(x)^2/(2\\Gamma(2x))$ and set $\\lambda_\\alpha = 4\\sin^2\\alpha$ for $0 < \\alpha < \\pi/2$. We establish an elementary parameter identity for a weighted translate of $f$ and derive an explicit formula, valid at every derivative order, for the associated weighted sums $\\sum_{k\\ge1} \\lambda_\\alpha^{k-1} f^{(r)}(k)$. The coefficients satisfy an effective recurrence in ordinary zeta values. The unique unweighted specialization $\\alpha = \\pi/6$ proves Conjecture 4.1 of Zhi-Wei Sun; at the fourth order a depth-two value $\\mathrm{Gl}_{4,1}(\\pi/3)$ occurs. The construction complements general cyclotomic-multiple-zeta methods for inverse-binomial harmonic sums by supplying a continuous master identity, with concrete specializations at $\\alpha = \\pi/4$ and $\\alpha = \\pi/3$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.15303",
+    "timestamp": "2026-07-20T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.15303"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-20T04:00:00Z",
+    "id": "energy-960efe272a094594"
+  },
+  {
+    "title": "The Canceled Kingdom Hearts IV Prologue’s Cinematic Has Allegedly Leaked And Fans Are Trying To Decipher It",
+    "summary": "Kingdom Hearts: Missing-Link was a canceled mobile game that would have tied into the upcoming fourth mainline game in the series",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536",
+    "timestamp": "2026-07-20T01:26:39Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-20T01:26:39Z",
+    "id": "energy-e3ab2c3842387a0e"
+  },
+  {
+    "title": "The Fallout I’m Most Looking Forward To Isn’t A Remaster Or A Sequel",
+    "summary": "As Xbox tries to quell critics by replaying the hits, it’s a fan-made game that has me optimistic for the wasteland",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522",
+    "timestamp": "2026-07-19T21:53:45Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-19T21:53:45Z",
+    "id": "energy-1e27ae21b9b992e9"
   },
   {
     "title": "Morphoice releases EightyTen, TWO vintage Roland synths in one (free beta)",
@@ -241,24 +331,6 @@
     "primary_source": false,
     "data_as_of": "2026-07-17T18:18:13Z",
     "id": "energy-63de5fd1afbf6356"
-  },
-  {
-    "title": "Dirk Ulrich reacquires Plugin Alliance and Brainworx from inMusic",
-    "summary": "Dirk Ulrich has reacquired Plugin Alliance and Brainworx from inMusic. Well, it’s that time again; it’s time for another chapter in the Native Instruments story. With no more obvious moving parts left, I’m fairly confident that this chapter will be the last, but I never thought they’d make eleven Fast & Furious movies, so who [...] View post: Dirk Ulrich reacquires Plugin Alliance and Brainworx from inMusic",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/17/dirk-ulrich-plugin-alliance/",
-    "timestamp": "2026-07-17T15:11:49Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/17/dirk-ulrich-plugin-alliance/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-17T15:11:49Z",
-    "id": "energy-4dc0ec57183c64c9"
   },
   {
     "title": "Trump Has Spent Billions On Energy. An Electricity Boom Has Yet To Materialize.",
@@ -322,59 +394,5 @@
     ],
     "data_as_of": "2026-07-17T14:50:55Z",
     "id": "energy-2329e5f8c570bace"
-  },
-  {
-    "title": "Sonniss offers FREE Pinball Machines sound effects library",
-    "summary": "Sonniss is offering Pinball Machines, a vintage pinball machine sound effects library by C. A. Sound, Inc, as a free download until July 22. I love Sonniss as a platform. There is a great variety of sounds to choose from, and the company occasionally releases some fantastic freebies, too. The big one is usually the [...] View post: Sonniss offers FREE Pinball Machines sound effects library",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/17/sonniss-free-pinball-machines/",
-    "timestamp": "2026-07-17T13:03:30Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/17/sonniss-free-pinball-machines/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-17T13:03:30Z",
-    "id": "energy-142353e744dc4bff"
-  },
-  {
-    "title": "Zeros of one-forms and the topology of algebraic maps",
-    "summary": "arXiv:2607.15102v1 Announce Type: new Abstract: We construct a smooth complex projective variety whose Albanese morphism is a homotopy fiber bundle but not a submersion. The same variety fibers smoothly over the circle, although every holomorphic one-form on it has a zero. A second construction yields smooth complex projective varieties $X$ such that the Aomoto complex of every nonzero holomorphic one-form on every connected finite \\'etale cover of $X$ is exact, while $X$ admits no real closed one-form without zeros. The two constructions build, respectively, on a homology fiber bundle of Corr\\^ea--Koll\\'ar that is not a homotopy fiber bundle and on a rational cohomology torus constructed by Debarre--Jiang--Lahoz. Consequently, we disprove Kotschick's conjecture, the remaining implication in the Bobadilla--Koll\\'ar conjecture, and a conjecture of the first-named author.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.15102",
-    "timestamp": "2026-07-17T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.15102"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-17T04:00:00Z",
-    "id": "energy-8459ff0126568454"
-  },
-  {
-    "title": "When ideals properly extend the class of Arbault sets",
-    "summary": "arXiv:2401.02103v2 Announce Type: replace Abstract: In this article we continue the investigation of generalized version of Arbault sets, that was initiated in [Das et al., Bul. Sci. Math. 179 (2022), 103157] but look at the picture from the most general point of view where ideals come into play. While Arbault sets can be naturally associated with the Frechet ideal $Fin$, in [Das et al., Bul. Sci. Math. 179 (2022), 103157] it was observed that when $Fin$ is replaced by the natural density ideal $\\iI_d$ one can obtain a strictly larger class of trigonometric thin sets containing Arbault sets. From the set theoretic point of view a natural question arises as to whether one can broaden the picture and specify a class of ideals (instead of a single ideal) each of which would have the similar effect on the classical notion. As a natural candidate, we focus on a special class of ideals, namely, non-$snt$ ideals with a specific property ($snt$ stands for ``strongly non translation invariant\"). This class happens to be quite large and rich as it properly contains the class of all dense translation invariant ideals ($\\varsupsetneq Fin$), ideals generated by simple density functions as also…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2401.02103",
-    "timestamp": "2026-07-17T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2401.02103"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-17T04:00:00Z",
-    "id": "energy-63eed287c9e5eac5"
   }
 ]
