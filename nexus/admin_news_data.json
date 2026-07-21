@@ -1,398 +1,416 @@
 [
   {
-    "title": "The Trump administration's Threat to Scientific Research",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html",
-    "timestamp": "2026-07-20T12:00:43Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-20T12:00:43Z",
-    "id": "energy-7a56db788e1be0c6"
-  },
-  {
-    "title": "Spider-Man: Brand New Day director reveals how the Insomniac games influenced his movie",
-    "summary": "\"I surrounded myself with people who were obsessive gamers,\" Spider-Man: Brand New Day director Destin Daniel Cretton tells Polygon",
+    "title": "Cult horror movie Jennifer's Body is coming back, here's what it should (and shouldn't) do",
+    "summary": "Director Karyn Kusama and writer Diablo Cody are set to bring back Jennifer's Body. Here's what the team should consider for the sequel.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview/",
-    "timestamp": "2026-07-20T12:00:12Z",
+    "url": "https://www.polygon.com/jennifers-body-2-sequel-release-plot/",
+    "timestamp": "2026-07-21T11:32:08Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview/"
+      "https://www.polygon.com/jennifers-body-2-sequel-release-plot/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-20T12:00:12Z",
-    "id": "energy-8a5772b5dae0df08"
+    "data_as_of": "2026-07-21T11:32:08Z",
+    "id": "energy-2209a33a80970f89"
   },
   {
-    "title": "Silverdaw is a FREE open-source Windows DAW for remixing and mashups",
-    "summary": "Silverdaw is a free and open-source Windows DAW built for remixing, mashups, and sample-based music production. The developer sent this to me via email, and I wasn’t expecting a lot (new free DAWs are popping up like mushrooms nowadays), but I ended up impressed. The key thing here is that Silverdaw is not trying to be [...] View post: Silverdaw is a FREE open-source Windows DAW for remixing and mashups",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/20/silverdaw-free/",
-    "timestamp": "2026-07-20T11:34:21Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/20/silverdaw-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-20T11:34:21Z",
-    "id": "energy-d42c1690a718dec3"
-  },
-  {
-    "title": "Why is it so hard for the U.S. to win wars?",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
-    "timestamp": "2026-07-20T11:24:45Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-20T11:24:45Z",
-    "id": "energy-3aa248251e07a3d6"
-  },
-  {
-    "title": "House of the Dragon showrunner teases more dragons to come",
-    "summary": "With season 4 being the last season of House of the Dragon, Ryan Condal reveals there's plenty more time for other dragons to appear.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/house-of-the-dragon-the-cannibal-grey-ghost/",
-    "timestamp": "2026-07-20T11:16:03Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/house-of-the-dragon-the-cannibal-grey-ghost/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-20T11:16:03Z",
-    "id": "energy-75637f9509aedaab"
-  },
-  {
-    "title": "Different Instruments releases PartialString, a FREE physical modeling synth plugin",
-    "summary": "Different Instruments has released PartialString, a free cross-platform synth that takes a less traditional approach to physical modeling. PartialString is available in AU and VST3 formats for macOS (10.13 or later), Windows (10 or later), and Linux. Developer Christian Baker of Different Instruments began working on PartialString as a side project after the release of [...] View post: Different Instruments releases PartialString, a FREE physical modeling synth plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/20/different-instruments-partialstring/",
-    "timestamp": "2026-07-20T11:10:09Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/20/different-instruments-partialstring/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-20T11:10:09Z",
-    "id": "energy-63bb22b0eafc4a2f"
-  },
-  {
-    "title": "EA Sports predicts World Cup winner 5 times in a row after Spain win",
-    "summary": "Simulation run in EA Sports FC game, formerly known as FIFA, has an unbroken record of accuracy going back 16 years",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fifa-world-cup-2026-ea-sports-fc-spain-winner-prediction/",
-    "timestamp": "2026-07-20T11:07:28Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fifa-world-cup-2026-ea-sports-fc-spain-winner-prediction/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-20T11:07:28Z",
-    "id": "energy-52e3993dc9149329"
-  },
-  {
-    "title": "Too Many Sales Have Broken One Of The Best Parts Of Gaming: The Budget Label Re-Release",
-    "summary": "Hear my heartfelt plea for a return to the days of the discounted relaunch",
+    "title": "After 12 Years, Hexcells Is Still The Best Logic Puzzle Game Ever Made",
+    "summary": "The Hexcells trilogy has yet to be beaten",
     "source": "Kotaku",
-    "url": "https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197",
-    "timestamp": "2026-07-20T11:00:18Z",
+    "url": "https://kotaku.com/hexcells-logic-puzzle-game-matthew-brown-best-ever-steam-2000717605",
+    "timestamp": "2026-07-21T11:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197"
+      "https://kotaku.com/hexcells-logic-puzzle-game-matthew-brown-best-ever-steam-2000717605"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-20T11:00:18Z",
-    "id": "energy-e000b66ede7b3fb6"
+    "data_as_of": "2026-07-21T11:00:14Z",
+    "id": "energy-b09cbb1717d60593"
   },
   {
-    "title": "Are EWC and ENC and FIFAe the most confusing \"s-tier\" events in RL history?",
-    "summary": "I know of these events, watched a bit here and there (mostly through Feer) And it's by the most convoluted and confusing tournament I've seen in my 8 years of watching RL esports. I genuinely dont event want to touch these tournaments with a 10 foot pole because I dont even know where to watch or who to care about/root for. What time and schedule they have, who is playing. Etc etc. Am I alone and stupid in this? submitted by /u/anon14118 [link] [comments]",
+    "title": "A new My Hero Academia story officially releases in 2 weeks",
+    "summary": "I am a hero too provides emotional closure for a beloved franchise character.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/my-hero-academia-new-anime-short-two-weeks/",
+    "timestamp": "2026-07-21T11:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/my-hero-academia-new-anime-short-two-weeks/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-21T11:00:12Z",
+    "id": "energy-cabb2aa0b3220ab9"
+  },
+  {
+    "title": "Official RL Esports account new tweet about the OCE Tiebreaker",
+    "summary": "submitted by /u/Mythalieon [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1hyd9/are_ewc_and_enc_and_fifae_the_most_confusing/",
-    "timestamp": "2026-07-20T10:44:15Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v2ep6g/official_rl_esports_account_new_tweet_about_the/",
+    "timestamp": "2026-07-21T10:37:47Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1hyd9/are_ewc_and_enc_and_fifae_the_most_confusing/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v2ep6g/official_rl_esports_account_new_tweet_about_the/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-20T10:44:15Z",
-    "id": "energy-38bd0acf236507ce"
+    "data_as_of": "2026-07-21T10:37:47Z",
+    "id": "energy-291e4c6abf542ab1"
   },
   {
-    "title": "Airbus Takes Flight from AWS",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-    "timestamp": "2026-07-20T10:12:22Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-20T10:12:22Z",
-    "id": "energy-196dc0db5a1a42ea"
-  },
-  {
-    "title": "Weekly Schedule + Free Talk Thread | July 20 - 26",
-    "summary": "About You can post anything here that might not have been allowed as its own post. Whether that's quick questions, recently/frequently/over discussed content or \"light\" content that you don't deem worthy of its own thread. The table below features upcoming streams of S-Tier, A-Tier and the bigger B-Tier events including their streamed qualifiers. For a full list of all upcoming RLEsports events check Liquipedia or blast.tv. Thursday, Jul 23 Scroll to view times / links >> ET CET AET Streams Matches ⚽ RLCS 2026: MENA LCQ - Playoffs Day 2 12:00 18:00 2:00 Stream Bracket Friday, Jul 24 Scroll to view times / links >> ET CET AET Streams Matches ⚽ RLCS 2026: SAM LCQ - Playoffs Day 2 15:00 21:00 5:00 Stream Bracket Saturday, Jul 25 Scroll to view times / links >> ET CET AET Streams Matches ⚽ RLCS 2026: NA LCQ - Playoffs Day 2 13:00 19:00 3:00 Stream Bracket Sunday, Jul 26 Scroll to view times / links >> ET CET AET Streams Matches ⚽ RLCS 2026: OCE Tiebreaker 8:00 14:00 22:00 Stream Bracket ⚽ RLCS 2026: EU LCQ - Playoffs Day 2 12:00 18:00 2:00 Stream Bracket Event Threads Events prefixed with ⚽ will have an Event Thread posted by mods. Anyone can create an Event Thread or Match Threads fo…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1h6tk/weekly_schedule_free_talk_thread_july_20_26/",
-    "timestamp": "2026-07-20T10:02:29Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1h6tk/weekly_schedule_free_talk_thread_july_20_26/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-20T10:02:29Z",
-    "id": "energy-f9af45d834b9d58c"
-  },
-  {
-    "title": "The Greatest Example of Building Rocket League National Team from nothing",
-    "summary": "With the Esports Nations Cup qualifiers being done (a 48 country tournament held in Riyadh in November) and all the national teams being decided there is one specific National team that I would like to highlight for a truly unique approach to raising the level of the team to being continentally competitive. West African rocket league has always been the worst in the continent, last year there were confirmed 0 players living in West Africa who ever reached SSL until Lankai became the first and so far only, thus it implies that during continental qualifiers such as FifaE etc. Ghana constantly came last alongside other West African countries and produced some of the worst quality performances we have ever seen. But this ENC there has been a radically new approach spearheaded by Ghana and followed by other West African countries which has allowed for West Africa, the worst RL region in the world to compete and qualify for their first ever international LAN with Ghana beating Senegal to qualify for the LAN. As I mentioned before Lankai was the only SSL in West Africa and frequently played in SSA RLCS and got a highest placement of Top 16, this season he moved to EU and has been floatin…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1gk08/the_greatest_example_of_building_rocket_league/",
-    "timestamp": "2026-07-20T09:25:56Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v1gk08/the_greatest_example_of_building_rocket_league/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-20T09:25:56Z",
-    "id": "energy-0420c6eef8562369"
-  },
-  {
-    "title": "Wide subcategories and brick-finiteness for length categories",
-    "summary": "arXiv:2607.15991v1 Announce Type: new Abstract: We extend to abelian length categories of finite rank a characterisation of brick-finiteness known for finite-dimensional algebras. We prove that such a category is brick-finite if and only if every torsion class is generated by a wide subcategory and every torsionfree class is cogenerated by a wide subcategory. The proof is based on an exchange relation for brick labels across wide intervals which is a shadow of the mutation of simple minded collections. As a corollary,we extend the validity of the first Brick Brauer-Thrall conjecture to this setting.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.15991",
-    "timestamp": "2026-07-20T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.15991"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-20T04:00:00Z",
-    "id": "energy-e301bcd718395546"
-  },
-  {
-    "title": "What are the odds that a conic bundle over a finite field is rational?",
-    "summary": "arXiv:2607.15997v1 Announce Type: new Abstract: We study rationality of conic bundles over finite fields defined over the line. In particular, for a fixed number $n$ of degenerate fibers, what is the proportion of good conic bundles that are rational over a finite field of order $q$? The Galois action on their Picard groups factors through the Weyl group $W(D_n)$, reducing rationality to a condition on signed permutation types. Using work of Colliot-Th\\'el\\`ene and Yang together with Chebotarev density, we compute the asymptotic proportion of such conic bundles that are rational as $q$ goes to infinity.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.15997",
-    "timestamp": "2026-07-20T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.15997"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-20T04:00:00Z",
-    "id": "energy-6f25badd5d62a2c2"
-  },
-  {
-    "title": "Weighted Derivative Sums of a Gamma Quotient: Sun's Conjecture and Cyclotomic Specializations",
-    "summary": "arXiv:2607.15303v1 Announce Type: new Abstract: Let $f(x) = \\Gamma(x)^2/(2\\Gamma(2x))$ and set $\\lambda_\\alpha = 4\\sin^2\\alpha$ for $0 < \\alpha < \\pi/2$. We establish an elementary parameter identity for a weighted translate of $f$ and derive an explicit formula, valid at every derivative order, for the associated weighted sums $\\sum_{k\\ge1} \\lambda_\\alpha^{k-1} f^{(r)}(k)$. The coefficients satisfy an effective recurrence in ordinary zeta values. The unique unweighted specialization $\\alpha = \\pi/6$ proves Conjecture 4.1 of Zhi-Wei Sun; at the fourth order a depth-two value $\\mathrm{Gl}_{4,1}(\\pi/3)$ occurs. The construction complements general cyclotomic-multiple-zeta methods for inverse-binomial harmonic sums by supplying a continuous master identity, with concrete specializations at $\\alpha = \\pi/4$ and $\\alpha = \\pi/3$.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.15303",
-    "timestamp": "2026-07-20T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.15303"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-20T04:00:00Z",
-    "id": "energy-960efe272a094594"
-  },
-  {
-    "title": "The Canceled Kingdom Hearts IV Prologue’s Cinematic Has Allegedly Leaked And Fans Are Trying To Decipher It",
-    "summary": "Kingdom Hearts: Missing-Link was a canceled mobile game that would have tied into the upcoming fourth mainline game in the series",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536",
-    "timestamp": "2026-07-20T01:26:39Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-20T01:26:39Z",
-    "id": "energy-e3ab2c3842387a0e"
-  },
-  {
-    "title": "The Fallout I’m Most Looking Forward To Isn’t A Remaster Or A Sequel",
-    "summary": "As Xbox tries to quell critics by replaying the hits, it’s a fan-made game that has me optimistic for the wasteland",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522",
-    "timestamp": "2026-07-19T21:53:45Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-19T21:53:45Z",
-    "id": "energy-1e27ae21b9b992e9"
-  },
-  {
-    "title": "Morphoice releases EightyTen, TWO vintage Roland synths in one (free beta)",
-    "summary": "Developer Morphoice has released EightyTen, consisting of two vintage Roland synths in one (free beta). Morphoice is back with another vintage synth emulation, and we all know the drill by now. In a relatively short time, Morphoice has released emulations of the Yamaha CS-80 (Unstable), the Roland Juno-6 (EightySix), and the Roland Jupiter-8 (EightyEight). EightyTen [...] View post: Morphoice releases EightyTen, TWO vintage Roland synths in one (free beta)",
+    "title": "cloph-dsp releases Grungr, a FREE drive pedal plugin",
+    "summary": "cloph-dsp has released Grungr, a free/pay-what-you-want drive pedal emulation for guitar, bass, and anything else that needs more bite. You might remember Pedro Castro from Freeze95, the fun little stochastic stutter and freeze effect we featured on BPB earlier this year. I loved that one, so Grungr is another interesting free effect from the same [...] View post: cloph-dsp releases Grungr, a FREE drive pedal plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/17/morphoice-eightyten/",
-    "timestamp": "2026-07-17T18:18:13Z",
+    "url": "https://bedroomproducersblog.com/2026/07/21/cloph-dsp-grungr/",
+    "timestamp": "2026-07-21T10:37:11Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/07/17/morphoice-eightyten/"
+      "https://bedroomproducersblog.com/2026/07/21/cloph-dsp-grungr/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-17T18:18:13Z",
-    "id": "energy-63de5fd1afbf6356"
+    "data_as_of": "2026-07-21T10:37:11Z",
+    "id": "energy-e0013e07b9ad6671"
   },
   {
-    "title": "Trump Has Spent Billions On Energy. An Electricity Boom Has Yet To Materialize.",
-    "summary": "By Jake Spring and Evan Halper On his first day back in office, President Donald Trump declared a national energy emergency and vowed to unleash abundant energy that would meet surging demand for electricity “to power the next generation of technology.” A year and a half later, analysts say his administration has yet to deliver […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/trump-has-spent-billions-on-energy-an-electricity-boom-has-yet-to-materialize/",
-    "timestamp": "2026-07-17T14:52:50Z",
+    "title": "The Guild reunion film smashes fundraising goals, earning $2.5 million in less than a day",
+    "summary": "The original cast will reunite for The Guild: Ren Faire'd, which will release in 2027.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/the-guild-renfaired-kickstarter-funded/",
+    "timestamp": "2026-07-21T10:16:28Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/the-guild-renfaired-kickstarter-funded/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-21T10:16:28Z",
+    "id": "energy-731cdc1e0f12a48c"
+  },
+  {
+    "title": "Baby Audio Super VHS is on sale for $10 until July 26",
+    "summary": "Baby Audio’s Super VHS lo-fi multi-effect plugin is on sale at Plugin Boutique for $10 until July 26. The regular price is $69, so this is a good time to grab it if you have been waiting for a bigger discount. Super VHS is still one of the easiest-to-use lo-fi VHS-style plugins out there. It [...] View post: Baby Audio Super VHS is on sale for $10 until July 26",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/21/baby-audio-super-vhs-sale-26/",
+    "timestamp": "2026-07-21T10:08:52Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/21/baby-audio-super-vhs-sale-26/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-21T10:08:52Z",
+    "id": "energy-75a2cb6e26c4f068"
+  },
+  {
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "timestamp": "2026-07-21T08:44:23Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://qwen.ai/blog?id=qwen-image-3.0"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-21T08:44:23Z",
+    "id": "energy-6caa815a574e2ad0"
+  },
+  {
+    "title": "Pleatech Audio offers WorldVerb reverb plugin for FREE (Windows)",
+    "summary": "Pleatech Audio is offering WorldVerb, a creative reverb plugin for Windows, as a free download for BPB readers. Developer Niels posted the offer in the BPB community section and shared a coupon code that unlocks the full version, with future updates included. That code is KAAPXM3; I tested it, and it works. Thanks to Niels for [...] View post: Pleatech Audio offers WorldVerb reverb plugin for FREE (Windows)",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/21/pleatech-audio-worldverb/",
+    "timestamp": "2026-07-21T08:29:18Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/21/pleatech-audio-worldverb/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-21T08:29:18Z",
+    "id": "energy-d6a630a60bb94bf1"
+  },
+  {
+    "title": "The best call from every current full-time RLCS caster",
+    "summary": "Btw, I based this completely off vibes & my limited ball knowledge, so if I forgot anything (or if you disagree with my picks), I'm all ears submitted by /u/N0b0dy_her3 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v28qat/the_best_call_from_every_current_fulltime_rlcs/",
+    "timestamp": "2026-07-21T05:01:29Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v28qat/the_best_call_from_every_current_fulltime_rlcs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-21T05:01:29Z",
+    "id": "energy-befee61ca06b8657"
+  },
+  {
+    "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://exsitu.app/map",
+    "timestamp": "2026-07-21T04:48:32Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://exsitu.app/map"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-21T04:48:32Z",
+    "id": "energy-0d593ccd2b9a6bae"
+  },
+  {
+    "title": "Zero-cycles on varieties over a $\\mathfrak{B}_s$-field",
+    "summary": "arXiv:2509.15617v3 Announce Type: replace Abstract: A field $F$ is a $\\mathfrak{B}_s$-field if, for every finite extension $E'/E$ of $F$, the norm map $K_s^M(E')\\to K_s^M(E)$ of the Milnor $K$-groups is surjective. In particular, finite fields ($s=1$), local fields, and certain global fields (with $s=2$) satisfy this condition. For such a field $F$ and a $d$-dimensional variety $X$ over $F$, we prove that $CH^{d+n}(X,n)$ is divisible for $n \\geq s+1$. Under a suitable condition on the index of $X$, $CH^{d+s}(X,s)$ is isomorphic to the direct sum of the Milnor $K$-group $K_{s}^M(F)$ and a divisible group. As an application, we study the Kato homology groups $KH_0^{(n)}(X,\\mathbb{Z}/l^r\\mathbb{Z})$ for any prime $l$ different from the characteristic of $F$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2509.15617",
+    "timestamp": "2026-07-21T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2509.15617"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-21T04:00:00Z",
+    "id": "energy-65b5379632661f1a"
+  },
+  {
+    "title": "WINO: A Weak-Form Physics Informed Neural Operator for Hyperelasticity on Variable Domains",
+    "summary": "arXiv:2605.24651v2 Announce Type: replace Abstract: We propose a Weak-form Physics-Informed Neural Operator (WINO), a data-free framework that combines the efficiency of neural operators with the geometric flexibility of the $\\varphi$-finite element method ($\\varphi$-FEM). $\\varphi$-FEM is an unfitted method that accommodates geometric variations without body-fitted meshes, where the domain geometry is represented by the level-set function $\\varphi$. To impose the boundary conditions, Dirichlet problems adopt the $\\varphi$-FEM lifting so only the homogeneous displacement contribution is learned, whereas traction-driven Neumann problems additionally predict the auxiliary fields necessary for the unfitted weak formulation. Parameters are trained by minimizing squared weak-form residuals aligned with $\\varphi$-FEM together with squared penalties on the cut-cell auxiliary equations, which removes the need for large paired datasets of converged reference solutions. When labeled reference data are available, an optional data-augmented variant (WINO+data) can further combine this physics-informed loss with a supervised term. After training, WINO outputs can seed the nonlinear $\\varphi$-F…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2605.24651",
+    "timestamp": "2026-07-21T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2605.24651"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-21T04:00:00Z",
+    "id": "energy-62fdf85d75c60d82"
+  },
+  {
+    "title": "When Phase Doesn't Matter: Self-Coherent Over-the-Air Computation at Sub-THz",
+    "summary": "arXiv:2607.18052v1 Announce Type: new Abstract: Over-the-air computation (OAC) enables efficient function aggregation in wireless networks by exploiting the superposition property of the multiple-access channel. However, practical deployment of OAC is severely challenged by the reliance on accurate carrier synchronization and coherent reception, which are costly and fragile, especially in short-range and low-complexity systems. In this work, we propose a \\emph{self-coherent, synthesizer-free over-the-air computation framework} based on \\emph{Kramers--Kronig (KK) reception}. By transmitting a biased aggregate waveform and employing direct detection followed by KK phase reconstruction at the receiver, the proposed scheme eliminates the need for explicit carrier recovery while preserving coherent-like signal aggregation. We develop a signal-domain system model for multi-user OAC under KK reception and provide a synchronization-relaxation analysis demonstrating that the proposed architecture fundamentally removes carrier-frequency offset (CFO) sensitivity between transmitters and receiver. By shifting synchronization complexity away from strict carrier-phase tracking and eliminating d…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.18052",
+    "timestamp": "2026-07-21T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.18052"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-21T04:00:00Z",
+    "id": "energy-582cb0afc4f44d39"
+  },
+  {
+    "title": "Running Doom on Our Custom CPU and Going Viral",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "timestamp": "2026-07-21T03:54:16Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.armaangomes.com/blogs/doom/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-21T03:54:16Z",
+    "id": "energy-c0714ba6640ce82e"
+  },
+  {
+    "title": "Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’",
+    "summary": "Josh Sawyer doesn't want to let players fight all their problems and solve everything",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
+    "timestamp": "2026-07-20T22:46:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-20T22:46:19Z",
+    "id": "energy-8f832b6e2cdc4d57"
+  },
+  {
+    "title": "Mobile Doom Dev Alpha Dog Games Reemerges As An Independent Studio Two Years After Microsoft Closed It",
+    "summary": "Independently owned, again",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/mighty-doom-dev-alpha-dog-games-independent-studio-2000717795",
+    "timestamp": "2026-07-20T22:36:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/mighty-doom-dev-alpha-dog-games-independent-studio-2000717795"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-20T22:36:11Z",
+    "id": "energy-a903f60c8ed7ba8c"
+  },
+  {
+    "title": "Four playable bots have landed in Hexflip",
+    "summary": "Four playable bots have landed in Hexflip, along with in-game chat, steam/discord sign-in, and ranked (requires sign-in). https://www.rocket-goats.com/hexflip Open to criticism of the bots' names:D submitted by /u/Rocket-Goats [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v207v3/four_playable_bots_have_landed_in_hexflip/",
+    "timestamp": "2026-07-20T22:32:23Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v207v3/four_playable_bots_have_landed_in_hexflip/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-20T22:32:23Z",
+    "id": "energy-a2369bf201ca63ea"
+  },
+  {
+    "title": "Making sense of the data center backlash",
+    "summary": "A crossover with Jigar Shah's \"Energy Empire\" podcast!",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/making-sense-of-the-data-center-backlash",
+    "timestamp": "2026-07-20T16:19:13Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/07/trump-has-spent-billions-on-energy-an-electricity-boom-has-yet-to-materialize/"
+      "https://www.volts.wtf/p/making-sense-of-the-data-center-backlash"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-07-20T16:19:13Z",
+    "id": "energy-6f32ca724dfff015"
+  },
+  {
+    "title": "MISO Presses Ahead With Zero-injection Gen Agreements",
+    "summary": "By Amanda Durish Cook MISO’s plan to create zero-injection generation agreements remains largely unchanged despite the filing date being delayed a month because of stakeholder apprehension. MISO’s Marc Keyser said during a Large Load Working Group teleconference on July 16 that MISO intends to present its plan to FERC on July 31. MISO’s plan is […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/miso-presses-ahead-with-zero-injection-gen-agreements/",
+    "timestamp": "2026-07-20T14:34:41Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/miso-presses-ahead-with-zero-injection-gen-agreements/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-07-17T14:52:50Z",
-    "id": "energy-d5d239dab03adfbf"
+    "data_as_of": "2026-07-20T14:34:41Z",
+    "id": "energy-92f7e60236ff9380"
   },
   {
-    "title": "Trump Cites National Security To Stop Offshore Wind Development. Here’s What To Know",
-    "summary": "By Jennifer McDermott President Donald Trump’s administration has worked to stop offshore wind development on the grounds that it’s a national security risk since late last year. It halted work on major projects, and it’s buying back leases, citing national security concerns. Interior Secretary Doug Burgum says a classified report from Defense Secretary Pete Hegseth […]",
+    "title": "US Power Tracker: Midcontinent August Power Trends Notably Higher Across Key Hub",
+    "summary": "By Ronnie Turner and Michael Fox • Texas, Louisiana forwards more than double 2025 averages • MISO load forecast jumps to 91 GW, 8.1% above Aug 2025 August power packages at several Midcontinent Independent System Operator’s hubs are trending above year-ago day-ahead on-peak locational marginal prices, with forwards at the Texas and Louisiana hubs priced […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/trump-cites-national-security-to-stop-offshore-wind-development-heres-what-to-know/",
-    "timestamp": "2026-07-17T14:51:02Z",
+    "url": "https://misoxenwatch.com/2026/07/us-power-tracker-midcontinent-august-power-trends-notably-higher-across-key-hub/",
+    "timestamp": "2026-07-20T14:34:08Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/07/trump-cites-national-security-to-stop-offshore-wind-development-heres-what-to-know/"
+      "https://misoxenwatch.com/2026/07/us-power-tracker-midcontinent-august-power-trends-notably-higher-across-key-hub/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-07-17T14:51:02Z",
-    "id": "energy-0b01f30f8a3b6e75"
+    "data_as_of": "2026-07-20T14:34:08Z",
+    "id": "energy-52a4bd296e0b2858"
   },
   {
-    "title": "Opinion: How Trump Became The Accidental Green President",
-    "summary": "By Matthew Lynn The longer you follow politics, the clearer one simple truth becomes: There is no greater force in human affairs than irony. The latest example? President Donald Trump — a man who has spent his career joking about windmills, ripping up climate agreements and waging war on anything containing the word “green” — […]",
+    "title": "Data Centers Have United Americans Of Both Parties In A Shared Hatred",
+    "summary": "By Shira Ovide Kyle Schmidt ticked through what makes him irate about the massive Google data center slated for construction about a mile away from his home near Sand Springs, Oklahoma. He didn’t like that residents were kept in the dark about what would be built on a pristine tract of mostly forested land. He’s […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/opinion-how-trump-became-the-accidental-green-president/",
-    "timestamp": "2026-07-17T14:50:55Z",
+    "url": "https://misoxenwatch.com/2026/07/data-centers-have-united-americans-of-both-parties-in-a-shared-hatred/",
+    "timestamp": "2026-07-20T14:33:31Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/07/opinion-how-trump-became-the-accidental-green-president/"
+      "https://misoxenwatch.com/2026/07/data-centers-have-united-americans-of-both-parties-in-a-shared-hatred/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-07-17T14:50:55Z",
-    "id": "energy-2329e5f8c570bace"
+    "data_as_of": "2026-07-20T14:33:31Z",
+    "id": "energy-5f47b96d08102347"
   }
 ]

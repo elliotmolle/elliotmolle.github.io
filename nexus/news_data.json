@@ -1,90 +1,138 @@
 [
   {
-    "title": "The human factor in licensing and operating the next generation of nuclear plants",
-    "summary": "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 28.0px 'Avenir Next'; color: #db4535} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 10.0px 'Utopia Std'} As human factors specialists working at the intersection of human performance and nuclear operations, we are witnessing one of the nuclear sector’s most significant transitions in decades. The emergence of small modular reactors, microreactors, and other advanced designs is reshaping the industry’s landscape. Digital instrumentation and controls, passive safety systems, and increased automation are creating opportunities for greater safety margins and more flexible operation. These same features also fundamentally redefine what it means to “operate” a nuclear plant. Interactions among human roles, automation, and passive systems shape how people maintain awareness, exercise judgment, and intervene when necessary. These developments affect both operational realities and the regulatory foundations on which nuclear safety is built.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-17/article-8161/the-human-factor-in-licensing-and-operating-the-next-generation-of-nuclear-plants/",
-    "timestamp": "2026-07-17T21:17:51Z",
+    "title": "Entergy New Orleans hosts annual Energize NOLA Community Fair and Backpack Giveaway",
+    "summary": "More than 650 community members gathered at the Joe Brown Park Recreation Center for Entergy New Orleans’ annual Energize NOLA Community Fair and Backpack Giveaway, an event designed to help local families prepare for the upcoming school year while connecting them with valuable community resources and energy-saving programs.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-hosts-annual-energize-nola-community-fair-and-backpack-giveaway",
+    "timestamp": "2026-07-20T20:09:42Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-17/article-8161/the-human-factor-in-licensing-and-operating-the-next-generation-of-nuclear-plants/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-17T21:17:51Z",
-    "id": "energy-1b1893961e96bd3a"
-  },
-  {
-    "title": "Simulations show nichrome microstructure could impact corrosion",
-    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} span.s1 {text-decoration: underline; color: #0000ff} Researchers at Pennsylvania State University have reported evidence that small adjustments to a material’s atomic-level ordering can significantly affect the rate and extent of corrosion, even with identical baseline chemical compositions. For the study, published recently in Corrosion Science, the team ran simulations for nichrome-based alloys, which have excellent strength, creep resistance, and tolerance to radiation-induced degradation, making them top candidates for use in molten salt reactors and other advanced energy systems.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-17/article-8215/simulations-show-nichrome-microstructure-could-impact-corrosion/",
-    "timestamp": "2026-07-17T19:39:57Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-17/article-8215/simulations-show-nichrome-microstructure-could-impact-corrosion/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-17T19:39:57Z",
-    "id": "energy-445921baf85c030c"
-  },
-  {
-    "title": "New grant to fund continued construction of TRISO-X fuel facilities",
-    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} span.s1 {text-decoration: underline; color: #0000ff} X-energy subsidiary TRISO-X has received an economic development grant valued at $11 million from Tennessee’s Nuclear Energy Supply Chain Investment Fund, which was established in 2023 to “support nuclear energy business investment, workforce development programs, and site development across Tennessee.” The grant will be used for the ongoing construction of TRISO-X’s fuel fabrication campus at the Horizon Center Industrial Park in Oak Ridge, Tenn.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-17/article-8214/new-grant-to-fund-continued-construction-of-trisox-fuel-facilities/",
-    "timestamp": "2026-07-17T18:06:14Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-17/article-8214/new-grant-to-fund-continued-construction-of-trisox-fuel-facilities/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-17T18:06:14Z",
-    "id": "energy-8f381699b6ad0eef"
-  },
-  {
-    "title": "Board Response to Multiple Correspondences Related to Joshua Falls-Yeat 765kV Project",
-    "summary": "Updated Date: 07.17.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260717-board-response-to-multiple-correspondences-related-to-joshua-falls-yeat-765kv-project.pdf",
-    "timestamp": "2026-07-17T15:16:21Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260717-board-response-to-multiple-correspondences-related-to-joshua-falls-yeat-765kv-project.pdf"
+      "https://www.entergy.com/blog/entergy-new-orleans-hosts-annual-energize-nola-community-fair-and-backpack-giveaway"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
-      "PJM Interconnection",
-      "PJM"
+      "Entergy"
     ],
-    "data_as_of": "2026-07-17T15:16:21Z",
-    "id": "energy-c0fd0e305bb363d1"
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-20T20:09:42Z",
+    "id": "energy-7c6347a69bbd3f8f"
+  },
+  {
+    "title": "IAEA scientists help rainbow trout farmers in Latin America",
+    "summary": "The trout population in the western hemisphere is getting stronger through the application of nuclear science. The International Atomic Energy Agency, as part of a technical cooperation project, is equipping laboratories and training specialists in nine countries to better deal with the infectious pancreatic necrosis virus (IPNV) in rainbow trout.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-20/article-8229/iaea-scientists-help-rainbow-trout-farmers-in-latin-america/",
+    "timestamp": "2026-07-20T20:02:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-20/article-8229/iaea-scientists-help-rainbow-trout-farmers-in-latin-america/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-20T20:02:21Z",
+    "id": "energy-b178e08c7a61f2f1"
+  },
+  {
+    "title": "Serbian officials lay out nuclear energy timeline",
+    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 12.0px Aptos; color: #000000} span.s1 {text-decoration: underline; color: #386573} Serbia reached a significant milestone in 2024 when its National Assembly overturned a moratorium on nuclear power plants that had been in place for 35 years, a ban imposed when the country was part of the former Yugoslavia. Fast forward to 2026 and the European country’s nuclear energy ambitions have become clearer. On July 13, Serbia’s Ministry of Mining and Energy held a four-day workshop outlining the country’s plans to kickstart a nuclear program.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-20/article-8224/serbian-officials-lay-out-nuclear-energy-timeline/",
+    "timestamp": "2026-07-20T17:20:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-20/article-8224/serbian-officials-lay-out-nuclear-energy-timeline/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-20T17:20:27Z",
+    "id": "energy-611a25d30cbbdf21"
+  },
+  {
+    "title": "Entergy’s Louisiana utilities urge customers to prepare as tropical weather approaches Louisiana",
+    "summary": "The companies encourage customers to take the time now to get personal storm plans in place and make a kit with basic emergency supplies, including any medical needs that require electricity.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergys-louisiana-utilities-urge-customers-to-prepare-as-tropical-weather-approaches-louisiana",
+    "timestamp": "2026-07-20T16:19:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergys-louisiana-utilities-urge-customers-to-prepare-as-tropical-weather-approaches-louisiana"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-20T16:19:31Z",
+    "id": "energy-d6cc43877dffcc36"
+  },
+  {
+    "title": "LLNL and Pacific Fusion achieve 3,000-shot milestone with Sirius pulsed-power prototype",
+    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} span.s1 {text-decoration: underline; color: #0000ff} span.s2 {font: 12.0px 'Times New Roman'} Researchers from Lawrence Livermore National Laboratory and Pacific Fusion have surpassed 3,000 “shots” with Sirius, a four-stage prototype impedance-matched Marx generator (IMG) of the type that can provide pulsed power to an inertial confinement fusion machine. The team characterized this achievement as a “key milestone in the development of high-gain fusion and a practical example of government-industry partnership at work.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-20/article-8217/llnl-and-pacific-fusion-achieve-3000shot-milestone-with-sirius-pulsedpower-prototype/",
+    "timestamp": "2026-07-20T14:55:10Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-20/article-8217/llnl-and-pacific-fusion-achieve-3000shot-milestone-with-sirius-pulsedpower-prototype/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-20T14:55:10Z",
+    "id": "energy-8a3bd67bb2bedc45"
+  },
+  {
+    "title": "Vamsi Chadalavada engages with groups across region in first 6 months leading ISO-NE",
+    "summary": "The CEO participated in forums exploring cold weather operations, large loads, energy affordability, and resource adequacy. The post Vamsi Chadalavada engages with groups across region in first 6 months leading ISO-NE appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/20/vamsi-chadalavada-engages-with-groups-across-region-in-first-6-months-leading-iso-ne/",
+    "timestamp": "2026-07-20T14:16:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/20/vamsi-chadalavada-engages-with-groups-across-region-in-first-6-months-leading-iso-ne/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-20T14:16:21Z",
+    "id": "energy-ea04d6f3c9c38570"
   }
 ]
