@@ -1,5 +1,139 @@
 [
   {
+    "title": "$40M investment to spur new nuclear developments in Idaho and Wyoming",
+    "summary": "On Monday, the U.S. Department of Commerce announced that its Economic Development Administration (EDA) intends to award $31 million to the Intermountain-West Nuclear Energy Corridor (INEC) Tech Hub. The Idaho Advanced Energy Consortium (IAEC), the group that leads the INEC Tech Hub, subsequently announced that matching donations from its stakeholder partners will bring the total investment up to $40 million.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-21/article-8233/40m-investment-to-spur-new-nuclear-developments-in-idaho-and-wyoming/",
+    "timestamp": "2026-07-21T21:09:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-21/article-8233/40m-investment-to-spur-new-nuclear-developments-in-idaho-and-wyoming/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-21T21:09:11Z",
+    "id": "energy-b5a0d174f4d3dac9"
+  },
+  {
+    "title": "Entergy Mississippi prepared for storms as the height of 2026 hurricane season approaches",
+    "summary": "As the height of the hurricane season approaches, Entergy Mississippi is prepared for summer storms, including hurricanes, and encourages customers to prepare as well.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-prepared-for-storms-as-the-height-of-2026-hurricane-season-approaches",
+    "timestamp": "2026-07-21T20:10:51Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-mississippi-prepared-for-storms-as-the-height-of-2026-hurricane-season-approaches"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-21T20:10:51Z",
+    "id": "energy-17db35f06df94555"
+  },
+  {
+    "title": "GAO report describes cleanup progress at Moab Mill Site",
+    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} span.s1 {text-decoration: underline; color: #0000ff} A new report released by the U.S. Government Accountability Office states that the Department of Energy’s Office of Environmental Management (EM) has disposed of more than 16 million tons of radioactive and hazardous waste from the Moab Mill Site. While cleanup continues at the Cold War–era uranium ore processing site in southeastern Utah, a plan for the next phase of groundwater remediation is still needed, according to the GAO.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-21/article-8232/gao-report-describes-cleanup-progress-at-moab-mill-site/",
+    "timestamp": "2026-07-21T18:55:35Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-21/article-8232/gao-report-describes-cleanup-progress-at-moab-mill-site/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-21T18:55:35Z",
+    "id": "energy-fae5054c39bb8db3"
+  },
+  {
+    "title": "CAPS Letter Regarding CIFP Connect and Manage Proposal",
+    "summary": "Updated Date: 07.21.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260721-caps-letter-re-cifp-connect-and-manage-proposal.pdf",
+    "timestamp": "2026-07-21T18:52:04Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260721-caps-letter-re-cifp-connect-and-manage-proposal.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-07-21T18:52:04Z",
+    "id": "energy-b0be456f47714152"
+  },
+  {
+    "title": "Laser-crystal sensor measures strong magnetic fields in challenging environments",
+    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} Researchers at Sandia National Laboratories have patented a magneto-optical sensor, which uses a rare earth crystal and laser light to measure the strength of intense magnetic fields and electrical currents. “We think this technology is a pretty major improvement in measuring magnetic fields,” said Israel Owens, a Sandia physicist and co-inventor of the sensor. “We think it’ll be essential especially for research in fusion, high-energy physics, and the power utilities industry. We’re really excited about where things are going.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-21/article-8231/lasercrystal-sensor-measures-strong-magnetic-fields-in-challenging-environments/",
+    "timestamp": "2026-07-21T17:26:48Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-21/article-8231/lasercrystal-sensor-measures-strong-magnetic-fields-in-challenging-environments/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-21T17:26:48Z",
+    "id": "energy-1360e0af7e54668d"
+  },
+  {
+    "title": "Update on ISO-NE compliance with FERC large and co-located loads order",
+    "summary": "ISO-NE has made an informational filing on regional resource adequacy and has begun to outline potential rule changes. The post Update on ISO-NE compliance with FERC large and co-located loads order appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/21/update-on-iso-ne-compliance-with-ferc-large-and-co-located-loads-order/",
+    "timestamp": "2026-07-21T13:00:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/21/update-on-iso-ne-compliance-with-ferc-large-and-co-located-loads-order/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-21T13:00:00Z",
+    "id": "energy-b105bda6340f30be"
+  },
+  {
     "title": "Entergy New Orleans hosts annual Energize NOLA Community Fair and Backpack Giveaway",
     "summary": "More than 650 community members gathered at the Joe Brown Park Recreation Center for Entergy New Orleans’ annual Energize NOLA Community Fair and Backpack Giveaway, an event designed to help local families prepare for the upcoming school year while connecting them with valuable community resources and energy-saving programs.",
     "source": "Entergy",
@@ -24,50 +158,6 @@
     "id": "energy-7c6347a69bbd3f8f"
   },
   {
-    "title": "IAEA scientists help rainbow trout farmers in Latin America",
-    "summary": "The trout population in the western hemisphere is getting stronger through the application of nuclear science. The International Atomic Energy Agency, as part of a technical cooperation project, is equipping laboratories and training specialists in nine countries to better deal with the infectious pancreatic necrosis virus (IPNV) in rainbow trout.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-20/article-8229/iaea-scientists-help-rainbow-trout-farmers-in-latin-america/",
-    "timestamp": "2026-07-20T20:02:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-20/article-8229/iaea-scientists-help-rainbow-trout-farmers-in-latin-america/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-20T20:02:21Z",
-    "id": "energy-b178e08c7a61f2f1"
-  },
-  {
-    "title": "Serbian officials lay out nuclear energy timeline",
-    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 12.0px Aptos; color: #000000} span.s1 {text-decoration: underline; color: #386573} Serbia reached a significant milestone in 2024 when its National Assembly overturned a moratorium on nuclear power plants that had been in place for 35 years, a ban imposed when the country was part of the former Yugoslavia. Fast forward to 2026 and the European country’s nuclear energy ambitions have become clearer. On July 13, Serbia’s Ministry of Mining and Energy held a four-day workshop outlining the country’s plans to kickstart a nuclear program.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-20/article-8224/serbian-officials-lay-out-nuclear-energy-timeline/",
-    "timestamp": "2026-07-20T17:20:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-20/article-8224/serbian-officials-lay-out-nuclear-energy-timeline/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-20T17:20:27Z",
-    "id": "energy-611a25d30cbbdf21"
-  },
-  {
     "title": "Entergy’s Louisiana utilities urge customers to prepare as tropical weather approaches Louisiana",
     "summary": "The companies encourage customers to take the time now to get personal storm plans in place and make a kit with basic emergency supplies, including any medical needs that require electricity.",
     "source": "Entergy",
@@ -90,28 +180,6 @@
     ],
     "data_as_of": "2026-07-20T16:19:31Z",
     "id": "energy-d6cc43877dffcc36"
-  },
-  {
-    "title": "LLNL and Pacific Fusion achieve 3,000-shot milestone with Sirius pulsed-power prototype",
-    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} span.s1 {text-decoration: underline; color: #0000ff} span.s2 {font: 12.0px 'Times New Roman'} Researchers from Lawrence Livermore National Laboratory and Pacific Fusion have surpassed 3,000 “shots” with Sirius, a four-stage prototype impedance-matched Marx generator (IMG) of the type that can provide pulsed power to an inertial confinement fusion machine. The team characterized this achievement as a “key milestone in the development of high-gain fusion and a practical example of government-industry partnership at work.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-20/article-8217/llnl-and-pacific-fusion-achieve-3000shot-milestone-with-sirius-pulsedpower-prototype/",
-    "timestamp": "2026-07-20T14:55:10Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-20/article-8217/llnl-and-pacific-fusion-achieve-3000shot-milestone-with-sirius-pulsedpower-prototype/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-20T14:55:10Z",
-    "id": "energy-8a3bd67bb2bedc45"
   },
   {
     "title": "Vamsi Chadalavada engages with groups across region in first 6 months leading ISO-NE",
