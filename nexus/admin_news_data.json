@@ -1,39 +1,363 @@
 [
   {
-    "title": "The best place to see the Odyssey is at your local theater",
-    "summary": "Christopher Nolan's The Odyssey is offered in many premium formats, including IMAX 70mm. But don't let FOMO spoil a great experience for everyone",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-odyssey-imax-70mm-premium-formats-local-theater/",
-    "timestamp": "2026-07-22T11:13:57Z",
+    "title": "You Can Make Final Fantasy 7 Rebirth Utterly Beautiful With A Single Mod",
+    "summary": "The Shader Injector completely transforms the game's lighting, shadows, water and faces",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/final-fantasy-7-rebirth-shader-injector-mod-lighting-shadows-2000718736",
+    "timestamp": "2026-07-23T11:30:45Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/the-odyssey-imax-70mm-premium-formats-local-theater/"
+      "https://kotaku.com/final-fantasy-7-rebirth-shader-injector-mod-lighting-shadows-2000718736"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-22T11:13:57Z",
-    "id": "energy-f3a0b87037febe13"
+    "data_as_of": "2026-07-23T11:30:45Z",
+    "id": "energy-50c24cd3cceaff59"
   },
   {
-    "title": "Say goodbye to Tom Holland’s forgotten disaster thriller leaving free streaming very soon",
-    "summary": "The Impossible was Tom Holland's first live-action debut and is also one of the most gripping disaster movies of all time.",
+    "title": "NRG penalty kicks challenge",
+    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v4ax66/nrg_penalty_kicks_challenge/",
+    "timestamp": "2026-07-23T11:16:05Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v4ax66/nrg_penalty_kicks_challenge/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-23T11:16:05Z",
+    "id": "energy-d00d6ddfda0623a3"
+  },
+  {
+    "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://frame.work/desktop?tab=192gb-coming-soon",
+    "timestamp": "2026-07-23T11:09:48Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://frame.work/desktop?tab=192gb-coming-soon"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-23T11:09:48Z",
+    "id": "energy-9af374c16b9e2641"
+  },
+  {
+    "title": "Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.worseonpurpose.com/",
+    "timestamp": "2026-07-23T11:05:11Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.worseonpurpose.com/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-23T11:05:11Z",
+    "id": "energy-9c4613f791c9c649"
+  },
+  {
+    "title": "The biggest anime event of 2026 is officially streaming on Netflix",
+    "summary": "Despite a stacked season of anime, the release of Jujutsu Kaisen season 3 on Netflix this July is hard to ignore with incredible spectacle.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/tom-holland-first-movie-the-impossible/",
-    "timestamp": "2026-07-22T11:00:12Z",
+    "url": "https://www.polygon.com/one-of-animes-most-breathtaking-action-shows-is-finally-coming-to-netflix/",
+    "timestamp": "2026-07-23T11:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/tom-holland-first-movie-the-impossible/"
+      "https://www.polygon.com/one-of-animes-most-breathtaking-action-shows-is-finally-coming-to-netflix/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-22T11:00:12Z",
-    "id": "energy-4d4235c27e732b01"
+    "data_as_of": "2026-07-23T11:00:12Z",
+    "id": "energy-50a1018592ddcd7e"
+  },
+  {
+    "title": "Code mode yields a 99.2% cost reduction in our systems",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+    "timestamp": "2026-07-23T10:17:36Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.agent-swarm.dev/blog/code-mode-token-savings"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-23T10:17:36Z",
+    "id": "energy-90b2358bbefb5fc1"
+  },
+  {
+    "title": "Is Espeon the GOAT?",
+    "summary": "Just some thoughts. Lmk submitted by /u/e-manresu [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v465q3/is_espeon_the_goat/",
+    "timestamp": "2026-07-23T06:53:50Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v465q3/is_espeon_the_goat/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-23T06:53:50Z",
+    "id": "energy-9245986e955cde43"
+  },
+  {
+    "title": "RLCS LCQ Kickoff times",
+    "summary": "submitted by /u/Legitimate-Sign-371 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v44bwb/rlcs_lcq_kickoff_times/",
+    "timestamp": "2026-07-23T05:14:38Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v44bwb/rlcs_lcq_kickoff_times/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-23T05:14:38Z",
+    "id": "energy-260f6744ac40c677"
+  },
+  {
+    "title": "Which gadget tank should you pick in Splatoon Raiders?",
+    "summary": "Splatoon Raiders' gadget tanks are an important part of each raid. Here's which gadget tank you should pick in Splatoon Raiders",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/splatoon-raiders-gadget-tank-speed-power-technical/",
+    "timestamp": "2026-07-23T04:01:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/splatoon-raiders-gadget-tank-speed-power-technical/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-23T04:01:12Z",
+    "id": "energy-71aaafe08068a1bd"
+  },
+  {
+    "title": "How to play with friends in Splatoon Raiders",
+    "summary": "You can play with friends in Splatoon Raiders' multiplayer, even though it's a single-player game. Here's how to play with friends in Splatoon Raiders",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/splatoon-raiders-multiplayer-how-to-play-with-friends/",
+    "timestamp": "2026-07-23T04:01:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/splatoon-raiders-multiplayer-how-to-play-with-friends/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-23T04:01:12Z",
+    "id": "energy-fbe4742c08dae84c"
+  },
+  {
+    "title": "Zoll manifolds with boundary",
+    "summary": "arXiv:2510.26725v3 Announce Type: replace Abstract: We introduce and study Zoll manifolds with boundary: compact Riemannian manifolds with smooth boundary such that every geodesic issuing orthogonally from the boundary returns orthogonally and is nowhere tangent to it. We first show that all such free boundary geodesics are embedded and have a common length, and that the boundary has at most two connected components. If there are two components, we prove that the manifold is a product of an interval with a closed manifold. When the boundary is connected, we show that the manifold is a tubular neighborhood of a closed embedded submanifold, the \"soul\", and that the complement of the soul is diffeomorphic to a half-open cylinder over the boundary. We further prove that all free boundary geodesics are maximally degenerate critical points of the energy functional and have the same Morse index, which equals the multiplicity of the unique focal point occurring at the midpoint of each geodesic. The projection from the boundary to the soul is then either a nontrivial two-fold covering or a smooth sphere bundle, according to the value of this index. As applications, we obtain a complete cla…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2510.26725",
+    "timestamp": "2026-07-23T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2510.26725"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-23T04:00:00Z",
+    "id": "energy-408b2aa4ab5a5adc"
+  },
+  {
+    "title": "Worst-Case Complexity of High-Order Algorithms for Pareto-Front Reconstruction",
+    "summary": "arXiv:2506.11929v2 Announce Type: replace Abstract: In this paper, we are concerned with a worst-case complexity analysis of a-posteriori algorithms for unconstrained multiobjective optimization. Specifically, we propose an algorithmic framework that generates sets of points by means of $p$th-order models regularized with a power $p+1$ of the norm of the step. Through a tailored search procedure, several trial points are generated at each iteration and they can be added to the current set if a decrease is obtained for at least one objective function. Building upon this idea, we devise two algorithmic versions: at every iteration, the first tries to update all points in the current set, while the second tries to update only one point. Under Lipschitz continuity of the derivatives of the objective functions, we derive worst-case complexity bounds for both versions. For the first one, we show that at most $\\mathcal O(\\epsilon^{-m(p+1)/p})$ iterations are needed to generate a set where all points are $\\epsilon$-approximate Pareto-stationary, with $m$ being the number of objective functions, requiring at most $\\mathcal O(|X(\\epsilon)|\\epsilon^{-m(p+1)/p})$ function evaluations, where $…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2506.11929",
+    "timestamp": "2026-07-23T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2506.11929"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-23T04:00:00Z",
+    "id": "energy-8488fdc7e6a221de"
+  },
+  {
+    "title": "Wireless Communication with Cross-Linked Rotatable Antenna Array: Architecture Design and Rotation Optimization",
+    "summary": "arXiv:2601.04862v2 Announce Type: replace Abstract: Rotatable antenna (RA) technology can harness additional spatial degrees of freedom by enabling the dynamic three-dimensional orientation control of each antenna. Unfortunately, the hardware cost and control complexity of traditional RA systems is proportional to the number of RAs. To address the issue, we consider a cross-linked (CL) RA structure, which enables the coordinated rotation of multiple antennas, thereby offering a cost-effective solution. To evaluate the performance of the CL-RA array, we investigate a CL-RA-aided uplink system. Specifically, we first establish system models for both antenna element-level and antenna panel-level rotation. Then, we formulate a sum rate maximization problem by jointly optimizing the receive beamforming at the base station and the rotation angles. For the antenna element-level rotation, we derive the optimal solution of the CL-RA array under the single-user case. Subsequently, for two rotation schemes, we propose an alternating optimization algorithm to solve the formulated problem in the multi-user case, where the receive beamforming and the antenna rotation angles are obtained by appl…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2601.04862",
+    "timestamp": "2026-07-23T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2601.04862"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-23T04:00:00Z",
+    "id": "energy-e2a1d52283f767ab"
+  },
+  {
+    "title": "Zelda: Tears Of The Kingdom Gets Very Cool And Surprisingly Affordable Action Figures",
+    "summary": "Hasbro is bringing Hyrule to life for cheap",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/zelda-tears-of-the-kingdom-gets-very-cool-and-surprisingly-affordable-action-figures-2000718523",
+    "timestamp": "2026-07-22T23:00:34Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/zelda-tears-of-the-kingdom-gets-very-cool-and-surprisingly-affordable-action-figures-2000718523"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-22T23:00:34Z",
+    "id": "energy-884a9386bc6e8493"
+  },
+  {
+    "title": "World Of Warcraft Players Think They’ve Uncovered An Insider Raiding Scandal",
+    "summary": "That's...not a real ability",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/world-of-warcraft-insider-raiding-scandal-2000718464",
+    "timestamp": "2026-07-22T22:30:16Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/world-of-warcraft-insider-raiding-scandal-2000718464"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-22T22:30:16Z",
+    "id": "energy-3abad9ff6a48281b"
+  },
+  {
+    "title": "Fracture Sounds releases Blueprint: Textural Sax, a FREE experimental woodwind library for Kontakt Player",
+    "summary": "Blueprint: Textural Sax is the latest addition to the free and wonderful Blueprint collection by Fracture Sounds. More specifically, it’s the latest addition to Blueprint’s Textural cinematic libraries. Previous releases include Textural Cello and Textural Violin. Like the other Textural libraries, Textural Sax isn’t about making an exact recreation of the instrument. It’s about taking [...] View post: Fracture Sounds releases Blueprint: Textural Sax, a FREE experimental woodwind library for Kontakt Player",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/22/fracture-sounds-blueprint-textural-sax/",
+    "timestamp": "2026-07-22T16:52:11Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/22/fracture-sounds-blueprint-textural-sax/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-22T16:52:11Z",
+    "id": "energy-c19caf79ffe0bab9"
+  },
+  {
+    "title": "Texas Transmission Policy Sharpens US Competition Fight",
+    "summary": "By Shelby Webb and Jeffrey Tomich Calls are growing for Texas to end monopoly dominance over major electric transmission projects — just as other regions hope to follow its approach and reduce competition. The Lone Star State is preparing for a $33 billion build-out of power lines from El Paso to East Texas, and critics […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/texas-transmission-policy-sharpens-us-competition-fight/",
+    "timestamp": "2026-07-22T14:49:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/texas-transmission-policy-sharpens-us-competition-fight/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-22T14:49:57Z",
+    "id": "energy-93391d475b12c792"
+  },
+  {
+    "title": "Utilities Face Planning Gaps As Winter Storms Test Resource Adequacy",
+    "summary": "By Jasmin Melvin • Regulators balance reliability with bills • US DOE orders spark debate over planning timelines US grid operators and state regulators are struggling to balance the soaring costs of maintaining electric reliability during extreme weather events with the need to keep customer bills affordable, industry leaders said at a panel discussion July […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/utilities-face-planning-gaps-as-winter-storms-test-resource-adequacy/",
+    "timestamp": "2026-07-22T14:48:15Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/utilities-face-planning-gaps-as-winter-storms-test-resource-adequacy/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-22T14:48:15Z",
+    "id": "energy-de4bfc01b6c32994"
+  },
+  {
+    "title": "Missouri Lawmakers Fight Utility Bid To Bypass Competition On New Power Lines",
+    "summary": "By Jana Rose Schleis Electric companies in the Midwest say new large scale powerlines are needed to get more energy onto the grid to serve big power consumers such as artificial intelligence data centers. Now, the utilities argue reducing competition is the fastest way to do it. A group of nine electric transmission utilities, including […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/missouri-lawmakers-fight-utility-bid-to-bypass-competition-on-new-power-lines/",
+    "timestamp": "2026-07-22T14:47:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/missouri-lawmakers-fight-utility-bid-to-bypass-competition-on-new-power-lines/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-22T14:47:00Z",
+    "id": "energy-bc5c4f6b68fceebf"
   },
   {
     "title": "UnplugRed and BlepFX release FREE Sucrose harmonic generator",
@@ -72,312 +396,6 @@
     "id": "energy-4422e691396db179"
   },
   {
-    "title": "Magic designers know what fans want, and that's more fantasy Universes Beyond",
-    "summary": "Magic's Universes Beyond will focus more on fantasy settings, according to top designers and Hasbro's CEO.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/magic-mtg-universes-beyond-more-fantasy/",
-    "timestamp": "2026-07-22T09:38:27Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/magic-mtg-universes-beyond-more-fantasy/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-22T09:38:27Z",
-    "id": "energy-affd5ccc33ac4bb7"
-  },
-  {
-    "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://codeberg.org/Codeberg/org/pulls/1253",
-    "timestamp": "2026-07-22T08:27:12Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://codeberg.org/Codeberg/org/pulls/1253"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-22T08:27:12Z",
-    "id": "energy-c95de6d43cb0f9aa"
-  },
-  {
-    "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
-    "timestamp": "2026-07-22T05:51:50Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://tengli.dev/posts/mcp-servers-failing-agents.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-22T05:51:50Z",
-    "id": "energy-6a0b7100b43be411"
-  },
-  {
-    "title": "Show HN: A new kind of FPS aim trainer",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://openaim.pramit.gg/",
-    "timestamp": "2026-07-22T05:39:31Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://openaim.pramit.gg/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-22T05:39:31Z",
-    "id": "energy-36988588210902f9"
-  },
-  {
-    "title": "Zero-cycles on surfaces dominated by products of hyperelliptic curves",
-    "summary": "arXiv:2607.18906v1 Announce Type: new Abstract: Conditionally on the finiteness of the relevant Tate-Shafarevich groups, we prove a local-to-global result for zero-cycles of degree $1$ on the surfaces given by $y^2 = f_1(x_1)f_2(x_2)$, where the polynomials $f_1$ and $f_2$ are algebraically general. The proof combines the fibration method, parity results for $2$-Selmer groups in quadratic twist families, and a variant of a theorem of Morgan on the variation of the Cassels-Tate pairing.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.18906",
-    "timestamp": "2026-07-22T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.18906"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-22T04:00:00Z",
-    "id": "energy-6eb675084ac00983"
-  },
-  {
-    "title": "When Are Scoring Rules Proper? Bridging Theory and Practice in Survival Model Evaluation",
-    "summary": "arXiv:2212.05260v4 Announce Type: replace Abstract: Proper scoring rules encourage probabilistic predictions that match the true underlying distribution and are central to model evaluation, with increasing relevance in automated workflows such as AutoML. In survival analysis, however, their behavior under censoring is not fully understood. We study commonly used squared and logarithmic scoring rules for right-censored survival data under independent censoring, introducing a notion of marginal properness based on observable outcomes. Within this framework, we show that the SBS, evaluated at a fixed time point, along with its integrated version (ISBS) and the RCLL are strictly proper when all individuals eventually experience the event, but can become improper under finite follow-up or in the presence of cure fractions. For the SBS, we derive a closed-form expression that reveals the true mechanism: residual mass, corresponding to individuals who remain event-free at study end, systematically biases the score toward underestimating survival, with the effect increasing at later evaluation times and under heavier censoring. Through simulation experiments, we examine how these issues m…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2212.05260",
-    "timestamp": "2026-07-22T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2212.05260"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-22T04:00:00Z",
-    "id": "energy-6315b9aeab764fa3"
-  },
-  {
-    "title": "Well-posedness and global existence for Hardy--H\\'{e}non parabolic equations in Herz spaces",
-    "summary": "arXiv:2607.19247v1 Announce Type: new Abstract: In this paper, we study the Hardy-H\\'{e}non parabolic equation \\begin{equation*} \\partial_t u=\\Delta u+a|x|^{-\\gamma}|u|^{\\beta}u, \\qquad t>0,\\; x\\in\\mathbb{R}^{n}\\setminus\\{0\\}, \\quad \\beta>0,\\; a\\in\\mathbb{R}, \\end{equation*} under suitable assumptions on the parameter $\\gamma$. We establish the local and global well-posedness of mild solutions in homogeneous Herz spaces.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.19247",
-    "timestamp": "2026-07-22T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.19247"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-22T04:00:00Z",
-    "id": "energy-336e4599aaa52133"
-  },
-  {
-    "title": "Seamless No-Load-Screen Takeoffs Come To Starfield Three Years Later Thanks To Modder",
-    "summary": "A long-requested feature makes exploration look more immersive",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/seamless-no-load-screen-takeoffs-come-to-starfield-three-years-later-thanks-to-modder-2000718146",
-    "timestamp": "2026-07-21T23:30:30Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/seamless-no-load-screen-takeoffs-come-to-starfield-three-years-later-thanks-to-modder-2000718146"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-21T23:30:30Z",
-    "id": "energy-7c212bbe281bf419"
-  },
-  {
-    "title": "Things Are So Bad Even Apple Is Implementing Buy Now, Pay Later Plans",
-    "summary": "The iPhone maker is partnering with Klarna to 'help' people afford upgrades",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/things-are-so-bad-even-apple-is-implementing-buy-now-pay-later-plans-2000718171",
-    "timestamp": "2026-07-21T22:30:27Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/things-are-so-bad-even-apple-is-implementing-buy-now-pay-later-plans-2000718171"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-21T22:30:27Z",
-    "id": "energy-b82e742b0bafa865"
-  },
-  {
-    "title": "Xbox Game Pass Reveals Everything Else Besides Halo Getting Added July 2026",
-    "summary": "I'm looking forward to giving Mistfall Hunter a try",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/xbox-game-pass-reveals-everything-else-besides-halo-getting-added-july-2026-2000718151",
-    "timestamp": "2026-07-21T21:58:24Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/xbox-game-pass-reveals-everything-else-besides-halo-getting-added-july-2026-2000718151"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-21T21:58:24Z",
-    "id": "energy-43eebf10162f30da"
-  },
-  {
-    "title": "How a SAM team prepares for the upcoming LCQ? (Royales, Sosa and Motta)",
-    "summary": "Spent the last few days in Rio de Janeiro embedded with Plot Twist to document their final preparation for the SAM LCQ. Seeing the focus, strategy, and dedication up close proves just how much this moment means to them. It all comes down to this, they face Fofuchos this Friday in match one. Do you think that they will conquer the spot in worlds? submitted by /u/MeladoDuds [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v2vcow/how_a_sam_team_prepares_for_the_upcoming_lcq/",
-    "timestamp": "2026-07-21T21:08:23Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v2vcow/how_a_sam_team_prepares_for_the_upcoming_lcq/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-21T21:08:23Z",
-    "id": "energy-3723e727735a0d91"
-  },
-  {
-    "title": "Superlachie complaining about the late schedule for OCE tiebreaker",
-    "summary": "submitted by /u/jb44_ [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v2q2c4/superlachie_complaining_about_the_late_schedule/",
-    "timestamp": "2026-07-21T18:01:03Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v2q2c4/superlachie_complaining_about_the_late_schedule/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-21T18:01:03Z",
-    "id": "energy-d84c4557179dcb69"
-  },
-  {
-    "title": "missed the rlcs 2025 season",
-    "summary": "how tf did zen monkey moon not sweep through the entire season? moreover how did they get 10th place? if you told me this team like 2 years ago i would say they would need to 2v3 every team to make it fair submitted by /u/SwitchNo185 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v2or07/missed_the_rlcs_2025_season/",
-    "timestamp": "2026-07-21T17:15:44Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v2or07/missed_the_rlcs_2025_season/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-21T17:15:44Z",
-    "id": "energy-0510500782e4853c"
-  },
-  {
-    "title": "Southwest Power Pool Issues Energy Emergency Alert 3 For West Balancing Area",
-    "summary": "By Ronnie Turner • SPP West Hub real-time power surges to $1,826/MWh • MISO issues heat, severe weather alerts across regions Southwest Power Pool’s West balancing authority area entered an Energy Emergency Alert 3 on July 20 because of potentially high peakloads and other elevated grid conditions, and parts of the neighboring Midcontinent Independent System […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/southwest-power-pool-issues-energy-emergency-alert-3-for-west-balancing-area/",
-    "timestamp": "2026-07-21T14:55:15Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/southwest-power-pool-issues-energy-emergency-alert-3-for-west-balancing-area/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-21T14:55:15Z",
-    "id": "energy-c6812cdc1be5a9ab"
-  },
-  {
-    "title": "MISO To Design Dedicated Queue Process For Large Loads And Devoted Generation",
-    "summary": "By Amanda Durish Cook MISO said it will create a new, expedited study process for large loads conducted outside of its regular interconnection queue as its fast lane queue winds down. This new option would be dedicated to generation planned exclusively for large loads. Propelled by FERC’s recent show-cause order on large load interconnections, MISO […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/miso-to-design-dedicated-queue-process-for-large-loads-and-devoted-generation/",
-    "timestamp": "2026-07-21T14:54:39Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/miso-to-design-dedicated-queue-process-for-large-loads-and-devoted-generation/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-21T14:54:39Z",
-    "id": "energy-c4da6cde8255c930"
-  },
-  {
-    "title": "Midwest Utilities Want Less Competition To Build The Grid Faster",
-    "summary": "By Jana Rose Schleis Electric companies in the Midwest say new large scale powerlines are needed to get more energy onto the grid to serve big power consumers such as artificial intelligence data centers. Now, the utilities argue reducing competition is the fastest way to do it. A group of nine electric transmission utilities, including […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/midwest-utilities-want-less-competition-to-build-the-grid-faster/",
-    "timestamp": "2026-07-21T14:53:49Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/midwest-utilities-want-less-competition-to-build-the-grid-faster/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-21T14:53:49Z",
-    "id": "energy-a05ef7760e6857d3"
-  },
-  {
     "title": "cloph-dsp releases Grungr, a FREE drive pedal plugin",
     "summary": "cloph-dsp has released Grungr, a free/pay-what-you-want drive pedal emulation for guitar, bass, and anything else that needs more bite. You might remember Pedro Castro from Freeze95, the fun little stochastic stutter and freeze effect we featured on BPB earlier this year. I loved that one, so Grungr is another interesting free effect from the same [...] View post: cloph-dsp releases Grungr, a FREE drive pedal plugin",
     "source": "Bedroom Producers Blog",
@@ -394,24 +412,6 @@
     "primary_source": false,
     "data_as_of": "2026-07-21T10:37:11Z",
     "id": "energy-e0013e07b9ad6671"
-  },
-  {
-    "title": "Baby Audio Super VHS is on sale for $10 until July 26",
-    "summary": "Baby Audio’s Super VHS lo-fi multi-effect plugin is on sale at Plugin Boutique for $10 until July 26. The regular price is $69, so this is a good time to grab it if you have been waiting for a bigger discount. Super VHS is still one of the easiest-to-use lo-fi VHS-style plugins out there. It [...] View post: Baby Audio Super VHS is on sale for $10 until July 26",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/21/baby-audio-super-vhs-sale-26/",
-    "timestamp": "2026-07-21T10:08:52Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/21/baby-audio-super-vhs-sale-26/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-21T10:08:52Z",
-    "id": "energy-75a2cb6e26c4f068"
   },
   {
     "title": "Making sense of the data center backlash",

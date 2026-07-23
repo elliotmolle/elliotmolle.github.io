@@ -1,16 +1,16 @@
 [
   {
-    "title": "$40M investment to spur new nuclear developments in Idaho and Wyoming",
-    "summary": "On Monday, the U.S. Department of Commerce announced that its Economic Development Administration (EDA) intends to award $31 million to the Intermountain-West Nuclear Energy Corridor (INEC) Tech Hub. The Idaho Advanced Energy Consortium (IAEC), the group that leads the INEC Tech Hub, subsequently announced that matching donations from its stakeholder partners will bring the total investment up to $40 million.",
+    "title": "Developers, officials talk advanced reactor outlook with NRC",
+    "summary": "The public had a rare opportunity Tuesday morning when the Nuclear Regulatory Commission gathered leaders from the Department of Energy, the Canadian Nuclear Safety Commission, TerraPower, Radiant, Westinghouse, and X-energy to share updates on their respective high-profile new nuclear projects and initiatives. During the meeting, titled “Advanced Reactor Landscape: Current Status and Moving Forward,” federal and industry officials presented on their respective endeavors, providing new updates, refreshers on previously announced information, and takeaways from their experiences.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-21/article-8233/40m-investment-to-spur-new-nuclear-developments-in-idaho-and-wyoming/",
-    "timestamp": "2026-07-21T21:09:11Z",
+    "url": "https://www.ans.org/news/2026-07-22/article-8237/developers-officials-talk-advanced-reactor-outlook-with-nrc/",
+    "timestamp": "2026-07-22T22:17:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-21/article-8233/40m-investment-to-spur-new-nuclear-developments-in-idaho-and-wyoming/"
+      "https://www.ans.org/news/2026-07-22/article-8237/developers-officials-talk-advanced-reactor-outlook-with-nrc/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-21T21:09:11Z",
-    "id": "energy-b5a0d174f4d3dac9"
+    "data_as_of": "2026-07-22T22:17:39Z",
+    "id": "energy-0a03934383d3195b"
   },
   {
-    "title": "Entergy Mississippi prepared for storms as the height of 2026 hurricane season approaches",
-    "summary": "As the height of the hurricane season approaches, Entergy Mississippi is prepared for summer storms, including hurricanes, and encourages customers to prepare as well.",
+    "title": "Entergy New Orleans updates City Council on reliability improvements, underground infrastructure and hurricane preparedness",
+    "summary": "Entergy New Orleans’ leadership team today came before the New Orleans City Council to provide updates on three key priorities: ongoing reliability improvements in the North Kenilworth neighborhood of New Orleans East, the operation and maintenance of the underground electric system in the French Quarter, and the company’s preparedness for the 2026 hurricane season as Tropical Storm Bertha moves through the Gulf of Mexico.",
     "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-prepared-for-storms-as-the-height-of-2026-hurricane-season-approaches",
-    "timestamp": "2026-07-21T20:10:51Z",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-updates-city-council-on-reliability-improvements-underground-infrastructure-and-hurricane-preparedness",
+    "timestamp": "2026-07-22T21:26:15Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/stormcenter/entergy-mississippi-prepared-for-storms-as-the-height-of-2026-hurricane-season-approaches"
+      "https://www.entergy.com/blog/entergy-new-orleans-updates-city-council-on-reliability-improvements-underground-infrastructure-and-hurricane-preparedness"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -42,21 +42,45 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-07-21T20:10:51Z",
-    "id": "energy-17db35f06df94555"
+    "data_as_of": "2026-07-22T21:26:15Z",
+    "id": "energy-dcec047a86941d93"
   },
   {
-    "title": "GAO report describes cleanup progress at Moab Mill Site",
-    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} span.s1 {text-decoration: underline; color: #0000ff} A new report released by the U.S. Government Accountability Office states that the Department of Energy’s Office of Environmental Management (EM) has disposed of more than 16 million tons of radioactive and hazardous waste from the Moab Mill Site. While cleanup continues at the Cold War–era uranium ore processing site in southeastern Utah, a plan for the next phase of groundwater remediation is still needed, according to the GAO.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-21/article-8232/gao-report-describes-cleanup-progress-at-moab-mill-site/",
-    "timestamp": "2026-07-21T18:55:35Z",
+    "title": "Entergy Arkansas awards Community Power Scholarships to six outstanding students",
+    "summary": "Entergy Arkansas is investing in the next generation by awarding six outstanding students $5,000 Community Power Scholarships.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-arkansas-awards-community-power-scholarships-to-six-outstanding-students",
+    "timestamp": "2026-07-22T20:09:57Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-21/article-8232/gao-report-describes-cleanup-progress-at-moab-mill-site/"
+      "https://www.entergy.com/blog/entergy-arkansas-awards-community-power-scholarships-to-six-outstanding-students"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-22T20:09:57Z",
+    "id": "energy-d617af132f34656e"
+  },
+  {
+    "title": "NNSA green-lights Calciner Project decommissioning work at Y-12",
+    "summary": "The National Nuclear Security Administration has granted authorization to Consolidated Nuclear Security (CNS) to begin the decontamination and decommissioning work with the Calciner Project (CALP) at the Y-12 National Security Complex, in Oak Ridge, Tenn.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-22/article-8236/nnsa-greenlights-calciner-project-decommissioning-work-at-y12/",
+    "timestamp": "2026-07-22T17:32:55Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-22/article-8236/nnsa-greenlights-calciner-project-decommissioning-work-at-y12/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -64,8 +88,102 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-21T18:55:35Z",
-    "id": "energy-fae5054c39bb8db3"
+    "data_as_of": "2026-07-22T17:32:55Z",
+    "id": "energy-a5a4be0d2d3274c7"
+  },
+  {
+    "title": "Hinds plant manager earns President’s Lifesaving Award",
+    "summary": "Joseph Wiggs, plant manager at Hinds Energy Facility, saved a man’s life at a restaurant by performing the Heimlich maneuver, earning the President’s Lifesaving Award for his heroic actions and emergency medical training.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/hinds-plant-manager-earns-presidents-lifesaving-award",
+    "timestamp": "2026-07-22T16:02:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/hinds-plant-manager-earns-presidents-lifesaving-award"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-22T16:02:14Z",
+    "id": "energy-baf509810128422d"
+  },
+  {
+    "title": "Graphene nanoribbon explored as basis for gamma monitoring in fusion machines",
+    "summary": "A tiny ribbon may hold big promise for detecting radiation damage in future tokamaks. Researchers at the University of Arizona have shown that, when exposed to gamma radiation, graphene nanoribbons exhibit altered current flow from quantum effects while maintaining their atomic framework, suggesting strong potential for use in sensors for monitoring gamma-induced damage to materials and devices in extreme environments, such as fusion machines.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-22/article-8235/graphene-nanoribbon-explored-as-basis-for-gamma-monitoring-in-fusion-machines/",
+    "timestamp": "2026-07-22T14:46:38Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-22/article-8235/graphene-nanoribbon-explored-as-basis-for-gamma-monitoring-in-fusion-machines/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-22T14:46:38Z",
+    "id": "energy-e52e0343bd35286b"
+  },
+  {
+    "title": "Internal Market Monitor issues winter quarterly report",
+    "summary": "Despite high costs brought on by unusually cold weather, the power system operated reliably and efficiently, the report said. The post Internal Market Monitor issues winter quarterly report appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/22/internal-market-monitor-issues-winter-quarterly-report/",
+    "timestamp": "2026-07-22T12:17:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/22/internal-market-monitor-issues-winter-quarterly-report/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-22T12:17:20Z",
+    "id": "energy-878cbee9f917da1f"
+  },
+  {
+    "title": "3rd Quarter 2026 Earnings Webcast",
+    "summary": "3rd Quarter 2026 Earnings Webcast Kim Leonard Wed, 07/22/2026 - 07:17 GE Vernova leadership team will present. Date Wed, 10/28/2026 - 07:30 - Wed, 10/28/2026 - 08:30 Event Occured No Dark theme Off Show on Masthead Off Past event description GE Vernova leadership team presented. show Event Panel Off",
+    "source": "GE Vernova | The Energy of Change",
+    "url": "https://www.gevernova.com/investors/events/3rd-quarter-2026-earnings-webcast",
+    "timestamp": "2026-07-22T11:17:47Z",
+    "topic": "Energy",
+    "category": "Company News",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.gevernova.com/investors/events/3rd-quarter-2026-earnings-webcast"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "GE Vernova",
+      "GE-Hitachi",
+      "GE"
+    ],
+    "tickers": [
+      "GEV"
+    ],
+    "data_as_of": "2026-07-22T11:17:47Z",
+    "id": "energy-75a5e76025f95cde"
   },
   {
     "title": "CAPS Letter Regarding CIFP Connect and Manage Proposal",
@@ -90,28 +208,6 @@
     "id": "energy-b0be456f47714152"
   },
   {
-    "title": "Laser-crystal sensor measures strong magnetic fields in challenging environments",
-    "summary": "p.p1 {margin: 0.0px 0.0px 8.0px 0.0px; font: 10.0px Verdana; color: #000000} Researchers at Sandia National Laboratories have patented a magneto-optical sensor, which uses a rare earth crystal and laser light to measure the strength of intense magnetic fields and electrical currents. “We think this technology is a pretty major improvement in measuring magnetic fields,” said Israel Owens, a Sandia physicist and co-inventor of the sensor. “We think it’ll be essential especially for research in fusion, high-energy physics, and the power utilities industry. We’re really excited about where things are going.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-21/article-8231/lasercrystal-sensor-measures-strong-magnetic-fields-in-challenging-environments/",
-    "timestamp": "2026-07-21T17:26:48Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-21/article-8231/lasercrystal-sensor-measures-strong-magnetic-fields-in-challenging-environments/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-21T17:26:48Z",
-    "id": "energy-1360e0af7e54668d"
-  },
-  {
     "title": "Update on ISO-NE compliance with FERC large and co-located loads order",
     "summary": "ISO-NE has made an informational filing on regional resource adequacy and has begun to outline potential rule changes. The post Update on ISO-NE compliance with FERC large and co-located loads order appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -132,54 +228,6 @@
     ],
     "data_as_of": "2026-07-21T13:00:00Z",
     "id": "energy-b105bda6340f30be"
-  },
-  {
-    "title": "Entergy New Orleans hosts annual Energize NOLA Community Fair and Backpack Giveaway",
-    "summary": "More than 650 community members gathered at the Joe Brown Park Recreation Center for Entergy New Orleans’ annual Energize NOLA Community Fair and Backpack Giveaway, an event designed to help local families prepare for the upcoming school year while connecting them with valuable community resources and energy-saving programs.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-hosts-annual-energize-nola-community-fair-and-backpack-giveaway",
-    "timestamp": "2026-07-20T20:09:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-hosts-annual-energize-nola-community-fair-and-backpack-giveaway"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-20T20:09:42Z",
-    "id": "energy-7c6347a69bbd3f8f"
-  },
-  {
-    "title": "Entergy’s Louisiana utilities urge customers to prepare as tropical weather approaches Louisiana",
-    "summary": "The companies encourage customers to take the time now to get personal storm plans in place and make a kit with basic emergency supplies, including any medical needs that require electricity.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergys-louisiana-utilities-urge-customers-to-prepare-as-tropical-weather-approaches-louisiana",
-    "timestamp": "2026-07-20T16:19:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/entergys-louisiana-utilities-urge-customers-to-prepare-as-tropical-weather-approaches-louisiana"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-20T16:19:31Z",
-    "id": "energy-d6cc43877dffcc36"
   },
   {
     "title": "Vamsi Chadalavada engages with groups across region in first 6 months leading ISO-NE",
