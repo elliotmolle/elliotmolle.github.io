@@ -1,16 +1,40 @@
 [
   {
-    "title": "Developers, officials talk advanced reactor outlook with NRC",
-    "summary": "The public had a rare opportunity Tuesday morning when the Nuclear Regulatory Commission gathered leaders from the Department of Energy, the Canadian Nuclear Safety Commission, TerraPower, Radiant, Westinghouse, and X-energy to share updates on their respective high-profile new nuclear projects and initiatives. During the meeting, titled “Advanced Reactor Landscape: Current Status and Moving Forward,” federal and industry officials presented on their respective endeavors, providing new updates, refreshers on previously announced information, and takeaways from their experiences.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-22/article-8237/developers-officials-talk-advanced-reactor-outlook-with-nrc/",
-    "timestamp": "2026-07-22T22:17:39Z",
+    "title": "Entergy is protecting customers while powering innovation, CEO says at White House event",
+    "summary": "Earlier today, Entergy Chair and CEO Drew Marsh highlighted how the company is protecting its customers while powering innovation, creating opportunity and economic growth for its communities.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-is-protecting-customers-while-powering-innovation-ceo-says-at-white-house-event",
+    "timestamp": "2026-07-23T23:42:32Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-22/article-8237/developers-officials-talk-advanced-reactor-outlook-with-nrc/"
+      "https://www.entergy.com/news/entergy-is-protecting-customers-while-powering-innovation-ceo-says-at-white-house-event"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-23T23:42:32Z",
+    "id": "energy-26127b9d4b9c83f4"
+  },
+  {
+    "title": "Nuclear is prominent in Genesis Mission projects",
+    "summary": "The Department of Energy announced yesterday that it has selected 278 projects under the Genesis Mission request for applications, which opened in March. According to a White House press release on the same day, $5 billion in federal commitments will be put toward the Genesis Mission.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-23/article-8240/nuclear-is-prominent-in-genesis-mission-projects/",
+    "timestamp": "2026-07-23T21:07:07Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-23/article-8240/nuclear-is-prominent-in-genesis-mission-projects/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +42,98 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-22T22:17:39Z",
-    "id": "energy-0a03934383d3195b"
+    "data_as_of": "2026-07-23T21:07:07Z",
+    "id": "energy-9b5edb49bcd8388c"
+  },
+  {
+    "title": "Entergy Arkansas helps power possibility at Hope Landing",
+    "summary": "Every year, Entergy Arkansas invests in the communities it serves because powering life means more than delivering electricity, it means creating opportunities for people to thrive.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-arkansas-helps-power-possibility-at-hope-landing",
+    "timestamp": "2026-07-23T19:50:08Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-arkansas-helps-power-possibility-at-hope-landing"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-23T19:50:08Z",
+    "id": "energy-c788a6db7160375c"
+  },
+  {
+    "title": "SuperCritical Materials licenses technology for uranium seawater extraction",
+    "summary": "Last week, Austin, Texas–based nuclear fuel start-up SuperCritical Materials announced that it has secured a license from the Department of Energy for a patented uranium and critical materials adsorbent manufacturing process originally developed by a team led by Pacific Northwest National Laboratory. SuperCritical aims to use this license to extract uranium from seawater at an industrial scale in the United States and abroad.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-23/article-8239/supercritical-materials-licenses-technology-for-uranium-seawater-extraction/",
+    "timestamp": "2026-07-23T17:37:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-23/article-8239/supercritical-materials-licenses-technology-for-uranium-seawater-extraction/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-23T17:37:44Z",
+    "id": "energy-c996302a235ece22"
+  },
+  {
+    "title": "Meeting the moment",
+    "summary": "Mark Peterspresident@ans.org It is both an honor and a privilege to begin my term as president of the American Nuclear Society. I am deeply grateful for the trust placed in me by the membership, and I look forward to serving this remarkable Society over the coming year. I would also like to recognize the leadership of my predecessor, Hash Hashemian, as well as the dedication of ANS CEO Craig Piercy, our staff, and countless volunteers. ANS succeeds because people choose to contribute their time, expertise, and energy in service of a mission larger than themselves. We begin this year at a moment of tremendous opportunity for nuclear science and technology. Around the world, there is growing recognition that nuclear energy and nuclear technologies are essential to addressing some of society’s most pressing challenges. At the same time, advances in areas ranging from medical isotopes and fusion to space nuclear systems and advanced reactors are creating new possibilities for innovation and impact.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-23/article-8157/meeting-the-moment/",
+    "timestamp": "2026-07-23T15:10:05Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-23/article-8157/meeting-the-moment/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-23T15:10:05Z",
+    "id": "energy-c227d98015ea0d78"
+  },
+  {
+    "title": "We Are ISO New England: Registration open for ISO 101 training course",
+    "summary": "The course is intended for individuals new to the industry or experienced professionals who would like a refresher. The post We Are ISO New England: Registration open for ISO 101 training course appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/23/we-are-iso-new-england-registration-open-for-iso-101-training-course/",
+    "timestamp": "2026-07-23T12:22:47Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/23/we-are-iso-new-england-registration-open-for-iso-101-training-course/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-23T12:22:47Z",
+    "id": "energy-1616540322d37813"
   },
   {
     "title": "Entergy New Orleans updates City Council on reliability improvements, underground infrastructure and hurricane preparedness",
@@ -44,98 +158,6 @@
     ],
     "data_as_of": "2026-07-22T21:26:15Z",
     "id": "energy-dcec047a86941d93"
-  },
-  {
-    "title": "Entergy Arkansas awards Community Power Scholarships to six outstanding students",
-    "summary": "Entergy Arkansas is investing in the next generation by awarding six outstanding students $5,000 Community Power Scholarships.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-arkansas-awards-community-power-scholarships-to-six-outstanding-students",
-    "timestamp": "2026-07-22T20:09:57Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-arkansas-awards-community-power-scholarships-to-six-outstanding-students"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-22T20:09:57Z",
-    "id": "energy-d617af132f34656e"
-  },
-  {
-    "title": "NNSA green-lights Calciner Project decommissioning work at Y-12",
-    "summary": "The National Nuclear Security Administration has granted authorization to Consolidated Nuclear Security (CNS) to begin the decontamination and decommissioning work with the Calciner Project (CALP) at the Y-12 National Security Complex, in Oak Ridge, Tenn.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-22/article-8236/nnsa-greenlights-calciner-project-decommissioning-work-at-y12/",
-    "timestamp": "2026-07-22T17:32:55Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-22/article-8236/nnsa-greenlights-calciner-project-decommissioning-work-at-y12/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-22T17:32:55Z",
-    "id": "energy-a5a4be0d2d3274c7"
-  },
-  {
-    "title": "Hinds plant manager earns President’s Lifesaving Award",
-    "summary": "Joseph Wiggs, plant manager at Hinds Energy Facility, saved a man’s life at a restaurant by performing the Heimlich maneuver, earning the President’s Lifesaving Award for his heroic actions and emergency medical training.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/hinds-plant-manager-earns-presidents-lifesaving-award",
-    "timestamp": "2026-07-22T16:02:14Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/hinds-plant-manager-earns-presidents-lifesaving-award"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-22T16:02:14Z",
-    "id": "energy-baf509810128422d"
-  },
-  {
-    "title": "Graphene nanoribbon explored as basis for gamma monitoring in fusion machines",
-    "summary": "A tiny ribbon may hold big promise for detecting radiation damage in future tokamaks. Researchers at the University of Arizona have shown that, when exposed to gamma radiation, graphene nanoribbons exhibit altered current flow from quantum effects while maintaining their atomic framework, suggesting strong potential for use in sensors for monitoring gamma-induced damage to materials and devices in extreme environments, such as fusion machines.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-22/article-8235/graphene-nanoribbon-explored-as-basis-for-gamma-monitoring-in-fusion-machines/",
-    "timestamp": "2026-07-22T14:46:38Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-22/article-8235/graphene-nanoribbon-explored-as-basis-for-gamma-monitoring-in-fusion-machines/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-22T14:46:38Z",
-    "id": "energy-e52e0343bd35286b"
   },
   {
     "title": "Internal Market Monitor issues winter quarterly report",
@@ -228,27 +250,5 @@
     ],
     "data_as_of": "2026-07-21T13:00:00Z",
     "id": "energy-b105bda6340f30be"
-  },
-  {
-    "title": "Vamsi Chadalavada engages with groups across region in first 6 months leading ISO-NE",
-    "summary": "The CEO participated in forums exploring cold weather operations, large loads, energy affordability, and resource adequacy. The post Vamsi Chadalavada engages with groups across region in first 6 months leading ISO-NE appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/07/20/vamsi-chadalavada-engages-with-groups-across-region-in-first-6-months-leading-iso-ne/",
-    "timestamp": "2026-07-20T14:16:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/07/20/vamsi-chadalavada-engages-with-groups-across-region-in-first-6-months-leading-iso-ne/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-07-20T14:16:21Z",
-    "id": "energy-ea04d6f3c9c38570"
   }
 ]
