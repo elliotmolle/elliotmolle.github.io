@@ -1,111 +1,309 @@
 [
   {
-    "title": "Splatoon 4 should borrow these great features from Splatoon Raiders",
-    "summary": "Splatoon Raiders already has us hoping that its best features will come to Splatoon 4.",
+    "title": "Mike Flanagan's lesser-known Netflix series The Midnight Club is a perfect weekend binge",
+    "summary": "The tribute to YA horror legend Christopher Pike uses dark stories to explore the fear of death and the meaning of life",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/splatoon-raiders-features-splatoon-4/",
-    "timestamp": "2026-07-24T11:00:12Z",
+    "url": "https://www.polygon.com/midnight-club-weekend-binge-rec/",
+    "timestamp": "2026-07-25T11:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/splatoon-raiders-features-splatoon-4/"
+      "https://www.polygon.com/midnight-club-weekend-binge-rec/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-24T11:00:12Z",
-    "id": "energy-10c1742c5a60dbdd"
+    "data_as_of": "2026-07-25T11:00:12Z",
+    "id": "energy-9d7cb5dd29449206"
   },
   {
-    "title": "Game of Trees – Git-based version control from OpenBSD folks",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.gameoftrees.org/",
-    "timestamp": "2026-07-24T10:15:29Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.gameoftrees.org/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-24T10:15:29Z",
-    "id": "energy-6182fef494a290d8"
-  },
-  {
-    "title": "The Vampire Lestat season 2 plot, cast, and possible release date explainer",
-    "summary": "Here's everything we know about when the continuation of Interview with the Vampire is coming and what it will be about",
+    "title": "Splatoon Raiders fans are already shipping its characters, somehow",
+    "summary": "Splatoon Raiders doesn't leave a lot of space for romance, but the Splatoon community has wasted no time pairing up its characters.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/vampire-lestat-season-2-plot-cast-release-news/",
-    "timestamp": "2026-07-24T10:00:12Z",
+    "url": "https://www.polygon.com/splatoon-raiders-fan-shipping-shiver/",
+    "timestamp": "2026-07-25T10:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/vampire-lestat-season-2-plot-cast-release-news/"
+      "https://www.polygon.com/splatoon-raiders-fan-shipping-shiver/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-24T10:00:12Z",
-    "id": "energy-badf0ffdcbe03bec"
+    "data_as_of": "2026-07-25T10:00:12Z",
+    "id": "energy-cebfffd434d8e60f"
   },
   {
-    "title": "Star Wars will finally air its rarest unreleased show, but only few fans will be able to watch",
-    "summary": "Star Wars Detours, the legendary comedy animated series that was canceled before release, will air selected episodes at the Lucas Museum.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/star-wars-detours-rarest-show-released-available/",
-    "timestamp": "2026-07-24T09:47:15Z",
+    "title": "MouthPad: A Tongue-Controlled Touchpad",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.augmental.tech/",
+    "timestamp": "2026-07-25T07:51:19Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.augmental.tech/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-25T07:51:19Z",
+    "id": "energy-1672670afa1327c5"
+  },
+  {
+    "title": "God Of War Laufey Joins The Growing Pile Of February 2027 Game Releases",
+    "summary": "The PS5 exclusive barely seven months away from launching",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/god-of-war-laufey-joins-the-growing-pile-of-february-2027-game-releases-2000719291",
+    "timestamp": "2026-07-25T07:27:21Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/star-wars-detours-rarest-show-released-available/"
+      "https://kotaku.com/god-of-war-laufey-joins-the-growing-pile-of-february-2027-game-releases-2000719291"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-24T09:47:15Z",
-    "id": "energy-09ca2e0141989c94"
+    "data_as_of": "2026-07-25T07:27:21Z",
+    "id": "energy-785773d686ec51b6"
   },
   {
-    "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+    "title": "Android May Soon Restrict On-Device ADB",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://bfl.ai/blog/flux-3-mimic",
-    "timestamp": "2026-07-24T09:31:48Z",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "timestamp": "2026-07-25T06:57:14Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bfl.ai/blog/flux-3-mimic"
+      "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-24T09:31:48Z",
-    "id": "energy-54ce1ef17ba3f4a3"
+    "data_as_of": "2026-07-25T06:57:14Z",
+    "id": "energy-d8742a0af468e951"
   },
   {
-    "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+    "title": "ARC-AGI Leaderboard",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-    "timestamp": "2026-07-24T09:26:40Z",
+    "url": "https://arcprize.org/leaderboard",
+    "timestamp": "2026-07-25T06:31:40Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891"
+      "https://arcprize.org/leaderboard"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-24T09:26:40Z",
-    "id": "energy-ed7c505d4140530c"
+    "data_as_of": "2026-07-25T06:31:40Z",
+    "id": "energy-66ab121f8e385738"
+  },
+  {
+    "title": "Drufinho announces he will be playing in NA RLCS next season.",
+    "summary": "There was a post about the CRL announcement before, but he announced NA RLCS now. https://preview.redd.it/qfwglpx8hafh1.png?width=604&format=png&auto=webp&s=926049afef29674aea564810b659815855474ee8 submitted by /u/Goncover [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v5vrpm/drufinho_announces_he_will_be_playing_in_na_rlcs/",
+    "timestamp": "2026-07-25T02:35:09Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v5vrpm/drufinho_announces_he_will_be_playing_in_na_rlcs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-25T02:35:09Z",
+    "id": "energy-7212b26c06a868c2"
+  },
+  {
+    "title": "New God of War game starring Kratos announced at Comic-Con",
+    "summary": "God of War director Cory Barlog announced a new GOW starring original protagonist Kratos, it will tie directly into Laufey's story.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/new-god-of-war-game-announced-kratos-laufey-release-date/",
+    "timestamp": "2026-07-25T01:58:01Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/new-god-of-war-game-announced-kratos-laufey-release-date/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-25T01:58:01Z",
+    "id": "energy-474525c7c80ada57"
+  },
+  {
+    "title": "The Next God Of War Is In Development, Stars Kratos, Will Tie Directly To Laufey",
+    "summary": "Faye's story is connected to whatever's next for her husband",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/god-of-war-laufey-kratos-new-playstation-sdcc-2000719261",
+    "timestamp": "2026-07-25T01:01:40Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/god-of-war-laufey-kratos-new-playstation-sdcc-2000719261"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-25T01:01:40Z",
+    "id": "energy-79b3670166ab161d"
+  },
+  {
+    "title": "Kv1 will be the only player at the 2026 world championship that will not play 3v3 and still play a match",
+    "summary": "That’s because he’s playing in the 1v1 bracket like mawkzy in the 2025 world championship submitted by /u/Legitimate-Sign-371 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v5t12o/kv1_will_be_the_only_player_at_the_2026_world/",
+    "timestamp": "2026-07-25T00:29:24Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v5t12o/kv1_will_be_the_only_player_at_the_2026_world/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-25T00:29:24Z",
+    "id": "energy-e54017da9ae48f0a"
+  },
+  {
+    "title": "Final Moments of SAM LCQ + Winning Team Reactions",
+    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v5sun0/final_moments_of_sam_lcq_winning_team_reactions/",
+    "timestamp": "2026-07-25T00:21:30Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v5sun0/final_moments_of_sam_lcq_winning_team_reactions/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-25T00:21:30Z",
+    "id": "energy-a1174f80806e71be"
+  },
+  {
+    "title": "Dataminers Discover Xbox Backward Compatibility On PC Can Run Xbox 360 Games",
+    "summary": "Turns out that Microsoft's new Xbox emulator is actually an Xbox 360 emulator in disguise",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/xbox-360-pc-backwards-compatibility-microsoft-xefu-2000719199",
+    "timestamp": "2026-07-25T00:00:22Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/xbox-360-pc-backwards-compatibility-microsoft-xefu-2000719199"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-25T00:00:22Z",
+    "id": "energy-47d5715a6833f543"
+  },
+  {
+    "title": "MISO To Ask For FERC Approval To Pass Over Late Affected Studies In Queue",
+    "summary": "By Amanda Durish Cook MISO plans to ask FERC for permission to forge ahead with some stalled generator interconnection studies in its 2022 and 2023 queue cycles, regardless of whether its neighbors have affected systems studies ready to go. The grid operator said it would make a filing with FERC at the end of July […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/miso-to-ask-for-ferc-approval-to-pass-over-late-affected-studies-in-queue/",
+    "timestamp": "2026-07-24T14:41:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/miso-to-ask-for-ferc-approval-to-pass-over-late-affected-studies-in-queue/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-24T14:41:21Z",
+    "id": "energy-de41da946c3a1ba8"
+  },
+  {
+    "title": "These 9 Illinois Communities Say They’re Interested In New Nuclear Facilities",
+    "summary": "By Maggie Dougherty Illinois has opened the door to a new era of nuclear energy generation, but a question remains: Where would new nuclear power plants go? It’s an issue that Gov. JB Pritzker directed state agencies to explore this spring, when he signed his first executive order of the year and as the state […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/these-9-illinois-communities-say-theyre-interested-in-new-nuclear-facilities/",
+    "timestamp": "2026-07-24T14:39:43Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/these-9-illinois-communities-say-theyre-interested-in-new-nuclear-facilities/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-24T14:39:43Z",
+    "id": "energy-ea6b3e5a26263cc5"
+  },
+  {
+    "title": "As A.I. Backlash Grows, Trump Says Firms Should Pay More for Electricity",
+    "summary": "By Brad Plumer and Maxine Joselow More than 200 companies and politicians, including some of the country’s largest utilities, have signed a voluntary pledge to prevent A.I. data centers from driving up electricity costs for millions of Americans, President Trump said on Thursday. The pledge is largely symbolic, and experts have said it could be […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/as-a-i-backlash-grows-trump-says-firms-should-pay-more-for-electricity/",
+    "timestamp": "2026-07-24T14:38:40Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/as-a-i-backlash-grows-trump-says-firms-should-pay-more-for-electricity/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-24T14:38:40Z",
+    "id": "energy-a874848922eb1a2f"
+  },
+  {
+    "title": "Gliff is a FREE MIDI guitar translator for macOS and Windows",
+    "summary": "Gliff is a free guitar-based plugin for macOS and Windows that’s aimed at guitarists and keyboardists alike. So, there are two ways to approach this plugin: one is as a guitarist looking to create clean, polyphonic MIDI chord patterns that you can drag and drop into your project. The appeal might be that you’re a [...] View post: Gliff is a FREE MIDI guitar translator for macOS and Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/24/gliff-midi-guitar-translator/",
+    "timestamp": "2026-07-24T11:52:34Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/24/gliff-midi-guitar-translator/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-24T11:52:34Z",
+    "id": "energy-546d73871dbb08cf"
   },
   {
     "title": "Matari Audio releases free public beta of BUFFR, a retrospective audio and MIDI capture plugin",
@@ -196,221 +394,5 @@
     "primary_source": true,
     "data_as_of": "2026-07-24T04:00:00Z",
     "id": "energy-e645f91cbc50041b"
-  },
-  {
-    "title": "LG Faces Swift Backlash Over Claims Its Gaming Monitors Are Automatically Installing Adware And ‘Wiretapping’ PCs",
-    "summary": "LG Electronics' latest pricey model of PC monitor has been automatically forcing ads for McAfee onto consumers' screens, among other things",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/lg-monitor-tv-ads-mcafee-microsoft-windows-2000718871",
-    "timestamp": "2026-07-23T23:00:38Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/lg-monitor-tv-ads-mcafee-microsoft-windows-2000718871"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-23T23:00:38Z",
-    "id": "energy-e78f6a5f4c4c2850"
-  },
-  {
-    "title": "If You Lock Early Access Behind A Paywall, It Better Work Or You Owe People Refunds",
-    "summary": "Stop charging extra to play early if you can't guarantee it or provide make-goods when it fails",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/if-you-lock-early-access-behind-a-paywall-it-better-work-or-you-owe-people-refunds-2000718892",
-    "timestamp": "2026-07-23T22:30:50Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/if-you-lock-early-access-behind-a-paywall-it-better-work-or-you-owe-people-refunds-2000718892"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-23T22:30:50Z",
-    "id": "energy-0a2db8f455007600"
-  },
-  {
-    "title": "Palworld Players Fight Massive End Game Boss And It Almost Goes Terribly",
-    "summary": "The Palworld 1.0 update has added a new boss named Kyogr–er, I mean, Panthalus–that some players are seemingly running into by mistake",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
-    "timestamp": "2026-07-23T22:00:58Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-23T22:00:58Z",
-    "id": "energy-861e0dc0b9e91ffc"
-  },
-  {
-    "title": "The winning moment of the MENA LCQ 2026",
-    "summary": "submitted by /u/Babydrone [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v4rm4c/the_winning_moment_of_the_mena_lcq_2026/",
-    "timestamp": "2026-07-23T21:38:38Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v4rm4c/the_winning_moment_of_the_mena_lcq_2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-23T21:38:38Z",
-    "id": "energy-aff7ae38a3fdc2e5"
-  },
-  {
-    "title": "Hatem digusting flip reset catch completely surprises the defense",
-    "summary": "submitted by /u/N0b0dy_her3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v4m6ky/hatem_digusting_flip_reset_catch_completely/",
-    "timestamp": "2026-07-23T18:24:17Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v4m6ky/hatem_digusting_flip_reset_catch_completely/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-23T18:24:17Z",
-    "id": "energy-3e2446e03f47ff01"
-  },
-  {
-    "title": "Friendgineer Labs releases Chance, a FREE random multi-FX plugin",
-    "summary": "Friendgineer Labs has released Chance, a free random multi-FX plugin for macOS and Windows. Chance is another 2026 KVR Developer Challenge entry I liked this year. I will take a closer look at a few more KVRDC plugins separately, but this is one of my favorites because I simply love plugins that can give you [...] View post: Friendgineer Labs releases Chance, a FREE random multi-FX plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/23/friendgineer-labs-chance/",
-    "timestamp": "2026-07-23T17:28:26Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/23/friendgineer-labs-chance/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-23T17:28:26Z",
-    "id": "energy-6a19dd8b08d75c61"
-  },
-  {
-    "title": "Seeding for 2026 World Championship Play-In Published",
-    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v4jonv/seeding_for_2026_world_championship_playin/",
-    "timestamp": "2026-07-23T16:56:59Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v4jonv/seeding_for_2026_world_championship_playin/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-23T16:56:59Z",
-    "id": "energy-1eaf283f9a3f574c"
-  },
-  {
-    "title": "FERC Rejects Mich. Muni’s Late Entry into MISO Capacity Auction",
-    "summary": "By Amanda Durish Cook FERC has denied the Lansing Board of Water and Light’s late entry into MISO’s 2026/27 capacity auction, forcing the municipal utility to find ways to offload duplicative capacity that was unwittingly purchased at the auction’s $400/MW-day summer premium. FERC said allowing the Lansing Board of Water and Light to enter the […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/ferc-rejects-mich-munis-late-entry-into-miso-capacity-auction/",
-    "timestamp": "2026-07-23T14:48:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/ferc-rejects-mich-munis-late-entry-into-miso-capacity-auction/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-23T14:48:42Z",
-    "id": "energy-805f77adbec878f9"
-  },
-  {
-    "title": "The Power Brokers: Daily Newsletter",
-    "summary": "By Molly Glick NextEra, Duke, and Southern Co. are among the utilities signing President Trump’s pledge to prevent AI cost-shifting. • Big names: Nearly 200 orgs have signed the non-binding pledge to prevent ratepayers from covering data center grid expenses. These include companies representing roughly 80% of the power delivered to US homes and businesses, […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/the-power-brokers-daily-newsletter/",
-    "timestamp": "2026-07-23T14:48:04Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/the-power-brokers-daily-newsletter/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-23T14:48:04Z",
-    "id": "energy-dc4f0eacae3b0f1f"
-  },
-  {
-    "title": "Major US Grid Operators Lay Out Plans For Serving Large Loads",
-    "summary": "By Leah Garden • PJM plans reliability backstop procurement • RTOs accelerate generator connection processes The three largest US grid operators presented distinct assessments of their abilities to meet surging electricity demand from data centers, with two expressing confidence in existing processes while the PJM Interconnection outlined planned backstop procurement measures to address expected capacity […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/major-us-grid-operators-lay-out-plans-for-serving-large-loads/",
-    "timestamp": "2026-07-23T14:46:49Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/major-us-grid-operators-lay-out-plans-for-serving-large-loads/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-23T14:46:49Z",
-    "id": "energy-8f9983bb8ac84ccd"
-  },
-  {
-    "title": "The US is terrible at building public transit. Here's how to get better.",
-    "summary": "A conversation with Will Poff-Webster of the Institute for Progress and Stephanie Pollack of the MIT Mobility Initiative.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/the-us-is-terrible-at-building-public",
-    "timestamp": "2026-07-22T10:25:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/the-us-is-terrible-at-building-public"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-07-22T10:25:08Z",
-    "id": "energy-4422e691396db179"
   }
 ]
