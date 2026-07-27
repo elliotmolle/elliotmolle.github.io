@@ -1,5 +1,49 @@
 [
   {
+    "title": "Illinois communities respond to NOI on new nuclear facilities interest",
+    "summary": "Illinois has received nine responses to a notice of intent (NOI) expressing interest in hosting a new nuclear facility, according to submissions filed with the Illinois Commerce Commission (ICC). In February, Gov. J.B. Pritzker issued an executive order directing the commission to release two NOIs, one aimed at nuclear power plant developers and another for potential host communities. The second NOI requested information from Illinois communities interested in having a nuclear facility and gave them a deadline of May 25 to respond. Pritzker’s executive order arrived about a month after he lifted the state’s moratorium on new nuclear reactors being built in the state.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-27/article-8244/illinois-communities-respond-to-noi-on-new-nuclear-facilities-interest/",
+    "timestamp": "2026-07-27T12:32:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-27/article-8244/illinois-communities-respond-to-noi-on-new-nuclear-facilities-interest/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-27T12:32:26Z",
+    "id": "energy-ccc8120a7387c2b0"
+  },
+  {
+    "title": "Illinois Power Agency and ICC Staff Letter Regarding Support for Deactivation Enhancements Proposal",
+    "summary": "Updated Date: 07.27.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-illinois-power-agency-icc-staff-letter-regarding-support-for-deactivation-enhancements-proposal.pdf",
+    "timestamp": "2026-07-27T12:02:15Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-illinois-power-agency-icc-staff-letter-regarding-support-for-deactivation-enhancements-proposal.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-07-27T12:02:15Z",
+    "id": "energy-c2d2549af2a84f7c"
+  },
+  {
     "title": "In transition: Commercializing fusion power",
     "summary": "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 32.0px Industry} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 14.0px Industry} Commercial fusion power is closer than ever. There are now around 30 U.S. fusion companies, several of which claim to be on track to connect to the grid as early as the 2030s. p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 9.0px; line-height: 13.0px; font: 10.0px Industry} Tokamak and laser inertial confinement approaches benefit from decades of research at facilities such as the National Ignition Facility (NIF) at Lawrence Livermore National Laboratory and ITER, with alternative concepts including stellarator, magnetic mirror, and Z-pinch confinement also making notable progress as private and government funding for fusion increases.",
     "source": "ANS Newswire",
@@ -42,119 +86,5 @@
     ],
     "data_as_of": "2026-07-24T17:53:24Z",
     "id": "energy-f76620fbfae4e2c3"
-  },
-  {
-    "title": "NRC proposes radioactive material transportation rules updates",
-    "summary": "About three million packages containing radioactive material are transported in the United States every year, and multiple federal agencies work together to ensure the shipments are safe. While the Nuclear Regulatory Commission addresses the design and use of packaging, for example, the Department of Transportation oversees shipments. Amidst growing prominence of microreactors and other nuclear technologies, the NRC has issued a proposed rule to address how to safely transport new nuclear reactors and their associated radioactive material.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-24/article-8242/nrc-proposes-radioactive-material-transportation-rules-updates/",
-    "timestamp": "2026-07-24T14:28:39Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-24/article-8242/nrc-proposes-radioactive-material-transportation-rules-updates/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-24T14:28:39Z",
-    "id": "energy-9533a0d406fba33f"
-  },
-  {
-    "title": "Register for the next Quarterly Settlements Forum",
-    "summary": "The webinar is scheduled for Wednesday, Sept. 2, from 10:00 to 11:00 a.m. The post Register for the next Quarterly Settlements Forum appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/07/24/register-for-the-next-quarterly-settlements-forum/",
-    "timestamp": "2026-07-24T12:51:12Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/07/24/register-for-the-next-quarterly-settlements-forum/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-07-24T12:51:12Z",
-    "id": "energy-9386f037d1e748e6"
-  },
-  {
-    "title": "Entergy is protecting customers while powering innovation, CEO says at White House event",
-    "summary": "Earlier today, Entergy Chair and CEO Drew Marsh highlighted how the company is protecting its customers while powering innovation, creating opportunity and economic growth for its communities.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-is-protecting-customers-while-powering-innovation-ceo-says-at-white-house-event",
-    "timestamp": "2026-07-23T23:42:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-is-protecting-customers-while-powering-innovation-ceo-says-at-white-house-event"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-23T23:42:32Z",
-    "id": "energy-26127b9d4b9c83f4"
-  },
-  {
-    "title": "Entergy Arkansas helps power possibility at Hope Landing",
-    "summary": "Every year, Entergy Arkansas invests in the communities it serves because powering life means more than delivering electricity, it means creating opportunities for people to thrive.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-arkansas-helps-power-possibility-at-hope-landing",
-    "timestamp": "2026-07-23T19:50:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-arkansas-helps-power-possibility-at-hope-landing"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-23T19:50:08Z",
-    "id": "energy-c788a6db7160375c"
-  },
-  {
-    "title": "We Are ISO New England: Registration open for ISO 101 training course",
-    "summary": "The course is intended for individuals new to the industry or experienced professionals who would like a refresher. The post We Are ISO New England: Registration open for ISO 101 training course appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/07/23/we-are-iso-new-england-registration-open-for-iso-101-training-course/",
-    "timestamp": "2026-07-23T12:22:47Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/07/23/we-are-iso-new-england-registration-open-for-iso-101-training-course/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-07-23T12:22:47Z",
-    "id": "energy-1616540322d37813"
   }
 ]

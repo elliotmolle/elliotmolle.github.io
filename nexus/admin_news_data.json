@@ -1,282 +1,336 @@
 [
   {
-    "title": "RLCS 2026: OCE Worlds Tiebreaker",
-    "summary": "RLCS 2026: OCE Tiebreaker Streams Platform Link Twitch Rocket League (ENG) Twitch Rocket Baguette (FR) Coverage Liquipedia / / start.gg / / Blast.tv Format Single Bo7 Match. Winner qualifies for the World Championship. Teams Wildcard - Torsos, Fever, Bananahead PWR - Fibérr, gus, Superlachie Results Tiebreaker (Bo7) UTC Liquipedia Bracket Wildcard 12:00 PWR submitted by /u/RLMatchThreads [link] [comments]",
+    "title": "GTA 5 And Red Dead Redemption 2 Writer Dan Houser Says Companies Should Sell Game Discs If Players Want Them",
+    "summary": "GTA 6 is the first major game release to go digital-only",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gta-5-and-red-dead-redemption-2-writer-dan-houser-says-companies-should-sell-game-discs-if-players-want-them-2000719448",
+    "timestamp": "2026-07-27T12:36:25Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/gta-5-and-red-dead-redemption-2-writer-dan-houser-says-companies-should-sell-game-discs-if-players-want-them-2000719448"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-27T12:36:25Z",
+    "id": "energy-29cf3b5f74c0a3be"
+  },
+  {
+    "title": "AI companies are shredding rare books",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+    "timestamp": "2026-07-27T12:32:12Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://xcancel.com/HedgieMarkets/status/2081534588485296565"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-27T12:32:12Z",
+    "id": "energy-bb5491fd40b8d498"
+  },
+  {
+    "title": "Worse on Purpose",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://ledger.worseonpurpose.com/brands",
+    "timestamp": "2026-07-27T12:29:14Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://ledger.worseonpurpose.com/brands"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-27T12:29:14Z",
+    "id": "energy-8db5a8d28a5be15f"
+  },
+  {
+    "title": "Thanksgiving 2 is still happening and the script is almost done, Eli Roth says",
+    "summary": "Eli Roth has a plan to make THanksgiving 2, but it won't be easy",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/thanksgiving-2-update-eli-roth/",
+    "timestamp": "2026-07-27T12:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/thanksgiving-2-update-eli-roth/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-27T12:00:12Z",
+    "id": "energy-f3be06a116fb8a37"
+  },
+  {
+    "title": "Elevated errors on Claude Opus 5",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+    "timestamp": "2026-07-27T11:32:32Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://status.claude.com/incidents/mfdtrknpxghq"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-27T11:32:32Z",
+    "id": "energy-3af1a5729d2659b5"
+  },
+  {
+    "title": "PlayStation Fans Mount ‘Blackout’ Week To Protest Sony’s Discless Future",
+    "summary": "The PSBlackout organizers are asking PlayStations to refrain from logging into and purchasing any content on PlayStation platforms from August 23 to August 30",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/fans-try-to-mount-playstation-blackout-week-to-protest-sonys-disc-less-future-2000719435",
+    "timestamp": "2026-07-27T11:08:23Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/fans-try-to-mount-playstation-blackout-week-to-protest-sonys-disc-less-future-2000719435"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-27T11:08:23Z",
+    "id": "energy-39a506cc88613190"
+  },
+  {
+    "title": "Weekly Schedule + Free Talk Thread | July 27 - Aug 2",
+    "summary": "About You can post anything here that might not have been allowed as its own post. Whether that's quick questions, recently/frequently/over discussed content or \"light\" content that you don't deem worthy of its own thread. The table below features upcoming streams of S-Tier, A-Tier and the bigger B-Tier events including their streamed qualifiers. For a full list of all upcoming RLEsports events check Liquipedia or blast.tv. Event Threads Anyone can create an Event Thread or Match Threads for unmarked events. Follow the link to learn more. Google Calendar The mods of r/RocketLeagueEsports maintain a public Google Calendar (link below) which is used to create these weekly schedule threads. about how to use our Google Calendar. Moderator Applications Subreddit Moderation applications are now open permanently! Find out more and apply today. submitted by /u/RLMatchThreads [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v70sli/rlcs_2026_oce_worlds_tiebreaker/",
-    "timestamp": "2026-07-26T11:03:36Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v7w0j5/weekly_schedule_free_talk_thread_july_27_aug_2/",
+    "timestamp": "2026-07-27T10:02:42Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v70sli/rlcs_2026_oce_worlds_tiebreaker/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v7w0j5/weekly_schedule_free_talk_thread_july_27_aug_2/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-26T11:03:36Z",
-    "id": "energy-8a0f5f03bd154324"
+    "data_as_of": "2026-07-27T10:02:42Z",
+    "id": "energy-39e8d96594e38896"
   },
   {
-    "title": "Peggy Hill’s voice actor had no idea people didn’t like her King of the Hill character",
-    "summary": "While Peggy Hill is the subject of much online hate from fans of King of the Hill, voice actor Kathy Najimy had no idea",
+    "title": "Hit isekai anime is changing production studio again ahead of season 4's confirmed release",
+    "summary": "KonoSuba has a confirmed release window for season 4, but it's also changing animation studio again.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/peggy-voice-actor-king-of-the-hill/",
-    "timestamp": "2026-07-26T11:00:12Z",
+    "url": "https://www.polygon.com/konosuba-changes-studio-again-season-4s-confirmed-release/",
+    "timestamp": "2026-07-27T10:02:16Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/peggy-voice-actor-king-of-the-hill/"
+      "https://www.polygon.com/konosuba-changes-studio-again-season-4s-confirmed-release/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-26T11:00:12Z",
-    "id": "energy-e25a6ccc23a4d0a8"
+    "data_as_of": "2026-07-27T10:02:16Z",
+    "id": "energy-4aae96848ece3334"
   },
   {
-    "title": "10 near-perfect horror movies that capture the monsters and mayhem of The Odyssey",
-    "summary": "From The Thing and Nope to The Witch, these 10 horror movies capture the terrifying monsters, practical effects, and epic scale of The Odyssey.",
+    "title": "42 years ago, Hayao Miyazaki gave The Odyssey’s overlooked princess the epic adventure she deserves",
+    "summary": "Nolan's The Odessey is an epic journey unlike any other, but nothing beats this genre-defining anime classic by Miyazaki.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/10-horror-movies-to-watch-if-you-loved-the-odyssey/",
-    "timestamp": "2026-07-26T10:00:12Z",
+    "url": "https://www.polygon.com/christopher-nolan-the-odyssey-nausicaa-of-the-valley-of-the-wind/",
+    "timestamp": "2026-07-27T10:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/10-horror-movies-to-watch-if-you-loved-the-odyssey/"
+      "https://www.polygon.com/christopher-nolan-the-odyssey-nausicaa-of-the-valley-of-the-wind/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-26T10:00:12Z",
-    "id": "energy-c1c9a03ecbd3cff5"
+    "data_as_of": "2026-07-27T10:00:12Z",
+    "id": "energy-84ffdb1b80495f77"
   },
   {
-    "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://comuniq.xyz/post?t=1439",
-    "timestamp": "2026-07-26T09:58:11Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://comuniq.xyz/post?t=1439"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-26T09:58:11Z",
-    "id": "energy-cd02a44748fea7d6"
-  },
-  {
-    "title": "Elevated Errors for Opus 5",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://status.claude.com/incidents/zftg3gqkmv18",
-    "timestamp": "2026-07-26T09:18:34Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://status.claude.com/incidents/zftg3gqkmv18"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-26T09:18:34Z",
-    "id": "energy-255741c1d9be9b63"
-  },
-  {
-    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://astral.sh/blog/ruff-v0.16.0",
-    "timestamp": "2026-07-26T09:01:39Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://astral.sh/blog/ruff-v0.16.0"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-26T09:01:39Z",
-    "id": "energy-298e91f4a55e5d61"
-  },
-  {
-    "title": "Marvel Studios Hall H panel: All the news, trailers, and reveals",
-    "summary": "What's next for the MCU, after Avengers: Doomsday? Marvel just confirmed a new Black Panther and Ghost Rider — here's everything announced.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/marvel-studios-hall-h-panel-news-everything-announced/",
-    "timestamp": "2026-07-26T02:00:56Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/marvel-studios-hall-h-panel-news-everything-announced/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-26T02:00:56Z",
-    "id": "energy-469cec920fbac52c"
-  },
-  {
-    "title": "OCE Worlds tiebreaker begins ≈13 hours from now",
-    "summary": "Just in case anyone forgets! Local timezones: 1PM BST - UK 2PM CEST - EU 8AM EDT - East coast 5AM PDT - West Coast Any early predictions for the winner? Who is getting up for it? submitted by /u/Babydrone [link] [comments]",
+    "title": "If any org were to sign this team, complexity would be the one",
+    "summary": "submitted by /u/Legitimate-Sign-371 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v6n8dc/oce_worlds_tiebreaker_begins_13_hours_from_now/",
-    "timestamp": "2026-07-25T23:25:21Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v7r5iw/if_any_org_were_to_sign_this_team_complexity/",
+    "timestamp": "2026-07-27T05:24:19Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v6n8dc/oce_worlds_tiebreaker_begins_13_hours_from_now/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v7r5iw/if_any_org_were_to_sign_this_team_complexity/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-25T23:25:21Z",
-    "id": "energy-c7c78d83f5c69e20"
+    "data_as_of": "2026-07-27T05:24:19Z",
+    "id": "energy-c73cce5fad8d97d8"
   },
   {
-    "title": "The winning moment of the NA LCQ 2026",
-    "summary": "submitted by /u/Babydrone [link] [comments]",
+    "title": "Yaglom theorem for critical branching random walk on $\\mathbb{Z}^d$",
+    "summary": "arXiv:2512.24047v2 Announce Type: replace Abstract: We study the critical branching random walk on $\\mathbb{Z}^d$ started from a distant point $x$ and conditioned to hit some compact set $K$ in $\\mathbb{Z}^d$. We are interested in the occupation time in $K$ and present its asymptotic behaviors in different dimensions. It is shown in this work that the occupation time is of order $\\|x\\|^{4-d}$ in dimensions $d\\leq 3$, of order $\\log\\|x\\|$ in dimension $d=4$, and of order 1 in dimensions $d\\geq 5$. The corresponding weak convergences are also established. These results answer a question raised by Le Gall and Merle (Elect. Comm. in Probab. 11 (2006), 252-265).",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2512.24047",
+    "timestamp": "2026-07-27T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2512.24047"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-27T04:00:00Z",
+    "id": "energy-f1859e47635fa108"
+  },
+  {
+    "title": "Weighted $H^2$ regularity of fluid-structure interaction when the interface intersects the boundary",
+    "summary": "arXiv:2607.22295v1 Announce Type: new Abstract: This paper analyzes the regularity of solutions to a fluid-structure interaction (FSI) problem involving a Stokesian fluid and a linear elastic solid in a two-dimensional polygonal domain, seperated by an interface which intersects the boundary of the domain. The main challenges arise from the limited solution regularity caused by geometric singularities at the domain corners. To address this, we introduce tailored weighted Sobolev spaces, denoted by $\\mathbf{H}^{k,l}_{\\boldsymbol{\\beta}}$, and a novel solution operator framework on these spaces. This framework provides the key insight for decoupling the coupled FSI system into tractable fluid and elastic solid subproblems in the regularity analysis. As our main result, we prove the existence and uniqueness of a solution in the weighted Sobolev space $\\mathbf{H}^{2,2}_{\\boldsymbol{\\beta}}$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.22295",
+    "timestamp": "2026-07-27T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.22295"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-27T04:00:00Z",
+    "id": "energy-b42d127ec6663fe1"
+  },
+  {
+    "title": "Weight-constrained cut-down de Bruijn sequences",
+    "summary": "arXiv:2607.22350v1 Announce Type: new Abstract: In 2012, Ruskey, Sawada and Williams showed that a binary cut-down de Bruijn sequence can be constructed containing all $n$-tuples of Hamming weight either $r$ or $r+1$ for every possible $r$, and no others. In this paper we examine extensions of this result that require choosing a weight-like function applying to $n$-tuples with symbols taken from an alphabet of arbitrary (finite) size. We consider three possible such weight functions, and in each case establish an analogous result to that of Ruskey et al.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.22350",
+    "timestamp": "2026-07-27T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.22350"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-27T04:00:00Z",
+    "id": "energy-571a312f4c6d79a3"
+  },
+  {
+    "title": "\"Why is it always so stressful being a Joyo fan?\"",
+    "summary": "submitted by /u/olsonator40 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v6m3oq/the_winning_moment_of_the_na_lcq_2026/",
-    "timestamp": "2026-07-25T22:35:29Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v7la1m/why_is_it_always_so_stressful_being_a_joyo_fan/",
+    "timestamp": "2026-07-27T00:40:06Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v6m3oq/the_winning_moment_of_the_na_lcq_2026/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v7la1m/why_is_it_always_so_stressful_being_a_joyo_fan/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-25T22:35:29Z",
-    "id": "energy-c23096cbb8a5adf0"
+    "data_as_of": "2026-07-27T00:40:06Z",
+    "id": "energy-5dfa2429de6b7d66"
   },
   {
-    "title": "Warren Spector’s Thick As Thieves Ends Support After Two Months",
-    "summary": "After significant layoffs at the studio, the leaner Thief successor is hoping to continue with peer-to-peer servers",
+    "title": "Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel",
+    "summary": "‘Project Anglerfish’ would have been the first new Myst entry in 20 years, which isn’t to say there won't be more journeys through the Ages",
     "source": "Kotaku",
-    "url": "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337",
-    "timestamp": "2026-07-25T21:02:55Z",
+    "url": "https://kotaku.com/cyan-worlds-gives-a-look-at-what-could-have-been-a-new-myst-sequel-2000719419",
+    "timestamp": "2026-07-26T22:00:09Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337"
+      "https://kotaku.com/cyan-worlds-gives-a-look-at-what-could-have-been-a-new-myst-sequel-2000719419"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-25T21:02:55Z",
-    "id": "energy-cbcde38194368cfa"
+    "data_as_of": "2026-07-26T22:00:09Z",
+    "id": "energy-31981053d8d8a920"
   },
   {
-    "title": "The Tactical Tank Turns Splatoon Raiders Into Vampire Survivors",
-    "summary": "Nothing sizzles quite like fashioning a biblically accurate balloon animal and watching it become a kill box",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-tactical-tank-turns-splatoon-raiders-into-vampire-survivors-2000719331",
-    "timestamp": "2026-07-25T20:23:00Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/the-tactical-tank-turns-splatoon-raiders-into-vampire-survivors-2000719331"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-25T20:23:00Z",
-    "id": "energy-c2f3b1d1c73ab8af"
-  },
-  {
-    "title": "Multiple Meccha Chameleon Steam Workshop Maps Got Infected With Malware And Its Discord Server Was Hacked",
-    "summary": "While Meccha Chameleon's developers have already rolled out a fix, but the game's official Discord server seems to be a lost cause",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/multiple-meccha-chameleon-steam-workshop-maps-got-infected-with-malware-and-its-discord-server-was-hacked-2000719315",
-    "timestamp": "2026-07-25T19:48:24Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/multiple-meccha-chameleon-steam-workshop-maps-got-infected-with-malware-and-its-discord-server-was-hacked-2000719315"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-25T19:48:24Z",
-    "id": "energy-a0f29a3a12360fb3"
-  },
-  {
-    "title": "Dystopian Waves makes DroX II Pro FREE for a limited time",
-    "summary": "Dystopian Waves has made DroX II Pro, its glitch and stutter audio effect, free for a limited time on Gumroad. The Pro version is currently listed as $0+ and 100% off, down from its regular $35 price. I do not see an expiry date on the Gumroad page, so it is probably best to grab [...] View post: Dystopian Waves makes DroX II Pro FREE for a limited time",
+    "title": "iZotope Japan is giving away VEA for FREE until July 31",
+    "summary": "iZotope Japan is giving away VEA, the Voice Enhancement Assistant plugin, for free until July 31st at 23:59 Japan time. The giveaway is part of the Japan-limited iZotope Mix & Master Sale 2026, which celebrates iZotope joining Boris FX. The broader sale runs until August 16th, but the free VEA offer ends much earlier, so [...] View post: iZotope Japan is giving away VEA for FREE until July 31",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/25/dystopian-waves-drox-ii-pro/",
-    "timestamp": "2026-07-25T16:42:49Z",
+    "url": "https://bedroomproducersblog.com/2026/07/26/izotope-japan-vea-free/",
+    "timestamp": "2026-07-26T17:50:58Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/07/25/dystopian-waves-drox-ii-pro/"
+      "https://bedroomproducersblog.com/2026/07/26/izotope-japan-vea-free/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-25T16:42:49Z",
-    "id": "energy-d29c8c3a2c503d79"
+    "data_as_of": "2026-07-26T17:50:58Z",
+    "id": "energy-36bac5804f225777"
   },
   {
-    "title": "SoundMorph TimeFlux available for only $9 until July 31",
-    "summary": "SoundMorph is retiring the original standalone TimeFlux software, which is now available for $9 until July 31, down from its regular $149 price. I just received an email from SoundMorph about the retirement deal, and it’s both great news and sad news. After July 31, the original standalone TimeFlux will be removed from the SoundMorph [...] View post: SoundMorph TimeFlux available for only $9 until July 31",
+    "title": "RealCassette is a FREE cassette tape plugin and standalone app for Windows",
+    "summary": "Jan Schulten has released RealCassette, a free cassette tape effect plugin and standalone app for Windows. Most BPB readers already know that I absolutely love processing sounds with cassette tapes. That probably became obvious somewhere between BPB Cassette 808, BPB Cassette 909, and the newer BPB Cassette Drums plugin. So yes, RealCassette is my kind [...] View post: RealCassette is a FREE cassette tape plugin and standalone app for Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/25/soundmorph-timeflux-goodbye/",
-    "timestamp": "2026-07-25T16:24:38Z",
+    "url": "https://bedroomproducersblog.com/2026/07/26/realcassette-jan-schulten/",
+    "timestamp": "2026-07-26T16:38:57Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/07/25/soundmorph-timeflux-goodbye/"
+      "https://bedroomproducersblog.com/2026/07/26/realcassette-jan-schulten/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-25T16:24:38Z",
-    "id": "energy-41f9d32c16e84b56"
+    "data_as_of": "2026-07-26T16:38:57Z",
+    "id": "energy-6a24d7df0b6a7e0f"
   },
   {
-    "title": "Purafied Audio makes Liquid Death Snare FREE again",
-    "summary": "Purafied Audio has made Liquid Death Snare free again, dropping the price from $38 to $0 for a limited time. I just received an email from Purafied Audio about the offer, and this is definitely a nice one to catch if you work with acoustic drums. If you have a weak acoustic snare track that [...] View post: Purafied Audio makes Liquid Death Snare FREE again",
+    "title": "Hvoya Audio releases Gneiss, a FREE morphing multistage filter plugin",
+    "summary": "Eugene Yakshin of Hvoya Audio has released Gneiss, a free morphing multistage filter effect plugin for macOS and Windows. As I mentioned before, I am taking a look at some of my favorite KVR Developer Challenge entries this year, and Gneiss is another one I really liked. It is free to download as part of [...] View post: Hvoya Audio releases Gneiss, a FREE morphing multistage filter plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/25/purafied-audio-liquid-death-snare/",
-    "timestamp": "2026-07-25T16:13:13Z",
+    "url": "https://bedroomproducersblog.com/2026/07/26/hvoya-audio-gneiss/",
+    "timestamp": "2026-07-26T16:20:59Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/07/25/purafied-audio-liquid-death-snare/"
+      "https://bedroomproducersblog.com/2026/07/26/hvoya-audio-gneiss/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-25T16:13:13Z",
-    "id": "energy-9bf7a14b5f463462"
+    "data_as_of": "2026-07-26T16:20:59Z",
+    "id": "energy-356869283c935809"
   },
   {
     "title": "MISO To Ask For FERC Approval To Pass Over Late Affected Studies In Queue",
@@ -340,59 +394,5 @@
     ],
     "data_as_of": "2026-07-24T14:38:40Z",
     "id": "energy-a874848922eb1a2f"
-  },
-  {
-    "title": "Zeta functions of $\\mathrm{PGL}_n$ over non-Archimedean local fields",
-    "summary": "arXiv:2607.21262v1 Announce Type: new Abstract: Let $\\mathscr{B}$ be the Bruhat--Tits building of $\\mathrm{PGL}_n(F)$, where $F$ is a non-Archimedean local field. We introduce geometric $k$-geodesics in $\\mathscr{B}$ by means of CAT(0) convexity and combinatorial $k$-geodesics by a local successor relation on pointed $k$-facets. We prove that the two notions coincide. This allows us to use the local combinatorial definition on quotients $\\Gamma\\backslash\\mathscr{B}$, without referring to the universal covering. When $\\Gamma$ is discrete, torsion-free, cocompact, and type-preserving, the primitive closed $k$-geodesics define zeta functions $Z_k$ and their $\\epsilon$-twisted variants $Z_k^\\epsilon$. Our main result identifies an alternating product of these zeta functions with the unramified $L$-function of $L^2(\\Gamma\\backslash \\mathrm{PGL}_n(F))$: $(1-u^n)^{\\chi(\\Gamma\\backslash\\mathscr{B})}L(\\Gamma,q^{(n-1)/2}u)=\\prod_{k=1}^{n-1} Z_k^\\epsilon(\\Gamma\\backslash\\mathscr{B},u)^{(-1)^{k+1}}$. This gives a uniform Ihara-type identity for all $\\mathrm{PGL}_n$. We also extend the construction and the identity to $\\mathrm{PGL}_n(D)$, where $D$ is a central division algebra over $F$; in th…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.21262",
-    "timestamp": "2026-07-24T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.21262"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-24T04:00:00Z",
-    "id": "energy-83dd131ae4bf9a2a"
-  },
-  {
-    "title": "Zeros of the Dirichlet series of even zeta values",
-    "summary": "arXiv:2607.20758v1 Announce Type: new Abstract: We give a complete unconditional description of the zero set of the Dirichlet series $D(s):= \\sum_{n\\ge1} \\zeta(2n)\\, n^{-s}$, which continues meromorphically to $\\mathbb{C}$ with a single simple pole at $s=1$. The series possesses neither an Euler product nor a self-dual functional equation, and descriptions with this level of completeness are exceedingly rare for such series. The key input is an exact functional equation of Hecke type, obtained from the Lipschitz summation formula, which expresses $D$ in the left half-plane as a gamma factor times a dual series over the complex logarithms of the perfect squares; Riemann's functional equation appears as a single column of the dual series. The zeros fall into four families. The half-plane $\\sigma \\ge \\sigma_0 = 1.5001\\cdots$ is zero-free, and $D$ has a real zero $\\rho_0 = 0.2004\\cdots$, conjecturally its only one. The zeros in the critical strip are perturbed $a$-points of $\\zeta$ for values of $a$ near $-(\\zeta(2)-1)$, and their counting function obeys a Riemann-von Mangoldt law. The remaining zeros form two complex-conjugate strings that recede into the left half-plane along explic…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.20758",
-    "timestamp": "2026-07-24T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.20758"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-24T04:00:00Z",
-    "id": "energy-8bb09496f13e3a24"
-  },
-  {
-    "title": "Zero-divisor algebras of graph functions: quantum caging, entangling routing and stochastic first-passage exclusion",
-    "summary": "arXiv:2311.11978v2 Announce Type: replace Abstract: We construct Lie-bialgebraic differential structures on vertex functions of a finite graph using coefficients in commutative algebras with zero divisors. We derive the exact Jacobi criterion for the graph bracket and classify its solutions. Over an integral domain, each connected component of the nonzero support is a uniformly weighted clique; over $\\mathbb C^q$, the general solution is a superposition of such clique layers. A four-vertex diamond built from overlapping triangle layers shows that Jacobi compatibility is strictly broader than the matching geometry generated by proper edge colouring. For the canonical cobracket, we prove a rigidity theorem over commutative $2$-torsion-free rings: Lie-bialgebra compatibility is equivalent to the local annihilation condition $w_{ij}w_{ik}=0$ for distinct incident edges. Hence the canonical bialgebra selects matching layers from the wider Jacobi-compatible class. The same structure makes the weighted graph Laplacian an inner derivation and yields an incidence-type vertex--edge calculus with a positive squared-Laplacian factorization. Representing the idempotent channels by internal-sta…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2311.11978",
-    "timestamp": "2026-07-24T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2311.11978"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-24T04:00:00Z",
-    "id": "energy-e645f91cbc50041b"
   }
 ]
