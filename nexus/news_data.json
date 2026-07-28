@@ -1,16 +1,16 @@
 [
   {
-    "title": "Illinois communities respond to NOI on new nuclear facilities interest",
-    "summary": "Illinois has received nine responses to a notice of intent (NOI) expressing interest in hosting a new nuclear facility, according to submissions filed with the Illinois Commerce Commission (ICC). In February, Gov. J.B. Pritzker issued an executive order directing the commission to release two NOIs, one aimed at nuclear power plant developers and another for potential host communities. The second NOI requested information from Illinois communities interested in having a nuclear facility and gave them a deadline of May 25 to respond. Pritzker’s executive order arrived about a month after he lifted the state’s moratorium on new nuclear reactors being built in the state.",
+    "title": "NRC cooperating with Coast Guard, Marine Minerals Administration",
+    "summary": "Within the past month, the Nuclear Regulatory Commission has signed memorandums of understanding to increase its cooperation with two U.S. maritime organizations. In late June, the NRC signed an MOU with the U.S. Coast Guard to strengthen coordination on civilian maritime nuclear projects, including floating nuclear power plants and civilian nuclear propulsion. On July 21, the NRC signed an MOU with the newly formed Marine Minerals Administration (MMA) to improve cooperation regarding potential future nuclear projects on the Outer Continental Shelf.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-27/article-8244/illinois-communities-respond-to-noi-on-new-nuclear-facilities-interest/",
-    "timestamp": "2026-07-27T12:32:26Z",
+    "url": "https://www.ans.org/news/2026-07-27/article-8247/nrc-cooperating-with-coast-guard-marine-minerals-administration/",
+    "timestamp": "2026-07-27T20:43:15Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-27/article-8244/illinois-communities-respond-to-noi-on-new-nuclear-facilities-interest/"
+      "https://www.ans.org/news/2026-07-27/article-8247/nrc-cooperating-with-coast-guard-marine-minerals-administration/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-27T12:32:26Z",
-    "id": "energy-ccc8120a7387c2b0"
+    "data_as_of": "2026-07-27T20:43:15Z",
+    "id": "energy-e4463d5e3adf43d3"
   },
   {
-    "title": "Illinois Power Agency and ICC Staff Letter Regarding Support for Deactivation Enhancements Proposal",
+    "title": "CIFP Reliability Backstop Procurement – PJM Board Decision",
     "summary": "Updated Date: 07.27.2026",
     "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-illinois-power-agency-icc-staff-letter-regarding-support-for-deactivation-enhancements-proposal.pdf",
-    "timestamp": "2026-07-27T12:02:15Z",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-reliability-backstop-procurement-pjm-board-decision.pdf",
+    "timestamp": "2026-07-27T19:43:32Z",
     "topic": "Energy",
     "category": "RTOs / ISOs",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-illinois-power-agency-icc-staff-letter-regarding-support-for-deactivation-enhancements-proposal.pdf"
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-reliability-backstop-procurement-pjm-board-decision.pdf"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -40,21 +40,65 @@
       "PJM Interconnection",
       "PJM"
     ],
-    "data_as_of": "2026-07-27T12:02:15Z",
-    "id": "energy-c2d2549af2a84f7c"
+    "data_as_of": "2026-07-27T19:43:32Z",
+    "id": "energy-b70129d531fd66ef"
   },
   {
-    "title": "In transition: Commercializing fusion power",
-    "summary": "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 32.0px Industry} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 14.0px Industry} Commercial fusion power is closer than ever. There are now around 30 U.S. fusion companies, several of which claim to be on track to connect to the grid as early as the 2030s. p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 9.0px; line-height: 13.0px; font: 10.0px Industry} Tokamak and laser inertial confinement approaches benefit from decades of research at facilities such as the National Ignition Facility (NIF) at Lawrence Livermore National Laboratory and ITER, with alternative concepts including stellarator, magnetic mirror, and Z-pinch confinement also making notable progress as private and government funding for fusion increases.",
+    "title": "CIFP Framework for Service During Periods of Insufficient Resource Adequacy – Executive Summary",
+    "summary": "Updated Date: 07.27.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-framework-for-service-during-periods-of-insufficient-resource-adequacy-executive-summary.pdf",
+    "timestamp": "2026-07-27T19:43:31Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-framework-for-service-during-periods-of-insufficient-resource-adequacy-executive-summary.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-07-27T19:43:31Z",
+    "id": "energy-d612a2fe0f55738d"
+  },
+  {
+    "title": "Board Decisional Letter on Critical Issue Fast Path – Reliability Backstop Procurement and Connect and Manage",
+    "summary": "Updated Date: 07.27.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-board-decisional-letter-on-cifp-reliability-backstop-procurement-and-connect-and-manage.pdf",
+    "timestamp": "2026-07-27T19:43:27Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-board-decisional-letter-on-cifp-reliability-backstop-procurement-and-connect-and-manage.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-07-27T19:43:27Z",
+    "id": "energy-997e2167233a4e8d"
+  },
+  {
+    "title": "NASA and Radiant selected to receive HALEU",
+    "summary": "Last week, the Department of Energy announced a conditional commitment to provide high-assay low-enriched uranium to NASA for its Space Reactor-1 Freedom rocket and to Radiant Industries for its microreactor expected to be sited at Buckley Space Force Base. The announcement comes a few weeks after Centrus Energy signed a contract to finalize the terms of a $900 million DOE task order to expand production capacity for HALEU at its American Centrifuge Plant in Piketon, Ohio.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-24/article-8162/in-transition-commercializing-fusion-power/",
-    "timestamp": "2026-07-24T20:06:45Z",
+    "url": "https://www.ans.org/news/2026-07-27/article-8246/nasa-and-radiant-selected-to-receive-haleu/",
+    "timestamp": "2026-07-27T17:19:08Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-24/article-8162/in-transition-commercializing-fusion-power/"
+      "https://www.ans.org/news/2026-07-27/article-8246/nasa-and-radiant-selected-to-receive-haleu/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,21 +106,93 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-24T20:06:45Z",
-    "id": "energy-97d101e0f67c4bca"
+    "data_as_of": "2026-07-27T17:19:08Z",
+    "id": "energy-70a1a882816de282"
   },
   {
-    "title": "TerraPower becomes first advanced reactor company to join INPO",
-    "summary": "On July 21, TerraPower announced that it had been accepted into the Institute of Nuclear Power Operations. INPO and TerraPower alike celebrated the development as the first time an advanced nuclear company has joined the institute’s ranks, representing an important step forward in safety and industry coordination among newcomers to the nuclear industry.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-24/article-8243/terrapower-becomes-first-advanced-reactor-company-to-join-inpo/",
-    "timestamp": "2026-07-24T17:53:24Z",
+    "title": "Entergy Texas ofrece $500.000 en apoyo para facturas de verano a fin de ayudar a clientes vulnerables",
+    "summary": "Los fondos adicionales del programa The Power to Care ayudarán a que adultos mayores y clientes con discapacidades elegibles puedan manejar los costos de energía durante el verano",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-texas-ofrece-500-000-en-apoyo-para-facturas-de-verano-a-fin-de-ayudar-a-clientes-vulnerables",
+    "timestamp": "2026-07-27T16:41:05Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-24/article-8243/terrapower-becomes-first-advanced-reactor-company-to-join-inpo/"
+      "https://www.entergy.com/news/entergy-texas-ofrece-500-000-en-apoyo-para-facturas-de-verano-a-fin-de-ayudar-a-clientes-vulnerables"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-27T16:41:05Z",
+    "id": "energy-9fb78c9cb9d6fde8"
+  },
+  {
+    "title": "Entergy Texas provides $500,000 in summer bill relief to help vulnerable customers",
+    "summary": "For many of our neighbors, summer doesn’t just bring higher temperatures, it brings higher electricity use. Extreme heat often means running air‑conditioning longer and harder, which can lead to higher energy bills.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-texas-provides-500000-in-summer-bill-relief-to-help-vulnerable-customers",
+    "timestamp": "2026-07-27T16:33:13Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-texas-provides-500000-in-summer-bill-relief-to-help-vulnerable-customers"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-27T16:33:13Z",
+    "id": "energy-4462a1a3d5942568"
+  },
+  {
+    "title": "Entergy Louisiana lineworker Dylan Granger recognized nationally for dedication to customers and commitment to safety",
+    "summary": "For 12 years, Dylan Granger, lineworker at Entergy Louisiana, has helped keep the lights on for customers across our service territory. This year, his dedication to serving customers safely and reliably earned him national recognition during the Edison Electric Institute’s National Lineworker Appreciation Day celebration in Washington, D.C.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-louisiana-lineworker-dylan-granger-recognized-nationally-for-dedication-to-customers-and-commitment-to-safety",
+    "timestamp": "2026-07-27T14:40:16Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-louisiana-lineworker-dylan-granger-recognized-nationally-for-dedication-to-customers-and-commitment-to-safety"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-27T14:40:16Z",
+    "id": "energy-b6786ed114a1f83c"
+  },
+  {
+    "title": "Nuclear developments in France, Germany, the Czech Republic, and beyond",
+    "summary": "Recent happenings in Europe highlight that nuclear power activities are expanding globally. Here is a roundup of headlines with an international flavor.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-27/article-8245/nuclear-developments-in-france-germany-the-czech-republic-and-beyond/",
+    "timestamp": "2026-07-27T14:29:51Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-27/article-8245/nuclear-developments-in-france-germany-the-czech-republic-and-beyond/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -84,7 +200,29 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-24T17:53:24Z",
-    "id": "energy-f76620fbfae4e2c3"
+    "data_as_of": "2026-07-27T14:29:51Z",
+    "id": "energy-c844464614d06d00"
+  },
+  {
+    "title": "Video outlines metering, telemetry for distributed energy resource aggregations",
+    "summary": "The training resource relates to FERC Order No. 2222. The post Video outlines metering, telemetry for distributed energy resource aggregations appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/27/video-outlines-metering-telemetry-for-distributed-energy-resource-aggregations/",
+    "timestamp": "2026-07-27T13:00:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/27/video-outlines-metering-telemetry-for-distributed-energy-resource-aggregations/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-27T13:00:14Z",
+    "id": "energy-b83bc1e47675842d"
   }
 ]
