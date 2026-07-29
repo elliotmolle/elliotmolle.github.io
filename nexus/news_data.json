@@ -1,16 +1,16 @@
 [
   {
-    "title": "NRC cooperating with Coast Guard, Marine Minerals Administration",
-    "summary": "Within the past month, the Nuclear Regulatory Commission has signed memorandums of understanding to increase its cooperation with two U.S. maritime organizations. In late June, the NRC signed an MOU with the U.S. Coast Guard to strengthen coordination on civilian maritime nuclear projects, including floating nuclear power plants and civilian nuclear propulsion. On July 21, the NRC signed an MOU with the newly formed Marine Minerals Administration (MMA) to improve cooperation regarding potential future nuclear projects on the Outer Continental Shelf.",
+    "title": "Wendelstein 7-X designing 2-MW gyrotrons to upgrade heating system",
+    "summary": "The Max Planck Institute for Plasma Physics (IPP) announced yesterday that it is developing 2-MW gyrotrons to be used as the main plasma heating system of the Wendelstein 7-X (W7-X). W7-X, located at IPP, is currently the largest superconducting stellarator facility in the world. The project conducts research aimed at filling key knowledge and technology gaps for developing a stellarator-based power plant.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-27/article-8247/nrc-cooperating-with-coast-guard-marine-minerals-administration/",
-    "timestamp": "2026-07-27T20:43:15Z",
+    "url": "https://www.ans.org/news/2026-07-28/article-8251/wendelstein-7x-designing-2mw-gyrotrons-to-upgrade-heating-system/",
+    "timestamp": "2026-07-28T20:45:47Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-27/article-8247/nrc-cooperating-with-coast-guard-marine-minerals-administration/"
+      "https://www.ans.org/news/2026-07-28/article-8251/wendelstein-7x-designing-2mw-gyrotrons-to-upgrade-heating-system/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,76 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-27T20:43:15Z",
-    "id": "energy-e4463d5e3adf43d3"
+    "data_as_of": "2026-07-28T20:45:47Z",
+    "id": "energy-e3a6a67250c9b70e"
+  },
+  {
+    "title": "Five states named Nuclear Lifecycle Innovation Campus finalists",
+    "summary": "Idaho, Louisiana, Oklahoma, Tennessee, and Utah are the finalists to potentially host Nuclear Lifecycle Innovation Campuses, the Department of Energy announced today. Energy Secretary Chris Wright has signed memorandums of understanding with the five states to continue exploring opportunities to host these campuses, envisioned as federal–state partnerships to support work across the nuclear fuel life cycle, with a primary focus on fuel fabrication, enrichment, spent fuel reprocessing or recycling, separations, and radioactive waste management.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-28/article-8252/five-states-named-nuclear-lifecycle-innovation-campus-finalists/",
+    "timestamp": "2026-07-28T17:46:58Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-28/article-8252/five-states-named-nuclear-lifecycle-innovation-campus-finalists/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-28T17:46:58Z",
+    "id": "energy-7e02797ec1922bb7"
+  },
+  {
+    "title": "New frontiers",
+    "summary": "Craig Piercycpiercy@ans.org There may have been no more fitting place to gather for a conversation about the future of nuclear energy than Colorado. For the nuclear community, Colorado carries a special resonance. About an hour north of Denver stands Fort St. Vrain. Today, it is a garden-variety natural gas power plant. But there was a time it was an ambitious nuclear reactor—a high-temperature gas reactor with helium coolant and a uranium-thorium fuel cycle. It was ahead of its time in many ways and imperfect in execution, but unmistakably part of the long story of nuclear innovation in America. Colorado is a state shaped by frontiers. We, too, are standing at a frontier, which brings me to this year’s conference theme: “Net Out, Power Up.” We chose this theme to reflect the complementary challenges facing two parts of our community. “Net Out” reflects fusion’s challenge: proving you can get more energy out than you put in. “Power Up” reflects fission’s challenge: scaling advanced nuclear technologies quickly enough to meet rising demand.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-28/article-8158/new-frontiers/",
+    "timestamp": "2026-07-28T16:29:46Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-28/article-8158/new-frontiers/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-28T16:29:46Z",
+    "id": "energy-58360acb4aadc8d8"
+  },
+  {
+    "title": "Entergy Louisiana and Entergy New Orleans helps customers stay cool and save money",
+    "summary": "Staying cool and comfortable does not have to come at the cost of high energy bills. By making a few simple changes around your home, you can improve its energy efficiency and beat the heat while keeping costs down.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-louisiana-and-entergy-new-orleans-helps-customers-stay-cool-and-save-money",
+    "timestamp": "2026-07-28T15:52:54Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-louisiana-and-entergy-new-orleans-helps-customers-stay-cool-and-save-money"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-28T15:52:54Z",
+    "id": "energy-f312cb3eda43e541"
   },
   {
     "title": "CIFP Reliability Backstop Procurement – PJM Board Decision",
@@ -88,28 +156,6 @@
     "id": "energy-997e2167233a4e8d"
   },
   {
-    "title": "NASA and Radiant selected to receive HALEU",
-    "summary": "Last week, the Department of Energy announced a conditional commitment to provide high-assay low-enriched uranium to NASA for its Space Reactor-1 Freedom rocket and to Radiant Industries for its microreactor expected to be sited at Buckley Space Force Base. The announcement comes a few weeks after Centrus Energy signed a contract to finalize the terms of a $900 million DOE task order to expand production capacity for HALEU at its American Centrifuge Plant in Piketon, Ohio.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-27/article-8246/nasa-and-radiant-selected-to-receive-haleu/",
-    "timestamp": "2026-07-27T17:19:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-27/article-8246/nasa-and-radiant-selected-to-receive-haleu/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-27T17:19:08Z",
-    "id": "energy-70a1a882816de282"
-  },
-  {
     "title": "Entergy Texas ofrece $500.000 en apoyo para facturas de verano a fin de ayudar a clientes vulnerables",
     "summary": "Los fondos adicionales del programa The Power to Care ayudarán a que adultos mayores y clientes con discapacidades elegibles puedan manejar los costos de energía durante el verano",
     "source": "Entergy",
@@ -156,52 +202,6 @@
     ],
     "data_as_of": "2026-07-27T16:33:13Z",
     "id": "energy-4462a1a3d5942568"
-  },
-  {
-    "title": "Entergy Louisiana lineworker Dylan Granger recognized nationally for dedication to customers and commitment to safety",
-    "summary": "For 12 years, Dylan Granger, lineworker at Entergy Louisiana, has helped keep the lights on for customers across our service territory. This year, his dedication to serving customers safely and reliably earned him national recognition during the Edison Electric Institute’s National Lineworker Appreciation Day celebration in Washington, D.C.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-louisiana-lineworker-dylan-granger-recognized-nationally-for-dedication-to-customers-and-commitment-to-safety",
-    "timestamp": "2026-07-27T14:40:16Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-louisiana-lineworker-dylan-granger-recognized-nationally-for-dedication-to-customers-and-commitment-to-safety"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-27T14:40:16Z",
-    "id": "energy-b6786ed114a1f83c"
-  },
-  {
-    "title": "Nuclear developments in France, Germany, the Czech Republic, and beyond",
-    "summary": "Recent happenings in Europe highlight that nuclear power activities are expanding globally. Here is a roundup of headlines with an international flavor.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-27/article-8245/nuclear-developments-in-france-germany-the-czech-republic-and-beyond/",
-    "timestamp": "2026-07-27T14:29:51Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-27/article-8245/nuclear-developments-in-france-germany-the-czech-republic-and-beyond/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-27T14:29:51Z",
-    "id": "energy-c844464614d06d00"
   },
   {
     "title": "Video outlines metering, telemetry for distributed energy resource aggregations",

@@ -1,335 +1,353 @@
 [
   {
-    "title": "PlayStation Veteran Says Japan Studio Was Closed Because It Couldn’t Make Games That ‘Drive Hardware Sales’ Like God Of War Or Uncharted",
-    "summary": "Even SIE's former president, Shuhei Yoshida, thinks its 'unbelievable' that the company chose to shut down Japan Studio",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/playstation-veteran-says-japan-studio-was-closed-because-it-couldnt-make-games-that-drive-hardware-sales-like-god-of-war-or-uncharted-2000719737",
-    "timestamp": "2026-07-28T11:32:32Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/playstation-veteran-says-japan-studio-was-closed-because-it-couldnt-make-games-that-drive-hardware-sales-like-god-of-war-or-uncharted-2000719737"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-28T11:32:32Z",
-    "id": "energy-7c0d8536a8c831a1"
-  },
-  {
-    "title": "A new Critical Role story will follow one of The Mighty Nein's most popular characters",
-    "summary": "An exclusive excerpt from Critical Role: The Mighty Nein - Stories Untold reveals more about the enigmatic wizard, Essek.",
+    "title": "Cities Skylines meets Balatro in the absorbing roguelike city builder Combolands",
+    "summary": "Combolands combines the combo-chaining thrills of Balatro with the strategic placement of Cities: Skylines",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/critical-role-the-mighty-nein-untold-stories-excerpt/",
-    "timestamp": "2026-07-28T11:00:12Z",
+    "url": "https://www.polygon.com/combolands-demo-impressions/",
+    "timestamp": "2026-07-29T12:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/critical-role-the-mighty-nein-untold-stories-excerpt/"
+      "https://www.polygon.com/combolands-demo-impressions/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-28T11:00:12Z",
-    "id": "energy-83d0cee07546076d"
+    "data_as_of": "2026-07-29T12:00:12Z",
+    "id": "energy-2c91f70d77ba2f95"
   },
   {
-    "title": "RLCS World Championship groups",
-    "summary": "Probably a really stupid question, but does anyone know or can predict the groups for worlds based on seeding? Does EWC affect rlcs seedings, and if not then should we not be able to know the groups as all other rlcs including LCQs have finished? Just asking because for the Paris major i remember very early on seeing groups based on seeding which were more or less 100 percent accurate. submitted by /u/AdFragrant5682 [link] [comments]",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "timestamp": "2026-07-29T11:44:33Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T11:44:33Z",
+    "id": "energy-5328f757a3d8d33b"
+  },
+  {
+    "title": "One Of 2025’s Surprisingly Good Soulslikes Is Getting An Even More Surprising Sequel From The Original Director Despite Studio Drama",
+    "summary": "While Wuchang: Fallen Feathers' creative director is returning for the sequel, the original dev team at Leenzee is not",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/one-of-2025s-surprisingly-good-soulslikes-is-getting-an-even-more-surprising-sequel-from-original-director-despite-studio-drama-2000720152",
+    "timestamp": "2026-07-29T11:39:59Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/one-of-2025s-surprisingly-good-soulslikes-is-getting-an-even-more-surprising-sequel-from-original-director-despite-studio-drama-2000720152"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T11:39:59Z",
+    "id": "energy-61541a73c3fb0813"
+  },
+  {
+    "title": "Say goodbye to the most influential coming-of-age anime of the century leaving Netflix",
+    "summary": "This dark, complex coming-of-age series is leaving Netflix soon.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/watch-shonen-coming-of-age-anime-binge-watch-netflix/",
+    "timestamp": "2026-07-29T11:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/watch-shonen-coming-of-age-anime-binge-watch-netflix/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T11:00:12Z",
+    "id": "energy-1f585c2674230c8b"
+  },
+  {
+    "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+    "timestamp": "2026-07-29T10:47:57Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.fcc.gov/sites/default/files/robots-nsd.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T10:47:57Z",
+    "id": "energy-f0ecfbc95f7fd5b3"
+  },
+  {
+    "title": "SpecForge – A Platform for Authoring Formal Specifications",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "timestamp": "2026-07-29T10:35:19Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://docs.imiron.io/v/0.5.10/en/tour.html"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T10:35:19Z",
+    "id": "energy-fa1f5fcf9f1fcd23"
+  },
+  {
+    "title": "Should we feel good about the trajectory of clean energy post-Trump?",
+    "summary": "A conversation with Lily Bermel.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/should-we-feel-good-about-the-trajectory",
+    "timestamp": "2026-07-29T10:06:08Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/should-we-feel-good-about-the-trajectory"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T10:06:08Z",
+    "id": "energy-feaf6176d071bcaf"
+  },
+  {
+    "title": "Popular Game About Dying Is Now Dead Due To New Rules And Only Its Missing Creator Can Save It",
+    "summary": "What was once a hit game on Roblox is now unplayable due to age rating changes",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/popular-game-about-dying-is-now-dead-due-to-new-rules-and-only-its-missing-creator-can-save-it-2000719930",
+    "timestamp": "2026-07-29T10:00:28Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/popular-game-about-dying-is-now-dead-due-to-new-rules-and-only-its-missing-creator-can-save-it-2000719930"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T10:00:28Z",
+    "id": "energy-d172c1405dc4aabc"
+  },
+  {
+    "title": "Flame Sound releases VATRA loudness and tone enhancer plugin ($39 intro price)",
+    "summary": "Flame Sound has released VATRA, a mix finisher and loudness enhancer plugin for Windows and macOS. The intro price of $39 is available until August 16. As many of you already know, Flame Sound is my cinematic sound label. VATRA comes after almost two years of development, with countless iterations in the meantime. I’ll write [...] View post: Flame Sound releases VATRA loudness and tone enhancer plugin ($39 intro price)",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/29/vatra-flame-sound/",
+    "timestamp": "2026-07-29T09:00:01Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/29/vatra-flame-sound/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T09:00:01Z",
+    "id": "energy-2dfefb5bd10cf372"
+  },
+  {
+    "title": "Despite Magic's unprecedented success, Wizards of the Coast's president is already stepping down",
+    "summary": "Wizards of the Coast president John Hight steps down from the role after two years, despite the huge financial success of Magic: The Gathering.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/wizards-of-the-coast-president-john-hight-stepping-down/",
+    "timestamp": "2026-07-29T08:56:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/wizards-of-the-coast-president-john-hight-stepping-down/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T08:56:18Z",
+    "id": "energy-0c7daa760d0a8b46"
+  },
+  {
+    "title": "Greer Studios Presents releases Signature Delay, a FREE Windows delay plugin",
+    "summary": "Greer Studios Presents has released Signature Delay, a free delay plugin and standalone app for Windows. We have covered a couple of interesting free delay plugins on BPB lately, including FRCTL Audio DLAY Lite and Trebless Tesseract Echo, so there’s definitely no shortage of freeware delays. Signature Delay is a relatively simpler one (although it [...] View post: Greer Studios Presents releases Signature Delay, a FREE Windows delay plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/29/greer-studios-signature-delay/",
+    "timestamp": "2026-07-29T08:51:49Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/29/greer-studios-signature-delay/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-29T08:51:49Z",
+    "id": "energy-6c39f6273b0b8b84"
+  },
+  {
+    "title": "Goal was so good even atow said trk is the goat",
+    "summary": "submitted by /u/boradteenager007 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v8uxnn/rlcs_world_championship_groups/",
-    "timestamp": "2026-07-28T10:54:55Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v9odz5/goal_was_so_good_even_atow_said_trk_is_the_goat/",
+    "timestamp": "2026-07-29T06:53:07Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v8uxnn/rlcs_world_championship_groups/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v9odz5/goal_was_so_good_even_atow_said_trk_is_the_goat/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-28T10:54:55Z",
-    "id": "energy-072801206733ef84"
+    "data_as_of": "2026-07-29T06:53:07Z",
+    "id": "energy-6fa99a2743615a3d"
   },
   {
-    "title": "Demon Slayer Infinity Castle Part 2 news, plot, trailer, and possible release date window",
-    "summary": "With Demon Slayer: Infinity Castle Part 1 out on streaming, we have all the latest info on Part 2.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/demon-slayer-kimetsu-no-yaiba-infinity-castle-part-2-plot-release-news-trailer/",
-    "timestamp": "2026-07-28T10:30:12Z",
+    "title": "Wick integrals",
+    "summary": "arXiv:2512.14986v2 Announce Type: replace Abstract: We introduce the Wick integral $\\int_s^t f(X_u) \\Diamond \\mathrm{d} X_u$ for a class of stochastic processes $X$ of bounded $2 > p$-variation which are not necessarily Gaussian. The integral is defined for a class of entire functions $f$ depending on the process. In the case of $1/2 < H$-fractional Brownian motion, the Wick integral agrees with the divergence operator in Malliavin calculus. It satisfies a correction formula with the Young integral $\\int f(X)\\mathrm{d} X$ and an It\\^o formula which have infinitely many correction terms, given by integration against the cumulant functions of $X$, and reduce to familiar identities in the Gaussian case. These results are obtained by developing diagram formulae for Appell polynomials w.r.t.\\ a linear span of reference random variables and extending them to series via absolute convergence in $L^1$. Our theory applies to processes taking values in the second Wiener chaos, such as the Rosenblatt process.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2512.14986",
+    "timestamp": "2026-07-29T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2512.14986"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-29T04:00:00Z",
+    "id": "energy-f2ee5f104398d54e"
+  },
+  {
+    "title": "Which Saddles Contribute? The South-East Rule for Multidimensional Integrals",
+    "summary": "arXiv:2606.28271v2 Announce Type: replace Abstract: In this paper, we introduce and demonstrate a simple geometric algorithm to determine which critical points, both complex as well as real, contribute to the asymptotic evaluation of multiple integrals with exponential integrands of the form $e^{ikf(\\boldsymbol{x})}$ over $\\mathbb R^d$, for finite $d\\ge 1$ and $f$ is analytic. In so doing, the algorithm removes the need to compute the flows of $-\\text{Re} (i\\nabla f)$ in $\\mathbb C^d$ that is required to identify such relevant critical points in Picard-Lefschetz approaches to the derivation of such asymptotic expansions. By contrast, our algorithm relies on the combination of three simple features: the values of $f$ at all the critical points plotted in the complex Borel plane, the concept of adjacency between such points derived from algebraic resurgence/hyperasymptotic approaches and the new result here of a geometric \"South-East\" rule. The algorithm incorporates functions $f$ that remain bounded or unbounded on $\\mathbb R^d$. We illustrate this new approach with both pedagogical and advanced examples, and draw conclusions as to its importance for resolving issues associated wit…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2606.28271",
+    "timestamp": "2026-07-29T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2606.28271"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-29T04:00:00Z",
+    "id": "energy-1e1de4a3cfd24c29"
+  },
+  {
+    "title": "Well-posedness of the periodic nonlinear Schr\\\"odinger equation with concentrated nonlinearity",
+    "summary": "arXiv:2508.00594v3 Announce Type: replace Abstract: We study the solution theory of the nonlinear Schr\\\"odinger equation with a concentrated nonlinearity on the torus. In particular, we establish existence and uniqueness of global energy-conserving solutions for initial data in $H^1$. We also prove local well-posedness of the concentrated nonlinear Schr\\\"odinger equation below the energy space but above the endpoint of Sobolev embedding theorem. Our methods are based on compactness results and exploiting the Volterra integral equation structure of the problem. To our knowledge, this is the first rigorous solution theory for the concentrated nonlinear Schr\\\"odinger equation on the circle.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2508.00594",
+    "timestamp": "2026-07-29T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2508.00594"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-07-29T04:00:00Z",
+    "id": "energy-74237460c74a180a"
+  },
+  {
+    "title": "An Ambitious New Stardew Valley Mod Lets You Run A Supermarket With An ‘Overcooked-Style Kitchen’",
+    "summary": "Unless you draw the line at AI-generated dialogue",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/an-ambitious-new-stardew-valley-mod-lets-you-run-a-supermarket-with-an-overcooked-style-kitchen-2000719876",
+    "timestamp": "2026-07-28T23:30:31Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/demon-slayer-kimetsu-no-yaiba-infinity-castle-part-2-plot-release-news-trailer/"
+      "https://kotaku.com/an-ambitious-new-stardew-valley-mod-lets-you-run-a-supermarket-with-an-overcooked-style-kitchen-2000719876"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-28T10:30:12Z",
-    "id": "energy-4271d9062172b507"
+    "data_as_of": "2026-07-28T23:30:31Z",
+    "id": "energy-0891b5df901f1642"
   },
   {
-    "title": "12 months later, the biggest anime movie of all time is finally available on streaming",
-    "summary": "The descent into a certain pocket dimension has never been more exciting.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/biggest-anime-movie-all-time-streaming-crunchyroll/",
-    "timestamp": "2026-07-28T10:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/biggest-anime-movie-all-time-streaming-crunchyroll/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-28T10:00:12Z",
-    "id": "energy-df61886319aaa422"
-  },
-  {
-    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "timestamp": "2026-07-28T09:59:13Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://spawn-queue.acm.org/doi/10.1145/3819083"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-28T09:59:13Z",
-    "id": "energy-6e20f82d1f19e42a"
-  },
-  {
-    "title": "About the security content of macOS Tahoe 26.6",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://support.apple.com/en-us/128067",
-    "timestamp": "2026-07-28T09:45:43Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://support.apple.com/en-us/128067"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-28T09:45:43Z",
-    "id": "energy-b492348c13c901b3"
-  },
-  {
-    "title": "NULLIFY is a new Spotify streaming quality checker plugin, FREE until August 31",
-    "summary": "Boomer Hotel has released NULLIFY, a codec audition and null-test plugin that is free with a coupon code until August 31st, 2026. NULLIFY normally costs $19, but you can get it for free at checkout with the coupon code BHPLUGINS2026. The checkout runs through Lemon Squeezy, and your email address is required at checkout, but [...] View post: NULLIFY is a new Spotify streaming quality checker plugin, FREE until August 31",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/28/boomer-hotel-nullify/",
-    "timestamp": "2026-07-28T09:02:56Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/28/boomer-hotel-nullify/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-28T09:02:56Z",
-    "id": "energy-a0b440bd0be82b50"
-  },
-  {
-    "title": "Dusk Audio releases TapeMachine 2, a FREE tape plugin with a new interface",
-    "summary": "Dusk Audio has released TapeMachine 2, a free tape emulation plugin for macOS, Windows, and Linux. We featured Dusk Audio’s original Tape Machine plugin earlier this year, when it arrived alongside 4K EQ and MultiComp. TapeMachine 2 is a new version with a redesigned interface and a new tape engine. The main point is that [...] View post: Dusk Audio releases TapeMachine 2, a FREE tape plugin with a new interface",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/28/dusk-audio-tapemachine-2/",
-    "timestamp": "2026-07-28T08:51:50Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/28/dusk-audio-tapemachine-2/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-28T08:51:50Z",
-    "id": "energy-41eae85a66150de1"
-  },
-  {
-    "title": "AudioAuditor is a FREE and open-source audio analysis/player toolkit (including AI music detection)",
-    "summary": "It’s always cool to see a free and open-source tool that offers a more comprehensive feature set than some paid alternatives, and that seems to be what we have with AudioAuditor. The desktop and Command Line Interface app offers an all-in-one toolkit for analyzing and listening to music. What is AudioAuditor? AudioAuditor is a free, [...] View post: AudioAuditor is a FREE and open-source audio analysis/player toolkit (including AI music detection)",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/28/audioauditor/",
-    "timestamp": "2026-07-28T08:39:22Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/28/audioauditor/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-28T08:39:22Z",
-    "id": "energy-4119fdbee376662b"
-  },
-  {
-    "title": "7.1 Earthquake in Japan",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-    "timestamp": "2026-07-28T07:44:24Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-28T07:44:24Z",
-    "id": "energy-2bd78656d898c570"
-  },
-  {
-    "title": "Did anyone else know the Torsos lore was this crazy?",
-    "summary": "I was looking up Torsos on Liquipedia, as one does, and came across this ...interesting backstory in the \"trivia\" section. It was added by him, so it must be true, right? https://liquipedia.net/rocketleague/Torsos Always a troubled child, Torsos was cast out of his family home at age 2. Forced to fend for himself in the vicious wilds, he developed a strong sense of vigilance and will to thrive. After 3 years of hunting and gathering, Torsos was happened upon by a large family of wolves. A fierce battle ensued; of which Torsos found himself the victor. The then subdued and detained wolves - impressed by his physical prowess - offered to aid and serve him in his travels, and become a sort of surrogate family to replace those who had betrayed him. Torsos accepted their proposal, and gained himself a place in such a wild world. Still tormented each night with dreams of greatness he could not hope to achieve, Torsos was still no happier than ever. He always felt that there was something missing in life, a certain aspect he'd always reached for but could never obtain. The more these dreams plagued his mind, the more he became certain that he was not content, that he desired something mo…",
+    "title": "[Rocket Street] Rocket League will be featured at the Global Esports Games and will be a national competition",
+    "summary": "submitted by /u/Legitimate-Sign-371 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v8pznp/did_anyone_else_know_the_torsos_lore_was_this/",
-    "timestamp": "2026-07-28T06:26:47Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v9eear/rocket_street_rocket_league_will_be_featured_at/",
+    "timestamp": "2026-07-28T23:08:25Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v8pznp/did_anyone_else_know_the_torsos_lore_was_this/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v9eear/rocket_street_rocket_league_will_be_featured_at/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-28T06:26:47Z",
-    "id": "energy-09d95d4096718fff"
+    "data_as_of": "2026-07-28T23:08:25Z",
+    "id": "energy-41a0b0c54c4d2ee7"
   },
   {
-    "title": "One day, my guy... One day...",
-    "summary": "submitted by /u/Rob_D_Shad [link] [comments]",
+    "title": "Rezears claims that Radosin treated him (and Joyo to a lesser extent) very poorly during the LCQ and in the weeks leading up to it.",
+    "summary": "Rezears is currently live on twitch and opened the stream up by explaining that there has been some serious drama with Radosin during the LCQ. All of the information is gathered from his stream (I am a german native speaker so the translations will be accurate). Here is the link to his stream, you can get all the information yourself from todays vod if you speak german: https://www.twitch.tv/rezears Edit: Here is the link to the vod itself. Most of the information can be gathered in the first 10 minutes, although some things were also revealed later in the stream: https://www.twitch.tv/videos/2831269665 Additionally, he still has to play EWC with the team so he didn't want to reveal everything. So new information might be revealed in the future after the EWC LCQ. These were the key statements that Rezears made: - In the match against Volare, as well as in the weeks leading up to the event, Rezears was made responsible for every game loss and basically any goal that went in against them. This happened for weeks and not just that particular match - Radosin continuously insulted rezears for weeks, which lead to Rezears being extremely afraid of making mistakes while playing with him…",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v8oiuu/one_day_my_guy_one_day/",
-    "timestamp": "2026-07-28T05:09:49Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1v98kdo/rezears_claims_that_radosin_treated_him_and_joyo/",
+    "timestamp": "2026-07-28T19:27:57Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v8oiuu/one_day_my_guy_one_day/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1v98kdo/rezears_claims_that_radosin_treated_him_and_joyo/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-28T05:09:49Z",
-    "id": "energy-a4a6badb8e4af74a"
+    "data_as_of": "2026-07-28T19:27:57Z",
+    "id": "energy-65265c98d2c03504"
   },
   {
-    "title": "Zaba: a case for clubs",
-    "summary": "arXiv:2607.23923v1 Announce Type: new Abstract: We present several remarks on cardinal coefficients associated with the generalized Baire space for an inaccessible cardinal kappa. Our inquiry originates in the work of van der Vlugt arXiv:2307.14118 . We provide evidence that the appropriate coefficients to consider are those determined by binary relations restricted to a club. In other words, we make a case for the systematic use of clubs.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.23923",
-    "timestamp": "2026-07-28T04:00:00Z",
-    "topic": "Mathematics",
+    "title": "LOOM is a FREE HTML-based instrument for extreme time stretching",
+    "summary": "Remo De Vico has released LOOM, a free browser instrument for extreme time stretching, textures, pads, and drones. Time stretching is a lot of fun. I use it for cinematic sound design all the time, mainly for turning everyday sounds into otherworldly textures and ambient drones. LOOM makes that process even more fun by adding [...] View post: LOOM is a FREE HTML-based instrument for extreme time stretching",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/28/loom-time-stretching/",
+    "timestamp": "2026-07-28T18:26:25Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2607.23923"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-28T04:00:00Z",
-    "id": "energy-996a7b4acaef3e55"
-  },
-  {
-    "title": "Wigner negativity and stellar rank for SU(1,1) states",
-    "summary": "arXiv:2607.22810v1 Announce Type: cross Abstract: Quasiprobability distributions for systems endowed with SU(1,1) dynamical symmetry have received surprisingly little attention, despite the central role of this symmetry in two-photon physics, squeezed states, and nonlinear interferometry. Here, we fill this gap by constructing a full covariant family of $s$-ordered quasiprobability distributions defined on the two-sheeted hyperboloid, or equivalently, on the Poincar\\'e unit disk via stereographic projection. A key result is that the Wigner function is strictly positive for all Perelomov SU(1,1) coherent states, in sharp contrast to the SU(2) case. This positivity endows Wigner negativity with an unambiguous operational meaning: any negative volume is a direct signature of genuinely quantum behavior. We further examine the stellar rank of SU(1,1) states, defined through the zeros of the Husimi $Q$-function, and show how it compares with Wigner negativity as a geometry-adapted witness of nonclassicality in this setting. We further introduce a hierarchy of generalized multipoles through a harmonic expansion of the density operator on the hyperboloid, providing a complementary framewo…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.22810",
-    "timestamp": "2026-07-28T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.22810"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-28T04:00:00Z",
-    "id": "energy-3822a4f811a3426f"
-  },
-  {
-    "title": "Where to Perform Channel Measurements for CKM Construction: A Random Field Theory Analysis",
-    "summary": "arXiv:2607.24283v1 Announce Type: new Abstract: Channel knowledge map (CKM) is regarded as a promising technology for future sixth-generation (6G) networks, facilitating environmental-aware wireless communication, sensing, and localization. Research works on CKM construction can be classified as model-based methods and data-based approaches. Specifically, data-based CKM construction exploits the fundamental principle of spatial correlation to complete CKM based on limited measurement data, leading to the question of \"where to perform channel measurements\". In this paper, we study the spatial measurement strategy for efficient data-based CKM construction, and consider a specific type of CKM named channel gain map (CGM). The general objective is to select a subset of locations for channel measurements, so as to minimize the average mean-squared-error (AMSE) of the global CGM construction. In order to reduce the infinite measurement locations to a finite set, we discretize the underlying physical space into a finite number of cubic grid points, and formulate a combinatorial optimization problem to select measurement locations from them. In order to solve the proposed problem, we empl…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.24283",
-    "timestamp": "2026-07-28T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.24283"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-07-28T04:00:00Z",
-    "id": "energy-748b5e2bf6806e35"
-  },
-  {
-    "title": "Ex–Dragon Age Producer Calls EA A ‘Hedge Fund With A Video Game Hobby’",
-    "summary": "Hard to argue with that",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579",
-    "timestamp": "2026-07-27T23:00:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579"
+      "https://bedroomproducersblog.com/2026/07/28/loom-time-stretching/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-27T23:00:22Z",
-    "id": "energy-adf0d1dd4cd77655"
-  },
-  {
-    "title": "Marvel Boss Says We’re Only Getting Four Movies In Three Years To ‘Focus On Quality’ Over Quantity",
-    "summary": "In the words of Stan Lee, 'Nuff said!'",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/marvel-boss-says-were-only-getting-four-movies-in-three-years-to-focus-on-quality-over-quantity-2000719589",
-    "timestamp": "2026-07-27T21:57:24Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/marvel-boss-says-were-only-getting-four-movies-in-three-years-to-focus-on-quality-over-quantity-2000719589"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-27T21:57:24Z",
-    "id": "energy-2056fef5898739d5"
+    "data_as_of": "2026-07-28T18:26:25Z",
+    "id": "energy-2ea9a365ce7839ce"
   }
 ]
