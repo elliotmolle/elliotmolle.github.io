@@ -1,16 +1,16 @@
 [
   {
-    "title": "Wendelstein 7-X designing 2-MW gyrotrons to upgrade heating system",
-    "summary": "The Max Planck Institute for Plasma Physics (IPP) announced yesterday that it is developing 2-MW gyrotrons to be used as the main plasma heating system of the Wendelstein 7-X (W7-X). W7-X, located at IPP, is currently the largest superconducting stellarator facility in the world. The project conducts research aimed at filling key knowledge and technology gaps for developing a stellarator-based power plant.",
+    "title": "The Ratepayer Protection Pledge: Who’s signed on?",
+    "summary": "In March, seven tech companies and hyperscalers signed on to President Trump's Ratepayer Protection Pledge, a voluntary agreement stating that, in the pursuit of data center growth, signatories would not shift costs to electricity customers in the form of higher electricity bills.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-28/article-8251/wendelstein-7x-designing-2mw-gyrotrons-to-upgrade-heating-system/",
-    "timestamp": "2026-07-28T20:45:47Z",
+    "url": "https://www.ans.org/news/2026-07-29/article-8255/the-ratepayer-protection-pledge-whos-signed-on/",
+    "timestamp": "2026-07-29T21:09:27Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-28/article-8251/wendelstein-7x-designing-2mw-gyrotrons-to-upgrade-heating-system/"
+      "https://www.ans.org/news/2026-07-29/article-8255/the-ratepayer-protection-pledge-whos-signed-on/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-28T20:45:47Z",
-    "id": "energy-e3a6a67250c9b70e"
+    "data_as_of": "2026-07-29T21:09:27Z",
+    "id": "energy-f129ff1b082e8cb3"
   },
   {
-    "title": "Five states named Nuclear Lifecycle Innovation Campus finalists",
-    "summary": "Idaho, Louisiana, Oklahoma, Tennessee, and Utah are the finalists to potentially host Nuclear Lifecycle Innovation Campuses, the Department of Energy announced today. Energy Secretary Chris Wright has signed memorandums of understanding with the five states to continue exploring opportunities to host these campuses, envisioned as federal–state partnerships to support work across the nuclear fuel life cycle, with a primary focus on fuel fabrication, enrichment, spent fuel reprocessing or recycling, separations, and radioactive waste management.",
+    "title": "ANS to OMB: Grant rule would hinder nuclear research exchange",
+    "summary": "The American Nuclear Society submitted comments earlier this month to the Office of Management and Budget’s Office of Federal Financial Management, urging the OMB to reconsider a proposed rewrite of federal grant regulations that ANS said could restrict scientific publishing, conference participation, and long-term nuclear research.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-28/article-8252/five-states-named-nuclear-lifecycle-innovation-campus-finalists/",
-    "timestamp": "2026-07-28T17:46:58Z",
+    "url": "https://www.ans.org/news/2026-07-29/article-8254/ans-to-omb-grant-rule-would-hinder-nuclear-research-exchange/",
+    "timestamp": "2026-07-29T18:00:30Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-28/article-8252/five-states-named-nuclear-lifecycle-innovation-campus-finalists/"
+      "https://www.ans.org/news/2026-07-29/article-8254/ans-to-omb-grant-rule-would-hinder-nuclear-research-exchange/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-28T17:46:58Z",
-    "id": "energy-7e02797ec1922bb7"
+    "data_as_of": "2026-07-29T18:00:30Z",
+    "id": "energy-0a1c58b1f4e36d2e"
   },
   {
-    "title": "New frontiers",
-    "summary": "Craig Piercycpiercy@ans.org There may have been no more fitting place to gather for a conversation about the future of nuclear energy than Colorado. For the nuclear community, Colorado carries a special resonance. About an hour north of Denver stands Fort St. Vrain. Today, it is a garden-variety natural gas power plant. But there was a time it was an ambitious nuclear reactor—a high-temperature gas reactor with helium coolant and a uranium-thorium fuel cycle. It was ahead of its time in many ways and imperfect in execution, but unmistakably part of the long story of nuclear innovation in America. Colorado is a state shaped by frontiers. We, too, are standing at a frontier, which brings me to this year’s conference theme: “Net Out, Power Up.” We chose this theme to reflect the complementary challenges facing two parts of our community. “Net Out” reflects fusion’s challenge: proving you can get more energy out than you put in. “Power Up” reflects fission’s challenge: scaling advanced nuclear technologies quickly enough to meet rising demand.",
+    "title": "NN Asks: What have recent projects taught us about the move from analog to digital plant controls?",
+    "summary": "Thomas Burnelis Transitioning in nuclear from the U.S. Navy to the commercial industry was always a goal for me, but stepping directly into a fully digital control room was a paradigm shift. Moving from the tactile, analog world of my military background to the data-rich environment of modern advanced reactors was jarring. Digital systems offer an unprecedented wealth of information, but unlocking that potential requires a fundamental shift in how we approach testing, commissioning, and startup. p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 9.0px; line-height: 14.0px; font: 10.0px 'Le Monde Sans Std'} Commissioning analog plants meant physical verification, such as lifting leads, injecting signals, and manually tweaking potentiometers to calibrate gains and offsets. Digital instrumentation and control (I&C) completely redefines this landscape. Today, nearly all plant data are available at our fingertips, but this brings the challenge of filtering an immense amount of data and system alarms. Troubleshooting has largely migrated from the field and into software, following digital signals from operator inputs to field devices.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-28/article-8158/new-frontiers/",
-    "timestamp": "2026-07-28T16:29:46Z",
+    "url": "https://www.ans.org/news/2026-07-29/article-8166/what-have-recent-projects-taught-us-about-the-move-from-analog-to-digital-plant-controls/",
+    "timestamp": "2026-07-29T14:20:06Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-07-28/article-8158/new-frontiers/"
+      "https://www.ans.org/news/2026-07-29/article-8166/what-have-recent-projects-taught-us-about-the-move-from-analog-to-digital-plant-controls/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,8 +62,32 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-07-28T16:29:46Z",
-    "id": "energy-58360acb4aadc8d8"
+    "data_as_of": "2026-07-29T14:20:06Z",
+    "id": "energy-7de5dd8b1a91106e"
+  },
+  {
+    "title": "Entergy reports second quarter 2026 financial results",
+    "summary": "Entergy Corporation reported second quarter 2026 earnings per share of $1.03 on an as-reported and an adjusted (non-GAAP) basis.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-reports-second-quarter-2026-financial-results",
+    "timestamp": "2026-07-29T10:31:55Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-reports-second-quarter-2026-financial-results"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-29T10:31:55Z",
+    "id": "energy-b4f2dc2a7853df28"
   },
   {
     "title": "Entergy Louisiana and Entergy New Orleans helps customers stay cool and save money",
@@ -178,30 +202,6 @@
     ],
     "data_as_of": "2026-07-27T16:41:05Z",
     "id": "energy-9fb78c9cb9d6fde8"
-  },
-  {
-    "title": "Entergy Texas provides $500,000 in summer bill relief to help vulnerable customers",
-    "summary": "For many of our neighbors, summer doesn’t just bring higher temperatures, it brings higher electricity use. Extreme heat often means running air‑conditioning longer and harder, which can lead to higher energy bills.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-texas-provides-500000-in-summer-bill-relief-to-help-vulnerable-customers",
-    "timestamp": "2026-07-27T16:33:13Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-texas-provides-500000-in-summer-bill-relief-to-help-vulnerable-customers"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-27T16:33:13Z",
-    "id": "energy-4462a1a3d5942568"
   },
   {
     "title": "Video outlines metering, telemetry for distributed energy resource aggregations",
