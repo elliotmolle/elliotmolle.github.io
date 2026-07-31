@@ -1,220 +1,16 @@
 [
   {
-    "title": "The Ratepayer Protection Pledge: Who’s signed on?",
-    "summary": "In March, seven tech companies and hyperscalers signed on to President Trump's Ratepayer Protection Pledge, a voluntary agreement stating that, in the pursuit of data center growth, signatories would not shift costs to electricity customers in the form of higher electricity bills.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-29/article-8255/the-ratepayer-protection-pledge-whos-signed-on/",
-    "timestamp": "2026-07-29T21:09:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-29/article-8255/the-ratepayer-protection-pledge-whos-signed-on/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-29T21:09:27Z",
-    "id": "energy-f129ff1b082e8cb3"
-  },
-  {
-    "title": "ANS to OMB: Grant rule would hinder nuclear research exchange",
-    "summary": "The American Nuclear Society submitted comments earlier this month to the Office of Management and Budget’s Office of Federal Financial Management, urging the OMB to reconsider a proposed rewrite of federal grant regulations that ANS said could restrict scientific publishing, conference participation, and long-term nuclear research.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-29/article-8254/ans-to-omb-grant-rule-would-hinder-nuclear-research-exchange/",
-    "timestamp": "2026-07-29T18:00:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-29/article-8254/ans-to-omb-grant-rule-would-hinder-nuclear-research-exchange/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-29T18:00:30Z",
-    "id": "energy-0a1c58b1f4e36d2e"
-  },
-  {
-    "title": "NN Asks: What have recent projects taught us about the move from analog to digital plant controls?",
-    "summary": "Thomas Burnelis Transitioning in nuclear from the U.S. Navy to the commercial industry was always a goal for me, but stepping directly into a fully digital control room was a paradigm shift. Moving from the tactile, analog world of my military background to the data-rich environment of modern advanced reactors was jarring. Digital systems offer an unprecedented wealth of information, but unlocking that potential requires a fundamental shift in how we approach testing, commissioning, and startup. p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 9.0px; line-height: 14.0px; font: 10.0px 'Le Monde Sans Std'} Commissioning analog plants meant physical verification, such as lifting leads, injecting signals, and manually tweaking potentiometers to calibrate gains and offsets. Digital instrumentation and control (I&C) completely redefines this landscape. Today, nearly all plant data are available at our fingertips, but this brings the challenge of filtering an immense amount of data and system alarms. Troubleshooting has largely migrated from the field and into software, following digital signals from operator inputs to field devices.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-29/article-8166/what-have-recent-projects-taught-us-about-the-move-from-analog-to-digital-plant-controls/",
-    "timestamp": "2026-07-29T14:20:06Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-29/article-8166/what-have-recent-projects-taught-us-about-the-move-from-analog-to-digital-plant-controls/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-29T14:20:06Z",
-    "id": "energy-7de5dd8b1a91106e"
-  },
-  {
-    "title": "Entergy reports second quarter 2026 financial results",
-    "summary": "Entergy Corporation reported second quarter 2026 earnings per share of $1.03 on an as-reported and an adjusted (non-GAAP) basis.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-reports-second-quarter-2026-financial-results",
-    "timestamp": "2026-07-29T10:31:55Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-reports-second-quarter-2026-financial-results"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-29T10:31:55Z",
-    "id": "energy-b4f2dc2a7853df28"
-  },
-  {
-    "title": "Entergy Louisiana and Entergy New Orleans helps customers stay cool and save money",
-    "summary": "Staying cool and comfortable does not have to come at the cost of high energy bills. By making a few simple changes around your home, you can improve its energy efficiency and beat the heat while keeping costs down.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-louisiana-and-entergy-new-orleans-helps-customers-stay-cool-and-save-money",
-    "timestamp": "2026-07-28T15:52:54Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-louisiana-and-entergy-new-orleans-helps-customers-stay-cool-and-save-money"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-28T15:52:54Z",
-    "id": "energy-f312cb3eda43e541"
-  },
-  {
-    "title": "CIFP Reliability Backstop Procurement – PJM Board Decision",
-    "summary": "Updated Date: 07.27.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-reliability-backstop-procurement-pjm-board-decision.pdf",
-    "timestamp": "2026-07-27T19:43:32Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-reliability-backstop-procurement-pjm-board-decision.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-07-27T19:43:32Z",
-    "id": "energy-b70129d531fd66ef"
-  },
-  {
-    "title": "CIFP Framework for Service During Periods of Insufficient Resource Adequacy – Executive Summary",
-    "summary": "Updated Date: 07.27.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-framework-for-service-during-periods-of-insufficient-resource-adequacy-executive-summary.pdf",
-    "timestamp": "2026-07-27T19:43:31Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-framework-for-service-during-periods-of-insufficient-resource-adequacy-executive-summary.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-07-27T19:43:31Z",
-    "id": "energy-d612a2fe0f55738d"
-  },
-  {
-    "title": "Board Decisional Letter on Critical Issue Fast Path – Reliability Backstop Procurement and Connect and Manage",
-    "summary": "Updated Date: 07.27.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-board-decisional-letter-on-cifp-reliability-backstop-procurement-and-connect-and-manage.pdf",
-    "timestamp": "2026-07-27T19:43:27Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-board-decisional-letter-on-cifp-reliability-backstop-procurement-and-connect-and-manage.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-07-27T19:43:27Z",
-    "id": "energy-997e2167233a4e8d"
-  },
-  {
-    "title": "Entergy Texas ofrece $500.000 en apoyo para facturas de verano a fin de ayudar a clientes vulnerables",
-    "summary": "Los fondos adicionales del programa The Power to Care ayudarán a que adultos mayores y clientes con discapacidades elegibles puedan manejar los costos de energía durante el verano",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-texas-ofrece-500-000-en-apoyo-para-facturas-de-verano-a-fin-de-ayudar-a-clientes-vulnerables",
-    "timestamp": "2026-07-27T16:41:05Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-texas-ofrece-500-000-en-apoyo-para-facturas-de-verano-a-fin-de-ayudar-a-clientes-vulnerables"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-27T16:41:05Z",
-    "id": "energy-9fb78c9cb9d6fde8"
-  },
-  {
-    "title": "Video outlines metering, telemetry for distributed energy resource aggregations",
-    "summary": "The training resource relates to FERC Order No. 2222. The post Video outlines metering, telemetry for distributed energy resource aggregations appeared first on ISO Newswire.",
+    "title": "ISO-NE selects preliminary preferred solution for longer-term transmission effort",
+    "summary": "The proposal would upgrade the transmission system between northern Maine and more populous regions of southern New England. The post ISO-NE selects preliminary preferred solution for longer-term transmission effort appeared first on ISO Newswire.",
     "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/07/27/video-outlines-metering-telemetry-for-distributed-energy-resource-aggregations/",
-    "timestamp": "2026-07-27T13:00:14Z",
+    "url": "https://isonewswire.com/2026/07/31/iso-ne-selects-preliminary-preferred-solution-for-longer-term-transmission-effort/",
+    "timestamp": "2026-07-31T11:33:57Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://isonewswire.com/2026/07/27/video-outlines-metering-telemetry-for-distributed-energy-resource-aggregations/"
+      "https://isonewswire.com/2026/07/31/iso-ne-selects-preliminary-preferred-solution-for-longer-term-transmission-effort/"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -222,7 +18,167 @@
       "ISO New England",
       "ISO-NE"
     ],
-    "data_as_of": "2026-07-27T13:00:14Z",
-    "id": "energy-b83bc1e47675842d"
+    "data_as_of": "2026-07-31T11:33:57Z",
+    "id": "energy-caa8866bc6e647fb"
+  },
+  {
+    "title": "Fire in glovebox at LANL plutonium facility sparks safety discussion",
+    "summary": "According to a Defense Nuclear Facilities Safety Board (DNFSB) report, a fire occurred in a glovebox in the plutonium facility at Los Alamos National Laboratory on June 15. A test involving nonnuclear material was underway in the furnace inside the glovebox at the time of the incident.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-30/article-8259/fire-in-glovebox-at-lanl-plutonium-facility-sparks-safety-discussion/",
+    "timestamp": "2026-07-30T21:03:53Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-30/article-8259/fire-in-glovebox-at-lanl-plutonium-facility-sparks-safety-discussion/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-30T21:03:53Z",
+    "id": "energy-eacf5ccb2df9d345"
+  },
+  {
+    "title": "NRC, FEMA talk emergency preparedness for Crane restart",
+    "summary": "The Nuclear Regulatory Commission held its latest public meeting in central Pennsylvania on Tuesday to provide an update the progress being made to restart the Crane nuclear power plant (formerly Three Mile Island-1) as early as 2027. The meeting focused on emergency preparedness, with officials from both the NRC and the Federal Emergency Management Agency sharing how the agencies plan their on-site and off-site responses to potential emergencies.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-30/article-8258/nrc-fema-talk-emergency-preparedness-for-crane-restart/",
+    "timestamp": "2026-07-30T18:54:06Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-30/article-8258/nrc-fema-talk-emergency-preparedness-for-crane-restart/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-30T18:54:06Z",
+    "id": "energy-c3a88cc636347109"
+  },
+  {
+    "title": "Entergy New Orleans celebrates Loyola University’s energy efficiency success through Energy Smart",
+    "summary": "Entergy New Orleans is committed to helping customers reduce energy costs and to investing in a more sustainable future for New Orleans. Through our Energy Smart program, we recently recognized Loyola University New Orleans for completing a series of energy efficiency improvements that reduced campus electricity consumption by approximately 22% and generated an estimated $700,000 in annual electricity cost savings.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-celebrates-loyola-universitys-energy-efficiency-success-through-energy-smart",
+    "timestamp": "2026-07-30T16:17:34Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-new-orleans-celebrates-loyola-universitys-energy-efficiency-success-through-energy-smart"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-30T16:17:34Z",
+    "id": "energy-08865d56b2f67064"
+  },
+  {
+    "title": "Powering Possibility: Investing in the Next Generation at Trades 4 Life",
+    "summary": "The recent Trades 4 Life event brought together industry professionals, educators, and community leaders with one shared goal: helping students see what’s possible for their future.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/powering-possibility-investing-in-the-next-generation-at-trades-4-life",
+    "timestamp": "2026-07-30T15:51:51Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/powering-possibility-investing-in-the-next-generation-at-trades-4-life"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-30T15:51:51Z",
+    "id": "energy-1c957ff3ddef9d84"
+  },
+  {
+    "title": "Coming up soon: Global 2026",
+    "summary": "Global is a series of international conferences covering aspects of nuclear technology including the full nuclear fuel cycle and reactor systems. This year, Global 2026—which is sponsored by the American Nuclear Society’s Fuel Cycle & Waste Management Division—is taking place August 16–20 in Chicago, Ill.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-30/article-8257/coming-up-soon-global-2026/",
+    "timestamp": "2026-07-30T15:44:43Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-30/article-8257/coming-up-soon-global-2026/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-30T15:44:43Z",
+    "id": "energy-5a1c2d6e5ab2ecd0"
+  },
+  {
+    "title": "Entergy Texas ayuda a los clientes a mantenerse frescos y ahorrar dinero con herramientas y recursos para administrar sus facturas",
+    "summary": "Los recursos pueden ayudar a los clientes a monitorear su consumo de energía, administrar sus facturas y encontrar asistencia financiera",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/bill-toolkit-en-espanol",
+    "timestamp": "2026-07-30T15:17:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/bill-toolkit-en-espanol"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-30T15:17:57Z",
+    "id": "energy-264f7576152fd0cc"
+  },
+  {
+    "title": "ISO Minute: Celebrating National Intern Day",
+    "summary": "At ISO New England, summer interns spend 11 weeks working alongside industry experts on meaningful projects. The post ISO Minute: Celebrating National Intern Day appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/07/30/iso-minute-celebrating-national-intern-day-2/",
+    "timestamp": "2026-07-30T13:00:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/07/30/iso-minute-celebrating-national-intern-day-2/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-07-30T13:00:00Z",
+    "id": "energy-36620d8ebe8d5a38"
   }
 ]

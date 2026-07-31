@@ -1,336 +1,417 @@
 [
   {
-    "title": "RAM Manufacturer Gets Pummeled By Stock Market For Only Making $55 Billion",
-    "summary": "SK Hynix was forced to justify why it only made $10 billion more than the GDP of the entire country of Iceland in its Q2 2026 earnings report",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432",
-    "timestamp": "2026-07-30T11:13:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/ram-manufacturer-gets-pummeled-by-stock-market-for-only-making-55-billion-2000720432"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-30T11:13:16Z",
-    "id": "energy-287912dfcede9ec1"
-  },
-  {
-    "title": "Flame Sound Analogue Drums ($39 value) is FREE for BPB readers until Sunday",
-    "summary": "Flame Sound is offering Analogue Drums, a $39 collection of analog drum machine samples, as a free download for BPB readers until Sunday, August 2nd (23:59 CEST). Yesterday, I released VATRA, the first Flame Sound plugin, and it’s been a huge deal for me after almost two years of development. To celebrate VATRA finally being [...] View post: Flame Sound Analogue Drums ($39 value) is FREE for BPB readers until Sunday",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/30/flame-sound-analogue-drums-free/",
-    "timestamp": "2026-07-30T10:53:19Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/30/flame-sound-analogue-drums-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-30T10:53:19Z",
-    "id": "energy-ac31eaaa30ae7dcd"
-  },
-  {
-    "title": "LØ releases Fragile Violins Free, a FREE Decent Sampler violin library",
-    "summary": "LØ has released Fragile Violins Free, a free violin sample library for Decent Sampler. This one was released in June, but I somehow missed it, so a big thank you to BPB reader Eat More Candy for sharing it with our community. I would have missed it otherwise, and that would have been a shame [...] View post: LØ releases Fragile Violins Free, a FREE Decent Sampler violin library",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/30/fragile-violins-free/",
-    "timestamp": "2026-07-30T10:51:40Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/30/fragile-violins-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-30T10:51:40Z",
-    "id": "energy-cbfe0f4e2fbf99ee"
-  },
-  {
-    "title": "Xbox chief wants to 'invest in what players value' after significant 2026 revenue drop",
-    "summary": "Gaming and console revenue dropped significantly for Xbox in 2026, so the company must change its ways if it wants to come out on top.",
+    "title": "Feebas and Milotic join Pokémon Pokopia in new limited-time event",
+    "summary": "The Fetch Scales for Feebas event adds Feebas and Milotic to Pokémon Pokopia alongside a new beachside furniture set",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/xbox-2026-revenue-drop-invest-what-players-value/",
-    "timestamp": "2026-07-30T10:37:02Z",
+    "url": "https://www.polygon.com/pokemon-pokopia-feebas-summer-event/",
+    "timestamp": "2026-07-31T11:54:29Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/xbox-2026-revenue-drop-invest-what-players-value/"
+      "https://www.polygon.com/pokemon-pokopia-feebas-summer-event/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-30T10:37:02Z",
-    "id": "energy-905b9bbb36f3b9ca"
+    "data_as_of": "2026-07-31T11:54:29Z",
+    "id": "energy-b35193571b47d7e0"
   },
   {
-    "title": "Gpiozero Flow",
+    "title": "Even Stellar Blade Fans Hate The Sequel’s Official GenAI Music Video",
+    "summary": "Some of the most loyal fans around couldn't stomach Shift Up's latest marketing beat",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725",
+    "timestamp": "2026-07-31T11:40:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T11:40:12Z",
+    "id": "energy-af67e25fc4ffbcb6"
+  },
+  {
+    "title": "PS5 officially has 5 must-play new games releasing in August 2026",
+    "summary": "From a new Marvel fighting game to a Star Wars tactics game, August 2026 is packed with exciting new PlayStation 5 games.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/new-ps5-games-august-2026/",
+    "timestamp": "2026-07-31T11:01:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/new-ps5-games-august-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T11:01:11Z",
+    "id": "energy-df2a708aa3bdb4f1"
+  },
+  {
+    "title": "I reviewed 2,000 plugins. Making my own took 2 years.",
+    "summary": "I’ve been reviewing audio plugins on Bedroom Producers Blog for more than 15 years. I don’t have an exact number, but I’ve probably tested more than 2,000 plugins in that time. Maybe close to 2,500, depending on how strictly we count the ones I installed, disliked, and uninstalled right away. During all that plugin testing, [...] View post: I reviewed 2,000 plugins. Making my own took 2 years.",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/31/making-vatra/",
+    "timestamp": "2026-07-31T10:59:52Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/31/making-vatra/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T10:59:52Z",
+    "id": "energy-a820895eaf8d356c"
+  },
+  {
+    "title": "Silicon anodes for batteries unlock greater energy density and faster charging times",
+    "summary": "A conversation with Rick Costantino of Group14.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/silicon-anodes-for-batteries-unlock",
+    "timestamp": "2026-07-31T10:20:09Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/silicon-anodes-for-batteries-unlock"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T10:20:09Z",
+    "id": "energy-8a6a4b2cae1ae2dd"
+  },
+  {
+    "title": "Horror master James Wan's greatest movie franchise officially returns in 3 weeks",
+    "summary": "The latest installment of the Insidious horror franchise from James Wan and Leigh Whannell is only a short time away.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/insidious-out-of-the-further-release-date/",
+    "timestamp": "2026-07-31T10:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/insidious-out-of-the-further-release-date/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T10:00:12Z",
+    "id": "energy-4ada9bc586edb51b"
+  },
+  {
+    "title": "Square Enix Says Kingdom Hearts Art Accused Of Using GenAI Was Just Regular Human Error",
+    "summary": "Someone forgot how many fingers Donald has",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610",
+    "timestamp": "2026-07-31T09:00:49Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T09:00:49Z",
+    "id": "energy-568f77f23b9f14d7"
+  },
+  {
+    "title": "Sony Not Budging On Ending PlayStation Discs In The Face Of Fan Protests: ‘We’re Going To Cautiously Move This Forward’",
+    "summary": "The PS5 maker said it already put a lot of thought into the decision",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708",
+    "timestamp": "2026-07-31T08:12:24Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T08:12:24Z",
+    "id": "energy-96c7189be09d7d0d"
+  },
+  {
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-    "timestamp": "2026-07-30T10:32:41Z",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "timestamp": "2026-07-31T07:59:11Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bennuttall.com/blog/2026/07/gpiozero-flow/"
+      "https://artificialanalysis.ai/models/deepseek-v4-flash-ga"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-30T10:32:41Z",
-    "id": "energy-cd529972a86d4775"
+    "data_as_of": "2026-07-31T07:59:11Z",
+    "id": "energy-f8900a067e52f556"
   },
   {
-    "title": "Google will expand age checks on Android worldwide till the end of the year",
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-    "timestamp": "2026-07-30T10:13:46Z",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "timestamp": "2026-07-31T07:29:22Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html"
+      "https://blog.google/security/chrome-stronger-with-every-update/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-30T10:13:46Z",
-    "id": "energy-954864189a59174a"
+    "data_as_of": "2026-07-31T07:29:22Z",
+    "id": "energy-5e0df263f5d63850"
   },
   {
-    "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+    "title": "DeepSeek-V4-Flash Update",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/YoanWai/agent-manager",
-    "timestamp": "2026-07-30T09:34:27Z",
+    "url": "https://api-docs.deepseek.com/updates/",
+    "timestamp": "2026-07-31T06:08:36Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/YoanWai/agent-manager"
+      "https://api-docs.deepseek.com/updates/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-30T09:34:27Z",
-    "id": "energy-bfdbbe30ebd618c5"
+    "data_as_of": "2026-07-31T06:08:36Z",
+    "id": "energy-3e8d0d48af7f98fb"
   },
   {
-    "title": "Worlds prediction",
-    "summary": "We'ce seen the team that wins the 2nd major comes second in worlds with G2 in 2024 and Falcons in 2025. You guys think it'll happen with KC where they finally break past Top 4 in worlds but maybe pressure and finally being able to win will get to them? submitted by /u/ibro2X09 [link] [comments]",
+    "title": "Where do you think the majors and the WC will be located next year (assuming the format stays the same)",
+    "summary": "I think that major 1 will be in Madrid, Spain Major 2 will be in Los Angeles, USA and the World Championship will be in Berlin, Germany. I don’t know if they will keep the kick-off LAN in Copenhagen because it’s the BLAST headquarters but I think they will continue to give Europe and NA one major each and then alternate the world championship. What locations do you think are going to host an RLCS LAN next year? submitted by /u/Legitimate-Sign-371 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vaispm/worlds_prediction/",
-    "timestamp": "2026-07-30T04:03:06Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbgz1a/where_do_you_think_the_majors_and_the_wc_will_be/",
+    "timestamp": "2026-07-31T04:53:50Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vaispm/worlds_prediction/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbgz1a/where_do_you_think_the_majors_and_the_wc_will_be/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-30T04:03:06Z",
-    "id": "energy-0182c0fcc0b028e6"
+    "data_as_of": "2026-07-31T04:53:50Z",
+    "id": "energy-aaeb052a7a92dae6"
   },
   {
-    "title": "When Kernel Ridge Regression Meets the H\\\"older-Zygmund Class: Minimax Optimality and Failure of Properness",
-    "summary": "arXiv:2607.26065v1 Announce Type: cross Abstract: We study kernel ridge regression for nonparametric regression over the H\\\"older-Zygmund class. Using an RKHS equivalent to a Sobolev space of smoothness s+d/2, we prove that misspecified KRR attains the minimax L2 rate n^{-2s/(2s+d)}. We also show that properness fails in the H\\\"older-Zygmund norm: even for the zero regression function with Gaussian noise, the expected squared H\\\"older-Zygmund norm of the KRR noise component grows as log n.",
+    "title": "Windowed thinning and query complexity for the bouncy particle and Zigzag samplers",
+    "summary": "arXiv:2607.28413v1 Announce Type: new Abstract: Let $\\mu(d x)\\propto e^{-U(x)} d x$ on $\\R^d$, where $U$ is $m$-strongly convex and $L$-smooth, and denote by $\\kappa=L/m$ the condition number. We consider windowed thinning, an exact simulation method for the bouncy particle sampler and the coordinate Zigzag process. The method divides a trajectory into deterministic windows and uses a gradient evaluation at the beginning of each window to construct a tractable local envelope for the event rate. Combining this construction with quantitative mixing estimates and finite-time bounds on the expected numbers of bounces and flips yields query complexity guarantees from a Gaussian cold start. For total-variation error $\\varepsilon$, the expected query counts are $O(\\kappa^{1/2}d\\,(d\\log\\kappa+\\log\\frac1\\varepsilon))$ gradient queries for the bouncy particle sampler and $O(\\kappa d^{1/4}(d\\log\\kappa+\\log\\frac1\\varepsilon))$ full-gradient equivalents for Zigzag, where $d$ coordinate-partial queries count as one equivalent.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.26065",
-    "timestamp": "2026-07-30T04:00:00Z",
+    "url": "https://arxiv.org/abs/2607.28413",
+    "timestamp": "2026-07-31T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2607.26065"
+      "https://arxiv.org/abs/2607.28413"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-07-30T04:00:00Z",
-    "id": "energy-434dec793ba9f88f"
+    "data_as_of": "2026-07-31T04:00:00Z",
+    "id": "energy-db5bf71e7f679d59"
   },
   {
-    "title": "When a positive SIMP density floor is not enough: solver admissibility and guarded floor selection in matrix-free 3D topology optimization",
-    "summary": "arXiv:2607.26382v1 Announce Type: cross Abstract: In a matrix-free geometric-multigrid FGMRES solver for three-dimensional SIMP topology optimization, a reported converged solve is not always a converged solve. On four of 102 held-out states, the projected residual used for stopping falls below $10^{-6}$ while a recomputed true residual is 1.35 to 49.5 times the tolerance; in an unguarded optimization trajectory, 22 of 40 state solves reach the iteration cap without raising an error. We formulate floor selection as a verified control problem: probe the frozen state at the original floor, use two residual features to choose the first attempted floor, and accept no solution until $||f-Ku||/||f||\\le10^{-6}$ is recomputed. The two-feature rule matches 98 of 102 reference classifications; the residual guard detects the four missed escalations, and all 102 selected solves satisfy the tolerance. Relative to always using a $10^{-3}$ floor, the policy preserves the original operator on 24 admissible states and avoids mean compliance and gradient changes of 31.0% and 0.340 on those severe random states, and 0.48% and 0.008 on seven optimized designs, at 2.5 times the mean wall time. In a 12…",
+    "title": "Wigner negativity and stellar rank for SU(1,1) states",
+    "summary": "arXiv:2607.22810v2 Announce Type: replace-cross Abstract: Quasiprobability distributions for systems endowed with SU(1,1) dynamical symmetry have received surprisingly little attention, despite the central role of this symmetry in two-photon physics, squeezed states, and nonlinear interferometry. Here, we fill this gap by constructing a full covariant family of $s$-ordered quasiprobability distributions defined on the two-sheeted hyperboloid, or equivalently, on the Poincar\\'e unit disk via stereographic projection. A key result is that the Wigner function is strictly positive for all Perelomov SU(1,1) coherent states, in sharp contrast to the SU(2) case. This positivity endows Wigner negativity with an unambiguous operational meaning: any negative volume is a direct signature of genuinely quantum behavior. We further examine the stellar rank of SU(1,1) states, defined through the zeros of the Husimi $Q$-function, and show how it compares with Wigner negativity as a geometry-adapted witness of nonclassicality in this setting. We further introduce a hierarchy of generalized multipoles through a harmonic expansion of the density operator on the hyperboloid, providing a complementary…",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.26382",
-    "timestamp": "2026-07-30T04:00:00Z",
+    "url": "https://arxiv.org/abs/2607.22810",
+    "timestamp": "2026-07-31T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2607.26382"
+      "https://arxiv.org/abs/2607.22810"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-07-30T04:00:00Z",
-    "id": "energy-228aebaed3b76f29"
+    "data_as_of": "2026-07-31T04:00:00Z",
+    "id": "energy-3822a4f811a3426f"
   },
   {
-    "title": "Weyl modules for equivariant map Lie superalgebras",
-    "summary": "arXiv:2511.01631v2 Announce Type: replace Abstract: Equivariant map superalgebras are Lie superalgebras of algebraic maps from a scheme to a target finite dimensional Lie superalgebra that are equivariant with respect to the action of a (cyclic) group. In this paper, we extend the notion of Weyl modules, previously defined for the untwisted case, to the case of equivariant(twisted) map superalgebras. Consider $\\mathbb{K}$ be an algebraically closed field of characteristic $0$. We define global Weyl modules, and Weyl functors for equivariant map Lie superalgebras $(\\g\\otimes A)^{\\Gamma}$, where $\\g$ is a basic classical Lie $\\mathbb{K}$-superalgebra and $A$ is an associative commutative unital $\\mathbb{K}$-algebra. Under certain assumption on the triangular decomposition of $\\g$, we prove that global Weyl modules are universal objects in certain category. We introduce a commutative algebra $\\mathbf{A}_{\\lambda}^{\\Gamma}$ and further prove that global Weyl modules are finitely generated $\\mathbf{A}_{\\lambda}^{\\Gamma}$-modules when $A$ is finitely generated. Finally we define the local Weyl modules for $(\\g\\otimes A)^{\\Gamma}$, where $\\g$ is basic classical, using Weyl functors. We s…",
+    "title": "When does a derivation of a ring admit the exponential?",
+    "summary": "arXiv:2607.27279v1 Announce Type: new Abstract: Exponentials of (real/complex) vector fields are classically defined via the vector field integration. Take a k-algebra k[x] \\subset R\\subset k[[x]], where k\\supseteq \\Q is a local domain. Suppose a derivation \\xi is x-adically nilpotent. Define the exp-operator via the Taylor expansion, e^\\xi:=\\sum \\frac{\\xi^j}{j!}. It is a formal automorphism, e^\\xi\\in Aut_k(k[[x]]). When does e^\\xi act on R? When does the formal power series e^\\xi x\\in k[[x]] belong to R? We address this question for the following rings. i. The algebraic power series, R=k\\bl x\\br, differentially finite (holonomic) power series, D(k[x]), and their higher versions, Picard-Vessiot extensions D^\\bullet(k[x]), Picard-Vessiot closure D^\\infty(k[x]), and differentially-algebraic power series D^{alg}(k[x]). ii. Power series over normed fields. In particular, power series with coefficients of controlled growth, e.g. analytic/Denjoy-Carleman/Gevrey classes. iii. Germs of smooth functions C^\\infty(\\R^n,o)/J, for arbitrary ideal J\\subset C^\\infty(\\R^n,o). In case i. the operator e^\\xi is transcendental, and the power series e^\\xi x is ``usually\" far from being algebraic. We g…",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2511.01631",
-    "timestamp": "2026-07-30T04:00:00Z",
+    "url": "https://arxiv.org/abs/2607.27279",
+    "timestamp": "2026-07-31T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2511.01631"
+      "https://arxiv.org/abs/2607.27279"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-07-30T04:00:00Z",
-    "id": "energy-e9472ff64a22e0cf"
+    "data_as_of": "2026-07-31T04:00:00Z",
+    "id": "energy-0eaa49aecb09db1a"
   },
   {
-    "title": "Pros should be responsibilised over their setup.",
-    "summary": "I've held this opinion since I started watching RLesports like a decade ago. But its never been that relevant for me to voice it. But I just hate how often the game is stopped to fix technical issues. Its the responsibility of an athlete, or in this case a pro gamer to make sure their equipment is sorted. Their equipment and their setup. If something breaks while gaming, you better fix it before the other team scores. Because as it stands, there is a very disgusting, but nonethless real incentive for a player to feign a malfunction during a 2v1 attack or something similar. Thankfully I dont think that has actually ever happened. And if someone kept doing it, they'd be caught and it would be a major scandal. But the potential is there nonetheless. It doesnt really compare to rocket league, but I run a simracing league, where the equipment is a lot more complex than just a controller, and when something happens it would be daft to affect the entire game for everyone else. Granted, Rocket League is a team sport, but all the more reason for pros to have their setup sorted out, so they don't affect their team. I'm all for allowing teams to request breaks in between goals or between the…",
+    "title": "Triple Pop next up?!",
+    "summary": "After seeing their performance in LCQ this team reminds me a lot of SSG in that they are younger upcoming players. All of the players impressed me and their only losses in playoffs were to the grand finalists in competitive series. They also beat Volare earlier in the tourney 3-1. I know teams get together for LCQ kinda late but I would like to see these boys stick for EWC LCQ and I really feel like they were the better team vs Volare for most of the b07. I feel like we could be seeing these players on the main stream often next season. submitted by /u/Jason_Voorhee [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vagmzs/pros_should_be_responsibilised_over_their_setup/",
-    "timestamp": "2026-07-30T02:21:08Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbfs0u/triple_pop_next_up/",
+    "timestamp": "2026-07-31T03:54:51Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vagmzs/pros_should_be_responsibilised_over_their_setup/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbfs0u/triple_pop_next_up/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-30T02:21:08Z",
-    "id": "energy-20b1b8b2643a853b"
+    "data_as_of": "2026-07-31T03:54:51Z",
+    "id": "energy-21862f1ec1e587b1"
   },
   {
-    "title": "Any input on what seats are good for worlds?",
-    "summary": "I’ve decided to go to my first rlcs lan! I’ve always wanted to go to one but they’re never in or near philly. By coincidence, i have another event to go to in dallas the weekend after worlds so im flying out a week early to attend. Since Ive never been to dickies or any esports competition in general i was wondering of anyone had any advice on seats. I know its esports so you mostly just look at the screen, but id still like to have a decent view of the walkouts and interviews. Any input would be appreciated! submitted by /u/Unlucky-Frosting-294 [link] [comments]",
+    "title": "If you support more than 1 team in the same region, why?",
+    "summary": "I’m not talking about teams you fuck with, more like more than 1 team that you’d fully root for. submitted by /u/Aromatic_Excitement3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vag9yy/any_input_on_what_seats_are_good_for_worlds/",
-    "timestamp": "2026-07-30T02:04:59Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vb5gnk/if_you_support_more_than_1_team_in_the_same/",
+    "timestamp": "2026-07-30T20:35:48Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vag9yy/any_input_on_what_seats_are_good_for_worlds/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vb5gnk/if_you_support_more_than_1_team_in_the_same/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-07-30T02:04:59Z",
-    "id": "energy-7a77489c2988e7e4"
+    "data_as_of": "2026-07-30T20:35:48Z",
+    "id": "energy-5d18ee2d191cd245"
   },
   {
-    "title": "Studio Ghibli's worst movie returns to theaters for its 20th anniversary next month",
-    "summary": "Tales of Earthsea might not be Ghibli's most prized feature films, but it's still an ambitious project helmed by the son of Hayao Miyazaki.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/studio-ghibli-tales-from-earthsea-returns-to-theaters/",
-    "timestamp": "2026-07-30T01:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/studio-ghibli-tales-from-earthsea-returns-to-theaters/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-30T01:00:12Z",
-    "id": "energy-d4313dc33dd6c232"
-  },
-  {
-    "title": "Stylish action RPG Stupid Never Dies gets release date, new trailer",
-    "summary": "Former Capcom developer Hiroyuki Kobayashi's studio GPTRACK50 announces release date for wildly stylish action-RPG Stupid Never Dies.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/stupid-never-dies-game-release-date-hiroyuki-kobayashi/",
-    "timestamp": "2026-07-30T00:30:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/stupid-never-dies-game-release-date-hiroyuki-kobayashi/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-30T00:30:12Z",
-    "id": "energy-bcbdfb55e84b2e59"
-  },
-  {
-    "title": "Here’s How Microsoft’s CEO Spoke About Xbox A Year Ago Vs. Now",
-    "summary": "He did not specify what that means",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/microsoft-ceo-says-xbox-will-return-to-growth-this-fiscal-year-2000720333",
-    "timestamp": "2026-07-29T22:47:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/microsoft-ceo-says-xbox-will-return-to-growth-this-fiscal-year-2000720333"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-29T22:47:22Z",
-    "id": "energy-6bb943eb4caab5ab"
-  },
-  {
-    "title": "Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon",
-    "summary": "Trust me, bro, I can feel something in the air, okay?",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315",
-    "timestamp": "2026-07-29T21:30:06Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-29T21:30:06Z",
-    "id": "energy-d1f1dcdc9663c67c"
-  },
-  {
-    "title": "ArnieWaves releases AudioTeleporter, a FREE DAW audio streaming plugin",
-    "summary": "ArnieWaves has released AudioTeleporter, a DAW plugin for streaming your mix to a remote listener through a browser link. We have covered a few remote collaboration and monitoring tools before, including Ginger Audio Authentic Audio and Audiomovers Omnibus. AudioTeleporter is in a similar world, but the big draw here is the free tier and the [...] View post: ArnieWaves releases AudioTeleporter, a FREE DAW audio streaming plugin",
+    "title": "Manu Riga releases Drift Ritual, a FREE cinematic synth for macOS and Windows",
+    "summary": "Drift Ritual is a new synth plugin from Manu Riga, and you can download it for free now. The plugin is available in AU and VST formats for macOS and Windows. The developer calls this plugin an organic drift synthesizer, and that about sums up the core character of Drift Ritual. It’s about sounds that [...] View post: Manu Riga releases Drift Ritual, a FREE cinematic synth for macOS and Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/29/audioteleporter/",
-    "timestamp": "2026-07-29T13:07:22Z",
+    "url": "https://bedroomproducersblog.com/2026/07/30/manu-riga-drift-ritual/",
+    "timestamp": "2026-07-30T14:59:33Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/07/29/audioteleporter/"
+      "https://bedroomproducersblog.com/2026/07/30/manu-riga-drift-ritual/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-29T13:07:22Z",
-    "id": "energy-d607f30b50b8ed0b"
+    "data_as_of": "2026-07-30T14:59:33Z",
+    "id": "energy-8ac0cff5949b0172"
+  },
+  {
+    "title": "The Crow Hill Company releases Harmonic Piano, a FREE experimental piano instrument from the Vaults series",
+    "summary": "The latest release from the Crow Hill Company is the Harmonic Piano, a free experimental piano instrument that is a part of their Vaults series. The Crow Hill Company isn’t opposed to the unconventional when it comes to capturing sound or rethinking how that sound is typically used. We’ve seen it in previous releases like [...] View post: The Crow Hill Company releases Harmonic Piano, a FREE experimental piano instrument from the Vaults series",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/30/crow-hill-harmonic-piano/",
+    "timestamp": "2026-07-30T14:58:47Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/30/crow-hill-harmonic-piano/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-30T14:58:47Z",
+    "id": "energy-7e367988388f09ac"
+  },
+  {
+    "title": "Energy Agencies Seek Six-Month Extension For Deuel County Power Plant Decision Following Local Referendum Defeat",
+    "summary": "By Holly McKernan Missouri River Energy Services (MRES) and the Western Minnesota Municipal Power Agency (WMMPA) have officially filed a Motion to Extend Decision Deadline with the South Dakota Public Utilities Commission (PUC). The utilities are requesting a six-month extension on the statutory one-year deadline to decide their permit application for a proposed natural-gas-fired power […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/energy-agencies-seek-six-month-extension-for-deuel-county-power-plant-decision-following-local-referendum-defeat/",
+    "timestamp": "2026-07-30T14:51:59Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/energy-agencies-seek-six-month-extension-for-deuel-county-power-plant-decision-following-local-referendum-defeat/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-30T14:51:59Z",
+    "id": "energy-844da16fa98f56ec"
+  },
+  {
+    "title": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers",
+    "summary": "By Brad Plumer The Trump administration is repurposing large chunks of federal land to host enormous data centers and the power plants needed to run them as officials seek to accelerate the development of artificial intelligence and overcome growing local opposition to the facilities. The Energy Department announced on Wednesday that it would redevelop parts […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/trump-administration-is-repurposing-federal-land-for-a-i-data-centers/",
+    "timestamp": "2026-07-30T14:50:55Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/trump-administration-is-repurposing-federal-land-for-a-i-data-centers/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-30T14:50:55Z",
+    "id": "energy-aeaf0a75ebc4c850"
+  },
+  {
+    "title": "Battery Startup Raises $550 Million Amid Boom In AI Data Centers",
+    "summary": "By Summer Maxwell Battery storage startup Antora Energy raised $550 million to expand production of its thermal batteries, which can help heavy industry and data centers lower costs and run on renewable energy. The Series C funding, co-led earlier this month by Eclipse and G2 Venture Partners, will allow Antora to build a second factory […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/battery-startup-raises-550-million-amid-boom-in-ai-data-centers/",
+    "timestamp": "2026-07-30T14:49:59Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/07/battery-startup-raises-550-million-amid-boom-in-ai-data-centers/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-07-30T14:49:59Z",
+    "id": "energy-8aa52301e7015a85"
   },
   {
     "title": "Should we feel good about the trajectory of clean energy post-Trump?",
