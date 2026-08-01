@@ -1,5 +1,163 @@
 [
   {
+    "title": "Upgrade to Energy-Efficient Products and Save",
+    "summary": "Upgrade your home’s comfort and reduce energy use with Entergy Mississippi’s Entergy Solutions programs.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/upgrade-to-energy-efficient-products-and-save",
+    "timestamp": "2026-07-31T22:23:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/upgrade-to-energy-efficient-products-and-save"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-31T22:23:28Z",
+    "id": "energy-7c08e44cb23fe19b"
+  },
+  {
+    "title": "UW-Madison: A Midwestern nucleus of fission and fusion",
+    "summary": "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 46.5px 'Utopia Std'; color: #ca5747} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 10.0px 'Utopia Std'} span.s1 {letter-spacing: -0.1px} With more than six decades as a top-ranked program in its rearview, the Department of Nuclear Engineering and Engineering Physics (NEEP) at the University of Wisconsin–Madison is hardly slowing down. In fact, NEEP is continuing to grow and develop its faculty, curriculum, and research.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-31/article-8163/uwmadison-a-midwestern-nucleus-of-fission-and-fusion/",
+    "timestamp": "2026-07-31T19:56:17Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-31/article-8163/uwmadison-a-midwestern-nucleus-of-fission-and-fusion/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-31T19:56:17Z",
+    "id": "energy-11e5991e4bf99aaa"
+  },
+  {
+    "title": "GRETA ready for full scientific operations",
+    "summary": "The Gamma-Ray Energy Tracking Array (GRETA), which is installed at the Facility for Rare Isotope Beams (FRIB) at Michigan State University, has successfully completed a commissioning and characterization run, establishing that it is ready for scientific operations. According to Lawrence Berkeley National Laboratory, which made the announcement, the measurements that scientists make with GRETA will improve the theoretical models of the atomic nucleus that underpin research in nuclear physics, astrophysics, energy, medicine, and national security.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-31/article-8262/greta-ready-for-full-scientific-operations/",
+    "timestamp": "2026-07-31T17:46:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-31/article-8262/greta-ready-for-full-scientific-operations/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-31T17:46:26Z",
+    "id": "energy-31f8d31ae4ac0e71"
+  },
+  {
+    "title": "Entergy announces quarterly dividend payment to shareholders",
+    "summary": "Posted:Jul 31, 2026 | Posted:Cristina del Canto | Category:News release | Tags:Corporate, Dividend, Investors NEW ORLEANS – Entergy’s board of directors today declared a quarterly dividend payment of $0.64 per share on the company’s common stock. The dividend is payable Sept. 1, 2026, to shareholders of record as of Aug. 13, 2026. Entergy has paid shareholders a cash dividend on its… Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-announces-quarterly-dividend-payment-to-shareholders-5",
+    "timestamp": "2026-07-31T17:45:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-announces-quarterly-dividend-payment-to-shareholders-5"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-07-31T17:45:57Z",
+    "id": "energy-88b26cb05e8e7a75"
+  },
+  {
+    "title": "CIFP Reliability Backstop Procurement – PJM Board Decision",
+    "summary": "Updated Date: 07.31.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-reliability-backstop-procurement-pjm-board-decision.pdf",
+    "timestamp": "2026-07-31T17:39:00Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-reliability-backstop-procurement-pjm-board-decision.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-07-31T17:39:00Z",
+    "id": "energy-b70129d531fd66ef"
+  },
+  {
+    "title": "CIFP Framework for Service During Periods of Insufficient Resource Adequacy – Executive Summary",
+    "summary": "Updated Date: 07.31.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-framework-for-service-during-periods-of-insufficient-resource-adequacy-executive-summary.pdf",
+    "timestamp": "2026-07-31T17:39:00Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-framework-for-service-during-periods-of-insufficient-resource-adequacy-executive-summary.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-07-31T17:39:00Z",
+    "id": "energy-d612a2fe0f55738d"
+  },
+  {
+    "title": "Private-sector data center plans advance for Paducah and Savannah River sites",
+    "summary": "The Department of Energy has announced two partnership agreements to construct AI data centers combined with energy infrastructure at DOE sites. This week, agency announced a partnership with Big Rivers Electric Power Corporation, Brookfield Corporation, Jackson Purchase Energy Cooperative, NextEra Energy, and Paducah Power System aimed at redeveloping parts of the former Paducah Gaseous Diffusion Plant into a data center campus with energy infrastructure.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-07-31/article-8261/privatesector-data-center-plans-advance-for-paducah-and-savannah-river-sites/",
+    "timestamp": "2026-07-31T14:44:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-07-31/article-8261/privatesector-data-center-plans-advance-for-paducah-and-savannah-river-sites/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-07-31T14:44:14Z",
+    "id": "energy-e0d914535fa7096b"
+  },
+  {
     "title": "ISO-NE selects preliminary preferred solution for longer-term transmission effort",
     "summary": "The proposal would upgrade the transmission system between northern Maine and more populous regions of southern New England. The post ISO-NE selects preliminary preferred solution for longer-term transmission effort appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -20,50 +178,6 @@
     ],
     "data_as_of": "2026-07-31T11:33:57Z",
     "id": "energy-caa8866bc6e647fb"
-  },
-  {
-    "title": "Fire in glovebox at LANL plutonium facility sparks safety discussion",
-    "summary": "According to a Defense Nuclear Facilities Safety Board (DNFSB) report, a fire occurred in a glovebox in the plutonium facility at Los Alamos National Laboratory on June 15. A test involving nonnuclear material was underway in the furnace inside the glovebox at the time of the incident.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-30/article-8259/fire-in-glovebox-at-lanl-plutonium-facility-sparks-safety-discussion/",
-    "timestamp": "2026-07-30T21:03:53Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-30/article-8259/fire-in-glovebox-at-lanl-plutonium-facility-sparks-safety-discussion/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-30T21:03:53Z",
-    "id": "energy-eacf5ccb2df9d345"
-  },
-  {
-    "title": "NRC, FEMA talk emergency preparedness for Crane restart",
-    "summary": "The Nuclear Regulatory Commission held its latest public meeting in central Pennsylvania on Tuesday to provide an update the progress being made to restart the Crane nuclear power plant (formerly Three Mile Island-1) as early as 2027. The meeting focused on emergency preparedness, with officials from both the NRC and the Federal Emergency Management Agency sharing how the agencies plan their on-site and off-site responses to potential emergencies.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-30/article-8258/nrc-fema-talk-emergency-preparedness-for-crane-restart/",
-    "timestamp": "2026-07-30T18:54:06Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-30/article-8258/nrc-fema-talk-emergency-preparedness-for-crane-restart/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-30T18:54:06Z",
-    "id": "energy-c3a88cc636347109"
   },
   {
     "title": "Entergy New Orleans celebrates Loyola University’s energy efficiency success through Energy Smart",
@@ -88,76 +202,6 @@
     ],
     "data_as_of": "2026-07-30T16:17:34Z",
     "id": "energy-08865d56b2f67064"
-  },
-  {
-    "title": "Powering Possibility: Investing in the Next Generation at Trades 4 Life",
-    "summary": "The recent Trades 4 Life event brought together industry professionals, educators, and community leaders with one shared goal: helping students see what’s possible for their future.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/powering-possibility-investing-in-the-next-generation-at-trades-4-life",
-    "timestamp": "2026-07-30T15:51:51Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/powering-possibility-investing-in-the-next-generation-at-trades-4-life"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-30T15:51:51Z",
-    "id": "energy-1c957ff3ddef9d84"
-  },
-  {
-    "title": "Coming up soon: Global 2026",
-    "summary": "Global is a series of international conferences covering aspects of nuclear technology including the full nuclear fuel cycle and reactor systems. This year, Global 2026—which is sponsored by the American Nuclear Society’s Fuel Cycle & Waste Management Division—is taking place August 16–20 in Chicago, Ill.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-30/article-8257/coming-up-soon-global-2026/",
-    "timestamp": "2026-07-30T15:44:43Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-30/article-8257/coming-up-soon-global-2026/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-30T15:44:43Z",
-    "id": "energy-5a1c2d6e5ab2ecd0"
-  },
-  {
-    "title": "Entergy Texas ayuda a los clientes a mantenerse frescos y ahorrar dinero con herramientas y recursos para administrar sus facturas",
-    "summary": "Los recursos pueden ayudar a los clientes a monitorear su consumo de energía, administrar sus facturas y encontrar asistencia financiera",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/bill-toolkit-en-espanol",
-    "timestamp": "2026-07-30T15:17:57Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/bill-toolkit-en-espanol"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-30T15:17:57Z",
-    "id": "energy-264f7576152fd0cc"
   },
   {
     "title": "ISO Minute: Celebrating National Intern Day",

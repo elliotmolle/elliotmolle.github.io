@@ -1,75 +1,282 @@
 [
   {
-    "title": "Feebas and Milotic join Pokémon Pokopia in new limited-time event",
-    "summary": "The Fetch Scales for Feebas event adds Feebas and Milotic to Pokémon Pokopia alongside a new beachside furniture set",
+    "title": "Forget Yellowstone, Taylor Sheridan's breakthrough crime thriller is still his sharpest script ever",
+    "summary": "The movie that turned Taylor Sheridan into Hollywood's hottest screenwriter is streaming now on HBO Max.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-pokopia-feebas-summer-event/",
-    "timestamp": "2026-07-31T11:54:29Z",
+    "url": "https://www.polygon.com/taylor-sheridan-sicario-hbo-max-august-streaming-2026/",
+    "timestamp": "2026-08-01T11:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/pokemon-pokopia-feebas-summer-event/"
+      "https://www.polygon.com/taylor-sheridan-sicario-hbo-max-august-streaming-2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-31T11:54:29Z",
-    "id": "energy-b35193571b47d7e0"
+    "data_as_of": "2026-08-01T11:00:12Z",
+    "id": "energy-bb2a0b024a659523"
   },
   {
-    "title": "Even Stellar Blade Fans Hate The Sequel’s Official GenAI Music Video",
-    "summary": "Some of the most loyal fans around couldn't stomach Shift Up's latest marketing beat",
+    "title": "10 anime that delivered better endings than Attack on Titan (#1 is pitch-perfect)",
+    "summary": "These stories provide impeccable thematic closure.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/best-anime-endings-better-attack-on-titan/",
+    "timestamp": "2026-08-01T10:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/best-anime-endings-better-attack-on-titan/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T10:00:12Z",
+    "id": "energy-0f526a47cb4bd2c9"
+  },
+  {
+    "title": "RamenHaus",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://ramen.haus/",
+    "timestamp": "2026-08-01T08:48:58Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://ramen.haus/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T08:48:58Z",
+    "id": "energy-130efd0769f8daa9"
+  },
+  {
+    "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+    "timestamp": "2026-08-01T08:26:55Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T08:26:55Z",
+    "id": "energy-d2e4c77575f1c362"
+  },
+  {
+    "title": "How to Do Great Work",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://paulgraham.com/greatwork.html",
+    "timestamp": "2026-08-01T08:19:44Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://paulgraham.com/greatwork.html"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T08:19:44Z",
+    "id": "energy-65f889967f374e4d"
+  },
+  {
+    "title": "A little preview of EWC from MENA",
+    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vcbl7f/a_little_preview_of_ewc_from_mena/",
+    "timestamp": "2026-08-01T03:04:31Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vcbl7f/a_little_preview_of_ewc_from_mena/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-01T03:04:31Z",
+    "id": "energy-738bccc20d6a6af6"
+  },
+  {
+    "title": "Spider-Man: Brand New Day streaming release date window: When will it be on Netflix, Disney Plus, Blu-ray, and DVD?",
+    "summary": "When will the latest Marvel film be coming to streaming (Netflix), Blu-ray, and DVD? Here's what we know.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/marvel-spider-man-brand-new-day-movie-streaming-release-date-vod-netflix-disney-plus/",
+    "timestamp": "2026-07-31T23:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/marvel-spider-man-brand-new-day-movie-streaming-release-date-vod-netflix-disney-plus/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T23:00:12Z",
+    "id": "energy-7773291daafd0a64"
+  },
+  {
+    "title": "The Internet Is Clowning The Hell Outta Ludwig For His Hilarious Appearance In A Chinese FMV Game",
+    "summary": "I'd be playing the shit outta Road To Empress II if it wasn't stuffed with AI slop",
     "source": "Kotaku",
-    "url": "https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725",
-    "timestamp": "2026-07-31T11:40:12Z",
+    "url": "https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867",
+    "timestamp": "2026-07-31T21:00:53Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725"
+      "https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-31T11:40:12Z",
-    "id": "energy-af67e25fc4ffbcb6"
+    "data_as_of": "2026-07-31T21:00:53Z",
+    "id": "energy-f85310810029a712"
   },
   {
-    "title": "PS5 officially has 5 must-play new games releasing in August 2026",
-    "summary": "From a new Marvel fighting game to a Star Wars tactics game, August 2026 is packed with exciting new PlayStation 5 games.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/new-ps5-games-august-2026/",
-    "timestamp": "2026-07-31T11:01:11Z",
+    "title": "Famous Science YouTuber Admits He Has Unhealthy Relationship With AI After Facing Backlash Over Recent Video",
+    "summary": "'The level of dopamine I've been getting from interacting with LLMs is not healthy for me,' said Hank Green",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/famous-science-youtuber-admits-he-has-unhealthy-relationship-with-ai-after-facing-backlash-over-recent-video-2000720908",
+    "timestamp": "2026-07-31T20:44:20Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/new-ps5-games-august-2026/"
+      "https://kotaku.com/famous-science-youtuber-admits-he-has-unhealthy-relationship-with-ai-after-facing-backlash-over-recent-video-2000720908"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-31T11:01:11Z",
-    "id": "energy-df2a708aa3bdb4f1"
+    "data_as_of": "2026-07-31T20:44:20Z",
+    "id": "energy-71e4d9f4c96334ce"
   },
   {
-    "title": "I reviewed 2,000 plugins. Making my own took 2 years.",
-    "summary": "I’ve been reviewing audio plugins on Bedroom Producers Blog for more than 15 years. I don’t have an exact number, but I’ve probably tested more than 2,000 plugins in that time. Maybe close to 2,500, depending on how strictly we count the ones I installed, disliked, and uninstalled right away. During all that plugin testing, [...] View post: I reviewed 2,000 plugins. Making my own took 2 years.",
+    "title": "Can’t Decide Between Nvidia And AMD Graphics Cards? Don’t Worry, They’re Both Rumored To Be Raising Prices",
+    "summary": "Even budget cards are getting ridiculously expensive",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/cant-decide-between-nvidia-and-amd-graphics-cards-dont-worry-theyre-both-rumored-to-be-raising-prices-2000720862",
+    "timestamp": "2026-07-31T20:00:02Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/cant-decide-between-nvidia-and-amd-graphics-cards-dont-worry-theyre-both-rumored-to-be-raising-prices-2000720862"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T20:00:02Z",
+    "id": "energy-dd37262ed05f0dd8"
+  },
+  {
+    "title": "Ireland's ENC Roster (Shark/Smokez/Pukis) also teaming for EWC LCQ",
+    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbw0m7/irelands_enc_roster_sharksmokezpukis_also_teaming/",
+    "timestamp": "2026-07-31T16:35:19Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbw0m7/irelands_enc_roster_sharksmokezpukis_also_teaming/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-31T16:35:19Z",
+    "id": "energy-809497e98c4f8fa0"
+  },
+  {
+    "title": "Ample Sound releases Ample Guitar M Lite 4, a FREE acoustic guitar plugin",
+    "summary": "Ample Sound has released Ample Guitar M Lite 4, a free acoustic guitar virtual instrument for macOS and Windows. Free acoustic guitar plugins are hard to find, and Ample Sound’s free Martin D-41 instrument has been one of the best options out there since the early 2010s. We covered Ample Guitar M Lite II back [...] View post: Ample Sound releases Ample Guitar M Lite 4, a FREE acoustic guitar plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/31/making-vatra/",
-    "timestamp": "2026-07-31T10:59:52Z",
+    "url": "https://bedroomproducersblog.com/2026/07/31/ample-guitar-m-lite-4/",
+    "timestamp": "2026-07-31T15:50:54Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/07/31/making-vatra/"
+      "https://bedroomproducersblog.com/2026/07/31/ample-guitar-m-lite-4/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-07-31T10:59:52Z",
-    "id": "energy-a820895eaf8d356c"
+    "data_as_of": "2026-07-31T15:50:54Z",
+    "id": "energy-05e6b32a9acd8689"
+  },
+  {
+    "title": "RLFS S5 [Swiss - Round 4]: Daniel’s trip to Europe [Daniel, yujin, TempoH] vs. Big Ox in Rio De Janeiro [Oski, yANXNZ, Tawk]",
+    "summary": "Rocket League Fantasy Series (RLFS) - Season 5 The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. Swiss - Round 4 - Game 3 Daniel's Trip to Europe Daniel yujin TempoH GM Message: it’s been rlly rough for these players this season j know I know. But! I still believe that individually Daniel is the best in na and with these mechanical aggressive players they can succeed and their peak is really high Big Ox in Rio De Janeiro Oski yANXNZ Tawk GM Message: This team is very reminiscent of the actual Boston Major winners…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbt2pu/rlfs_s5_swiss_round_4_daniels_trip_to_europe/",
+    "timestamp": "2026-07-31T14:49:08Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbt2pu/rlfs_s5_swiss_round_4_daniels_trip_to_europe/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-07-31T14:49:08Z",
+    "id": "energy-92aa51e9a95f3124"
+  },
+  {
+    "title": "Pocket Strings by The Crow Hill Company is now FREE",
+    "summary": "When it comes to free orchestral libraries, we are spoiled for choice. The latest on offer is the free Pocket Strings by The Crow Hill Company. If, like me, you remember when collections like HALion String Edition Volume 1, which weighed in at a whopping 5GB (roughly), represented a significant step up from any native [...] View post: Pocket Strings by The Crow Hill Company is now FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/31/pocket-strings-freebie/",
+    "timestamp": "2026-07-31T14:26:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/31/pocket-strings-freebie/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T14:26:08Z",
+    "id": "energy-a9b9aa4d07876bb9"
+  },
+  {
+    "title": "FRCTL Audio releases AURA Lite, a FREE ducking reverb plugin",
+    "summary": "FRCTL Audio has released AURA Lite, a free ducking reverb plugin for Windows, macOS, and Linux. FRCTL has been on a nice run of free tools lately. We recently covered DLAY Lite, and before that, SWRL Lite and GRN Lite. I like FRCTL Audio’s free plugins so far, and AURA Lite is another useful one. [...] View post: FRCTL Audio releases AURA Lite, a FREE ducking reverb plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/07/31/frctl-audio-aura-lite/",
+    "timestamp": "2026-07-31T13:13:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/07/31/frctl-audio-aura-lite/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-07-31T13:13:08Z",
+    "id": "energy-01ef71c4882b4ead"
   },
   {
     "title": "Silicon anodes for batteries unlock greater energy density and faster charging times",
@@ -88,135 +295,6 @@
     "primary_source": false,
     "data_as_of": "2026-07-31T10:20:09Z",
     "id": "energy-8a6a4b2cae1ae2dd"
-  },
-  {
-    "title": "Horror master James Wan's greatest movie franchise officially returns in 3 weeks",
-    "summary": "The latest installment of the Insidious horror franchise from James Wan and Leigh Whannell is only a short time away.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/insidious-out-of-the-further-release-date/",
-    "timestamp": "2026-07-31T10:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/insidious-out-of-the-further-release-date/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T10:00:12Z",
-    "id": "energy-4ada9bc586edb51b"
-  },
-  {
-    "title": "Square Enix Says Kingdom Hearts Art Accused Of Using GenAI Was Just Regular Human Error",
-    "summary": "Someone forgot how many fingers Donald has",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610",
-    "timestamp": "2026-07-31T09:00:49Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T09:00:49Z",
-    "id": "energy-568f77f23b9f14d7"
-  },
-  {
-    "title": "Sony Not Budging On Ending PlayStation Discs In The Face Of Fan Protests: ‘We’re Going To Cautiously Move This Forward’",
-    "summary": "The PS5 maker said it already put a lot of thought into the decision",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708",
-    "timestamp": "2026-07-31T08:12:24Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T08:12:24Z",
-    "id": "energy-96c7189be09d7d0d"
-  },
-  {
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-    "timestamp": "2026-07-31T07:59:11Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://artificialanalysis.ai/models/deepseek-v4-flash-ga"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T07:59:11Z",
-    "id": "energy-f8900a067e52f556"
-  },
-  {
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "timestamp": "2026-07-31T07:29:22Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://blog.google/security/chrome-stronger-with-every-update/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T07:29:22Z",
-    "id": "energy-5e0df263f5d63850"
-  },
-  {
-    "title": "DeepSeek-V4-Flash Update",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://api-docs.deepseek.com/updates/",
-    "timestamp": "2026-07-31T06:08:36Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://api-docs.deepseek.com/updates/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T06:08:36Z",
-    "id": "energy-3e8d0d48af7f98fb"
-  },
-  {
-    "title": "Where do you think the majors and the WC will be located next year (assuming the format stays the same)",
-    "summary": "I think that major 1 will be in Madrid, Spain Major 2 will be in Los Angeles, USA and the World Championship will be in Berlin, Germany. I don’t know if they will keep the kick-off LAN in Copenhagen because it’s the BLAST headquarters but I think they will continue to give Europe and NA one major each and then alternate the world championship. What locations do you think are going to host an RLCS LAN next year? submitted by /u/Legitimate-Sign-371 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbgz1a/where_do_you_think_the_majors_and_the_wc_will_be/",
-    "timestamp": "2026-07-31T04:53:50Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbgz1a/where_do_you_think_the_majors_and_the_wc_will_be/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-31T04:53:50Z",
-    "id": "energy-aaeb052a7a92dae6"
   },
   {
     "title": "Windowed thinning and query complexity for the bouncy particle and Zigzag samplers",
@@ -271,84 +349,6 @@
     "primary_source": true,
     "data_as_of": "2026-07-31T04:00:00Z",
     "id": "energy-0eaa49aecb09db1a"
-  },
-  {
-    "title": "Triple Pop next up?!",
-    "summary": "After seeing their performance in LCQ this team reminds me a lot of SSG in that they are younger upcoming players. All of the players impressed me and their only losses in playoffs were to the grand finalists in competitive series. They also beat Volare earlier in the tourney 3-1. I know teams get together for LCQ kinda late but I would like to see these boys stick for EWC LCQ and I really feel like they were the better team vs Volare for most of the b07. I feel like we could be seeing these players on the main stream often next season. submitted by /u/Jason_Voorhee [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbfs0u/triple_pop_next_up/",
-    "timestamp": "2026-07-31T03:54:51Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbfs0u/triple_pop_next_up/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-31T03:54:51Z",
-    "id": "energy-21862f1ec1e587b1"
-  },
-  {
-    "title": "If you support more than 1 team in the same region, why?",
-    "summary": "I’m not talking about teams you fuck with, more like more than 1 team that you’d fully root for. submitted by /u/Aromatic_Excitement3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vb5gnk/if_you_support_more_than_1_team_in_the_same/",
-    "timestamp": "2026-07-30T20:35:48Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vb5gnk/if_you_support_more_than_1_team_in_the_same/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-07-30T20:35:48Z",
-    "id": "energy-5d18ee2d191cd245"
-  },
-  {
-    "title": "Manu Riga releases Drift Ritual, a FREE cinematic synth for macOS and Windows",
-    "summary": "Drift Ritual is a new synth plugin from Manu Riga, and you can download it for free now. The plugin is available in AU and VST formats for macOS and Windows. The developer calls this plugin an organic drift synthesizer, and that about sums up the core character of Drift Ritual. It’s about sounds that [...] View post: Manu Riga releases Drift Ritual, a FREE cinematic synth for macOS and Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/30/manu-riga-drift-ritual/",
-    "timestamp": "2026-07-30T14:59:33Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/30/manu-riga-drift-ritual/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-30T14:59:33Z",
-    "id": "energy-8ac0cff5949b0172"
-  },
-  {
-    "title": "The Crow Hill Company releases Harmonic Piano, a FREE experimental piano instrument from the Vaults series",
-    "summary": "The latest release from the Crow Hill Company is the Harmonic Piano, a free experimental piano instrument that is a part of their Vaults series. The Crow Hill Company isn’t opposed to the unconventional when it comes to capturing sound or rethinking how that sound is typically used. We’ve seen it in previous releases like [...] View post: The Crow Hill Company releases Harmonic Piano, a FREE experimental piano instrument from the Vaults series",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/30/crow-hill-harmonic-piano/",
-    "timestamp": "2026-07-30T14:58:47Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/30/crow-hill-harmonic-piano/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-30T14:58:47Z",
-    "id": "energy-7e367988388f09ac"
   },
   {
     "title": "Energy Agencies Seek Six-Month Extension For Deuel County Power Plant Decision Following Local Referendum Defeat",
@@ -412,23 +412,5 @@
     ],
     "data_as_of": "2026-07-30T14:49:59Z",
     "id": "energy-8aa52301e7015a85"
-  },
-  {
-    "title": "Should we feel good about the trajectory of clean energy post-Trump?",
-    "summary": "A conversation with Lily Bermel.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/should-we-feel-good-about-the-trajectory",
-    "timestamp": "2026-07-29T10:06:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/should-we-feel-good-about-the-trajectory"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-07-29T10:06:08Z",
-    "id": "energy-feaf6176d071bcaf"
   }
 ]
