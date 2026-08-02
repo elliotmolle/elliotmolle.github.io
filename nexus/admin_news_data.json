@@ -1,93 +1,261 @@
 [
   {
-    "title": "Forget Yellowstone, Taylor Sheridan's breakthrough crime thriller is still his sharpest script ever",
-    "summary": "The movie that turned Taylor Sheridan into Hollywood's hottest screenwriter is streaming now on HBO Max.",
+    "title": "5 best anime arcs that are 10/10, no notes (#3 is pure shonen excellence)",
+    "summary": "An excellent anime arc is tense, memorable, and satisfying.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/taylor-sheridan-sicario-hbo-max-august-streaming-2026/",
-    "timestamp": "2026-08-01T11:00:12Z",
+    "url": "https://www.polygon.com/perfect-anime-arcs/",
+    "timestamp": "2026-08-02T11:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/taylor-sheridan-sicario-hbo-max-august-streaming-2026/"
+      "https://www.polygon.com/perfect-anime-arcs/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-01T11:00:12Z",
-    "id": "energy-bb2a0b024a659523"
+    "data_as_of": "2026-08-02T11:00:12Z",
+    "id": "energy-b5ee8a4f9c9efe3b"
   },
   {
-    "title": "10 anime that delivered better endings than Attack on Titan (#1 is pitch-perfect)",
-    "summary": "These stories provide impeccable thematic closure.",
+    "title": "US Treasury undertakes historic intervention in yen market",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+    "timestamp": "2026-08-02T10:46:28Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-02T10:46:28Z",
+    "id": "energy-27cd3c1c783cf5d3"
+  },
+  {
+    "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
+    "timestamp": "2026-08-02T10:25:25Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-02T10:25:25Z",
+    "id": "energy-0a49b229547d033e"
+  },
+  {
+    "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://publicdomainreview.org/essay/ars-notoria/",
+    "timestamp": "2026-08-02T10:18:24Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://publicdomainreview.org/essay/ars-notoria/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-02T10:18:24Z",
+    "id": "energy-37c2ac744027eea4"
+  },
+  {
+    "title": "10 best games like Baldur's Gate 3",
+    "summary": "After Baldur's Gate 3, what's next? Check out these 10 must-play games, from clear contenders like Pathfinder and Mass Effect to a few hidden gems.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/best-anime-endings-better-attack-on-titan/",
-    "timestamp": "2026-08-01T10:00:12Z",
+    "url": "https://www.polygon.com/best-games-like-bg3-baldurs-gate-3/",
+    "timestamp": "2026-08-02T10:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/best-anime-endings-better-attack-on-titan/"
+      "https://www.polygon.com/best-games-like-bg3-baldurs-gate-3/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-01T10:00:12Z",
-    "id": "energy-0f526a47cb4bd2c9"
+    "data_as_of": "2026-08-02T10:00:12Z",
+    "id": "energy-2d527af0e30634cf"
   },
   {
-    "title": "RamenHaus",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://ramen.haus/",
-    "timestamp": "2026-08-01T08:48:58Z",
-    "topic": "Computer Science",
+    "title": "The biggest X-Men clue in Spider-Man: Brand New Day has nothing to do with Sadie Sink",
+    "summary": "In Spider-Man: Brand New Day, Bruce Banner and Peter Parker invent a power inhibtor. Could this be leading to a mutant power inhibitor?",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/spider-man-brand-new-day-mutant-inhibitors/",
+    "timestamp": "2026-08-02T01:00:12Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://ramen.haus/"
+      "https://www.polygon.com/spider-man-brand-new-day-mutant-inhibitors/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-01T08:48:58Z",
-    "id": "energy-130efd0769f8daa9"
+    "data_as_of": "2026-08-02T01:00:12Z",
+    "id": "energy-653b8650ac0faa40"
   },
   {
-    "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-    "timestamp": "2026-08-01T08:26:55Z",
-    "topic": "Computer Science",
+    "title": "Indie Horror Game Occupies Void Between Nightmare And Putt-Putt Saves The Zoo",
+    "summary": "While not under any pretense of ‘lost media,’ Endacopia exists in the dark void between forgotten edutainment suites",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/indie-horror-game-occupies-void-between-nightmare-and-putt-putt-saves-the-zoo-2000721023",
+    "timestamp": "2026-08-01T22:01:05Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
+      "https://kotaku.com/indie-horror-game-occupies-void-between-nightmare-and-putt-putt-saves-the-zoo-2000721023"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-01T08:26:55Z",
-    "id": "energy-d2e4c77575f1c362"
+    "data_as_of": "2026-08-01T22:01:05Z",
+    "id": "energy-03f479e8d74dd765"
   },
   {
-    "title": "How to Do Great Work",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://paulgraham.com/greatwork.html",
-    "timestamp": "2026-08-01T08:19:44Z",
-    "topic": "Computer Science",
+    "title": "Goal of the season for every RLCS 2026 Worlds team",
+    "summary": "Factors that influenced my choices include mechanical difficulty, team play, importance/clutch factor, creativity, & shock factor (bonus points if scored on LAN). If I felt a given team didn't have any standouts, I went with my personal favorite goal instead. submitted by /u/N0b0dy_her3 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vczc3g/goal_of_the_season_for_every_rlcs_2026_worlds_team/",
+    "timestamp": "2026-08-01T21:29:57Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://paulgraham.com/greatwork.html"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vczc3g/goal_of_the_season_for_every_rlcs_2026_worlds_team/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-01T08:19:44Z",
-    "id": "energy-65f889967f374e4d"
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-01T21:29:57Z",
+    "id": "energy-7929d1efe39b520d"
+  },
+  {
+    "title": "Book Database Shutters AI Service Following Outrage Over Destroyed Rare Texts",
+    "summary": "ISBNdb says their controversial books-to-AI pipeline landing page was ‘a test of market interest’ after disgust of a program straight out of Fahrenheit 451",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/book-database-shutters-ai-service-following-outrage-over-destroyed-rare-texts-2000721018",
+    "timestamp": "2026-08-01T20:56:06Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/book-database-shutters-ai-service-following-outrage-over-destroyed-rare-texts-2000721018"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T20:56:06Z",
+    "id": "energy-cd22f1798a1d40b8"
+  },
+  {
+    "title": "Get Native Instruments Reaktor Synthesizer Bundle for $99 at Plugin Boutique",
+    "summary": "Plugin Boutique is offering the Native Instruments Reaktor Synthesizer Bundle for $99 until August 16th. Reaktor Synthesizer Bundle normally lists for $1,109, so this is a pretty heavy discount if you want a lot of Reaktor-based instruments in one purchase. Native Instruments has had a complicated year, as James recently covered in our articles, including [...] View post: Get Native Instruments Reaktor Synthesizer Bundle for $99 at Plugin Boutique",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/01/native-instruments-reaktor-synthesizer-bundle/",
+    "timestamp": "2026-08-01T20:10:37Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/01/native-instruments-reaktor-synthesizer-bundle/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T20:10:37Z",
+    "id": "energy-01ba90434b928f47"
+  },
+  {
+    "title": "EWC Last Chance - But who?",
+    "summary": "So apparently there's 1 spot in the EWC tournament for a LCQ team, but when i look at the EWC LCQ liquipedia page, there's absolutely no information how it works or what teams would be involved. Is it all online? Would it just be european teams involved? submitted by /u/mbmike12 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vcv4i2/ewc_last_chance_but_who/",
+    "timestamp": "2026-08-01T18:40:53Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vcv4i2/ewc_last_chance_but_who/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-01T18:40:53Z",
+    "id": "energy-2b4505772005385f"
+  },
+  {
+    "title": "Pragmata Devs Almost Gave The Kid A Bob To Save On Hair Rendering, But Decided To Splurge",
+    "summary": "While Diana’s Newt-like mess won in the end, Capcom considered cost cutting with more traditional scissors",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/pragmata-devs-considered-a-bob-to-save-on-hair-rendering-2000721012",
+    "timestamp": "2026-08-01T18:29:49Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/pragmata-devs-considered-a-bob-to-save-on-hair-rendering-2000721012"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T18:29:49Z",
+    "id": "energy-6a2f638214c9ab6e"
+  },
+  {
+    "title": "Auburn Sounds releases Psypan 2 Free, a stereo multi-effect plugin",
+    "summary": "Auburn Sounds has released Psypan 2 Free Edition, a free stereo multi-effect plugin for Windows, macOS, and Linux. We have covered several Auburn Sounds plugins on BPB over the years, including Panagement, Lens, and Inner Pitch. Psypan 2 follows the same Free/Full model, with a very usable free version and a paid upgrade for the [...] View post: Auburn Sounds releases Psypan 2 Free, a stereo multi-effect plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/01/auburn-sounds-psypan-2-free/",
+    "timestamp": "2026-08-01T16:08:59Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/01/auburn-sounds-psypan-2-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T16:08:59Z",
+    "id": "energy-4bc35cf5fbbe5d2d"
+  },
+  {
+    "title": "Nakst’s Altitude hybrid synthesis workstation is now freeware",
+    "summary": "Nakst has made Altitude, an advanced hybrid synthesis workstation for Windows, macOS, and Linux, available as freeware. We have covered several nakst instruments on BPB over the years, including Apricot, Regency, ExtraBold, and the now-free Integrate. Altitude was previously one of the developer’s paid instruments, so this is a nice, and somewhat unexpected, addition to [...] View post: Nakst’s Altitude hybrid synthesis workstation is now freeware",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/01/naksts-altitude-free/",
+    "timestamp": "2026-08-01T15:58:01Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/01/naksts-altitude-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-01T15:58:01Z",
+    "id": "energy-dbd18802b1acb462"
   },
   {
     "title": "A little preview of EWC from MENA",
@@ -111,172 +279,67 @@
     "id": "energy-738bccc20d6a6af6"
   },
   {
-    "title": "Spider-Man: Brand New Day streaming release date window: When will it be on Netflix, Disney Plus, Blu-ray, and DVD?",
-    "summary": "When will the latest Marvel film be coming to streaming (Netflix), Blu-ray, and DVD? Here's what we know.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/marvel-spider-man-brand-new-day-movie-streaming-release-date-vod-netflix-disney-plus/",
-    "timestamp": "2026-07-31T23:00:12Z",
-    "topic": "Gaming",
+    "title": "MISO Issues Load Pocket Advisory For South Region For Fifth Consecutive Day",
+    "summary": "By Ronnie Turner • Covers Southeast Texas load pocket through July 31 • Forced outage reducing load serving capability: MISO The Midcontinent Independent System Operator issued a load pocket advisory for its South Region for July 31 because of a forced generation outage. The advisory is effective from 1 pm ET to 7 pm July […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/miso-issues-load-pocket-advisory-for-south-region-for-fifth-consecutive-day/",
+    "timestamp": "2026-07-31T14:34:13Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/marvel-spider-man-brand-new-day-movie-streaming-release-date-vod-netflix-disney-plus/"
+      "https://misoxenwatch.com/2026/07/miso-issues-load-pocket-advisory-for-south-region-for-fifth-consecutive-day/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T23:00:12Z",
-    "id": "energy-7773291daafd0a64"
-  },
-  {
-    "title": "The Internet Is Clowning The Hell Outta Ludwig For His Hilarious Appearance In A Chinese FMV Game",
-    "summary": "I'd be playing the shit outta Road To Empress II if it wasn't stuffed with AI slop",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867",
-    "timestamp": "2026-07-31T21:00:53Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T21:00:53Z",
-    "id": "energy-f85310810029a712"
-  },
-  {
-    "title": "Famous Science YouTuber Admits He Has Unhealthy Relationship With AI After Facing Backlash Over Recent Video",
-    "summary": "'The level of dopamine I've been getting from interacting with LLMs is not healthy for me,' said Hank Green",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/famous-science-youtuber-admits-he-has-unhealthy-relationship-with-ai-after-facing-backlash-over-recent-video-2000720908",
-    "timestamp": "2026-07-31T20:44:20Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/famous-science-youtuber-admits-he-has-unhealthy-relationship-with-ai-after-facing-backlash-over-recent-video-2000720908"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T20:44:20Z",
-    "id": "energy-71e4d9f4c96334ce"
-  },
-  {
-    "title": "Can’t Decide Between Nvidia And AMD Graphics Cards? Don’t Worry, They’re Both Rumored To Be Raising Prices",
-    "summary": "Even budget cards are getting ridiculously expensive",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/cant-decide-between-nvidia-and-amd-graphics-cards-dont-worry-theyre-both-rumored-to-be-raising-prices-2000720862",
-    "timestamp": "2026-07-31T20:00:02Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/cant-decide-between-nvidia-and-amd-graphics-cards-dont-worry-theyre-both-rumored-to-be-raising-prices-2000720862"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T20:00:02Z",
-    "id": "energy-dd37262ed05f0dd8"
-  },
-  {
-    "title": "Ireland's ENC Roster (Shark/Smokez/Pukis) also teaming for EWC LCQ",
-    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbw0m7/irelands_enc_roster_sharksmokezpukis_also_teaming/",
-    "timestamp": "2026-07-31T16:35:19Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbw0m7/irelands_enc_roster_sharksmokezpukis_also_teaming/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
+    "primary_source": true,
     "entities": [
-      "RLCS"
+      "MISO"
     ],
-    "data_as_of": "2026-07-31T16:35:19Z",
-    "id": "energy-809497e98c4f8fa0"
+    "data_as_of": "2026-07-31T14:34:13Z",
+    "id": "energy-e9ccf81e6cd80bf7"
   },
   {
-    "title": "Ample Sound releases Ample Guitar M Lite 4, a FREE acoustic guitar plugin",
-    "summary": "Ample Sound has released Ample Guitar M Lite 4, a free acoustic guitar virtual instrument for macOS and Windows. Free acoustic guitar plugins are hard to find, and Ample Sound’s free Martin D-41 instrument has been one of the best options out there since the early 2010s. We covered Ample Guitar M Lite II back [...] View post: Ample Sound releases Ample Guitar M Lite 4, a FREE acoustic guitar plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/31/ample-guitar-m-lite-4/",
-    "timestamp": "2026-07-31T15:50:54Z",
-    "topic": "Music Production",
+    "title": "MISO State Regulators Divided On Coal Extensions vs. Battery Buildout",
+    "summary": "By Amanda Durish Cook Regulators of MISO states debated the merits of resurrecting or extending coal plant operations, with some saying it’s a necessary bridge as demand surges while others said new energy storage could get the job done at roughly the same cost. Indiana Utility Regulatory Commissioner Andy Zay said maintaining the state’s coal […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/miso-state-regulators-divided-on-coal-extensions-vs-battery-buildout/",
+    "timestamp": "2026-07-31T14:33:38Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/07/31/ample-guitar-m-lite-4/"
+      "https://misoxenwatch.com/2026/07/miso-state-regulators-divided-on-coal-extensions-vs-battery-buildout/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T15:50:54Z",
-    "id": "energy-05e6b32a9acd8689"
-  },
-  {
-    "title": "RLFS S5 [Swiss - Round 4]: Daniel’s trip to Europe [Daniel, yujin, TempoH] vs. Big Ox in Rio De Janeiro [Oski, yANXNZ, Tawk]",
-    "summary": "Rocket League Fantasy Series (RLFS) - Season 5 The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. Swiss - Round 4 - Game 3 Daniel's Trip to Europe Daniel yujin TempoH GM Message: it’s been rlly rough for these players this season j know I know. But! I still believe that individually Daniel is the best in na and with these mechanical aggressive players they can succeed and their peak is really high Big Ox in Rio De Janeiro Oski yANXNZ Tawk GM Message: This team is very reminiscent of the actual Boston Major winners…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbt2pu/rlfs_s5_swiss_round_4_daniels_trip_to_europe/",
-    "timestamp": "2026-07-31T14:49:08Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vbt2pu/rlfs_s5_swiss_round_4_daniels_trip_to_europe/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
+    "primary_source": true,
     "entities": [
-      "RLCS"
+      "MISO"
     ],
-    "data_as_of": "2026-07-31T14:49:08Z",
-    "id": "energy-92aa51e9a95f3124"
+    "data_as_of": "2026-07-31T14:33:38Z",
+    "id": "energy-4ee928a5516e807f"
   },
   {
-    "title": "Pocket Strings by The Crow Hill Company is now FREE",
-    "summary": "When it comes to free orchestral libraries, we are spoiled for choice. The latest on offer is the free Pocket Strings by The Crow Hill Company. If, like me, you remember when collections like HALion String Edition Volume 1, which weighed in at a whopping 5GB (roughly), represented a significant step up from any native [...] View post: Pocket Strings by The Crow Hill Company is now FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/31/pocket-strings-freebie/",
-    "timestamp": "2026-07-31T14:26:08Z",
-    "topic": "Music Production",
+    "title": "Paducah AI Hub Wins $100B Federal Deal: Power Built In, No Tenant Named",
+    "summary": "By Clayton Lewis On July 29, a patch of western Kentucky farmland that spent six decades enriching uranium for the nation’s nuclear arsenal landed the largest economic development commitment in Kentucky’s history — and nobody can yet say who will use it. The U.S. Department of Energy announced on July 29, 2026, a partnership with […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/07/paducah-ai-hub-wins-100b-federal-deal-power-built-in-no-tenant-named/",
+    "timestamp": "2026-07-31T14:33:02Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/07/31/pocket-strings-freebie/"
+      "https://misoxenwatch.com/2026/07/paducah-ai-hub-wins-100b-federal-deal-power-built-in-no-tenant-named/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T14:26:08Z",
-    "id": "energy-a9b9aa4d07876bb9"
-  },
-  {
-    "title": "FRCTL Audio releases AURA Lite, a FREE ducking reverb plugin",
-    "summary": "FRCTL Audio has released AURA Lite, a free ducking reverb plugin for Windows, macOS, and Linux. FRCTL has been on a nice run of free tools lately. We recently covered DLAY Lite, and before that, SWRL Lite and GRN Lite. I like FRCTL Audio’s free plugins so far, and AURA Lite is another useful one. [...] View post: FRCTL Audio releases AURA Lite, a FREE ducking reverb plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/07/31/frctl-audio-aura-lite/",
-    "timestamp": "2026-07-31T13:13:08Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/07/31/frctl-audio-aura-lite/"
+    "primary_source": true,
+    "entities": [
+      "MISO"
     ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-07-31T13:13:08Z",
-    "id": "energy-01ef71c4882b4ead"
+    "data_as_of": "2026-07-31T14:33:02Z",
+    "id": "energy-418b5a82cbd46660"
   },
   {
     "title": "Silicon anodes for batteries unlock greater energy density and faster charging times",
@@ -349,68 +412,5 @@
     "primary_source": true,
     "data_as_of": "2026-07-31T04:00:00Z",
     "id": "energy-0eaa49aecb09db1a"
-  },
-  {
-    "title": "Energy Agencies Seek Six-Month Extension For Deuel County Power Plant Decision Following Local Referendum Defeat",
-    "summary": "By Holly McKernan Missouri River Energy Services (MRES) and the Western Minnesota Municipal Power Agency (WMMPA) have officially filed a Motion to Extend Decision Deadline with the South Dakota Public Utilities Commission (PUC). The utilities are requesting a six-month extension on the statutory one-year deadline to decide their permit application for a proposed natural-gas-fired power […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/energy-agencies-seek-six-month-extension-for-deuel-county-power-plant-decision-following-local-referendum-defeat/",
-    "timestamp": "2026-07-30T14:51:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/energy-agencies-seek-six-month-extension-for-deuel-county-power-plant-decision-following-local-referendum-defeat/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-30T14:51:59Z",
-    "id": "energy-844da16fa98f56ec"
-  },
-  {
-    "title": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers",
-    "summary": "By Brad Plumer The Trump administration is repurposing large chunks of federal land to host enormous data centers and the power plants needed to run them as officials seek to accelerate the development of artificial intelligence and overcome growing local opposition to the facilities. The Energy Department announced on Wednesday that it would redevelop parts […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/trump-administration-is-repurposing-federal-land-for-a-i-data-centers/",
-    "timestamp": "2026-07-30T14:50:55Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/trump-administration-is-repurposing-federal-land-for-a-i-data-centers/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-30T14:50:55Z",
-    "id": "energy-aeaf0a75ebc4c850"
-  },
-  {
-    "title": "Battery Startup Raises $550 Million Amid Boom In AI Data Centers",
-    "summary": "By Summer Maxwell Battery storage startup Antora Energy raised $550 million to expand production of its thermal batteries, which can help heavy industry and data centers lower costs and run on renewable energy. The Series C funding, co-led earlier this month by Eclipse and G2 Venture Partners, will allow Antora to build a second factory […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/battery-startup-raises-550-million-amid-boom-in-ai-data-centers/",
-    "timestamp": "2026-07-30T14:49:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/battery-startup-raises-550-million-amid-boom-in-ai-data-centers/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-30T14:49:59Z",
-    "id": "energy-8aa52301e7015a85"
   }
 ]
