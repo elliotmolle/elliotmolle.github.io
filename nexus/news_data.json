@@ -1,5 +1,49 @@
 [
   {
+    "title": "ANS webinar looks at radiation studies and living near nuclear plants",
+    "summary": "In February, a study published in Nature Communications found a correlation between proximity to nuclear power plants and rates of cancer mortality. While the authors acknowledged that causation could not be established, they nonetheless said that calculations supported evidence of 115,586 “cancer deaths attributable to nuclear power plants proximity.” On its release, this study garnered significant media attention—sparking worry among the public and immediate pushback from radiation experts. ANS recently hosted a webinar taking a deeper look at what that study (and other similar proximity studies) got wrong, the science behind what we do and do not know, and why these conversations matter.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-03/article-8263/ans-webinar-looks-at-radiation-studies-and-living-near-nuclear-plants/",
+    "timestamp": "2026-08-03T12:26:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-03/article-8263/ans-webinar-looks-at-radiation-studies-and-living-near-nuclear-plants/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-03T12:26:14Z",
+    "id": "energy-fac944ad31a5c6c7"
+  },
+  {
+    "title": "Preparing for the future: ISO-NE staff discuss large loads, system reliability at July events",
+    "summary": "A roundup of ISO-NE staff speaking engagements in July 2026. The post Preparing for the future: ISO-NE staff discuss large loads, system reliability at July events appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/03/preparing-for-the-future-iso-ne-staff-discuss-large-loads-system-reliability-at-july-events/",
+    "timestamp": "2026-08-03T12:12:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/03/preparing-for-the-future-iso-ne-staff-discuss-large-loads-system-reliability-at-july-events/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-03T12:12:27Z",
+    "id": "energy-d646f4ebed15a685"
+  },
+  {
     "title": "Upgrade to Energy-Efficient Products and Save",
     "summary": "Upgrade your home’s comfort and reduce energy use with Entergy Mississippi’s Entergy Solutions programs.",
     "source": "Entergy",
@@ -134,95 +178,5 @@
     ],
     "data_as_of": "2026-07-31T17:39:00Z",
     "id": "energy-d612a2fe0f55738d"
-  },
-  {
-    "title": "Private-sector data center plans advance for Paducah and Savannah River sites",
-    "summary": "The Department of Energy has announced two partnership agreements to construct AI data centers combined with energy infrastructure at DOE sites. This week, agency announced a partnership with Big Rivers Electric Power Corporation, Brookfield Corporation, Jackson Purchase Energy Cooperative, NextEra Energy, and Paducah Power System aimed at redeveloping parts of the former Paducah Gaseous Diffusion Plant into a data center campus with energy infrastructure.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-31/article-8261/privatesector-data-center-plans-advance-for-paducah-and-savannah-river-sites/",
-    "timestamp": "2026-07-31T14:44:14Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-31/article-8261/privatesector-data-center-plans-advance-for-paducah-and-savannah-river-sites/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-31T14:44:14Z",
-    "id": "energy-e0d914535fa7096b"
-  },
-  {
-    "title": "ISO-NE selects preliminary preferred solution for longer-term transmission effort",
-    "summary": "The proposal would upgrade the transmission system between northern Maine and more populous regions of southern New England. The post ISO-NE selects preliminary preferred solution for longer-term transmission effort appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/07/31/iso-ne-selects-preliminary-preferred-solution-for-longer-term-transmission-effort/",
-    "timestamp": "2026-07-31T11:33:57Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/07/31/iso-ne-selects-preliminary-preferred-solution-for-longer-term-transmission-effort/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-07-31T11:33:57Z",
-    "id": "energy-caa8866bc6e647fb"
-  },
-  {
-    "title": "Entergy New Orleans celebrates Loyola University’s energy efficiency success through Energy Smart",
-    "summary": "Loyola University New Orleans recently made a series of energy efficiency improvements that reduced campus electricity consumption by approximately 22% and generated an estimated $700,000 in annual electricity cost savings.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-celebrates-loyola-universitys-energy-efficiency-success-through-energy-smart",
-    "timestamp": "2026-07-30T16:17:34Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-celebrates-loyola-universitys-energy-efficiency-success-through-energy-smart"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-30T16:17:34Z",
-    "id": "energy-08865d56b2f67064"
-  },
-  {
-    "title": "ISO Minute: Celebrating National Intern Day",
-    "summary": "At ISO New England, summer interns spend 11 weeks working alongside industry experts on meaningful projects. The post ISO Minute: Celebrating National Intern Day appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/07/30/iso-minute-celebrating-national-intern-day-2/",
-    "timestamp": "2026-07-30T13:00:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/07/30/iso-minute-celebrating-national-intern-day-2/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-07-30T13:00:00Z",
-    "id": "energy-36620d8ebe8d5a38"
   }
 ]
