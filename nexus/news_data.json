@@ -1,16 +1,40 @@
 [
   {
-    "title": "ANS webinar looks at radiation studies and living near nuclear plants",
-    "summary": "In February, a study published in Nature Communications found a correlation between proximity to nuclear power plants and rates of cancer mortality. While the authors acknowledged that causation could not be established, they nonetheless said that calculations supported evidence of 115,586 “cancer deaths attributable to nuclear power plants proximity.” On its release, this study garnered significant media attention—sparking worry among the public and immediate pushback from radiation experts. ANS recently hosted a webinar taking a deeper look at what that study (and other similar proximity studies) got wrong, the science behind what we do and do not know, and why these conversations matter.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-03/article-8263/ans-webinar-looks-at-radiation-studies-and-living-near-nuclear-plants/",
-    "timestamp": "2026-08-03T12:26:14Z",
+    "title": "Fight the humidity, love the savings",
+    "summary": "The dog days of summer are here — and so is the humidity. While you can’t control the weather, you can take steps to keep your home cool, comfy and dry. One of the easiest and most affordable solutions is to use a room dehumidifier.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/fight-the-humidity-love-the-savings",
+    "timestamp": "2026-08-03T21:51:04Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-03/article-8263/ans-webinar-looks-at-radiation-studies-and-living-near-nuclear-plants/"
+      "https://www.entergy.com/blog/fight-the-humidity-love-the-savings"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-03T21:51:04Z",
+    "id": "energy-5804f28eee34f07d"
+  },
+  {
+    "title": "Droughts, wildfires continue to impact power plants in Europe",
+    "summary": "The effects of this summer’s historic heatwave continue to be felt across Europe. Soaring temperatures and drought in the region have led to elevated river temperatures, low river levels, and wildfires, which have significantly impacted nuclear power plants across the continent. France’s Electricité de France has reported elevated river temperatures which have forced production cuts, including recent cuts at Golfech, and nuclear power plants in Hungary, Romania, and the United Kingdom, have faced exceptional challenges in recent days.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-03/article-8266/droughts-wildfires-continue-to-impact/",
+    "timestamp": "2026-08-03T20:45:07Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-03/article-8266/droughts-wildfires-continue-to-impact/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +42,74 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-03T12:26:14Z",
-    "id": "energy-fac944ad31a5c6c7"
+    "data_as_of": "2026-08-03T20:45:07Z",
+    "id": "energy-df884e084db005de"
+  },
+  {
+    "title": "LANL’s ZiaCore microreactor reaches criticality",
+    "summary": "Last week, Los Alamos National Laboratory announced that its ZiaCore microreactor was brought to zero-power criticality at high temperatures in April through May of this year during four weeks of experiments on the Deimos testbed at the National Criticality Experiments Research Center (NCERC).",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-03/article-8265/lanls-ziacore-microreactor-reaches-criticality/",
+    "timestamp": "2026-08-03T17:43:10Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-03/article-8265/lanls-ziacore-microreactor-reaches-criticality/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-03T17:43:10Z",
+    "id": "energy-0f6a236b5ec27267"
+  },
+  {
+    "title": "GAO report urges DOE-EM to learn from other countries",
+    "summary": "Several countries, including Canada, France, and the United Kingdom, recently have taken steps to accelerate the cleanup of nuclear waste. In a new report, the U.S. Government Accountability Office said that these actions should serve as lessons for the United States. According to the GAO, the Department of Energy’s Office of Environmental Management should “strategically engage with other countries to identify and evaluate alternatives that could help reduce risks and costs or accelerate its cleanup activities.” The report noted that DOE-EM agreed with the recommendation.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-03/article-8264/gao-report-urges-doeem-to-learn-from-other-countries/",
+    "timestamp": "2026-08-03T15:51:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-03/article-8264/gao-report-urges-doeem-to-learn-from-other-countries/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-03T15:51:23Z",
+    "id": "energy-318457cb84db639e"
+  },
+  {
+    "title": "PJM Legislators’ Collaborative Letter Regarding CIFP Decision",
+    "summary": "Updated Date: 08.03.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20280803-pjm-legislators-collaborative-letter-re-cifp-decision.pdf",
+    "timestamp": "2026-08-03T13:07:20Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20280803-pjm-legislators-collaborative-letter-re-cifp-decision.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-08-03T13:07:20Z",
+    "id": "energy-e1874bb06a1bef66"
   },
   {
     "title": "Preparing for the future: ISO-NE staff discuss large loads, system reliability at July events",
@@ -42,141 +132,5 @@
     ],
     "data_as_of": "2026-08-03T12:12:27Z",
     "id": "energy-d646f4ebed15a685"
-  },
-  {
-    "title": "Upgrade to Energy-Efficient Products and Save",
-    "summary": "Upgrade your home’s comfort and reduce energy use with Entergy Mississippi’s Entergy Solutions programs.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/upgrade-to-energy-efficient-products-and-save",
-    "timestamp": "2026-07-31T22:23:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/upgrade-to-energy-efficient-products-and-save"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-31T22:23:28Z",
-    "id": "energy-7c08e44cb23fe19b"
-  },
-  {
-    "title": "UW-Madison: A Midwestern nucleus of fission and fusion",
-    "summary": "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 46.5px 'Utopia Std'; color: #ca5747} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 13.0px; font: 10.0px 'Utopia Std'} span.s1 {letter-spacing: -0.1px} With more than six decades as a top-ranked program in its rearview, the Department of Nuclear Engineering and Engineering Physics (NEEP) at the University of Wisconsin–Madison is hardly slowing down. In fact, NEEP is continuing to grow and develop its faculty, curriculum, and research.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-31/article-8163/uwmadison-a-midwestern-nucleus-of-fission-and-fusion/",
-    "timestamp": "2026-07-31T19:56:17Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-31/article-8163/uwmadison-a-midwestern-nucleus-of-fission-and-fusion/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-31T19:56:17Z",
-    "id": "energy-11e5991e4bf99aaa"
-  },
-  {
-    "title": "GRETA ready for full scientific operations",
-    "summary": "The Gamma-Ray Energy Tracking Array (GRETA), which is installed at the Facility for Rare Isotope Beams (FRIB) at Michigan State University, has successfully completed a commissioning and characterization run, establishing that it is ready for scientific operations. According to Lawrence Berkeley National Laboratory, which made the announcement, the measurements that scientists make with GRETA will improve the theoretical models of the atomic nucleus that underpin research in nuclear physics, astrophysics, energy, medicine, and national security.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-07-31/article-8262/greta-ready-for-full-scientific-operations/",
-    "timestamp": "2026-07-31T17:46:26Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-07-31/article-8262/greta-ready-for-full-scientific-operations/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-07-31T17:46:26Z",
-    "id": "energy-31f8d31ae4ac0e71"
-  },
-  {
-    "title": "Entergy announces quarterly dividend payment to shareholders",
-    "summary": "Entergy’s board of directors today declared a quarterly dividend payment of $0.64 per share on the company’s common stock.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-announces-quarterly-dividend-payment-to-shareholders-5",
-    "timestamp": "2026-07-31T17:45:57Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-announces-quarterly-dividend-payment-to-shareholders-5"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-07-31T17:45:57Z",
-    "id": "energy-88b26cb05e8e7a75"
-  },
-  {
-    "title": "CIFP Reliability Backstop Procurement – PJM Board Decision",
-    "summary": "Updated Date: 07.31.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-reliability-backstop-procurement-pjm-board-decision.pdf",
-    "timestamp": "2026-07-31T17:39:00Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-reliability-backstop-procurement-pjm-board-decision.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-07-31T17:39:00Z",
-    "id": "energy-b70129d531fd66ef"
-  },
-  {
-    "title": "CIFP Framework for Service During Periods of Insufficient Resource Adequacy – Executive Summary",
-    "summary": "Updated Date: 07.31.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-framework-for-service-during-periods-of-insufficient-resource-adequacy-executive-summary.pdf",
-    "timestamp": "2026-07-31T17:39:00Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260727-cifp-framework-for-service-during-periods-of-insufficient-resource-adequacy-executive-summary.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-07-31T17:39:00Z",
-    "id": "energy-d612a2fe0f55738d"
   }
 ]

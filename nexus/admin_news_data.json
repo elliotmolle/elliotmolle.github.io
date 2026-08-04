@@ -1,57 +1,381 @@
 [
   {
-    "title": "The AI bubble is popping; we just don't know it yet",
+    "title": "Roame (YC S23) Is Hiring Lead Engineer",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
-    "timestamp": "2026-08-03T11:59:10Z",
+    "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+    "timestamp": "2026-08-04T12:00:51Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
+      "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-03T11:59:10Z",
-    "id": "energy-64e03dd1b66adc93"
+    "data_as_of": "2026-08-04T12:00:51Z",
+    "id": "energy-f721534316f29d14"
   },
   {
-    "title": "Wolverine’s Going To Get His Butt Out In Insomniac’s New Game",
-    "summary": "ESRB's game description reveals all",
+    "title": "This Text Is Too Dang Small",
+    "summary": "Beast of Reincarnation has a major accessibility issue",
     "source": "Kotaku",
-    "url": "https://kotaku.com/wolverine-butt-insomniac-marvel-bottom-bum-rear-ass-cheeks-2000721164",
-    "timestamp": "2026-08-03T11:30:12Z",
+    "url": "https://kotaku.com/text-small-beast-of-reincarnation-2000721285",
+    "timestamp": "2026-08-04T12:00:40Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/wolverine-butt-insomniac-marvel-bottom-bum-rear-ass-cheeks-2000721164"
+      "https://kotaku.com/text-small-beast-of-reincarnation-2000721285"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-03T11:30:12Z",
-    "id": "energy-9b3054044b542dd3"
+    "data_as_of": "2026-08-04T12:00:40Z",
+    "id": "energy-302bdf953da1d167"
   },
   {
-    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+    "title": "14 years later, Spider-Man fails to fix the Hulk's most frustrating character flaw in the MCU",
+    "summary": "In Spider-Man: Brand New Day, Hulk loses a fight to Spider-Man. This contines a trend in Marvel movies where the Hulk always loses against others.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/will-the-hulk-ever-win-a-fight-again-in-the-mcu/",
+    "timestamp": "2026-08-04T12:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/will-the-hulk-ever-win-a-fight-again-in-the-mcu/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T12:00:12Z",
+    "id": "energy-a0a3107de14e1983"
+  },
+  {
+    "title": "Buckminster Fuller: everything I know",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "timestamp": "2026-08-03T11:28:54Z",
+    "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+    "timestamp": "2026-08-04T11:33:32Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+      "https://www.bfi.org/about-fuller/everything-i-know/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-03T11:28:54Z",
-    "id": "energy-5ef52c38c21304ad"
+    "data_as_of": "2026-08-04T11:33:32Z",
+    "id": "energy-3fafa76bad0b69c3"
+  },
+  {
+    "title": "Nobel Disease",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://en.wikipedia.org/wiki/Nobel_disease",
+    "timestamp": "2026-08-04T11:08:18Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Nobel_disease"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T11:08:18Z",
+    "id": "energy-9dfc4a0a696b2002"
+  },
+  {
+    "title": "Magic’s The Hobbit introduces a clever new mechanic and a color-pie problem",
+    "summary": "Among the new mechanics introduced with the Hobbit, one has great potential and one was designed to break the color pie.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/mtg-the-hobbit-magic-the-gathering-mechanics-recruit-hone-counters/",
+    "timestamp": "2026-08-04T11:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/mtg-the-hobbit-magic-the-gathering-mechanics-recruit-hone-counters/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T11:00:12Z",
+    "id": "energy-35c86933b3930c01"
+  },
+  {
+    "title": "Rust's next force wipe update caters to clans, alarming solos",
+    "summary": "This force wipe will include various new features for Rust players to try out, but they might have trouble doing it if they're not in a large group.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/rust-august-update-concerning-for-solo-players/",
+    "timestamp": "2026-08-04T10:13:24Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/rust-august-update-concerning-for-solo-players/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T10:13:24Z",
+    "id": "energy-4e3a2098031c4163"
+  },
+  {
+    "title": "Zelevinsky Segments and Hyperspecial Branching Laws for All Depth-Zero Representations of GL_N(F)",
+    "summary": "arXiv:2608.00941v1 Announce Type: new Abstract: For every irreducible depth-zero representation of the general linear group over a non-Archimedean local field, parameterized by multisets of segments in the sense of Zelevinsky, we determine the complete decomposition of the space of vectors fixed by the pro-unipotent radical of a hyperspecial maximal compact subgroup. The decomposition is described explicitly in terms of the Zelevinsky parameters: the irreducible constituents are governed by Kostka numbers and Zelevinsky decomposition numbers, and they are naturally bounded between two partitions arising from the Zelevinsky segments of the representation and of its Aubert dual. In the generic case the result is given entirely by Kostka numbers. For general depth-zero Bernstein blocks, the multiplicities are products of the corresponding single-block multiplicities. We first prove, for an arbitrary unramified connected reductive group, that the functor of taking pro-unipotent fixed vectors intertwines Zelevinsky--Aubert duality on the p-adic side with Alvis--Curtis duality on the finite side. The proof for general linear groups combines Bushnell--Kutzko types, finite Harish--Chandra…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.00941",
+    "timestamp": "2026-08-04T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.00941"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-04T04:00:00Z",
+    "id": "energy-c5a8c6aa8d23853b"
+  },
+  {
+    "title": "Yang-Mills theory for multiplicative Ehresmann connections",
+    "summary": "arXiv:2607.10904v2 Announce Type: replace Abstract: We develop a twofold generalization of classical Yang-Mills theory, extending it from principal bundles to the setting of possibly non-transitive and non-integrable Lie algebroids. The classical theory is recovered when one considers the Atiyah algebroid of a principal bundle. In our framework, principal bundle connections are replaced by the more general notion of (infinitesimal) multiplicative Ehresmann connections. An action functional for such connections is constructed, now including a curvature 3-form contribution, alongside the usual curvature 2-form term, and the resulting variational problem is naturally constrained by a cohomological condition. We derive the associated Euler-Lagrange equations, and define a class of self-dual solutions (instantons) in both 4 and 5 dimensions. We also show that the solution space is invariant under gauge transformations, and compute its tangent space at a solution. As an important example, we show that our framework produces a Yang-Mills theory for connections on bundle gerbes.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.10904",
+    "timestamp": "2026-08-04T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.10904"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-04T04:00:00Z",
+    "id": "energy-e8c1b376ec1a8dc9"
+  },
+  {
+    "title": "Word maps and surface relations in symmetric groups",
+    "summary": "arXiv:2608.02210v1 Announce Type: new Abstract: We study the expected number of fixed points of a random permutation obtained via a word map, with surface group constraints imposed. For stable irreducible characters $\\chi$ of the symmetric group $S_{n}$ and with $R_{g}=[a_{1},b_{1}]\\dots[a_{g},b_{g}]$ and $w\\in F_{2g}$, we compute $\\mathbb{E}_{S_{n}^{2g}}\\left[\\chi\\left(R_{g}(h)\\right)\\#\\mathrm{fix}\\left(w(h)\\right)\\right]$. We show that, if $w$ is a shortest representative for the conjugacy class of $\\gamma\\in\\Gamma_{g}=\\left\\langle a_{1},b_{1},\\dots,a_{g},b_{g}:R_{g}\\right\\rangle$, then this expectation is $O\\left(1/\\dim\\chi\\right)$. As an application, we recover a boundedness statement of Magee--Puder on the large $n$ limit of the expected number of fixed points of $\\phi_{n}(\\gamma)$, where $\\gamma\\in\\Gamma_{g}$ is fixed and $\\phi_{n}\\in\\hom\\left(\\Gamma_{g},S_{n}\\right)$ is chosen uniformly at random.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.02210",
+    "timestamp": "2026-08-04T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.02210"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-04T04:00:00Z",
+    "id": "energy-410ac0c857b6dc7d"
+  },
+  {
+    "title": "Does The Dog Die In Beast Of Reincarnation?",
+    "summary": "You know you were wondering what happens to Koo",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/beast-of-reincarnation-koo-does-the-dog-die-wolf-spoiler-2000721239",
+    "timestamp": "2026-08-04T00:40:29Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/beast-of-reincarnation-koo-does-the-dog-die-wolf-spoiler-2000721239"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T00:40:29Z",
+    "id": "energy-4874417449537860"
+  },
+  {
+    "title": "Beast of Reincarnation: The Kotaku Review",
+    "summary": "Game Freak’s Soulslike action RPG show the Pokémon studio at its most ambitious",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/beast-of-reincarnation-game-freak-soulslike-review-pokemon-2000721290",
+    "timestamp": "2026-08-04T00:00:41Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/beast-of-reincarnation-game-freak-soulslike-review-pokemon-2000721290"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T00:00:41Z",
+    "id": "energy-b8a1883cdc2a629c"
+  },
+  {
+    "title": "Some Liquipedia Pages Are Broken",
+    "summary": "Multiple pages on Liquipedia show various error messages like these. Does anybody know how to fix this? NRG Match History Page G8 2022 Page G8 2022 Page submitted by /u/V24O [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1verytr/some_liquipedia_pages_are_broken/",
+    "timestamp": "2026-08-03T22:22:45Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1verytr/some_liquipedia_pages_are_broken/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-03T22:22:45Z",
+    "id": "energy-85f8e457c0f924d5"
+  },
+  {
+    "title": "2026 RLCS “Ultimate Live Experience”",
+    "summary": "I bought my son and myself “ultimate live experience” tickets to the 2026 RLCS Championship in Ft. Worth. Can anyone help me understand what these are? I’m finding little to no information on what it means as far as our experience. Any help would be appreciated, thank you! submitted by /u/BrtRnldsMstsh [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vensfw/2026_rlcs_ultimate_live_experience/",
+    "timestamp": "2026-08-03T19:45:07Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vensfw/2026_rlcs_ultimate_live_experience/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-03T19:45:07Z",
+    "id": "energy-2b7d6d559673a2e7"
+  },
+  {
+    "title": "Virtus.Pro: Jknaps will be standing in as Head Coach for our Rocket League team during EWC while Memory is away for personal reasons.",
+    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1veltd6/virtuspro_jknaps_will_be_standing_in_as_head/",
+    "timestamp": "2026-08-03T18:33:05Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1veltd6/virtuspro_jknaps_will_be_standing_in_as_head/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-03T18:33:05Z",
+    "id": "energy-36d1393da36b6e8e"
+  },
+  {
+    "title": "Gen Developers Condemn MISO Add-On Queue Processes, Study Design",
+    "summary": "By Amanda Durish Cook Developers derided MISO’s extracurricular interconnection queue processes for certain generation proposals and for its AI-produced queue studies. Meanwhile, the RTO outlined the need for another exclusive queue path for large load and generation duos. The tension was on display at Infocast’s Midcontinent Clean Energy Summit July 28-29. “We’ve manufactured a process […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/gen-developers-condemn-miso-add-on-queue-processes-study-design/",
+    "timestamp": "2026-08-03T14:45:53Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/gen-developers-condemn-miso-add-on-queue-processes-study-design/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-03T14:45:53Z",
+    "id": "energy-29ca9237cf407870"
+  },
+  {
+    "title": "Industry Players Upbeat On MISO Storage Prospects",
+    "summary": "By Amanda Durish Cook Panelists unilaterally agreed that it’s energy storage’s time to shine in MISO – at least in the Midwest region – at Infocast’s annual Midcontinent Clean Energy Summit. “I would characterize MISO’s storage portfolio as in its infancy but growing in momentum,” Jamie Mears, a project manager with Ørsted, said during the […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/industry-players-upbeat-on-miso-storage-prospects/",
+    "timestamp": "2026-08-03T14:44:32Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/industry-players-upbeat-on-miso-storage-prospects/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-03T14:44:32Z",
+    "id": "energy-ebd6f57ad1de85e1"
+  },
+  {
+    "title": "Opinion: Want to Fight Back Against Big Tech? Start Here.",
+    "summary": "By Tressie McMillan Cottom In June, I wrote about how the data center revolts happening across the country get to the heart of our greatest political problems. Artificial intelligence is not just a market product or a scientific achievement. It is a political theory. And it is gobbling up our democracy. The challenge this presents […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/opinion-want-to-fight-back-against-big-tech-start-here/",
+    "timestamp": "2026-08-03T14:43:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/opinion-want-to-fight-back-against-big-tech-start-here/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-03T14:43:33Z",
+    "id": "energy-30412c490779d910"
+  },
+  {
+    "title": "The Usual Suspects JADE, a Roland JD-990 simulator, is in development",
+    "summary": "JADE from The Usual Suspects is a Roland JD-990 simulator currently in alpha, still in development. We’ve covered similar projects from The Usual Suspects, including JE-8086 (Roland JP-8080) and Xenia (Waldorf Microwave II/XT). JADE will bring us the sounds of another Roland classic, the JD-990 (Super JD). The JD-990 earns the Super JD name as [...] View post: The Usual Suspects JADE, a Roland JD-990 simulator, is in development",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/03/the-usual-suspects-jade/",
+    "timestamp": "2026-08-03T14:04:04Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/03/the-usual-suspects-jade/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-03T14:04:04Z",
+    "id": "energy-b3dfb8f71c751586"
+  },
+  {
+    "title": "Native Instruments FM8 drops to its lowest-ever $10 price at Plugin Boutique",
+    "summary": "Plugin Boutique is offering Native Instruments FM8 for $10 until August 16th. This is the lowest price I have ever seen for FM8. We have covered some great Native Instruments deals on BPB before, including FM8 at $24.50 last year, but I don’t remember seeing it drop below $10. If you have been waiting to [...] View post: Native Instruments FM8 drops to its lowest-ever $10 price at Plugin Boutique",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/03/native-instruments-fm8-deal/",
+    "timestamp": "2026-08-03T13:58:57Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/03/native-instruments-fm8-deal/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-03T13:58:57Z",
+    "id": "energy-50410b4c130b449b"
   },
   {
     "title": "OMNi (alpha v0.1), a FREE Rust-based DAW with native AI sample generation",
@@ -72,267 +396,6 @@
     "id": "energy-c559e0b50e6cfe7e"
   },
   {
-    "title": "9front \"This Was Supposed to Be Fun\" Released",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://9front.org/releases/2026/08/02/0/",
-    "timestamp": "2026-08-03T11:17:56Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://9front.org/releases/2026/08/02/0/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-03T11:17:56Z",
-    "id": "energy-6ee622d21412416e"
-  },
-  {
-    "title": "Divinity fan discovers massive secret hiding in the game's trailer",
-    "summary": "A Divinity content creator has translated the Elder Futhark runic language to reveal the Lord of Chaos is likely the main antagonist in Divinity.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/divinity-lord-of-chaos-hidden-runes-trailer/",
-    "timestamp": "2026-08-03T09:51:05Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/divinity-lord-of-chaos-hidden-runes-trailer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-03T09:51:05Z",
-    "id": "energy-fda32d6f9358b531"
-  },
-  {
-    "title": "There will be nudity in Marvel's Wolverine — but there's a catch",
-    "summary": "Alongside gore and guts, players should expect plenty of cake when Marvel's Wolverine releases on the PlayStation 5 this September 15.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/marvel-wolverine-nudity-ps5/",
-    "timestamp": "2026-08-03T09:35:56Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/marvel-wolverine-nudity-ps5/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-03T09:35:56Z",
-    "id": "energy-6802c33890b6bdb8"
-  },
-  {
-    "title": "Fortnite teases upcoming Gaming Legends season with hidden Easter egg",
-    "summary": "Recent leaks indicate Chapter 7 Season 4 will be gaming-themed, and an audio on the Fortnite island points towards this as well",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-gaming-legends-season-teaser/",
-    "timestamp": "2026-08-03T09:09:58Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fortnite-gaming-legends-season-teaser/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-03T09:09:58Z",
-    "id": "energy-784e60374a355202"
-  },
-  {
-    "title": "Zeros of the generalized Wronskian-Hermite polynomials",
-    "summary": "arXiv:2607.29027v1 Announce Type: new Abstract: In this paper, we study generalized Wronskian-Hermite (WH) polynomials associated with arithmetic-progression index sets. We verify the conjecture that all nonzero roots are simple for three subclasses of these polynomials, which, in a natural sense, cover more than half of the relevant parameter range. We also provide an interpretation of the root multiplicity at $z=0$ in terms of Young diagrams. In addition, we show that certain members of generalized WH polynomials provide representations of rational solutions of the Noumi-Yamada systems, a family of higher-order Painlev\\'e equations. Finally, we apply our results to the large-parameter asymptotic analysis of rogue wave patterns for the multi-component Hirota equation.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.29027",
-    "timestamp": "2026-08-03T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.29027"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-03T04:00:00Z",
-    "id": "energy-fbaa62d215202570"
-  },
-  {
-    "title": "Wigner negativity and stellar rank for SU(1,1) states",
-    "summary": "arXiv:2607.22810v3 Announce Type: replace-cross Abstract: Quasiprobability distributions for systems endowed with SU(1,1) dynamical symmetry have received surprisingly little attention, despite the central role of this symmetry in two-photon physics, squeezed states, and nonlinear interferometry. Here, we fill this gap by constructing a full covariant family of $s$-ordered quasiprobability distributions defined on the two-sheeted hyperboloid, or equivalently, on the Poincar\\'e unit disk via stereographic projection. A key result is that the Wigner function is strictly positive for all Perelomov SU(1,1) coherent states, in sharp contrast to the SU(2) case. This positivity endows Wigner negativity with an unambiguous operational meaning: any negative volume is a direct signature of genuinely quantum behavior. We further examine the stellar rank of SU(1,1) states, defined through the zeros of the Husimi $Q$-function, and show how it compares with Wigner negativity as a geometry-adapted witness of nonclassicality in this setting. We further introduce a hierarchy of generalized multipoles through a harmonic expansion of the density operator on the hyperboloid, providing a complementary…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.22810",
-    "timestamp": "2026-08-03T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.22810"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-03T04:00:00Z",
-    "id": "energy-3822a4f811a3426f"
-  },
-  {
-    "title": "Why a mid-depth stress-free boundary condition is incorrect for Ekman flows",
-    "summary": "arXiv:2607.29261v1 Announce Type: cross Abstract: We show that the assumption of a stress-free boundary condition at a finite intermediate depth, namely, at the bottom of the Ekman layer, in the analysis of wind-driven ocean flows necessarily leads to an unphysical current profile. Indeed, if the $z$-derivative of the fluid velocity vanishes at a given depth, then this depth necessarily corresponds to a minimum of the velocity profile, with the velocity increasing beneath it. Using a WKB ansatz based on the small variations of the ocean's water density at great depths, we also argue that a no-slip condition at the bottom of the ocean, if sufficiently deep, still effectively implies (up to a very small error) the orthogonality of the Ekman transport and the wind-stress.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.29261",
-    "timestamp": "2026-08-03T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.29261"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-03T04:00:00Z",
-    "id": "energy-46bffa556c9e5fc1"
-  },
-  {
-    "title": "‘Retro Game Master’ Shinya Arino Makes Fans Feel Ancient As Wii Games Up For Consideration",
-    "summary": "The beloved Japanese comedy program is making its audience feel like fossils, as the Nintendo Wii and Sony PlayStation 3 are in consideration for the retro gaming show",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/retro-game-master-shinya-arino-makes-fans-feel-ancient-as-wii-games-up-for-consideration-2000721080",
-    "timestamp": "2026-08-02T21:57:01Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/retro-game-master-shinya-arino-makes-fans-feel-ancient-as-wii-games-up-for-consideration-2000721080"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-02T21:57:01Z",
-    "id": "energy-d4db5b9df4761e3e"
-  },
-  {
-    "title": "Multiple Major ASMR Accounts Suddenly Removed From YouTube Over ‘Explicit Content’",
-    "summary": "Intimacy and erotica become conflated as YouTube’s crude sweep raises obvious double standards on the massive video platform",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/multiple-major-asmr-accounts-suddenly-removed-from-youtube-over-explicit-content-2000721076",
-    "timestamp": "2026-08-02T20:55:49Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/multiple-major-asmr-accounts-suddenly-removed-from-youtube-over-explicit-content-2000721076"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-02T20:55:49Z",
-    "id": "energy-59b5e77ee978401e"
-  },
-  {
-    "title": "FIFAe Rocket League World Cup stats",
-    "summary": "https://preview.redd.it/q5dhi1je20hh1.png?width=1411&format=png&auto=webp&s=07aa6e24933235be572815b77a495f27d091b4c0 All player stats at the comments submitted by /u/guigo-21 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vdolog/fifae_rocket_league_world_cup_stats/",
-    "timestamp": "2026-08-02T17:51:54Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vdolog/fifae_rocket_league_world_cup_stats/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-02T17:51:54Z",
-    "id": "energy-186c688768769960"
-  },
-  {
-    "title": "RLFS S5 [Swiss - Round 4]: Firstkiller Moves to a Major Region [Firstkiller, Seikoo, Oaly] vs. Play Dough Squad [dralii, diaz, Abdullah]",
-    "summary": "Rocket League Fantasy Series (RLFS) - Season 5 The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. Swiss - Round 4 - Game 4 Firstkiller Moves to a Major Region Firstkiller Seikoo Oaly GM Message: 2/3rds of my opponent's team will have to try to qualify for world's group stage through play-ins and diaz is a 1s merchant. Dralii is meant to be his star player but he has been extremely poor this season. Play Dough Squad dralii diaz) Abdullah GM Message: N/A Assumptions for Voting - Assume that all players are capable o…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vdjuc1/rlfs_s5_swiss_round_4_firstkiller_moves_to_a/",
-    "timestamp": "2026-08-02T14:42:15Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vdjuc1/rlfs_s5_swiss_round_4_firstkiller_moves_to_a/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-02T14:42:15Z",
-    "id": "energy-87fda2a74e7ac46b"
-  },
-  {
-    "title": "Shadaloo Audio DSP releases APD Compressor vocal compressor for FREE",
-    "summary": "Shadaloo Audio DSP has released APD Compressor, a free/pay-what-you-want vocal compressor plugin for macOS and Windows. We recently covered several plugins from Fabio “Shadaloo” Caterino, including the free H tone and loudness enhancer, the Wide spatial enhancement plugin, and the excellent Vinland Drive tape emulator. APD Compressor continues the developer’s pay-what-you-want approach. You can enter [...] View post: Shadaloo Audio DSP releases APD Compressor vocal compressor for FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/02/shadaloo-audio-dsp-releases-apd-compressor-vocal-compressor-for-free/",
-    "timestamp": "2026-08-02T14:14:52Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/02/shadaloo-audio-dsp-releases-apd-compressor-vocal-compressor-for-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-02T14:14:52Z",
-    "id": "energy-19fd43b2a416caa9"
-  },
-  {
-    "title": "Best of r/RocketLeagueEsports - July 2026",
-    "summary": "submitted by /u/RLEsportsMods [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vdiu81/best_of_rrocketleagueesports_july_2026/",
-    "timestamp": "2026-08-02T14:00:18Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vdiu81/best_of_rrocketleagueesports_july_2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-02T14:00:18Z",
-    "id": "energy-a335445d12af7c76"
-  },
-  {
-    "title": "ZL Audio releases ZL Spectrum Equalizer, a FREE dynamic spectrum EQ",
-    "summary": "ZL Audio has released ZL Spectrum Equalizer, a free and open-source dynamic spectrum equalizer plugin for Windows, macOS, and Linux. I already expected something like this coming from ZL Audio at some point. The developer is behind the excellent ZL Equalizer 2 and ZL Compressor, both of which received some fantastic feedback from the BPB [...] View post: ZL Audio releases ZL Spectrum Equalizer, a FREE dynamic spectrum EQ",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/02/zl-spectrum-equalizer/",
-    "timestamp": "2026-08-02T12:46:58Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/02/zl-spectrum-equalizer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-02T12:46:58Z",
-    "id": "energy-b75d6c0a9aadb7c5"
-  },
-  {
     "title": "Best of July 2026",
     "summary": "Highlights from the eight conversations released last month.",
     "source": "Volts",
@@ -349,68 +412,5 @@
     "primary_source": false,
     "data_as_of": "2026-08-02T12:03:00Z",
     "id": "energy-c4ce654c2baea1e0"
-  },
-  {
-    "title": "MISO Issues Load Pocket Advisory For South Region For Fifth Consecutive Day",
-    "summary": "By Ronnie Turner • Covers Southeast Texas load pocket through July 31 • Forced outage reducing load serving capability: MISO The Midcontinent Independent System Operator issued a load pocket advisory for its South Region for July 31 because of a forced generation outage. The advisory is effective from 1 pm ET to 7 pm July […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/miso-issues-load-pocket-advisory-for-south-region-for-fifth-consecutive-day/",
-    "timestamp": "2026-07-31T14:34:13Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/miso-issues-load-pocket-advisory-for-south-region-for-fifth-consecutive-day/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-31T14:34:13Z",
-    "id": "energy-e9ccf81e6cd80bf7"
-  },
-  {
-    "title": "MISO State Regulators Divided On Coal Extensions vs. Battery Buildout",
-    "summary": "By Amanda Durish Cook Regulators of MISO states debated the merits of resurrecting or extending coal plant operations, with some saying it’s a necessary bridge as demand surges while others said new energy storage could get the job done at roughly the same cost. Indiana Utility Regulatory Commissioner Andy Zay said maintaining the state’s coal […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/miso-state-regulators-divided-on-coal-extensions-vs-battery-buildout/",
-    "timestamp": "2026-07-31T14:33:38Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/miso-state-regulators-divided-on-coal-extensions-vs-battery-buildout/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-31T14:33:38Z",
-    "id": "energy-4ee928a5516e807f"
-  },
-  {
-    "title": "Paducah AI Hub Wins $100B Federal Deal: Power Built In, No Tenant Named",
-    "summary": "By Clayton Lewis On July 29, a patch of western Kentucky farmland that spent six decades enriching uranium for the nation’s nuclear arsenal landed the largest economic development commitment in Kentucky’s history — and nobody can yet say who will use it. The U.S. Department of Energy announced on July 29, 2026, a partnership with […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/07/paducah-ai-hub-wins-100b-federal-deal-power-built-in-no-tenant-named/",
-    "timestamp": "2026-07-31T14:33:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/07/paducah-ai-hub-wins-100b-federal-deal-power-built-in-no-tenant-named/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-07-31T14:33:02Z",
-    "id": "energy-418b5a82cbd46660"
   }
 ]
