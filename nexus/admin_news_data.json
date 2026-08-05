@@ -1,399 +1,417 @@
 [
   {
-    "title": "Roame (YC S23) Is Hiring Lead Engineer",
+    "title": "Polling shows a growing political reckoning is coming for data centers",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
-    "timestamp": "2026-08-04T12:00:51Z",
+    "url": "https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799",
+    "timestamp": "2026-08-05T11:13:19Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer"
+      "https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-04T12:00:51Z",
-    "id": "energy-f721534316f29d14"
+    "data_as_of": "2026-08-05T11:13:19Z",
+    "id": "energy-b86e85fad61807fd"
   },
   {
-    "title": "This Text Is Too Dang Small",
-    "summary": "Beast of Reincarnation has a major accessibility issue",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/text-small-beast-of-reincarnation-2000721285",
-    "timestamp": "2026-08-04T12:00:40Z",
-    "topic": "Gaming",
+    "title": "Line 6 launches FREE Helix Stadium Native Intro amp plugin",
+    "summary": "Line 6 has launched Helix Stadium Native Intro, a free amp and effects plugin for macOS and Windows. Helix Stadium Native launched on August 4th, 2026, and the Intro license is a permanent free version of the new Helix Stadium Native plugin with fewer models. I also think it is worth clarifying what this does [...] View post: Line 6 launches FREE Helix Stadium Native Intro amp plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/05/helix-stadium-native/",
+    "timestamp": "2026-08-05T11:11:10Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/text-small-beast-of-reincarnation-2000721285"
+      "https://bedroomproducersblog.com/2026/08/05/helix-stadium-native/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-04T12:00:40Z",
-    "id": "energy-302bdf953da1d167"
+    "data_as_of": "2026-08-05T11:11:10Z",
+    "id": "energy-380b28b192d2df31"
   },
   {
-    "title": "14 years later, Spider-Man fails to fix the Hulk's most frustrating character flaw in the MCU",
-    "summary": "In Spider-Man: Brand New Day, Hulk loses a fight to Spider-Man. This contines a trend in Marvel movies where the Hulk always loses against others.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/will-the-hulk-ever-win-a-fight-again-in-the-mcu/",
-    "timestamp": "2026-08-04T12:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/will-the-hulk-ever-win-a-fight-again-in-the-mcu/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-04T12:00:12Z",
-    "id": "energy-a0a3107de14e1983"
-  },
-  {
-    "title": "Buckminster Fuller: everything I know",
+    "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-    "timestamp": "2026-08-04T11:33:32Z",
+    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "timestamp": "2026-08-05T11:03:13Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.bfi.org/about-fuller/everything-i-know/"
+      "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-04T11:33:32Z",
-    "id": "energy-3fafa76bad0b69c3"
+    "data_as_of": "2026-08-05T11:03:13Z",
+    "id": "energy-598904efedc4cdde"
   },
   {
-    "title": "Nobel Disease",
+    "title": "Position: LLMs Can't Jump",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://en.wikipedia.org/wiki/Nobel_disease",
-    "timestamp": "2026-08-04T11:08:18Z",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "timestamp": "2026-08-05T11:01:37Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://en.wikipedia.org/wiki/Nobel_disease"
+      "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-04T11:08:18Z",
-    "id": "energy-9dfc4a0a696b2002"
+    "data_as_of": "2026-08-05T11:01:37Z",
+    "id": "energy-8ad80d3d439682cc"
   },
   {
-    "title": "Magic’s The Hobbit introduces a clever new mechanic and a color-pie problem",
-    "summary": "Among the new mechanics introduced with the Hobbit, one has great potential and one was designed to break the color pie.",
+    "title": "In Less Than One Minute, Star Wars' New Show Finally Does What Lucasfilm Never Could",
+    "summary": "The Ninth Jedi proves that the future of Star Wars should have nothing to do with anybody named Skywalker",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/mtg-the-hobbit-magic-the-gathering-mechanics-recruit-hone-counters/",
-    "timestamp": "2026-08-04T11:00:12Z",
+    "url": "https://www.polygon.com/star-wars-ninth-jedi-no-skywalkers/",
+    "timestamp": "2026-08-05T11:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/mtg-the-hobbit-magic-the-gathering-mechanics-recruit-hone-counters/"
+      "https://www.polygon.com/star-wars-ninth-jedi-no-skywalkers/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-04T11:00:12Z",
-    "id": "energy-35c86933b3930c01"
+    "data_as_of": "2026-08-05T11:00:12Z",
+    "id": "energy-239cdaf703f8e0ad"
   },
   {
-    "title": "Rust's next force wipe update caters to clans, alarming solos",
-    "summary": "This force wipe will include various new features for Rust players to try out, but they might have trouble doing it if they're not in a large group.",
+    "title": "Get noshige76 FET compressor plugin FREE until August 19th",
+    "summary": "noshigeSound is offering noshige76, a new FET-style compressor plugin for macOS and Windows, as a free download until August 19th, 2026. The plugin launched on August 5th, and the free offer runs through the end of August 19th UTC. During that window, anyone with a free noshigeSound account can claim a perpetual noshige76 license for [...] View post: Get noshige76 FET compressor plugin FREE until August 19th",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/05/noshige76-fet-free/",
+    "timestamp": "2026-08-05T10:42:17Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/05/noshige76-fet-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-05T10:42:17Z",
+    "id": "energy-c75f9ed1fa0982b0"
+  },
+  {
+    "title": "Mass layoffs may be in EA's near future after leveraged buyout raises company debt by $18 billion",
+    "summary": "EA has told debt investors that it will cut $700 million annually, including $170 million in 'organizational efficiencies.'",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/rust-august-update-concerning-for-solo-players/",
-    "timestamp": "2026-08-04T10:13:24Z",
+    "url": "https://www.polygon.com/ea-layoffs-leveraged-buyout-debt-18-billion/",
+    "timestamp": "2026-08-05T10:39:15Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/rust-august-update-concerning-for-solo-players/"
+      "https://www.polygon.com/ea-layoffs-leveraged-buyout-debt-18-billion/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-04T10:13:24Z",
-    "id": "energy-4e3a2098031c4163"
+    "data_as_of": "2026-08-05T10:39:15Z",
+    "id": "energy-22ff7c4dba2e937f"
   },
   {
-    "title": "Zelevinsky Segments and Hyperspecial Branching Laws for All Depth-Zero Representations of GL_N(F)",
-    "summary": "arXiv:2608.00941v1 Announce Type: new Abstract: For every irreducible depth-zero representation of the general linear group over a non-Archimedean local field, parameterized by multisets of segments in the sense of Zelevinsky, we determine the complete decomposition of the space of vectors fixed by the pro-unipotent radical of a hyperspecial maximal compact subgroup. The decomposition is described explicitly in terms of the Zelevinsky parameters: the irreducible constituents are governed by Kostka numbers and Zelevinsky decomposition numbers, and they are naturally bounded between two partitions arising from the Zelevinsky segments of the representation and of its Aubert dual. In the generic case the result is given entirely by Kostka numbers. For general depth-zero Bernstein blocks, the multiplicities are products of the corresponding single-block multiplicities. We first prove, for an arbitrary unramified connected reductive group, that the functor of taking pro-unipotent fixed vectors intertwines Zelevinsky--Aubert duality on the p-adic side with Alvis--Curtis duality on the finite side. The proof for general linear groups combines Bushnell--Kutzko types, finite Harish--Chandra…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.00941",
-    "timestamp": "2026-08-04T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.00941"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-04T04:00:00Z",
-    "id": "energy-c5a8c6aa8d23853b"
-  },
-  {
-    "title": "Yang-Mills theory for multiplicative Ehresmann connections",
-    "summary": "arXiv:2607.10904v2 Announce Type: replace Abstract: We develop a twofold generalization of classical Yang-Mills theory, extending it from principal bundles to the setting of possibly non-transitive and non-integrable Lie algebroids. The classical theory is recovered when one considers the Atiyah algebroid of a principal bundle. In our framework, principal bundle connections are replaced by the more general notion of (infinitesimal) multiplicative Ehresmann connections. An action functional for such connections is constructed, now including a curvature 3-form contribution, alongside the usual curvature 2-form term, and the resulting variational problem is naturally constrained by a cohomological condition. We derive the associated Euler-Lagrange equations, and define a class of self-dual solutions (instantons) in both 4 and 5 dimensions. We also show that the solution space is invariant under gauge transformations, and compute its tangent space at a solution. As an important example, we show that our framework produces a Yang-Mills theory for connections on bundle gerbes.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.10904",
-    "timestamp": "2026-08-04T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.10904"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-04T04:00:00Z",
-    "id": "energy-e8c1b376ec1a8dc9"
-  },
-  {
-    "title": "Word maps and surface relations in symmetric groups",
-    "summary": "arXiv:2608.02210v1 Announce Type: new Abstract: We study the expected number of fixed points of a random permutation obtained via a word map, with surface group constraints imposed. For stable irreducible characters $\\chi$ of the symmetric group $S_{n}$ and with $R_{g}=[a_{1},b_{1}]\\dots[a_{g},b_{g}]$ and $w\\in F_{2g}$, we compute $\\mathbb{E}_{S_{n}^{2g}}\\left[\\chi\\left(R_{g}(h)\\right)\\#\\mathrm{fix}\\left(w(h)\\right)\\right]$. We show that, if $w$ is a shortest representative for the conjugacy class of $\\gamma\\in\\Gamma_{g}=\\left\\langle a_{1},b_{1},\\dots,a_{g},b_{g}:R_{g}\\right\\rangle$, then this expectation is $O\\left(1/\\dim\\chi\\right)$. As an application, we recover a boundedness statement of Magee--Puder on the large $n$ limit of the expected number of fixed points of $\\phi_{n}(\\gamma)$, where $\\gamma\\in\\Gamma_{g}$ is fixed and $\\phi_{n}\\in\\hom\\left(\\Gamma_{g},S_{n}\\right)$ is chosen uniformly at random.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.02210",
-    "timestamp": "2026-08-04T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.02210"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-04T04:00:00Z",
-    "id": "energy-410ac0c857b6dc7d"
-  },
-  {
-    "title": "Does The Dog Die In Beast Of Reincarnation?",
-    "summary": "You know you were wondering what happens to Koo",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/beast-of-reincarnation-koo-does-the-dog-die-wolf-spoiler-2000721239",
-    "timestamp": "2026-08-04T00:40:29Z",
+    "title": "Two anime giants sign multi-billion deal that will shake up the industry",
+    "summary": "Twin Engine and Bandai Co., Ltd. have signed a massive deal to develop new IPs from manga to anime, and it will shake up the industry",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/twin-engine-bandai-partnership-4-billion-anime/",
+    "timestamp": "2026-08-05T10:26:05Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/beast-of-reincarnation-koo-does-the-dog-die-wolf-spoiler-2000721239"
+      "https://www.polygon.com/twin-engine-bandai-partnership-4-billion-anime/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-04T00:40:29Z",
-    "id": "energy-4874417449537860"
+    "data_as_of": "2026-08-05T10:26:05Z",
+    "id": "energy-db4d007d515bc886"
   },
   {
-    "title": "Beast of Reincarnation: The Kotaku Review",
-    "summary": "Game Freak’s Soulslike action RPG show the Pokémon studio at its most ambitious",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/beast-of-reincarnation-game-freak-soulslike-review-pokemon-2000721290",
-    "timestamp": "2026-08-04T00:00:41Z",
-    "topic": "Gaming",
+    "title": "What should state policymakers do about data centers?",
+    "summary": "A conversation with Saleem Chapman of Climate Cabinet.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/what-should-state-policymakers-do",
+    "timestamp": "2026-08-05T10:14:19Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/beast-of-reincarnation-game-freak-soulslike-review-pokemon-2000721290"
+      "https://www.volts.wtf/p/what-should-state-policymakers-do"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-08-05T10:14:19Z",
+    "id": "energy-d1b6b2d17dc7c23a"
+  },
+  {
+    "title": "SoundBridge: Virtual Collaboration on steroids",
+    "summary": "Choosing a DAW is a weirdly personal thing. Most of us end up with one of the familiar names, learn its shortcuts, build our templates, complain about it often, and then keep using it for years. That is part of the challenge for SoundBridge. It has been around for a long time (originally as Lumit), [...] View post: SoundBridge: Virtual Collaboration on steroids",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/05/soundbridge-review/",
+    "timestamp": "2026-08-05T08:41:34Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/05/soundbridge-review/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-04T00:00:41Z",
-    "id": "energy-b8a1883cdc2a629c"
+    "data_as_of": "2026-08-05T08:41:34Z",
+    "id": "energy-f778d200c4748650"
   },
   {
-    "title": "Some Liquipedia Pages Are Broken",
-    "summary": "Multiple pages on Liquipedia show various error messages like these. Does anybody know how to fix this? NRG Match History Page G8 2022 Page G8 2022 Page submitted by /u/V24O [link] [comments]",
+    "title": "Stumpy has gotten married",
+    "summary": "Included all pics in the following images https://x.com/anna\\_\\_roro/status/2084571970025197840?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1verytr/some_liquipedia_pages_are_broken/",
-    "timestamp": "2026-08-03T22:22:45Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vfwrlz/stumpy_has_gotten_married/",
+    "timestamp": "2026-08-05T04:11:56Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1verytr/some_liquipedia_pages_are_broken/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vfwrlz/stumpy_has_gotten_married/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-03T22:22:45Z",
-    "id": "energy-85f8e457c0f924d5"
+    "data_as_of": "2026-08-05T04:11:56Z",
+    "id": "energy-c1722336e6703d8f"
   },
   {
-    "title": "2026 RLCS “Ultimate Live Experience”",
-    "summary": "I bought my son and myself “ultimate live experience” tickets to the 2026 RLCS Championship in Ft. Worth. Can anyone help me understand what these are? I’m finding little to no information on what it means as far as our experience. Any help would be appreciated, thank you! submitted by /u/BrtRnldsMstsh [link] [comments]",
+    "title": "Zesting and the relative complexity of Reshetikhin-Turaev invariants",
+    "summary": "arXiv:2608.02795v1 Announce Type: new Abstract: We show that the computational complexity of Reshetikhin-Turaev invariants of simply colored links is preserved when their underlying ribbon fusion categories are related by the zesting construction. Zesting modifies an $A$-graded ribbon fusion category $\\mathcal{C}$ with additional algebraic data $\\zeta$ to produce a new category $\\mathcal{C}^{\\zeta}$ whose link invariants are known to differ from those of $\\mathcal{C}$ by an invariant of $A$-colored links $\\mathcal{J}_{\\zeta}$ depending only on $\\zeta$. Building on this understanding and on earlier work on quantum braid group representations under zesting, our result suggests how zesting contributes to the organization of (2+1)D topological quantum field theories and topological phases into complexity-theoretic hierarchies. To prove our main result we develop a local formalism analogous to the Reshetikhin-Turaev construction to compute \\emph{tangle} invariants $\\mathcal{J}_{\\zeta}(T)$, which leads to a polynomial time algorithm to compute invariants of links $\\mathcal{J}_{\\zeta}(L)$. A byproduct of our construction is an identification (up to a sign) of the link invariants $\\mathca…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.02795",
+    "timestamp": "2026-08-05T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.02795"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-05T04:00:00Z",
+    "id": "energy-635a3ff2d4ec1ea0"
+  },
+  {
+    "title": "Yet another note on notation",
+    "summary": "arXiv:2501.08762v2 Announce Type: replace Abstract: Back in 1755, Euler explored an interesting array of numbers that now frequently appears in polynomial identities, combinatorial problems, and finite calculus, among other places. These numbers share a strong connection with well-known number families, such as those of Stirling, Bernoulli, and Fubini. Despite their importance, they often go unnoticed because of the lack of a specific name and standard notation. This paper aims to address this oversight by proposing an appropriate name and notation, aligned with established mathematical conventions, and supported by (we hope) strong enough arguments to facilitate their acceptance from the mathematical community.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2501.08762",
+    "timestamp": "2026-08-05T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2501.08762"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-05T04:00:00Z",
+    "id": "energy-a4448b4cfe2b8e26"
+  },
+  {
+    "title": "Worldsheet Duals to One-Matrix Models",
+    "summary": "arXiv:2604.03126v2 Announce Type: replace-cross Abstract: We derive a concrete closed string dual to any interacting Hermitian one-matrix model, away from the double-scaling limit. Matrix and string correlators manifestly agree, to all orders in the genus expansion and all orders in the 't Hooft coupling(s). The worldsheet theory consists of a supersymmetric B-twisted Landau-Ginzburg model coupled to 2d topological gravity. We provide a precise dictionary between traces of the matrix and vertex operators on the worldsheet. Matrix model correlators are explicitly mapped to computable integrals over the moduli space of Riemann surfaces. We perform several direct cross-checks on both sides of the duality. This work furnishes a detailed instantiation of gauge/string duality, in the standard 't Hooft regime, and hopefully a useful worldsheet toy model for the AdS/CFT correspondence, away from the free field limit.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2604.03126",
+    "timestamp": "2026-08-05T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2604.03126"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-05T04:00:00Z",
+    "id": "energy-9bf1ec8451bbc90f"
+  },
+  {
+    "title": "PSA: Final Fantasy 14 Is Out Now On Nintendo Switch 2 But You Don’t Have To Buy It To Play",
+    "summary": "Hope you have that meme memorized because it's relevant again; something something free trial something something",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/final-fantasy-14-free-trial-nintendo-switch-2-2000721658",
+    "timestamp": "2026-08-04T21:30:56Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/final-fantasy-14-free-trial-nintendo-switch-2-2000721658"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T21:30:56Z",
+    "id": "energy-44f05a7fe10dd692"
+  },
+  {
+    "title": "Game Of Thrones Author George R. R. Martin Shares A Very Sad Note",
+    "summary": "The writer provided an intimate update on his life",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/game-of-thrones-author-george-r-r-martin-shares-a-very-sad-note-2000721660",
+    "timestamp": "2026-08-04T20:45:10Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/game-of-thrones-author-george-r-r-martin-shares-a-very-sad-note-2000721660"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T20:45:10Z",
+    "id": "energy-c81875d5983e4cbd"
+  },
+  {
+    "title": "RLCS Football Comparisons",
+    "summary": "What are some comparisons you guys would make between rlcs players and football players. The straightforward ones I'd say are: Turbopulsa - Pele Kaydop - Maradona Zen - Messi Vatira - Ronaldo Jstn garret kuxir and kronovi should have easy ones too but i cant think who submitted by /u/simbaboom8 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vensfw/2026_rlcs_ultimate_live_experience/",
-    "timestamp": "2026-08-03T19:45:07Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vflvy0/rlcs_football_comparisons/",
+    "timestamp": "2026-08-04T20:23:13Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vensfw/2026_rlcs_ultimate_live_experience/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vflvy0/rlcs_football_comparisons/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-03T19:45:07Z",
-    "id": "energy-2b7d6d559673a2e7"
+    "data_as_of": "2026-08-04T20:23:13Z",
+    "id": "energy-2288cb27e8e0df9a"
   },
   {
-    "title": "Virtus.Pro: Jknaps will be standing in as Head Coach for our Rocket League team during EWC while Memory is away for personal reasons.",
-    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "title": "Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now",
+    "summary": "With the closing of the market today comes the second-biggest acquisition in gaming history",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/electronic-arts-officially-belongs-saudi-arabia-jared-kushner-now-2000721666",
+    "timestamp": "2026-08-04T20:19:04Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/electronic-arts-officially-belongs-saudi-arabia-jared-kushner-now-2000721666"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-04T20:19:04Z",
+    "id": "energy-9ea1a0e67f704b53"
+  },
+  {
+    "title": "RLFS S5 [Swiss - Round 4]: MAGA Man's Magic Toe [Atow, LJ, MaJicBear] vs. The Triple Threats [Trk511, Joyo, jstn.]",
+    "summary": "Rocket League Fantasy Series (RLFS) - Season 5 The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. Swiss - Round 4 - Game 5 MAGA Man's Magic Toe Atow. LJ MaJicBear GM Message: Atow is a top 3 player in the world right now and the Paris major, along with the EU 2v2 proves that. LJ has had a very good season as well and Majic genuinely had a pretty decent LCQ. Trk made the grand finals in Paris but who did he lose to? An Atow helped Karmine Corp. Joyo has had quite frankly a nightmare season. Jstn is a day away from…",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1veltd6/virtuspro_jknaps_will_be_standing_in_as_head/",
-    "timestamp": "2026-08-03T18:33:05Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vfe8c5/rlfs_s5_swiss_round_4_maga_mans_magic_toe_atow_lj/",
+    "timestamp": "2026-08-04T15:51:16Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1veltd6/virtuspro_jknaps_will_be_standing_in_as_head/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vfe8c5/rlfs_s5_swiss_round_4_maga_mans_magic_toe_atow_lj/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-03T18:33:05Z",
-    "id": "energy-36d1393da36b6e8e"
+    "data_as_of": "2026-08-04T15:51:16Z",
+    "id": "energy-e994c7309461057c"
   },
   {
-    "title": "Gen Developers Condemn MISO Add-On Queue Processes, Study Design",
-    "summary": "By Amanda Durish Cook Developers derided MISO’s extracurricular interconnection queue processes for certain generation proposals and for its AI-produced queue studies. Meanwhile, the RTO outlined the need for another exclusive queue path for large load and generation duos. The tension was on display at Infocast’s Midcontinent Clean Energy Summit July 28-29. “We’ve manufactured a process […]",
+    "title": "The A.I. Giants Weren’t Prepared For This",
+    "summary": "By Ezra Klein What is big, ugly and has united Republicans and Democrats at a time when it has felt like nothing else could? A.I. data centers. Last August, a Heatmap News poll found that approximately four in 10 voters would oppose a data center being built where they live. By May of this year, […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/gen-developers-condemn-miso-add-on-queue-processes-study-design/",
-    "timestamp": "2026-08-03T14:45:53Z",
+    "url": "https://misoxenwatch.com/2026/08/the-a-i-giants-werent-prepared-for-this/",
+    "timestamp": "2026-08-04T14:27:59Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/gen-developers-condemn-miso-add-on-queue-processes-study-design/"
+      "https://misoxenwatch.com/2026/08/the-a-i-giants-werent-prepared-for-this/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-03T14:45:53Z",
-    "id": "energy-29ca9237cf407870"
+    "data_as_of": "2026-08-04T14:27:59Z",
+    "id": "energy-a91b4f23aae36c6d"
   },
   {
-    "title": "Industry Players Upbeat On MISO Storage Prospects",
-    "summary": "By Amanda Durish Cook Panelists unilaterally agreed that it’s energy storage’s time to shine in MISO – at least in the Midwest region – at Infocast’s annual Midcontinent Clean Energy Summit. “I would characterize MISO’s storage portfolio as in its infancy but growing in momentum,” Jamie Mears, a project manager with Ørsted, said during the […]",
+    "title": "Latest News In Energy Transition – Advantage Renewables Boosts Michigan Grid With Battery Projects",
+    "summary": "By Staff Writer Advantage Renewables has acquired three early-stage battery energy storage system (BESS) projects in Michigan from 5 Rivers Energy, emphasizing the critical role of energy storage in the ongoing energy transition. This strategic acquisition highlights Advantage Renewables’ commitment to enhancing grid resilience and integrating renewable resources in the Midwest. As Michigan aims for […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/industry-players-upbeat-on-miso-storage-prospects/",
-    "timestamp": "2026-08-03T14:44:32Z",
+    "url": "https://misoxenwatch.com/2026/08/latest-news-in-energy-transition-advantage-renewables-boosts-michigan-grid-with-battery-projects/",
+    "timestamp": "2026-08-04T14:25:24Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/industry-players-upbeat-on-miso-storage-prospects/"
+      "https://misoxenwatch.com/2026/08/latest-news-in-energy-transition-advantage-renewables-boosts-michigan-grid-with-battery-projects/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-03T14:44:32Z",
-    "id": "energy-ebd6f57ad1de85e1"
+    "data_as_of": "2026-08-04T14:25:24Z",
+    "id": "energy-637b7c91a8b7a00e"
   },
   {
-    "title": "Opinion: Want to Fight Back Against Big Tech? Start Here.",
-    "summary": "By Tressie McMillan Cottom In June, I wrote about how the data center revolts happening across the country get to the heart of our greatest political problems. Artificial intelligence is not just a market product or a scientific achievement. It is a political theory. And it is gobbling up our democracy. The challenge this presents […]",
+    "title": "DTE Ties Rate Stability To Data Center Projects As Large-Load Pipeline Remains Steady",
+    "summary": "By Robert Walton DTE Energy has floated a two-year electric rate freeze to begin after the utility’s current case concludes, but says the freeze is contingent on a 1.4 GW Oracle data center beginning operations as expected and other regulatory approvals. “As long as the first data center project DTE is supporting comes online as […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/opinion-want-to-fight-back-against-big-tech-start-here/",
-    "timestamp": "2026-08-03T14:43:33Z",
+    "url": "https://misoxenwatch.com/2026/08/dte-ties-rate-stability-to-data-center-projects-as-large-load-pipeline-remains-steady/",
+    "timestamp": "2026-08-04T14:23:40Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/opinion-want-to-fight-back-against-big-tech-start-here/"
+      "https://misoxenwatch.com/2026/08/dte-ties-rate-stability-to-data-center-projects-as-large-load-pipeline-remains-steady/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-03T14:43:33Z",
-    "id": "energy-30412c490779d910"
-  },
-  {
-    "title": "The Usual Suspects JADE, a Roland JD-990 simulator, is in development",
-    "summary": "JADE from The Usual Suspects is a Roland JD-990 simulator currently in alpha, still in development. We’ve covered similar projects from The Usual Suspects, including JE-8086 (Roland JP-8080) and Xenia (Waldorf Microwave II/XT). JADE will bring us the sounds of another Roland classic, the JD-990 (Super JD). The JD-990 earns the Super JD name as [...] View post: The Usual Suspects JADE, a Roland JD-990 simulator, is in development",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/03/the-usual-suspects-jade/",
-    "timestamp": "2026-08-03T14:04:04Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/03/the-usual-suspects-jade/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-03T14:04:04Z",
-    "id": "energy-b3dfb8f71c751586"
-  },
-  {
-    "title": "Native Instruments FM8 drops to its lowest-ever $10 price at Plugin Boutique",
-    "summary": "Plugin Boutique is offering Native Instruments FM8 for $10 until August 16th. This is the lowest price I have ever seen for FM8. We have covered some great Native Instruments deals on BPB before, including FM8 at $24.50 last year, but I don’t remember seeing it drop below $10. If you have been waiting to [...] View post: Native Instruments FM8 drops to its lowest-ever $10 price at Plugin Boutique",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/03/native-instruments-fm8-deal/",
-    "timestamp": "2026-08-03T13:58:57Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/03/native-instruments-fm8-deal/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-03T13:58:57Z",
-    "id": "energy-50410b4c130b449b"
-  },
-  {
-    "title": "OMNi (alpha v0.1), a FREE Rust-based DAW with native AI sample generation",
-    "summary": "From developer Tomasz Głuc comes the alpha version OMNi, a free Rust-based DAW. While our favourite plugins may change over time, it’s not uncommon to stick with the same DAW for the entirety of our musical lives. After a brief spell with Cubase, I made an early jump to Logic Pro, and other than making [...] View post: OMNi (alpha v0.1), a FREE Rust-based DAW with native AI sample generation",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/",
-    "timestamp": "2026-08-03T11:18:00Z",
-    "topic": "Music Production",
-    "category": "Reviews",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-03T11:18:00Z",
-    "id": "energy-c559e0b50e6cfe7e"
+    "data_as_of": "2026-08-04T14:23:40Z",
+    "id": "energy-0d92472ffad696c8"
   },
   {
     "title": "Best of July 2026",

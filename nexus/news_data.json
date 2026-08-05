@@ -1,5 +1,95 @@
 [
   {
+    "title": "NRC issues draft EA/FONSI for Duane Arnold restart",
+    "summary": "Efforts by NextEra Energy to restart the Duane Arnold nuclear power plant as early as 2029 continue to move forward with the Nuclear Regulatory Commission's preliminary environmental assessment and determination that the restart would have no significant environmental impacts. On Thursday, the NRC posted a draft environmental assessment and a finding of no significant impact for the Palo, Iowa, facility; the Federal Register notice was published on Monday. The Department of Energy’s Office of Energy Dominance Financing is a cooperating agency on the draft EA, as the DOE is considering providing financial assistance to the restart project.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-04/article-8269/nrc-issues-draft-eafonsi-for-duane-arnold-restart/",
+    "timestamp": "2026-08-04T20:54:56Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-04/article-8269/nrc-issues-draft-eafonsi-for-duane-arnold-restart/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-04T20:54:56Z",
+    "id": "energy-2417674ef2a41d09"
+  },
+  {
+    "title": "A closer look at the initial NLIC selections—Part 1",
+    "summary": "In January, the Department of Energy announced a new Nuclear Lifecycle Innovation Campus (NLIC) program, inviting states via a request for information to express their interest in hosting a facility supporting work from the front to the back end of the fuel life cycle. By April, 26 states had expressed their interest in hosting such a facility. At the end of July, the DOE signed memorandums of understanding with five states (Idaho, Louisiana, Oklahoma, Tennessee, and Utah) to more closely explore the possibilities of state-federal partnerships. These MOUs are not firm commitments from either the federal or state governments. Time will tell which—if any—of the five states develop projects through the program. In the meantime, today, we are taking a close look at what Oklahoma and Louisiana can offer in terms of a preexisting nuclear sector that could support new fuel cycle developments.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-04/article-8268/a-closer-look-at-the-initial-nlic-selectionspart-1/",
+    "timestamp": "2026-08-04T17:26:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-04/article-8268/a-closer-look-at-the-initial-nlic-selectionspart-1/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-04T17:26:21Z",
+    "id": "energy-3b0ed858d717e7f7"
+  },
+  {
+    "title": "Get more from your A/C and save more on summer energy bills",
+    "summary": "Summer in New Orleans can put your air conditioner to the test. If your system isn’t running efficiently, you could be paying more to stay comfortable while putting extra wear on your equipment.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/get-more-from-your-a-c-and-save-more-on-summer-energy-bills",
+    "timestamp": "2026-08-04T15:26:48Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/get-more-from-your-a-c-and-save-more-on-summer-energy-bills"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-04T15:26:48Z",
+    "id": "energy-c135751bf448ad6e"
+  },
+  {
+    "title": "DOE issues RFI for reuse of SRS heavy water",
+    "summary": "The Department of Energy’s Office of Environmental Management has issued a request for information for industry input about the best ways to reuse and repurpose as much as 530,000 gallons of heavy water that is currently being stored at the Savannah River Site in South Carolina. The deadline to submit responses to the RFI is September 21. Detailed information about the RFI, including contact information and instructions for submissions, was published in the Federal Register. Responses can be emailed to heavywaterrfi@doe.gov with the subject line “EM Heavy Water RFI Collaboration Response.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-04/article-8267/doe-issues-rfi-for-reuse-of-srs-heavy-water/",
+    "timestamp": "2026-08-04T14:24:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-04/article-8267/doe-issues-rfi-for-reuse-of-srs-heavy-water/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-04T14:24:33Z",
+    "id": "energy-9d97e30606c7165c"
+  },
+  {
     "title": "Fight the humidity, love the savings",
     "summary": "The dog days of summer are here — and so is the humidity. While you can’t control the weather, you can take steps to keep your home cool, comfy and dry. One of the easiest and most affordable solutions is to use a room dehumidifier.",
     "source": "Entergy",
@@ -22,72 +112,6 @@
     ],
     "data_as_of": "2026-08-03T21:51:04Z",
     "id": "energy-5804f28eee34f07d"
-  },
-  {
-    "title": "Droughts, wildfires continue to impact power plants in Europe",
-    "summary": "The effects of this summer’s historic heatwave continue to be felt across Europe. Soaring temperatures and drought in the region have led to elevated river temperatures, low river levels, and wildfires, which have significantly impacted nuclear power plants across the continent. France’s Electricité de France has reported elevated river temperatures which have forced production cuts, including recent cuts at Golfech, and nuclear power plants in Hungary, Romania, and the United Kingdom, have faced exceptional challenges in recent days.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-03/article-8266/droughts-wildfires-continue-to-impact/",
-    "timestamp": "2026-08-03T20:45:07Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-03/article-8266/droughts-wildfires-continue-to-impact/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-03T20:45:07Z",
-    "id": "energy-df884e084db005de"
-  },
-  {
-    "title": "LANL’s ZiaCore microreactor reaches criticality",
-    "summary": "Last week, Los Alamos National Laboratory announced that its ZiaCore microreactor was brought to zero-power criticality at high temperatures in April through May of this year during four weeks of experiments on the Deimos testbed at the National Criticality Experiments Research Center (NCERC).",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-03/article-8265/lanls-ziacore-microreactor-reaches-criticality/",
-    "timestamp": "2026-08-03T17:43:10Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-03/article-8265/lanls-ziacore-microreactor-reaches-criticality/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-03T17:43:10Z",
-    "id": "energy-0f6a236b5ec27267"
-  },
-  {
-    "title": "GAO report urges DOE-EM to learn from other countries",
-    "summary": "Several countries, including Canada, France, and the United Kingdom, recently have taken steps to accelerate the cleanup of nuclear waste. In a new report, the U.S. Government Accountability Office said that these actions should serve as lessons for the United States. According to the GAO, the Department of Energy’s Office of Environmental Management should “strategically engage with other countries to identify and evaluate alternatives that could help reduce risks and costs or accelerate its cleanup activities.” The report noted that DOE-EM agreed with the recommendation.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-03/article-8264/gao-report-urges-doeem-to-learn-from-other-countries/",
-    "timestamp": "2026-08-03T15:51:23Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-03/article-8264/gao-report-urges-doeem-to-learn-from-other-countries/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-03T15:51:23Z",
-    "id": "energy-318457cb84db639e"
   },
   {
     "title": "PJM Legislators’ Collaborative Letter Regarding CIFP Decision",
