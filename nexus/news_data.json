@@ -1,38 +1,40 @@
 [
   {
-    "title": "NRC issues draft EA/FONSI for Duane Arnold restart",
-    "summary": "Efforts by NextEra Energy to restart the Duane Arnold nuclear power plant as early as 2029 continue to move forward with the Nuclear Regulatory Commission's preliminary environmental assessment and determination that the restart would have no significant environmental impacts. On Thursday, the NRC posted a draft environmental assessment and a finding of no significant impact for the Palo, Iowa, facility; the Federal Register notice was published on Monday. The Department of Energy’s Office of Energy Dominance Financing is a cooperating agency on the draft EA, as the DOE is considering providing financial assistance to the restart project.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-04/article-8269/nrc-issues-draft-eafonsi-for-duane-arnold-restart/",
-    "timestamp": "2026-08-04T20:54:56Z",
+    "title": "‘Produce Power’ fuels Next Generation Arkansas with fresh fruit, veggies as part of Summer Cereal Drive",
+    "summary": "Entergy Arkansas is a longtime sponsor of the Arkansas Foodbank, contributing thousands in grants dollars and employee contributions, and hundreds of volunteer hours, over the years.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/produce-power-fuels-next-generation-arkansas-with-fresh-fruit-veggies-as-part-of-summer-cereal-drive",
+    "timestamp": "2026-08-06T11:45:26Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-04/article-8269/nrc-issues-draft-eafonsi-for-duane-arnold-restart/"
+      "https://www.entergy.com/blog/produce-power-fuels-next-generation-arkansas-with-fresh-fruit-veggies-as-part-of-summer-cereal-drive"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
+    "source_tier": "primary",
+    "primary_source": true,
     "entities": [
-      "American Nuclear Society",
-      "ANS"
+      "Entergy"
     ],
-    "data_as_of": "2026-08-04T20:54:56Z",
-    "id": "energy-2417674ef2a41d09"
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-06T11:45:26Z",
+    "id": "energy-d05344addc2f0dd3"
   },
   {
-    "title": "A closer look at the initial NLIC selections—Part 1",
-    "summary": "In January, the Department of Energy announced a new Nuclear Lifecycle Innovation Campus (NLIC) program, inviting states via a request for information to express their interest in hosting a facility supporting work from the front to the back end of the fuel life cycle. By April, 26 states had expressed their interest in hosting such a facility. At the end of July, the DOE signed memorandums of understanding with five states (Idaho, Louisiana, Oklahoma, Tennessee, and Utah) to more closely explore the possibilities of state-federal partnerships. These MOUs are not firm commitments from either the federal or state governments. Time will tell which—if any—of the five states develop projects through the program. In the meantime, today, we are taking a close look at what Oklahoma and Louisiana can offer in terms of a preexisting nuclear sector that could support new fuel cycle developments.",
+    "title": "Holtec moves forward on Oyster Creek, looks to Gulf South",
+    "summary": "In the past week, Holtec has made two significant announcements: the Nuclear Regulatory Commission has approved its license termination plan (LTP) for Oyster Creek nuclear power plant, and the company has partnered with Entergy and Hyundai Engineering and Construction to evaluate new reactor deployments in the Gulf South region.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-04/article-8268/a-closer-look-at-the-initial-nlic-selectionspart-1/",
-    "timestamp": "2026-08-04T17:26:21Z",
+    "url": "https://www.ans.org/news/2026-08-05/article-8273/holtec-moves-forward-on-oyster-creek-looks-to-gulf-south/",
+    "timestamp": "2026-08-05T20:06:18Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-04/article-8268/a-closer-look-at-the-initial-nlic-selectionspart-1/"
+      "https://www.ans.org/news/2026-08-05/article-8273/holtec-moves-forward-on-oyster-creek-looks-to-gulf-south/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +42,98 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-04T17:26:21Z",
-    "id": "energy-3b0ed858d717e7f7"
+    "data_as_of": "2026-08-05T20:06:18Z",
+    "id": "energy-183c5887b6bc449b"
+  },
+  {
+    "title": "Entergy New Orleans’ Patrick Morel honored nationally for commitment to customers and community",
+    "summary": "Entergy New Orleans is proud to congratulate Senior Lineworker Patrick Morel for receiving national recognition during the Edison Electric Institute’s National Lineworker Appreciation Day celebration in Washington, D.C.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-patrick-morel-honored-nationally-for-commitment-to-customers-and-community",
+    "timestamp": "2026-08-05T17:40:25Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-new-orleans-patrick-morel-honored-nationally-for-commitment-to-customers-and-community"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-05T17:40:25Z",
+    "id": "energy-15c45ac67642f5e6"
+  },
+  {
+    "title": "Westinghouse updates: AP1000 potential, IPO, Amentum partnership",
+    "summary": "Westinghouse's long-term vision for its AP1000 includes seeing up to 91 of its flagship reactors being deployed worldwide, in one of several items of interest announced in recent days by Westinghouse and Cameco, which along with Brookfield Asset Management is part owner of Westinghouse.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-05/article-8272/westinghouse-updates-ap1000-potential-ipo-amentum-partnership/",
+    "timestamp": "2026-08-05T17:33:41Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-05/article-8272/westinghouse-updates-ap1000-potential-ipo-amentum-partnership/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-05T17:33:41Z",
+    "id": "energy-bad0bd450d9faa3f"
+  },
+  {
+    "title": "Knoxville’s nuclear workshop opens with a full house and a long to-do list",
+    "summary": "The East Tennessee Economic Council’s Nuclear Opportunities Workshop opened yesterday morning at the Knoxville Convention Center, drawing registrants from around the country, and will close later today following a packed lineup of policy and industry leaders.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-05/article-8271/knoxvilles-nuclear-workshop-opens-with-a-full-house-and-a-long-todo-list/",
+    "timestamp": "2026-08-05T15:10:53Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-05/article-8271/knoxvilles-nuclear-workshop-opens-with-a-full-house-and-a-long-todo-list/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-05T15:10:53Z",
+    "id": "energy-52ef75fb007ca772"
+  },
+  {
+    "title": "Explainer: How does ISO-NE track production from ‘behind-the-meter’ and other solar resources?",
+    "summary": "Understanding how much electricity solar resources can produce is an important part of power grid operations and planning. The post Explainer: How does ISO-NE track production from ‘behind-the-meter’ and other solar resources? appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/05/explainer-how-does-iso-ne-track-production-from-behind-the-meter-and-other-solar-resources/",
+    "timestamp": "2026-08-05T13:00:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/05/explainer-how-does-iso-ne-track-production-from-behind-the-meter-and-other-solar-resources/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-05T13:00:00Z",
+    "id": "energy-556bb63fbe43cdea"
   },
   {
     "title": "Get more from your A/C and save more on summer energy bills",
@@ -66,52 +158,6 @@
     ],
     "data_as_of": "2026-08-04T15:26:48Z",
     "id": "energy-c135751bf448ad6e"
-  },
-  {
-    "title": "DOE issues RFI for reuse of SRS heavy water",
-    "summary": "The Department of Energy’s Office of Environmental Management has issued a request for information for industry input about the best ways to reuse and repurpose as much as 530,000 gallons of heavy water that is currently being stored at the Savannah River Site in South Carolina. The deadline to submit responses to the RFI is September 21. Detailed information about the RFI, including contact information and instructions for submissions, was published in the Federal Register. Responses can be emailed to heavywaterrfi@doe.gov with the subject line “EM Heavy Water RFI Collaboration Response.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-04/article-8267/doe-issues-rfi-for-reuse-of-srs-heavy-water/",
-    "timestamp": "2026-08-04T14:24:33Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-04/article-8267/doe-issues-rfi-for-reuse-of-srs-heavy-water/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-04T14:24:33Z",
-    "id": "energy-9d97e30606c7165c"
-  },
-  {
-    "title": "Fight the humidity, love the savings",
-    "summary": "The dog days of summer are here — and so is the humidity. While you can’t control the weather, you can take steps to keep your home cool, comfy and dry. One of the easiest and most affordable solutions is to use a room dehumidifier.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/fight-the-humidity-love-the-savings",
-    "timestamp": "2026-08-03T21:51:04Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/fight-the-humidity-love-the-savings"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-03T21:51:04Z",
-    "id": "energy-5804f28eee34f07d"
   },
   {
     "title": "PJM Legislators’ Collaborative Letter Regarding CIFP Decision",
