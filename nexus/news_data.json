@@ -1,16 +1,38 @@
 [
   {
-    "title": "‘Produce Power’ fuels Next Generation Arkansas with fresh fruit, veggies as part of Summer Cereal Drive",
-    "summary": "Entergy Arkansas is a longtime sponsor of the Arkansas Foodbank, contributing thousands in grants dollars and employee contributions, and hundreds of volunteer hours, over the years.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/produce-power-fuels-next-generation-arkansas-with-fresh-fruit-veggies-as-part-of-summer-cereal-drive",
-    "timestamp": "2026-08-06T11:45:26Z",
+    "title": "Oklo’s Isotope Test Reactor achieves criticality",
+    "summary": "Oklo’s Groves Isotope Test Reactor became the fifth Department of Energy–authorized reactor to achieve criticality under the agency’s authorization process, it was announced earlier today. Criticality was reached at 9:19 p.m. (EDT) on Wednesday at the company’s Groves facility in Lockhart, Texas, according to the DOE.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-06/article-8277/oklos-isotope-test-reactor-achieves-criticality/",
+    "timestamp": "2026-08-06T20:36:45Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/produce-power-fuels-next-generation-arkansas-with-fresh-fruit-veggies-as-part-of-summer-cereal-drive"
+      "https://www.ans.org/news/2026-08-06/article-8277/oklos-isotope-test-reactor-achieves-criticality/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-06T20:36:45Z",
+    "id": "energy-da09bd15afccc2ef"
+  },
+  {
+    "title": "Watershed pop-up event: Delivering relief, resources and real impact",
+    "summary": "Entergy Arkansas in partnership with the Central Arkansas Development Council and other local service organizations, hosted a customer resource pop-up event designed to connect people with the support they need most.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/watershed-pop-up-event-delivering-relief-resources-and-real-impact",
+    "timestamp": "2026-08-06T18:59:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/watershed-pop-up-event-delivering-relief-resources-and-real-impact"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -20,43 +42,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-06T11:45:26Z",
-    "id": "energy-d05344addc2f0dd3"
+    "data_as_of": "2026-08-06T18:59:00Z",
+    "id": "energy-be4ba144b789acf1"
   },
   {
-    "title": "Holtec moves forward on Oyster Creek, looks to Gulf South",
-    "summary": "In the past week, Holtec has made two significant announcements: the Nuclear Regulatory Commission has approved its license termination plan (LTP) for Oyster Creek nuclear power plant, and the company has partnered with Entergy and Hyundai Engineering and Construction to evaluate new reactor deployments in the Gulf South region.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-05/article-8273/holtec-moves-forward-on-oyster-creek-looks-to-gulf-south/",
-    "timestamp": "2026-08-05T20:06:18Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-05/article-8273/holtec-moves-forward-on-oyster-creek-looks-to-gulf-south/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-05T20:06:18Z",
-    "id": "energy-183c5887b6bc449b"
-  },
-  {
-    "title": "Entergy New Orleans’ Patrick Morel honored nationally for commitment to customers and community",
-    "summary": "Entergy New Orleans is proud to congratulate Senior Lineworker Patrick Morel for receiving national recognition during the Edison Electric Institute’s National Lineworker Appreciation Day celebration in Washington, D.C.",
+    "title": "Entergy partners with the National Association of Hispanic Journalists to support student journalists",
+    "summary": "Entergy partners with the National Association of Hispanic Journalists to support student journalists",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-patrick-morel-honored-nationally-for-commitment-to-customers-and-community",
-    "timestamp": "2026-08-05T17:40:25Z",
+    "url": "https://www.entergy.com/blog/entergy-partners-with-the-national-association-of-hispanic-journalists-to-support-student-journalists",
+    "timestamp": "2026-08-06T18:46:31Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-patrick-morel-honored-nationally-for-commitment-to-customers-and-community"
+      "https://www.entergy.com/blog/entergy-partners-with-the-national-association-of-hispanic-journalists-to-support-student-journalists"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -66,21 +66,45 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-05T17:40:25Z",
-    "id": "energy-15c45ac67642f5e6"
+    "data_as_of": "2026-08-06T18:46:31Z",
+    "id": "energy-66044df4b9408b7f"
   },
   {
-    "title": "Westinghouse updates: AP1000 potential, IPO, Amentum partnership",
-    "summary": "Westinghouse's long-term vision for its AP1000 includes seeing up to 91 of its flagship reactors being deployed worldwide, in one of several items of interest announced in recent days by Westinghouse and Cameco, which along with Brookfield Asset Management is part owner of Westinghouse.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-05/article-8272/westinghouse-updates-ap1000-potential-ipo-amentum-partnership/",
-    "timestamp": "2026-08-05T17:33:41Z",
+    "title": "Entergy Arkansas invests in the future workforce through STEM scholarships to Arkansas students",
+    "summary": "Entergy Arkansas is investing in the future of higher education and workforce development by awarding $32,500 in scholarships to eight outstanding students attending Historically Black Colleges and Universities (HBCUs) and partner institutions in Arkansas.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-arkansas-invests-in-the-future-workforce-through-stem-scholarships-to-arkansas-students",
+    "timestamp": "2026-08-06T18:32:35Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-05/article-8272/westinghouse-updates-ap1000-potential-ipo-amentum-partnership/"
+      "https://www.entergy.com/news/entergy-arkansas-invests-in-the-future-workforce-through-stem-scholarships-to-arkansas-students"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-06T18:32:35Z",
+    "id": "energy-8d323703b3d54f41"
+  },
+  {
+    "title": "North Anna power plant seeks ESP renewal",
+    "summary": "Dominion Energy Virginia is seeking a 20-year renewal of the early site permit (ESP) the Nuclear Regulatory Commission issued for its North Anna nuclear power plant site in Virginia. North Anna’s current ESP is set to expire on November 27, 2027. On July 14, Dominion submitted the ESP renewal request for North Anna; the site in question is adjacent to Unit 1 and Unit 2 of the Louisa County, Va., facility. The NRC acknowledged receiving the application on July 28 and will now review the application before docketing it in the Federal Register and commencing with the review process.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-06/article-8275/north-anna-power-plant-seeks-esp-renewal/",
+    "timestamp": "2026-08-06T17:32:03Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-06/article-8275/north-anna-power-plant-seeks-esp-renewal/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -88,21 +112,43 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-05T17:33:41Z",
-    "id": "energy-bad0bd450d9faa3f"
+    "data_as_of": "2026-08-06T17:32:03Z",
+    "id": "energy-450a1cd51fc756dc"
   },
   {
-    "title": "Knoxville’s nuclear workshop opens with a full house and a long to-do list",
-    "summary": "The East Tennessee Economic Council’s Nuclear Opportunities Workshop opened yesterday morning at the Knoxville Convention Center, drawing registrants from around the country, and will close later today following a packed lineup of policy and industry leaders.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-05/article-8271/knoxvilles-nuclear-workshop-opens-with-a-full-house-and-a-long-todo-list/",
-    "timestamp": "2026-08-05T15:10:53Z",
+    "title": "ISO-NE proposes market adjustments to improve cost-effectiveness",
+    "summary": "The Day-Ahead Ancillary Services market strengthens reliability by ensuring resources are available when the grid is stressed. The post ISO-NE proposes market adjustments to improve cost-effectiveness appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/06/iso-ne-proposes-market-adjustments-to-improve-cost-effectiveness/",
+    "timestamp": "2026-08-06T17:15:49Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-05/article-8271/knoxvilles-nuclear-workshop-opens-with-a-full-house-and-a-long-todo-list/"
+      "https://isonewswire.com/2026/08/06/iso-ne-proposes-market-adjustments-to-improve-cost-effectiveness/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-06T17:15:49Z",
+    "id": "energy-5878272c6551ae5b"
+  },
+  {
+    "title": "Industry Update—August 2026",
+    "summary": "Here is a recap of recent industry happenings: ADVANCED REACTOR MARKETPLACE NuScale looks to Paragon for I&C Paragon Energy Solutions, a Mirion Technologies company, has won a contract from NuScale Power to complete the final design development of Paragon’s Highly Integrated Protection System (HIPS) for use with the 77-MWe NuScale Power Module, which can be deployed with a single control room supporting as many as 12 modules. Under the contract, Paragon is to complete the nonrecurring engineering and design deliverables for three instrumentation and control systems built on the HIPS platform: the module protection system, the safety display and indication system, and the plant protection system.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-06/article-8226/industry-updateaugust-2026/",
+    "timestamp": "2026-08-06T14:31:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-06/article-8226/industry-updateaugust-2026/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -110,8 +156,30 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-05T15:10:53Z",
-    "id": "energy-52ef75fb007ca772"
+    "data_as_of": "2026-08-06T14:31:00Z",
+    "id": "energy-2f883efbb6013047"
+  },
+  {
+    "title": "ISO-NE CEO appears on CommonWealth Beacon podcast",
+    "summary": "On “The Codcast,” Vamsi Chadalavada discussed factors driving rapid change in the region’s energy landscape. The post ISO-NE CEO appears on CommonWealth Beacon podcast appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/06/iso-ne-ceo-appears-on-commonwealth-beacon-podcast/",
+    "timestamp": "2026-08-06T12:24:37Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/06/iso-ne-ceo-appears-on-commonwealth-beacon-podcast/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-06T12:24:37Z",
+    "id": "energy-3ea863aec26341b0"
   },
   {
     "title": "Explainer: How does ISO-NE track production from ‘behind-the-meter’ and other solar resources?",
@@ -134,73 +202,5 @@
     ],
     "data_as_of": "2026-08-05T13:00:00Z",
     "id": "energy-556bb63fbe43cdea"
-  },
-  {
-    "title": "Get more from your A/C and save more on summer energy bills",
-    "summary": "Summer in New Orleans can put your air conditioner to the test. If your system isn’t running efficiently, you could be paying more to stay comfortable while putting extra wear on your equipment.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/get-more-from-your-a-c-and-save-more-on-summer-energy-bills",
-    "timestamp": "2026-08-04T15:26:48Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/get-more-from-your-a-c-and-save-more-on-summer-energy-bills"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-04T15:26:48Z",
-    "id": "energy-c135751bf448ad6e"
-  },
-  {
-    "title": "PJM Legislators’ Collaborative Letter Regarding CIFP Decision",
-    "summary": "Updated Date: 08.03.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20280803-pjm-legislators-collaborative-letter-re-cifp-decision.pdf",
-    "timestamp": "2026-08-03T13:07:20Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20280803-pjm-legislators-collaborative-letter-re-cifp-decision.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-08-03T13:07:20Z",
-    "id": "energy-e1874bb06a1bef66"
-  },
-  {
-    "title": "Preparing for the future: ISO-NE staff discuss large loads, system reliability at July events",
-    "summary": "A roundup of ISO-NE staff speaking engagements in July 2026. The post Preparing for the future: ISO-NE staff discuss large loads, system reliability at July events appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/03/preparing-for-the-future-iso-ne-staff-discuss-large-loads-system-reliability-at-july-events/",
-    "timestamp": "2026-08-03T12:12:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/03/preparing-for-the-future-iso-ne-staff-discuss-large-loads-system-reliability-at-july-events/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-03T12:12:27Z",
-    "id": "energy-d646f4ebed15a685"
   }
 ]

@@ -1,336 +1,354 @@
 [
   {
-    "title": "PlayStation Is Being Sued In Five Different Countries Over Anti-Competitive Concerns And The End Of Discs Isn’t Helping",
-    "summary": "Here's how these anti-compete lawsuits are playing out",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/playstation-is-being-sued-in-five-different-countries-over-anti-competitive-concerns-and-the-end-of-discs-isnt-helping-2000722141",
-    "timestamp": "2026-08-06T11:30:17Z",
+    "title": "Grid cybersecurity: how big is the threat & what should we do about it?",
+    "summary": "A conversation with Patrick Miller.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/grid-cybersecurity-how-big-is-the",
+    "timestamp": "2026-08-07T10:08:24Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/grid-cybersecurity-how-big-is-the"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-08-07T10:08:24Z",
+    "id": "energy-c6242e9f52ac53ee"
+  },
+  {
+    "title": "Fourth Wing Fans Have a New Reason to Get Excited While Waiting for the Next Book",
+    "summary": "Fans can reread the beginning of Violet and Xaden's story in the upcoming graphic novel, which is now available for preorder.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/fourth-wing-graphic-novel-preorder-amazon/",
+    "timestamp": "2026-08-07T10:05:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/playstation-is-being-sued-in-five-different-countries-over-anti-competitive-concerns-and-the-end-of-discs-isnt-helping-2000722141"
+      "https://www.polygon.com/fourth-wing-graphic-novel-preorder-amazon/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-06T11:30:17Z",
-    "id": "energy-09a1a935a1c0e318"
+    "data_as_of": "2026-08-07T10:05:14Z",
+    "id": "energy-72e0f764381d08c4"
   },
   {
-    "title": "How Americans View Capitalism, Socialism and Free Enterprise",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx",
-    "timestamp": "2026-08-06T11:27:08Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-06T11:27:08Z",
-    "id": "energy-dd4812c001654f5d"
-  },
-  {
-    "title": "FIFAe launches a Storytelling Fund in support of Content Creators",
-    "summary": "submitted by /u/Lukasz__ [link] [comments]",
+    "title": "EWC LCQ area for the 90 signed up teams",
+    "summary": "Dreamhacks are back submitted by /u/Used_Worldliness_287 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vh10vx/fifae_launches_a_storytelling_fund_in_support_of/",
-    "timestamp": "2026-08-06T11:00:35Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vhwfma/ewc_lcq_area_for_the_90_signed_up_teams/",
+    "timestamp": "2026-08-07T10:04:16Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vh10vx/fifae_launches_a_storytelling_fund_in_support_of/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vhwfma/ewc_lcq_area_for_the_90_signed_up_teams/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-06T11:00:35Z",
-    "id": "energy-691e4ff55e4ae522"
+    "data_as_of": "2026-08-07T10:04:16Z",
+    "id": "energy-90f38211b0eb52fd"
   },
   {
-    "title": "Keanu Reeves's 115-Minute 10/10 Action-Thriller Epic Is Finally Streaming on Netflix",
-    "summary": "Speed, starring Keanu Reeves and Sandra Bullock, is one of the best action films of the 1990s thanks to director Jan de Bont",
+    "title": "The genius director behind the most unhinged thriller of the century officially returns in 3 weeks",
+    "summary": "From Adult Swim's Too Many Cooks creator Casper Kelly comes Buddy, a deadly parody of Barney the dinosaur, coming to theaters in 3 weeks",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/netflix-action-movies-streaming-august-2026-keanue-reeves/",
-    "timestamp": "2026-08-06T11:00:12Z",
+    "url": "https://www.polygon.com/too-many-cooks-buddy-casper-kelly/",
+    "timestamp": "2026-08-07T10:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/netflix-action-movies-streaming-august-2026-keanue-reeves/"
+      "https://www.polygon.com/too-many-cooks-buddy-casper-kelly/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-06T11:00:12Z",
-    "id": "energy-3a05caa6e1736254"
+    "data_as_of": "2026-08-07T10:00:12Z",
+    "id": "energy-c44ac7c327c23e62"
   },
   {
-    "title": "Esports world cup starts 6 days from now!!! Who are your favorites to go all the way and who do you have winning?🤔",
-    "summary": "submitted by /u/Latrell777 [link] [comments]",
+    "title": "Manga Million Explained, Why Everyone’s Talking About One Piece Publisher’s Bold New Manga Project",
+    "summary": "Manga Million is an ambitious translation project launched to celebrate Shueisha's 100th anniversary.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/manga-million-shueisha-online-reader/",
+    "timestamp": "2026-08-07T09:40:13Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/manga-million-shueisha-online-reader/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-07T09:40:13Z",
+    "id": "energy-c9e300ac94beb73b"
+  },
+  {
+    "title": "Framework discloses data breach via Metabase 0-day",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+    "timestamp": "2026-08-07T05:17:57Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://community.frame.work/t/framework-data-breach-discussion/83939"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-07T05:17:57Z",
+    "id": "energy-98e1fcb92316f81c"
+  },
+  {
+    "title": "Wireless Linear Computation Broadcast",
+    "summary": "arXiv:2608.05692v1 Announce Type: new Abstract: A linear computation broadcast (LCBC) problem comprises $K$ users (receivers) and a transmitter. The users wish to compute various (vector) linear functions of a common dataset, and possess in advance heterogeneous side information corresponding to various other linear computations. The goal for the broadcast transmitter, who knows the dataset and all desired and side-information functions, is to satisfy all demands as efficiently as possible. Prior work has explored the information-theoretic capacity of LCBC for zero-error finite-field computation over an ideal (noiseless) broadcast channel (BC). This paper develops a wireless LCBC (WLCBC) framework for the Gaussian MIMO BC with noisy receiver-side information under a transmit power constraint and arbitrary antenna configurations. In the WLCBC setting, a Gaussian source is linearly precoded for broadcast; each user requests a linear function of the source and forms an estimate by linearly combining its channel observation with its noisy side information. Assuming perfect channel state information, we cast the centralized joint linear transceiver design as a weighted sum-MSE minimiza…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.05692",
+    "timestamp": "2026-08-07T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.05692"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-07T04:00:00Z",
+    "id": "energy-e573942d1ec54d58"
+  },
+  {
+    "title": "Wiener--Luxemburg amalgam spaces revisited",
+    "summary": "arXiv:2608.05907v1 Announce Type: new Abstract: The fundamental reliance on nonincreasing rearrangements restricts the recently introduced Wiener--Luxemburg amalgam spaces only to the rearrangement-invariant setting. To overcome this barrier, we develop a novel comprehensive framework that expands these amalgam structures to arbitrary quasi-Banach function spaces. By constructing a new quasinorm based on measure-constrained suprema and infima, we successfully separate these amalgams from rearrangement theory. We resolve the ensuing structural challenges regarding the Fatou property in this generalized setting, show consistency with the original theory, and fully characterize associate spaces, continuous embeddings, and the absolute continuity of the norm.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.05907",
+    "timestamp": "2026-08-07T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.05907"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-07T04:00:00Z",
+    "id": "energy-c3e1144587b1295f"
+  },
+  {
+    "title": "Width Laws and Spectral Geometry",
+    "summary": "arXiv:2608.06348v1 Announce Type: new Abstract: We develop a common framework for random width laws, spectral populations, and geometric reconstruction. For a $d$-dimensional orthotope, we prove an exact parity law for the maximal $\\pi^{-1}$-grade of every spherical width cumulant, including noncancellation and sign in all dimensions and orders. The first $d$ scalar width moments recover the unordered side vector, and $d-1$ moments are generically insufficient. Each Laplace mode generates an auxiliary width law whose upper endpoint satisfies $M_{n,a} = \\lambda_n(a)^{1/2}/\\pi$. At high energy the modal coordinate partitions converge to a universal Dirichlet law, while an unsmoothed measure-valued cutoff expansion retains the first geometric memory at face scale. Its simplex moment determines, up to an explicit nonzero factor and a separate off-diagonal argument, a basis-independent projector-gradient Weyl tensor that reconstructs the orthotope. Genuine edge-scale jumps obstruct a third coefficient for the total raw cutoff; exact mixed-boundary Mobius inversion isolates every coordinate stratum and restores a recursive bulk-boundary expansion with a smaller remainder. Beyond orthoto…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.06348",
+    "timestamp": "2026-08-07T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.06348"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-07T04:00:00Z",
+    "id": "energy-2c52a048f277fed2"
+  },
+  {
+    "title": "Atomic, Daniel, Firstkiller to represent Team USA @ FIFAe Continental Championships NA",
+    "summary": "This will be a LAN event in Mexico, top 2 nations out of 6 will advance to the main event. USA's previous FIFAe roster online was Frosty, Evoh, Bora Source: https://liquipedia.net/rocketleague/FIFAe\\_World\\_Cup/Continental\\_Championships/2026/North\\_and\\_Central\\_America submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vh0veb/esports_world_cup_starts_6_days_from_now_who_are/",
-    "timestamp": "2026-08-06T10:52:48Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vhocxq/atomic_daniel_firstkiller_to_represent_team_usa/",
+    "timestamp": "2026-08-07T02:37:02Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vh0veb/esports_world_cup_starts_6_days_from_now_who_are/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vhocxq/atomic_daniel_firstkiller_to_represent_team_usa/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-06T10:52:48Z",
-    "id": "energy-10cac2fa5878af7e"
+    "data_as_of": "2026-08-07T02:37:02Z",
+    "id": "energy-237f7e8b6b37d24c"
   },
   {
-    "title": "One of the most controversial anime flops is coming back with a new manga",
-    "summary": "The Promised Neverland is coming back with a one-shot chapter to celebrate the series' 10th anniversary.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/promised-neverland-new-manga-one-shot-anime/",
-    "timestamp": "2026-08-06T10:25:27Z",
-    "topic": "Gaming",
+    "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "timestamp": "2026-08-07T00:37:30Z",
+    "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/promised-neverland-new-manga-one-shot-anime/"
+      "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-06T10:25:27Z",
-    "id": "energy-e3d233d1165dfb7a"
+    "data_as_of": "2026-08-07T00:37:30Z",
+    "id": "energy-fa337c3c47370549"
   },
   {
-    "title": "40 years ago, Nintendo's Metroid established a video game genre that's still going strong today",
-    "summary": "40 years ago today, a platforming adventure game introduced players to one of the industry's most enduring protagonists, kicking off a bold subgenre.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/metroid-40th-anniversary-nintendo/",
-    "timestamp": "2026-08-06T10:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/metroid-40th-anniversary-nintendo/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-06T10:00:12Z",
-    "id": "energy-e39eaea8bac7b0ca"
-  },
-  {
-    "title": "Warden Vs Rezears Showmatch",
-    "summary": "Not RLCS but we in a drought. Unbelievable mechanics and style from Warden. One way or another I think we'll have a new best mechanics in the world candidate next year, some of these up and coming kids are starting to move different submitted by /u/tobyreddit [link] [comments]",
+    "title": "Selfmade EWC 2026 Prediction Sheet",
+    "summary": "For personal use I made a prediciton sheet for the upcoming Esports World Cup event. But I thought there might be someone here who’s interested. So, here’s a link to the Google Sheet where you can make your own prediciton. https://docs.google.com/spreadsheets/d/1FX6xE3ISdZYPcK562LjDSmK4E4tDfO203Eflyp1j44s/edit?usp=sharing (P.S. I shortened the LCQ bracket to just predicting the winner because doing the whole thing would have been too much work.) submitted by /u/No-Bill1750 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vgxpxa/warden_vs_rezears_showmatch/",
-    "timestamp": "2026-08-06T07:51:01Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vhlq7a/selfmade_ewc_2026_prediction_sheet/",
+    "timestamp": "2026-08-07T00:34:41Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vgxpxa/warden_vs_rezears_showmatch/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vhlq7a/selfmade_ewc_2026_prediction_sheet/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-06T07:51:01Z",
-    "id": "energy-cdc4eddbcbf9c0cf"
+    "data_as_of": "2026-08-07T00:34:41Z",
+    "id": "energy-17c7f41d3390a97b"
   },
   {
-    "title": "What I love about Django",
+    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://buttondown.com/blog/what-i-love-about-django",
-    "timestamp": "2026-08-06T07:34:06Z",
+    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "timestamp": "2026-08-07T00:06:28Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://buttondown.com/blog/what-i-love-about-django"
+      "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-06T07:34:06Z",
-    "id": "energy-a03c5dd785631e98"
+    "data_as_of": "2026-08-07T00:06:28Z",
+    "id": "energy-cf9381493e09b8ef"
   },
   {
-    "title": "Let's all meet up in the Y2K",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-    "timestamp": "2026-08-06T06:43:38Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-06T06:43:38Z",
-    "id": "energy-197eded73e7ef042"
-  },
-  {
-    "title": "Zero-error information equals amortized communication complexity",
-    "summary": "arXiv:2608.04141v1 Announce Type: cross Abstract: The direct sum problem in computational complexity asks whether solving $n$ independent instances of a computational task inherently requires $n$ times the resources needed to solve a single instance. In this paper, we resolve a central form of the direct sum conjecture in randomized communication complexity. Specifically, we prove that the \"amortized expected randomized communication complexity\" of any function is exactly equal to its \"zero-error information complexity\"---a measure of the precise amount of information the communicating parties must reveal about their inputs to compute the function without error. This result also provides a tight characterization of the amortized \"worst-case\" randomized communication complexity up to a constant factor. To achieve our exact characterization, we introduce a new single-instance protocol embedding equipped with a prefix-verification mechanism to accurately localize global errors. Furthermore, we apply our new structural theorems to the fundamental Set-Disjointness problem. Our resulting exact asymptotic bounds for Set-Disjointness successfully refute a conjecture in DFHL18 regarding it…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.04141",
-    "timestamp": "2026-08-06T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.04141"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-06T04:00:00Z",
-    "id": "energy-58269a397a2a2f02"
-  },
-  {
-    "title": "Zariski density of discrete subgroups via critical exponents and unitary representations",
-    "summary": "arXiv:2608.04966v1 Announce Type: new Abstract: Let $G$ be a connected real semisimple linear algebraic group with finite center and no compact factors, let $X$ denote its associated Riemannian symmetric space, and let $h_{\\mathrm{vol}}(X)$ be the volume growth entropy of $X$. We show that there exists an $\\epsilon = \\epsilon(G) > 0$ so that the following holds: if $\\Gamma < G$ is a discrete subgroup with critical exponent greater than $h_{\\mathrm{vol}}(X) - \\epsilon$, then $\\Gamma$ is Zariski dense in $G$. If $G$ is further assumed to be isomorphic to one of the isometry groups of the real, complex, or quaternionic hyperbolic spaces, we determine the smallest possible value of the critical exponent to guarantee Zariski density of the associated subgroup (in other words, the largest possible value of $\\epsilon = \\epsilon(G)$). In the setting of discrete subgroups of real semisimple Lie groups with no compact factors, this generalizes Borel's Density Theorem for lattices. The key ingredient is input from the theory of unitary representations, particularly the recent work of Benoist--Liang (which was inspired by earlier work of Benoist--Kobayashi) on general temperedness criteria fo…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.04966",
-    "timestamp": "2026-08-06T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.04966"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-06T04:00:00Z",
-    "id": "energy-8d46626e2f1ade70"
-  },
-  {
-    "title": "Weyl Subconvexity for $\\mathrm{GL}_2$ with Simple Supercuspidal Ramification",
-    "summary": "arXiv:2608.04982v1 Announce Type: new Abstract: We establish Weyl-type subconvexity bounds in the level aspect for cuspidal automorphic representations of $\\mathrm{GL}_2/F$ with simple supercuspidal ramification at a prime ideal $\\mathfrak{q}$. More precisely, for the family $\\mathcal{F}_t^\\zeta(\\mathfrak{q}^3;\\omega)$ consisting of representations of conductor $\\mathfrak{q}^3$, central character $\\omega$, and prescribed simple supercuspidal local component, we prove the fourth moment estimate \\begin{align*} \\sum_{\\substack{\\pi \\in \\mathcal{F}_{t}^{\\zeta}(\\mathfrak{q}^3;\\omega) \\\\ C_v(\\pi) \\leq \\mathbf{C}_v,\\ v \\mid \\infty}} |L(1/2,\\pi)|^4 \\ll_{F,\\varepsilon} \\mathbf C_\\infty^{1+\\varepsilon} N_F(\\mathfrak{q})^{2+\\varepsilon}. \\end{align*} As a consequence, we deduce the Weyl-type bound \\begin{align*} L(1/2,\\pi) \\ll_{F,\\varepsilon} C_{\\infty}(\\pi)^{1/4+\\varepsilon} C_{\\mathrm{fin}}(\\pi)^{1/6+\\varepsilon}. \\end{align*} In particular, this bound applies to a genuinely non-self-dual family of odd conductor exponent, beyond the reach of the cubic moment method.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.04982",
-    "timestamp": "2026-08-06T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.04982"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-06T04:00:00Z",
-    "id": "energy-e282d3bf4daf7923"
-  },
-  {
-    "title": "Beast Of Reincarnation Isn’t A Pokémon Game, But It Kind Of Is",
-    "summary": "The themes of the Pokémon universe are still very much present in Game Freak’s latest",
+    "title": "Preservationist Spent $900 And Strung Together 90 GPUs To Save A Lost Final Fantasy 7 Spinoff",
+    "summary": "Dirge of Cerberus: Lost Episode was a fully voiced mobile game that shut down in 2018",
     "source": "Kotaku",
-    "url": "https://kotaku.com/beast-of-reincarnation-creatures-animals-pokemon-rpg-2000722004",
-    "timestamp": "2026-08-05T22:00:03Z",
+    "url": "https://kotaku.com/final-fantasy-7-dirge-of-cerberus-mobile-game-restored-2000722267",
+    "timestamp": "2026-08-06T21:00:50Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/beast-of-reincarnation-creatures-animals-pokemon-rpg-2000722004"
+      "https://kotaku.com/final-fantasy-7-dirge-of-cerberus-mobile-game-restored-2000722267"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-05T22:00:03Z",
-    "id": "energy-0c227495b300de88"
+    "data_as_of": "2026-08-06T21:00:50Z",
+    "id": "energy-994cc04065789af7"
   },
   {
-    "title": "Roblox Tanked $9 Billion In A Single Day After The Company Admitted It Was Directing Fewer Kids Toward Viral Games That ‘Emphasize Short-Term Monetization’",
-    "summary": "Wall Street seems unhappy about improvements to the Roblox recommendation algorithm",
+    "title": "A Destiny 2 Modder Is Making Cut Content Playable Again For The First Time In Six Years",
+    "summary": "Soon you'll be able return to past memories once more",
     "source": "Kotaku",
-    "url": "https://kotaku.com/roblox-tanked-9-billion-in-a-single-day-after-the-company-admitted-it-was-directing-fewer-kids-toward-viral-games-that-emphasize-short-term-monetization-2000722002",
-    "timestamp": "2026-08-05T21:08:51Z",
+    "url": "https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290",
+    "timestamp": "2026-08-06T20:45:17Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/roblox-tanked-9-billion-in-a-single-day-after-the-company-admitted-it-was-directing-fewer-kids-toward-viral-games-that-emphasize-short-term-monetization-2000722002"
+      "https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-05T21:08:51Z",
-    "id": "energy-b36cee6c7a41fd78"
+    "data_as_of": "2026-08-06T20:45:17Z",
+    "id": "energy-0e890402740c2493"
   },
   {
-    "title": "Nathaniel Wing’s N-Stereo for macOS, Windows, and Linux is FREE for a limited time",
-    "summary": "Developer Nathaniel Wing’s N-Stereo for macOS, Windows, and Linux is now available for free for a limited time. Stereo enhancers and effects plugins have been relatively popular in 2026, with multiple freebies coming just in the last few months. In July, we had a couple of stereo-widening freebies with Spread by Angelic Vibes and Buchart Audio’s [...] View post: Nathaniel Wing’s N-Stereo for macOS, Windows, and Linux is FREE for a limited time",
+    "title": "The Late Sam Neill Is In The Zelda Movie But He’s Not Playing Ganondorf",
+    "summary": "Actors for Ganondorf, Impa, and others have joined the film",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/legend-of-zelda-movie-ganondorf-actor-sam-neill-impa-2000722307",
+    "timestamp": "2026-08-06T20:35:48Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/legend-of-zelda-movie-ganondorf-actor-sam-neill-impa-2000722307"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-06T20:35:48Z",
+    "id": "energy-149f9b391e1a4647"
+  },
+  {
+    "title": "IK Multimedia gives away Pianoverse Black Pearl B200 with newsletter signup",
+    "summary": "IK Multimedia is offering Pianoverse Black Pearl B200 as a free download for users who to the IK newsletter. The offer runs through September 1st, 2026. IK says you get Black Pearl immediately after subscribing, but you need to stay subscribed to the newsletter for 90 days to keep it forever. Black Pearl B200 [...] View post: IK Multimedia gives away Pianoverse Black Pearl B200 with newsletter signup",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/05/nathaniel-wing-n-stereo/",
-    "timestamp": "2026-08-05T15:04:32Z",
+    "url": "https://bedroomproducersblog.com/2026/08/06/ik-multimedia-pianoverse-black-pearl-b200/",
+    "timestamp": "2026-08-06T18:24:19Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/05/nathaniel-wing-n-stereo/"
+      "https://bedroomproducersblog.com/2026/08/06/ik-multimedia-pianoverse-black-pearl-b200/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-05T15:04:32Z",
-    "id": "energy-b7c4fb3c0e38982b"
+    "data_as_of": "2026-08-06T18:24:19Z",
+    "id": "energy-dff3625b17537c65"
   },
   {
-    "title": "My first plugin was pirated in 48 hours. Here’s why it still has no copy protection.",
-    "summary": "I spent almost two years building VATRA, my first premium plugin for Flame Sound. Then, roughly two days after the public launch on July 29, a pirated copy was already circulating. When you make a plugin, there are so many fun milestones to look forward to, like the first test build, the first GUI, the [...] View post: My first plugin was pirated in 48 hours. Here’s why it still has no copy protection.",
+    "title": "fedDSP releases RAIJU saturator plugin, FREE until August 20th",
+    "summary": "fedDSP has released RAIJU, a zero-latency saturator plugin for macOS and Windows, and you can get it for free until August 20th, 2026. RAIJU normally costs £30, but the developer is offering it for free as an introductory deal until August 20th at 9 PM UK time. After that, it moves to its regular price. [...] View post: fedDSP releases RAIJU saturator plugin, FREE until August 20th",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/05/vatra-pirated-copy-protection/",
-    "timestamp": "2026-08-05T14:57:58Z",
+    "url": "https://bedroomproducersblog.com/2026/08/06/feddsp-raiju/",
+    "timestamp": "2026-08-06T15:08:20Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/05/vatra-pirated-copy-protection/"
+      "https://bedroomproducersblog.com/2026/08/06/feddsp-raiju/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-05T14:57:58Z",
-    "id": "energy-e13061e40c54ddae"
+    "data_as_of": "2026-08-06T15:08:20Z",
+    "id": "energy-69104074920f3ec7"
   },
   {
-    "title": "Line 6 launches FREE Helix Stadium Native Intro amp plugin",
-    "summary": "Line 6 has launched Helix Stadium Native Intro, a free amp and effects plugin for macOS and Windows. Helix Stadium Native launched on August 4th, 2026, and the Intro license is a permanent free version of the new Helix Stadium Native plugin with fewer models. I also think it is worth clarifying what this does [...] View post: Line 6 launches FREE Helix Stadium Native Intro amp plugin",
+    "title": "Zrythm FREE and open-source DAW v2 Alpha is available for testing",
+    "summary": "You can now access and test the Alpha version of Zrythm v2, a free and open-source DAW. When it comes to digital audio workstations, especially free options, there have been plenty of changes in recent years. We’ve seen old favourites discontinued, rebranded, and, in some cases, limited features and a push towards subscription models. We’ve [...] View post: Zrythm FREE and open-source DAW v2 Alpha is available for testing",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/05/helix-stadium-native/",
-    "timestamp": "2026-08-05T11:11:10Z",
+    "url": "https://bedroomproducersblog.com/2026/08/06/zrythm-2-alpha/",
+    "timestamp": "2026-08-06T13:44:51Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/05/helix-stadium-native/"
+      "https://bedroomproducersblog.com/2026/08/06/zrythm-2-alpha/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-05T11:11:10Z",
-    "id": "energy-380b28b192d2df31"
+    "data_as_of": "2026-08-06T13:44:51Z",
+    "id": "energy-dcfd8e0206a00088"
   },
   {
     "title": "What should state policymakers do about data centers?",
