@@ -1,16 +1,16 @@
 [
   {
-    "title": "Oklo’s Isotope Test Reactor achieves criticality",
-    "summary": "Oklo’s Groves Isotope Test Reactor became the fifth Department of Energy–authorized reactor to achieve criticality under the agency’s authorization process, it was announced earlier today. Criticality was reached at 9:19 p.m. (EDT) on Wednesday at the company’s Groves facility in Lockhart, Texas, according to the DOE.",
+    "title": "The transformation of the NRC: 50 years of commissioners",
+    "summary": "The dust is beginning to settle following the whirlwind of changes at the Nuclear Regulatory Commission over the past year, and 2025 ultimately may be viewed as a transformative year, as well as the year the NRC celebrated its golden anniversary. The 12 months of that milestone year brought more change to the agency in its composition, its mandate, and its relationship to the executive branch than any comparable period in the preceding four decades. Now at 51 years and counting, the NRC is working with a full commission and issuing new rulemakings to both regulate and support the next round of nuclear deployments. With the turbulence of 2025 still fresh in our minds, Nuclear News decided it was a good time to revisit the professional backgrounds of all 42 NRC commissioners who have served over the agency’s 50-year history to see how the composition of the commission has evolved over time.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-06/article-8277/oklos-isotope-test-reactor-achieves-criticality/",
-    "timestamp": "2026-08-06T20:36:45Z",
+    "url": "https://www.ans.org/news/2026-08-07/article-8222/the-transformation-of-the-nrc-50-years-of-commissioners/",
+    "timestamp": "2026-08-07T19:55:38Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-06/article-8277/oklos-isotope-test-reactor-achieves-criticality/"
+      "https://www.ans.org/news/2026-08-07/article-8222/the-transformation-of-the-nrc-50-years-of-commissioners/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,93 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-06T20:36:45Z",
-    "id": "energy-da09bd15afccc2ef"
+    "data_as_of": "2026-08-07T19:55:38Z",
+    "id": "energy-cf6f0df5b69cb956"
   },
   {
-    "title": "Watershed pop-up event: Delivering relief, resources and real impact",
-    "summary": "Entergy Arkansas in partnership with the Central Arkansas Development Council and other local service organizations, hosted a customer resource pop-up event designed to connect people with the support they need most.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/watershed-pop-up-event-delivering-relief-resources-and-real-impact",
-    "timestamp": "2026-08-06T18:59:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/watershed-pop-up-event-delivering-relief-resources-and-real-impact"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-06T18:59:00Z",
-    "id": "energy-be4ba144b789acf1"
-  },
-  {
-    "title": "Entergy partners with the National Association of Hispanic Journalists to support student journalists",
-    "summary": "Entergy partners with the National Association of Hispanic Journalists to support student journalists",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-partners-with-the-national-association-of-hispanic-journalists-to-support-student-journalists",
-    "timestamp": "2026-08-06T18:46:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-partners-with-the-national-association-of-hispanic-journalists-to-support-student-journalists"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-06T18:46:31Z",
-    "id": "energy-66044df4b9408b7f"
-  },
-  {
-    "title": "Entergy Arkansas invests in the future workforce through STEM scholarships to Arkansas students",
-    "summary": "Entergy Arkansas is investing in the future of higher education and workforce development by awarding $32,500 in scholarships to eight outstanding students attending Historically Black Colleges and Universities (HBCUs) and partner institutions in Arkansas.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-arkansas-invests-in-the-future-workforce-through-stem-scholarships-to-arkansas-students",
-    "timestamp": "2026-08-06T18:32:35Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-arkansas-invests-in-the-future-workforce-through-stem-scholarships-to-arkansas-students"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-06T18:32:35Z",
-    "id": "energy-8d323703b3d54f41"
-  },
-  {
-    "title": "North Anna power plant seeks ESP renewal",
-    "summary": "Dominion Energy Virginia is seeking a 20-year renewal of the early site permit (ESP) the Nuclear Regulatory Commission issued for its North Anna nuclear power plant site in Virginia. North Anna’s current ESP is set to expire on November 27, 2027. On July 14, Dominion submitted the ESP renewal request for North Anna; the site in question is adjacent to Unit 1 and Unit 2 of the Louisa County, Va., facility. The NRC acknowledged receiving the application on July 28 and will now review the application before docketing it in the Federal Register and commencing with the review process.",
+    "title": "Centrus, X-energy sign enrichment contract as TRISO-X expands TX-1 campus",
+    "summary": "Centrus Energy Corp. will be providing X-energy with enrichment services for low-enriched uranium and high-assay, low-enriched uranium to support X-energy’s planned deployments of Xe-100 small modular reactors and TRISO-X fuel, according to the terms of a new contract signed by the companies. The fuel will be produced at Centrus’s American Centrifuge Plant in Piketon, Ohio. In turn, X-energy will provide Centrus with prepayments to help support expanding the capacity of Centrus’s domestic commercial enrichment program.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-06/article-8275/north-anna-power-plant-seeks-esp-renewal/",
-    "timestamp": "2026-08-06T17:32:03Z",
+    "url": "https://www.ans.org/news/2026-08-07/article-8279/centrus-xenergy-sign-enrichment-contract-as-trisox-expands-tx1-campus/",
+    "timestamp": "2026-08-07T16:57:09Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-06/article-8275/north-anna-power-plant-seeks-esp-renewal/"
+      "https://www.ans.org/news/2026-08-07/article-8279/centrus-xenergy-sign-enrichment-contract-as-trisox-expands-tx1-campus/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -112,8 +40,124 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-06T17:32:03Z",
-    "id": "energy-450a1cd51fc756dc"
+    "data_as_of": "2026-08-07T16:57:09Z",
+    "id": "energy-21b4add83321f501"
+  },
+  {
+    "title": "Entergy Texas helps customers beat the heat through fan donation campaign",
+    "summary": "Company donates more than 2,500 fans to help Southeast Texas families stay cool during the hottest months of the year",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-texas-helps-customers-beat-the-heat-through-fan-donation-campaign",
+    "timestamp": "2026-08-07T16:16:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-texas-helps-customers-beat-the-heat-through-fan-donation-campaign"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-07T16:16:23Z",
+    "id": "energy-965d63c8120c9655"
+  },
+  {
+    "title": "How does electricity work?",
+    "summary": "You know that electricity is a reliable source of power, but do you understand how it actually works?",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/how-does-electricity-work",
+    "timestamp": "2026-08-07T15:48:58Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/how-does-electricity-work"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-07T15:48:58Z",
+    "id": "energy-7d070dfab791a1a6"
+  },
+  {
+    "title": "Stay away from downed power lines",
+    "summary": "Downed power lines are dangerous. They may still be energized. If you see one, stay far away and call 911 or your electric company to report it.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/stay-away-from-downed-power-lines",
+    "timestamp": "2026-08-07T15:04:10Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/stay-away-from-downed-power-lines"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-07T15:04:10Z",
+    "id": "energy-1581a6701bd17074"
+  },
+  {
+    "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
+    "summary": "Philippe (left) and Manzuk quantified the amount of uranium that has been exported from the DRC in cobalt shipments or left behind in the environment. (Photo: Joel Hallberg/UW–Madison) Researchers at the University of Wisconsin–Madison and Princeton University have published a study in Nature Communications that calls attention to a blind spot in nuclear nonproliferation: The Democratic Republic of the Congo (DRC) has exported thousands of metric tons of uranium, and there is no accounting for where it has gone. In partnership with Lighthouse Reports and the Financial Times, UW–Madison nuclear engineering professor and nuclear security expert Sébastien Philippe and Ryan Manzuk, a geologist and research fellow in Philippe’s group and at Princeton, conducted the study using countrywide mineralization and geochemical data.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-07/article-8278/undeclared-uranium-hitches-a-ride-on-cobalt-exports-from-congo-study-says/",
+    "timestamp": "2026-08-07T14:29:08Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-07/article-8278/undeclared-uranium-hitches-a-ride-on-cobalt-exports-from-congo-study-says/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-07T14:29:08Z",
+    "id": "energy-e61f2209693201fe"
+  },
+  {
+    "title": "Monthly wholesale electricity prices and demand in New England, June 2026",
+    "summary": "Wholesale prices were up in both the day-ahead and real-time markets in June. The post Monthly wholesale electricity prices and demand in New England, June 2026 appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/07/monthly-wholesale-electricity-prices-and-demand-in-new-england-june-2026/",
+    "timestamp": "2026-08-07T12:10:46Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/07/monthly-wholesale-electricity-prices-and-demand-in-new-england-june-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-07T12:10:46Z",
+    "id": "energy-acb9efec8df01069"
   },
   {
     "title": "ISO-NE proposes market adjustments to improve cost-effectiveness",
@@ -138,28 +182,6 @@
     "id": "energy-5878272c6551ae5b"
   },
   {
-    "title": "Industry Update—August 2026",
-    "summary": "Here is a recap of recent industry happenings: ADVANCED REACTOR MARKETPLACE NuScale looks to Paragon for I&C Paragon Energy Solutions, a Mirion Technologies company, has won a contract from NuScale Power to complete the final design development of Paragon’s Highly Integrated Protection System (HIPS) for use with the 77-MWe NuScale Power Module, which can be deployed with a single control room supporting as many as 12 modules. Under the contract, Paragon is to complete the nonrecurring engineering and design deliverables for three instrumentation and control systems built on the HIPS platform: the module protection system, the safety display and indication system, and the plant protection system.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-06/article-8226/industry-updateaugust-2026/",
-    "timestamp": "2026-08-06T14:31:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-06/article-8226/industry-updateaugust-2026/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-06T14:31:00Z",
-    "id": "energy-2f883efbb6013047"
-  },
-  {
     "title": "ISO-NE CEO appears on CommonWealth Beacon podcast",
     "summary": "On “The Codcast,” Vamsi Chadalavada discussed factors driving rapid change in the region’s energy landscape. The post ISO-NE CEO appears on CommonWealth Beacon podcast appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -180,27 +202,5 @@
     ],
     "data_as_of": "2026-08-06T12:24:37Z",
     "id": "energy-3ea863aec26341b0"
-  },
-  {
-    "title": "Explainer: How does ISO-NE track production from ‘behind-the-meter’ and other solar resources?",
-    "summary": "Understanding how much electricity solar resources can produce is an important part of power grid operations and planning. The post Explainer: How does ISO-NE track production from ‘behind-the-meter’ and other solar resources? appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/05/explainer-how-does-iso-ne-track-production-from-behind-the-meter-and-other-solar-resources/",
-    "timestamp": "2026-08-05T13:00:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/05/explainer-how-does-iso-ne-track-production-from-behind-the-meter-and-other-solar-resources/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-05T13:00:00Z",
-    "id": "energy-556bb63fbe43cdea"
   }
 ]
