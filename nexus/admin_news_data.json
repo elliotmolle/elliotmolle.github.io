@@ -1,353 +1,335 @@
 [
   {
-    "title": "Robert Downey Jr.'s 157-Minute Crime-Thriller Masterpiece Is Officially Back on Free Streaming",
-    "summary": "The slow-burn unraveling of an unsolved case has never felt more satisfying.",
+    "title": "One Piece Follows in Pokémon’s Footsteps With Controversial ID Measures",
+    "summary": "Bandai Namco announces that One Piece Card Game shops will introduce a facial recognition system in an attempt to contain scalpers.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/robert-downey-crime-thriller-free-streaming-tubi/",
-    "timestamp": "2026-08-09T10:00:12Z",
+    "url": "https://www.polygon.com/one-piece-card-game-facial-recognition-scalpers/",
+    "timestamp": "2026-08-10T10:58:21Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/robert-downey-crime-thriller-free-streaming-tubi/"
+      "https://www.polygon.com/one-piece-card-game-facial-recognition-scalpers/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-09T10:00:12Z",
-    "id": "energy-1e1f83b04bb37611"
+    "data_as_of": "2026-08-10T10:58:21Z",
+    "id": "energy-db564fa6289532cd"
   },
   {
-    "title": "EWC LCQ 2026 | Event Thread | Day 2 | Aug 9th | Group Stage",
-    "summary": "Esports World Cup 2026 - Last Chance Qualifier in Paris Show begins around 12pm CEST (11am BST, 6am EDT) Streams Twitch - EWC_Plus_EN2 Youtube - TBD Tournament Info Liquipedia, Esports World Cup, Blast Format Stage 1 Double Elimination 48 teams split into 4 groups of 12 teams. All matches are Bo5. Top 4 teams from each pool advance to the Stage 2. Stage 2 Double Elimination continue All matches are Bo5 until the Grand Final. Pools/Groups Pool 1 https://preview.redd.it/qa051noqf8ih1.png?width=1457&format=png&auto=webp&s=bcf07ba0e88b4891916dcc4da37a135c98288ae2 Pool 2 https://preview.redd.it/jdisko0yf8ih1.png?width=1459&format=png&auto=webp&s=137ef2f55d1bb3161a895649adbf9872a2bfad48 Pool 3 https://preview.redd.it/6vhn9t0lh8ih1.png?width=1080&format=png&auto=webp&s=0938f715c0b2414d739da781541e9814e13f3be3 Pool 4 https://preview.redd.it/pq7310s5i8ih1.png?width=1464&format=png&auto=webp&s=ece65d1c421f18483244989b35196e8494ec5965 Schedule - Day 2 in CEST (BST+1, EDT+6) https://preview.redd.it/90ppoxwqj8ih1.png?width=701&format=png&auto=webp&s=108446081ae78a32bc29b3fd32663384d86ef018 submitted by /u/Babydrone [link] [comments]",
+    "title": "Meta Muse Glimmer – open weights 30B local coding model",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "timestamp": "2026-08-10T10:10:02Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-10T10:10:02Z",
+    "id": "energy-cd44ce90c80bc639"
+  },
+  {
+    "title": "An Xbox Game With 50% One-Star Reviews Is Still the Top Game With a Million Players in Week 1",
+    "summary": "With lag, region locking, and spambots, can Mistfall Hunter survive the overwhelmingly negative reviews?",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/mistfall-hunter-1-million-players-negative-reviews/",
+    "timestamp": "2026-08-10T10:08:45Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/mistfall-hunter-1-million-players-negative-reviews/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-10T10:08:45Z",
+    "id": "energy-08c4d48993a093e2"
+  },
+  {
+    "title": "The Most Unhinged Sci-Fi Anime of 2026 Already Feels Like an Instant Cult Classic",
+    "summary": "Flint Sugar delivers an exhilarating series on the cost of memory told through some of the most visually striking animation seen in years.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/false-memory-anime-review/",
+    "timestamp": "2026-08-10T10:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/false-memory-anime-review/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-10T10:00:12Z",
+    "id": "energy-9a0e9634a28ac8cc"
+  },
+  {
+    "title": "One Email, Three Identities: SPF, DKIM and DMARC Explained",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
+    "timestamp": "2026-08-10T09:55:53Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-10T09:55:53Z",
+    "id": "energy-da23eeda0e9c1d4a"
+  },
+  {
+    "title": "EWC LCQ 2026 | Event Thread | Day 3 | Aug 10th | Playoffs",
+    "summary": "Esports World Cup 2026 - Last Chance Qualifier in Paris Show begins around 12pm CEST (11am BST, 6am EDT) Streams Twitch - EWC_Plus_EN2 Youtube - TBD Tournament Info Liquipedia, Esports World Cup, Blast Format Stage 1 Double Elimination 48 teams split into 4 groups of 12 teams. All matches are Bo5. Top 4 teams from each pool advance to the Stage 2. Stage 2 Double Elimination continue All matches are Bo5 until the Grand Final. Playoff Bracket https://preview.redd.it/hubbfh2npfih1.png?width=3136&format=png&auto=webp&s=2827659b851537408c9166229b7406acb86dfbd7 Pools/Groups Pool 1 https://preview.redd.it/h2omwdsoofih1.png?width=1457&format=png&auto=webp&s=7e698d57257bc1baf5bc146eaeafa6f0becd2ced Pool 2 https://preview.redd.it/1chwpl2rofih1.png?width=1459&format=png&auto=webp&s=42a45a911500351b63153c4e1ed4f4e56c39c006 Pool 3 https://preview.redd.it/f1l2fv5yofih1.png?width=1454&format=png&auto=webp&s=cb96540332b2df8da2b6f972a5e842f120a6bc0a Pool 4 https://preview.redd.it/ntlnryb5pfih1.png?width=1452&format=png&auto=webp&s=f709533377f9655c116cdb0fb850a1821b8299f2 Schedule Playoffs all day from 12pm CEST (11am BST, 6am EDT) submitted by /u/Babydrone [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vjlpvd/ewc_lcq_2026_event_thread_day_2_aug_9th_group/",
-    "timestamp": "2026-08-09T09:47:18Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vkgbl6/ewc_lcq_2026_event_thread_day_3_aug_10th_playoffs/",
+    "timestamp": "2026-08-10T09:47:15Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vjlpvd/ewc_lcq_2026_event_thread_day_2_aug_9th_group/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vkgbl6/ewc_lcq_2026_event_thread_day_3_aug_10th_playoffs/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-09T09:47:18Z",
-    "id": "energy-94605f1610c0d03b"
+    "data_as_of": "2026-08-10T09:47:15Z",
+    "id": "energy-64fdfc3e7aae230c"
   },
   {
-    "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-    "timestamp": "2026-08-09T08:00:51Z",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "timestamp": "2026-08-10T06:02:38Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
+      "https://www.docker.com/products/docker-sandboxes/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-09T08:00:51Z",
-    "id": "energy-401896c3b99ae405"
+    "data_as_of": "2026-08-10T06:02:38Z",
+    "id": "energy-44e044304b7d9655"
   },
   {
-    "title": "There Are Magic Hexagons of Every Order",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "timestamp": "2026-08-09T07:19:58Z",
-    "topic": "Computer Science",
+    "title": "Winning by Peeking: Unenforced Budgets and Test-Set Selection Inflate Short-Budget AutoML Comparisons",
+    "summary": "arXiv:2608.07303v1 Announce Type: cross Abstract: Comparisons between AutoML systems at short time budgets -- tens of seconds rather than hours -- are common in tool READMEs and workshop papers, and they are easy to get wrong. We report a case study in which a simple AutoML engine, Orcetra, appeared to beat FLAML and AutoGluon on 513 OpenML datasets, winning 57.1% of them at a nominal 60-second budget and 78.4% of datasets against FLAML alone at 30 seconds. Both margins came from protocol defects that a results table cannot show. The search loop scored every candidate on the test split and reported the best, making the headline metric a maximum over dozens of noisy estimates while the baselines selected on training data and touched the test set once; and the budget was checked before launching a candidate but never enforced during one, so the system consumed a median of 120 s against a 60-second budget, 2.24x the wall-clock AutoGluon used. Re-running with selection moved to a validation split, the deadline enforced externally and every framework pinned to an equal share of the machine, Orcetra's win rate on the re-run subset falls from 59.4% to 34.3% and no pairwise difference aga…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.07303",
+    "timestamp": "2026-08-10T04:00:00Z",
+    "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html"
+      "https://arxiv.org/abs/2608.07303"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-09T07:19:58Z",
-    "id": "energy-d6eaad3b5a11cbfb"
+    "primary_source": true,
+    "data_as_of": "2026-08-10T04:00:00Z",
+    "id": "energy-af2abc27d43dbe38"
   },
   {
-    "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://github.com/jmarshall23/msword",
-    "timestamp": "2026-08-09T05:23:41Z",
-    "topic": "Computer Science",
+    "title": "When is the Ring of Integer-Valued Polynomials over a Group Ring a Pr\\\"ufer domain?",
+    "summary": "arXiv:2607.00067v2 Announce Type: replace Abstract: In their study of the ring of integer-valued polynomials in non-commutative algebra, Peruginelli and Werner characterized the algebras for which this ring is a Pr\\\"ufer domain. Here, we apply their results to the case of group algebras.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.00067",
+    "timestamp": "2026-08-10T04:00:00Z",
+    "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/jmarshall23/msword"
+      "https://arxiv.org/abs/2607.00067"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-09T05:23:41Z",
-    "id": "energy-f09b2147dded29fd"
+    "primary_source": true,
+    "data_as_of": "2026-08-10T04:00:00Z",
+    "id": "energy-eab67bb03a35f117"
   },
   {
-    "title": "5 Anime Endings That Fans Still Argue About (I'm Still Mad About #3)",
-    "summary": "These infamous conclusions continue to spark discussions, debates, and everything in between.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/best-anime-endings-divisive-controversial/",
-    "timestamp": "2026-08-09T02:00:22Z",
-    "topic": "Gaming",
+    "title": "Weight-constrained cut-down de Bruijn sequences",
+    "summary": "arXiv:2607.22350v2 Announce Type: replace Abstract: In 2011/12, Ruskey, Sawada, Stevens and Williams showed that a binary cut-down de Bruijn sequence can be constructed containing all $n$-tuples of Hamming weight either $r$ or $r+1$ for every possible $r$, and no others. In this paper we examine extensions of this result that require choosing a weight-like function applying to $n$-tuples with symbols taken from an alphabet of arbitrary (finite) size. We consider three possible such weight functions, and in each case establish an analogous result to that of Ruskey et al.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.22350",
+    "timestamp": "2026-08-10T04:00:00Z",
+    "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/best-anime-endings-divisive-controversial/"
+      "https://arxiv.org/abs/2607.22350"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-09T02:00:22Z",
-    "id": "energy-0ec9025c965a2d75"
+    "primary_source": true,
+    "data_as_of": "2026-08-10T04:00:00Z",
+    "id": "energy-571a312f4c6d79a3"
   },
   {
-    "title": "mates winning ewc?",
-    "summary": "https://preview.redd.it/tilzfdms09ih1.png?width=1153&format=png&auto=webp&s=e35fc0865229a0ad9be50840d267c960587fd0f7 Oski and Nass both being top 5 rn right before the ewc. i think we could see mates go back to the final and winning. and Oski getting mvp. wich would be nice to see submitted by /u/Mammoth_Hold_5631 [link] [comments]",
+    "title": "New CRL team need some advice",
+    "summary": "I’m a rising sophomore in college, and my school just spent a few million dollars an an esports arena last year and this year they are starting a bunch of new esports teams. I just happened to be one of the first people with demonstrated interest in having a competitive Rocket League team. Because of this, the esports staff has essentially thrown me into a leadership role of a club I have no idea how to build. With the CRL deadline coming fast, how can I possibly find a team and build a community this fast? Especially with us not actually being in school yet when CRL starts, I feel it will be difficult to find people on such short notice. I’m happy to answer and clarifying questions. Thank you. submitted by /u/yara_yaraphonk [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vjc9z4/mates_winning_ewc/",
-    "timestamp": "2026-08-09T01:04:36Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vk56ax/new_crl_team_need_some_advice/",
+    "timestamp": "2026-08-09T23:53:10Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vjc9z4/mates_winning_ewc/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vk56ax/new_crl_team_need_some_advice/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-09T01:04:36Z",
-    "id": "energy-72eba8c4871e254e"
+    "data_as_of": "2026-08-09T23:53:10Z",
+    "id": "energy-edd8bed1c6202aa6"
   },
   {
-    "title": "Spider-Man: Brand New Day's Most Talked About Character Quietly Sets Up Marvel's X-Men Future",
-    "summary": "Spider-Man: Brand New Day introduces a new version of Jean Grey, setting the stage for a new take on the X-Men.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/spider-man-jean-grey-new-take-x-men/",
-    "timestamp": "2026-08-09T01:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/spider-man-jean-grey-new-take-x-men/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-09T01:00:12Z",
-    "id": "energy-8b2fa2eb334da52c"
-  },
-  {
-    "title": "What’s the saddest moment in RLCS history?",
-    "summary": "Just saw a post asking about the saddest gaming moment. Made me wonder about my favorite esport submitted by /u/Spincrit [link] [comments]",
+    "title": "Velocity posts an altercation with Diaz in ranked of him being called a homophobic slur",
+    "summary": "https://preview.redd.it/a6omevsqkfih1.png?width=883&format=png&auto=webp&s=2073c06f7097f20ca07cfa98e6aa81788e094c2d https://preview.redd.it/j14qv0dukfih1.png?width=414&format=png&auto=webp&s=dc677614dc5ccbb5f5fb9d8097d0589c38293186 submitted by /u/John_aka_Alwayz [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vjb5jd/whats_the_saddest_moment_in_rlcs_history/",
-    "timestamp": "2026-08-09T00:09:58Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vk48jx/velocity_posts_an_altercation_with_diaz_in_ranked/",
+    "timestamp": "2026-08-09T23:10:23Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vjb5jd/whats_the_saddest_moment_in_rlcs_history/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vk48jx/velocity_posts_an_altercation_with_diaz_in_ranked/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-09T00:09:58Z",
-    "id": "energy-6e5c16d2e6bdaaf9"
+    "data_as_of": "2026-08-09T23:10:23Z",
+    "id": "energy-d90cb1a02b90b0b4"
   },
   {
-    "title": "Kiyoshi Kurosawa’s First Samurai Epic Offers Alternative Philosophy To Odyssey‘s Doomed Voyage",
-    "summary": "They may not be breaking Zeus’ law, but in The Samurai and the Prisoner, tensions rise as a well meaning lord betrays tradition, invoking curses from the gods",
+    "title": "Nintendo Offers Free Repairs To Consoles Damaged In Kumamoto Earthquake",
+    "summary": "As extreme heat complicates a tragic situation, Nintendo and The Pokémon Company seek to give some respite to their players",
     "source": "Kotaku",
-    "url": "https://kotaku.com/kiyoshi-kurosawas-first-samurai-epic-offers-alternative-philosophy-to-odysseys-doomed-voyage-2000722718",
-    "timestamp": "2026-08-08T22:31:02Z",
+    "url": "https://kotaku.com/nintendo-offers-free-repairs-to-consoles-damaged-in-kumamoto-earthquake-2000722827",
+    "timestamp": "2026-08-09T21:38:01Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/kiyoshi-kurosawas-first-samurai-epic-offers-alternative-philosophy-to-odysseys-doomed-voyage-2000722718"
+      "https://kotaku.com/nintendo-offers-free-repairs-to-consoles-damaged-in-kumamoto-earthquake-2000722827"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-08T22:31:02Z",
-    "id": "energy-d8bcec8275c9de1d"
+    "data_as_of": "2026-08-09T21:38:01Z",
+    "id": "energy-d0e39af95a46809f"
   },
   {
-    "title": "Just About Everything Other Than The Music Sells Out In NIN’s 30th Anniversary Quake Collection",
-    "summary": "Commemorating three decades of the transformative 3D shooter, id Software releases a surprise new expansion and limited merch collection with composer Trent Reznor",
+    "title": "If Anyone Wants To Print Their Own PlayStation Discs They’ll Need To Overcome Sony’s Wall Of Silence",
+    "summary": "While PlayStation seems committed to ending their physical copies, I wouldn’t hold my breath for a massive homebrew scene to fill the void in the immediate future",
     "source": "Kotaku",
-    "url": "https://kotaku.com/just-about-everything-other-than-the-music-sells-out-in-nins-30th-anniversary-quake-collection-2000722712",
-    "timestamp": "2026-08-08T21:21:18Z",
+    "url": "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823",
+    "timestamp": "2026-08-09T20:51:08Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/just-about-everything-other-than-the-music-sells-out-in-nins-30th-anniversary-quake-collection-2000722712"
+      "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-08T21:21:18Z",
-    "id": "energy-7364b1adbec108d7"
+    "data_as_of": "2026-08-09T20:51:08Z",
+    "id": "energy-6bb11293952f87eb"
   },
   {
-    "title": "Trump’s New E-Waste Policy Has Vintage Tech Collectors Anxious They’ll Be Caught In The Crossfire",
-    "summary": "Aimed at reining in China's control of critical minerals, the White House is restricting e-waste exiting the country, whether it's a bin of abandoned cables or a sought after CRT",
+    "title": "Seven Unhinged Characters That Would Make Tōkon A Marvel Fighter For The Ages",
+    "summary": "A crossover fighter is only as good as its roster is out of pocket, with these traditions in mind here are a few mutants and monster that could balance out ArcSys' largely safe roster",
     "source": "Kotaku",
-    "url": "https://kotaku.com/trumps-new-e-waste-policy-has-vintage-tech-collectors-anxious-theyll-be-caught-in-the-crossfire-2000722706",
-    "timestamp": "2026-08-08T19:06:40Z",
+    "url": "https://kotaku.com/seven-unhinged-characters-that-would-make-tokon-a-marvel-fighter-for-the-ages-2000722808",
+    "timestamp": "2026-08-09T18:42:35Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/trumps-new-e-waste-policy-has-vintage-tech-collectors-anxious-theyll-be-caught-in-the-crossfire-2000722706"
+      "https://kotaku.com/seven-unhinged-characters-that-would-make-tokon-a-marvel-fighter-for-the-ages-2000722808"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-08T19:06:40Z",
-    "id": "energy-8bddaa10c60445b0"
+    "data_as_of": "2026-08-09T18:42:35Z",
+    "id": "energy-3da9fafc31d87a06"
   },
   {
-    "title": "Sound Radix releases Radical1 Solo, a FREE additive synth plugin",
-    "summary": "Sound Radix has released Radical1 Solo, a free monophonic additive synth plugin for macOS and Windows. I have not heard much from Sound Radix about new products in a while, but that is on me, since the company introduced Radical1, its first instrument plugin, in late 2025. The original Radical1 entered early access on macOS [...] View post: Sound Radix releases Radical1 Solo, a FREE additive synth plugin",
+    "title": "Reflector is a FREE open-source sample discovery workstation for macOS",
+    "summary": "Composer and software engineer Austin Rockman has released Reflector, a free open-source interactive audio workstation for sample discovery. Austin contacted me about the project, and I liked the idea even before testing it. Machine learning gets thrown into a lot of music tools now, but I find it interesting when it helps us interact with [...] View post: Reflector is a FREE open-source sample discovery workstation for macOS",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/07/sound-radix-radical1-solo/",
-    "timestamp": "2026-08-07T15:07:36Z",
+    "url": "https://bedroomproducersblog.com/2026/08/09/reflector-sample-discovery/",
+    "timestamp": "2026-08-09T15:46:39Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/07/sound-radix-radical1-solo/"
+      "https://bedroomproducersblog.com/2026/08/09/reflector-sample-discovery/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-07T15:07:36Z",
-    "id": "energy-ec4928f23db7fc4d"
+    "data_as_of": "2026-08-09T15:46:39Z",
+    "id": "energy-a08d6c8ab2d3666d"
   },
   {
-    "title": "Celebrate 808 Day with 67% OFF Roland’s TR-808 plugin",
-    "summary": "Plugin Boutique is offering the Roland TR-808 for $49, down from $149, as part of its 808 Day deals. The offer is available until August 31st, 2026, and the purchase also qualifies for Plugin Boutique’s current free gift promotion. The TR-808 is a legendary drum machine if there ever was one. We have all heard [...] View post: Celebrate 808 Day with 67% OFF Roland’s TR-808 plugin",
+    "title": "Stagecraft Software RingMod is now FREE for macOS and Windows",
+    "summary": "Stagecraft Software’s RingMod plugin previously cost $30, but the Chicago-based developer has decided to make it available for free. To grab RingMod for free, head to the product page, and there you can download the installer directly. The plugin is available in AU, VST3, and AAX formats for macOS and Windows. As the developer notes, [...] View post: Stagecraft Software RingMod is now FREE for macOS and Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/07/celebrate-808-day-2026/",
-    "timestamp": "2026-08-07T15:03:30Z",
+    "url": "https://bedroomproducersblog.com/2026/08/09/stagecraft-software-ringmod/",
+    "timestamp": "2026-08-09T15:43:05Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/07/celebrate-808-day-2026/"
+      "https://bedroomproducersblog.com/2026/08/09/stagecraft-software-ringmod/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-07T15:03:30Z",
-    "id": "energy-feb21bea95579570"
+    "data_as_of": "2026-08-09T15:43:05Z",
+    "id": "energy-c31bb69b3a8c594e"
   },
   {
-    "title": "GANUE Audio releases Rivet, a FREE FET compressor plugin",
-    "summary": "GANUE Audio has released Rivet, a free FET compressor plugin for Windows and macOS. Rivet is an input-driven compressor, so there is no threshold control. You drive the signal into the compressor with Input and compensate with Output, and the compression becomes stronger as the input level rises. Honestly, I don’t really need any more [...] View post: GANUE Audio releases Rivet, a FREE FET compressor plugin",
+    "title": "OA-Labs releases Phosphor-1, a FREE unstable analog-style synth for macOS",
+    "summary": "OA-Labs has released OA-Phosphor-1, a free virtual analog synthesizer plugin for macOS. The developer describes it as a synth for “controllable instability,” and I think it’s a good fit. Phosphor-1 can deliver the typical subtractive type of stuff too, but the fun, for me at least, starts when you make it drift, sag, wobble, and [...] View post: OA-Labs releases Phosphor-1, a FREE unstable analog-style synth for macOS",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/07/ganue-audio-rivet/",
-    "timestamp": "2026-08-07T14:34:28Z",
+    "url": "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/",
+    "timestamp": "2026-08-08T17:26:10Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/07/ganue-audio-rivet/"
+      "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-07T14:34:28Z",
-    "id": "energy-a3f904522ef79859"
-  },
-  {
-    "title": "Grid cybersecurity: how big is the threat & what should we do about it?",
-    "summary": "A conversation with Patrick Miller.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/grid-cybersecurity-how-big-is-the",
-    "timestamp": "2026-08-07T10:08:24Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/grid-cybersecurity-how-big-is-the"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-08-07T10:08:24Z",
-    "id": "energy-c6242e9f52ac53ee"
-  },
-  {
-    "title": "Wireless Linear Computation Broadcast",
-    "summary": "arXiv:2608.05692v1 Announce Type: new Abstract: A linear computation broadcast (LCBC) problem comprises $K$ users (receivers) and a transmitter. The users wish to compute various (vector) linear functions of a common dataset, and possess in advance heterogeneous side information corresponding to various other linear computations. The goal for the broadcast transmitter, who knows the dataset and all desired and side-information functions, is to satisfy all demands as efficiently as possible. Prior work has explored the information-theoretic capacity of LCBC for zero-error finite-field computation over an ideal (noiseless) broadcast channel (BC). This paper develops a wireless LCBC (WLCBC) framework for the Gaussian MIMO BC with noisy receiver-side information under a transmit power constraint and arbitrary antenna configurations. In the WLCBC setting, a Gaussian source is linearly precoded for broadcast; each user requests a linear function of the source and forms an estimate by linearly combining its channel observation with its noisy side information. Assuming perfect channel state information, we cast the centralized joint linear transceiver design as a weighted sum-MSE minimiza…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.05692",
-    "timestamp": "2026-08-07T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.05692"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-07T04:00:00Z",
-    "id": "energy-e573942d1ec54d58"
-  },
-  {
-    "title": "Wiener--Luxemburg amalgam spaces revisited",
-    "summary": "arXiv:2608.05907v1 Announce Type: new Abstract: The fundamental reliance on nonincreasing rearrangements restricts the recently introduced Wiener--Luxemburg amalgam spaces only to the rearrangement-invariant setting. To overcome this barrier, we develop a novel comprehensive framework that expands these amalgam structures to arbitrary quasi-Banach function spaces. By constructing a new quasinorm based on measure-constrained suprema and infima, we successfully separate these amalgams from rearrangement theory. We resolve the ensuing structural challenges regarding the Fatou property in this generalized setting, show consistency with the original theory, and fully characterize associate spaces, continuous embeddings, and the absolute continuity of the norm.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.05907",
-    "timestamp": "2026-08-07T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.05907"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-07T04:00:00Z",
-    "id": "energy-c3e1144587b1295f"
-  },
-  {
-    "title": "Width Laws and Spectral Geometry",
-    "summary": "arXiv:2608.06348v1 Announce Type: new Abstract: We develop a common framework for random width laws, spectral populations, and geometric reconstruction. For a $d$-dimensional orthotope, we prove an exact parity law for the maximal $\\pi^{-1}$-grade of every spherical width cumulant, including noncancellation and sign in all dimensions and orders. The first $d$ scalar width moments recover the unordered side vector, and $d-1$ moments are generically insufficient. Each Laplace mode generates an auxiliary width law whose upper endpoint satisfies $M_{n,a} = \\lambda_n(a)^{1/2}/\\pi$. At high energy the modal coordinate partitions converge to a universal Dirichlet law, while an unsmoothed measure-valued cutoff expansion retains the first geometric memory at face scale. Its simplex moment determines, up to an explicit nonzero factor and a separate off-diagonal argument, a basis-independent projector-gradient Weyl tensor that reconstructs the orthotope. Genuine edge-scale jumps obstruct a third coefficient for the total raw cutoff; exact mixed-boundary Mobius inversion isolates every coordinate stratum and restores a recursive bulk-boundary expansion with a smaller remainder. Beyond orthoto…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.06348",
-    "timestamp": "2026-08-07T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.06348"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-07T04:00:00Z",
-    "id": "energy-2c52a048f277fed2"
+    "data_as_of": "2026-08-08T17:26:10Z",
+    "id": "energy-eb59e29d4ea4d217"
   }
 ]

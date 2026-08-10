@@ -158,49 +158,5 @@
     ],
     "data_as_of": "2026-08-07T12:10:46Z",
     "id": "energy-acb9efec8df01069"
-  },
-  {
-    "title": "ISO-NE proposes market adjustments to improve cost-effectiveness",
-    "summary": "The Day-Ahead Ancillary Services market strengthens reliability by ensuring resources are available when the grid is stressed. The post ISO-NE proposes market adjustments to improve cost-effectiveness appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/06/iso-ne-proposes-market-adjustments-to-improve-cost-effectiveness/",
-    "timestamp": "2026-08-06T17:15:49Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/06/iso-ne-proposes-market-adjustments-to-improve-cost-effectiveness/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-06T17:15:49Z",
-    "id": "energy-5878272c6551ae5b"
-  },
-  {
-    "title": "ISO-NE CEO appears on CommonWealth Beacon podcast",
-    "summary": "On “The Codcast,” Vamsi Chadalavada discussed factors driving rapid change in the region’s energy landscape. The post ISO-NE CEO appears on CommonWealth Beacon podcast appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/06/iso-ne-ceo-appears-on-commonwealth-beacon-podcast/",
-    "timestamp": "2026-08-06T12:24:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/06/iso-ne-ceo-appears-on-commonwealth-beacon-podcast/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-06T12:24:37Z",
-    "id": "energy-3ea863aec26341b0"
   }
 ]
