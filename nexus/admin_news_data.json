@@ -1,335 +1,398 @@
 [
   {
-    "title": "One Piece Follows in Pokémon’s Footsteps With Controversial ID Measures",
-    "summary": "Bandai Namco announces that One Piece Card Game shops will introduce a facial recognition system in an attempt to contain scalpers.",
+    "title": "Why Armored Core 6's Balteus is so good at killing you",
+    "summary": "Armored Core 6's first gatekeeping boss, Balteus, was the scourge of players when the game first came out. Guides to beating Balteus immediately started popping up on YouTube — but they all used different Armored Core builds. Is it really hard to beat Balteus, or can just about any mech build do it? Polygon's Clayton Ashley and Patrick Gill explore why Balteus' design and array of weaponry are such a roadblock for Armored Core players, but also why Balteus teaches you exactly what you need to know to succeed at Armored Core 6. #armoredcore6 #fromsoftware",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/one-piece-card-game-facial-recognition-scalpers/",
-    "timestamp": "2026-08-10T10:58:21Z",
+    "url": "https://www.polygon.com/video/why-armored-core-6-s-balteus-is-so-good-at-killing-you/",
+    "timestamp": "2026-08-11T10:43:54Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/one-piece-card-game-facial-recognition-scalpers/"
+      "https://www.polygon.com/video/why-armored-core-6-s-balteus-is-so-good-at-killing-you/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-10T10:58:21Z",
-    "id": "energy-db564fa6289532cd"
+    "data_as_of": "2026-08-11T10:43:54Z",
+    "id": "energy-d98d9cf4f9d3347c"
   },
   {
-    "title": "Meta Muse Glimmer – open weights 30B local coding model",
+    "title": "Halloween: The Game Won’t Be Sold in Australia, and Weed May Be the Reason Why",
+    "summary": "Halloween: The Game won't be sold in Australia and New Zealand due to how it depicts controlled substances.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/halloween-the-game-wont-be-playable-in-australia-and-new-zealand/",
+    "timestamp": "2026-08-11T10:27:30Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/halloween-the-game-wont-be-playable-in-australia-and-new-zealand/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-11T10:27:30Z",
+    "id": "energy-51c7d8b5f8a53fad"
+  },
+  {
+    "title": "GroovEmu is a FREE REAPER arranger system for Windows",
+    "summary": "SlapAsSound has released GroovEmu Arranger, a free Windows system that turns REAPER into a live arranger-style workstation. This one comes from Marko Karja, a developer from Estonia who has sent BPB some unusual free plugin experiments over the years. His product pages usually have a strong sense of humor, but under the playful presentation here [...] View post: GroovEmu is a FREE REAPER arranger system for Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/11/groovemu-reaper-arranger/",
+    "timestamp": "2026-08-11T10:10:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/11/groovemu-reaper-arranger/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-11T10:10:08Z",
+    "id": "energy-bad1757b40ab23e2"
+  },
+  {
+    "title": "The Best Classic JRPGs You Can Still Easily Play Today",
+    "summary": "These games may have been ported to newer platforms or lightly remastered, but they look and play nearly identical to when they were first released",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/classic-jrpgs-no-remake/",
+    "timestamp": "2026-08-11T10:00:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/classic-jrpgs-no-remake/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-11T10:00:11Z",
+    "id": "energy-6962fffb4c241532"
+  },
+  {
+    "title": "Audio Spices gives away three FREE plugins exclusively to BPB readers",
+    "summary": "Audio Spices is giving away 10,000 free plugin bundles exclusively to BPB readers, including full licenses for Salt, Chili, and Basil. These are not demos or time-limited trials. You get perpetual licenses for all three plugins, which normally sell for $59 each. That makes the full bundle worth $177, and Audio Spices is giving away [...] View post: Audio Spices gives away three FREE plugins exclusively to BPB readers",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/11/audio-spices-bpb-giveaway/",
+    "timestamp": "2026-08-11T09:46:34Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/11/audio-spices-bpb-giveaway/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-11T09:46:34Z",
+    "id": "energy-cc9394b38819e522"
+  },
+  {
+    "title": "London Underground begins scanning passengers' faces",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "timestamp": "2026-08-10T10:10:02Z",
+    "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+    "timestamp": "2026-08-11T09:40:02Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+      "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-10T10:10:02Z",
-    "id": "energy-cd44ce90c80bc639"
+    "data_as_of": "2026-08-11T09:40:02Z",
+    "id": "energy-cbe0617490b1b853"
   },
   {
-    "title": "An Xbox Game With 50% One-Star Reviews Is Still the Top Game With a Million Players in Week 1",
-    "summary": "With lag, region locking, and spambots, can Mistfall Hunter survive the overwhelmingly negative reviews?",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/mistfall-hunter-1-million-players-negative-reviews/",
-    "timestamp": "2026-08-10T10:08:45Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/mistfall-hunter-1-million-players-negative-reviews/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-10T10:08:45Z",
-    "id": "energy-08c4d48993a093e2"
-  },
-  {
-    "title": "The Most Unhinged Sci-Fi Anime of 2026 Already Feels Like an Instant Cult Classic",
-    "summary": "Flint Sugar delivers an exhilarating series on the cost of memory told through some of the most visually striking animation seen in years.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/false-memory-anime-review/",
-    "timestamp": "2026-08-10T10:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/false-memory-anime-review/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-10T10:00:12Z",
-    "id": "energy-9a0e9634a28ac8cc"
-  },
-  {
-    "title": "One Email, Three Identities: SPF, DKIM and DMARC Explained",
+    "title": "Closing Canario Terminal source code",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
-    "timestamp": "2026-08-10T09:55:53Z",
+    "url": "https://rapha.land/closing-canario-terminal-source-code/",
+    "timestamp": "2026-08-11T08:16:19Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc"
+      "https://rapha.land/closing-canario-terminal-source-code/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-10T09:55:53Z",
-    "id": "energy-da23eeda0e9c1d4a"
+    "data_as_of": "2026-08-11T08:16:19Z",
+    "id": "energy-c9bb1d51941f4020"
   },
   {
-    "title": "EWC LCQ 2026 | Event Thread | Day 3 | Aug 10th | Playoffs",
-    "summary": "Esports World Cup 2026 - Last Chance Qualifier in Paris Show begins around 12pm CEST (11am BST, 6am EDT) Streams Twitch - EWC_Plus_EN2 Youtube - TBD Tournament Info Liquipedia, Esports World Cup, Blast Format Stage 1 Double Elimination 48 teams split into 4 groups of 12 teams. All matches are Bo5. Top 4 teams from each pool advance to the Stage 2. Stage 2 Double Elimination continue All matches are Bo5 until the Grand Final. Playoff Bracket https://preview.redd.it/hubbfh2npfih1.png?width=3136&format=png&auto=webp&s=2827659b851537408c9166229b7406acb86dfbd7 Pools/Groups Pool 1 https://preview.redd.it/h2omwdsoofih1.png?width=1457&format=png&auto=webp&s=7e698d57257bc1baf5bc146eaeafa6f0becd2ced Pool 2 https://preview.redd.it/1chwpl2rofih1.png?width=1459&format=png&auto=webp&s=42a45a911500351b63153c4e1ed4f4e56c39c006 Pool 3 https://preview.redd.it/f1l2fv5yofih1.png?width=1454&format=png&auto=webp&s=cb96540332b2df8da2b6f972a5e842f120a6bc0a Pool 4 https://preview.redd.it/ntlnryb5pfih1.png?width=1452&format=png&auto=webp&s=f709533377f9655c116cdb0fb850a1821b8299f2 Schedule Playoffs all day from 12pm CEST (11am BST, 6am EDT) submitted by /u/Babydrone [link] [comments]",
+    "title": "France to ban unsolicited telemarketing calls",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+    "timestamp": "2026-08-11T08:15:46Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-11T08:15:46Z",
+    "id": "energy-ab0ba4913b6fca22"
+  },
+  {
+    "title": "Zonoid volumes are not log-submodular",
+    "summary": "arXiv:2608.07702v1 Announce Type: new Abstract: We disprove the conjecture that volume is log-submodular under Minkowski addition on the class of zonoids by exhibiting a four-dimensional zonotope $A$ and two segments $B$ and $C$ such that \\begin{align*} |A||A+B+C|>|A+B||A+C|, \\end{align*} where $|\\cdot|$ denotes the volume. Consequently, several related local mixed-volume, local Loomis-Whitney, projection-volume ratio, and volume-to-surface-area conjectures also fail for zonoids. The zonotope in our counterexample is generated by a 2-modular matrix. We also provide a proof of the correctness of the conjecture in the case where $A+B+C$ is a unimodular zonotope as well as a characterization of the equality cases in this setting.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.07702",
+    "timestamp": "2026-08-11T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.07702"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-11T04:00:00Z",
+    "id": "energy-2e9a3d4b6f66a59d"
+  },
+  {
+    "title": "Zeta zeros of function fields heuristically equidistribute as genus goes to infinity",
+    "summary": "arXiv:2608.07804v1 Announce Type: new Abstract: We propose a heuristic for the growth rate of the average class number of curves in $\\mathcal M_g(\\mathbb F_q)$ as $g \\to \\infty$. We show that this heuristic implies that the zeros of the zeta functions of such curves become equidistributed on the circle as $g\\to\\infty$. Our heuristic is based on the assumption that the stable cohomology of the universal Jacobian dominates a point count using the trace formula, following the method of Achter et al.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.07804",
+    "timestamp": "2026-08-11T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.07804"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-11T04:00:00Z",
+    "id": "energy-6b51329cccca82eb"
+  },
+  {
+    "title": "Zeroth-Order Langevin Monte Carlo via SPSA under Noisy Function Measurements",
+    "summary": "arXiv:2608.07837v1 Announce Type: new Abstract: In sampling problems, gradient-based schemes such as Langevin Monte Carlo (LMC) mix faster than non-gradient-based methods, but their applicability is limited by access to the gradient of the target log-density. In practice, gradients are often unavailable and function evaluations are noisy, e.g., stochastic simulators or black-box simulators, so we propose LMC-SPSA with noise, which approximates the gradient of the target log-density using two noisy function evaluations per iteration. We prove, under noisy gradient estimates, that LMC-SPSA converges in distribution by proving the convergence in Wasserstein distance. Furthermore, we construct a diminishing step-size schedule that still drives the Wasserstein error bound to convergence, extending convergence guarantees beyond the constant-step setting. Further, we sharpen the dominant dimension dependence of the Wasserstein error from $O(p^4)$ to $O(p^2)$ (with $p$ denoting the dimension), and support this analysis with numerical results. We show that LMC-SPSA achieves $W_2$-accuracy $\\varepsilon$ with total noisy-oracle complexity of $O(p/\\varepsilon^2+\\delta^2p^3/\\varepsilon^3)$, wh…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.07837",
+    "timestamp": "2026-08-11T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.07837"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-11T04:00:00Z",
+    "id": "energy-dae09f1db2b6f827"
+  },
+  {
+    "title": "13 Fields of Mistria Tips For First-Time Farmers",
+    "summary": "Starting your first farm in Mistria 1.0? Here are a few things that will make your journey easier",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128",
+    "timestamp": "2026-08-10T22:45:34Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-10T22:45:34Z",
+    "id": "energy-f60ee9c36d8bd41f"
+  },
+  {
+    "title": "Steam User Claims $109 Refund Despite 470 Hours Played After Battlefield 6 Deletes An Entire Mode",
+    "summary": "Rush was removed from Quickplay to help with matchmaking",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/steam-user-claims-109-refund-despite-470-hours-played-after-battlefield-6-deletes-an-entire-mode-2000723174",
+    "timestamp": "2026-08-10T22:15:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/steam-user-claims-109-refund-despite-470-hours-played-after-battlefield-6-deletes-an-entire-mode-2000723174"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-10T22:15:15Z",
+    "id": "energy-a5b8888157da9d71"
+  },
+  {
+    "title": "Persona Boss Feels Remake Of 1 And 2 Is Something ‘We Have To Do’ Eventually",
+    "summary": "Gotta complete the set at this point, it seems",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/persona-1-2-remake-atlus-persona-4-revival-interview-2000723161",
+    "timestamp": "2026-08-10T21:45:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/persona-1-2-remake-atlus-persona-4-revival-interview-2000723161"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-10T21:45:18Z",
+    "id": "energy-9d7e0484d47396fa"
+  },
+  {
+    "title": "Fanmade EWC 2026 prediction game",
+    "summary": "Hi I built a site to predict RL series, first for myself and a few friends but want to share it now (I buy a domain) You can predict match scores and earn points to compare with your friends. The more likely a team is to win, the fewer points you earn. I made the Elo and ML model by myself, every day updated. https://overtime-rl.com Do you agree with the scoring? submitted by /u/underscorePablo [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vkgbl6/ewc_lcq_2026_event_thread_day_3_aug_10th_playoffs/",
-    "timestamp": "2026-08-10T09:47:15Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vkwiit/fanmade_ewc_2026_prediction_game/",
+    "timestamp": "2026-08-10T20:33:51Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vkgbl6/ewc_lcq_2026_event_thread_day_3_aug_10th_playoffs/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vkwiit/fanmade_ewc_2026_prediction_game/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-10T09:47:15Z",
-    "id": "energy-64fdfc3e7aae230c"
+    "data_as_of": "2026-08-10T20:33:51Z",
+    "id": "energy-0b80a7295832f4ae"
   },
   {
-    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "timestamp": "2026-08-10T06:02:38Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.docker.com/products/docker-sandboxes/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-10T06:02:38Z",
-    "id": "energy-44e044304b7d9655"
-  },
-  {
-    "title": "Winning by Peeking: Unenforced Budgets and Test-Set Selection Inflate Short-Budget AutoML Comparisons",
-    "summary": "arXiv:2608.07303v1 Announce Type: cross Abstract: Comparisons between AutoML systems at short time budgets -- tens of seconds rather than hours -- are common in tool READMEs and workshop papers, and they are easy to get wrong. We report a case study in which a simple AutoML engine, Orcetra, appeared to beat FLAML and AutoGluon on 513 OpenML datasets, winning 57.1% of them at a nominal 60-second budget and 78.4% of datasets against FLAML alone at 30 seconds. Both margins came from protocol defects that a results table cannot show. The search loop scored every candidate on the test split and reported the best, making the headline metric a maximum over dozens of noisy estimates while the baselines selected on training data and touched the test set once; and the budget was checked before launching a candidate but never enforced during one, so the system consumed a median of 120 s against a 60-second budget, 2.24x the wall-clock AutoGluon used. Re-running with selection moved to a validation split, the deadline enforced externally and every framework pinned to an equal share of the machine, Orcetra's win rate on the re-run subset falls from 59.4% to 34.3% and no pairwise difference aga…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.07303",
-    "timestamp": "2026-08-10T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.07303"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-10T04:00:00Z",
-    "id": "energy-af2abc27d43dbe38"
-  },
-  {
-    "title": "When is the Ring of Integer-Valued Polynomials over a Group Ring a Pr\\\"ufer domain?",
-    "summary": "arXiv:2607.00067v2 Announce Type: replace Abstract: In their study of the ring of integer-valued polynomials in non-commutative algebra, Peruginelli and Werner characterized the algebras for which this ring is a Pr\\\"ufer domain. Here, we apply their results to the case of group algebras.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.00067",
-    "timestamp": "2026-08-10T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.00067"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-10T04:00:00Z",
-    "id": "energy-eab67bb03a35f117"
-  },
-  {
-    "title": "Weight-constrained cut-down de Bruijn sequences",
-    "summary": "arXiv:2607.22350v2 Announce Type: replace Abstract: In 2011/12, Ruskey, Sawada, Stevens and Williams showed that a binary cut-down de Bruijn sequence can be constructed containing all $n$-tuples of Hamming weight either $r$ or $r+1$ for every possible $r$, and no others. In this paper we examine extensions of this result that require choosing a weight-like function applying to $n$-tuples with symbols taken from an alphabet of arbitrary (finite) size. We consider three possible such weight functions, and in each case establish an analogous result to that of Ruskey et al.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.22350",
-    "timestamp": "2026-08-10T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.22350"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-10T04:00:00Z",
-    "id": "energy-571a312f4c6d79a3"
-  },
-  {
-    "title": "New CRL team need some advice",
-    "summary": "I’m a rising sophomore in college, and my school just spent a few million dollars an an esports arena last year and this year they are starting a bunch of new esports teams. I just happened to be one of the first people with demonstrated interest in having a competitive Rocket League team. Because of this, the esports staff has essentially thrown me into a leadership role of a club I have no idea how to build. With the CRL deadline coming fast, how can I possibly find a team and build a community this fast? Especially with us not actually being in school yet when CRL starts, I feel it will be difficult to find people on such short notice. I’m happy to answer and clarifying questions. Thank you. submitted by /u/yara_yaraphonk [link] [comments]",
+    "title": "Spaceman + LemonKiwi Appreciation Thread",
+    "summary": "https://preview.redd.it/3jgustj97lih1.png?width=1920&format=png&auto=webp&s=53cadffa799a9a21ef14569760005bbf9909d2c3 27 Bo5s casted over 3 days, + 2 Bo7s in grand finals solo casted by Spaceman 3-6AM start time local each day for them with 8+hour broadcast days Did every desk segment and a lot of filling for tech issues Just the 2 of them, nobody else I think they deserve some love for what they provided these past 3 days, because what they did probably wasn't even healthy at some point. submitted by /u/John_aka_Alwayz [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vk56ax/new_crl_team_need_some_advice/",
-    "timestamp": "2026-08-09T23:53:10Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vksekb/spaceman_lemonkiwi_appreciation_thread/",
+    "timestamp": "2026-08-10T18:04:34Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vk56ax/new_crl_team_need_some_advice/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vksekb/spaceman_lemonkiwi_appreciation_thread/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-09T23:53:10Z",
-    "id": "energy-edd8bed1c6202aa6"
+    "data_as_of": "2026-08-10T18:04:34Z",
+    "id": "energy-6f4bb50d9d905cc7"
   },
   {
-    "title": "Velocity posts an altercation with Diaz in ranked of him being called a homophobic slur",
-    "summary": "https://preview.redd.it/a6omevsqkfih1.png?width=883&format=png&auto=webp&s=2073c06f7097f20ca07cfa98e6aa81788e094c2d https://preview.redd.it/j14qv0dukfih1.png?width=414&format=png&auto=webp&s=dc677614dc5ccbb5f5fb9d8097d0589c38293186 submitted by /u/John_aka_Alwayz [link] [comments]",
+    "title": "Me after these past 3 days:",
+    "summary": "We need more international Last Chance Qualifiers, make an LCQ for every LAN atp /j submitted by /u/MisterMakerXD [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vk48jx/velocity_posts_an_altercation_with_diaz_in_ranked/",
-    "timestamp": "2026-08-09T23:10:23Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vksa1v/me_after_these_past_3_days/",
+    "timestamp": "2026-08-10T18:00:10Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vk48jx/velocity_posts_an_altercation_with_diaz_in_ranked/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vksa1v/me_after_these_past_3_days/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-09T23:10:23Z",
-    "id": "energy-d90cb1a02b90b0b4"
+    "data_as_of": "2026-08-10T18:00:10Z",
+    "id": "energy-d0124a1fb5b4232c"
   },
   {
-    "title": "Nintendo Offers Free Repairs To Consoles Damaged In Kumamoto Earthquake",
-    "summary": "As extreme heat complicates a tragic situation, Nintendo and The Pokémon Company seek to give some respite to their players",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/nintendo-offers-free-repairs-to-consoles-damaged-in-kumamoto-earthquake-2000722827",
-    "timestamp": "2026-08-09T21:38:01Z",
-    "topic": "Gaming",
+    "title": "Members Say MISO On Right Path To Cutting DR Fraud",
+    "summary": "By Amanda Durish Cook MISO members said the RTO’s more stringent performance rules should win back trust in its demand-side resource fleet, though it should take care to be meticulous when registering new demand response entities. The fleet faced scrutiny following multiple high-profile FERC enforcement actions and warnings from the MISO Independent Market Monitor about […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/members-say-miso-on-right-path-to-cutting-dr-fraud/",
+    "timestamp": "2026-08-10T14:47:32Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/nintendo-offers-free-repairs-to-consoles-damaged-in-kumamoto-earthquake-2000722827"
+      "https://misoxenwatch.com/2026/08/members-say-miso-on-right-path-to-cutting-dr-fraud/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-09T21:38:01Z",
-    "id": "energy-d0e39af95a46809f"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-10T14:47:32Z",
+    "id": "energy-ff7a52c5e6de15d4"
   },
   {
-    "title": "If Anyone Wants To Print Their Own PlayStation Discs They’ll Need To Overcome Sony’s Wall Of Silence",
-    "summary": "While PlayStation seems committed to ending their physical copies, I wouldn’t hold my breath for a massive homebrew scene to fill the void in the immediate future",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823",
-    "timestamp": "2026-08-09T20:51:08Z",
-    "topic": "Gaming",
+    "title": "Does Western Michigan – And Mason County – Have The Power?",
+    "summary": "By Lois Tomaszewski As Pere Marquette Township officials discuss how to prepare for possible data center development, one question has surfaced repeatedly: Could western Michigan’s electric infrastructure support one of the largest industrial consumers of electricity in the modern economy? Mason County is home to the Ludington Pumped Storage Plant, one of the world’s largest […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/does-western-michigan-and-mason-county-have-the-power/",
+    "timestamp": "2026-08-10T14:46:49Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823"
+      "https://misoxenwatch.com/2026/08/does-western-michigan-and-mason-county-have-the-power/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-09T20:51:08Z",
-    "id": "energy-6bb11293952f87eb"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-10T14:46:49Z",
+    "id": "energy-351a5ef26955a152"
   },
   {
-    "title": "Seven Unhinged Characters That Would Make Tōkon A Marvel Fighter For The Ages",
-    "summary": "A crossover fighter is only as good as its roster is out of pocket, with these traditions in mind here are a few mutants and monster that could balance out ArcSys' largely safe roster",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/seven-unhinged-characters-that-would-make-tokon-a-marvel-fighter-for-the-ages-2000722808",
-    "timestamp": "2026-08-09T18:42:35Z",
-    "topic": "Gaming",
+    "title": "Indiana Consumer Advocate Blasts NIPSCO Cost Recovery For Coal Plant",
+    "summary": "By Thomas Tiernan • $38M for first-quarter costs detailed • Units face outages until October, December While an Indiana utility is seeking prompt action from federal regulators on its cost-recovery plan for repairs at a coal-fired power plant, a state consumer advocate argues the costs are unlawful and should not be paid by consumers in […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/indiana-consumer-advocate-blasts-nipsco-cost-recovery-for-coal-plant/",
+    "timestamp": "2026-08-10T14:46:05Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/seven-unhinged-characters-that-would-make-tokon-a-marvel-fighter-for-the-ages-2000722808"
+      "https://misoxenwatch.com/2026/08/indiana-consumer-advocate-blasts-nipsco-cost-recovery-for-coal-plant/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-09T18:42:35Z",
-    "id": "energy-3da9fafc31d87a06"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-10T14:46:05Z",
+    "id": "energy-a49169c7bc0fa8a6"
   },
   {
-    "title": "Reflector is a FREE open-source sample discovery workstation for macOS",
-    "summary": "Composer and software engineer Austin Rockman has released Reflector, a free open-source interactive audio workstation for sample discovery. Austin contacted me about the project, and I liked the idea even before testing it. Machine learning gets thrown into a lot of music tools now, but I find it interesting when it helps us interact with [...] View post: Reflector is a FREE open-source sample discovery workstation for macOS",
+    "title": "TubeOhm releases TO-Sampler, a FREE SynthEdit sampler for Windows",
+    "summary": "TubeOhm has released TO-Sampler, a free sampler plugin and standalone instrument for Windows. The main reason I’m featuring this one in the news is that we recently covered SynthEdit 1.6, which finally added native macOS support after decades of being a Windows-first plugin development environment. TO-Sampler is Windows-only for now, so it is a good [...] View post: TubeOhm releases TO-Sampler, a FREE SynthEdit sampler for Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/09/reflector-sample-discovery/",
-    "timestamp": "2026-08-09T15:46:39Z",
+    "url": "https://bedroomproducersblog.com/2026/08/10/tubeohm-to-sampler/",
+    "timestamp": "2026-08-10T14:35:32Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/09/reflector-sample-discovery/"
+      "https://bedroomproducersblog.com/2026/08/10/tubeohm-to-sampler/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-09T15:46:39Z",
-    "id": "energy-a08d6c8ab2d3666d"
-  },
-  {
-    "title": "Stagecraft Software RingMod is now FREE for macOS and Windows",
-    "summary": "Stagecraft Software’s RingMod plugin previously cost $30, but the Chicago-based developer has decided to make it available for free. To grab RingMod for free, head to the product page, and there you can download the installer directly. The plugin is available in AU, VST3, and AAX formats for macOS and Windows. As the developer notes, [...] View post: Stagecraft Software RingMod is now FREE for macOS and Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/09/stagecraft-software-ringmod/",
-    "timestamp": "2026-08-09T15:43:05Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/09/stagecraft-software-ringmod/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-09T15:43:05Z",
-    "id": "energy-c31bb69b3a8c594e"
-  },
-  {
-    "title": "OA-Labs releases Phosphor-1, a FREE unstable analog-style synth for macOS",
-    "summary": "OA-Labs has released OA-Phosphor-1, a free virtual analog synthesizer plugin for macOS. The developer describes it as a synth for “controllable instability,” and I think it’s a good fit. Phosphor-1 can deliver the typical subtractive type of stuff too, but the fun, for me at least, starts when you make it drift, sag, wobble, and [...] View post: OA-Labs releases Phosphor-1, a FREE unstable analog-style synth for macOS",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/",
-    "timestamp": "2026-08-08T17:26:10Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-08T17:26:10Z",
-    "id": "energy-eb59e29d4ea4d217"
+    "data_as_of": "2026-08-10T14:35:32Z",
+    "id": "energy-7e230f551b04c94e"
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "title": "The transformation of the NRC: 50 years of commissioners",
-    "summary": "The dust is beginning to settle following the whirlwind of changes at the Nuclear Regulatory Commission over the past year, and 2025 ultimately may be viewed as a transformative year, as well as the year the NRC celebrated its golden anniversary. The 12 months of that milestone year brought more change to the agency in its composition, its mandate, and its relationship to the executive branch than any comparable period in the preceding four decades. Now at 51 years and counting, the NRC is working with a full commission and issuing new rulemakings to both regulate and support the next round of nuclear deployments. With the turbulence of 2025 still fresh in our minds, Nuclear News decided it was a good time to revisit the professional backgrounds of all 42 NRC commissioners who have served over the agency’s 50-year history to see how the composition of the commission has evolved over time.",
+    "title": "European fusion studies shed light on disruptive phenomena at plasma edge",
+    "summary": "Recent research out of the United Kingdom and Germany is offering promising advances in the understanding of fusion plasmas, potentially bringing the dream of commercial fusion energy closer to reality.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-07/article-8222/the-transformation-of-the-nrc-50-years-of-commissioners/",
-    "timestamp": "2026-08-07T19:55:38Z",
+    "url": "https://www.ans.org/news/2026-08-10/article-8282/european-fusion-studies-shed-light-on-disruptive-phenomena-at-plasma-edge/",
+    "timestamp": "2026-08-10T20:44:38Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-07/article-8222/the-transformation-of-the-nrc-50-years-of-commissioners/"
+      "https://www.ans.org/news/2026-08-10/article-8282/european-fusion-studies-shed-light-on-disruptive-phenomena-at-plasma-edge/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-07T19:55:38Z",
-    "id": "energy-cf6f0df5b69cb956"
+    "data_as_of": "2026-08-10T20:44:38Z",
+    "id": "energy-0a06912eb8812ed2"
   },
   {
-    "title": "Centrus, X-energy sign enrichment contract as TRISO-X expands TX-1 campus",
-    "summary": "Centrus Energy Corp. will be providing X-energy with enrichment services for low-enriched uranium and high-assay, low-enriched uranium to support X-energy’s planned deployments of Xe-100 small modular reactors and TRISO-X fuel, according to the terms of a new contract signed by the companies. The fuel will be produced at Centrus’s American Centrifuge Plant in Piketon, Ohio. In turn, X-energy will provide Centrus with prepayments to help support expanding the capacity of Centrus’s domestic commercial enrichment program.",
+    "title": "Capitalizing on community",
+    "summary": "Mark Peterspresident@ans.org One month into my term as president of the American Nuclear Society, it is already clear that the nuclear field continues to move quickly. June alone brought a striking number of developments, each one pointing to the momentum of this moment. Antares’s Mark-0 microreactor reaching criticality at Idaho National Laboratory was more than a technical milestone. It effectively brought reactor No. 53 on line at a site that has shaped much of the nation’s nuclear history, with 52 reactors built there since 1951. And more criticality starts were delivered in June and July, enabled by the Department of Energy and its partnerships with private companies. At the same time, the Nuclear Regulatory Commission is continuing its broad regulatory reform effort, and nuclear technology is being used to help combat an outbreak of New World screwworm that has spread to the United States.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-07/article-8279/centrus-xenergy-sign-enrichment-contract-as-trisox-expands-tx1-campus/",
-    "timestamp": "2026-08-07T16:57:09Z",
+    "url": "https://www.ans.org/news/2026-08-10/article-8220/capitalizing-on-community/",
+    "timestamp": "2026-08-10T17:31:49Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-07/article-8279/centrus-xenergy-sign-enrichment-contract-as-trisox-expands-tx1-campus/"
+      "https://www.ans.org/news/2026-08-10/article-8220/capitalizing-on-community/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +40,43 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-07T16:57:09Z",
-    "id": "energy-21b4add83321f501"
+    "data_as_of": "2026-08-10T17:31:49Z",
+    "id": "energy-a3f2ccd5104a3cd3"
   },
   {
-    "title": "Entergy Texas helps customers beat the heat through fan donation campaign",
-    "summary": "Company donates more than 2,500 fans to help Southeast Texas families stay cool during the hottest months of the year",
+    "title": "PJM President & CEO Response to PJM Legislators’ Collaborative Letter Regarding CIFP Decision",
+    "summary": "Updated Date: 08.10.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260810-pjm-pres-ceo-response-to-pjm-legislators-collaborative-letter-re-cifp-decision.pdf",
+    "timestamp": "2026-08-10T16:59:13Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260810-pjm-pres-ceo-response-to-pjm-legislators-collaborative-letter-re-cifp-decision.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-08-10T16:59:13Z",
+    "id": "energy-f20d702c9666fcc1"
+  },
+  {
+    "title": "Entergy New Orleans continues building a stronger, more reliable grid",
+    "summary": "Entergy New Orleans is committed to improving resiliency and reliability across the city. We are taking a proactive approach to strengthening the electric system, improving everyday reliability and helping customers recover more quickly when outages occur.",
     "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-texas-helps-customers-beat-the-heat-through-fan-donation-campaign",
-    "timestamp": "2026-08-07T16:16:23Z",
+    "url": "https://www.entergy.com/entergy-new-orleans-continues-building-a-stronger-more-reliable-grid",
+    "timestamp": "2026-08-10T15:00:41Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/news/entergy-texas-helps-customers-beat-the-heat-through-fan-donation-campaign"
+      "https://www.entergy.com/entergy-new-orleans-continues-building-a-stronger-more-reliable-grid"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -64,69 +86,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-07T16:16:23Z",
-    "id": "energy-965d63c8120c9655"
+    "data_as_of": "2026-08-10T15:00:41Z",
+    "id": "energy-d517fcdcd07c7a9c"
   },
   {
-    "title": "How does electricity work?",
-    "summary": "You know that electricity is a reliable source of power, but do you understand how it actually works?",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/how-does-electricity-work",
-    "timestamp": "2026-08-07T15:48:58Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/how-does-electricity-work"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-07T15:48:58Z",
-    "id": "energy-7d070dfab791a1a6"
-  },
-  {
-    "title": "Stay away from downed power lines",
-    "summary": "Downed power lines are dangerous. They may still be energized. If you see one, stay far away and call 911 or your electric company to report it.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/stay-away-from-downed-power-lines",
-    "timestamp": "2026-08-07T15:04:10Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/stay-away-from-downed-power-lines"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-07T15:04:10Z",
-    "id": "energy-1581a6701bd17074"
-  },
-  {
-    "title": "Undeclared uranium hitches a ride on cobalt exports from Congo, study says",
-    "summary": "Philippe (left) and Manzuk quantified the amount of uranium that has been exported from the DRC in cobalt shipments or left behind in the environment. (Photo: Joel Hallberg/UW–Madison) Researchers at the University of Wisconsin–Madison and Princeton University have published a study in Nature Communications that calls attention to a blind spot in nuclear nonproliferation: The Democratic Republic of the Congo (DRC) has exported thousands of metric tons of uranium, and there is no accounting for where it has gone. In partnership with Lighthouse Reports and the Financial Times, UW–Madison nuclear engineering professor and nuclear security expert Sébastien Philippe and Ryan Manzuk, a geologist and research fellow in Philippe’s group and at Princeton, conducted the study using countrywide mineralization and geochemical data.",
+    "title": "Bills look to boost domestic uranium enrichment, move past Yucca Mountain",
+    "summary": "A pair of bills were introduced earlier this month in Congress that could modernize the licensing process for uranium enrichment facilities and repeal the law that designated Yucca Mountain in Nevada as the country’s nuclear waste repository.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-07/article-8278/undeclared-uranium-hitches-a-ride-on-cobalt-exports-from-congo-study-says/",
-    "timestamp": "2026-08-07T14:29:08Z",
+    "url": "https://www.ans.org/news/2026-08-10/article-8281/bills-look-to-boost-domestic-uranium-enrichment-move-past-yucca-mountain/",
+    "timestamp": "2026-08-10T14:31:03Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-07/article-8278/undeclared-uranium-hitches-a-ride-on-cobalt-exports-from-congo-study-says/"
+      "https://www.ans.org/news/2026-08-10/article-8281/bills-look-to-boost-domestic-uranium-enrichment-move-past-yucca-mountain/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -134,29 +108,7 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-07T14:29:08Z",
-    "id": "energy-e61f2209693201fe"
-  },
-  {
-    "title": "Monthly wholesale electricity prices and demand in New England, June 2026",
-    "summary": "Wholesale prices were up in both the day-ahead and real-time markets in June. The post Monthly wholesale electricity prices and demand in New England, June 2026 appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/07/monthly-wholesale-electricity-prices-and-demand-in-new-england-june-2026/",
-    "timestamp": "2026-08-07T12:10:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/07/monthly-wholesale-electricity-prices-and-demand-in-new-england-june-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-07T12:10:46Z",
-    "id": "energy-acb9efec8df01069"
+    "data_as_of": "2026-08-10T14:31:03Z",
+    "id": "energy-bcb41c6263060a02"
   }
 ]
