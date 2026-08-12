@@ -1,16 +1,16 @@
 [
   {
-    "title": "European fusion studies shed light on disruptive phenomena at plasma edge",
-    "summary": "Recent research out of the United Kingdom and Germany is offering promising advances in the understanding of fusion plasmas, potentially bringing the dream of commercial fusion energy closer to reality.",
+    "title": "Calif. officials urge Diablo Canyon extension, but Newsom holding off",
+    "summary": "Dozens of elected officials in California are urging Gov. Gavin Newsom and the California Legislature to act this year to extend operations at Diablo Canyon nuclear power plant past 2030.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-10/article-8282/european-fusion-studies-shed-light-on-disruptive-phenomena-at-plasma-edge/",
-    "timestamp": "2026-08-10T20:44:38Z",
+    "url": "https://www.ans.org/news/2026-08-11/article-8285/calif-officials-urge-diablo-canyon-extension-but-newsom-holding-off/",
+    "timestamp": "2026-08-11T20:54:41Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-10/article-8282/european-fusion-studies-shed-light-on-disruptive-phenomena-at-plasma-edge/"
+      "https://www.ans.org/news/2026-08-11/article-8285/calif-officials-urge-diablo-canyon-extension-but-newsom-holding-off/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,45 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-10T20:44:38Z",
-    "id": "energy-0a06912eb8812ed2"
+    "data_as_of": "2026-08-11T20:54:41Z",
+    "id": "energy-41558d1303e17474"
   },
   {
-    "title": "Capitalizing on community",
-    "summary": "Mark Peterspresident@ans.org One month into my term as president of the American Nuclear Society, it is already clear that the nuclear field continues to move quickly. June alone brought a striking number of developments, each one pointing to the momentum of this moment. Antares’s Mark-0 microreactor reaching criticality at Idaho National Laboratory was more than a technical milestone. It effectively brought reactor No. 53 on line at a site that has shaped much of the nation’s nuclear history, with 52 reactors built there since 1951. And more criticality starts were delivered in June and July, enabled by the Department of Energy and its partnerships with private companies. At the same time, the Nuclear Regulatory Commission is continuing its broad regulatory reform effort, and nuclear technology is being used to help combat an outbreak of New World screwworm that has spread to the United States.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-10/article-8220/capitalizing-on-community/",
-    "timestamp": "2026-08-10T17:31:49Z",
+    "title": "Entergy Louisiana resiliency by the numbers: The work behind a stronger, more affordable grid",
+    "summary": "Keeping the lights on isn’t just about building new lines — it’s a nonstop, year round effort that happens behind the scenes every single day.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-louisiana-resiliency-by-the-numbers-the-work-behind-a-stronger-more-affordable-grid",
+    "timestamp": "2026-08-11T20:12:23Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-10/article-8220/capitalizing-on-community/"
+      "https://www.entergy.com/blog/entergy-louisiana-resiliency-by-the-numbers-the-work-behind-a-stronger-more-affordable-grid"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-11T20:12:23Z",
+    "id": "energy-d4ab09740a83f7e8"
+  },
+  {
+    "title": "NRC holds public meeting for proposed rule eliminating ALARA",
+    "summary": "The Nuclear Regulatory Commission has proposed a change to how it will approach standards for radiation protections, notably including the elimination of the “as low as reasonably achievable” (ALARA) principle. The proposed change was published in the Federal Register on July 15, and yesterday the agency held a public meeting on the topic. In the meeting, Mike Franovich, director of the NRC’s Office of Nuclear Regulatory Research, gave a presentation summarizing the changes, and NRC staff answered questions from participants. The meeting facilitator, Lance Rakovan, described it as a “very popular meeting,” drawing more than 550 participants, and the NRC staff was unable to address all questions in the scheduled time.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-11/article-8284/nrc-holds-public-meeting-for-proposed-rule-eliminating-alara/",
+    "timestamp": "2026-08-11T18:26:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-11/article-8284/nrc-holds-public-meeting-for-proposed-rule-eliminating-alara/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +64,98 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-10T17:31:49Z",
-    "id": "energy-a3f2ccd5104a3cd3"
+    "data_as_of": "2026-08-11T18:26:23Z",
+    "id": "energy-25f8a5fb94a44af9"
+  },
+  {
+    "title": "Entergy’s John Hudson honored with the 2026 Whitney M. Young, Jr. Service Award",
+    "summary": "Entergy is proud to announce that John O. Hudson III, chief external affairs officer and president of the Entergy Charitable Foundation, has been selected as the 2026 Whitney M. Young, Jr. Service Award honoree.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergys-john-hudson-honored-with-the-2026-whitney-m-young-jr-service-award",
+    "timestamp": "2026-08-11T16:43:43Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergys-john-hudson-honored-with-the-2026-whitney-m-young-jr-service-award"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-11T16:43:43Z",
+    "id": "energy-d453e2d3453af058"
+  },
+  {
+    "title": "NRC shares more on reactor licensing proposed rule at virtual Q&A",
+    "summary": "The Nuclear Regulatory Commission’s proposed rule on modernizing reactor licensing, safety oversight, and siting practices ran over 550 pages when it was unveiled in July. To address the massive rulemaking, the NRC held three meetings last week to address all the topics. At the third and final meeting, NRC staff addressed license and permit durations, 10 CFR Parts 52 and 54 enhancements, changes to emergency preparedness, and decommissioning financial assurances for new reactor applicants.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-11/article-8283/nrc-shares-more-on-reactor-licensing-proposed-rule-at-virtual-qa/",
+    "timestamp": "2026-08-11T14:32:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-11/article-8283/nrc-shares-more-on-reactor-licensing-proposed-rule-at-virtual-qa/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-11T14:32:36Z",
+    "id": "energy-d1016a15d01ab4fc"
+  },
+  {
+    "title": "2026 Regional Electricity Outlook highlights ISO-NE’s innovative work amid changing energy landscape",
+    "summary": "The outlook includes dynamic graphics and easy-to-understand language designed for a wide audience. The post 2026 Regional Electricity Outlook highlights ISO-NE’s innovative work amid changing energy landscape appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/11/2026-regional-electricity-outlook-highlights-iso-nes-innovative-work-amid-changing-trends-in-the-energy-landscape/",
+    "timestamp": "2026-08-11T14:20:24Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/11/2026-regional-electricity-outlook-highlights-iso-nes-innovative-work-amid-changing-trends-in-the-energy-landscape/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-11T14:20:24Z",
+    "id": "energy-ac3eacc693f2b3e9"
+  },
+  {
+    "title": "EKPC Letter Regarding PJM Markets",
+    "summary": "Updated Date: 08.11.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260811-ekpc-letter-re-pjm-markets.pdf",
+    "timestamp": "2026-08-11T13:36:26Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260811-ekpc-letter-re-pjm-markets.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-08-11T13:36:26Z",
+    "id": "energy-aa3e6aa8524aaec0"
   },
   {
     "title": "PJM President & CEO Response to PJM Legislators’ Collaborative Letter Regarding CIFP Decision",
@@ -88,27 +202,5 @@
     ],
     "data_as_of": "2026-08-10T15:00:41Z",
     "id": "energy-d517fcdcd07c7a9c"
-  },
-  {
-    "title": "Bills look to boost domestic uranium enrichment, move past Yucca Mountain",
-    "summary": "A pair of bills were introduced earlier this month in Congress that could modernize the licensing process for uranium enrichment facilities and repeal the law that designated Yucca Mountain in Nevada as the country’s nuclear waste repository.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-10/article-8281/bills-look-to-boost-domestic-uranium-enrichment-move-past-yucca-mountain/",
-    "timestamp": "2026-08-10T14:31:03Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-10/article-8281/bills-look-to-boost-domestic-uranium-enrichment-move-past-yucca-mountain/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-10T14:31:03Z",
-    "id": "energy-bcb41c6263060a02"
   }
 ]
