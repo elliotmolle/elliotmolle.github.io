@@ -1,16 +1,16 @@
 [
   {
-    "title": "Calif. officials urge Diablo Canyon extension, but Newsom holding off",
-    "summary": "Dozens of elected officials in California are urging Gov. Gavin Newsom and the California Legislature to act this year to extend operations at Diablo Canyon nuclear power plant past 2030.",
+    "title": "Porous tungsten scrubbed by glow discharge cleaning",
+    "summary": "Researchers conducted experiments in Princeton Plasma Physics Laboratory’s Lithium Tokamak Experiment-Beta (LTX-β) showing glow discharge cleaning can be used to effectively clean samples of porous tungsten—used to hold liquid lithium in fusion machine inner walls—manufactured from powder-reconstituted materials, according to a paper published in Nuclear Materials and Energy. Tungsten is widely used for plasma-facing components in fusion machines, especially in the divertor region where materials must withstand extreme levels of power flow. According to the paper, spark plasma sintering can be used to make tungsten into spongelike samples for holding liquid lithium.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-11/article-8285/calif-officials-urge-diablo-canyon-extension-but-newsom-holding-off/",
-    "timestamp": "2026-08-11T20:54:41Z",
+    "url": "https://www.ans.org/news/2026-08-12/article-8289/porous-tungsten-scrubbed-by-glow-discharge-cleaning/",
+    "timestamp": "2026-08-12T21:12:59Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-11/article-8285/calif-officials-urge-diablo-canyon-extension-but-newsom-holding-off/"
+      "https://www.ans.org/news/2026-08-12/article-8289/porous-tungsten-scrubbed-by-glow-discharge-cleaning/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-11T20:54:41Z",
-    "id": "energy-41558d1303e17474"
+    "data_as_of": "2026-08-12T21:12:59Z",
+    "id": "energy-c2475322ec42f76c"
   },
   {
-    "title": "Entergy Louisiana resiliency by the numbers: The work behind a stronger, more affordable grid",
-    "summary": "Keeping the lights on isn’t just about building new lines — it’s a nonstop, year round effort that happens behind the scenes every single day.",
+    "title": "Beat the heat: Entergy Mississippi works with community agencies to help customers stay cool",
+    "summary": "This summer, community partners across Entergy Mississippi’s service area are giving away fans, water and other items to help customers stay cool as the summer heats up, funded by $27,500 in Beat the Heat grants the company awarded recently to several organizations.",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-louisiana-resiliency-by-the-numbers-the-work-behind-a-stronger-more-affordable-grid",
-    "timestamp": "2026-08-11T20:12:23Z",
+    "url": "https://www.entergy.com/news/beat-the-heat-entergy-mississippi-works-with-community-agencies-to-help-customers-stay-cool",
+    "timestamp": "2026-08-12T19:54:16Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-louisiana-resiliency-by-the-numbers-the-work-behind-a-stronger-more-affordable-grid"
+      "https://www.entergy.com/news/beat-the-heat-entergy-mississippi-works-with-community-agencies-to-help-customers-stay-cool"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -42,21 +42,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-11T20:12:23Z",
-    "id": "energy-d4ab09740a83f7e8"
+    "data_as_of": "2026-08-12T19:54:16Z",
+    "id": "energy-17624f1ded9743a8"
   },
   {
-    "title": "NRC holds public meeting for proposed rule eliminating ALARA",
-    "summary": "The Nuclear Regulatory Commission has proposed a change to how it will approach standards for radiation protections, notably including the elimination of the “as low as reasonably achievable” (ALARA) principle. The proposed change was published in the Federal Register on July 15, and yesterday the agency held a public meeting on the topic. In the meeting, Mike Franovich, director of the NRC’s Office of Nuclear Regulatory Research, gave a presentation summarizing the changes, and NRC staff answered questions from participants. The meeting facilitator, Lance Rakovan, described it as a “very popular meeting,” drawing more than 550 participants, and the NRC staff was unable to address all questions in the scheduled time.",
+    "title": "Hanford Site grouting developments could accelerate cleanup",
+    "summary": "The Department of Energy has reported that its Hanford Field Office has submitted two permit modification requests to the Washington State Department of Ecology that could speed up the cleanup of the Hanford Site near Richland, Wash. The requests “represent the latest step in a science-backed dual glass-plus-grout strategy to eliminate risks posed by aging tanks and meet cleanup commitments to the people of Washington more quickly, safely and efficiently,” the DOE said.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-11/article-8284/nrc-holds-public-meeting-for-proposed-rule-eliminating-alara/",
-    "timestamp": "2026-08-11T18:26:23Z",
+    "url": "https://www.ans.org/news/2026-08-12/article-8288/hanford-site-grouting-developments-could-accelerate-cleanup/",
+    "timestamp": "2026-08-12T18:26:00Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-11/article-8284/nrc-holds-public-meeting-for-proposed-rule-eliminating-alara/"
+      "https://www.ans.org/news/2026-08-12/article-8288/hanford-site-grouting-developments-could-accelerate-cleanup/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -64,21 +64,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-11T18:26:23Z",
-    "id": "energy-25f8a5fb94a44af9"
+    "data_as_of": "2026-08-12T18:26:00Z",
+    "id": "energy-57786fe20179c025"
   },
   {
-    "title": "Entergy’s John Hudson honored with the 2026 Whitney M. Young, Jr. Service Award",
-    "summary": "Entergy is proud to announce that John O. Hudson III, chief external affairs officer and president of the Entergy Charitable Foundation, has been selected as the 2026 Whitney M. Young, Jr. Service Award honoree.",
+    "title": "Celebrating 40 years of the Community Development Institute",
+    "summary": "The Community Development Institute recently celebrated its 40th anniversary, marking four decades of transformative impact on communities nationwide. Entergy Arkansas has played a significant role in establishing the organization.",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergys-john-hudson-honored-with-the-2026-whitney-m-young-jr-service-award",
-    "timestamp": "2026-08-11T16:43:43Z",
+    "url": "https://www.entergy.com/blog/celebrating-40-years-of-the-community-development-institute",
+    "timestamp": "2026-08-12T16:59:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergys-john-hudson-honored-with-the-2026-whitney-m-young-jr-service-award"
+      "https://www.entergy.com/blog/celebrating-40-years-of-the-community-development-institute"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -88,21 +88,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-11T16:43:43Z",
-    "id": "energy-d453e2d3453af058"
+    "data_as_of": "2026-08-12T16:59:39Z",
+    "id": "energy-017d19369dae784d"
   },
   {
-    "title": "NRC shares more on reactor licensing proposed rule at virtual Q&A",
-    "summary": "The Nuclear Regulatory Commission’s proposed rule on modernizing reactor licensing, safety oversight, and siting practices ran over 550 pages when it was unveiled in July. To address the massive rulemaking, the NRC held three meetings last week to address all the topics. At the third and final meeting, NRC staff addressed license and permit durations, 10 CFR Parts 52 and 54 enhancements, changes to emergency preparedness, and decommissioning financial assurances for new reactor applicants.",
+    "title": "Slovakia’s newest reactor achieves criticality",
+    "summary": "The fourth unit of Slovakia’s Mochovce nuclear power plant has achieved criticality, operator Slovenské Elektrárne has announced. Unit 4 reached the milestone at 10:10 p.m. local time on August 6. Twenty-one minutes later, the reactor reached its minimum controlled power level.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-11/article-8283/nrc-shares-more-on-reactor-licensing-proposed-rule-at-virtual-qa/",
-    "timestamp": "2026-08-11T14:32:36Z",
+    "url": "https://www.ans.org/news/2026-08-12/article-8287/slovakias-newest-reactor-achieves-criticality/",
+    "timestamp": "2026-08-12T16:37:20Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-11/article-8283/nrc-shares-more-on-reactor-licensing-proposed-rule-at-virtual-qa/"
+      "https://www.ans.org/news/2026-08-12/article-8287/slovakias-newest-reactor-achieves-criticality/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -110,8 +110,54 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-11T14:32:36Z",
-    "id": "energy-d1016a15d01ab4fc"
+    "data_as_of": "2026-08-12T16:37:20Z",
+    "id": "energy-e1308edb0fbb1835"
+  },
+  {
+    "title": "Meet the pros: Mallory Bower",
+    "summary": "At Entergy, every employee has a designated role during a response, and whether it’s a minor disruption or a major event, each role is critical to helping us restore power as safely and as quickly as possible.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/meet-the-pros-mallory-bower",
+    "timestamp": "2026-08-12T16:20:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/meet-the-pros-mallory-bower"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-12T16:20:26Z",
+    "id": "energy-5b96d994a63a34f9"
+  },
+  {
+    "title": "ISO-NE expects minimal power system impacts from partial solar eclipse",
+    "summary": "Output from behind-the-meter photovoltaics could be reduced by 600 to 800 megawatts. The post ISO-NE expects minimal power system impacts from partial solar eclipse appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/12/iso-ne-expects-minimal-power-system-impacts-from-partial-solar-eclipse/",
+    "timestamp": "2026-08-12T12:18:19Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/12/iso-ne-expects-minimal-power-system-impacts-from-partial-solar-eclipse/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-12T12:18:19Z",
+    "id": "energy-cb3ec88e1b0c6372"
   },
   {
     "title": "2026 Regional Electricity Outlook highlights ISO-NE’s innovative work amid changing energy landscape",
@@ -178,29 +224,5 @@
     ],
     "data_as_of": "2026-08-10T16:59:13Z",
     "id": "energy-f20d702c9666fcc1"
-  },
-  {
-    "title": "Entergy New Orleans continues building a stronger, more reliable grid",
-    "summary": "Entergy New Orleans is committed to improving resiliency and reliability across the city. We are taking a proactive approach to strengthening the electric system, improving everyday reliability and helping customers recover more quickly when outages occur.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/entergy-new-orleans-continues-building-a-stronger-more-reliable-grid",
-    "timestamp": "2026-08-10T15:00:41Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/entergy-new-orleans-continues-building-a-stronger-more-reliable-grid"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-10T15:00:41Z",
-    "id": "energy-d517fcdcd07c7a9c"
   }
 ]
