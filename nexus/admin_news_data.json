@@ -1,399 +1,417 @@
 [
   {
-    "title": "Henry Cavill's 2-Hour Action-Movie Masterpiece With a Secret 007 Connection Is Officially Free to Stream",
-    "summary": "Nearly 20 years after almost becoming James Bond, Cavill found another surprising way into 007's history.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/",
-    "timestamp": "2026-08-13T11:00:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/henry-cavill-movies-free-streaming-august-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-13T11:00:16Z",
-    "id": "energy-2fcb4c72b239b519"
-  },
-  {
-    "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+    "title": "For the love of god stop using CPU limits in Kubernetes",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "timestamp": "2026-08-13T10:23:51Z",
+    "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+    "timestamp": "2026-08-14T10:41:21Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+      "https://github.com/inevolin/k8s-cpu-limits-analyzed"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-13T10:23:51Z",
-    "id": "energy-3cd2ab940e2fdaa5"
+    "data_as_of": "2026-08-14T10:41:21Z",
+    "id": "energy-8745ea78b84f2e93"
   },
   {
-    "title": "Esports World Cup 2026 | Event Thread | Day 2 | Aug 13th | Group Stage",
-    "summary": "https://preview.redd.it/brde0g25d1jh1.png?width=911&format=png&auto=webp&s=8f58a1d109a300f625f7601cec47e979c6cdcefb Event Thread Day 2 of the Esports World Cup, 13th August 2026 in Paris Show begins around 12:30pm CEST (11:30am BST, 6:30am EDT) Matches begin around 1pm CEST (12pm BST, 7am EDT) Streams Main Streams: Twitch - Rocket League YouTube - Rocket League Esports Youtube - Esports World Cup Tournament Info Liquipedia | EWC Website | Blast Format Group Stage - August 12th - 14th, 2026 16 teams split into 2 GSL Groups of 8. Upper Bracket matches are Bo5 Lower Bracket matches are Bo7. Top 4 Teams per group - 8 in total - advance to the Playoffs. Playoffs - August 15th - 16th, 2026 Single Elimination Bracket. Upper Bracket Teams will be drawn randomly against a Lower Bracket Team. Teams from the same Group can not play against each other. All matches (excl. 3rd Place) are Bo7. 3rd Place match is a Bo5. Schedule https://preview.redd.it/jf92nogld1jh1.png?width=915&format=png&auto=webp&s=a1464688613a7693a2fbd6c53841a0661df744f9 Group A https://preview.redd.it/t8cf5fcfg1jh1.jpg?width=2162&format=pjpg&auto=webp&s=6028f8a59e1e8259aeb6c9685ecb77df16cfa620 Group B https://preview.redd.i…",
+    "title": "Esports World Cup 2026 | Event Thread | Day 3 | Aug 14th | Group Stage",
+    "summary": "https://preview.redd.it/nvobhjgfb7jh1.png?width=911&format=png&auto=webp&s=4f37d34526a92a2147f60b8ac19eb739d1312660 Event Thread Day 3 of the Esports World Cup, 14th August 2026 in Paris Show begins around 12:30pm CEST (11:30am BST, 6:30am EDT) Matches begin around 1pm CEST (12pm BST, 7am EDT) Streams Main Streams: Twitch - Rocket League YouTube - Rocket League Esports Youtube - Esports World Cup Tournament Info Liquipedia | EWC Website | Blast Format Group Stage - August 12th - 14th, 2026 16 teams split into 2 GSL Groups of 8. Upper Bracket matches are Bo5 Lower Bracket matches are Bo7. Top 4 Teams per group - 8 in total - advance to the Playoffs. Playoffs - August 15th - 16th, 2026 Single Elimination Bracket. Upper Bracket Teams will be drawn randomly against a Lower Bracket Team. Teams from the same Group can not play against each other. All matches (excl. 3rd Place) are Bo7. 3rd Place match is a Bo5. Schedule https://preview.redd.it/filw29klb7jh1.png?width=914&format=png&auto=webp&s=98576e8765b9a4ef688ed30202bd668aa947416b Group A https://preview.redd.it/i9rvx0vyb7jh1.jpg?width=2075&format=pjpg&auto=webp&s=a236b0065782f37f0ef2a7b89ff017d4b5750c53 Group B https://preview.redd.i…",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vn6p0l/esports_world_cup_2026_event_thread_day_2_aug/",
-    "timestamp": "2026-08-13T10:15:13Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vo3ae1/esports_world_cup_2026_event_thread_day_3_aug/",
+    "timestamp": "2026-08-14T10:15:24Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vn6p0l/esports_world_cup_2026_event_thread_day_2_aug/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vo3ae1/esports_world_cup_2026_event_thread_day_3_aug/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-13T10:15:13Z",
-    "id": "energy-fa798c6455b10388"
+    "data_as_of": "2026-08-14T10:15:24Z",
+    "id": "energy-6997b4f3067c55d6"
   },
   {
-    "title": "Pokémon Go Is Giving All Players a Perfect Mewtwo to Apologize for Times Square Stunt",
-    "summary": "Now everyone can get the prize that influencers received at the Pokémon Go Times Square anniversary celebration.",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "timestamp": "2026-08-14T10:12:48Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-14T10:12:48Z",
+    "id": "energy-0037cb6e259a1417"
+  },
+  {
+    "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
+    "timestamp": "2026-08-14T10:10:15Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.bbc.com/news/articles/cr7kpdkg13zo"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-14T10:10:15Z",
+    "id": "energy-4092c1173cd6d714"
+  },
+  {
+    "title": "Can public EV chargers be as reliable as gas stations?",
+    "summary": "A conversation with Seth Cutler of IONNA.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/can-public-ev-chargers-be-as-reliable",
+    "timestamp": "2026-08-14T10:06:04Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/can-public-ev-chargers-be-as-reliable"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-08-14T10:06:04Z",
+    "id": "energy-a70a342b5d98d59d"
+  },
+  {
+    "title": "New Sci-Fi Thriller From Godzilla Director Officially Drops in 3 Weeks",
+    "summary": "Adam Wingard's latest film, 'Onslaught,' perfectly blends horror and action when it arrives in cinemas this September.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-go-perfect-mewtwo-anniversary/",
-    "timestamp": "2026-08-13T10:11:47Z",
+    "url": "https://www.polygon.com/onslaught-release-date-adria-arjona/",
+    "timestamp": "2026-08-14T10:00:12Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/pokemon-go-perfect-mewtwo-anniversary/"
+      "https://www.polygon.com/onslaught-release-date-adria-arjona/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-13T10:11:47Z",
-    "id": "energy-132ed8133be22d9b"
+    "data_as_of": "2026-08-14T10:00:12Z",
+    "id": "energy-dce0f27df24d8ffb"
   },
   {
-    "title": "Google Finally Agrees to Refund LOTR Fan After Trilogy Disappeared from Digital Library, but There's a Catch",
-    "summary": "Google proved frustratingly unhelpful when The Lord of the Rings trilogy disappeared from a user's library, seemingly out of nowhere.",
+    "title": "Spider-Man: Beyond the Spider-Verse Clip Has Leaked, and Sony Is Working Hard to Take It Down",
+    "summary": "Sony is struggling to take down a four-minute clip of Spider-Man: Beyond the Spider-Verse, but thousands have already seen it.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/lotr-lord-of-the-rings-digital-refund-google-denied/",
-    "timestamp": "2026-08-13T10:03:15Z",
+    "url": "https://www.polygon.com/spider-man-beyond-the-spider-verse-leaked-clip-trailer/",
+    "timestamp": "2026-08-14T09:58:45Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/lotr-lord-of-the-rings-digital-refund-google-denied/"
+      "https://www.polygon.com/spider-man-beyond-the-spider-verse-leaked-clip-trailer/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-13T10:03:15Z",
-    "id": "energy-6b56fda902fbf1a3"
+    "data_as_of": "2026-08-14T09:58:45Z",
+    "id": "energy-9463d6ee27807ac4"
   },
   {
-    "title": "TRK’s statement after winning the match",
-    "summary": "Interviewer: \"How is it speaking with the team in English for the first time this year?\" TRK: \"I'm playing with the best players in the world, Monkey Moon and nwbo; even if I speak Spanish, there's no problem\" submitted by /u/boradteenager007 [link] [comments]",
+    "title": "A Pokémon Game Becomes the Second Best-Selling Nintendo Switch 2 Game",
+    "summary": "Pokémon Pokopia is the second-best-selling Nintendo Switch 2 game, owned by almost a quarter of people who have the console.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/pokemon-pokopia-5-million-sales-switch-2/",
+    "timestamp": "2026-08-14T09:33:49Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/pokemon-pokopia-5-million-sales-switch-2/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-14T09:33:49Z",
+    "id": "energy-05ee41f7826fa8e6"
+  },
+  {
+    "title": "Windows-G releases E-PeakClipper500 as a FREE VST3 clipper for Windows",
+    "summary": "Windows-G has released E-PeakClipper500 as a free VST3 clipper plugin for Windows. We covered E-PeakClipper500 last year as a JSFX clipper for REAPER, which could also run in other DAWs through the free YSFX wrapper. This new release is a native Windows VST3 version, so Windows users can load it directly without the extra wrapper [...] View post: Windows-G releases E-PeakClipper500 as a FREE VST3 clipper for Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/14/windows-g-peakclipper500/",
+    "timestamp": "2026-08-14T08:11:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/14/windows-g-peakclipper500/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-14T08:11:08Z",
+    "id": "energy-c0fca4c11e5cb6ce"
+  },
+  {
+    "title": "Sample Dicer is a FREE four-layer one-shot sampler for macOS and Windows",
+    "summary": "Ilya Orange has released Sample Dicer, a free four-layer one-shot sampler for macOS and Windows. Sample Dicer basically turns raw audio into playable variations, or at least that’s the way I understood it. Instead of loading one sample and triggering it the same way every time, you can stack up to four layers and let [...] View post: Sample Dicer is a FREE four-layer one-shot sampler for macOS and Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/14/sample-dicer/",
+    "timestamp": "2026-08-14T08:02:39Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/14/sample-dicer/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-14T08:02:39Z",
+    "id": "energy-57f975f257d4ca26"
+  },
+  {
+    "title": "Okay Synthesizer releases Okay Shaper, a FREE three-band volume shaper",
+    "summary": "Okay Synthesizer has released Okay Shaper, a free three-band volume shaper for macOS and Windows. We featured Okay Distortion earlier this year, and I liked the somewhat playful design of that plugin. The new Okay Shaper has a similar personality, from the goofy “You can go ahead and duck yourself” tagline to the colorful interface [...] View post: Okay Synthesizer releases Okay Shaper, a FREE three-band volume shaper",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/14/okay-shaper/",
+    "timestamp": "2026-08-14T07:17:43Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/14/okay-shaper/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-14T07:17:43Z",
+    "id": "energy-ae5a38dc6eb9a523"
+  },
+  {
+    "title": "Zero-energy Edge States of Tight-Binding Models for Generalized Honeycomb-Structured Materials",
+    "summary": "arXiv:2504.09565v2 Announce Type: replace Abstract: Generalized honeycomb-structured materials have received increasing attention due to their novel topological properties. In this article, we investigate zero-energy edge states in tight-binding models for such materials with two different interface configurations: type-I and type-II, which are analog to zigzag and armchair interfaces for the honeycomb structure. We obtain the necessary and sufficient conditions for the existence of such edge states and rigorously prove the existence of spin-like zero-energy edge states. More specifically, type-II interfaces support two zero-energy states exclusively between topologically distinct materials. For type-I interfaces, zero-energy edge states exist between both topologically distinct and identical materials when hopping coefficients satisfy specific constraints. We further prove that the two energy curves for edge states exhibit strict crossing. We numerically simulate the dynamics of edge state wave packets along bending interfaces, which agree with the topologically protected motion of spin-like edge states in physics.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2504.09565",
+    "timestamp": "2026-08-14T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2504.09565"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-14T04:00:00Z",
+    "id": "energy-db8a2f8c2d931e9a"
+  },
+  {
+    "title": "Wug-snake graphs and Markov numbers of matrix semigroups",
+    "summary": "arXiv:2604.17069v3 Announce Type: replace Abstract: Classically, Markov numbers are recovered as perfect matching numbers of domino snake graphs. We extend this correspondence by introducing weighted universal generalised snake graphs, or wug-snake graphs. These are weighted ordered bipartite graphs whose perfect matching sequences encode linear recurrences. To every wug-snake graph we associate a continuant matrix and prove that the determinant of this matrix equals the weighted perfect matching sum. We then introduce polyomino wug-tiles, bodies of wug-snake graphs that act linearly on state vectors. Every integer matrix admits a canonical polyomino wug-tile. Our main result identifies the wug-snake determinant of a tile representing a matrix $A$ with the Markov-Davenport form of $A$. Consequently, algebraic and geometric Markov numbers of matrices and matrix semigroups can be expressed as weighted perfect matching determinants. Further we define Frobenius maps for matrix semigroups and discuss examples recovering classical Markov numbers and higher-dimensional lattice realisations.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2604.17069",
+    "timestamp": "2026-08-14T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2604.17069"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-14T04:00:00Z",
+    "id": "energy-0be6e86b1bc93a11"
+  },
+  {
+    "title": "Well-posedness and time stepping adaptivity for a class of collocation discretisations of time-fractional subdiffusion equations",
+    "summary": "arXiv:2602.18404v2 Announce Type: replace Abstract: Time-fractional parabolic equations with a Caputo time derivative of order $\\alpha\\in(0,1)$ are discretised in time using collocation methods, which assume that the Caputo derivative of the computed solution is piecewise-polynomial. For such discretisations of any order $m\\ge 0$, with any choice of collocation points, we give sufficient conditions for existence and uniqueness of collocation solutions. Furthermore, we investigate the applicability and performance of such schemes in the context of the a-posteriori error estimation and adaptive time stepping algorithms.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2602.18404",
+    "timestamp": "2026-08-14T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2602.18404"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-14T04:00:00Z",
+    "id": "energy-f9f1c023ad0da3f2"
+  },
+  {
+    "title": "Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default",
+    "summary": "'They know we don't want it, they do not care'",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227",
+    "timestamp": "2026-08-13T21:29:44Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-13T21:29:44Z",
+    "id": "energy-6ff3bb497638c057"
+  },
+  {
+    "title": "Insomniac’s Explanation For Why Wolverine’s Suit Heals Itself Is Simple And Honest",
+    "summary": "They could have made up some bullshit, but this is better",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228",
+    "timestamp": "2026-08-13T21:06:39Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-13T21:06:39Z",
+    "id": "energy-529d752393049139"
+  },
+  {
+    "title": "Judge Throws Out ‘Mortal Kombat Stabbing’ Lawsuit On Free Speech Grounds",
+    "summary": "Video games are not products, and not subject to product liability claims, judge says",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/judge-throws-out-mortal-kombat-stabbing-lawsuit-on-free-speech-grounds-2000724107",
+    "timestamp": "2026-08-13T20:18:06Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/judge-throws-out-mortal-kombat-stabbing-lawsuit-on-free-speech-grounds-2000724107"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-13T20:18:06Z",
+    "id": "energy-f33f15c7a459e997"
+  },
+  {
+    "title": "I wish we had different formats throughout the season, especially Swiss Stage at Worlds since we have the best 16 teams due to play-ins.",
+    "summary": "submitted by /u/mrabu3abd12 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vn1ymk/trks_statement_after_winning_the_match/",
-    "timestamp": "2026-08-13T05:40:58Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vnm0nu/i_wish_we_had_different_formats_throughout_the/",
+    "timestamp": "2026-08-13T20:15:56Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vn1ymk/trks_statement_after_winning_the_match/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vnm0nu/i_wish_we_had_different_formats_throughout_the/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-13T05:40:58Z",
-    "id": "energy-e282e6cece341088"
+    "data_as_of": "2026-08-13T20:15:56Z",
+    "id": "energy-8edf2904d95a879a"
   },
   {
-    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://openai.com/codex/",
-    "timestamp": "2026-08-13T04:53:41Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://openai.com/codex/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-13T04:53:41Z",
-    "id": "energy-7279dc98fd0337af"
-  },
-  {
-    "title": "Saber CEO Denies Replacing Rideshare Writer With ChatGPT But Says ‘I Would Frankly In Retrospect Have Been Happy To Replace Her With AI’",
-    "summary": "Matt Karch said a missing Steam disclosure will be added eventually",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953",
-    "timestamp": "2026-08-13T04:42:19Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-13T04:42:19Z",
-    "id": "energy-a583f9afe102e7bb"
-  },
-  {
-    "title": "Zeros of one-forms and the topology of algebraic maps",
-    "summary": "arXiv:2607.15102v2 Announce Type: replace Abstract: We construct a smooth complex projective variety whose Albanese morphism is a homotopy fiber bundle but not a submersion. The same variety fibers smoothly over the circle, although every holomorphic one-form on it has a zero. A second construction yields smooth complex projective varieties $X$ such that the Aomoto complex of every nonzero holomorphic one-form on every connected finite \\'etale cover of $X$ is exact, while $X$ admits no real closed one-form without zeros. The two constructions build, respectively, on a homology fiber bundle of Corr\\^ea--Koll\\'ar that is not a homotopy fiber bundle and on a rational cohomology torus constructed by Debarre--Jiang--Lahoz. Consequently, we disprove Kotschick's conjecture, the remaining implication in the Bobadilla--Koll\\'ar conjecture, and a conjecture of the first-named author.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.15102",
-    "timestamp": "2026-08-13T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.15102"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-13T04:00:00Z",
-    "id": "energy-8459ff0126568454"
-  },
-  {
-    "title": "Word-Length Spectral Triples of $(\\mathbb{Z}/2\\mathbb{Z})\\wr\\mathbb{F}_{d}$ Are Not Metric",
-    "summary": "arXiv:2608.12080v1 Announce Type: new Abstract: Given a countable discrete group equipped with a proper length function, one can construct a natural spectral triple on its reduced group C$^{\\ast}$-algebra. A well-studied question in non-commutative metric geometry is whether the Connes pseudo-metric associated with such a triple recovers the weak$^{\\ast}$-topology on the state space, thereby yielding a compact quantum metric space in the sense of Rieffel. While this metric property is known to hold for several classes of groups - including those of polynomial growth and word-hyperbolic groups - it was widely expected that not every word-length function induces a compact quantum metric space. Despite this, no explicit counterexample has been identified to date. In this note, we provide the first family of counterexamples by proving that for every integer $d \\geq 2$ the canonical spectral triple of the Lamplighter group $(\\mathbb{Z}/2\\mathbb{Z})\\wr\\mathbb{F}_{d}$, equipped with the word-length function associated with a finite symmetric generating set, fails to be a spectral metric space.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.12080",
-    "timestamp": "2026-08-13T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.12080"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-13T04:00:00Z",
-    "id": "energy-fc92c81f4e8e86a0"
-  },
-  {
-    "title": "Witt affine Springer theory",
-    "summary": "arXiv:2601.09798v2 Announce Type: replace Abstract: This paper extends the affine Springer theory developed by Bouthier, Kazhdan, and the second author (see [BKV]) to the mixed characteristic case. In particular, we introduce a theory of perfectly placid perfect infinity stacks and establish their dimension theory. Furthermore, we prove that, in the Witt vector setting, the Chevalley morphism between arc spaces is flat.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2601.09798",
-    "timestamp": "2026-08-13T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2601.09798"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-13T04:00:00Z",
-    "id": "energy-a560e2439c2f691c"
-  },
-  {
-    "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-    "timestamp": "2026-08-12T23:50:33Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://sharktastica.co.uk/articles/pc-fxt-45"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-12T23:50:33Z",
-    "id": "energy-3bc72d4e6d67c14f"
-  },
-  {
-    "title": "Beastmode post on Twitter after TSM series at EWC",
-    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
+    "title": "Crr (uncredited) assist vs Twisted Minds",
+    "summary": "This gets better every time I watch it submitted by /u/_willyums [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vmrsgp/beastmode_post_on_twitter_after_tsm_series_at_ewc/",
-    "timestamp": "2026-08-12T21:50:42Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vni1ca/crr_uncredited_assist_vs_twisted_minds/",
+    "timestamp": "2026-08-13T17:53:54Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vmrsgp/beastmode_post_on_twitter_after_tsm_series_at_ewc/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vni1ca/crr_uncredited_assist_vs_twisted_minds/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-12T21:50:42Z",
-    "id": "energy-86b111800b82c344"
+    "data_as_of": "2026-08-13T17:53:54Z",
+    "id": "energy-9d7297b402cbe6bf"
   },
   {
-    "title": "Things I Said Out Loud, To No One, While Suffering Through FromSoft’s Grueling Dark Souls Predecessor For Kotaku’s Warp Week",
-    "summary": "This is just like Dark Souls",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445",
-    "timestamp": "2026-08-12T20:30:44Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-12T20:30:44Z",
-    "id": "energy-98bec3c1ac699ef1"
-  },
-  {
-    "title": "Pokopia’s New DLC Is Its Most Melancholy Yet",
-    "summary": "Back to my home, I dare not go",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/pokopias-new-dlc-is-its-most-melancholy-yet-2000723860",
-    "timestamp": "2026-08-12T20:10:05Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/pokopias-new-dlc-is-its-most-melancholy-yet-2000723860"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-12T20:10:05Z",
-    "id": "energy-d5ee45e6e83fc8fe"
-  },
-  {
-    "title": "FERC Denies Generators’ Complaints Over MISO Adjustment To Auction Results",
-    "summary": "By Thomas Tiernan • Software error prompted $280M resettlement • FERC says ‘continuing error’ allows aucton adjustment The Federal Energy Regulatory Commission sided with the Midcontinent Independent System Operator and denied two complaints filed by generators in the MISO region. The generators alleged that MISO exceeded its authority and violated its tariff by retroactively adjusting […]",
+    "title": "MISO Issues Hot Weather Alert For Its Southern Footprint Through Aug. 16",
+    "summary": "By Ronnie Turner • MISO also under capacity advisory, conservative ops • South Region peakload forecast at 33.5 GW Aug. 12 The Midcontinent Independent System Operation issued a hot weather alert for its South Region because of temperatures expected to reach 99 degrees F across the region during a five-day period. The hot weather alert […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/ferc-denies-generators-complaints-over-miso-adjustment-to-auction-results/",
-    "timestamp": "2026-08-12T14:43:59Z",
+    "url": "https://misoxenwatch.com/2026/08/miso-issues-hot-weather-alert-for-its-southern-footprint-through-aug-16/",
+    "timestamp": "2026-08-13T14:43:33Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/ferc-denies-generators-complaints-over-miso-adjustment-to-auction-results/"
+      "https://misoxenwatch.com/2026/08/miso-issues-hot-weather-alert-for-its-southern-footprint-through-aug-16/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-12T14:43:59Z",
-    "id": "energy-963f79eedce23801"
+    "data_as_of": "2026-08-13T14:43:33Z",
+    "id": "energy-a26a35b0206c4967"
   },
   {
-    "title": "NIPSCO Requests To Recover $38M In Losses From DOE-Mandated Schahfer Coal Plant",
-    "summary": "By Amanda Durish Cook Northern Indiana Public Service Co. (NIPSCO) told FERC it needs to recover $38 million from MISO Midwest customers after it spent $116.7 million from January through March attempting to make its R.M. Schahfer coal plant available to the MISO market in accordance with the U.S. Department of Energy’s emergency orders. The […]",
+    "title": "FERC Allows MISO To Correct $280M Capacity Auction Error",
+    "summary": "By Amanda Durish Cook FERC ruled that MISO acted within its rights to make $280 million worth of backdated pricing changes to its 2025/26 capacity auction after it repeated an auction input mistake for eight years. The Bottom Line FERC said MISO is allowed to make $280 million of retroactive financial adjustments for the 2025/26 […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/nipsco-requests-to-recover-38m-in-losses-from-doe-mandated-schahfer-coal-plant/",
-    "timestamp": "2026-08-12T14:43:19Z",
+    "url": "https://misoxenwatch.com/2026/08/ferc-allows-miso-to-correct-280m-capacity-auction-error/",
+    "timestamp": "2026-08-13T14:42:31Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/nipsco-requests-to-recover-38m-in-losses-from-doe-mandated-schahfer-coal-plant/"
+      "https://misoxenwatch.com/2026/08/ferc-allows-miso-to-correct-280m-capacity-auction-error/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-12T14:43:19Z",
-    "id": "energy-7586f965c4ccb475"
+    "data_as_of": "2026-08-13T14:42:31Z",
+    "id": "energy-de13955de1ea1b6c"
   },
   {
-    "title": "Opinion: Competitive Transmission Delivers Benefits For The AI Economy And Customers",
-    "summary": "By Jim Rossi America’s electric grid is straining under aging transmission infrastructure, surging new generation and an explosion of demand from electricity-hungry data centers and heavy manufacturing. In April, incumbent utilities in MISO and SPP seized on that strain to make a remarkable ask. A coalition calling itself the Grid Acceleration Coalition — ITC, Ameren, […]",
+    "title": "US POWER TRACKER: Midcontinent September Power Trends Higher Despite Gas Moving Lower",
+    "summary": "By Ronnie Turner and Michael Fox • Texas Hub forward soars 41% over year-ago day-ahead prices • MISO load forecast at 81 GW, 6.1% above September 2025 average September power packages at most key Midcontinent Independent System Operator hubs are trending above year-ago day-ahead on-peak locational marginal prices, despite natural gas forwards trading below year-ago […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/opinion-competitive-transmission-delivers-benefits-for-the-ai-economy-and-customers/",
-    "timestamp": "2026-08-12T14:42:35Z",
+    "url": "https://misoxenwatch.com/2026/08/us-power-tracker-midcontinent-september-power-trends-higher-despite-gas-moving-lower/",
+    "timestamp": "2026-08-13T14:41:40Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/opinion-competitive-transmission-delivers-benefits-for-the-ai-economy-and-customers/"
+      "https://misoxenwatch.com/2026/08/us-power-tracker-midcontinent-september-power-trends-higher-despite-gas-moving-lower/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-12T14:42:35Z",
-    "id": "energy-ac834257eb6610ce"
-  },
-  {
-    "title": "Dusk Audio releases Tape Echo 2, a FREE Space Echo-style delay plugin",
-    "summary": "Dusk Audio has released Tape Echo 2, a free three-head tape delay and spring reverb plugin for macOS, Windows, and Linux. I am a massive fan of tape delays, especially when there is a spring reverb involved. This one is clearly going for the classic Space Echo-style workflow, which has been emulated many times already. [...] View post: Dusk Audio releases Tape Echo 2, a FREE Space Echo-style delay plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/12/dusk-audio-tape-echo-2/",
-    "timestamp": "2026-08-12T13:26:44Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/12/dusk-audio-tape-echo-2/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-12T13:26:44Z",
-    "id": "energy-8b95bc46537598fd"
-  },
-  {
-    "title": "NoirSonance releases Decompressor, a FREE upward dynamics plugin",
-    "summary": "NoirSonance has released Decompressor, a free/pay-what-you-want upward dynamics plugin for macOS and Windows. We have covered NoirSonance several times on BPB, most recently when the developer made all 12 NoirSonance plugins free with optional donations. The catalog has been reorganized since then, and Decompressor is the newest freebie in the lineup. Decompressor is designed to [...] View post: NoirSonance releases Decompressor, a FREE upward dynamics plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/12/noirsonance-decompressor/",
-    "timestamp": "2026-08-12T13:10:58Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/12/noirsonance-decompressor/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-12T13:10:58Z",
-    "id": "energy-1aa82faceaaacfcc"
-  },
-  {
-    "title": "quietformat releases SURVIVE, a FREE feature-packed clipper plugin",
-    "summary": "quietformat has released SURVIVE, a free clipping processor plugin for macOS and Windows. To get SURVIVE for free, you need to enter your email address on the product page and agree to receive the quietformat newsletter. The newsletter signup is not optional, but the plugin itself is free once you complete the form. I have [...] View post: quietformat releases SURVIVE, a FREE feature-packed clipper plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/12/quietformat-survive/",
-    "timestamp": "2026-08-12T13:01:08Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/12/quietformat-survive/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-12T13:01:08Z",
-    "id": "energy-db16db8d85adf45c"
+    "data_as_of": "2026-08-13T14:41:40Z",
+    "id": "energy-8aab413c54af2060"
   },
   {
     "title": "Another bipartisan housing miracle, this time in Idaho",

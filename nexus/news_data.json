@@ -1,38 +1,16 @@
 [
   {
-    "title": "Porous tungsten scrubbed by glow discharge cleaning",
-    "summary": "Researchers conducted experiments in Princeton Plasma Physics Laboratory’s Lithium Tokamak Experiment-Beta (LTX-β) showing glow discharge cleaning can be used to effectively clean samples of porous tungsten—used to hold liquid lithium in fusion machine inner walls—manufactured from powder-reconstituted materials, according to a paper published in Nuclear Materials and Energy. Tungsten is widely used for plasma-facing components in fusion machines, especially in the divertor region where materials must withstand extreme levels of power flow. According to the paper, spark plasma sintering can be used to make tungsten into spongelike samples for holding liquid lithium.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-12/article-8289/porous-tungsten-scrubbed-by-glow-discharge-cleaning/",
-    "timestamp": "2026-08-12T21:12:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-12/article-8289/porous-tungsten-scrubbed-by-glow-discharge-cleaning/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-12T21:12:59Z",
-    "id": "energy-c2475322ec42f76c"
-  },
-  {
-    "title": "Beat the heat: Entergy Mississippi works with community agencies to help customers stay cool",
-    "summary": "This summer, community partners across Entergy Mississippi’s service area are giving away fans, water and other items to help customers stay cool as the summer heats up, funded by $27,500 in Beat the Heat grants the company awarded recently to several organizations.",
+    "title": "Powering Affordability: Entergy Solutions brings energy savings to Dover",
+    "summary": "When Arkansas temperatures climb, air conditioners work harder to keep homes cool and that can mean higher energy use.",
     "source": "Entergy",
-    "url": "https://www.entergy.com/news/beat-the-heat-entergy-mississippi-works-with-community-agencies-to-help-customers-stay-cool",
-    "timestamp": "2026-08-12T19:54:16Z",
+    "url": "https://www.entergy.com/blog/powering-affordability-entergy-solutions-brings-energy-savings-to-dover",
+    "timestamp": "2026-08-13T20:41:05Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/news/beat-the-heat-entergy-mississippi-works-with-community-agencies-to-help-customers-stay-cool"
+      "https://www.entergy.com/blog/powering-affordability-entergy-solutions-brings-energy-savings-to-dover"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -42,21 +20,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-12T19:54:16Z",
-    "id": "energy-17624f1ded9743a8"
+    "data_as_of": "2026-08-13T20:41:05Z",
+    "id": "energy-c38f624178c97d37"
   },
   {
-    "title": "Hanford Site grouting developments could accelerate cleanup",
-    "summary": "The Department of Energy has reported that its Hanford Field Office has submitted two permit modification requests to the Washington State Department of Ecology that could speed up the cleanup of the Hanford Site near Richland, Wash. The requests “represent the latest step in a science-backed dual glass-plus-grout strategy to eliminate risks posed by aging tanks and meet cleanup commitments to the people of Washington more quickly, safely and efficiently,” the DOE said.",
+    "title": "Groundwater data pave the way for Environmental Management Disposal Facility at Oak Ridge",
+    "summary": "Results of a two-year study of groundwater levels at the site of the planned Environmental Management Disposal Facility (EMDF) in Oak Ridge, Tenn., have been released, revealing that the levels fell at a slower-than-expected rate. The collection of data on groundwater levels during two wet seasons, conducted by the Oak Ridge Office of Environmental Management and the contractor United Cleanup Oak Ridge, formed the core of a groundwater field demonstration study which will help inform the final design of the EMDF landfill.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-12/article-8288/hanford-site-grouting-developments-could-accelerate-cleanup/",
-    "timestamp": "2026-08-12T18:26:00Z",
+    "url": "https://www.ans.org/news/2026-08-13/article-8293/groundwater-data-pave-the-way-for-environmental-management-disposal-facility-at-oak-ridge/",
+    "timestamp": "2026-08-13T20:26:09Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-12/article-8288/hanford-site-grouting-developments-could-accelerate-cleanup/"
+      "https://www.ans.org/news/2026-08-13/article-8293/groundwater-data-pave-the-way-for-environmental-management-disposal-facility-at-oak-ridge/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -64,21 +42,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-12T18:26:00Z",
-    "id": "energy-57786fe20179c025"
+    "data_as_of": "2026-08-13T20:26:09Z",
+    "id": "energy-05029736944da905"
   },
   {
-    "title": "Celebrating 40 years of the Community Development Institute",
-    "summary": "The Community Development Institute recently celebrated its 40th anniversary, marking four decades of transformative impact on communities nationwide. Entergy Arkansas has played a significant role in establishing the organization.",
+    "title": "Entergy Louisiana launches major grid resilience project in Jefferson Parish",
+    "summary": "Entergy Louisiana, joined by local elected officials and community leaders, celebrated the launch of a major grid resilience project in Jefferson Parish with a ceremonial ribbon cutting, marking the beginning of a $270 million investment to strengthen the parish’s electric infrastructure and enhance reliability for customers.",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/celebrating-40-years-of-the-community-development-institute",
-    "timestamp": "2026-08-12T16:59:39Z",
+    "url": "https://www.entergy.com/news/entergy-louisiana-launches-major-grid-resilience-project-in-jefferson-parish",
+    "timestamp": "2026-08-13T19:15:16Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/celebrating-40-years-of-the-community-development-institute"
+      "https://www.entergy.com/news/entergy-louisiana-launches-major-grid-resilience-project-in-jefferson-parish"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -88,21 +66,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-12T16:59:39Z",
-    "id": "energy-017d19369dae784d"
+    "data_as_of": "2026-08-13T19:15:16Z",
+    "id": "energy-7e4ad4d1d1fe0e90"
   },
   {
-    "title": "Slovakia’s newest reactor achieves criticality",
-    "summary": "The fourth unit of Slovakia’s Mochovce nuclear power plant has achieved criticality, operator Slovenské Elektrárne has announced. Unit 4 reached the milestone at 10:10 p.m. local time on August 6. Twenty-one minutes later, the reactor reached its minimum controlled power level.",
+    "title": "DOE funds ORNL and Kyoto Fusioneering test facility",
+    "summary": "Yesterday, Oak Ridge National Laboratory announced that the Department of Energy has committed funding to develop a fusion breeding blanket test facility at the lab in partnership with Kyoto Fusioneering, and the company announced it will be relocating its U.S. headquarters to Oak Ridge, Tenn., with support from the state of Tennessee’s Nuclear Energy Supply Chain Investment Fund.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-12/article-8287/slovakias-newest-reactor-achieves-criticality/",
-    "timestamp": "2026-08-12T16:37:20Z",
+    "url": "https://www.ans.org/news/2026-08-13/article-8292/doe-funds-ornl-and-kyoto-fusioneering-test-facility/",
+    "timestamp": "2026-08-13T18:49:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-12/article-8287/slovakias-newest-reactor-achieves-criticality/"
+      "https://www.ans.org/news/2026-08-13/article-8292/doe-funds-ornl-and-kyoto-fusioneering-test-facility/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -110,21 +88,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-12T16:37:20Z",
-    "id": "energy-e1308edb0fbb1835"
+    "data_as_of": "2026-08-13T18:49:39Z",
+    "id": "energy-e6f76fd28602a2a9"
   },
   {
-    "title": "Meet the pros: Mallory Bower",
-    "summary": "At Entergy, every employee has a designated role during a response, and whether it’s a minor disruption or a major event, each role is critical to helping us restore power as safely and as quickly as possible.",
+    "title": "Women & Children First receives over $50,000 in incentives from Entergy Arkansas’s energy efficiency initiative",
+    "summary": "Entergy Arkansas recently awarded Women & Children First in Little Rock Arkansas $53,227.50 in incentives for energy efficiency projects.",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/meet-the-pros-mallory-bower",
-    "timestamp": "2026-08-12T16:20:26Z",
+    "url": "https://www.entergy.com/news/women-children-first-receives-over-50000-in-incentives-from-entergy-arkansass-energy-efficiency-initiative",
+    "timestamp": "2026-08-13T16:12:43Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/meet-the-pros-mallory-bower"
+      "https://www.entergy.com/news/women-children-first-receives-over-50000-in-incentives-from-entergy-arkansass-energy-efficiency-initiative"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -134,8 +112,52 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-12T16:20:26Z",
-    "id": "energy-5b96d994a63a34f9"
+    "data_as_of": "2026-08-13T16:12:43Z",
+    "id": "energy-a55e7195bf975008"
+  },
+  {
+    "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more",
+    "summary": "Constellation signed new long-term power purchase agreements during the second quarter that will ultimately provide roughly 920 MW in nuclear power to these new partners. These nuclear contracts were among the topics Constellation executives broached during the second-quarter earnings call, along with existing power generation, the Crane restart, and New York and Illinois’s nuclear energy plans.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-13/article-8291/secondquarter-updates-from-constellation-new-ppas-crane-restart-and-more/",
+    "timestamp": "2026-08-13T14:39:09Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-13/article-8291/secondquarter-updates-from-constellation-new-ppas-crane-restart-and-more/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-13T14:39:09Z",
+    "id": "energy-31ec1315cbda0f35"
+  },
+  {
+    "title": "ISO Minute: A community based on learning and growth",
+    "summary": "April Fei reflects on her summer internship at ISO New England. The post ISO Minute: A community based on learning and growth appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/13/iso-minute-a-community-based-on-learning-and-growth/",
+    "timestamp": "2026-08-13T12:08:35Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/13/iso-minute-a-community-based-on-learning-and-growth/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-13T12:08:35Z",
+    "id": "energy-06ce2e6136ec249d"
   },
   {
     "title": "ISO-NE expects minimal power system impacts from partial solar eclipse",
@@ -202,27 +224,5 @@
     ],
     "data_as_of": "2026-08-11T13:36:26Z",
     "id": "energy-aa3e6aa8524aaec0"
-  },
-  {
-    "title": "PJM President & CEO Response to PJM Legislators’ Collaborative Letter Regarding CIFP Decision",
-    "summary": "Updated Date: 08.10.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260810-pjm-pres-ceo-response-to-pjm-legislators-collaborative-letter-re-cifp-decision.pdf",
-    "timestamp": "2026-08-10T16:59:13Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260810-pjm-pres-ceo-response-to-pjm-legislators-collaborative-letter-re-cifp-decision.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-08-10T16:59:13Z",
-    "id": "energy-f20d702c9666fcc1"
   }
 ]
