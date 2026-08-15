@@ -1,78 +1,327 @@
 [
   {
-    "title": "For the love of god stop using CPU limits in Kubernetes",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-    "timestamp": "2026-08-14T10:41:21Z",
-    "topic": "Computer Science",
+    "title": "Okina Audio releases Takumi EQ, a FREE EQ and multiband saturator",
+    "summary": "Okina Audio has released Takumi EQ, a free equalizer plugin with a Pultec-style section and optional multiband saturation. The product page is originally in Japanese and defaults to that language, but you can easily switch to English using the language selector in the upper-right corner. In short, Takumi EQ is a dynamic EQ, a Pultec-style [...] View post: Okina Audio releases Takumi EQ, a FREE EQ and multiband saturator",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/15/okina-audio-takumi-eq/",
+    "timestamp": "2026-08-15T09:52:41Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/inevolin/k8s-cpu-limits-analyzed"
+      "https://bedroomproducersblog.com/2026/08/15/okina-audio-takumi-eq/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-14T10:41:21Z",
-    "id": "energy-8745ea78b84f2e93"
+    "data_as_of": "2026-08-15T09:52:41Z",
+    "id": "energy-65042c9c24be0169"
   },
   {
-    "title": "Esports World Cup 2026 | Event Thread | Day 3 | Aug 14th | Group Stage",
-    "summary": "https://preview.redd.it/nvobhjgfb7jh1.png?width=911&format=png&auto=webp&s=4f37d34526a92a2147f60b8ac19eb739d1312660 Event Thread Day 3 of the Esports World Cup, 14th August 2026 in Paris Show begins around 12:30pm CEST (11:30am BST, 6:30am EDT) Matches begin around 1pm CEST (12pm BST, 7am EDT) Streams Main Streams: Twitch - Rocket League YouTube - Rocket League Esports Youtube - Esports World Cup Tournament Info Liquipedia | EWC Website | Blast Format Group Stage - August 12th - 14th, 2026 16 teams split into 2 GSL Groups of 8. Upper Bracket matches are Bo5 Lower Bracket matches are Bo7. Top 4 Teams per group - 8 in total - advance to the Playoffs. Playoffs - August 15th - 16th, 2026 Single Elimination Bracket. Upper Bracket Teams will be drawn randomly against a Lower Bracket Team. Teams from the same Group can not play against each other. All matches (excl. 3rd Place) are Bo7. 3rd Place match is a Bo5. Schedule https://preview.redd.it/filw29klb7jh1.png?width=914&format=png&auto=webp&s=98576e8765b9a4ef688ed30202bd668aa947416b Group A https://preview.redd.it/i9rvx0vyb7jh1.jpg?width=2075&format=pjpg&auto=webp&s=a236b0065782f37f0ef2a7b89ff017d4b5750c53 Group B https://preview.redd.i…",
+    "title": "FX-Mechanics releases Mango, a FREE modular glitch effect",
+    "summary": "FX-Mechanics has released Mango, a free and open-source modular glitch effect for macOS, Windows, and Linux. It’s not a surprise that Kieran Foster’s Glitch comes to mind when looking at a plugin like this. We recently covered Glitch again because Kieran, also known as illformed and dblue, sadly passed away, and Glitch² is now available [...] View post: FX-Mechanics releases Mango, a FREE modular glitch effect",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/15/fx-mechanics-mango/",
+    "timestamp": "2026-08-15T09:35:48Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/15/fx-mechanics-mango/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T09:35:48Z",
+    "id": "energy-d57e07aeef79dbba"
+  },
+  {
+    "title": "It was awesome seeing Mizu on stage during EWC!",
+    "summary": "There’s a lot of love to be given to a lot of players, and Mizu has always been a personal favorite of mine. Still really hoping he can find a solid team to compete with in the coming months because he’s severely underrated and would be such a great player to see in these tournaments 👏 submitted by /u/Honest-Affect-8373 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vo3ae1/esports_world_cup_2026_event_thread_day_3_aug/",
-    "timestamp": "2026-08-14T10:15:24Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1voy77n/it_was_awesome_seeing_mizu_on_stage_during_ewc/",
+    "timestamp": "2026-08-15T09:18:31Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vo3ae1/esports_world_cup_2026_event_thread_day_3_aug/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1voy77n/it_was_awesome_seeing_mizu_on_stage_during_ewc/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-14T10:15:24Z",
-    "id": "energy-6997b4f3067c55d6"
+    "data_as_of": "2026-08-15T09:18:31Z",
+    "id": "energy-b970ed9af2d9ba07"
   },
   {
-    "title": "Why does Opus 5 feel worse to work with?",
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "timestamp": "2026-08-14T10:12:48Z",
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "timestamp": "2026-08-15T07:59:42Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
+      "https://uecker.codeberg.page/2026-07-14.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-14T10:12:48Z",
-    "id": "energy-0037cb6e259a1417"
+    "data_as_of": "2026-08-15T07:59:42Z",
+    "id": "energy-e7be7fd827d09ec7"
   },
   {
-    "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
-    "timestamp": "2026-08-14T10:10:15Z",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "timestamp": "2026-08-15T07:31:46Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.bbc.com/news/articles/cr7kpdkg13zo"
+      "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-14T10:10:15Z",
-    "id": "energy-4092c1173cd6d714"
+    "data_as_of": "2026-08-15T07:31:46Z",
+    "id": "energy-b652173cec84c7fc"
+  },
+  {
+    "title": "Ask HN: How do you keep up with HN these days?",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49308059",
+    "timestamp": "2026-08-15T05:59:12Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://news.ycombinator.com/item?id=49308059"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T05:59:12Z",
+    "id": "energy-c4379d917ae4acf3"
+  },
+  {
+    "title": "Give me a heads up on how the RLCS World Champs work",
+    "summary": "So I have a friend who’s big on RL(he’s a GC and is ranked top 50 on Switch itw)and he wants me to predict the RLCS World Champs for his relatively small YouTube channel. Thing is, I got no idea how the World Champs work and who’s better versus who’s worse. I figured out what the format is though. So what I need help understanding is who are the favorites versus underdogs and who will play who in the group stage. Thanks in advance. submitted by /u/possiblyagrandma7318 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vouov6/give_me_a_heads_up_on_how_the_rlcs_world_champs/",
+    "timestamp": "2026-08-15T05:52:21Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vouov6/give_me_a_heads_up_on_how_the_rlcs_world_champs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-15T05:52:21Z",
+    "id": "energy-96b0feb1bd2e977c"
+  },
+  {
+    "title": "New Avengers: Doomsday Trailer Is Best Look At RDJ’s Doom Yet",
+    "summary": "The D23 announcements and trailers keep coming",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/avengers-doomsday-trailer-d23-doctor-doom-downey-jr-2000724579",
+    "timestamp": "2026-08-15T05:07:22Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/avengers-doomsday-trailer-d23-doctor-doom-downey-jr-2000724579"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T05:07:22Z",
+    "id": "energy-ff40824eb8629870"
+  },
+  {
+    "title": "Marvel Finally Reveals The Cast Of MCU’s X-Men Reboot",
+    "summary": "Adam Driver, Inde Navarrette, and Christopher Abbott join the ensemble cast for the 2028 film",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/x-men-mcu-reboot-cast-2028-adam-driver-inde-navarrette-2000724577",
+    "timestamp": "2026-08-15T04:56:01Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/x-men-mcu-reboot-cast-2028-adam-driver-inde-navarrette-2000724577"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T04:56:01Z",
+    "id": "energy-d9f8091d89cbdc99"
+  },
+  {
+    "title": "Marvel Officially Reveals New X-Men Movie Cast at D23",
+    "summary": "At D23 2026, Marvel Studios confirmed the cast of Jake Schreier's X-Men movie, revealing who's playing Cyclops, Storm, and Professor X.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/x-men-movie-news-cast-announced-d23-marvel/",
+    "timestamp": "2026-08-15T04:42:38Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/x-men-movie-news-cast-announced-d23-marvel/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T04:42:38Z",
+    "id": "energy-d9c66b2dc04201df"
+  },
+  {
+    "title": "Disney Reveals First Look at Star Wars: Ahsoka Season 2 at D23 Fan Event",
+    "summary": "Ahsoka will have to save the galaxy, and maybe the whole Star Wars franchise when the series returns next year",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/ahsoka-season-2-trailer-release-date-d23/",
+    "timestamp": "2026-08-15T04:30:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/ahsoka-season-2-trailer-release-date-d23/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T04:30:11Z",
+    "id": "energy-f02134ebc5308591"
+  },
+  {
+    "title": "New Avengers: Doomsday Trailer Revealed at D23",
+    "summary": "Avengers Doomsday trailer #2 is now live, after Marvel Studios released a new look at this year's Avengers film.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/avengers-doomsday-trailer-2-marvel-d23/",
+    "timestamp": "2026-08-15T04:27:37Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/avengers-doomsday-trailer-2-marvel-d23/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T04:27:37Z",
+    "id": "energy-def63efea36ecbd3"
+  },
+  {
+    "title": "Kingdom Hearts IV Gets 2027 Release Window And That’s Not All",
+    "summary": "The announcement comes from this year's D23 showcase",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564",
+    "timestamp": "2026-08-15T03:03:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T03:03:11Z",
+    "id": "energy-ddc77717d9b9a8a4"
+  },
+  {
+    "title": "Was Man City the worst Top 6 team at LAN history? And was group B the worst group ever?",
+    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1voqn46/was_man_city_the_worst_top_6_team_at_lan_history/",
+    "timestamp": "2026-08-15T02:21:26Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1voqn46/was_man_city_the_worst_top_6_team_at_lan_history/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-15T02:21:26Z",
+    "id": "energy-2bb722e709072c21"
+  },
+  {
+    "title": "Elon Musk, The World’s Most Famous EV Pioneer, Is Now Leaning Into Fossil Fuels",
+    "summary": "By Becky Peterson and Jennifer Hiller Elon Musk’s vision for taking electric vehicles mainstream at Tesla helped make him the world’s richest man. Now he’s pulling up to the gas pump. Last week, SpaceX disclosed plans to build a natural gas power plant in Grimes County, Texas, where the company is developing a huge new […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels/",
+    "timestamp": "2026-08-14T14:51:38Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/elon-musk-the-worlds-most-famous-ev-pioneer-is-now-leaning-into-fossil-fuels/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-14T14:51:38Z",
+    "id": "energy-a13db3919cbef41c"
+  },
+  {
+    "title": "NIPSCO Saying 90% Of Customers Will Have Power Back By Tuesday",
+    "summary": "By Bob Kasarda The number of power outages being reported by NIPSCO since Tuesday’s storms dipped below 200,000 early Friday, down from a high of just over 300,000. But the company is now saying that it could be Tuesday before power is restored to 90% of its customers, with the balance of customers not back […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/nipsco-saying-90-of-customers-will-have-power-back-by-tuesday/",
+    "timestamp": "2026-08-14T14:50:49Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/nipsco-saying-90-of-customers-will-have-power-back-by-tuesday/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-14T14:50:49Z",
+    "id": "energy-c6277d7a6a037a0f"
+  },
+  {
+    "title": "Former IURC Chair Zay Sues Indiana Leadership Over Dismissal",
+    "summary": "By Amanda Durish Cook Ousted Indiana Utility Regulatory Commission member Andy Zay has sued Indiana Gov. Mike Braun (R) and several state officials, alleging he was dismissed illegally for approving a utility’s rate hike. In a lawsuit filed with the Marion County Superior Court, Zay claimed he was wrongfully terminated by state leadership for his […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/former-iurc-chair-zay-sues-indiana-leadership-over-dismissal/",
+    "timestamp": "2026-08-14T14:50:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/former-iurc-chair-zay-sues-indiana-leadership-over-dismissal/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-14T14:50:02Z",
+    "id": "energy-5649f9966b03aa58"
   },
   {
     "title": "Can public EV chargers be as reliable as gas stations?",
@@ -93,60 +342,6 @@
     "id": "energy-a70a342b5d98d59d"
   },
   {
-    "title": "New Sci-Fi Thriller From Godzilla Director Officially Drops in 3 Weeks",
-    "summary": "Adam Wingard's latest film, 'Onslaught,' perfectly blends horror and action when it arrives in cinemas this September.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/onslaught-release-date-adria-arjona/",
-    "timestamp": "2026-08-14T10:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/onslaught-release-date-adria-arjona/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-14T10:00:12Z",
-    "id": "energy-dce0f27df24d8ffb"
-  },
-  {
-    "title": "Spider-Man: Beyond the Spider-Verse Clip Has Leaked, and Sony Is Working Hard to Take It Down",
-    "summary": "Sony is struggling to take down a four-minute clip of Spider-Man: Beyond the Spider-Verse, but thousands have already seen it.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/spider-man-beyond-the-spider-verse-leaked-clip-trailer/",
-    "timestamp": "2026-08-14T09:58:45Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/spider-man-beyond-the-spider-verse-leaked-clip-trailer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-14T09:58:45Z",
-    "id": "energy-9463d6ee27807ac4"
-  },
-  {
-    "title": "A Pokémon Game Becomes the Second Best-Selling Nintendo Switch 2 Game",
-    "summary": "Pokémon Pokopia is the second-best-selling Nintendo Switch 2 game, owned by almost a quarter of people who have the console.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-pokopia-5-million-sales-switch-2/",
-    "timestamp": "2026-08-14T09:33:49Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/pokemon-pokopia-5-million-sales-switch-2/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-14T09:33:49Z",
-    "id": "energy-05ee41f7826fa8e6"
-  },
-  {
     "title": "Windows-G releases E-PeakClipper500 as a FREE VST3 clipper for Windows",
     "summary": "Windows-G has released E-PeakClipper500 as a free VST3 clipper plugin for Windows. We covered E-PeakClipper500 last year as a JSFX clipper for REAPER, which could also run in other DAWs through the free YSFX wrapper. This new release is a native Windows VST3 version, so Windows users can load it directly without the extra wrapper [...] View post: Windows-G releases E-PeakClipper500 as a FREE VST3 clipper for Windows",
     "source": "Bedroom Producers Blog",
@@ -163,42 +358,6 @@
     "primary_source": false,
     "data_as_of": "2026-08-14T08:11:08Z",
     "id": "energy-c0fca4c11e5cb6ce"
-  },
-  {
-    "title": "Sample Dicer is a FREE four-layer one-shot sampler for macOS and Windows",
-    "summary": "Ilya Orange has released Sample Dicer, a free four-layer one-shot sampler for macOS and Windows. Sample Dicer basically turns raw audio into playable variations, or at least that’s the way I understood it. Instead of loading one sample and triggering it the same way every time, you can stack up to four layers and let [...] View post: Sample Dicer is a FREE four-layer one-shot sampler for macOS and Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/14/sample-dicer/",
-    "timestamp": "2026-08-14T08:02:39Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/14/sample-dicer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-14T08:02:39Z",
-    "id": "energy-57f975f257d4ca26"
-  },
-  {
-    "title": "Okay Synthesizer releases Okay Shaper, a FREE three-band volume shaper",
-    "summary": "Okay Synthesizer has released Okay Shaper, a free three-band volume shaper for macOS and Windows. We featured Okay Distortion earlier this year, and I liked the somewhat playful design of that plugin. The new Okay Shaper has a similar personality, from the goofy “You can go ahead and duck yourself” tagline to the colorful interface [...] View post: Okay Synthesizer releases Okay Shaper, a FREE three-band volume shaper",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/14/okay-shaper/",
-    "timestamp": "2026-08-14T07:17:43Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/14/okay-shaper/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-14T07:17:43Z",
-    "id": "energy-ae5a38dc6eb9a523"
   },
   {
     "title": "Zero-energy Edge States of Tight-Binding Models for Generalized Honeycomb-Structured Materials",
@@ -253,182 +412,5 @@
     "primary_source": true,
     "data_as_of": "2026-08-14T04:00:00Z",
     "id": "energy-f9f1c023ad0da3f2"
-  },
-  {
-    "title": "Streamers Are Telling Twitch How Much They Hate That Generative AI Training Is Opt-Out By Default",
-    "summary": "'They know we don't want it, they do not care'",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227",
-    "timestamp": "2026-08-13T21:29:44Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-13T21:29:44Z",
-    "id": "energy-6ff3bb497638c057"
-  },
-  {
-    "title": "Insomniac’s Explanation For Why Wolverine’s Suit Heals Itself Is Simple And Honest",
-    "summary": "They could have made up some bullshit, but this is better",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228",
-    "timestamp": "2026-08-13T21:06:39Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-13T21:06:39Z",
-    "id": "energy-529d752393049139"
-  },
-  {
-    "title": "Judge Throws Out ‘Mortal Kombat Stabbing’ Lawsuit On Free Speech Grounds",
-    "summary": "Video games are not products, and not subject to product liability claims, judge says",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/judge-throws-out-mortal-kombat-stabbing-lawsuit-on-free-speech-grounds-2000724107",
-    "timestamp": "2026-08-13T20:18:06Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/judge-throws-out-mortal-kombat-stabbing-lawsuit-on-free-speech-grounds-2000724107"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-13T20:18:06Z",
-    "id": "energy-f33f15c7a459e997"
-  },
-  {
-    "title": "I wish we had different formats throughout the season, especially Swiss Stage at Worlds since we have the best 16 teams due to play-ins.",
-    "summary": "submitted by /u/mrabu3abd12 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vnm0nu/i_wish_we_had_different_formats_throughout_the/",
-    "timestamp": "2026-08-13T20:15:56Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vnm0nu/i_wish_we_had_different_formats_throughout_the/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-13T20:15:56Z",
-    "id": "energy-8edf2904d95a879a"
-  },
-  {
-    "title": "Crr (uncredited) assist vs Twisted Minds",
-    "summary": "This gets better every time I watch it submitted by /u/_willyums [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vni1ca/crr_uncredited_assist_vs_twisted_minds/",
-    "timestamp": "2026-08-13T17:53:54Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vni1ca/crr_uncredited_assist_vs_twisted_minds/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-13T17:53:54Z",
-    "id": "energy-9d7297b402cbe6bf"
-  },
-  {
-    "title": "MISO Issues Hot Weather Alert For Its Southern Footprint Through Aug. 16",
-    "summary": "By Ronnie Turner • MISO also under capacity advisory, conservative ops • South Region peakload forecast at 33.5 GW Aug. 12 The Midcontinent Independent System Operation issued a hot weather alert for its South Region because of temperatures expected to reach 99 degrees F across the region during a five-day period. The hot weather alert […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/miso-issues-hot-weather-alert-for-its-southern-footprint-through-aug-16/",
-    "timestamp": "2026-08-13T14:43:33Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/miso-issues-hot-weather-alert-for-its-southern-footprint-through-aug-16/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-13T14:43:33Z",
-    "id": "energy-a26a35b0206c4967"
-  },
-  {
-    "title": "FERC Allows MISO To Correct $280M Capacity Auction Error",
-    "summary": "By Amanda Durish Cook FERC ruled that MISO acted within its rights to make $280 million worth of backdated pricing changes to its 2025/26 capacity auction after it repeated an auction input mistake for eight years. The Bottom Line FERC said MISO is allowed to make $280 million of retroactive financial adjustments for the 2025/26 […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/ferc-allows-miso-to-correct-280m-capacity-auction-error/",
-    "timestamp": "2026-08-13T14:42:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/ferc-allows-miso-to-correct-280m-capacity-auction-error/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-13T14:42:31Z",
-    "id": "energy-de13955de1ea1b6c"
-  },
-  {
-    "title": "US POWER TRACKER: Midcontinent September Power Trends Higher Despite Gas Moving Lower",
-    "summary": "By Ronnie Turner and Michael Fox • Texas Hub forward soars 41% over year-ago day-ahead prices • MISO load forecast at 81 GW, 6.1% above September 2025 average September power packages at most key Midcontinent Independent System Operator hubs are trending above year-ago day-ahead on-peak locational marginal prices, despite natural gas forwards trading below year-ago […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/us-power-tracker-midcontinent-september-power-trends-higher-despite-gas-moving-lower/",
-    "timestamp": "2026-08-13T14:41:40Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/us-power-tracker-midcontinent-september-power-trends-higher-despite-gas-moving-lower/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-13T14:41:40Z",
-    "id": "energy-8aab413c54af2060"
-  },
-  {
-    "title": "Another bipartisan housing miracle, this time in Idaho",
-    "summary": "A conversation with Idaho state Senator Ben Toews and Representative Megan Egbert.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/another-bipartisan-housing-miracle",
-    "timestamp": "2026-08-12T10:04:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/another-bipartisan-housing-miracle"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-08-12T10:04:02Z",
-    "id": "energy-626b6f727f75cad9"
   }
 ]

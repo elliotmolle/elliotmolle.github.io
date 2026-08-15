@@ -1,6 +1,72 @@
 [
   {
-    "title": "Powering Affordability: Entergy Solutions brings energy savings to Dover",
+    "title": "Front-end nuclear fuel supply cooperation: Turning allied interdependence into strategic advantage",
+    "summary": "The global nuclear revival, which is fueled by unprecedented demand for firm, affordable, dispatchable power for artificial intelligence and data center build-out, energy security imperatives, and climate commitments, has exposed a structural reality of the Western fuel cycle: No single allied nation currently possesses the full suite of front-end capabilities. From mining through conversion, enrichment, fabrication, and the emerging deconversion and metallization steps required for reactor fuels, capability is distributed across Canada, France, Japan, the United Kingdom, and the United States (collectively, the “Sapporo Five”), as well as a small group of close partners.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-14/article-8223/frontend-nuclear-fuel-supply-cooperation-turning-allied-interdependence-into-strategic-advantage/",
+    "timestamp": "2026-08-14T21:04:04Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-14/article-8223/frontend-nuclear-fuel-supply-cooperation-turning-allied-interdependence-into-strategic-advantage/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-14T21:04:04Z",
+    "id": "energy-af1a9a201d867e44"
+  },
+  {
+    "title": "New measurement of diamond phase change could mean increased ICF energy gain",
+    "summary": "Researchers at Lawrence Livermore National Laboratory have measured how diamond melts under extreme pressures, resolving a long-standing discrepancy between experiment and theory. In inertial confinement fusion experiments, where a diamond capsule is used to hold fuel, this refined understanding of diamond’s phase change has the potential to triple energy gain, provided that other degradation mechanisms can be controlled.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-14/article-8296/new-measurement-of-diamond-phase-change-could-mean-increased-icf-energy-gain/",
+    "timestamp": "2026-08-14T19:10:48Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-14/article-8296/new-measurement-of-diamond-phase-change-could-mean-increased-icf-energy-gain/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-14T19:10:48Z",
+    "id": "energy-27e84f3bf0c9cda2"
+  },
+  {
+    "title": "Cleanup work progresses with pump removal at Hanford Tank Farms",
+    "summary": "The Department of Energy’s Office of Environmental Management reports that workers at the Hanford Site, near Richland, Wash., have performed a technically complex operation to remove a large legacy mixer pump from Tank SY-101 in the 200 West Area. The removal allows for the future installation of tank waste retrieval equipment as part of the next phase of waste cleanup at the site. A short video on the Hanford Site’s YouTube channel shows aspects of the operation, including the pump being lifted out of the tank with a specially designed hydraulic lift system named Hercules.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-14/article-8295/cleanup-work-progresses-with-pump-removal-at-hanford-tank-farms/",
+    "timestamp": "2026-08-14T14:56:12Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-14/article-8295/cleanup-work-progresses-with-pump-removal-at-hanford-tank-farms/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-14T14:56:12Z",
+    "id": "energy-d157516402e409de"
+  },
+  {
+    "title": "Powering affordability: Entergy Solutions brings energy savings to Dover",
     "summary": "When Arkansas temperatures climb, air conditioners work harder to keep homes cool and that can mean higher energy use.",
     "source": "Entergy",
     "url": "https://www.entergy.com/blog/powering-affordability-entergy-solutions-brings-energy-savings-to-dover",
@@ -22,28 +88,6 @@
     ],
     "data_as_of": "2026-08-13T20:41:05Z",
     "id": "energy-c38f624178c97d37"
-  },
-  {
-    "title": "Groundwater data pave the way for Environmental Management Disposal Facility at Oak Ridge",
-    "summary": "Results of a two-year study of groundwater levels at the site of the planned Environmental Management Disposal Facility (EMDF) in Oak Ridge, Tenn., have been released, revealing that the levels fell at a slower-than-expected rate. The collection of data on groundwater levels during two wet seasons, conducted by the Oak Ridge Office of Environmental Management and the contractor United Cleanup Oak Ridge, formed the core of a groundwater field demonstration study which will help inform the final design of the EMDF landfill.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-13/article-8293/groundwater-data-pave-the-way-for-environmental-management-disposal-facility-at-oak-ridge/",
-    "timestamp": "2026-08-13T20:26:09Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-13/article-8293/groundwater-data-pave-the-way-for-environmental-management-disposal-facility-at-oak-ridge/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-13T20:26:09Z",
-    "id": "energy-05029736944da905"
   },
   {
     "title": "Entergy Louisiana launches major grid resilience project in Jefferson Parish",
@@ -70,28 +114,6 @@
     "id": "energy-7e4ad4d1d1fe0e90"
   },
   {
-    "title": "DOE funds ORNL and Kyoto Fusioneering test facility",
-    "summary": "Yesterday, Oak Ridge National Laboratory announced that the Department of Energy has committed funding to develop a fusion breeding blanket test facility at the lab in partnership with Kyoto Fusioneering, and the company announced it will be relocating its U.S. headquarters to Oak Ridge, Tenn., with support from the state of Tennessee’s Nuclear Energy Supply Chain Investment Fund.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-13/article-8292/doe-funds-ornl-and-kyoto-fusioneering-test-facility/",
-    "timestamp": "2026-08-13T18:49:39Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-13/article-8292/doe-funds-ornl-and-kyoto-fusioneering-test-facility/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-13T18:49:39Z",
-    "id": "energy-e6f76fd28602a2a9"
-  },
-  {
     "title": "Women & Children First receives over $50,000 in incentives from Entergy Arkansas’s energy efficiency initiative",
     "summary": "Entergy Arkansas recently awarded Women & Children First in Little Rock Arkansas $53,227.50 in incentives for energy efficiency projects.",
     "source": "Entergy",
@@ -114,28 +136,6 @@
     ],
     "data_as_of": "2026-08-13T16:12:43Z",
     "id": "energy-a55e7195bf975008"
-  },
-  {
-    "title": "Second-quarter updates from Constellation: New PPAs, Crane restart, and more",
-    "summary": "Constellation signed new long-term power purchase agreements during the second quarter that will ultimately provide roughly 920 MW in nuclear power to these new partners. These nuclear contracts were among the topics Constellation executives broached during the second-quarter earnings call, along with existing power generation, the Crane restart, and New York and Illinois’s nuclear energy plans.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-13/article-8291/secondquarter-updates-from-constellation-new-ppas-crane-restart-and-more/",
-    "timestamp": "2026-08-13T14:39:09Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-13/article-8291/secondquarter-updates-from-constellation-new-ppas-crane-restart-and-more/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-13T14:39:09Z",
-    "id": "energy-31ec1315cbda0f35"
   },
   {
     "title": "ISO Minute: A community based on learning and growth",
@@ -180,49 +180,5 @@
     ],
     "data_as_of": "2026-08-12T12:18:19Z",
     "id": "energy-cb3ec88e1b0c6372"
-  },
-  {
-    "title": "2026 Regional Electricity Outlook highlights ISO-NE’s innovative work amid changing energy landscape",
-    "summary": "The outlook includes dynamic graphics and easy-to-understand language designed for a wide audience. The post 2026 Regional Electricity Outlook highlights ISO-NE’s innovative work amid changing energy landscape appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/11/2026-regional-electricity-outlook-highlights-iso-nes-innovative-work-amid-changing-trends-in-the-energy-landscape/",
-    "timestamp": "2026-08-11T14:20:24Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/11/2026-regional-electricity-outlook-highlights-iso-nes-innovative-work-amid-changing-trends-in-the-energy-landscape/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-11T14:20:24Z",
-    "id": "energy-ac3eacc693f2b3e9"
-  },
-  {
-    "title": "EKPC Letter Regarding PJM Markets",
-    "summary": "Updated Date: 08.11.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260811-ekpc-letter-re-pjm-markets.pdf",
-    "timestamp": "2026-08-11T13:36:26Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260811-ekpc-letter-re-pjm-markets.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-08-11T13:36:26Z",
-    "id": "energy-aa3e6aa8524aaec0"
   }
 ]
