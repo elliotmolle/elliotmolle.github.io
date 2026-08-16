@@ -1,5 +1,29 @@
 [
   {
+    "title": "Entergy Louisiana lineworker Matthew Vining named Lineman of the Game at Saints preseason opener",
+    "summary": "Posted:Aug 15, 2026 | Posted:Jordyn Martin | Category:Blog post | Tags:Lineworkers, Louisiana For seven years, Matthew Vining has dedicated his career to keeping the lights on for Entergy Louisiana customers. This weekend, that dedication will take center stage as Vining is recognized as the Lineman of the Game during the New Orleans Saints’ preseason matchup against the Jacksonville… Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-louisiana-lineworker-matthew-vining-named-lineman-of-the-game-at-saints-preseason-opener",
+    "timestamp": "2026-08-15T19:47:56Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-louisiana-lineworker-matthew-vining-named-lineman-of-the-game-at-saints-preseason-opener"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-15T19:47:56Z",
+    "id": "energy-7655c2feca7804bb"
+  },
+  {
     "title": "Front-end nuclear fuel supply cooperation: Turning allied interdependence into strategic advantage",
     "summary": "The global nuclear revival, which is fueled by unprecedented demand for firm, affordable, dispatchable power for artificial intelligence and data center build-out, energy security imperatives, and climate commitments, has exposed a structural reality of the Western fuel cycle: No single allied nation currently possesses the full suite of front-end capabilities. From mining through conversion, enrichment, fabrication, and the emerging deconversion and metallization steps required for reactor fuels, capability is distributed across Canada, France, Japan, the United Kingdom, and the United States (collectively, the “Sapporo Five”), as well as a small group of close partners.",
     "source": "ANS Newswire",
@@ -114,30 +138,6 @@
     "id": "energy-7e4ad4d1d1fe0e90"
   },
   {
-    "title": "Women & Children First receives over $50,000 in incentives from Entergy Arkansas’s energy efficiency initiative",
-    "summary": "Entergy Arkansas recently awarded Women & Children First in Little Rock Arkansas $53,227.50 in incentives for energy efficiency projects.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/women-children-first-receives-over-50000-in-incentives-from-entergy-arkansass-energy-efficiency-initiative",
-    "timestamp": "2026-08-13T16:12:43Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/women-children-first-receives-over-50000-in-incentives-from-entergy-arkansass-energy-efficiency-initiative"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-13T16:12:43Z",
-    "id": "energy-a55e7195bf975008"
-  },
-  {
     "title": "ISO Minute: A community based on learning and growth",
     "summary": "April Fei reflects on her summer internship at ISO New England. The post ISO Minute: A community based on learning and growth appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -158,27 +158,5 @@
     ],
     "data_as_of": "2026-08-13T12:08:35Z",
     "id": "energy-06ce2e6136ec249d"
-  },
-  {
-    "title": "ISO-NE expects minimal power system impacts from partial solar eclipse",
-    "summary": "Output from behind-the-meter photovoltaics could be reduced by 600 to 800 megawatts. The post ISO-NE expects minimal power system impacts from partial solar eclipse appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/12/iso-ne-expects-minimal-power-system-impacts-from-partial-solar-eclipse/",
-    "timestamp": "2026-08-12T12:18:19Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/12/iso-ne-expects-minimal-power-system-impacts-from-partial-solar-eclipse/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-12T12:18:19Z",
-    "id": "energy-cb3ec88e1b0c6372"
   }
 ]

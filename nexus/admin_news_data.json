@@ -1,5 +1,230 @@
 [
   {
+    "title": "One Punch Man’s Original Director Will Unleash His Dazzling New Sci-Fi Movie in 6 Months",
+    "summary": "Ghost: End of Night seems every bit able to capture the same emotional sensibilities at the heart of Sonny Boy as Natsume's first feature film.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
+    "timestamp": "2026-08-16T10:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T10:00:12Z",
+    "id": "energy-0c4ada05dba7c069"
+  },
+  {
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://littlelearner-ll.github.io/",
+    "timestamp": "2026-08-16T07:37:53Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://littlelearner-ll.github.io/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T07:37:53Z",
+    "id": "energy-bf6da6d0c8b73db8"
+  },
+  {
+    "title": "Twisted Minds on their ****",
+    "summary": "submitted by /u/simbaboom8 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpo5zx/twisted_minds_on_their/",
+    "timestamp": "2026-08-16T05:11:30Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpo5zx/twisted_minds_on_their/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-16T05:11:30Z",
+    "id": "energy-d19173d361e4a090"
+  },
+  {
+    "title": "Falstad Math and Physics Simulations",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.falstad.com/mathphysics.html",
+    "timestamp": "2026-08-16T04:19:32Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.falstad.com/mathphysics.html"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T04:19:32Z",
+    "id": "energy-71b8f9c0606bb3eb"
+  },
+  {
+    "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+    "timestamp": "2026-08-16T02:36:10Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://spectrum.ieee.org/stimulated-geologic-hydrogen"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T02:36:10Z",
+    "id": "energy-6507a402949f3e0f"
+  },
+  {
+    "title": "5 Classic Anime That Deserve To Get Remakes ASAP",
+    "summary": "These compelling classics could benefit from a complete overhaul.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/classic-anime-that-should-get-remakes/",
+    "timestamp": "2026-08-16T02:00:22Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/classic-anime-that-should-get-remakes/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T02:00:22Z",
+    "id": "energy-39e7ed64a2ac08ed"
+  },
+  {
+    "title": "Lego and Mario Are Officially Teaming Up for New Releases in 2027",
+    "summary": "Super Mario Lego minifigures are finally coming in 2027, years after the launch of Nintendo and Lego's first colalboration.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/lego-super-mario-minifigure-new-release-2027/",
+    "timestamp": "2026-08-16T01:30:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/lego-super-mario-minifigure-new-release-2027/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T01:30:12Z",
+    "id": "energy-9fa9320cc9b6d0b1"
+  },
+  {
+    "title": "Saber CEO Apologizes To Lead Writer Replaced With ChatGPT After Weeklong Crashout",
+    "summary": "Hopefully putting a fork in this embarrassing stitch, Matt Karch delivered a private apology to the lead Rideshare \"Simulator\" writer subjected to his stinky, snarky rant",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730",
+    "timestamp": "2026-08-15T23:54:05Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T23:54:05Z",
+    "id": "energy-06bedf9862302012"
+  },
+  {
+    "title": "When does it end?",
+    "summary": "I don't think any fans has had it worse than Zen fans for the last 3 seasons when it comes to expectations vs reality for teams(besides FK fans) For the past 3 seasons: Emoted and Peaked on By Nass. 20 times owned by Kc 2 times owned by Radosin. Best in the world chain snatched by Dralii 3 Open/regional titles -0 Lan wins 1 super team Flopped 1 Lan final made Back to back 9-12th at Worlds(looking like its gonna be a 3rd this year as the Lan results keep getting worst and worst from 2nd>3-4th>5-8th>9th-12th?????) Add both of Kc's game 7 domination and Geekay game 7 at ewc last year to the heartbreaking series list. submitted by /u/Amazing-Ninja9731 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpfpzc/when_does_it_end/",
+    "timestamp": "2026-08-15T22:14:41Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpfpzc/when_does_it_end/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-15T22:14:41Z",
+    "id": "energy-bad11220b8af24e1"
+  },
+  {
+    "title": "Team Vitality Game 7 Record at International LANs (Post 2023)",
+    "summary": "submitted by /u/mrabu3abd12 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpfd44/team_vitality_game_7_record_at_international_lans/",
+    "timestamp": "2026-08-15T21:58:46Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpfd44/team_vitality_game_7_record_at_international_lans/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-15T21:58:46Z",
+    "id": "energy-ad5460126dfecd0e"
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too",
+    "summary": "Director Jane Schoenbrun continues their odyssey into childhood fixations, this time with a painterly but often obnoxious unraveling of gloriously problematic VHS horror",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725",
+    "timestamp": "2026-08-15T19:31:42Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T19:31:42Z",
+    "id": "energy-df626c1adaa63e31"
+  },
+  {
+    "title": "Rare Two-Player Version Of First Arcade Game Up For Auction From Shiny Entertainment Founder",
+    "summary": "Computer Space is often regarded as the first commercially distributed arcade machine, and David Perry’s personal two-player unit of this historical artifact is now up for grabs",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/rare-two-player-version-of-first-arcade-game-up-for-auction-from-shiny-entertainment-founder-2000724719",
+    "timestamp": "2026-08-15T18:13:43Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/rare-two-player-version-of-first-arcade-game-up-for-auction-from-shiny-entertainment-founder-2000724719"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-15T18:13:43Z",
+    "id": "energy-44be4e5ed710e14b"
+  },
+  {
     "title": "Okina Audio releases Takumi EQ, a FREE EQ and multiband saturator",
     "summary": "Okina Audio has released Takumi EQ, a free equalizer plugin with a Pultec-style section and optional multiband saturation. The product page is originally in Japanese and defaults to that language, but you can easily switch to English using the language selector in the upper-right corner. In short, Takumi EQ is a dynamic EQ, a Pultec-style [...] View post: Okina Audio releases Takumi EQ, a FREE EQ and multiband saturator",
     "source": "Bedroom Producers Blog",
@@ -34,231 +259,6 @@
     "primary_source": false,
     "data_as_of": "2026-08-15T09:35:48Z",
     "id": "energy-d57e07aeef79dbba"
-  },
-  {
-    "title": "It was awesome seeing Mizu on stage during EWC!",
-    "summary": "There’s a lot of love to be given to a lot of players, and Mizu has always been a personal favorite of mine. Still really hoping he can find a solid team to compete with in the coming months because he’s severely underrated and would be such a great player to see in these tournaments 👏 submitted by /u/Honest-Affect-8373 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1voy77n/it_was_awesome_seeing_mizu_on_stage_during_ewc/",
-    "timestamp": "2026-08-15T09:18:31Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1voy77n/it_was_awesome_seeing_mizu_on_stage_during_ewc/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-15T09:18:31Z",
-    "id": "energy-b970ed9af2d9ba07"
-  },
-  {
-    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://uecker.codeberg.page/2026-07-14.html",
-    "timestamp": "2026-08-15T07:59:42Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://uecker.codeberg.page/2026-07-14.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T07:59:42Z",
-    "id": "energy-e7be7fd827d09ec7"
-  },
-  {
-    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-    "timestamp": "2026-08-15T07:31:46Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T07:31:46Z",
-    "id": "energy-b652173cec84c7fc"
-  },
-  {
-    "title": "Ask HN: How do you keep up with HN these days?",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=49308059",
-    "timestamp": "2026-08-15T05:59:12Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://news.ycombinator.com/item?id=49308059"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T05:59:12Z",
-    "id": "energy-c4379d917ae4acf3"
-  },
-  {
-    "title": "Give me a heads up on how the RLCS World Champs work",
-    "summary": "So I have a friend who’s big on RL(he’s a GC and is ranked top 50 on Switch itw)and he wants me to predict the RLCS World Champs for his relatively small YouTube channel. Thing is, I got no idea how the World Champs work and who’s better versus who’s worse. I figured out what the format is though. So what I need help understanding is who are the favorites versus underdogs and who will play who in the group stage. Thanks in advance. submitted by /u/possiblyagrandma7318 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vouov6/give_me_a_heads_up_on_how_the_rlcs_world_champs/",
-    "timestamp": "2026-08-15T05:52:21Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vouov6/give_me_a_heads_up_on_how_the_rlcs_world_champs/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-15T05:52:21Z",
-    "id": "energy-96b0feb1bd2e977c"
-  },
-  {
-    "title": "New Avengers: Doomsday Trailer Is Best Look At RDJ’s Doom Yet",
-    "summary": "The D23 announcements and trailers keep coming",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/avengers-doomsday-trailer-d23-doctor-doom-downey-jr-2000724579",
-    "timestamp": "2026-08-15T05:07:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/avengers-doomsday-trailer-d23-doctor-doom-downey-jr-2000724579"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T05:07:22Z",
-    "id": "energy-ff40824eb8629870"
-  },
-  {
-    "title": "Marvel Finally Reveals The Cast Of MCU’s X-Men Reboot",
-    "summary": "Adam Driver, Inde Navarrette, and Christopher Abbott join the ensemble cast for the 2028 film",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/x-men-mcu-reboot-cast-2028-adam-driver-inde-navarrette-2000724577",
-    "timestamp": "2026-08-15T04:56:01Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/x-men-mcu-reboot-cast-2028-adam-driver-inde-navarrette-2000724577"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T04:56:01Z",
-    "id": "energy-d9f8091d89cbdc99"
-  },
-  {
-    "title": "Marvel Officially Reveals New X-Men Movie Cast at D23",
-    "summary": "At D23 2026, Marvel Studios confirmed the cast of Jake Schreier's X-Men movie, revealing who's playing Cyclops, Storm, and Professor X.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/x-men-movie-news-cast-announced-d23-marvel/",
-    "timestamp": "2026-08-15T04:42:38Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/x-men-movie-news-cast-announced-d23-marvel/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T04:42:38Z",
-    "id": "energy-d9c66b2dc04201df"
-  },
-  {
-    "title": "Disney Reveals First Look at Star Wars: Ahsoka Season 2 at D23 Fan Event",
-    "summary": "Ahsoka will have to save the galaxy, and maybe the whole Star Wars franchise when the series returns next year",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/ahsoka-season-2-trailer-release-date-d23/",
-    "timestamp": "2026-08-15T04:30:11Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/ahsoka-season-2-trailer-release-date-d23/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T04:30:11Z",
-    "id": "energy-f02134ebc5308591"
-  },
-  {
-    "title": "New Avengers: Doomsday Trailer Revealed at D23",
-    "summary": "Avengers Doomsday trailer #2 is now live, after Marvel Studios released a new look at this year's Avengers film.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/avengers-doomsday-trailer-2-marvel-d23/",
-    "timestamp": "2026-08-15T04:27:37Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/avengers-doomsday-trailer-2-marvel-d23/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T04:27:37Z",
-    "id": "energy-def63efea36ecbd3"
-  },
-  {
-    "title": "Kingdom Hearts IV Gets 2027 Release Window And That’s Not All",
-    "summary": "The announcement comes from this year's D23 showcase",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564",
-    "timestamp": "2026-08-15T03:03:11Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T03:03:11Z",
-    "id": "energy-ddc77717d9b9a8a4"
-  },
-  {
-    "title": "Was Man City the worst Top 6 team at LAN history? And was group B the worst group ever?",
-    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1voqn46/was_man_city_the_worst_top_6_team_at_lan_history/",
-    "timestamp": "2026-08-15T02:21:26Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1voqn46/was_man_city_the_worst_top_6_team_at_lan_history/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-15T02:21:26Z",
-    "id": "energy-2bb722e709072c21"
   },
   {
     "title": "Elon Musk, The World’s Most Famous EV Pioneer, Is Now Leaning Into Fossil Fuels",
