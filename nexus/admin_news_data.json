@@ -1,264 +1,336 @@
 [
   {
-    "title": "One Punch Man’s Original Director Will Unleash His Dazzling New Sci-Fi Movie in 6 Months",
-    "summary": "Ghost: End of Night seems every bit able to capture the same emotional sensibilities at the heart of Sonny Boy as Natsume's first feature film.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
-    "timestamp": "2026-08-16T10:00:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-16T10:00:12Z",
-    "id": "energy-0c4ada05dba7c069"
-  },
-  {
-    "title": "What happens when an LLM never sees material beyond fifth grade?",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://littlelearner-ll.github.io/",
-    "timestamp": "2026-08-16T07:37:53Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://littlelearner-ll.github.io/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-16T07:37:53Z",
-    "id": "energy-bf6da6d0c8b73db8"
-  },
-  {
-    "title": "Twisted Minds on their ****",
-    "summary": "submitted by /u/simbaboom8 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpo5zx/twisted_minds_on_their/",
-    "timestamp": "2026-08-16T05:11:30Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpo5zx/twisted_minds_on_their/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-16T05:11:30Z",
-    "id": "energy-d19173d361e4a090"
-  },
-  {
-    "title": "Falstad Math and Physics Simulations",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.falstad.com/mathphysics.html",
-    "timestamp": "2026-08-16T04:19:32Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.falstad.com/mathphysics.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-16T04:19:32Z",
-    "id": "energy-71b8f9c0606bb3eb"
-  },
-  {
-    "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-    "timestamp": "2026-08-16T02:36:10Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://spectrum.ieee.org/stimulated-geologic-hydrogen"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-16T02:36:10Z",
-    "id": "energy-6507a402949f3e0f"
-  },
-  {
-    "title": "5 Classic Anime That Deserve To Get Remakes ASAP",
-    "summary": "These compelling classics could benefit from a complete overhaul.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/classic-anime-that-should-get-remakes/",
-    "timestamp": "2026-08-16T02:00:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/classic-anime-that-should-get-remakes/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-16T02:00:22Z",
-    "id": "energy-39e7ed64a2ac08ed"
-  },
-  {
-    "title": "Lego and Mario Are Officially Teaming Up for New Releases in 2027",
-    "summary": "Super Mario Lego minifigures are finally coming in 2027, years after the launch of Nintendo and Lego's first colalboration.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/lego-super-mario-minifigure-new-release-2027/",
-    "timestamp": "2026-08-16T01:30:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/lego-super-mario-minifigure-new-release-2027/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-16T01:30:12Z",
-    "id": "energy-9fa9320cc9b6d0b1"
-  },
-  {
-    "title": "Saber CEO Apologizes To Lead Writer Replaced With ChatGPT After Weeklong Crashout",
-    "summary": "Hopefully putting a fork in this embarrassing stitch, Matt Karch delivered a private apology to the lead Rideshare \"Simulator\" writer subjected to his stinky, snarky rant",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730",
-    "timestamp": "2026-08-15T23:54:05Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T23:54:05Z",
-    "id": "energy-06bedf9862302012"
-  },
-  {
-    "title": "When does it end?",
-    "summary": "I don't think any fans has had it worse than Zen fans for the last 3 seasons when it comes to expectations vs reality for teams(besides FK fans) For the past 3 seasons: Emoted and Peaked on By Nass. 20 times owned by Kc 2 times owned by Radosin. Best in the world chain snatched by Dralii 3 Open/regional titles -0 Lan wins 1 super team Flopped 1 Lan final made Back to back 9-12th at Worlds(looking like its gonna be a 3rd this year as the Lan results keep getting worst and worst from 2nd>3-4th>5-8th>9th-12th?????) Add both of Kc's game 7 domination and Geekay game 7 at ewc last year to the heartbreaking series list. submitted by /u/Amazing-Ninja9731 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpfpzc/when_does_it_end/",
-    "timestamp": "2026-08-15T22:14:41Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpfpzc/when_does_it_end/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-15T22:14:41Z",
-    "id": "energy-bad11220b8af24e1"
-  },
-  {
-    "title": "Team Vitality Game 7 Record at International LANs (Post 2023)",
-    "summary": "submitted by /u/mrabu3abd12 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpfd44/team_vitality_game_7_record_at_international_lans/",
-    "timestamp": "2026-08-15T21:58:46Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vpfd44/team_vitality_game_7_record_at_international_lans/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-15T21:58:46Z",
-    "id": "energy-ad5460126dfecd0e"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too",
-    "summary": "Director Jane Schoenbrun continues their odyssey into childhood fixations, this time with a painterly but often obnoxious unraveling of gloriously problematic VHS horror",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725",
-    "timestamp": "2026-08-15T19:31:42Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T19:31:42Z",
-    "id": "energy-df626c1adaa63e31"
-  },
-  {
-    "title": "Rare Two-Player Version Of First Arcade Game Up For Auction From Shiny Entertainment Founder",
-    "summary": "Computer Space is often regarded as the first commercially distributed arcade machine, and David Perry’s personal two-player unit of this historical artifact is now up for grabs",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/rare-two-player-version-of-first-arcade-game-up-for-auction-from-shiny-entertainment-founder-2000724719",
-    "timestamp": "2026-08-15T18:13:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/rare-two-player-version-of-first-arcade-game-up-for-auction-from-shiny-entertainment-founder-2000724719"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-15T18:13:43Z",
-    "id": "energy-44be4e5ed710e14b"
-  },
-  {
-    "title": "Okina Audio releases Takumi EQ, a FREE EQ and multiband saturator",
-    "summary": "Okina Audio has released Takumi EQ, a free equalizer plugin with a Pultec-style section and optional multiband saturation. The product page is originally in Japanese and defaults to that language, but you can easily switch to English using the language selector in the upper-right corner. In short, Takumi EQ is a dynamic EQ, a Pultec-style [...] View post: Okina Audio releases Takumi EQ, a FREE EQ and multiband saturator",
+    "title": "Foundations Music Academy offers private music lessons in Ohio",
+    "summary": "Foundations Music Academy offers private music lessons and group classes for students of all ages at four Central Ohio locations: Powell, Lewis Center, Hilliard, and Dublin. We have covered online learning tools before, and apps can be useful for a convenient way to start learning piano or music theory at home. But there is still [...] View post: Foundations Music Academy offers private music lessons in Ohio",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/15/okina-audio-takumi-eq/",
-    "timestamp": "2026-08-15T09:52:41Z",
+    "url": "https://bedroomproducersblog.com/2026/08/17/foundations-music-academy/",
+    "timestamp": "2026-08-17T10:06:19Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/15/okina-audio-takumi-eq/"
+      "https://bedroomproducersblog.com/2026/08/17/foundations-music-academy/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-15T09:52:41Z",
-    "id": "energy-65042c9c24be0169"
+    "data_as_of": "2026-08-17T10:06:19Z",
+    "id": "energy-b78856729a47bff4"
   },
   {
-    "title": "FX-Mechanics releases Mango, a FREE modular glitch effect",
-    "summary": "FX-Mechanics has released Mango, a free and open-source modular glitch effect for macOS, Windows, and Linux. It’s not a surprise that Kieran Foster’s Glitch comes to mind when looking at a plugin like this. We recently covered Glitch again because Kieran, also known as illformed and dblue, sadly passed away, and Glitch² is now available [...] View post: FX-Mechanics releases Mango, a FREE modular glitch effect",
+    "title": "Ryan Gosling's 100-Minute 10/10 Crime-Thriller Cult Classic Is Officially Free on Streaming",
+    "summary": "This slick, neo-soaked adventure is quite impossible to forget.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/movies-free-streaming-august-2026-drive/",
+    "timestamp": "2026-08-17T10:00:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/movies-free-streaming-august-2026-drive/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-17T10:00:12Z",
+    "id": "energy-ab7e43e391b49416"
+  },
+  {
+    "title": "Marvel Reveals Official Watchlist for Avengers: Doomsday — With One Surprising Absence",
+    "summary": "Marvel and Disney have unveiled a list of key films fans need to watch to prepare for Doomsday, with one surprising omission.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/avengers-doomsday-watchlist/",
+    "timestamp": "2026-08-17T09:52:02Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/avengers-doomsday-watchlist/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-17T09:52:02Z",
+    "id": "energy-7970a74c6d340d04"
+  },
+  {
+    "title": "Will King of the Hill Pit Hank And Buck Against Each Other?",
+    "summary": "King of the Hill is setting up potential conflict between Buck Strickland and Hank Hill, as Hank takes the reins of Strickland Propane.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/video/will-king-of-the-hill-pit-hank-and-buck-against-each-other/",
+    "timestamp": "2026-08-17T09:37:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/video/will-king-of-the-hill-pit-hank-and-buck-against-each-other/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-17T09:37:14Z",
+    "id": "energy-845b6f8f67a5f069"
+  },
+  {
+    "title": "The Top Rated Players at EWC (All games and BO7 ONLY)",
+    "summary": "submitted by /u/BLASTMAC [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vqme5i/the_top_rated_players_at_ewc_all_games_and_bo7/",
+    "timestamp": "2026-08-17T08:24:36Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vqme5i/the_top_rated_players_at_ewc_all_games_and_bo7/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-17T08:24:36Z",
+    "id": "energy-0211bd271445c76a"
+  },
+  {
+    "title": "HackEurope 2026: A short rant on AI and hackathons",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://duti.dev/blog/2026/spr/",
+    "timestamp": "2026-08-17T07:28:43Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://duti.dev/blog/2026/spr/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-17T07:28:43Z",
+    "id": "energy-2941d6fcfa55e936"
+  },
+  {
+    "title": "All time duos ranking",
+    "summary": "Where do the twins rank in terms of all time duos? The twins won 1 ewc 1 major made an ewc final a major final and a worlds final, and tournaments outside of the traditional 3v3 club tournaments have won a fifaE and made a final also made a gamers8 2023 final submitted by /u/Few-Status9887 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vqkd0g/all_time_duos_ranking/",
+    "timestamp": "2026-08-17T06:25:22Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vqkd0g/all_time_duos_ranking/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-17T06:25:22Z",
+    "id": "energy-ca69f9188543a895"
+  },
+  {
+    "title": "Funny Thought: 4 of the 6 Saudi Players are Related",
+    "summary": "Now sure the twins are extra-more related, but it’s kind of a funny coincidence nonetheless submitted by /u/qpKMDOqp [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vqk09i/funny_thought_4_of_the_6_saudi_players_are_related/",
+    "timestamp": "2026-08-17T06:05:15Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vqk09i/funny_thought_4_of_the_6_saudi_players_are_related/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-17T06:05:15Z",
+    "id": "energy-f05182f267f58607"
+  },
+  {
+    "title": "Linear algebra done right",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://linear.axler.net/",
+    "timestamp": "2026-08-17T05:21:34Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://linear.axler.net/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-17T05:21:34Z",
+    "id": "energy-5e909109f8d66101"
+  },
+  {
+    "title": "Until Dawn And Kingdom Hearts Star Hayden Panettiere Has Died At 36",
+    "summary": "The actor was known across TV, movies, and game roles in Until Dawn and Kingdom Hearts",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/hayden-panettiere-death-until-dawn-kingdom-hearts-2000724820",
+    "timestamp": "2026-08-17T04:09:23Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/hayden-panettiere-death-until-dawn-kingdom-hearts-2000724820"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-17T04:09:23Z",
+    "id": "energy-8a26b629562b7b31"
+  },
+  {
+    "title": "Zero-Sum Cycles in Regular Digraphs",
+    "summary": "arXiv:2608.14515v1 Announce Type: new Abstract: Let $\\Gamma$ be a finite group of order $k\\ge2$, and label the edges of a simple loopless $d$-regular digraph $D$ by elements of $\\Gamma$. A directed cycle is zero-sum if the ordered product of its labels is the identity of $\\Gamma$. We prove that a zero-sum cycle exists whenever $d\\ge e^3(k-1)$. We also prove that every labelled $d$-regular digraph contains $\\Omega(d/k)$ pairwise vertex-disjoint zero-sum cycles. When $d\\ge50k$, it contains $\\Omega(d^2/k)$ pairwise edge-disjoint zero-sum cycles. All three results are asymptotically optimal. The existence and packing results extend to Eulerian digraphs whose minimum and maximum common degrees $\\delta$ and $\\Delta$ satisfy $\\delta^3/\\Delta^2=\\Omega(k)$. The techniques extend a determinant--permanent argument of Friedland for even directed cycles.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.14515",
+    "timestamp": "2026-08-17T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.14515"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-17T04:00:00Z",
+    "id": "energy-370ee43223101d00"
+  },
+  {
+    "title": "Zak-OTFS: A Predictable Physical Layer for Communications and Sensing",
+    "summary": "arXiv:2604.16781v2 Announce Type: replace Abstract: This tutorial derives the mathematical foundations of what it means for a carrier waveform to be predictable and non-selective. We focus on Zak-OTFS, where each carrier waveform is a pulse in the delay-Doppler (DD) domain, formally a quasi-periodic localized function with specific periods along delay and Doppler. Viewed in the time domain, the Zak-OTFS carrier is realized as a pulse train modulated by a tone (termed a pulsone). We start by providing physical intuition, describing what it means for the Zak-OTFS carrier waveforms to be geometric modes of the Heisenberg-Weyl (HW) group of discrete delay and Doppler shifts that define the discrete-time communication model. In fact, we show that these geometric modes are common eigenvectors of a maximal commutative subgroup of our discrete HW group. When the channel delay spread is less than the delay period, and the channel Doppler spread is less than the Doppler period, we show that the Zak-OTFS input-output (I/O) relation is predictable and non-selective. Given the I/O response at one DD point in a frame, it is possible to predict the I/O response at all other points, without recou…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2604.16781",
+    "timestamp": "2026-08-17T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2604.16781"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-17T04:00:00Z",
+    "id": "energy-45ada67aa5bd7b6f"
+  },
+  {
+    "title": "Woven weighted exponentials",
+    "summary": "arXiv:2608.14393v1 Announce Type: new Abstract: Let $f$ and $g$ be nonzero functions in $L^2([0,1])$. The \\emph{woven weighted exponential system} (associated with $f$ and $g$) is defined by $$\\Wc(f,g)=\\bigset{\\set{fe^{2\\pi i nt}}_{n\\in J} \\cup \\set{ge^{2\\pi i nt}}_{n\\in J^c}\\,|\\,J\\subset\\Z}.$$ We say that $\\Wc(f,g)$ is \\emph{wovenly complete}, (resp. \\emph{wovenly minimal}, a \\emph{woven frame}) if the weaving $\\set{fe^{2\\pi i nt}}_{n\\in J} \\cup \\set{ge^{2\\pi i nt}}_{n\\in J^c}$ is complete, (resp. minimal, a frame) for all $J\\subseteq \\Z.$ In this paper, we study conditions that imply certain approximation properties of $\\Wc(f,g)$, such as completeness, minimality and the frame property. We first provide a complete characterization of the woven weighted exponential systems that are wovenly complete. We also show that $\\Wc(f,g)$ is a woven frame if $f/g$ is strictly positive or strictly negative over $[0,1].$ Additionally, several counterexamples are provided to show that certain seemingly correct conditions do not imply the desired approximation properties of $\\Wc(f,g).$ All results presented in this paper apply equivalently to systems of regular translates and Gabor systems at c…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.14393",
+    "timestamp": "2026-08-17T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.14393"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-17T04:00:00Z",
+    "id": "energy-5395c9277835ba09"
+  },
+  {
+    "title": "GIMP Development Update",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+    "timestamp": "2026-08-17T03:08:47Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-17T03:08:47Z",
+    "id": "energy-4b8a3a55d35f8e8d"
+  },
+  {
+    "title": "Foundational Freeware Indie Metroidvania Knytt Remade For Its 20th Anniversary",
+    "summary": "In the early 2000s, players got to scurry and discover the network of caverns in the engrossing Knytt, celebrating a big birthday with a port for modern hardware",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/foundational-freeware-indie-metroidvania-knytt-remade-for-its-20th-anniversary-2000724793",
+    "timestamp": "2026-08-16T20:51:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/foundational-freeware-indie-metroidvania-knytt-remade-for-its-20th-anniversary-2000724793"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T20:51:14Z",
+    "id": "energy-571da8d49263ba55"
+  },
+  {
+    "title": "3D Model Markets Are Being Flooded With AI Sellers But No One’s Buying",
+    "summary": "A classic conundrum of 'why would I buy something you didn’t make,' platforms like CGTrader has shelves of AI made models collecting dust",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
+    "timestamp": "2026-08-16T20:04:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T20:04:11Z",
+    "id": "energy-c35c8f314fc20b97"
+  },
+  {
+    "title": "Audio Assault offers Carntens Greys amp sim FREE for a limited time",
+    "summary": "Audio Assault is offering Carntens Greys, a premium guitar amp module for Amp Locker, as a free download for a limited time. Please note that this is not a standalone amp plugin. Carntens Greys requires Amp Locker, Audio Assault’s amp-sim platform, which lets you load the company’s guitar amp models, cabinets, pedals, and rack effects. [...] View post: Audio Assault offers Carntens Greys amp sim FREE for a limited time",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/15/fx-mechanics-mango/",
-    "timestamp": "2026-08-15T09:35:48Z",
+    "url": "https://bedroomproducersblog.com/2026/08/16/audio-assault-carntens-greys/",
+    "timestamp": "2026-08-16T11:06:02Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/15/fx-mechanics-mango/"
+      "https://bedroomproducersblog.com/2026/08/16/audio-assault-carntens-greys/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-15T09:35:48Z",
-    "id": "energy-d57e07aeef79dbba"
+    "data_as_of": "2026-08-16T11:06:02Z",
+    "id": "energy-d53082adb3d74f2f"
+  },
+  {
+    "title": "Alonso Sound offers 19 Year Anniversary Pack FREE until August 31",
+    "summary": "Alonso Sound is offering the 19 Year Anniversary Pack as a free download until August 31st, 2026. This pack normally costs $35 and includes 128 presets for u-he Diva, Xfer Serum 2, Reveal Sound Spire, and LennarDigital Sylenth1. It includes 32 presets for each synth and covers leads, basses, plucks, pads, acid sounds, sequences, arps, [...] View post: Alonso Sound offers 19 Year Anniversary Pack FREE until August 31",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/16/alonso-19-anniversary/",
+    "timestamp": "2026-08-16T10:53:52Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/16/alonso-19-anniversary/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-16T10:53:52Z",
+    "id": "energy-abe1b8d56c7ff879"
   },
   {
     "title": "Elon Musk, The World’s Most Famous EV Pioneer, Is Now Leaning Into Fossil Fuels",
@@ -322,95 +394,5 @@
     ],
     "data_as_of": "2026-08-14T14:50:02Z",
     "id": "energy-5649f9966b03aa58"
-  },
-  {
-    "title": "Can public EV chargers be as reliable as gas stations?",
-    "summary": "A conversation with Seth Cutler of IONNA.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/can-public-ev-chargers-be-as-reliable",
-    "timestamp": "2026-08-14T10:06:04Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/can-public-ev-chargers-be-as-reliable"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-08-14T10:06:04Z",
-    "id": "energy-a70a342b5d98d59d"
-  },
-  {
-    "title": "Windows-G releases E-PeakClipper500 as a FREE VST3 clipper for Windows",
-    "summary": "Windows-G has released E-PeakClipper500 as a free VST3 clipper plugin for Windows. We covered E-PeakClipper500 last year as a JSFX clipper for REAPER, which could also run in other DAWs through the free YSFX wrapper. This new release is a native Windows VST3 version, so Windows users can load it directly without the extra wrapper [...] View post: Windows-G releases E-PeakClipper500 as a FREE VST3 clipper for Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/14/windows-g-peakclipper500/",
-    "timestamp": "2026-08-14T08:11:08Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/14/windows-g-peakclipper500/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-14T08:11:08Z",
-    "id": "energy-c0fca4c11e5cb6ce"
-  },
-  {
-    "title": "Zero-energy Edge States of Tight-Binding Models for Generalized Honeycomb-Structured Materials",
-    "summary": "arXiv:2504.09565v2 Announce Type: replace Abstract: Generalized honeycomb-structured materials have received increasing attention due to their novel topological properties. In this article, we investigate zero-energy edge states in tight-binding models for such materials with two different interface configurations: type-I and type-II, which are analog to zigzag and armchair interfaces for the honeycomb structure. We obtain the necessary and sufficient conditions for the existence of such edge states and rigorously prove the existence of spin-like zero-energy edge states. More specifically, type-II interfaces support two zero-energy states exclusively between topologically distinct materials. For type-I interfaces, zero-energy edge states exist between both topologically distinct and identical materials when hopping coefficients satisfy specific constraints. We further prove that the two energy curves for edge states exhibit strict crossing. We numerically simulate the dynamics of edge state wave packets along bending interfaces, which agree with the topologically protected motion of spin-like edge states in physics.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2504.09565",
-    "timestamp": "2026-08-14T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2504.09565"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-14T04:00:00Z",
-    "id": "energy-db8a2f8c2d931e9a"
-  },
-  {
-    "title": "Wug-snake graphs and Markov numbers of matrix semigroups",
-    "summary": "arXiv:2604.17069v3 Announce Type: replace Abstract: Classically, Markov numbers are recovered as perfect matching numbers of domino snake graphs. We extend this correspondence by introducing weighted universal generalised snake graphs, or wug-snake graphs. These are weighted ordered bipartite graphs whose perfect matching sequences encode linear recurrences. To every wug-snake graph we associate a continuant matrix and prove that the determinant of this matrix equals the weighted perfect matching sum. We then introduce polyomino wug-tiles, bodies of wug-snake graphs that act linearly on state vectors. Every integer matrix admits a canonical polyomino wug-tile. Our main result identifies the wug-snake determinant of a tile representing a matrix $A$ with the Markov-Davenport form of $A$. Consequently, algebraic and geometric Markov numbers of matrices and matrix semigroups can be expressed as weighted perfect matching determinants. Further we define Frobenius maps for matrix semigroups and discuss examples recovering classical Markov numbers and higher-dimensional lattice realisations.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2604.17069",
-    "timestamp": "2026-08-14T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2604.17069"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-14T04:00:00Z",
-    "id": "energy-0be6e86b1bc93a11"
-  },
-  {
-    "title": "Well-posedness and time stepping adaptivity for a class of collocation discretisations of time-fractional subdiffusion equations",
-    "summary": "arXiv:2602.18404v2 Announce Type: replace Abstract: Time-fractional parabolic equations with a Caputo time derivative of order $\\alpha\\in(0,1)$ are discretised in time using collocation methods, which assume that the Caputo derivative of the computed solution is piecewise-polynomial. For such discretisations of any order $m\\ge 0$, with any choice of collocation points, we give sufficient conditions for existence and uniqueness of collocation solutions. Furthermore, we investigate the applicability and performance of such schemes in the context of the a-posteriori error estimation and adaptive time stepping algorithms.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2602.18404",
-    "timestamp": "2026-08-14T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2602.18404"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-14T04:00:00Z",
-    "id": "energy-f9f1c023ad0da3f2"
   }
 ]
