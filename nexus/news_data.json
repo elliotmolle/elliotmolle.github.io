@@ -1,5 +1,141 @@
 [
   {
+    "title": "Helping customers navigate extreme heat: Tips to stay safe and manage your bill",
+    "summary": "To help keep our customers safe and comfortable, Entergy has temporarily suspended disconnects and continues to monitor National Weather Service heat advisories.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/helping-customers-navigate-extreme-heat-tips-to-stay-safe-and-manage-your-bill",
+    "timestamp": "2026-08-17T19:36:07Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/helping-customers-navigate-extreme-heat-tips-to-stay-safe-and-manage-your-bill"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-17T19:36:07Z",
+    "id": "energy-54dfd022b15d54fc"
+  },
+  {
+    "title": "President and CEO Deanna Rodriguez: A message to New Orleans East residents",
+    "summary": "Entergy New Orleans is pleased to report that we have completed upgrades to the underground cables that serve your neighborhood.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/president-and-ceo-deanna-rodriguez-a-message-to-new-orleans-east-residents",
+    "timestamp": "2026-08-17T17:35:53Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/president-and-ceo-deanna-rodriguez-a-message-to-new-orleans-east-residents"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-17T17:35:53Z",
+    "id": "energy-5bfdbfae053a9f63"
+  },
+  {
+    "title": "Study mapping U-10Zr porosity informs metallic fuel design",
+    "summary": "Researchers at Idaho National Laboratory and the Massachusetts Institute of Technology have conducted a three-dimensional study of irradiated U-10Zr—uranium alloyed with 10 percent zirconium—across key radial regions, providing new insights into how the material swells, transfers heat, and interacts with the fuel cladding. U-10Zr was extensively tested in historical sodium-cooled fast reactors and is now attracting attention for use in next-generation advanced reactors.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-17/article-8300/study-mapping-u10zr-porosity-informs-metallic-fuel-design/",
+    "timestamp": "2026-08-17T17:28:30Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-17/article-8300/study-mapping-u10zr-porosity-informs-metallic-fuel-design/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-17T17:28:30Z",
+    "id": "energy-7e425c3ab984ed31"
+  },
+  {
+    "title": "Supplier Showcase focus: MUR DVR",
+    "summary": "The American Nuclear Society is hosting a Supplier Showcase webinar, “Advancing DVR for MUR: Lessons from First-of-a-Kind Projects,” tomorrow, August 18, from 1:00 p.m. to 2:00 p.m. (CDT) on recent advancements in data validation and reconciliation (DVR). The conversation will also focus on how these advancements have reduced core thermal power measurement uncertainty and enabled measurement uncertainty recapture (MUR) uprates. The webinar is free for all viewers and requires registration.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-17/article-8299/supplier-showcase-focus-mur-dvr/",
+    "timestamp": "2026-08-17T16:37:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-17/article-8299/supplier-showcase-focus-mur-dvr/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-17T16:37:11Z",
+    "id": "energy-bcb5cfee64a3a45d"
+  },
+  {
+    "title": "Diablo Canyon receives partial Civil Nuclear Credit payment",
+    "summary": "Pacific Gas and Electric has received a federal credit payment of $271 million from the Department of Energy under the DOE’s Civil Nuclear Credit (CNC) Program, which was set up in 2022 as a $6 billion federal strategic investment to help preserve the existing U.S. nuclear reactor fleet. The Award Cycle 1 funds just disbursed cover extended operations for Diablo Canyon-1, with the DOE noting that Unit 2 will become eligible for a CNC payment after completion of the 2025 award year audit.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-17/article-8298/diablo-canyon-receives-partial-civil-nuclear-credit-payment/",
+    "timestamp": "2026-08-17T14:36:49Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-17/article-8298/diablo-canyon-receives-partial-civil-nuclear-credit-payment/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-17T14:36:49Z",
+    "id": "energy-286aa832c9b7947f"
+  },
+  {
+    "title": "ISO-NE team turns ideas into practical solutions",
+    "summary": "Advanced Technology Solutions develops one-of-a-kind analytical tools to support grid operations, market design, and more. The post ISO-NE team turns ideas into practical solutions appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/17/iso-ne-team-turns-ideas-into-practical-solutions/",
+    "timestamp": "2026-08-17T13:02:43Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/17/iso-ne-team-turns-ideas-into-practical-solutions/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-17T13:02:43Z",
+    "id": "energy-08c9ed8542f579ff"
+  },
+  {
     "title": "Entergy Louisiana lineworker Matthew Vining named Lineman of the Game at Saints preseason opener",
     "summary": "Posted:Aug 15, 2026 | Posted:Jordyn Martin | Category:Blog post | Tags:Lineworkers, Louisiana For seven years, Matthew Vining has dedicated his career to keeping the lights on for Entergy Louisiana customers. This weekend, that dedication will take center stage as Vining is recognized as the Lineman of the Game during the New Orleans Saints’ preseason matchup against the Jacksonville… Source",
     "source": "Entergy",
@@ -22,71 +158,5 @@
     ],
     "data_as_of": "2026-08-15T19:47:56Z",
     "id": "energy-7655c2feca7804bb"
-  },
-  {
-    "title": "Front-end nuclear fuel supply cooperation: Turning allied interdependence into strategic advantage",
-    "summary": "The global nuclear revival, which is fueled by unprecedented demand for firm, affordable, dispatchable power for artificial intelligence and data center build-out, energy security imperatives, and climate commitments, has exposed a structural reality of the Western fuel cycle: No single allied nation currently possesses the full suite of front-end capabilities. From mining through conversion, enrichment, fabrication, and the emerging deconversion and metallization steps required for reactor fuels, capability is distributed across Canada, France, Japan, the United Kingdom, and the United States (collectively, the “Sapporo Five”), as well as a small group of close partners.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-14/article-8223/frontend-nuclear-fuel-supply-cooperation-turning-allied-interdependence-into-strategic-advantage/",
-    "timestamp": "2026-08-14T21:04:04Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-14/article-8223/frontend-nuclear-fuel-supply-cooperation-turning-allied-interdependence-into-strategic-advantage/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-14T21:04:04Z",
-    "id": "energy-af1a9a201d867e44"
-  },
-  {
-    "title": "New measurement of diamond phase change could mean increased ICF energy gain",
-    "summary": "Researchers at Lawrence Livermore National Laboratory have measured how diamond melts under extreme pressures, resolving a long-standing discrepancy between experiment and theory. In inertial confinement fusion experiments, where a diamond capsule is used to hold fuel, this refined understanding of diamond’s phase change has the potential to triple energy gain, provided that other degradation mechanisms can be controlled.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-14/article-8296/new-measurement-of-diamond-phase-change-could-mean-increased-icf-energy-gain/",
-    "timestamp": "2026-08-14T19:10:48Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-14/article-8296/new-measurement-of-diamond-phase-change-could-mean-increased-icf-energy-gain/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-14T19:10:48Z",
-    "id": "energy-27e84f3bf0c9cda2"
-  },
-  {
-    "title": "Cleanup work progresses with pump removal at Hanford Tank Farms",
-    "summary": "The Department of Energy’s Office of Environmental Management reports that workers at the Hanford Site, near Richland, Wash., have performed a technically complex operation to remove a large legacy mixer pump from Tank SY-101 in the 200 West Area. The removal allows for the future installation of tank waste retrieval equipment as part of the next phase of waste cleanup at the site. A short video on the Hanford Site’s YouTube channel shows aspects of the operation, including the pump being lifted out of the tank with a specially designed hydraulic lift system named Hercules.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-14/article-8295/cleanup-work-progresses-with-pump-removal-at-hanford-tank-farms/",
-    "timestamp": "2026-08-14T14:56:12Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-14/article-8295/cleanup-work-progresses-with-pump-removal-at-hanford-tank-farms/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-14T14:56:12Z",
-    "id": "energy-d157516402e409de"
   }
 ]
