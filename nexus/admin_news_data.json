@@ -1,345 +1,399 @@
 [
   {
-    "title": "Time loops are a weird genre for an anxious time",
-    "summary": "Time loop games have become a trend over the past few years: from Twelve Minutes, to Outer Wilds, to Deathloop. But the genre is by no means new! It predates Groundhog Day and goes all the way back to World War II. Still, there's a reason time loop stories keep coming back... looping, if you will. Jenna Stoeber walks us through the intricacies of time loops and alternate realities, and what it all has to do with our current ANXIETY.#hamlet #timeloop",
+    "title": "'The Sims 4' Is Getting Two Classic Teen Movies-Inspired Kits",
+    "summary": "Sims can get ready to rule the high school halls with the Mean Girls and Clueless Capsule kits coming to The Sims 4 this month.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/video/time-loops-are-a-weird-genre-for-an-anxious-time/",
-    "timestamp": "2026-08-18T10:25:49Z",
+    "url": "https://www.polygon.com/the-sims-4-mean-girls-clueless-capsule-kits/",
+    "timestamp": "2026-08-19T10:12:32Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/video/time-loops-are-a-weird-genre-for-an-anxious-time/"
+      "https://www.polygon.com/the-sims-4-mean-girls-clueless-capsule-kits/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-18T10:25:49Z",
-    "id": "energy-7bfd5606bb349370"
+    "data_as_of": "2026-08-19T10:12:32Z",
+    "id": "energy-7b853fd6d2ec1162"
   },
   {
-    "title": "Google buys crashed airline Spirit's data at auction, because AI",
+    "title": "He helped Uruguay decarbonize. Can he help other countries do the same?",
+    "summary": "A conversation with Ramón Méndez Galain.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/he-helped-uruguay-decarbonize-can",
+    "timestamp": "2026-08-19T10:03:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/he-helped-uruguay-decarbonize-can"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T10:03:31Z",
+    "id": "energy-61dc155d49c557e7"
+  },
+  {
+    "title": "28 Years Later, Jim Carrey's Most Unhinged Movie Performance of All Time Is Officially Free on Streaming",
+    "summary": "The 1998 Jim Carrey masterpiece predicted the century of reality TV and social media, but it has a deeper spiritual resonance",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/the-truman-show-movies-free-streaming-august-2026/",
+    "timestamp": "2026-08-19T10:00:13Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/the-truman-show-movies-free-streaming-august-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T10:00:13Z",
+    "id": "energy-6ec8f10f5bf9d73e"
+  },
+  {
+    "title": "Crunchyroll Store Removes Tons of Physical Products After Being Locked Behind Subscription",
+    "summary": "The Crunchyroll Store no longer lists physical products such as manga, manhwa, and light novels.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/crunchyroll-store-removes-physical-products-manga-anime/",
+    "timestamp": "2026-08-19T09:46:37Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/crunchyroll-store-removes-physical-products-manga-anime/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T09:46:37Z",
+    "id": "energy-14433017ab68bcd6"
+  },
+  {
+    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "timestamp": "2026-08-18T10:13:28Z",
+    "url": "https://www.modular.com/blog/modcon-announcements",
+    "timestamp": "2026-08-19T07:47:19Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
+      "https://www.modular.com/blog/modcon-announcements"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-18T10:13:28Z",
-    "id": "energy-c7e314e025c7974a"
+    "data_as_of": "2026-08-19T07:47:19Z",
+    "id": "energy-b17cae4d53844562"
   },
   {
-    "title": "Disappointing 'Fortnite' Chapter 7 Season 4 Battle Pass Will at Least Give Players a Sonic Skin",
-    "summary": "Fortnite Chapter 7 Season 4's Battle Pass features eight skins to unlock, and Sonic is among them.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-battle-pass-reveal-trailer/",
-    "timestamp": "2026-08-18T09:58:55Z",
-    "topic": "Gaming",
+    "title": "Where Human Sleep Went Wrong",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+    "timestamp": "2026-08-19T07:40:32Z",
+    "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/fortnite-chapter-7-season-4-battle-pass-reveal-trailer/"
+      "https://nautil.us/where-human-sleep-went-wrong-1283797"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-18T09:58:55Z",
-    "id": "energy-15bed933e9faea4e"
+    "data_as_of": "2026-08-19T07:40:32Z",
+    "id": "energy-ab1622a827a6b71e"
   },
   {
-    "title": "Legendary Creator Behind Deus Ex And System Shock, Warren Spector, Announces His Retirement",
-    "summary": "'It's just not as much fun for me anymore,' the producer explains of the modern games industry",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/warren-spector-retirement-deus-ex-system-shock-thief-looking-glass-2000725307",
-    "timestamp": "2026-08-18T09:50:05Z",
-    "topic": "Gaming",
+    "title": "λλ: A Programming Language for Silicon Photonics",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+    "timestamp": "2026-08-19T06:09:16Z",
+    "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/warren-spector-retirement-deus-ex-system-shock-thief-looking-glass-2000725307"
+      "https://dl.acm.org/doi/10.1145/3789240.3829151"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-18T09:50:05Z",
-    "id": "energy-cf2212a323afcee9"
+    "data_as_of": "2026-08-19T06:09:16Z",
+    "id": "energy-a3394628c983ff30"
   },
   {
-    "title": "MTG Arena Players Can Now Report Salty Losers",
-    "summary": "With its latest update, MTG Arena adds a function to report players, meaning you now have a weapon to fight 'roping'.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/mtg-arena-report-players-update/",
-    "timestamp": "2026-08-18T09:39:47Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/mtg-arena-report-players-update/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-18T09:39:47Z",
-    "id": "energy-d4d329bdbf7aa047"
-  },
-  {
-    "title": "Esports Nations Cup has been postponed to November 2027",
-    "summary": "submitted by /u/Lukasz__ [link] [comments]",
+    "title": "What are the top 5 teams heading into worlds?",
+    "summary": "Its really hard to tell judging by the recent EWC 2026 event since many underdogs managed to win/deliver and many teams were underperforming. My picks though are falcons, twisted minds, karmine corp if they can get on good form, and same with gentle mates. However it is really back and forth and hit and miss with alot of the teams so my consistent picks are falcons and twisted minds. Id like to hear your guys thoughts submitted by /u/Low_Weekend6131 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vrjf2k/esports_nations_cup_has_been_postponed_to/",
-    "timestamp": "2026-08-18T08:38:49Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vse1c8/what_are_the_top_5_teams_heading_into_worlds/",
+    "timestamp": "2026-08-19T06:08:43Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vrjf2k/esports_nations_cup_has_been_postponed_to/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vse1c8/what_are_the_top_5_teams_heading_into_worlds/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-18T08:38:49Z",
-    "id": "energy-324f6ed7f50b14c3"
+    "data_as_of": "2026-08-19T06:08:43Z",
+    "id": "energy-4cf80923694363a1"
   },
   {
-    "title": "Linux 7.3 improves performance when running out of vRAM",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "timestamp": "2026-08-18T07:51:50Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://pixelcluster.dev/VRAM-Overcommit/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-18T07:51:50Z",
-    "id": "energy-0945f624c77d82d9"
-  },
-  {
-    "title": "Rethinking Database Programming",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "timestamp": "2026-08-18T07:28:27Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://acadia.engineering/blog/rethinking-database-programming"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-18T07:28:27Z",
-    "id": "energy-52da4d1e8370a945"
-  },
-  {
-    "title": "Zero-point theorems in quantum many-body physics",
-    "summary": "arXiv:2608.15542v1 Announce Type: cross Abstract: We propose several zero-point type arguments based on the inevitable zero point(s) of a spectral gap in the quantum spin system phase diagrams in various dimensions. We consider multi-parameter families of Hamiltonian extending the conventional zero-point theorem that includes only one parameter. Analogously to the zero-point theorem, we only impose model-independent transformation relations along the parameter boundary, rather than specifying any low-energy dynamics or response. We further give a series of conjectures, which generalize our statements in a uniform way. Our results give powerful and universal model-independent constraints on the possible relevant operators for critical phenomena in quantum spin models in arbitrary high dimensions.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.15542",
-    "timestamp": "2026-08-18T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.15542"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-18T04:00:00Z",
-    "id": "energy-7a84d7d4fb31a6b1"
-  },
-  {
-    "title": "zenDot: An LLM-integrated quantum TCAD platform for semiconductor quantum-device design and optimization automation",
-    "summary": "arXiv:2608.16048v1 Announce Type: cross Abstract: Semiconductor quantum-device design still lacks an integrated Technology Computer-Aided Design (TCAD)-like environment that connects material geometry, quantum many-body simulation, and automated design. Here we introduce zenDot, a large-language model (LLM)-integrated quantum TCAD platform that links a material-labelled device state to a unified condensed-matter physics toolbox. The device and calculation components are integrated into a desktop workbench, Python API, and an embedded LLM agent, allowing electrostatics, charge and transport characterization, correlated-state calculations, and qubit modelling to be executed within one reproducible environment. We demonstrate zenDot on a Si/SiO2 double quantum dot, where a single device state reproduces the characterization workflow and supports hybrid, tunnel-charge, and singlet-triplet qubit analyses. A platform-level universal-control scan revises the singlet-triplet operating point and reduces the predicted worst-gate infidelity by nearly 30-fold. Beyond analysis, the LLM agent directly operates the same physics environment as human users, proposing design changes, executing regi…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.16048",
-    "timestamp": "2026-08-18T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.16048"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-18T04:00:00Z",
-    "id": "energy-a8b0a28673dd4eb2"
-  },
-  {
-    "title": "Why Is Nicomachus' Identity Special?",
-    "summary": "arXiv:2608.15294v1 Announce Type: new Abstract: Nicomachus' identity $\\sum_{k=1}^{n} k^3 = \\left(\\sum_{k=1}^{n} k\\right)^2$ is familiar, but the structure behind it is less often emphasized. We begin with Nicomachus' original pattern, in which successive cubes are expressed as successive blocks of consecutive odd integers, and show how triangular numbers naturally enter the resulting sum-of-cubes identity. We then reverse the usual triangular-number argument and start from a general difference of squares representing $n^p$ as a sum of $n$ consecutive odd integers. This construction is possible for every $p\\geq 2$, but only for $p=3$ do the two squares correspond to consecutive triangular numbers, which explains why Nicomachus' odd-number blocks fit together without gaps or repetitions. Finally, using the leading terms of the Faulhaber polynomials, we show that, apart from the trivial case, Nicomachus' identity is the unique relation of the form $S_s(N)=S_1(N)^r$ for positive integer exponents.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.15294",
-    "timestamp": "2026-08-18T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.15294"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-18T04:00:00Z",
-    "id": "energy-27c5e51d4efd5ed6"
-  },
-  {
-    "title": "Team Falcons Record vs EU since 2024",
-    "summary": "Hopefully i didn't miss any submitted by /u/mrabu3abd12 [link] [comments]",
+    "title": "If there was one thing you would change about the format what would it be?",
+    "summary": "By “format,” I don’t only mean the format of the Majors or LAN events, but rather the qualification systems, scheduling, number of LANs, etc.. anything related to enhancing the quality of RLCS while taking logistical limitations into consideration. submitted by /u/Used_Worldliness_287 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vrcbra/team_falcons_record_vs_eu_since_2024/",
-    "timestamp": "2026-08-18T02:20:30Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vsd5p4/if_there_was_one_thing_you_would_change_about_the/",
+    "timestamp": "2026-08-19T05:21:03Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vrcbra/team_falcons_record_vs_eu_since_2024/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vsd5p4/if_there_was_one_thing_you_would_change_about_the/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-18T02:20:30Z",
-    "id": "energy-c2a9c766062a5458"
+    "data_as_of": "2026-08-19T05:21:03Z",
+    "id": "energy-efdc67ec5cd6b42b"
   },
   {
-    "title": "Rocket Baguette nominated for \"Best Content\" @ Esports Awards 2026",
-    "summary": "https://x.com/esportsawards/status/2089382367307686339?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
+    "title": "Zeta functions and the Fried conjecture for smooth pseudo-Anosov flows",
+    "summary": "arXiv:2409.17014v2 Announce Type: replace Abstract: To a transitive pseudo-Anosov flow $\\varphi$ on a $3$-manifold $M$ and a representation $\\rho$ of $\\pi_1(M)$, we associate a zeta function $\\zeta_{\\varphi,\\rho}(s)$ defined for $\\Re s \\gg 1$, generalizing the Anosov case. For a class of ``smooth pseudo-Anosov flows'', we prove that $\\zeta_{\\varphi,\\rho}(s)$ has a meromorphic continuation to $\\mathbb{C}$. We also prove a version of the Fried conjecture for smooth pseudo-Anosov flows which, under some conditions on $\\rho$, relates $\\zeta_{\\varphi,\\rho}(0)$ to the Reidemeister torsion of $M$. Finally we prove a topological analogue of the Dirichlet class number formula. In order to deal with singularities, we use $C^\\infty$ versions of the approaches of Rugh and Sanchez--Morgado, based on Markov partitions.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2409.17014",
+    "timestamp": "2026-08-19T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2409.17014"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-19T04:00:00Z",
+    "id": "energy-e7feded2105a7064"
+  },
+  {
+    "title": "Zariski-Dense Monodromy of Singular Hyperbolic Metrics on Non-Hyperbolic Riemann Surfaces",
+    "summary": "arXiv:2608.17936v1 Announce Type: new Abstract: We prove that the monodromy group of every singular hyperbolic metric on a non-hyperbolic Riemann surface, in the sense of potential theory, is Zariski dense in ${\\rm PSL}(2,\\mathbb{R})$, confirming a conjecture of the authors. The main new step is to show that a singular hyperbolic metric on an arbitrary parabolic Riemann surface cannot have monodromy contained in a conjugate of the real affine subgroup of ${\\rm PSL}(2,\\mathbb{R})$. The same argument also gives a direct proof in the compact case. Combined with the nonexistence results for the remaining proper subgroup types, this proves the conjecture.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.17936",
+    "timestamp": "2026-08-19T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.17936"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-19T04:00:00Z",
+    "id": "energy-ec77b14a90e2939e"
+  },
+  {
+    "title": "Witt rings, Pfister forms, and equivariant birational geometry",
+    "summary": "arXiv:2608.17821v1 Announce Type: new Abstract: We study equivariant birational geometry of quadrics with actions of finite groups and develop analogs of Witt groups and Pfister theory in the equivariant context.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.17821",
+    "timestamp": "2026-08-19T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.17821"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-19T04:00:00Z",
+    "id": "energy-13c8d1d1f2764ad5"
+  },
+  {
+    "title": "Does anybody else think 1s RLCS is going to blow up over time?",
+    "summary": "Does anybody else find watching 1v1 more entertaining than 3s? It just seems so much more on a knife edge and dramatic. Plus since it's 1v1, rivalries are so much deeper.. instead of teams having rivalries its just two people. Like Scrub Killa v Fairy Peak back in the day, or Zen vs RW9 at the end of Zen's 1s streak. I just think there's way more potential for salt in this game mode, and I think this will play out over time in RLCS when rivalries start forming across seasons. I also believe that there will eventually be more long-term champions, since obviously players cant switch teams, which I like.. since 3s sometimes feels like a bit of a coin toss for which team will come out on top these days. Just vouching for 1s RLCS in general, I hope more focus gets put on it. submitted by /u/ichishibe [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vr710v/rocket_baguette_nominated_for_best_content/",
-    "timestamp": "2026-08-17T22:30:02Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vs6d5y/does_anybody_else_think_1s_rlcs_is_going_to_blow/",
+    "timestamp": "2026-08-19T00:01:49Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vr710v/rocket_baguette_nominated_for_best_content/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vs6d5y/does_anybody_else_think_1s_rlcs_is_going_to_blow/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-17T22:30:02Z",
-    "id": "energy-eabd8581b902ba1f"
+    "data_as_of": "2026-08-19T00:01:49Z",
+    "id": "energy-5fba0cf5195631a1"
   },
   {
-    "title": "Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’",
-    "summary": "Star Trek: Elite Force 2 was one of many games and movies that were affected in the aftermath of the 9/11 attacks",
+    "title": "Is Steam Down? Is It Tuesday? Great News, It’s Probably Just Maintenance Day",
+    "summary": "The more you know",
     "source": "Kotaku",
-    "url": "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110",
-    "timestamp": "2026-08-17T22:00:45Z",
+    "url": "https://kotaku.com/steam-down-tuesday-maintenance-2000725528",
+    "timestamp": "2026-08-18T23:00:49Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110"
+      "https://kotaku.com/steam-down-tuesday-maintenance-2000725528"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-17T22:00:45Z",
-    "id": "energy-4f897230c5742672"
+    "data_as_of": "2026-08-18T23:00:49Z",
+    "id": "energy-1c40f37002b93b95"
   },
   {
-    "title": "The Week In Games: A Co-Op RPG Inspired By Morrowind",
-    "summary": "And Steins;Gate Re:Boot is here to commit more heinous punctuation crimes",
+    "title": "All The New Details We Spotted In The Leaked GTA 6 Videos: Six-Star Wanted Level, Gas Meter, Improved Combat, Boosting Stats With Basketball",
+    "summary": "Rockstar's massive open-world game has leaked once again and revealed some new details in the process",
     "source": "Kotaku",
-    "url": "https://kotaku.com/the-week-in-games-a-co-op-rpg-inspired-by-morrowind-2000725112",
-    "timestamp": "2026-08-17T21:30:28Z",
+    "url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524",
+    "timestamp": "2026-08-18T22:49:48Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/the-week-in-games-a-co-op-rpg-inspired-by-morrowind-2000725112"
+      "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-17T21:30:28Z",
-    "id": "energy-e80645f8423169fc"
+    "data_as_of": "2026-08-18T22:49:48Z",
+    "id": "energy-b147470a3687db73"
   },
   {
-    "title": "Midwest Grid Operator Aims To Fast-Track Power Projects",
-    "summary": "By Joey Harris Even before the buildout of data centers drew more public attention to the state of the U.S. electric grid, many of the organizations that have a role in running it were voicing concerns about supply and demand. Not enough new sources of power are being connected to the grid in time to […]",
+    "title": "Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software",
+    "summary": "NTE players in China spotted the watermark for a free version of the Doubao AI software on the artwork for a seahorse in the game's new update",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370",
+    "timestamp": "2026-08-18T22:00:10Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-18T22:00:10Z",
+    "id": "energy-456501405a7b3949"
+  },
+  {
+    "title": "FERC Approves MISO Cost Allocation Plan For Transmission Outside Region",
+    "summary": "By Thomas Tiernan • PJM utilities to build lines for MISO needs • FERC rejects competitive bidding argument The Federal Energy Regulatory Commission approved a hotly contested cost allocation plan for the Midcontinent Independent System Operator applying to multiple transmission facilities being developed outside of the MISO region. The Aug. 14 order tackles thorny issues […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/midwest-grid-operator-aims-to-fast-track-power-projects/",
-    "timestamp": "2026-08-17T14:51:22Z",
+    "url": "https://misoxenwatch.com/2026/08/ferc-approves-miso-cost-allocation-plan-for-transmission-outside-region/",
+    "timestamp": "2026-08-18T14:45:11Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/midwest-grid-operator-aims-to-fast-track-power-projects/"
+      "https://misoxenwatch.com/2026/08/ferc-approves-miso-cost-allocation-plan-for-transmission-outside-region/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-17T14:51:22Z",
-    "id": "energy-5f6b62f26d749d78"
+    "data_as_of": "2026-08-18T14:45:11Z",
+    "id": "energy-0e41f7a15b7cf7b5"
   },
   {
-    "title": "MISO Defends Wisconsin Transmission Award Against ATC Challenge",
-    "summary": "By Leah Garden • MISO defends $349M Wisconsin project award • Grid operator reassigns three substations The Midcontinent Independent System Operator denied assertions that it misapplied tariff requirements when it selected a developer for a Wisconsin transmission project, telling federal regulators Aug. 12 that it properly balanced competing obligations under existing rules. MISO’s answer to […]",
+    "title": "FERC Approves MISO Cost Recovery Plan For Transmission Projects Built In PJM",
+    "summary": "By Ethan Howland Dive Brief • The Federal Energy Regulatory Commission on Friday approved a cost allocation framework for transmission projects sought by the Midcontinent Independent System Operator but built in the PJM Interconnection’s footprint. • Under the approved framework, Exelon’s Commonwealth Edison is set to build one group of projects totaling about $904 million […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/miso-defends-wisconsin-transmission-award-against-atc-challenge/",
-    "timestamp": "2026-08-17T14:50:33Z",
+    "url": "https://misoxenwatch.com/2026/08/ferc-approves-miso-cost-recovery-plan-for-transmission-projects-built-in-pjm/",
+    "timestamp": "2026-08-18T14:44:10Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/miso-defends-wisconsin-transmission-award-against-atc-challenge/"
+      "https://misoxenwatch.com/2026/08/ferc-approves-miso-cost-recovery-plan-for-transmission-projects-built-in-pjm/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-17T14:50:33Z",
-    "id": "energy-c684020738916dd0"
+    "data_as_of": "2026-08-18T14:44:10Z",
+    "id": "energy-d12bcb09d705d8a8"
   },
   {
-    "title": "SPP, MISO Wholesale Power Prices At Triple Digits On Heat Advisories",
-    "summary": "By Ronnie Turner • SPP under resource advisory; MISO in hot weather alert • SPP South Hub real-time power rises to $194/MWh Wholesale real-time power prices across the Southwest Power Pool and Midcontinent Independent System Operator markets surged into triple digits on Aug. 14 after the two grid operators issued advisories related to severe heat […]",
+    "title": "FERC Grants RTOs Extra Time To Update Tariffs For Large-Load Grid Connections",
+    "summary": "By Leah Garden • RTOs receive 90-day tariff deadline extension from FERC • Six grid operators cite need for stakeholder input The US Federal Energy Regulatory Commission granted six US regional transmission organizations the additional time they requested to adjust their tariffs to better address the surge in large-load interconnection requests Aug. 14. The California […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/spp-miso-wholesale-power-prices-at-triple-digits-on-heat-advisories/",
-    "timestamp": "2026-08-17T14:50:01Z",
+    "url": "https://misoxenwatch.com/2026/08/ferc-grants-rtos-extra-time-to-update-tariffs-for-large-load-grid-connections/",
+    "timestamp": "2026-08-18T14:43:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/spp-miso-wholesale-power-prices-at-triple-digits-on-heat-advisories/"
+      "https://misoxenwatch.com/2026/08/ferc-grants-rtos-extra-time-to-update-tariffs-for-large-load-grid-connections/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-17T14:50:01Z",
-    "id": "energy-a7a2611edd1d874b"
+    "data_as_of": "2026-08-18T14:43:22Z",
+    "id": "energy-02b6036b7b6fcc1c"
+  },
+  {
+    "title": "FrozenPlain updates Floe, its FREE sample library player",
+    "summary": "FrozenPlain has released Floe 2.0, a major update to its free and open-source sample library player for Windows, macOS, and Linux. We covered Floe in beta last year, when it was already looking like a more modern successor to FrozenPlain’s older Mirage engine. Version 2.0 feels like a big update, and it’s worth checking out [...] View post: FrozenPlain updates Floe, its FREE sample library player",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/18/frozenplain-floe-update/",
+    "timestamp": "2026-08-18T14:08:39Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/18/frozenplain-floe-update/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-18T14:08:39Z",
+    "id": "energy-77e09d6be53ad9c4"
+  },
+  {
+    "title": "Beatport bans fully AI-generated music with new detection tool",
+    "summary": "Beatport has expanded its partnership with Beatdapp to detect and block AI-generated music before it reaches the online store. The policy itself is not new, as Beatport announced its stance on AI-generated music in January 2025, but the important change lies in how it’s enforced. Under the updated content guidelines, tracks identified as fully or [...] View post: Beatport bans fully AI-generated music with new detection tool",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/18/beatport-bans-ai-music/",
+    "timestamp": "2026-08-18T13:54:40Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/18/beatport-bans-ai-music/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-18T13:54:40Z",
+    "id": "energy-1c61762a0537faa5"
   },
   {
     "title": "Sweet Audio Scintillate is the FREE KVR Developer Challenge 2026 winner",
@@ -358,41 +412,5 @@
     "primary_source": false,
     "data_as_of": "2026-08-17T12:22:33Z",
     "id": "energy-a4c545f2db7dda63"
-  },
-  {
-    "title": "CarbonDSP releases Vellum and Biased as FREE Windows plugins",
-    "summary": "CarbonDSP has launched its first four audio plugins, including two freebies for Windows users. The free pair is Vellum, a vocal-focused reverb, and Biased, a component-modeled tube preamp. The other two launch products are paid dynamics processors. Black Ion 76 is a FET limiter inspired by the classic 1176-style circuit, while Carbon CL-610 is based [...] View post: CarbonDSP releases Vellum and Biased as FREE Windows plugins",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/17/carbondsp-vellum-biased/",
-    "timestamp": "2026-08-17T12:13:39Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/17/carbondsp-vellum-biased/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-17T12:13:39Z",
-    "id": "energy-375bfd49b5964067"
-  },
-  {
-    "title": "Pro2Max releases Unirock HumStrat, a FREE 1.7 GB electric guitar plugin",
-    "summary": "Pro2Max has released Unirock HumStrat, a free HSS electric guitar virtual instrument for Windows. HumStrat is available as a VST3 plugin and a standalone application. The important detail is that this is not a lite edition or teaser version of a larger instrument. The complete instrument is free, with no paid upgrade or feature-restricted tier [...] View post: Pro2Max releases Unirock HumStrat, a FREE 1.7 GB electric guitar plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/17/pro2max-unirock-humstrat/",
-    "timestamp": "2026-08-17T11:55:31Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/17/pro2max-unirock-humstrat/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-17T11:55:31Z",
-    "id": "energy-6b613bbecb87f691"
   }
 ]
