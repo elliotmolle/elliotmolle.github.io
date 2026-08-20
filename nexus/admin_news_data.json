@@ -1,21 +1,399 @@
 [
   {
-    "title": "'The Sims 4' Is Getting Two Classic Teen Movies-Inspired Kits",
-    "summary": "Sims can get ready to rule the high school halls with the Mean Girls and Clueless Capsule kits coming to The Sims 4 this month.",
+    "title": "Nintendo Switch 2 Officially Just Got One of the Decade's Best Games",
+    "summary": "1000xResist is now on Nintendo Switch 2 with upgraded visuals and performance. A physical copy is also available for preorder.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-sims-4-mean-girls-clueless-capsule-kits/",
-    "timestamp": "2026-08-19T10:12:32Z",
+    "url": "https://www.polygon.com/1000xresist-nintendo-switch-2-release-fyi/",
+    "timestamp": "2026-08-20T10:00:13Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/the-sims-4-mean-girls-clueless-capsule-kits/"
+      "https://www.polygon.com/1000xresist-nintendo-switch-2-release-fyi/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-19T10:12:32Z",
-    "id": "energy-7b853fd6d2ec1162"
+    "data_as_of": "2026-08-20T10:00:13Z",
+    "id": "energy-255880cebc8e8f90"
+  },
+  {
+    "title": "Nobody understands gambling, especially in video games",
+    "summary": "What is gambling? Strategic deck-builders like Luck Be A Landlord and Balatro have both been hit with high age-ratings by app stores and ratings boards, because the games are associated with gambling. Both are one-time purchases with no microtransactions, and no ties to gambling other than visuals borrwed from the casino world: slot machines and poker hands, respectively. Meanwhile, loot boxes and gacha games, which actually do have exploitative mechanics, seem to slide by ratings boards without much trouble. So what, actually, is gambling? And how do we talk about it in 2025, when gambling is everywhere?",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/video/nobody-understands-gambling-especially-in-video-games/",
+    "timestamp": "2026-08-20T09:24:56Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/video/nobody-understands-gambling-especially-in-video-games/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-20T09:24:56Z",
+    "id": "energy-cc23dd422573429f"
+  },
+  {
+    "title": "A brief history of Nintendo NOT letting you play as Zelda",
+    "summary": "The Legend of Zelda: Echoes of Wisdom is a big deal for the franchise because it’s finally the first MAINLINE game where you get to play as Princess Zelda. But it’s actually not the first game where you can play as Zelda. Not by a slingshot. Polygon's Clayton Ashley walks through a history of Hyrule's princess and the games in which she's playable — from the Philips CD-I, to Smash Bros., and beyond!",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/video/a-brief-history-of-nintendo-not-letting-you-play-as-zelda/",
+    "timestamp": "2026-08-20T09:19:23Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/video/a-brief-history-of-nintendo-not-letting-you-play-as-zelda/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-20T09:19:23Z",
+    "id": "energy-c3eb209f46ffc540"
+  },
+  {
+    "title": "Don't Paste the AI, please",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://dontpastetheai.com/",
+    "timestamp": "2026-08-20T08:20:44Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://dontpastetheai.com/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-20T08:20:44Z",
+    "id": "energy-d65252a4fb655d91"
+  },
+  {
+    "title": "Windows brings out the Rorschach test in everyone",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "timestamp": "2026-08-20T06:16:40Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-20T06:16:40Z",
+    "id": "energy-24a28ebf73cc276f"
+  },
+  {
+    "title": "Witt groups of smooth real curves and surfaces",
+    "summary": "arXiv:2608.18599v1 Announce Type: new Abstract: We study the $\\mathbf{I}^*$-cohomology of a smooth real algebraic curve $X$ in terms of its real locus and its geometric genus. We notably extend results of Monnier to the twisted case, which is crucial to the understanding of proper pushforwards of Witt groups. We also perform some computations related to transfers along the finite \\'etale extension $\\mathbb{C}/\\mathbb{R}$. We further describe how to compute twisted Witt groups of surfaces, extending work of Sujatha, and the image of the global signature homomorphism following Monnier. As an application of the main methods of the paper, we describe the shifted and twisted Witt groups of smooth anisotropic quadrics over $\\mathbb{R}$ of dimension $\\leq 3$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.18599",
+    "timestamp": "2026-08-20T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.18599"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-20T04:00:00Z",
+    "id": "energy-f0f0229346afdd0d"
+  },
+  {
+    "title": "Wilf Equivalence for Length-Three Patterns and Flat POPs, and a Conjecture of Qiu and Remmel",
+    "summary": "arXiv:2608.18461v1 Announce Type: new Abstract: It is well known that, for each classical pattern $\\tau$ of length 3, the number of $\\tau$-avoiding permutations of length $n$ is the $n$th Catalan number, and numerous bijections between different length-three avoidance classes have been constructed and studied. In this paper, we refine this classical problem by studying Wilf equivalence among permutations that simultaneously avoid a classical pattern of length three and a flat partially ordered pattern. Partially ordered patterns (POPs) provide a flexible framework for encoding families of classical permutation patterns. For $\\ell\\geq 3$ and $1\\leq x\\leq\\ell$, let $P_{\\ell,x}$ be the length-$\\ell$ POP in which the entry at position $x$ is required to be smaller than all the other entries, while no relations are imposed among the remaining entries. Such POPs are called flat POPs. We classify the Wilf equivalences among all pairs $(\\tau,P_{\\ell,x})$, where $\\tau$ is a classical pattern of length three. For every $\\ell\\geq4$, the resulting $6\\ell$ pairs form exactly $2\\ell-1$ Wilf equivalence classes, while the exceptional case $\\ell=3$ gives four classes. Our proofs combine the deriv…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.18461",
+    "timestamp": "2026-08-20T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.18461"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-20T04:00:00Z",
+    "id": "energy-bc1c9ec75217bcf2"
+  },
+  {
+    "title": "Wideband Compressed-Domain Cramer-Rao Bounds for Near-Field XL-MIMO: Data and Geometric Diversity Decomposition",
+    "summary": "arXiv:2604.08531v3 Announce Type: replace-cross Abstract: Wideband orthogonal frequency-division multiplexing (OFDM) over near-field extremely large-scale MIMO (XL-MIMO) arrays couples beam squint and wavefront curvature, and existing single-frequency compressed covariance models are severely biased as a result. To the best of our knowledge, no compressed-domain Cramer-Rao bound (CRB) has been reported for this regime under hybrid analog-digital architectures; existing wideband near-field bounds assume full-array observation. We derive the wideband compressed-domain CRB and decompose its Fisher information gain into two terms: a dominant data-diversity term, exactly 10 log10(Ks) dB, where Ks denotes the number of independent subcarrier observations, and we prove that for a centred array the full-array range bound is invariant to beam squint, so the full-array wideband gain equals the data-diversity term to within 3x10^-4 dB. Under hybrid compression, however, this invariance breaks: the residual is a combiner-dependent fluctuation of either sign rather than a propagation-geometry effect, with mean +0.157 dB and standard deviation 0.767 dB over 385 realizations at N_RF = 16, B = 40…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2604.08531",
+    "timestamp": "2026-08-20T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2604.08531"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-20T04:00:00Z",
+    "id": "energy-134dd60244709273"
+  },
+  {
+    "title": "Turns are Better than Radians (2022)",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+    "timestamp": "2026-08-20T01:29:12Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.computerenhance.com/p/turns-are-better-than-radians"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-20T01:29:12Z",
+    "id": "energy-360b483da21ce0e5"
+  },
+  {
+    "title": "Every season in the Open Era has had an Org that won two International 3v3 LANs. Will one of M8, KC or Falcons countine this Streak?",
+    "summary": "And let's not forget the most important and significant streak: M0nkey M00n winning worlds every two years at Dickies Arena submitted by /u/mrabu3abd12 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt3rw6/every_season_in_the_open_era_has_had_an_org_that/",
+    "timestamp": "2026-08-20T00:11:13Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt3rw6/every_season_in_the_open_era_has_had_an_org_that/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-20T00:11:13Z",
+    "id": "energy-7968834127eeb5db"
+  },
+  {
+    "title": "Top Rated Teams at EWC",
+    "summary": "Some interesting stats: Falcons Received the least demos. Twisted had the most Goals per game, but were 4th worst at goals conceded. KC went to 4 OTs, lost all. submitted by /u/Huge-Computer2037 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt3k0j/top_rated_teams_at_ewc/",
+    "timestamp": "2026-08-20T00:01:42Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt3k0j/top_rated_teams_at_ewc/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-20T00:01:42Z",
+    "id": "energy-cdf279cea9fe4f46"
+  },
+  {
+    "title": "RLCS 2026 World Championship prediction",
+    "summary": "Very excited to see how teams do submitted by /u/ibro2X09 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt2x1l/rlcs_2026_world_championship_prediction/",
+    "timestamp": "2026-08-19T23:34:56Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt2x1l/rlcs_2026_world_championship_prediction/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-19T23:34:56Z",
+    "id": "energy-33bf93a7e3a71eb7"
+  },
+  {
+    "title": "Pokémon’s 30th Anniversary Set Might Be Making A Mysterious New Mew Card The Rarest Ever",
+    "summary": "A new rumor claims the card will have a 1 in 20,000 pull rate",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936",
+    "timestamp": "2026-08-19T21:37:29Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T21:37:29Z",
+    "id": "energy-ab5fc470364bc83c"
+  },
+  {
+    "title": "Witcher 3 Dev Explains How Ultra Realistic NPCs Created Weird Problems: ‘Women Were Just Dropping Their Babies Left And Right’",
+    "summary": "A commitment to realism had some unintended consequences",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923",
+    "timestamp": "2026-08-19T20:13:01Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T20:13:01Z",
+    "id": "energy-9cd3d231a68859dd"
+  },
+  {
+    "title": "Dire Forecast Predicts 39 Million Fewer Consoles Sold If PS6 And Xbox Helix Are $1,000",
+    "summary": "Console gaming could continue to shrink if something doesn't change",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914",
+    "timestamp": "2026-08-19T18:45:31Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T18:45:31Z",
+    "id": "energy-329e21831795ffd4"
+  },
+  {
+    "title": "Burst Of New Solar Power Makes Midwest Grid The Biggest In US",
+    "summary": "By Emma Haidar Growing solar power in a swath of the US Midwest dominated by Republican leadership has led that region’s electric grid to become the nation’s biggest in terms of electric supply. The Midcontinent Independent System Operator, which provides power to 45 million people in 15 states including Indiana and Missouri, overtook PJM Interconnection […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/burst-of-new-solar-power-makes-midwest-grid-the-biggest-in-us/",
+    "timestamp": "2026-08-19T14:52:17Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/burst-of-new-solar-power-makes-midwest-grid-the-biggest-in-us/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-19T14:52:17Z",
+    "id": "energy-6ec1f4b5be6f1da9"
+  },
+  {
+    "title": "FERC Greenlights MISO Assignment Of Some Long-Range Tx Projects to PJM TOs",
+    "summary": "By Amanda Durish Cook FERC ruled MISO can circumvent a competitive bidding process when it taps PJM transmission owners to build parts of its long-range transmission projects that cross into the neighboring RTO (ER26-1538, et al.). Why This Matters MISO needs PJM transmission owners to build some of its second long-range transmission portfolio because the […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/ferc-greenlights-miso-assignment-of-some-long-range-tx-projects-to-pjm-tos/",
+    "timestamp": "2026-08-19T14:51:46Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/ferc-greenlights-miso-assignment-of-some-long-range-tx-projects-to-pjm-tos/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-19T14:51:46Z",
+    "id": "energy-c394c3422bc5743d"
+  },
+  {
+    "title": "MISO, SPP Find 1 Joint Study Project That Shows Promise",
+    "summary": "By Tom Kleckner MISO and SPP staffs have given stakeholders until Sept. 4 to provide feedback on their “near-final” 2024-2025 Coordinated System Plan’s (CSP) Core and Core+ 500-kV portfolios. The RTO’s staffs said during an Interregional Planning Stakeholder Advisory Committee meeting Aug. 14 that they want input on the portfolios’ supplemental benefits. MISO’s Khristopher Barringer […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/08/miso-spp-find-1-joint-study-project-that-shows-promise/",
+    "timestamp": "2026-08-19T14:50:53Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/08/miso-spp-find-1-joint-study-project-that-shows-promise/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-08-19T14:50:53Z",
+    "id": "energy-fd5ff543ba520d36"
+  },
+  {
+    "title": "Stemwire offers Zero Sweep Filter and Subkeeper Saturator for FREE",
+    "summary": "Stemwire has released Zero Sweep Filter and Subkeeper Saturator, two freeware effects for macOS and Windows. I love the minimal design of these plugins. White on black looks clean, and I think it fits the general idea behind these plugins because they both address a specific production problem without adding a bunch of controls you [...] View post: Stemwire offers Zero Sweep Filter and Subkeeper Saturator for FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/19/stemwire-subkeeper-filter/",
+    "timestamp": "2026-08-19T14:47:47Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/19/stemwire-subkeeper-filter/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T14:47:47Z",
+    "id": "energy-cdbe048fcf087e0a"
+  },
+  {
+    "title": "Venus Theory releases forms:steel, a FREE handpan library for Decent Sampler",
+    "summary": "Venus Theory has released forms:steel Free Edition, a free handpan library for Decent Sampler. We have covered a lot of Venus Theory freebies on BPB, including forms:tongues, forms:piano, and several Auras instruments. If you enjoyed those, this one is a super easy recommendation. forms:steel has the same layout and quality I expect from Venus Theory’s [...] View post: Venus Theory releases forms:steel, a FREE handpan library for Decent Sampler",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/19/venus-theory-formssteel/",
+    "timestamp": "2026-08-19T14:02:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/19/venus-theory-formssteel/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T14:02:08Z",
+    "id": "energy-f2a32b73ffc65daa"
+  },
+  {
+    "title": "dBdone releases Feuer, a FREE drum loop mangler that surprised me",
+    "summary": "dBdone has released Feuer, a free creative drum-processing plugin for macOS and Windows that’s a lot more fun than I anticipated. We recently covered dBdone Glas, a free spectral chaos plugin for turning pads, synths, and vocals into glassy textures. Feuer is somewhat similar, but aimed at drums, percussion, breaks, and rhythmic loops. Anyway, based [...] View post: dBdone releases Feuer, a FREE drum loop mangler that surprised me",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/19/dbdone-feuer/",
+    "timestamp": "2026-08-19T13:26:56Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/19/dbdone-feuer/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-19T13:26:56Z",
+    "id": "energy-87f0101a3a7b468c"
   },
   {
     "title": "He helped Uruguay decarbonize. Can he help other countries do the same?",
@@ -34,383 +412,5 @@
     "primary_source": false,
     "data_as_of": "2026-08-19T10:03:31Z",
     "id": "energy-61dc155d49c557e7"
-  },
-  {
-    "title": "28 Years Later, Jim Carrey's Most Unhinged Movie Performance of All Time Is Officially Free on Streaming",
-    "summary": "The 1998 Jim Carrey masterpiece predicted the century of reality TV and social media, but it has a deeper spiritual resonance",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-truman-show-movies-free-streaming-august-2026/",
-    "timestamp": "2026-08-19T10:00:13Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/the-truman-show-movies-free-streaming-august-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-19T10:00:13Z",
-    "id": "energy-6ec8f10f5bf9d73e"
-  },
-  {
-    "title": "Crunchyroll Store Removes Tons of Physical Products After Being Locked Behind Subscription",
-    "summary": "The Crunchyroll Store no longer lists physical products such as manga, manhwa, and light novels.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/crunchyroll-store-removes-physical-products-manga-anime/",
-    "timestamp": "2026-08-19T09:46:37Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/crunchyroll-store-removes-physical-products-manga-anime/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-19T09:46:37Z",
-    "id": "energy-14433017ab68bcd6"
-  },
-  {
-    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.modular.com/blog/modcon-announcements",
-    "timestamp": "2026-08-19T07:47:19Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.modular.com/blog/modcon-announcements"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-19T07:47:19Z",
-    "id": "energy-b17cae4d53844562"
-  },
-  {
-    "title": "Where Human Sleep Went Wrong",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
-    "timestamp": "2026-08-19T07:40:32Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://nautil.us/where-human-sleep-went-wrong-1283797"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-19T07:40:32Z",
-    "id": "energy-ab1622a827a6b71e"
-  },
-  {
-    "title": "λλ: A Programming Language for Silicon Photonics",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-    "timestamp": "2026-08-19T06:09:16Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://dl.acm.org/doi/10.1145/3789240.3829151"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-19T06:09:16Z",
-    "id": "energy-a3394628c983ff30"
-  },
-  {
-    "title": "What are the top 5 teams heading into worlds?",
-    "summary": "Its really hard to tell judging by the recent EWC 2026 event since many underdogs managed to win/deliver and many teams were underperforming. My picks though are falcons, twisted minds, karmine corp if they can get on good form, and same with gentle mates. However it is really back and forth and hit and miss with alot of the teams so my consistent picks are falcons and twisted minds. Id like to hear your guys thoughts submitted by /u/Low_Weekend6131 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vse1c8/what_are_the_top_5_teams_heading_into_worlds/",
-    "timestamp": "2026-08-19T06:08:43Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vse1c8/what_are_the_top_5_teams_heading_into_worlds/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-19T06:08:43Z",
-    "id": "energy-4cf80923694363a1"
-  },
-  {
-    "title": "If there was one thing you would change about the format what would it be?",
-    "summary": "By “format,” I don’t only mean the format of the Majors or LAN events, but rather the qualification systems, scheduling, number of LANs, etc.. anything related to enhancing the quality of RLCS while taking logistical limitations into consideration. submitted by /u/Used_Worldliness_287 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vsd5p4/if_there_was_one_thing_you_would_change_about_the/",
-    "timestamp": "2026-08-19T05:21:03Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vsd5p4/if_there_was_one_thing_you_would_change_about_the/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-19T05:21:03Z",
-    "id": "energy-efdc67ec5cd6b42b"
-  },
-  {
-    "title": "Zeta functions and the Fried conjecture for smooth pseudo-Anosov flows",
-    "summary": "arXiv:2409.17014v2 Announce Type: replace Abstract: To a transitive pseudo-Anosov flow $\\varphi$ on a $3$-manifold $M$ and a representation $\\rho$ of $\\pi_1(M)$, we associate a zeta function $\\zeta_{\\varphi,\\rho}(s)$ defined for $\\Re s \\gg 1$, generalizing the Anosov case. For a class of ``smooth pseudo-Anosov flows'', we prove that $\\zeta_{\\varphi,\\rho}(s)$ has a meromorphic continuation to $\\mathbb{C}$. We also prove a version of the Fried conjecture for smooth pseudo-Anosov flows which, under some conditions on $\\rho$, relates $\\zeta_{\\varphi,\\rho}(0)$ to the Reidemeister torsion of $M$. Finally we prove a topological analogue of the Dirichlet class number formula. In order to deal with singularities, we use $C^\\infty$ versions of the approaches of Rugh and Sanchez--Morgado, based on Markov partitions.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2409.17014",
-    "timestamp": "2026-08-19T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2409.17014"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-19T04:00:00Z",
-    "id": "energy-e7feded2105a7064"
-  },
-  {
-    "title": "Zariski-Dense Monodromy of Singular Hyperbolic Metrics on Non-Hyperbolic Riemann Surfaces",
-    "summary": "arXiv:2608.17936v1 Announce Type: new Abstract: We prove that the monodromy group of every singular hyperbolic metric on a non-hyperbolic Riemann surface, in the sense of potential theory, is Zariski dense in ${\\rm PSL}(2,\\mathbb{R})$, confirming a conjecture of the authors. The main new step is to show that a singular hyperbolic metric on an arbitrary parabolic Riemann surface cannot have monodromy contained in a conjugate of the real affine subgroup of ${\\rm PSL}(2,\\mathbb{R})$. The same argument also gives a direct proof in the compact case. Combined with the nonexistence results for the remaining proper subgroup types, this proves the conjecture.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.17936",
-    "timestamp": "2026-08-19T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.17936"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-19T04:00:00Z",
-    "id": "energy-ec77b14a90e2939e"
-  },
-  {
-    "title": "Witt rings, Pfister forms, and equivariant birational geometry",
-    "summary": "arXiv:2608.17821v1 Announce Type: new Abstract: We study equivariant birational geometry of quadrics with actions of finite groups and develop analogs of Witt groups and Pfister theory in the equivariant context.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.17821",
-    "timestamp": "2026-08-19T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.17821"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-19T04:00:00Z",
-    "id": "energy-13c8d1d1f2764ad5"
-  },
-  {
-    "title": "Does anybody else think 1s RLCS is going to blow up over time?",
-    "summary": "Does anybody else find watching 1v1 more entertaining than 3s? It just seems so much more on a knife edge and dramatic. Plus since it's 1v1, rivalries are so much deeper.. instead of teams having rivalries its just two people. Like Scrub Killa v Fairy Peak back in the day, or Zen vs RW9 at the end of Zen's 1s streak. I just think there's way more potential for salt in this game mode, and I think this will play out over time in RLCS when rivalries start forming across seasons. I also believe that there will eventually be more long-term champions, since obviously players cant switch teams, which I like.. since 3s sometimes feels like a bit of a coin toss for which team will come out on top these days. Just vouching for 1s RLCS in general, I hope more focus gets put on it. submitted by /u/ichishibe [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vs6d5y/does_anybody_else_think_1s_rlcs_is_going_to_blow/",
-    "timestamp": "2026-08-19T00:01:49Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vs6d5y/does_anybody_else_think_1s_rlcs_is_going_to_blow/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-19T00:01:49Z",
-    "id": "energy-5fba0cf5195631a1"
-  },
-  {
-    "title": "Is Steam Down? Is It Tuesday? Great News, It’s Probably Just Maintenance Day",
-    "summary": "The more you know",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/steam-down-tuesday-maintenance-2000725528",
-    "timestamp": "2026-08-18T23:00:49Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/steam-down-tuesday-maintenance-2000725528"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-18T23:00:49Z",
-    "id": "energy-1c40f37002b93b95"
-  },
-  {
-    "title": "All The New Details We Spotted In The Leaked GTA 6 Videos: Six-Star Wanted Level, Gas Meter, Improved Combat, Boosting Stats With Basketball",
-    "summary": "Rockstar's massive open-world game has leaked once again and revealed some new details in the process",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524",
-    "timestamp": "2026-08-18T22:49:48Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-18T22:49:48Z",
-    "id": "energy-b147470a3687db73"
-  },
-  {
-    "title": "Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software",
-    "summary": "NTE players in China spotted the watermark for a free version of the Doubao AI software on the artwork for a seahorse in the game's new update",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370",
-    "timestamp": "2026-08-18T22:00:10Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-18T22:00:10Z",
-    "id": "energy-456501405a7b3949"
-  },
-  {
-    "title": "FERC Approves MISO Cost Allocation Plan For Transmission Outside Region",
-    "summary": "By Thomas Tiernan • PJM utilities to build lines for MISO needs • FERC rejects competitive bidding argument The Federal Energy Regulatory Commission approved a hotly contested cost allocation plan for the Midcontinent Independent System Operator applying to multiple transmission facilities being developed outside of the MISO region. The Aug. 14 order tackles thorny issues […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/ferc-approves-miso-cost-allocation-plan-for-transmission-outside-region/",
-    "timestamp": "2026-08-18T14:45:11Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/ferc-approves-miso-cost-allocation-plan-for-transmission-outside-region/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-18T14:45:11Z",
-    "id": "energy-0e41f7a15b7cf7b5"
-  },
-  {
-    "title": "FERC Approves MISO Cost Recovery Plan For Transmission Projects Built In PJM",
-    "summary": "By Ethan Howland Dive Brief • The Federal Energy Regulatory Commission on Friday approved a cost allocation framework for transmission projects sought by the Midcontinent Independent System Operator but built in the PJM Interconnection’s footprint. • Under the approved framework, Exelon’s Commonwealth Edison is set to build one group of projects totaling about $904 million […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/ferc-approves-miso-cost-recovery-plan-for-transmission-projects-built-in-pjm/",
-    "timestamp": "2026-08-18T14:44:10Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/ferc-approves-miso-cost-recovery-plan-for-transmission-projects-built-in-pjm/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-18T14:44:10Z",
-    "id": "energy-d12bcb09d705d8a8"
-  },
-  {
-    "title": "FERC Grants RTOs Extra Time To Update Tariffs For Large-Load Grid Connections",
-    "summary": "By Leah Garden • RTOs receive 90-day tariff deadline extension from FERC • Six grid operators cite need for stakeholder input The US Federal Energy Regulatory Commission granted six US regional transmission organizations the additional time they requested to adjust their tariffs to better address the surge in large-load interconnection requests Aug. 14. The California […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/ferc-grants-rtos-extra-time-to-update-tariffs-for-large-load-grid-connections/",
-    "timestamp": "2026-08-18T14:43:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/ferc-grants-rtos-extra-time-to-update-tariffs-for-large-load-grid-connections/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-18T14:43:22Z",
-    "id": "energy-02b6036b7b6fcc1c"
-  },
-  {
-    "title": "FrozenPlain updates Floe, its FREE sample library player",
-    "summary": "FrozenPlain has released Floe 2.0, a major update to its free and open-source sample library player for Windows, macOS, and Linux. We covered Floe in beta last year, when it was already looking like a more modern successor to FrozenPlain’s older Mirage engine. Version 2.0 feels like a big update, and it’s worth checking out [...] View post: FrozenPlain updates Floe, its FREE sample library player",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/18/frozenplain-floe-update/",
-    "timestamp": "2026-08-18T14:08:39Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/18/frozenplain-floe-update/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-18T14:08:39Z",
-    "id": "energy-77e09d6be53ad9c4"
-  },
-  {
-    "title": "Beatport bans fully AI-generated music with new detection tool",
-    "summary": "Beatport has expanded its partnership with Beatdapp to detect and block AI-generated music before it reaches the online store. The policy itself is not new, as Beatport announced its stance on AI-generated music in January 2025, but the important change lies in how it’s enforced. Under the updated content guidelines, tracks identified as fully or [...] View post: Beatport bans fully AI-generated music with new detection tool",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/18/beatport-bans-ai-music/",
-    "timestamp": "2026-08-18T13:54:40Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/18/beatport-bans-ai-music/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-18T13:54:40Z",
-    "id": "energy-1c61762a0537faa5"
-  },
-  {
-    "title": "Sweet Audio Scintillate is the FREE KVR Developer Challenge 2026 winner",
-    "summary": "Sweet Audio has recently released Scintillate, a free spectral reverb plugin for macOS and Windows. Scintillate is also the winner of the KVR Developer Challenge 2026, which is a pretty strong recommendation on its own. We covered the KVR Developer Challenge 26 when it launched, and James also looked at some of the free synths [...] View post: Sweet Audio Scintillate is the FREE KVR Developer Challenge 2026 winner",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/17/sweet-audio-scintillate/",
-    "timestamp": "2026-08-17T12:22:33Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/17/sweet-audio-scintillate/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-17T12:22:33Z",
-    "id": "energy-a4c545f2db7dda63"
   }
 ]

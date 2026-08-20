@@ -1,16 +1,16 @@
 [
   {
-    "title": "Copper melting behavior at extreme temperatures could inform fusion materials",
-    "summary": "Using SLAC’s electron camera, researchers recorded timestamps of solid copper atoms (orange) as they melted (yellow) after being blasted with laser heat. This graphic shows how copper atoms changed over a period of several femtoseconds (millionths of a billionth of a second), notated here as fractions of a picosecond. Instead of the predicted collapse, the researchers saw a gradual melting. (Image: Greg Stewart/SLAC National Accelerator Laboratory) The SLAC National Accelerator Laboratory has announced researchers have conducted experiments testing how copper melts under extreme conditions, such as those it might be exposed to in a fusion machine. The results, published in Nature Communications, found that a copper thin film was more resilient to melting than models had predicted, uncovering molecular dynamics that had been missing from calculations. “These results greatly improve the simulations we use to predict which materials have the best shot at surviving the extreme conditions of future fusion reaction chambers,” said Mianzhen Mo, the SLAC staff scientist who led the research.",
+    "title": "DOE’s Marla Morales talks with ANS’s Craig Piercy",
+    "summary": "A recent American Nuclear Society webinar featured an extended one-on-one conversation between ANS CEO Craig Piercy and Marla Morales, the acting deputy assistant secretary for spent fuel and high-level waste disposition at the Department of Energy’s Office of Nuclear Energy. The two discussed the future of the fuel cycle in the United States, especially as it relates to the Nuclear Lifecycle Innovation Campuses program launched by the DOE earlier this year.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-18/article-8305/copper-melting-behavior-at-extreme-temperatures-could-inform-fusion-materials/",
-    "timestamp": "2026-08-18T21:15:32Z",
+    "url": "https://www.ans.org/news/2026-08-19/article-8309/does-marla-morales-talks-with-anss-craig-piercy/",
+    "timestamp": "2026-08-19T20:40:00Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-18/article-8305/copper-melting-behavior-at-extreme-temperatures-could-inform-fusion-materials/"
+      "https://www.ans.org/news/2026-08-19/article-8309/does-marla-morales-talks-with-anss-craig-piercy/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,120 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-18T21:15:32Z",
-    "id": "energy-f905fca9a0e8ff95"
+    "data_as_of": "2026-08-19T20:40:00Z",
+    "id": "energy-108bf1e290513f14"
+  },
+  {
+    "title": "Indiana and Virginia Legislators’ Letter Regarding Surplus Interconnection Service",
+    "summary": "Updated Date: 08.19.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260819-in-and-va-legislators-letter-re-surplus-interconnection-service.pdf",
+    "timestamp": "2026-08-19T20:39:57Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260819-in-and-va-legislators-letter-re-surplus-interconnection-service.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-08-19T20:39:57Z",
+    "id": "energy-57fa66aa8139d08f"
+  },
+  {
+    "title": "Entergy Louisiana crew springs into action after Highway 89 rollover crash",
+    "summary": "On July 22, 2026, an Entergy Louisiana construction crew was on Highway 89 in X Parish installing and framing a pole for a new home. It was a typical midday job — until the quiet was broken by a sudden, violent crash.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-louisiana-crew-springs-into-action-after-highway-89-rollover-crash",
+    "timestamp": "2026-08-19T19:01:52Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-louisiana-crew-springs-into-action-after-highway-89-rollover-crash"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-19T19:01:52Z",
+    "id": "energy-d20d0d101741da34"
+  },
+  {
+    "title": "FANCO informs NRC of its intent to build HALEU fuel fabrication facility",
+    "summary": "First American Nuclear Co., developer of the 240-MWe EAGL-1 reactor, has announced its intention to make its own advanced reactor fuel. The Indianapolis-based company has filed a regulatory engagement plan with the Nuclear Regulatory Commission for the construction of a Category II high-assay low-enriched uranium deconversion and fuel fabrication facility, and the NRC has docketed the plan for consideration.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-19/article-8308/fanco-informs-nrc-of-its-intent-to-build-haleu-fuel-fabrication-facility/",
+    "timestamp": "2026-08-19T17:32:06Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-19/article-8308/fanco-informs-nrc-of-its-intent-to-build-haleu-fuel-fabrication-facility/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-19T17:32:06Z",
+    "id": "energy-4c757b5cbe400400"
+  },
+  {
+    "title": "Kinectrics to assess Clean Core’s fuel qualification program",
+    "summary": "Clean Core Thorium Energy announced that BWX Technologies–owned Kinectrics will conduct an independent technical review of its ANEEL (Advanced Nuclear Energy for Enriched Life) fuel qualification program. According to CCTE, Kinectrics will review key aspects of the fuel design, manufacturing, safety, and regulatory readiness.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-19/article-8307/kinectrics-to-assess-clean-cores-fuel-qualification-program/",
+    "timestamp": "2026-08-19T15:03:18Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-19/article-8307/kinectrics-to-assess-clean-cores-fuel-qualification-program/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-19T15:03:18Z",
+    "id": "energy-5fab76696d2a22d3"
+  },
+  {
+    "title": "ISO-NE files proposal with FERC to assume asset condition reviewer role",
+    "summary": "The proposal, which followed an extensive stakeholder engagement process, would increase oversight of regional transmission equipment replacements. The post ISO-NE files proposal with FERC to assume asset condition reviewer role appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/19/iso-ne-files-proposal-with-ferc-to-assume-asset-condition-reviewer-role/",
+    "timestamp": "2026-08-19T14:09:52Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/19/iso-ne-files-proposal-with-ferc-to-assume-asset-condition-reviewer-role/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-19T14:09:52Z",
+    "id": "energy-70175e4fbeb7d15e"
   },
   {
     "title": "Entergy Louisiana recognized as finalists across multiple 2026 Louisiana Energy Awards categories",
@@ -46,50 +158,6 @@
     "id": "energy-41fd2e17e17ae1c1"
   },
   {
-    "title": "Spain’s Almaraz operating license extended into 2030",
-    "summary": "The Spanish government has renewed for another three years the operating license of Almaraz nuclear power plant, the country’s largest power plant and a facility that was originally scheduled to shut down beginning next year as part of Spain’s plans to phase out nuclear energy. The license renewal—issued on August 12 by the Ministry for the Ecological Transition and the Demographic Challenge and posted publicly on August 14—extends the license of the two-unit, 2,017-MWe Almaraz through June 8, 2030.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-18/article-8304/spains-almaraz-operating-license-extended-into-2030/",
-    "timestamp": "2026-08-18T17:23:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-18/article-8304/spains-almaraz-operating-license-extended-into-2030/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-18T17:23:28Z",
-    "id": "energy-61e80283b657eb9c"
-  },
-  {
-    "title": "Disa Tech receives EA/FONSI for Mary Ann site, forms Disa Uranium",
-    "summary": "The Nuclear Regulatory Commission has issued an environmental assessment and finding of no significant impact to Disa Technologies for company’s use of its NRC-licensed high-pressure slurry ablation (HPSA) technology to remediate abandoned uranium mine (AUM) waste at the Mary Ann AUM waste pile site in Montrose County, Colo. Disa Tech, a Wyoming-based mineral processing company, submitted a premobilization notification to the NRC in March to use its HPSA technology at the Mary Ann site. The NRC is considering approval of the PMN, which would officially allow HPSA operations to proceed.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-18/article-8303/disa-tech-receives-eafonsi-for-mary-ann-site-forms-disa-uranium/",
-    "timestamp": "2026-08-18T15:36:12Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-18/article-8303/disa-tech-receives-eafonsi-for-mary-ann-site-forms-disa-uranium/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-18T15:36:12Z",
-    "id": "energy-c6926384f1b9814b"
-  },
-  {
     "title": "Entergy New Orleans volunteers help New Orleans residents “Beat the Heat”",
     "summary": "Entergy New Orleans partnered with Rebuilding Together New Orleans to help residents stay safe and cool during the summer months through a series of home weatherization events.",
     "source": "Entergy",
@@ -112,30 +180,6 @@
     ],
     "data_as_of": "2026-08-18T14:44:28Z",
     "id": "energy-1a3464e74ff1b0ec"
-  },
-  {
-    "title": "Helping customers navigate extreme heat: Tips to stay safe and manage your bill",
-    "summary": "To help keep our customers safe and comfortable, Entergy has temporarily suspended disconnects and continues to monitor National Weather Service heat advisories.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/helping-customers-navigate-extreme-heat-tips-to-stay-safe-and-manage-your-bill",
-    "timestamp": "2026-08-17T19:36:07Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/helping-customers-navigate-extreme-heat-tips-to-stay-safe-and-manage-your-bill"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-17T19:36:07Z",
-    "id": "energy-54dfd022b15d54fc"
   },
   {
     "title": "ISO-NE team turns ideas into practical solutions",
