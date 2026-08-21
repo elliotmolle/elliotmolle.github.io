@@ -1,16 +1,16 @@
 [
   {
-    "title": "DOE’s Marla Morales talks with ANS’s Craig Piercy",
-    "summary": "A recent American Nuclear Society webinar featured an extended one-on-one conversation between ANS CEO Craig Piercy and Marla Morales, the acting deputy assistant secretary for spent fuel and high-level waste disposition at the Department of Energy’s Office of Nuclear Energy. The two discussed the future of the fuel cycle in the United States, especially as it relates to the Nuclear Lifecycle Innovation Campuses program launched by the DOE earlier this year.",
+    "title": "ANS names 2027 Congressional Fellows",
+    "summary": "Loumis Lockhart The American Nuclear Society is excited to announce that it has officially selected two of its members to serve as the 2027 Glenn T. Seaborg Congressional Science and Engineering Fellows. Madeline Lockhart and Aristidis Loumis will provide key support to one of the Society’s four strategic pillars of action: informing policymakers to enable better decisions and stronger policies. They will achieve this by serving a one-year term on Capitol Hill either in a congressional member’s personal office or with a congressional committee, starting next January. Some context: ANS Congressional Fellows are among the nearly 30 scientists and engineers who participate annually in the American Association for the Advancement of Science (AAAS) Congressional Science and Engineering Fellowship Program. More than 2,000 fellows have served through the overarching program since its inception in 1973. ANS initiated its program in 2000, and in 2023, expanded it to host two fellows per year.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-19/article-8309/does-marla-morales-talks-with-anss-craig-piercy/",
-    "timestamp": "2026-08-19T20:40:00Z",
+    "url": "https://www.ans.org/news/2026-08-20/article-8314/ans-names-2027-congressional-fellows/",
+    "timestamp": "2026-08-20T20:31:44Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-19/article-8309/does-marla-morales-talks-with-anss-craig-piercy/"
+      "https://www.ans.org/news/2026-08-20/article-8314/ans-names-2027-congressional-fellows/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,146 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-19T20:40:00Z",
-    "id": "energy-108bf1e290513f14"
+    "data_as_of": "2026-08-20T20:31:44Z",
+    "id": "energy-b91d568d83c291c2"
+  },
+  {
+    "title": "Entergy Arkansas breaks ground on Ironwood Power Station",
+    "summary": "Entergy Arkansas today broke ground on the Ironwood Power Station, marking a major milestone in the company’s efforts to strengthen the state’s energy infrastructure and meet growing demand across all sectors with reliable, affordable and flexible generation.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-arkansas-breaks-ground-on-ironwood-power-station",
+    "timestamp": "2026-08-20T20:10:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-arkansas-breaks-ground-on-ironwood-power-station"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-20T20:10:20Z",
+    "id": "energy-94558153e854fd5e"
+  },
+  {
+    "title": "Zeno RHU will aim to survive lunar night",
+    "summary": "As established by a commercial payload agreement, a radioisotope heating unit (RHU) developed by Zeno Power will be onboard one of Firefly Aerospace’s existing Blue Ghost missions to the near side of the moon as part of NASA’s Commercial Lunar Payload Services, the companies announced yesterday. Zeno, which has already been working on an americium-241–fueled radioisotope power system for Harmonia RPS, will provide a lightweight, compact 5-Wt Am-241 RHU that includes communications, electrical power, command and data handling, and thermal management subsystems.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-20/article-8312/zeno-rhu-will-aim-to-survive-lunar-night/",
+    "timestamp": "2026-08-20T17:00:25Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-20/article-8312/zeno-rhu-will-aim-to-survive-lunar-night/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-20T17:00:25Z",
+    "id": "energy-57523b939ae9e7d4"
+  },
+  {
+    "title": "Entergy supports new Wilcox Academy Early Learning Center in Central City",
+    "summary": "Investing in early education helps build stronger families, communities and thriving economies. A part of our commitment to supporting early education, Entergy joined community leaders, educators, and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-supports-new-wilcox-academy-early-learning-center-in-central-city",
+    "timestamp": "2026-08-20T16:30:46Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-supports-new-wilcox-academy-early-learning-center-in-central-city"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-20T16:30:46Z",
+    "id": "energy-35728e2372b7e432"
+  },
+  {
+    "title": "Entergy Louisiana recognized for its commitment to the community at Capital Area United Way Annual Meeting",
+    "summary": "Entergy Louisiana was honored for its commitment to strengthening communities during the Capital Area United Way (CAUW) Annual Meeting and Awards Luncheon, where company leaders and employees were recognized for their service, leadership and philanthropic impact.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-louisiana-recognized-for-its-commitment-to-the-community-at-capital-area-united-way-annual-meeting",
+    "timestamp": "2026-08-20T15:04:54Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-louisiana-recognized-for-its-commitment-to-the-community-at-capital-area-united-way-annual-meeting"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-20T15:04:54Z",
+    "id": "energy-e1516f5e273a6b74"
+  },
+  {
+    "title": "NRC opens, defines hearing opportunity for Orano’s Project Ike",
+    "summary": "The Nuclear Regulatory Commission is considering Orano Enrichment USA’s application for a license to build a centrifuge enrichment facility in Oak Ridge, Tenn. A notice published in the Federal Register on August 12 includes a commission order and an announcement of the opportunity to request a contested hearing. The publication of the FR notice marked the start of a 60-day period in which a member of the public can file a request for a hearing. If contentions are adjudicated, the NRC intends to not hold a second, uncontested hearing before issuing a license on the $5 billion Project Ike Enrichment Facility, where Orano plans to reenrich depleted uranium hexafluoride (UF6) tails and enrich natural-grade UF6 to a maximum of 8-weight percent uranium-235.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-20/article-8311/nrc-opens-defines-hearing-opportunity-for-oranos-project-ike/",
+    "timestamp": "2026-08-20T14:27:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-20/article-8311/nrc-opens-defines-hearing-opportunity-for-oranos-project-ike/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-20T14:27:57Z",
+    "id": "energy-598cb7e791c670de"
+  },
+  {
+    "title": "ISO-NE summer interns share work at poster expo",
+    "summary": "ISO New England’s summer intern class of 2026 presented highlights of their work and accomplishments at a poster expo held Aug. 12 at the ISO’s campus in Holyoke, Massachusetts. The fourth annual showcase attracted a crowd of employees, who listened to interns review their posters and asked questions about the projects they worked on this summer. At the ISO, summer interns spend 11 weeks working alongside industry experts on meaningful projects that support the region’s transition to the grid of… The post ISO-NE summer interns share work at poster expo appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/20/iso-ne-summer-interns-share-work-at-poster-expo/",
+    "timestamp": "2026-08-20T13:36:25Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/20/iso-ne-summer-interns-share-work-at-poster-expo/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-20T13:36:25Z",
+    "id": "energy-c3a2d2018fc6bb47"
   },
   {
     "title": "Indiana and Virginia Legislators’ Letter Regarding Surplus Interconnection Service",
@@ -44,74 +182,6 @@
     "id": "energy-57fa66aa8139d08f"
   },
   {
-    "title": "Entergy Louisiana crew springs into action after Highway 89 rollover crash",
-    "summary": "On July 22, 2026, an Entergy Louisiana construction crew was on Highway 89 in X Parish installing and framing a pole for a new home. It was a typical midday job — until the quiet was broken by a sudden, violent crash.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-louisiana-crew-springs-into-action-after-highway-89-rollover-crash",
-    "timestamp": "2026-08-19T19:01:52Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-louisiana-crew-springs-into-action-after-highway-89-rollover-crash"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-19T19:01:52Z",
-    "id": "energy-d20d0d101741da34"
-  },
-  {
-    "title": "FANCO informs NRC of its intent to build HALEU fuel fabrication facility",
-    "summary": "First American Nuclear Co., developer of the 240-MWe EAGL-1 reactor, has announced its intention to make its own advanced reactor fuel. The Indianapolis-based company has filed a regulatory engagement plan with the Nuclear Regulatory Commission for the construction of a Category II high-assay low-enriched uranium deconversion and fuel fabrication facility, and the NRC has docketed the plan for consideration.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-19/article-8308/fanco-informs-nrc-of-its-intent-to-build-haleu-fuel-fabrication-facility/",
-    "timestamp": "2026-08-19T17:32:06Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-19/article-8308/fanco-informs-nrc-of-its-intent-to-build-haleu-fuel-fabrication-facility/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-19T17:32:06Z",
-    "id": "energy-4c757b5cbe400400"
-  },
-  {
-    "title": "Kinectrics to assess Clean Core’s fuel qualification program",
-    "summary": "Clean Core Thorium Energy announced that BWX Technologies–owned Kinectrics will conduct an independent technical review of its ANEEL (Advanced Nuclear Energy for Enriched Life) fuel qualification program. According to CCTE, Kinectrics will review key aspects of the fuel design, manufacturing, safety, and regulatory readiness.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-19/article-8307/kinectrics-to-assess-clean-cores-fuel-qualification-program/",
-    "timestamp": "2026-08-19T15:03:18Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-19/article-8307/kinectrics-to-assess-clean-cores-fuel-qualification-program/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-19T15:03:18Z",
-    "id": "energy-5fab76696d2a22d3"
-  },
-  {
     "title": "ISO-NE files proposal with FERC to assume asset condition reviewer role",
     "summary": "The proposal, which followed an extensive stakeholder engagement process, would increase oversight of regional transmission equipment replacements. The post ISO-NE files proposal with FERC to assume asset condition reviewer role appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -132,75 +202,5 @@
     ],
     "data_as_of": "2026-08-19T14:09:52Z",
     "id": "energy-70175e4fbeb7d15e"
-  },
-  {
-    "title": "Entergy Louisiana recognized as finalists across multiple 2026 Louisiana Energy Awards categories",
-    "summary": "Entergy Louisiana has been recognized in three categories as Business Report’s 10/12 Industry Report announced its 2026 Louisiana Energy Awards finalists, reflecting the company’s leadership in resiliency, economic development and strategic planning.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-louisiana-recognized-as-finalists-across-multiple-2026-louisiana-energy-awards-categories",
-    "timestamp": "2026-08-18T18:40:15Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-louisiana-recognized-as-finalists-across-multiple-2026-louisiana-energy-awards-categories"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-18T18:40:15Z",
-    "id": "energy-41fd2e17e17ae1c1"
-  },
-  {
-    "title": "Entergy New Orleans volunteers help New Orleans residents “Beat the Heat”",
-    "summary": "Entergy New Orleans partnered with Rebuilding Together New Orleans to help residents stay safe and cool during the summer months through a series of home weatherization events.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-volunteers-help-new-orleans-residents-beat-the-heat",
-    "timestamp": "2026-08-18T14:44:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-volunteers-help-new-orleans-residents-beat-the-heat"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-18T14:44:28Z",
-    "id": "energy-1a3464e74ff1b0ec"
-  },
-  {
-    "title": "ISO-NE team turns ideas into practical solutions",
-    "summary": "Advanced Technology Solutions develops one-of-a-kind analytical tools to support grid operations, market design, and more. The post ISO-NE team turns ideas into practical solutions appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/17/iso-ne-team-turns-ideas-into-practical-solutions/",
-    "timestamp": "2026-08-17T13:02:43Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/17/iso-ne-team-turns-ideas-into-practical-solutions/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-17T13:02:43Z",
-    "id": "energy-08c9ed8542f579ff"
   }
 ]

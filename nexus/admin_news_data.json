@@ -1,399 +1,417 @@
 [
   {
-    "title": "Nintendo Switch 2 Officially Just Got One of the Decade's Best Games",
-    "summary": "1000xResist is now on Nintendo Switch 2 with upgraded visuals and performance. A physical copy is also available for preorder.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/1000xresist-nintendo-switch-2-release-fyi/",
-    "timestamp": "2026-08-20T10:00:13Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/1000xresist-nintendo-switch-2-release-fyi/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-20T10:00:13Z",
-    "id": "energy-255880cebc8e8f90"
-  },
-  {
-    "title": "Nobody understands gambling, especially in video games",
-    "summary": "What is gambling? Strategic deck-builders like Luck Be A Landlord and Balatro have both been hit with high age-ratings by app stores and ratings boards, because the games are associated with gambling. Both are one-time purchases with no microtransactions, and no ties to gambling other than visuals borrwed from the casino world: slot machines and poker hands, respectively. Meanwhile, loot boxes and gacha games, which actually do have exploitative mechanics, seem to slide by ratings boards without much trouble. So what, actually, is gambling? And how do we talk about it in 2025, when gambling is everywhere?",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/video/nobody-understands-gambling-especially-in-video-games/",
-    "timestamp": "2026-08-20T09:24:56Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/video/nobody-understands-gambling-especially-in-video-games/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-20T09:24:56Z",
-    "id": "energy-cc23dd422573429f"
-  },
-  {
-    "title": "A brief history of Nintendo NOT letting you play as Zelda",
-    "summary": "The Legend of Zelda: Echoes of Wisdom is a big deal for the franchise because it’s finally the first MAINLINE game where you get to play as Princess Zelda. But it’s actually not the first game where you can play as Zelda. Not by a slingshot. Polygon's Clayton Ashley walks through a history of Hyrule's princess and the games in which she's playable — from the Philips CD-I, to Smash Bros., and beyond!",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/video/a-brief-history-of-nintendo-not-letting-you-play-as-zelda/",
-    "timestamp": "2026-08-20T09:19:23Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/video/a-brief-history-of-nintendo-not-letting-you-play-as-zelda/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-20T09:19:23Z",
-    "id": "energy-c3eb209f46ffc540"
-  },
-  {
-    "title": "Don't Paste the AI, please",
+    "title": "Small, native web tricks worth remembering",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://dontpastetheai.com/",
-    "timestamp": "2026-08-20T08:20:44Z",
+    "url": "https://htmlcat.net/",
+    "timestamp": "2026-08-21T09:45:14Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://dontpastetheai.com/"
+      "https://htmlcat.net/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-20T08:20:44Z",
-    "id": "energy-d65252a4fb655d91"
+    "data_as_of": "2026-08-21T09:45:14Z",
+    "id": "energy-f4582f88f4e3a21a"
   },
   {
-    "title": "Windows brings out the Rorschach test in everyone",
+    "title": "Metal Gear Solid: Master Collection Vol. 2 Review Roundup: All Hail the Return of MGS4",
+    "summary": "Critics welcome the remaster of Hideo Kojima's divisive Metal Gear Solid 4: Guns of the Patriot, previously only on PS3",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/metal-gear-solid-master-collection-vol-2-review-roundup/",
+    "timestamp": "2026-08-21T09:21:31Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/metal-gear-solid-master-collection-vol-2-review-roundup/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-21T09:21:31Z",
+    "id": "energy-ac554c9b3fbceaa9"
+  },
+  {
+    "title": "8 Extremely Spoilery Questions with 'Spider-Man: Brand New Day' Star Tramell Tillman",
+    "summary": "Tramell Tillman weighs in on Spider-Man: Brand New Day's ending, the movie's biggest twists, and the future of X-Men in the MCU.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/spider-man-brand-new-day-tramell-tillman-interview/",
+    "timestamp": "2026-08-21T09:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/spider-man-brand-new-day-tramell-tillman-interview/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-21T09:00:14Z",
+    "id": "energy-c2607b825e20bf89"
+  },
+  {
+    "title": "Emacs 31.1 will release on 8/24",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-    "timestamp": "2026-08-20T06:16:40Z",
+    "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
+    "timestamp": "2026-08-21T08:19:48Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803"
+      "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-20T06:16:40Z",
-    "id": "energy-24a28ebf73cc276f"
+    "data_as_of": "2026-08-21T08:19:48Z",
+    "id": "energy-7b30cca8aa589173"
   },
   {
-    "title": "Witt groups of smooth real curves and surfaces",
-    "summary": "arXiv:2608.18599v1 Announce Type: new Abstract: We study the $\\mathbf{I}^*$-cohomology of a smooth real algebraic curve $X$ in terms of its real locus and its geometric genus. We notably extend results of Monnier to the twisted case, which is crucial to the understanding of proper pushforwards of Witt groups. We also perform some computations related to transfers along the finite \\'etale extension $\\mathbb{C}/\\mathbb{R}$. We further describe how to compute twisted Witt groups of surfaces, extending work of Sujatha, and the image of the global signature homomorphism following Monnier. As an application of the main methods of the paper, we describe the shifted and twisted Witt groups of smooth anisotropic quadrics over $\\mathbb{R}$ of dimension $\\leq 3$.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.18599",
-    "timestamp": "2026-08-20T04:00:00Z",
-    "topic": "Mathematics",
+    "title": "Why can't utilities innovate?",
+    "summary": "A conversation with Quinn Nakayama of PG&E and Hanna Grene of Microsoft.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/why-cant-utilities-innovate",
+    "timestamp": "2026-08-21T08:08:36Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2608.18599"
+      "https://www.volts.wtf/p/why-cant-utilities-innovate"
     ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-20T04:00:00Z",
-    "id": "energy-f0f0229346afdd0d"
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-08-21T08:08:36Z",
+    "id": "energy-085600a29e4d1e2a"
   },
   {
-    "title": "Wilf Equivalence for Length-Three Patterns and Flat POPs, and a Conjecture of Qiu and Remmel",
-    "summary": "arXiv:2608.18461v1 Announce Type: new Abstract: It is well known that, for each classical pattern $\\tau$ of length 3, the number of $\\tau$-avoiding permutations of length $n$ is the $n$th Catalan number, and numerous bijections between different length-three avoidance classes have been constructed and studied. In this paper, we refine this classical problem by studying Wilf equivalence among permutations that simultaneously avoid a classical pattern of length three and a flat partially ordered pattern. Partially ordered patterns (POPs) provide a flexible framework for encoding families of classical permutation patterns. For $\\ell\\geq 3$ and $1\\leq x\\leq\\ell$, let $P_{\\ell,x}$ be the length-$\\ell$ POP in which the entry at position $x$ is required to be smaller than all the other entries, while no relations are imposed among the remaining entries. Such POPs are called flat POPs. We classify the Wilf equivalences among all pairs $(\\tau,P_{\\ell,x})$, where $\\tau$ is a classical pattern of length three. For every $\\ell\\geq4$, the resulting $6\\ell$ pairs form exactly $2\\ell-1$ Wilf equivalence classes, while the exceptional case $\\ell=3$ gives four classes. Our proofs combine the deriv…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.18461",
-    "timestamp": "2026-08-20T04:00:00Z",
-    "topic": "Mathematics",
+    "title": "65 Years Later, the Best \"Peanuts' Linus Quote Is Still an All-Time Great Comic Strip Moment",
+    "summary": "Yes, he believes in the Great Pumpkin, but he's not wrong about everything",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/best-linus-quote-peanuts/",
+    "timestamp": "2026-08-21T08:00:13Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2608.18461"
+      "https://www.polygon.com/best-linus-quote-peanuts/"
     ],
     "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-20T04:00:00Z",
-    "id": "energy-bc1c9ec75217bcf2"
+    "primary_source": false,
+    "data_as_of": "2026-08-21T08:00:13Z",
+    "id": "energy-10d22708af7a2785"
   },
   {
-    "title": "Wideband Compressed-Domain Cramer-Rao Bounds for Near-Field XL-MIMO: Data and Geometric Diversity Decomposition",
-    "summary": "arXiv:2604.08531v3 Announce Type: replace-cross Abstract: Wideband orthogonal frequency-division multiplexing (OFDM) over near-field extremely large-scale MIMO (XL-MIMO) arrays couples beam squint and wavefront curvature, and existing single-frequency compressed covariance models are severely biased as a result. To the best of our knowledge, no compressed-domain Cramer-Rao bound (CRB) has been reported for this regime under hybrid analog-digital architectures; existing wideband near-field bounds assume full-array observation. We derive the wideband compressed-domain CRB and decompose its Fisher information gain into two terms: a dominant data-diversity term, exactly 10 log10(Ks) dB, where Ks denotes the number of independent subcarrier observations, and we prove that for a centred array the full-array range bound is invariant to beam squint, so the full-array wideband gain equals the data-diversity term to within 3x10^-4 dB. Under hybrid compression, however, this invariance breaks: the residual is a combiner-dependent fluctuation of either sign rather than a propagation-geometry effect, with mean +0.157 dB and standard deviation 0.767 dB over 385 realizations at N_RF = 16, B = 40…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2604.08531",
-    "timestamp": "2026-08-20T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2604.08531"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-20T04:00:00Z",
-    "id": "energy-134dd60244709273"
-  },
-  {
-    "title": "Turns are Better than Radians (2022)",
+    "title": "The Lost Treasure of Sid Meier's Pirates",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-    "timestamp": "2026-08-20T01:29:12Z",
+    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "timestamp": "2026-08-21T07:23:27Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.computerenhance.com/p/turns-are-better-than-radians"
+      "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-20T01:29:12Z",
-    "id": "energy-360b483da21ce0e5"
+    "data_as_of": "2026-08-21T07:23:27Z",
+    "id": "energy-878cb613657713cd"
   },
   {
-    "title": "Every season in the Open Era has had an Org that won two International 3v3 LANs. Will one of M8, KC or Falcons countine this Streak?",
-    "summary": "And let's not forget the most important and significant streak: M0nkey M00n winning worlds every two years at Dickies Arena submitted by /u/mrabu3abd12 [link] [comments]",
+    "title": "Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review",
+    "summary": "The Metal Gear Solid: Master Collection Vol. 2 brings back one of the most polarizing entries to modern platforms",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/metal-gear-solid-4-guns-of-the-patriots-the-kotaku-review-2000726365",
+    "timestamp": "2026-08-21T07:00:23Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/metal-gear-solid-4-guns-of-the-patriots-the-kotaku-review-2000726365"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-21T07:00:23Z",
+    "id": "energy-1e0fe8affbdefd95"
+  },
+  {
+    "title": "Zero-Sum Power Factor Games",
+    "summary": "arXiv:2608.20298v1 Announce Type: cross Abstract: Variable active power injections arising from device behavior or compromised dispatch complicate voltage regulation in electric power networks with distributed energy resources (DERs). An operator can limit the resulting voltage deviations by remotely selecting DER reactive power parameters before observing the active power injections. IEEE Standard 1547-2018 specifies constant power factor as one such control mode, coupling each device's reactive power to its realized active power. Using a linear voltage model, we formulate the operator's decision as a robust minimax problem in which the operator minimizes the largest feasible aggregate voltage deviation. We solve this problem by expressing the power factor decisions through continuous reactive to active power ratios and exactly decomposing the payoff according to the signs of the voltage deviations. When every feasible voltage residual remains on its initial side of nominal, the resulting ratios cancel each injection's contribution and yield a closed form minimax strategy. We identify realistic DER ratings for which this strategy applies and quantify the regulation capacity lost…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.20298",
+    "timestamp": "2026-08-21T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.20298"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-21T04:00:00Z",
+    "id": "energy-8a80620e6be6af83"
+  },
+  {
+    "title": "Worst-Case Probability Bounds for Finite-Horizon Safety under Moment Uncertainty",
+    "summary": "arXiv:2608.20121v1 Announce Type: new Abstract: This paper addresses the problem of estimating upper bounds on the probability that a dynamical system will enter an undesirable region at some point within a finite time horizon. The primary source of uncertainty lies in the system's initial state, for which only a finite set of moments is known or within a prescribed interval. To tackle this problem, we formulate a measure-based program and propose its relaxation using the moment-sum-of-squares (moment-SOS) framework. The corresponding dual problem is introduced as a functional program, which is subsequently strengthened into a sum-of-squares (SOS) program. Notably, this dual formulation bears a structural resemblance to classical barrier function techniques for certifying system safety, with the key distinction that it yields a probabilistic certificate. The effectiveness of the proposed approach is demonstrated through multiple case studies, including a case involving an object in orbit.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.20121",
+    "timestamp": "2026-08-21T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.20121"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-21T04:00:00Z",
+    "id": "energy-ef89e36774cd59d6"
+  },
+  {
+    "title": "Which pulse maximizes resonant nonlinear conversion?",
+    "summary": "arXiv:2608.19464v1 Announce Type: cross Abstract: At fixed pulse energy, which drive waveform extracts the most $n$th-order nonlinear conversion from a resonator ($n=2$ for second harmonic)? A short pulse couples poorly to a narrow resonance, a long one dilutes its energy, and no linear rule fixes the compromise. We solve the problem exactly for a single mode of amplitude decay rate $\\kappa$. Eliminating the drive turns fixed incident energy into a constraint on the stored field alone, and the optimization becomes a sharp Gagliardo--Nirenberg inequality whose extremal is the ground-state soliton of the nonlinear Schr\\\"odinger equation. The optimal stored field is $\\mathrm{sech}^{1/(n-1)}[(n-1)\\kappa t]$, sustained by an asymmetric input that rises as $e^{\\kappa t}$ and falls as $e^{-(2n-1)\\kappa t}$; the largest converted energy follows in closed form. A rising exponential, the time-reversal recipe, retains at most $79.0\\%$ of the bound at $n=2$ and $2/e$ at large $n$; a two-rate pulse retains above $97\\%$. Critical coupling generalizes to $n$-fold overcoupling, with optimal input coupling $n$ times the intrinsic loss rate. The bound applies from microrings to superconducting circ…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.19464",
+    "timestamp": "2026-08-21T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.19464"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-21T04:00:00Z",
+    "id": "energy-6d6720dbbff7292d"
+  },
+  {
+    "title": "Should RL give out in-game titles to winners of EWC and other non-RLCS LANs?",
+    "summary": "There have been in-game titles for Dreamhack winners + ESL Monthlies and other pre-COVID LANs given to the winners of those tournaments, but since the open circuit began no such titles have been given https://x.com/dralii897/status/2090226982667645142?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt3rw6/every_season_in_the_open_era_has_had_an_org_that/",
-    "timestamp": "2026-08-20T00:11:13Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vu25mn/should_rl_give_out_ingame_titles_to_winners_of/",
+    "timestamp": "2026-08-21T01:18:48Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt3rw6/every_season_in_the_open_era_has_had_an_org_that/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vu25mn/should_rl_give_out_ingame_titles_to_winners_of/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-20T00:11:13Z",
-    "id": "energy-7968834127eeb5db"
+    "data_as_of": "2026-08-21T01:18:48Z",
+    "id": "energy-9d27a3a2b18fe1a6"
   },
   {
-    "title": "Top Rated Teams at EWC",
-    "summary": "Some interesting stats: Falcons Received the least demos. Twisted had the most Goals per game, but were 4th worst at goals conceded. KC went to 4 OTs, lost all. submitted by /u/Huge-Computer2037 [link] [comments]",
+    "title": "Favorite Regional series of all time?",
+    "summary": "I was reminiscing on some of my favorite series that have happened in the open era (when i started watching rlcs) and whilst a lot of my favorite series comes from LANs, i seem to remember a lot of incredible online series that I feel people don’t discuss or talk about often. For me, G2 vs Envy in Fall Regional 3 in the 21-22 season is one of my favorite series of all time since it was so back and forth. Not to mention this is when the grand finals did best of 3 SETS and the two teams ended up going to game 21 😭 submitted by /u/AbeBabey [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt3k0j/top_rated_teams_at_ewc/",
-    "timestamp": "2026-08-20T00:01:42Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vtyp89/favorite_regional_series_of_all_time/",
+    "timestamp": "2026-08-20T22:49:47Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt3k0j/top_rated_teams_at_ewc/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vtyp89/favorite_regional_series_of_all_time/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-20T00:01:42Z",
-    "id": "energy-cdf279cea9fe4f46"
+    "data_as_of": "2026-08-20T22:49:47Z",
+    "id": "energy-fd93387bce8d8aa5"
   },
   {
-    "title": "RLCS 2026 World Championship prediction",
-    "summary": "Very excited to see how teams do submitted by /u/ibro2X09 [link] [comments]",
+    "title": "What will it take for the Twins to overtake Trk as the GOATs of MENA? Did EWC take them over the edge?",
+    "summary": "Some people might argue it's already the case with the EWC win. Others might say Trk's longevity and influence on the region from his SRG days still puts him ahead. If you're part of the latter group, what's the smallest accomplishment RW9 and Kiileerrz need to become the GOATs of the region? submitted by /u/areYouDumbLad [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt2x1l/rlcs_2026_world_championship_prediction/",
-    "timestamp": "2026-08-19T23:34:56Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vtygb0/what_will_it_take_for_the_twins_to_overtake_trk/",
+    "timestamp": "2026-08-20T22:39:57Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vt2x1l/rlcs_2026_world_championship_prediction/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vtygb0/what_will_it_take_for_the_twins_to_overtake_trk/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-19T23:34:56Z",
-    "id": "energy-33bf93a7e3a71eb7"
+    "data_as_of": "2026-08-20T22:39:57Z",
+    "id": "energy-75297dead5c638f2"
   },
   {
-    "title": "Pokémon’s 30th Anniversary Set Might Be Making A Mysterious New Mew Card The Rarest Ever",
-    "summary": "A new rumor claims the card will have a 1 in 20,000 pull rate",
+    "title": "Darth Vader Wants Flock Surveillance Cameras In Cities To ‘Find The Rebel Scum’ And ‘Stalk My Ex-Girlfriend’",
+    "summary": "\"We all know that the Flock cameras are not only following the license plate readers; they are following children\"",
     "source": "Kotaku",
-    "url": "https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936",
-    "timestamp": "2026-08-19T21:37:29Z",
+    "url": "https://kotaku.com/darth-vader-wants-flock-surveillance-cameras-2000726326",
+    "timestamp": "2026-08-20T22:20:58Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/pokemons-30th-anniversary-set-might-be-making-a-mysterious-new-mew-card-the-rarest-ever-2000725936"
+      "https://kotaku.com/darth-vader-wants-flock-surveillance-cameras-2000726326"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-19T21:37:29Z",
-    "id": "energy-ab5fc470364bc83c"
+    "data_as_of": "2026-08-20T22:20:58Z",
+    "id": "energy-44687ba7e90ff6f8"
   },
   {
-    "title": "Witcher 3 Dev Explains How Ultra Realistic NPCs Created Weird Problems: ‘Women Were Just Dropping Their Babies Left And Right’",
-    "summary": "A commitment to realism had some unintended consequences",
+    "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
+    "summary": "And I'm not alone in my hype, as fans are also impressed by the footage of a plane flying over Vice City",
     "source": "Kotaku",
-    "url": "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923",
-    "timestamp": "2026-08-19T20:13:01Z",
+    "url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
+    "timestamp": "2026-08-20T22:05:18Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923"
+      "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-19T20:13:01Z",
-    "id": "energy-9cd3d231a68859dd"
+    "data_as_of": "2026-08-20T22:05:18Z",
+    "id": "energy-e806638c740503cf"
   },
   {
-    "title": "Dire Forecast Predicts 39 Million Fewer Consoles Sold If PS6 And Xbox Helix Are $1,000",
-    "summary": "Console gaming could continue to shrink if something doesn't change",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914",
-    "timestamp": "2026-08-19T18:45:31Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-19T18:45:31Z",
-    "id": "energy-329e21831795ffd4"
-  },
-  {
-    "title": "Burst Of New Solar Power Makes Midwest Grid The Biggest In US",
-    "summary": "By Emma Haidar Growing solar power in a swath of the US Midwest dominated by Republican leadership has led that region’s electric grid to become the nation’s biggest in terms of electric supply. The Midcontinent Independent System Operator, which provides power to 45 million people in 15 states including Indiana and Missouri, overtook PJM Interconnection […]",
+    "title": "MISO Real-Time Wholesale Power Prices Near Triple Digits On Grid Advisories",
+    "summary": "By Ronnie Turner • MISO declares conservative operations in South Region • Cites tight margins, outages, above-normal temperatures Real-time wholesale power prices across the Midcontinent Independent System Operator market approached triple digits on Aug. 19 after the grid operator issued a slew of advisories because of elevated conditions in its South Region, including tight reserve […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/burst-of-new-solar-power-makes-midwest-grid-the-biggest-in-us/",
-    "timestamp": "2026-08-19T14:52:17Z",
+    "url": "https://misoxenwatch.com/2026/08/miso-real-time-wholesale-power-prices-near-triple-digits-on-grid-advisories/",
+    "timestamp": "2026-08-20T14:52:59Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/burst-of-new-solar-power-makes-midwest-grid-the-biggest-in-us/"
+      "https://misoxenwatch.com/2026/08/miso-real-time-wholesale-power-prices-near-triple-digits-on-grid-advisories/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-19T14:52:17Z",
-    "id": "energy-6ec1f4b5be6f1da9"
+    "data_as_of": "2026-08-20T14:52:59Z",
+    "id": "energy-749118eb843a0a90"
   },
   {
-    "title": "FERC Greenlights MISO Assignment Of Some Long-Range Tx Projects to PJM TOs",
-    "summary": "By Amanda Durish Cook FERC ruled MISO can circumvent a competitive bidding process when it taps PJM transmission owners to build parts of its long-range transmission projects that cross into the neighboring RTO (ER26-1538, et al.). Why This Matters MISO needs PJM transmission owners to build some of its second long-range transmission portfolio because the […]",
+    "title": "Entergy Texas Fights Grid Operators Over Transmission Upgrade Cost Mismatch",
+    "summary": "By Jasmin Melvin • Entergy contests $112M bill for grid upgrades • Cost-benefit analysis shows 30-to-1 mismatch • 90 projects avoid fees despite larger impacts Entergy Texas pushed back on arguments from the Midcontinent Independent System Operator and Southwest Power Pool defending a proposed $112 million cost allocation for transmission upgrades, saying the grid operators […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/ferc-greenlights-miso-assignment-of-some-long-range-tx-projects-to-pjm-tos/",
-    "timestamp": "2026-08-19T14:51:46Z",
+    "url": "https://misoxenwatch.com/2026/08/entergy-texas-fights-grid-operators-over-transmission-upgrade-cost-mismatch/",
+    "timestamp": "2026-08-20T14:51:52Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/ferc-greenlights-miso-assignment-of-some-long-range-tx-projects-to-pjm-tos/"
+      "https://misoxenwatch.com/2026/08/entergy-texas-fights-grid-operators-over-transmission-upgrade-cost-mismatch/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-19T14:51:46Z",
-    "id": "energy-c394c3422bc5743d"
+    "data_as_of": "2026-08-20T14:51:52Z",
+    "id": "energy-2d001b3041169f95"
   },
   {
-    "title": "MISO, SPP Find 1 Joint Study Project That Shows Promise",
-    "summary": "By Tom Kleckner MISO and SPP staffs have given stakeholders until Sept. 4 to provide feedback on their “near-final” 2024-2025 Coordinated System Plan’s (CSP) Core and Core+ 500-kV portfolios. The RTO’s staffs said during an Interregional Planning Stakeholder Advisory Committee meeting Aug. 14 that they want input on the portfolios’ supplemental benefits. MISO’s Khristopher Barringer […]",
+    "title": "The Teens Taking On Data Centers",
+    "summary": "By Callie Holtermann When Sadie Cisneros first heard about ChatGPT a couple of years ago, she figured it was harmless. Like many other high school students, Cisneros, 17, began using the chatbot regularly as a search engine and study aid. Then she saw something alarming on a friend’s Instagram story. A 300,000-square-foot data center — […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/miso-spp-find-1-joint-study-project-that-shows-promise/",
-    "timestamp": "2026-08-19T14:50:53Z",
+    "url": "https://misoxenwatch.com/2026/08/the-teens-taking-on-data-centers/",
+    "timestamp": "2026-08-20T14:48:19Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/08/miso-spp-find-1-joint-study-project-that-shows-promise/"
+      "https://misoxenwatch.com/2026/08/the-teens-taking-on-data-centers/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-19T14:50:53Z",
-    "id": "energy-fd5ff543ba520d36"
+    "data_as_of": "2026-08-20T14:48:19Z",
+    "id": "energy-e78d863690156bf5"
   },
   {
-    "title": "Stemwire offers Zero Sweep Filter and Subkeeper Saturator for FREE",
-    "summary": "Stemwire has released Zero Sweep Filter and Subkeeper Saturator, two freeware effects for macOS and Windows. I love the minimal design of these plugins. White on black looks clean, and I think it fits the general idea behind these plugins because they both address a specific production problem without adding a bunch of controls you [...] View post: Stemwire offers Zero Sweep Filter and Subkeeper Saturator for FREE",
+    "title": "Sonniss offers two FREE SFX libraries until September 3",
+    "summary": "Sonniss is giving away two sound effects libraries from 344 SFX until Thursday, September 3: Historical Weapons Vol. 1 and Ultimate Horror – Mini. We regularly cover Sonniss giveaways on BPB, including the massive GDC 2026 Game Audio Bundle and the recent Pinball Machines library. This offer is smaller but much more focused, with two [...] View post: Sonniss offers two FREE SFX libraries until September 3",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/19/stemwire-subkeeper-filter/",
-    "timestamp": "2026-08-19T14:47:47Z",
+    "url": "https://bedroomproducersblog.com/2026/08/20/sonniss-free-sfx-august/",
+    "timestamp": "2026-08-20T14:36:02Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/19/stemwire-subkeeper-filter/"
+      "https://bedroomproducersblog.com/2026/08/20/sonniss-free-sfx-august/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-19T14:47:47Z",
-    "id": "energy-cdbe048fcf087e0a"
+    "data_as_of": "2026-08-20T14:36:02Z",
+    "id": "energy-ba23e178560b2d35"
   },
   {
-    "title": "Venus Theory releases forms:steel, a FREE handpan library for Decent Sampler",
-    "summary": "Venus Theory has released forms:steel Free Edition, a free handpan library for Decent Sampler. We have covered a lot of Venus Theory freebies on BPB, including forms:tongues, forms:piano, and several Auras instruments. If you enjoyed those, this one is a super easy recommendation. forms:steel has the same layout and quality I expect from Venus Theory’s [...] View post: Venus Theory releases forms:steel, a FREE handpan library for Decent Sampler",
+    "title": "Hot Shower Audio releases bathROOMs, a FREE reverb built from five bathrooms",
+    "summary": "Hot Shower Audio has released bathROOMs, a free pay-what-you-want reverb plugin for macOS and Windows. This one is a bit weird, but I don’t mind it. It’s basically a reverb that simulates five different bathroom spaces. The selectable spaces are Porcelain, Cove, Greenhouse, Lavender, and Baldosa, ranging from small and bright rooms to larger ones. [...] View post: Hot Shower Audio releases bathROOMs, a FREE reverb built from five bathrooms",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/19/venus-theory-formssteel/",
-    "timestamp": "2026-08-19T14:02:08Z",
+    "url": "https://bedroomproducersblog.com/2026/08/20/hot-shower-bathrooms/",
+    "timestamp": "2026-08-20T12:32:05Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/19/venus-theory-formssteel/"
+      "https://bedroomproducersblog.com/2026/08/20/hot-shower-bathrooms/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-19T14:02:08Z",
-    "id": "energy-f2a32b73ffc65daa"
+    "data_as_of": "2026-08-20T12:32:05Z",
+    "id": "energy-ad1c4c1c5f6a7f8a"
   },
   {
-    "title": "dBdone releases Feuer, a FREE drum loop mangler that surprised me",
-    "summary": "dBdone has released Feuer, a free creative drum-processing plugin for macOS and Windows that’s a lot more fun than I anticipated. We recently covered dBdone Glas, a free spectral chaos plugin for turning pads, synths, and vocals into glassy textures. Feuer is somewhat similar, but aimed at drums, percussion, breaks, and rhythmic loops. Anyway, based [...] View post: dBdone releases Feuer, a FREE drum loop mangler that surprised me",
+    "title": "Wild Surmise releases Ispín, a FREE saturator for desktop and iOS",
+    "summary": "Wild Surmise Music has released Ispín, a free saturation plugin for macOS, Windows, iPhone, and iPad. Ispín is a saturator that adds weight and grit through four controls, moving from gentle thickening to obvious distortion. I tested Ispín on full mixes first, but found it really hard to tame. It gets aggressive very quickly, and [...] View post: Wild Surmise releases Ispín, a FREE saturator for desktop and iOS",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/19/dbdone-feuer/",
-    "timestamp": "2026-08-19T13:26:56Z",
+    "url": "https://bedroomproducersblog.com/2026/08/20/wild-surmise-ipsin/",
+    "timestamp": "2026-08-20T12:09:22Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/19/dbdone-feuer/"
+      "https://bedroomproducersblog.com/2026/08/20/wild-surmise-ipsin/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-19T13:26:56Z",
-    "id": "energy-87f0101a3a7b468c"
+    "data_as_of": "2026-08-20T12:09:22Z",
+    "id": "energy-0dd9c05813d2c266"
   },
   {
     "title": "He helped Uruguay decarbonize. Can he help other countries do the same?",
