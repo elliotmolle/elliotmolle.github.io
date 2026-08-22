@@ -1,16 +1,16 @@
 [
   {
-    "title": "ANS names 2027 Congressional Fellows",
-    "summary": "Loumis Lockhart The American Nuclear Society is excited to announce that it has officially selected two of its members to serve as the 2027 Glenn T. Seaborg Congressional Science and Engineering Fellows. Madeline Lockhart and Aristidis Loumis will provide key support to one of the Society’s four strategic pillars of action: informing policymakers to enable better decisions and stronger policies. They will achieve this by serving a one-year term on Capitol Hill either in a congressional member’s personal office or with a congressional committee, starting next January. Some context: ANS Congressional Fellows are among the nearly 30 scientists and engineers who participate annually in the American Association for the Advancement of Science (AAAS) Congressional Science and Engineering Fellowship Program. More than 2,000 fellows have served through the overarching program since its inception in 1973. ANS initiated its program in 2000, and in 2023, expanded it to host two fellows per year.",
+    "title": "Center for Used Fuel Research: Building confidence in storage and transport",
+    "summary": "Used nuclear fuel storage and transportation have reached a critical juncture. Dozens of utilities need reliable data on how used nuclear fuel performs in dry storage casks and canisters to extend regulatory licenses at sites across the United States. Likewise, the Department of Energy expects to take ownership of the used nuclear fuel—termed “spent nuclear fuel” in the laws and regulations governing its stewardship—and transfer it to one or more federal staging facilities for management and disposition. Meanwhile, dozens of reactor companies are testing prototypes of advanced reactors and advanced reactor fuels. Eventually, regulators and industry must also verify the safety and security of storage methods for these advanced fuel types. To help address these challenges, the DOE established the Center for Used Fuel Research (CUFR) in January 2026 for work related to the long-term storage and transport of used nuclear fuel.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-20/article-8314/ans-names-2027-congressional-fellows/",
-    "timestamp": "2026-08-20T20:31:44Z",
+    "url": "https://www.ans.org/news/2026-08-21/article-8225/center-for-used-fuel-research-building-confidence-in-storage-and-transport/",
+    "timestamp": "2026-08-21T20:02:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-20/article-8314/ans-names-2027-congressional-fellows/"
+      "https://www.ans.org/news/2026-08-21/article-8225/center-for-used-fuel-research-building-confidence-in-storage-and-transport/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,122 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-20T20:31:44Z",
-    "id": "energy-b91d568d83c291c2"
+    "data_as_of": "2026-08-21T20:02:22Z",
+    "id": "energy-a6957f22c3e326a1"
+  },
+  {
+    "title": "Poverty simulation hosted by Entergy and United Way of Southeast Louisiana highlights challenges facing vulnerable families",
+    "summary": "The exercise gave participants a chance to step into the shoes of individuals in need and gain a deeper understanding of their daily struggles Posted:Aug 21, 2026 | Posted:Cristina del Canto | Category:Blog post | Tags:Communities, Corporate, Giving back, Louisiana, New Orleans, Social responsibility Entergy recently partnered with the United Way of Southeast Louisiana to host a… Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/poverty-simulation-hosted-by-entergy-and-united-way-of-southeast-louisiana-highlights-challenges-facing-vulnerable-families",
+    "timestamp": "2026-08-21T18:59:05Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/poverty-simulation-hosted-by-entergy-and-united-way-of-southeast-louisiana-highlights-challenges-facing-vulnerable-families"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-21T18:59:05Z",
+    "id": "energy-1813e3a32762a779"
+  },
+  {
+    "title": "Panelists talk domestic enrichment expansion at Global 2026",
+    "summary": "What fuels the future of nuclear? Whether it is low-enriched uranium, LEU+, or high-assay low-enriched uranium, one of the answers is in the question itself: fuel. Earlier this week, the American Nuclear Society’s Fuel Cycle & Waste Management Division hosted Global 2026, with the theme of “Deploying Sustainable Nuclear Fuel Cycles.” During one plenary session, “Fueling the Future of Nuclear,” panelists from Urenco USA, Centrus Energy, General Matter, and Global Laser Enrichment shared with attendees how the companies were contributing to the front end of the fuel cycle—more specifically, by launching or expanding their respective enrichment services.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-21/article-8323/panelists-talk-domestic-enrichment-expansion-at-global-2026/",
+    "timestamp": "2026-08-21T17:28:19Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-21/article-8323/panelists-talk-domestic-enrichment-expansion-at-global-2026/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-21T17:28:19Z",
+    "id": "energy-3bfd8e2d1798ea16"
+  },
+  {
+    "title": "Dry conditions, extreme heat combine to create fire hazards",
+    "summary": "With continued high temperatures expected across parts of our service area, we're asking customers to stay safe from the extreme heat and follow any local or state orders, such as full or partial burn bans.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/dry-conditions-extreme-heat-combine-to-create-fire-hazards",
+    "timestamp": "2026-08-21T15:37:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/dry-conditions-extreme-heat-combine-to-create-fire-hazards"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-21T15:37:21Z",
+    "id": "energy-8aa1b1864c97e2a4"
+  },
+  {
+    "title": "IAEA research project to develop hazard detection for edible insects",
+    "summary": "This week, the International Atomic Energy Agency announced a new coordinated research project (CRP) to improve understanding of the safety of edible insects and other novel foods and to use nuclear and related technologies to assess risks.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-21/article-8316/iaea-research-project-to-develop-hazard-detection-for-edible-insects/",
+    "timestamp": "2026-08-21T14:38:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-21/article-8316/iaea-research-project-to-develop-hazard-detection-for-edible-insects/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-21T14:38:11Z",
+    "id": "energy-6615745f4634fc90"
+  },
+  {
+    "title": "Registration open for Consumer Liaison Group meeting in Maine",
+    "summary": "A virtual attendance option is also available for the Sept. 24 event. The post Registration open for Consumer Liaison Group meeting in Maine appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/21/registration-open-for-consumer-liaison-group-meeting-in-maine/",
+    "timestamp": "2026-08-21T13:10:39Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/21/registration-open-for-consumer-liaison-group-meeting-in-maine/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-21T13:10:39Z",
+    "id": "energy-b7d51ae29e61c157"
   },
   {
     "title": "Entergy Arkansas breaks ground on Ironwood Power Station",
@@ -44,98 +158,6 @@
     ],
     "data_as_of": "2026-08-20T20:10:20Z",
     "id": "energy-94558153e854fd5e"
-  },
-  {
-    "title": "Zeno RHU will aim to survive lunar night",
-    "summary": "As established by a commercial payload agreement, a radioisotope heating unit (RHU) developed by Zeno Power will be onboard one of Firefly Aerospace’s existing Blue Ghost missions to the near side of the moon as part of NASA’s Commercial Lunar Payload Services, the companies announced yesterday. Zeno, which has already been working on an americium-241–fueled radioisotope power system for Harmonia RPS, will provide a lightweight, compact 5-Wt Am-241 RHU that includes communications, electrical power, command and data handling, and thermal management subsystems.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-20/article-8312/zeno-rhu-will-aim-to-survive-lunar-night/",
-    "timestamp": "2026-08-20T17:00:25Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-20/article-8312/zeno-rhu-will-aim-to-survive-lunar-night/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-20T17:00:25Z",
-    "id": "energy-57523b939ae9e7d4"
-  },
-  {
-    "title": "Entergy supports new Wilcox Academy Early Learning Center in Central City",
-    "summary": "Investing in early education helps build stronger families, communities and thriving economies. A part of our commitment to supporting early education, Entergy joined community leaders, educators, and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-supports-new-wilcox-academy-early-learning-center-in-central-city",
-    "timestamp": "2026-08-20T16:30:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-supports-new-wilcox-academy-early-learning-center-in-central-city"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-20T16:30:46Z",
-    "id": "energy-35728e2372b7e432"
-  },
-  {
-    "title": "Entergy Louisiana recognized for its commitment to the community at Capital Area United Way Annual Meeting",
-    "summary": "Entergy Louisiana was honored for its commitment to strengthening communities during the Capital Area United Way (CAUW) Annual Meeting and Awards Luncheon, where company leaders and employees were recognized for their service, leadership and philanthropic impact.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-louisiana-recognized-for-its-commitment-to-the-community-at-capital-area-united-way-annual-meeting",
-    "timestamp": "2026-08-20T15:04:54Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-louisiana-recognized-for-its-commitment-to-the-community-at-capital-area-united-way-annual-meeting"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-20T15:04:54Z",
-    "id": "energy-e1516f5e273a6b74"
-  },
-  {
-    "title": "NRC opens, defines hearing opportunity for Orano’s Project Ike",
-    "summary": "The Nuclear Regulatory Commission is considering Orano Enrichment USA’s application for a license to build a centrifuge enrichment facility in Oak Ridge, Tenn. A notice published in the Federal Register on August 12 includes a commission order and an announcement of the opportunity to request a contested hearing. The publication of the FR notice marked the start of a 60-day period in which a member of the public can file a request for a hearing. If contentions are adjudicated, the NRC intends to not hold a second, uncontested hearing before issuing a license on the $5 billion Project Ike Enrichment Facility, where Orano plans to reenrich depleted uranium hexafluoride (UF6) tails and enrich natural-grade UF6 to a maximum of 8-weight percent uranium-235.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-20/article-8311/nrc-opens-defines-hearing-opportunity-for-oranos-project-ike/",
-    "timestamp": "2026-08-20T14:27:57Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-20/article-8311/nrc-opens-defines-hearing-opportunity-for-oranos-project-ike/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-20T14:27:57Z",
-    "id": "energy-598cb7e791c670de"
   },
   {
     "title": "ISO-NE summer interns share work at poster expo",

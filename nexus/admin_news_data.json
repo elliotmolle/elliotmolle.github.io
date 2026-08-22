@@ -1,75 +1,282 @@
 [
   {
-    "title": "Small, native web tricks worth remembering",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://htmlcat.net/",
-    "timestamp": "2026-08-21T09:45:14Z",
-    "topic": "Computer Science",
+    "title": "OpenDAW: A FREE browser-based DAW hoping to democratize music production",
+    "summary": "OpenDAW isn’t the first DAW to claim free, open-source, and browser-based status, but it might be the most ambitious. OpenDAW aims to bring professional music production tools to the masses at no cost and will not even ask for your email address. What is OpenDAW? OpenDAW is a free browser-based digital audio workstation. Developer André [...] View post: OpenDAW: A FREE browser-based DAW hoping to democratize music production",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/22/opendaw-review/",
+    "timestamp": "2026-08-22T10:06:28Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://htmlcat.net/"
+      "https://bedroomproducersblog.com/2026/08/22/opendaw-review/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-21T09:45:14Z",
-    "id": "energy-f4582f88f4e3a21a"
+    "data_as_of": "2026-08-22T10:06:28Z",
+    "id": "energy-e16412cfec5c9861"
   },
   {
-    "title": "Metal Gear Solid: Master Collection Vol. 2 Review Roundup: All Hail the Return of MGS4",
-    "summary": "Critics welcome the remaster of Hideo Kojima's divisive Metal Gear Solid 4: Guns of the Patriot, previously only on PS3",
+    "title": "BeatSkillz offers EDYN preamp FREE until August 29",
+    "summary": "BeatSkillz and Tone Empire are offering EDYN Preamp as a free download until August 29th, alongside the launch of the new BeatSkillz Echorium delay plugin. EDYN is a discrete transistor preamp model from Tone Empire’s Enhanced Classics Series. It takes inspiration from the punchy sounds of classic American consoles from the 1960s and 70s. In [...] View post: BeatSkillz offers EDYN preamp FREE until August 29",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/22/beatskillz-edyn-free/",
+    "timestamp": "2026-08-22T10:02:46Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/22/beatskillz-edyn-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-22T10:02:46Z",
+    "id": "energy-a1f4d9ee85e12faf"
+  },
+  {
+    "title": "7 Years Later, One 'Vinland Saga' Line Remains Anime’s Greatest Lesson About Violence",
+    "summary": "Vinland Saga disguises a powerful anti-violence story as a viking epic, asking what it really means to live without enemies.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/metal-gear-solid-master-collection-vol-2-review-roundup/",
-    "timestamp": "2026-08-21T09:21:31Z",
+    "url": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
+    "timestamp": "2026-08-22T10:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/metal-gear-solid-master-collection-vol-2-review-roundup/"
+      "https://www.polygon.com/vinland-saga-thors-best-quote-explained/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-21T09:21:31Z",
-    "id": "energy-ac554c9b3fbceaa9"
+    "data_as_of": "2026-08-22T10:00:14Z",
+    "id": "energy-db725fdc961c9b25"
   },
   {
-    "title": "8 Extremely Spoilery Questions with 'Spider-Man: Brand New Day' Star Tramell Tillman",
-    "summary": "Tramell Tillman weighs in on Spider-Man: Brand New Day's ending, the movie's biggest twists, and the future of X-Men in the MCU.",
+    "title": "The Crow Hill Company releases Lyre, a FREE ancient stringed instrument",
+    "summary": "Lyre is the latest addition to the Crow Hill Company’s increasingly impressive Vaults series. If you’re new around here, Vaults is a collection of outstanding (sometimes weird and wonderful) instruments, free to download for six months upon their release. Six months after release, instruments move into the paid category and are available for £3, with all [...] View post: The Crow Hill Company releases Lyre, a FREE ancient stringed instrument",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/22/crow-hill-lyre/",
+    "timestamp": "2026-08-22T09:31:59Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/22/crow-hill-lyre/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-22T09:31:59Z",
+    "id": "energy-119424cf0ea6733a"
+  },
+  {
+    "title": "League of Legends Spinoff Cancellation Leaves Players Fuming",
+    "summary": "Riot Games has pulled the plug on its League of Legends fighting game '2XKO,' and players aren’t happy.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/spider-man-brand-new-day-tramell-tillman-interview/",
-    "timestamp": "2026-08-21T09:00:14Z",
+    "url": "https://www.polygon.com/riot-games-2xko-cancellation-reactions/",
+    "timestamp": "2026-08-22T09:00:15Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/spider-man-brand-new-day-tramell-tillman-interview/"
+      "https://www.polygon.com/riot-games-2xko-cancellation-reactions/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-21T09:00:14Z",
-    "id": "energy-c2607b825e20bf89"
+    "data_as_of": "2026-08-22T09:00:15Z",
+    "id": "energy-34fd3603c0907954"
   },
   {
-    "title": "Emacs 31.1 will release on 8/24",
+    "title": "19 Years Later, Doctor Who Officially Has a Chance to Fix Its Worst Mistake",
+    "summary": "In an interview about the Tenth Doctor's latest Doctor Who adventures, David Tennant revealed the companion he wants more stories with.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/doctor-who-big-finish-martha-jones/",
+    "timestamp": "2026-08-22T09:00:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/doctor-who-big-finish-martha-jones/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-22T09:00:15Z",
+    "id": "energy-16f529395436f9ec"
+  },
+  {
+    "title": "Most entertaining season of RLCS 3V3 (seperate for pre -open era and post open era)",
+    "summary": "IMO Pre Open era 1)S5 2) S6 3)S8 post 1)2024 2) 2022-23 3)2021-22 submitted by /u/eNot_O [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vv7826/most_entertaining_season_of_rlcs_3v3_seperate_for/",
+    "timestamp": "2026-08-22T08:56:58Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vv7826/most_entertaining_season_of_rlcs_3v3_seperate_for/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-22T08:56:58Z",
+    "id": "energy-dfcdbee6ddb009ef"
+  },
+  {
+    "title": "Best RLCS 2026 plays from non-Worlds players",
+    "summary": "In other words, the best plays from pros not participating at the World Championship. Included matches top 32 and above (3v3 only). submitted by /u/N0b0dy_her3 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vuzq27/best_rlcs_2026_plays_from_nonworlds_players/",
+    "timestamp": "2026-08-22T02:12:26Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vuzq27/best_rlcs_2026_plays_from_nonworlds_players/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-22T02:12:26Z",
+    "id": "energy-d00f0eeada0562b0"
+  },
+  {
+    "title": "Interest for Bot + Pro 2v2?",
+    "summary": "Would anyone else be interested in a pros + bot 2v2 or 3v3? Like Vitality v KC may be Zen and BuzzBot vs Atow and BrickBot. I think it has the potential to be really entertaining assuming the meta isn’t bot plays RL, while humans play demo simulator. I’m sure there could be rules in place to incentivize teamwork. submitted by /u/Remedy_RL [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vuzbp5/interest_for_bot_pro_2v2/",
+    "timestamp": "2026-08-22T01:53:19Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vuzbp5/interest_for_bot_pro_2v2/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-22T01:53:19Z",
+    "id": "energy-be1d5aeb319b0cdb"
+  },
+  {
+    "title": "There's no reason for software to be slow anymore",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
-    "timestamp": "2026-08-21T08:19:48Z",
+    "url": "https://danluu.com/perf-opt/",
+    "timestamp": "2026-08-22T01:06:17Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY"
+      "https://danluu.com/perf-opt/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-21T08:19:48Z",
-    "id": "energy-7b30cca8aa589173"
+    "data_as_of": "2026-08-22T01:06:17Z",
+    "id": "energy-19645ea4c2cf3162"
+  },
+  {
+    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+    "timestamp": "2026-08-22T01:02:09Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://grapheneos.social/@GrapheneOS/117136278553665985"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-22T01:02:09Z",
+    "id": "energy-7754b406da7af7f8"
+  },
+  {
+    "title": "HN: The Good Parts (2016)",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://danluu.com/hn-comments/",
+    "timestamp": "2026-08-21T23:53:03Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://danluu.com/hn-comments/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-21T23:53:03Z",
+    "id": "energy-5343346482332268"
+  },
+  {
+    "title": "In This Soulslike, The Dog Will Pet You Back…With A Sword",
+    "summary": "Are you tired of being a good boy? Don't you just wanna go apeshit?",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752",
+    "timestamp": "2026-08-21T22:00:27Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-21T22:00:27Z",
+    "id": "energy-dc40b86b76f00f73"
+  },
+  {
+    "title": "Someone Cleared All 1,000 Levels Of Splatoon Raiders’ ‘Bottomless Buffet’ And Got Nothing For It",
+    "summary": "The bottomless pit has a bottom after all",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/someone-cleared-all-1000-levels-of-splatoon-raiders-bottomless-buffet-2000726699",
+    "timestamp": "2026-08-21T21:30:00Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/someone-cleared-all-1000-levels-of-splatoon-raiders-bottomless-buffet-2000726699"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-21T21:30:00Z",
+    "id": "energy-4198cb5a3152348c"
+  },
+  {
+    "title": "Clanker Runs Full Speed Into A Wall And Then Snaps In Half After Stumbling Backwards Like A Looney Toons Character",
+    "summary": "Also: did Take-Two's stock really lose $2.8 billion this week?",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/clanker-runs-full-speed-into-a-wall-and-then-snaps-in-half-after-stumbling-backwards-2000726696",
+    "timestamp": "2026-08-21T21:00:48Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/clanker-runs-full-speed-into-a-wall-and-then-snaps-in-half-after-stumbling-backwards-2000726696"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-21T21:00:48Z",
+    "id": "energy-88446a20afa86409"
   },
   {
     "title": "Why can't utilities innovate?",
@@ -88,60 +295,6 @@
     "primary_source": false,
     "data_as_of": "2026-08-21T08:08:36Z",
     "id": "energy-085600a29e4d1e2a"
-  },
-  {
-    "title": "65 Years Later, the Best \"Peanuts' Linus Quote Is Still an All-Time Great Comic Strip Moment",
-    "summary": "Yes, he believes in the Great Pumpkin, but he's not wrong about everything",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/best-linus-quote-peanuts/",
-    "timestamp": "2026-08-21T08:00:13Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/best-linus-quote-peanuts/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-21T08:00:13Z",
-    "id": "energy-10d22708af7a2785"
-  },
-  {
-    "title": "The Lost Treasure of Sid Meier's Pirates",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-    "timestamp": "2026-08-21T07:23:27Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-21T07:23:27Z",
-    "id": "energy-878cb613657713cd"
-  },
-  {
-    "title": "Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review",
-    "summary": "The Metal Gear Solid: Master Collection Vol. 2 brings back one of the most polarizing entries to modern platforms",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/metal-gear-solid-4-guns-of-the-patriots-the-kotaku-review-2000726365",
-    "timestamp": "2026-08-21T07:00:23Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/metal-gear-solid-4-guns-of-the-patriots-the-kotaku-review-2000726365"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-21T07:00:23Z",
-    "id": "energy-1e0fe8affbdefd95"
   },
   {
     "title": "Zero-Sum Power Factor Games",
@@ -196,105 +349,6 @@
     "primary_source": true,
     "data_as_of": "2026-08-21T04:00:00Z",
     "id": "energy-6d6720dbbff7292d"
-  },
-  {
-    "title": "Should RL give out in-game titles to winners of EWC and other non-RLCS LANs?",
-    "summary": "There have been in-game titles for Dreamhack winners + ESL Monthlies and other pre-COVID LANs given to the winners of those tournaments, but since the open circuit began no such titles have been given https://x.com/dralii897/status/2090226982667645142?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vu25mn/should_rl_give_out_ingame_titles_to_winners_of/",
-    "timestamp": "2026-08-21T01:18:48Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vu25mn/should_rl_give_out_ingame_titles_to_winners_of/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-21T01:18:48Z",
-    "id": "energy-9d27a3a2b18fe1a6"
-  },
-  {
-    "title": "Favorite Regional series of all time?",
-    "summary": "I was reminiscing on some of my favorite series that have happened in the open era (when i started watching rlcs) and whilst a lot of my favorite series comes from LANs, i seem to remember a lot of incredible online series that I feel people don’t discuss or talk about often. For me, G2 vs Envy in Fall Regional 3 in the 21-22 season is one of my favorite series of all time since it was so back and forth. Not to mention this is when the grand finals did best of 3 SETS and the two teams ended up going to game 21 😭 submitted by /u/AbeBabey [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vtyp89/favorite_regional_series_of_all_time/",
-    "timestamp": "2026-08-20T22:49:47Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vtyp89/favorite_regional_series_of_all_time/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-20T22:49:47Z",
-    "id": "energy-fd93387bce8d8aa5"
-  },
-  {
-    "title": "What will it take for the Twins to overtake Trk as the GOATs of MENA? Did EWC take them over the edge?",
-    "summary": "Some people might argue it's already the case with the EWC win. Others might say Trk's longevity and influence on the region from his SRG days still puts him ahead. If you're part of the latter group, what's the smallest accomplishment RW9 and Kiileerrz need to become the GOATs of the region? submitted by /u/areYouDumbLad [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vtygb0/what_will_it_take_for_the_twins_to_overtake_trk/",
-    "timestamp": "2026-08-20T22:39:57Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vtygb0/what_will_it_take_for_the_twins_to_overtake_trk/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-20T22:39:57Z",
-    "id": "energy-75297dead5c638f2"
-  },
-  {
-    "title": "Darth Vader Wants Flock Surveillance Cameras In Cities To ‘Find The Rebel Scum’ And ‘Stalk My Ex-Girlfriend’",
-    "summary": "\"We all know that the Flock cameras are not only following the license plate readers; they are following children\"",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/darth-vader-wants-flock-surveillance-cameras-2000726326",
-    "timestamp": "2026-08-20T22:20:58Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/darth-vader-wants-flock-surveillance-cameras-2000726326"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-20T22:20:58Z",
-    "id": "energy-44687ba7e90ff6f8"
-  },
-  {
-    "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
-    "summary": "And I'm not alone in my hype, as fans are also impressed by the footage of a plane flying over Vice City",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
-    "timestamp": "2026-08-20T22:05:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-20T22:05:18Z",
-    "id": "energy-e806638c740503cf"
   },
   {
     "title": "MISO Real-Time Wholesale Power Prices Near Triple Digits On Grid Advisories",
@@ -358,77 +412,5 @@
     ],
     "data_as_of": "2026-08-20T14:48:19Z",
     "id": "energy-e78d863690156bf5"
-  },
-  {
-    "title": "Sonniss offers two FREE SFX libraries until September 3",
-    "summary": "Sonniss is giving away two sound effects libraries from 344 SFX until Thursday, September 3: Historical Weapons Vol. 1 and Ultimate Horror – Mini. We regularly cover Sonniss giveaways on BPB, including the massive GDC 2026 Game Audio Bundle and the recent Pinball Machines library. This offer is smaller but much more focused, with two [...] View post: Sonniss offers two FREE SFX libraries until September 3",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/20/sonniss-free-sfx-august/",
-    "timestamp": "2026-08-20T14:36:02Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/20/sonniss-free-sfx-august/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-20T14:36:02Z",
-    "id": "energy-ba23e178560b2d35"
-  },
-  {
-    "title": "Hot Shower Audio releases bathROOMs, a FREE reverb built from five bathrooms",
-    "summary": "Hot Shower Audio has released bathROOMs, a free pay-what-you-want reverb plugin for macOS and Windows. This one is a bit weird, but I don’t mind it. It’s basically a reverb that simulates five different bathroom spaces. The selectable spaces are Porcelain, Cove, Greenhouse, Lavender, and Baldosa, ranging from small and bright rooms to larger ones. [...] View post: Hot Shower Audio releases bathROOMs, a FREE reverb built from five bathrooms",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/20/hot-shower-bathrooms/",
-    "timestamp": "2026-08-20T12:32:05Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/20/hot-shower-bathrooms/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-20T12:32:05Z",
-    "id": "energy-ad1c4c1c5f6a7f8a"
-  },
-  {
-    "title": "Wild Surmise releases Ispín, a FREE saturator for desktop and iOS",
-    "summary": "Wild Surmise Music has released Ispín, a free saturation plugin for macOS, Windows, iPhone, and iPad. Ispín is a saturator that adds weight and grit through four controls, moving from gentle thickening to obvious distortion. I tested Ispín on full mixes first, but found it really hard to tame. It gets aggressive very quickly, and [...] View post: Wild Surmise releases Ispín, a FREE saturator for desktop and iOS",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/20/wild-surmise-ipsin/",
-    "timestamp": "2026-08-20T12:09:22Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/20/wild-surmise-ipsin/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-20T12:09:22Z",
-    "id": "energy-0dd9c05813d2c266"
-  },
-  {
-    "title": "He helped Uruguay decarbonize. Can he help other countries do the same?",
-    "summary": "A conversation with Ramón Méndez Galain.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/he-helped-uruguay-decarbonize-can",
-    "timestamp": "2026-08-19T10:03:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/he-helped-uruguay-decarbonize-can"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-08-19T10:03:31Z",
-    "id": "energy-61dc155d49c557e7"
   }
 ]
