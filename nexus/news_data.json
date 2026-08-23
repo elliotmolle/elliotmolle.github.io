@@ -1,5 +1,29 @@
 [
   {
+    "title": "Entergy Mississippi storm update — 8/22/2026, 7 p.m.",
+    "summary": "Overnight thunderstorms Thursday evening and Friday afternoon brought heavy rains, strong, gusty high winds, and lighting strikes into our service territory resulting in outages and damages to our facilities.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-22-2026-7-p-m",
+    "timestamp": "2026-08-23T00:11:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-22-2026-7-p-m"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-23T00:11:23Z",
+    "id": "energy-b32a64cf3ce2a191"
+  },
+  {
     "title": "Center for Used Fuel Research: Building confidence in storage and transport",
     "summary": "Used nuclear fuel storage and transportation have reached a critical juncture. Dozens of utilities need reliable data on how used nuclear fuel performs in dry storage casks and canisters to extend regulatory licenses at sites across the United States. Likewise, the Department of Energy expects to take ownership of the used nuclear fuel—termed “spent nuclear fuel” in the laws and regulations governing its stewardship—and transfer it to one or more federal staging facilities for management and disposition. Meanwhile, dozens of reactor companies are testing prototypes of advanced reactors and advanced reactor fuels. Eventually, regulators and industry must also verify the safety and security of storage methods for these advanced fuel types. To help address these challenges, the DOE established the Center for Used Fuel Research (CUFR) in January 2026 for work related to the long-term storage and transport of used nuclear fuel.",
     "source": "ANS Newswire",
@@ -136,30 +160,6 @@
     "id": "energy-b7d51ae29e61c157"
   },
   {
-    "title": "Entergy Arkansas breaks ground on Ironwood Power Station",
-    "summary": "Entergy Arkansas today broke ground on the Ironwood Power Station, marking a major milestone in the company’s efforts to strengthen the state’s energy infrastructure and meet growing demand across all sectors with reliable, affordable and flexible generation.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-arkansas-breaks-ground-on-ironwood-power-station",
-    "timestamp": "2026-08-20T20:10:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-arkansas-breaks-ground-on-ironwood-power-station"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-20T20:10:20Z",
-    "id": "energy-94558153e854fd5e"
-  },
-  {
     "title": "ISO-NE summer interns share work at poster expo",
     "summary": "ISO New England’s summer intern class of 2026 presented highlights of their work and accomplishments at a poster expo held Aug. 12 at the ISO’s campus in Holyoke, Massachusetts. The fourth annual showcase attracted a crowd of employees, who listened to interns review their posters and asked questions about the projects they worked on this summer. At the ISO, summer interns spend 11 weeks working alongside industry experts on meaningful projects that support the region’s transition to the grid of… The post ISO-NE summer interns share work at poster expo appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -180,49 +180,5 @@
     ],
     "data_as_of": "2026-08-20T13:36:25Z",
     "id": "energy-c3a2d2018fc6bb47"
-  },
-  {
-    "title": "Indiana and Virginia Legislators’ Letter Regarding Surplus Interconnection Service",
-    "summary": "Updated Date: 08.19.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260819-in-and-va-legislators-letter-re-surplus-interconnection-service.pdf",
-    "timestamp": "2026-08-19T20:39:57Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260819-in-and-va-legislators-letter-re-surplus-interconnection-service.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-08-19T20:39:57Z",
-    "id": "energy-57fa66aa8139d08f"
-  },
-  {
-    "title": "ISO-NE files proposal with FERC to assume asset condition reviewer role",
-    "summary": "The proposal, which followed an extensive stakeholder engagement process, would increase oversight of regional transmission equipment replacements. The post ISO-NE files proposal with FERC to assume asset condition reviewer role appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/19/iso-ne-files-proposal-with-ferc-to-assume-asset-condition-reviewer-role/",
-    "timestamp": "2026-08-19T14:09:52Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/19/iso-ne-files-proposal-with-ferc-to-assume-asset-condition-reviewer-role/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-19T14:09:52Z",
-    "id": "energy-70175e4fbeb7d15e"
   }
 ]
