@@ -1,5 +1,53 @@
 [
   {
+    "title": "Entergy Mississippi storm update — 8/23/2026, 6 p.m.",
+    "summary": "Restoration efforts are continuing from Thursday through Sunday morning weather impacts to the territory. In total with the latest round of weather, early morning today, approximately 75,000 outages have occurred during these weather fronts with approximately 95% restored.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-23-2026-6-p-m",
+    "timestamp": "2026-08-23T23:37:32Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-23-2026-6-p-m"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-23T23:37:32Z",
+    "id": "energy-e191118653aeba8e"
+  },
+  {
+    "title": "Entergy Mississippi storm update – 8/23/26, 1 p.m.",
+    "summary": "Crews continue restortion efforts, even as additional severe weather has impacted Entergy Mississippi's service area. In total, approximately 75,000 outages have occurred and we have restored power for 93% of customers.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-storm-update-8-23-26-1-pm",
+    "timestamp": "2026-08-23T18:03:50Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-mississippi-storm-update-8-23-26-1-pm"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-23T18:03:50Z",
+    "id": "energy-791750bccd51c5ec"
+  },
+  {
     "title": "Entergy Mississippi storm update — 8/22/2026, 7 p.m.",
     "summary": "Overnight thunderstorms Thursday evening and Friday afternoon brought heavy rains, strong, gusty high winds, and lighting strikes into our service territory resulting in outages and damages to our facilities.",
     "source": "Entergy",
@@ -46,30 +94,6 @@
     "id": "energy-a6957f22c3e326a1"
   },
   {
-    "title": "Poverty simulation hosted by Entergy and United Way of Southeast Louisiana highlights challenges facing vulnerable families",
-    "summary": "The exercise gave participants a chance to step into the shoes of individuals in need and gain a deeper understanding of their daily struggles Posted:Aug 21, 2026 | Posted:Cristina del Canto | Category:Blog post | Tags:Communities, Corporate, Giving back, Louisiana, New Orleans, Social responsibility Entergy recently partnered with the United Way of Southeast Louisiana to host a… Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/poverty-simulation-hosted-by-entergy-and-united-way-of-southeast-louisiana-highlights-challenges-facing-vulnerable-families",
-    "timestamp": "2026-08-21T18:59:05Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/poverty-simulation-hosted-by-entergy-and-united-way-of-southeast-louisiana-highlights-challenges-facing-vulnerable-families"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-21T18:59:05Z",
-    "id": "energy-1813e3a32762a779"
-  },
-  {
     "title": "Panelists talk domestic enrichment expansion at Global 2026",
     "summary": "What fuels the future of nuclear? Whether it is low-enriched uranium, LEU+, or high-assay low-enriched uranium, one of the answers is in the question itself: fuel. Earlier this week, the American Nuclear Society’s Fuel Cycle & Waste Management Division hosted Global 2026, with the theme of “Deploying Sustainable Nuclear Fuel Cycles.” During one plenary session, “Fueling the Future of Nuclear,” panelists from Urenco USA, Centrus Energy, General Matter, and Global Laser Enrichment shared with attendees how the companies were contributing to the front end of the fuel cycle—more specifically, by launching or expanding their respective enrichment services.",
     "source": "ANS Newswire",
@@ -90,30 +114,6 @@
     ],
     "data_as_of": "2026-08-21T17:28:19Z",
     "id": "energy-3bfd8e2d1798ea16"
-  },
-  {
-    "title": "Dry conditions, extreme heat combine to create fire hazards",
-    "summary": "With continued high temperatures expected across parts of our service area, we're asking customers to stay safe from the extreme heat and follow any local or state orders, such as full or partial burn bans.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/dry-conditions-extreme-heat-combine-to-create-fire-hazards",
-    "timestamp": "2026-08-21T15:37:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/dry-conditions-extreme-heat-combine-to-create-fire-hazards"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-21T15:37:21Z",
-    "id": "energy-8aa1b1864c97e2a4"
   },
   {
     "title": "IAEA research project to develop hazard detection for edible insects",
@@ -158,27 +158,5 @@
     ],
     "data_as_of": "2026-08-21T13:10:39Z",
     "id": "energy-b7d51ae29e61c157"
-  },
-  {
-    "title": "ISO-NE summer interns share work at poster expo",
-    "summary": "ISO New England’s summer intern class of 2026 presented highlights of their work and accomplishments at a poster expo held Aug. 12 at the ISO’s campus in Holyoke, Massachusetts. The fourth annual showcase attracted a crowd of employees, who listened to interns review their posters and asked questions about the projects they worked on this summer. At the ISO, summer interns spend 11 weeks working alongside industry experts on meaningful projects that support the region’s transition to the grid of… The post ISO-NE summer interns share work at poster expo appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/20/iso-ne-summer-interns-share-work-at-poster-expo/",
-    "timestamp": "2026-08-20T13:36:25Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/20/iso-ne-summer-interns-share-work-at-poster-expo/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-20T13:36:25Z",
-    "id": "energy-c3a2d2018fc6bb47"
   }
 ]

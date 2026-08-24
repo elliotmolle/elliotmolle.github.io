@@ -1,228 +1,282 @@
 [
   {
-    "title": "D&D's New Hardcore Setting Fixes the Game's Most Iconic Monster",
-    "summary": "With Dark Sun returning soon, it's time to take a look at the best representation of dragons in D&D.",
+    "title": "A Bizarre $5 Fishing Game Just Sold 1 Million Copies in Two Days on Steam",
+    "summary": "Quirky fishing game How to Fish is number one on Steam's Top Sellers list after a successful launch weekend.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/dnd-dragons-dark-sun-setting/",
-    "timestamp": "2026-08-23T10:00:14Z",
+    "url": "https://www.polygon.com/how-to-fish-friendslop-steam-game-launch-weekend-sales/",
+    "timestamp": "2026-08-24T10:05:19Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/dnd-dragons-dark-sun-setting/"
+      "https://www.polygon.com/how-to-fish-friendslop-steam-game-launch-weekend-sales/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-23T10:00:14Z",
-    "id": "energy-c7b13a927d0da57a"
+    "data_as_of": "2026-08-24T10:05:19Z",
+    "id": "energy-87a189da75d906b7"
   },
   {
-    "title": "The Sloppification of Peptides",
+    "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-    "timestamp": "2026-08-23T09:32:54Z",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+    "timestamp": "2026-08-24T09:45:02Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://henryaj.substack.com/p/the-sloppification-of-peptides"
+      "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-23T09:32:54Z",
-    "id": "energy-9555de58f599c0ee"
+    "data_as_of": "2026-08-24T09:45:02Z",
+    "id": "energy-058e2bbb806ac53e"
   },
   {
-    "title": "FIFAe Continental Qualifiers - Asia",
-    "summary": "Maldives and Qatar eliminated. Bracket: https://liquipedia.net/rocketleague/FIFAe\\_World\\_Cup/Continental\\_Championships/2026/Asia Twitch Broadcast: https://www.twitch.tv/fifae?sr=a Oman vs India Malaysia vs Indonesia Jordan vs Winner Match #1 Australia vs Winner Match #2 Final submitted by /u/simbaboom8 [link] [comments]",
+    "title": "The Future Belongs to the Weird",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://essays.georgestrakhov.com/weird/",
+    "timestamp": "2026-08-24T08:46:19Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://essays.georgestrakhov.com/weird/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-24T08:46:19Z",
+    "id": "energy-92f7aa4625868024"
+  },
+  {
+    "title": "Fast drilldown dashboards from a single Parquet file",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "timestamp": "2026-08-24T08:13:17Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-24T08:13:17Z",
+    "id": "energy-2c1bcbc6eb6f762a"
+  },
+  {
+    "title": "Paramount's Near-Perfect Western Crime Thriller that Swept the Oscars Is Officially Free to Watch",
+    "summary": "The 2007 Coen brothers film No Country for Old Men was cited by Lanterns director James Hawes as an influence. Check out the gritty masterpiece",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/lanterns-inspiration-coen-brothers-no-country-for-old-men-streaming/",
+    "timestamp": "2026-08-24T08:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/lanterns-inspiration-coen-brothers-no-country-for-old-men-streaming/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-24T08:00:14Z",
+    "id": "energy-6108929dc700f209"
+  },
+  {
+    "title": "Netflix's 5 Biggest Sci-Fi Flops, Ranked by Their Rotten Tomatoes Scores",
+    "summary": "From IO to The Electric State, these ambitious Netflix originals had franchise potential but failed to make a lasting impact.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/netflix-biggest-scifi-flops/",
+    "timestamp": "2026-08-24T08:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/netflix-biggest-scifi-flops/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-24T08:00:14Z",
+    "id": "energy-71b2977d0721a572"
+  },
+  {
+    "title": "Weyl forms in parabolic contact geometries",
+    "summary": "arXiv:2608.19386v2 Announce Type: replace Abstract: In a parabolic contact geometry a choice of contact form determines a Weyl form consisting of three components: a soldering form, a Weyl connection, and a Rho tensor. An explicit description of the soldering form is well-known. We express the Rho tensor in terms of the Weyl connection in the setting of torsion-free normal parabolic contact geometries. Parabolic contact geometries with a specified contact form have a second canonical connection, the Tanaka-Webster connection. We express the Weyl connection in terms of the Tanaka-Webster connection in the setting of normal parabolic contact geometries. As an application of some of these results we derive formulas for the harmonic curvature components in integrable Legendrian contact geometry, recovering a result of S. Ivanov, D. Vassilev, and S. Zamkovoy.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.19386",
+    "timestamp": "2026-08-24T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.19386"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-24T04:00:00Z",
+    "id": "energy-7d3c072c6597488d"
+  },
+  {
+    "title": "Wasserstein Exponential Smoothing for Distributional Time Series Forecasting",
+    "summary": "arXiv:2606.05560v2 Announce Type: replace-cross Abstract: Distributional time series arise when each temporal observation is a probability distribution rather than a scalar. We propose Wasserstein exponential smoothing (WES), a one-parameter recursive forecasting method for distributional time series on $\\mathbb{R}$. The method adapts the practical logic of classical exponential smoothing to probability distributions by updating forecast distributions along Wasserstein geodesics. This yields a simple filter that can be applied directly to empirical distributions without parametric density modeling. We estimate the smoothing parameter by minimizing an in-sample Wasserstein prediction loss and establish consistency under a distributional local-level data-generating process. In applications to high-frequency equity-index return distributions and household electricity-demand distributions, WES attains the lowest one-step-ahead Wasserstein prediction error among existing distributional autoregressive and regression-based benchmarks for all $20$ series considered, and is retained in the $90\\%$ model confidence set in every case.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2606.05560",
+    "timestamp": "2026-08-24T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2606.05560"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-24T04:00:00Z",
+    "id": "energy-df9615f0e5b064a1"
+  },
+  {
+    "title": "Volume gap for minimal submanifolds in spheres, II",
+    "summary": "arXiv:2608.21144v1 Announce Type: new Abstract: Let $f:M^n\\looparrowright\\Sph^{n+q}(1)$, $n\\ge2$ and $q\\ge1$, be a closed, connected, non-totally-geodesic minimal immersion with second fundamental form $h$, and put $S=|h|^2$ and $S_*=\\max_M S$. If $p\\in f(M)$ has multiplicity $m$ and $f^{-1}(p)=\\{x_1,\\ldots,x_m\\}$, then \\[ \\Vol(M)\\ge \\left[m+\\varepsilon_n\\sum_{j=1}^m \\left(\\frac{S(x_j)}{S_*}\\right)^2\\right]\\Vol(\\Sph^n), \\] where $[110n(n+2)^2]^{-1}<\\varepsilon_n<[104n(n+2)^2]^{-1}$. If the immersion is linearly full, then \\[ \\frac{\\Vol(M)}{\\Vol(\\Sph^n)} \\ge \\max\\!\\left\\{1+\\varepsilon_n, \\frac{4(n+1)^n}{(n+3)^{n+2}}(n+q+1)\\right\\}. \\] Moreover, for every hyperplane $H$ through the origin, each connected component of $M\\setminus f^{-1}(H)$ has volume at least $4(n+1)^n(n+3)^{-n-2}\\Vol(\\Sph^n)$; consequently the number of components is at most $\\frac{(n+3)^{n+2}}{4(n+1)^n}\\frac{\\Vol(M)}{\\Vol(\\Sph^n)}$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.21144",
+    "timestamp": "2026-08-24T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.21144"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-08-24T04:00:00Z",
+    "id": "energy-15be33c7cc7e9409"
+  },
+  {
+    "title": "FIFAe SAM stream today was the most scuffed RL stream I've ever seen.",
+    "summary": "I very rarely post but I am so surprised no one's posted about the absolute shit show that was the SAM FIFAe stream today. I don't even know where to begin.. audio levels were allll over the place, random camera cuts to nothing both in/out of game, technical pauses, weird bugs with the in-game spectating where the overlay would disappear when changing POVs, caster/game audio out of sync. I was just giggling to myelf the whole time. Props to Herc, Jorby, and Jamesbot for keeping the energy up. They did great. But good God that was the single most scuffed RL stream I've ever seen. EDIT: Forgot to mention - no hate at all to the interpretor but my man just couldn't keep up 😂😂😂 EDIT 2: VOD - https://www.youtube.com/live/UY7BdEOixAg?si=js_EsJE8RetQAcB8 This was mid game. They held the camera here for way too long 😂😂😂 submitted by /u/tharealjboogy [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vw2fdz/fifae_continental_qualifiers_asia/",
-    "timestamp": "2026-08-23T09:17:57Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vwr7vr/fifae_sam_stream_today_was_the_most_scuffed_rl/",
+    "timestamp": "2026-08-24T03:13:07Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vw2fdz/fifae_continental_qualifiers_asia/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vwr7vr/fifae_sam_stream_today_was_the_most_scuffed_rl/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-23T09:17:57Z",
-    "id": "energy-dc0aa44c8e1cfb8d"
+    "data_as_of": "2026-08-24T03:13:07Z",
+    "id": "energy-9224bda396c5a2b9"
   },
   {
-    "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://erikengdahl.se/autism/isnt/",
-    "timestamp": "2026-08-23T08:48:34Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://erikengdahl.se/autism/isnt/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-23T08:48:34Z",
-    "id": "energy-9ae57207e38458ea"
-  },
-  {
-    "title": "The 5 Best Sci-Fi Movie Quotes of the Decade So Far",
-    "summary": "These quotes from Dune, Superman, Project Hail Mary, Mickey 17, and 28 Years Later have the best sc-fi quotes of the decade so far",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/5-best-sci-fi-movie-quotes-of-the-2020s-so-far/",
-    "timestamp": "2026-08-23T08:01:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/5-best-sci-fi-movie-quotes-of-the-2020s-so-far/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-23T08:01:14Z",
-    "id": "energy-9bfca7dd40266307"
-  },
-  {
-    "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
-    "summary": "From Super Mario World to The Legend of Zelda: A Link to the Past, these are the best games on the Super Nintendo collection on Nintendo Classics",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/snes-nintendo-switch-online-classics-best-games/",
-    "timestamp": "2026-08-23T08:01:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/snes-nintendo-switch-online-classics-best-games/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-23T08:01:14Z",
-    "id": "energy-5e8dde0153f7e0ee"
-  },
-  {
-    "title": "If this is RL content now I'm scared for the offseason",
-    "summary": "it's just a reaction video but my god 😭 submitted by /u/EveningNo2307 [link] [comments]",
+    "title": "FIFAe Continental Championships Asia & SAM results",
+    "summary": "Australia, Jordan, & Oman qualify to FIFAe main event from Asia (Oman had to play another tiebreaker match vs New Zealand to qualify). Brazil & Chile qualify from SAM NA, EU, & Africa will play next week submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vw0cab/if_this_is_rl_content_now_im_scared_for_the/",
-    "timestamp": "2026-08-23T07:15:45Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vwno8l/fifae_continental_championships_asia_sam_results/",
+    "timestamp": "2026-08-24T00:24:56Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vw0cab/if_this_is_rl_content_now_im_scared_for_the/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vwno8l/fifae_continental_championships_asia_sam_results/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-23T07:15:45Z",
-    "id": "energy-d7c30a7c49715f7a"
+    "data_as_of": "2026-08-24T00:24:56Z",
+    "id": "energy-142c3d00d2d2b637"
   },
   {
-    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-    "timestamp": "2026-08-23T06:41:51Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-23T06:41:51Z",
-    "id": "energy-0b306219b3d86245"
-  },
-  {
-    "title": "This man is breaking Rocket League. | jstn Documentary by Moscar Media",
-    "summary": "Came across a neat YouTube doc. It narrates upon jstn's impossible resurgence into the highest echelon of professional RL after the NRG roster broke down. I gotta say, making LANs and placing top 10 in Blast leaderboards 3 years after people would've bet their life savings that he was washed is a legendary feat by the man. submitted by /u/xX_UnicornKitten_Xx [link] [comments]",
+    "title": "How to…? Always a day late..",
+    "summary": "Okay this might sound stupid but genuinely… how do you follow RLCS? I try to watch live events on twitch and YouTube but I can’t find an official page anywhere with schedules or updates or standings… the RL socials are hardly any help. The Rocket league website hasn’t been updated since the Paris major in May. I’m just trying to follow but genuinely seems like there’s nothing on the internet except breakdown videos and predictions on YouTube. Help me out please! submitted by /u/Kykybuck [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vvx1ks/this_man_is_breaking_rocket_league_jstn/",
-    "timestamp": "2026-08-23T04:12:23Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vwn8tk/how_to_always_a_day_late/",
+    "timestamp": "2026-08-24T00:05:48Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vvx1ks/this_man_is_breaking_rocket_league_jstn/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vwn8tk/how_to_always_a_day_late/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-23T04:12:23Z",
-    "id": "energy-7e7290d3a8e7ba5f"
+    "data_as_of": "2026-08-24T00:05:48Z",
+    "id": "energy-101ab9f88ab5c87b"
   },
   {
-    "title": "New Studio From Arkane Austin Devs Promises It Won’t Commit Another Redfall",
-    "summary": "The founders of Black Pony Immersive say they aren’t going to be tempted by live service trends, averting previous mistakes made with their most infamous immersive sim",
+    "title": "Streamer Files Class Action Lawsuit Against Twitch Over AI Training",
+    "summary": "By the site's own admission, using streamers to train generative AI was never going to be popular, but one Connecticut-based creator alleges the policy extends beyond the last month",
     "source": "Kotaku",
-    "url": "https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068",
-    "timestamp": "2026-08-22T21:48:20Z",
+    "url": "https://kotaku.com/streamer-files-class-action-lawsuit-against-twitch-over-ai-training-2000727274",
+    "timestamp": "2026-08-23T22:01:51Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068"
+      "https://kotaku.com/streamer-files-class-action-lawsuit-against-twitch-over-ai-training-2000727274"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-22T21:48:20Z",
-    "id": "energy-a9cd8b4a7c5ce8b5"
+    "data_as_of": "2026-08-23T22:01:51Z",
+    "id": "energy-d92514757b37c22a"
   },
   {
-    "title": "PlayStation Chooses The Worst Possible Time To Blast Players With Reminders That They Don’t Own Their Digital Games",
-    "summary": "Terms of service reminders went out to a bunch of PSN users amid the ongoing backlash over the end of PlayStation discs",
+    "title": "Revolutionary Macintosh Fantasy Series Celebrates 40th Anniversary With PC Version",
+    "summary": "The intricate and intensely animated Dark Castle pushed ‘80s Apple computers beyond their limits, its 1-bit legacy lingering to this very day",
     "source": "Kotaku",
-    "url": "https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054",
-    "timestamp": "2026-08-22T19:30:09Z",
+    "url": "https://kotaku.com/revolutionary-macintosh-fantasy-series-celebrates-40th-anniversary-with-pc-version-2000727271",
+    "timestamp": "2026-08-23T21:01:52Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054"
+      "https://kotaku.com/revolutionary-macintosh-fantasy-series-celebrates-40th-anniversary-with-pc-version-2000727271"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-22T19:30:09Z",
-    "id": "energy-7c1094c101fd4c8a"
+    "data_as_of": "2026-08-23T21:01:52Z",
+    "id": "energy-823462046ebe0554"
   },
   {
-    "title": "Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series",
-    "summary": "Look I’d love a fantasy cartoon that looks like a Boris Vallejo painting too but the odds are stacked against us",
+    "title": "Alleged ‘Peter Pan Stalker’ Latest Stress Test On Content Creation And Boundaries",
+    "summary": "Disneyland regular Toni Kulusich had been accused of obsessing over the park’s Peter Pan actors, sparking a backlash more intrusive than the accusations against her",
     "source": "Kotaku",
-    "url": "https://kotaku.com/fans-dismayed-golden-axe-animated-streaming-series-resembles-every-animated-streaming-series-2000727055",
-    "timestamp": "2026-08-22T18:31:39Z",
+    "url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266",
+    "timestamp": "2026-08-23T20:03:29Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/fans-dismayed-golden-axe-animated-streaming-series-resembles-every-animated-streaming-series-2000727055"
+      "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-22T18:31:39Z",
-    "id": "energy-ed3fe40ec56812ea"
+    "data_as_of": "2026-08-23T20:03:29Z",
+    "id": "energy-b91f69cd86dc51fb"
   },
   {
     "title": "Trama is a FREE offline AI stem separator for Windows, macOS, and Linux",
@@ -340,77 +394,5 @@
     ],
     "data_as_of": "2026-08-21T14:45:16Z",
     "id": "energy-29454728d42595bd"
-  },
-  {
-    "title": "Why can't utilities innovate?",
-    "summary": "A conversation with Quinn Nakayama of PG&E and Hanna Grene of Microsoft.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/why-cant-utilities-innovate",
-    "timestamp": "2026-08-21T08:08:36Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/why-cant-utilities-innovate"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-08-21T08:08:36Z",
-    "id": "energy-085600a29e4d1e2a"
-  },
-  {
-    "title": "Zero-Sum Power Factor Games",
-    "summary": "arXiv:2608.20298v1 Announce Type: cross Abstract: Variable active power injections arising from device behavior or compromised dispatch complicate voltage regulation in electric power networks with distributed energy resources (DERs). An operator can limit the resulting voltage deviations by remotely selecting DER reactive power parameters before observing the active power injections. IEEE Standard 1547-2018 specifies constant power factor as one such control mode, coupling each device's reactive power to its realized active power. Using a linear voltage model, we formulate the operator's decision as a robust minimax problem in which the operator minimizes the largest feasible aggregate voltage deviation. We solve this problem by expressing the power factor decisions through continuous reactive to active power ratios and exactly decomposing the payoff according to the signs of the voltage deviations. When every feasible voltage residual remains on its initial side of nominal, the resulting ratios cancel each injection's contribution and yield a closed form minimax strategy. We identify realistic DER ratings for which this strategy applies and quantify the regulation capacity lost…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.20298",
-    "timestamp": "2026-08-21T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.20298"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-21T04:00:00Z",
-    "id": "energy-8a80620e6be6af83"
-  },
-  {
-    "title": "Worst-Case Probability Bounds for Finite-Horizon Safety under Moment Uncertainty",
-    "summary": "arXiv:2608.20121v1 Announce Type: new Abstract: This paper addresses the problem of estimating upper bounds on the probability that a dynamical system will enter an undesirable region at some point within a finite time horizon. The primary source of uncertainty lies in the system's initial state, for which only a finite set of moments is known or within a prescribed interval. To tackle this problem, we formulate a measure-based program and propose its relaxation using the moment-sum-of-squares (moment-SOS) framework. The corresponding dual problem is introduced as a functional program, which is subsequently strengthened into a sum-of-squares (SOS) program. Notably, this dual formulation bears a structural resemblance to classical barrier function techniques for certifying system safety, with the key distinction that it yields a probabilistic certificate. The effectiveness of the proposed approach is demonstrated through multiple case studies, including a case involving an object in orbit.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.20121",
-    "timestamp": "2026-08-21T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.20121"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-21T04:00:00Z",
-    "id": "energy-ef89e36774cd59d6"
-  },
-  {
-    "title": "Which pulse maximizes resonant nonlinear conversion?",
-    "summary": "arXiv:2608.19464v1 Announce Type: cross Abstract: At fixed pulse energy, which drive waveform extracts the most $n$th-order nonlinear conversion from a resonator ($n=2$ for second harmonic)? A short pulse couples poorly to a narrow resonance, a long one dilutes its energy, and no linear rule fixes the compromise. We solve the problem exactly for a single mode of amplitude decay rate $\\kappa$. Eliminating the drive turns fixed incident energy into a constraint on the stored field alone, and the optimization becomes a sharp Gagliardo--Nirenberg inequality whose extremal is the ground-state soliton of the nonlinear Schr\\\"odinger equation. The optimal stored field is $\\mathrm{sech}^{1/(n-1)}[(n-1)\\kappa t]$, sustained by an asymmetric input that rises as $e^{\\kappa t}$ and falls as $e^{-(2n-1)\\kappa t}$; the largest converted energy follows in closed form. A rising exponential, the time-reversal recipe, retains at most $79.0\\%$ of the bound at $n=2$ and $2/e$ at large $n$; a two-rate pulse retains above $97\\%$. Critical coupling generalizes to $n$-fold overcoupling, with optimal input coupling $n$ times the intrinsic loss rate. The bound applies from microrings to superconducting circ…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.19464",
-    "timestamp": "2026-08-21T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.19464"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-21T04:00:00Z",
-    "id": "energy-6d6720dbbff7292d"
   }
 ]
