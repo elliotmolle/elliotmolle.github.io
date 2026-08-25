@@ -1,5 +1,95 @@
 [
   {
+    "title": "A closer look at the initial NLIC selections—Part 2",
+    "summary": "In January, the Department of Energy announced its new Nuclear Lifecycle Innovation Campus (NLIC) program, inviting states via a request for information to express their interest in hosting a facility supporting work from the front to the back end of the nuclear fuel cycle. By April, 26 states had expressed interest in hosting such a facility. At the end of July, the DOE signed memorandums of understanding with five states—Idaho, Louisiana, Oklahoma, Tennessee, and Utah—to more closely explore the possibilities of state-federal partnerships. These MOUs are not firm commitments from either the federal or state governments. Time will tell which—if any—of the five states develop projects through the program. In the meantime, today, we are taking a close look at what Utah, Idaho, Tennessee can offer in terms of a preexisting nuclear sector that could support new fuel cycle developments.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-24/article-8334/a-closer-look-at-the-initial-nlic-selectionspart-2/",
+    "timestamp": "2026-08-24T20:13:54Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-24/article-8334/a-closer-look-at-the-initial-nlic-selectionspart-2/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-24T20:13:54Z",
+    "id": "energy-c67ea59fd69fff37"
+  },
+  {
+    "title": "Entergy Mississippi storm update — 8/24/2026, 3 p.m.",
+    "summary": "Progress continued yesterday in the outage restoration from Thursday through Sunday morning weather impacts to the Entergy Mississippi service territory. In total, approximately 75,000 outages have occurred during these weather fronts with nearly 99% restored.",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-24-2026-3-p-m",
+    "timestamp": "2026-08-24T20:11:58Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-24-2026-3-p-m"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-24T20:11:58Z",
+    "id": "energy-43f54cddc289e6a8"
+  },
+  {
+    "title": "Global 2026 draws attention to nuclear fuel developments",
+    "summary": "Last week in Chicago, the American Nuclear Society’s Fuel Cycle & Waste Management Division hosted Global 2026, where it was abundantly clear that there are many exciting fuel-related developments in the nuclear power industry. Developments announced last week run the gamut of the fuel cycle, including enrichment, fabrication, and recycling and reprocessing.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-24/article-8333/global-2026-draws-attention-to-nuclear-fuel-developments/",
+    "timestamp": "2026-08-24T17:21:56Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-24/article-8333/global-2026-draws-attention-to-nuclear-fuel-developments/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-24T17:21:56Z",
+    "id": "energy-c032f55800148258"
+  },
+  {
+    "title": "Corpus Christi seaport latest to partner with MARAD on maritime reactors",
+    "summary": "The Department of Transportation’s Maritime Administration (MARAD) has signed its second memorandum of cooperation with a U.S. seaport to advance the development of small modular reactors to power commercial vessels, ports, and other maritime assets—this time, shifting its attention to the Gulf coast. The MOC pairs the Port of Corpus Christi in Texas with MARAD to explore SMRs, microgrids, and advanced vessel propulsion systems for maritime applications. Last week, Secretary of Transportation Sean Duffy, MARAD Administrator Stephen Carmel, Port of Corpus Christi CEO Kent Britton, and Port of Corpus Christi Commission Chair Gabe Guerra signed the MOC at a ceremony.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-24/article-8332/corpus-christi-seaport-latest-to-partner-with-marad-on-maritime-reactors/",
+    "timestamp": "2026-08-24T15:23:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-24/article-8332/corpus-christi-seaport-latest-to-partner-with-marad-on-maritime-reactors/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-24T15:23:28Z",
+    "id": "energy-a528455c85411720"
+  },
+  {
     "title": "Entergy Mississippi storm update — 8/23/2026, 6 p.m.",
     "summary": "Restoration efforts are continuing from Thursday through Sunday morning weather impacts to the territory. In total with the latest round of weather, early morning today, approximately 75,000 outages have occurred during these weather fronts with approximately 95% restored.",
     "source": "Entergy",
@@ -46,117 +136,5 @@
     ],
     "data_as_of": "2026-08-23T18:03:50Z",
     "id": "energy-791750bccd51c5ec"
-  },
-  {
-    "title": "Entergy Mississippi storm update — 8/22/2026, 7 p.m.",
-    "summary": "Overnight thunderstorms Thursday evening and Friday afternoon brought heavy rains, strong, gusty high winds, and lighting strikes into our service territory resulting in outages and damages to our facilities.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-22-2026-7-p-m",
-    "timestamp": "2026-08-23T00:11:23Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-22-2026-7-p-m"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-23T00:11:23Z",
-    "id": "energy-b32a64cf3ce2a191"
-  },
-  {
-    "title": "Center for Used Fuel Research: Building confidence in storage and transport",
-    "summary": "Used nuclear fuel storage and transportation have reached a critical juncture. Dozens of utilities need reliable data on how used nuclear fuel performs in dry storage casks and canisters to extend regulatory licenses at sites across the United States. Likewise, the Department of Energy expects to take ownership of the used nuclear fuel—termed “spent nuclear fuel” in the laws and regulations governing its stewardship—and transfer it to one or more federal staging facilities for management and disposition. Meanwhile, dozens of reactor companies are testing prototypes of advanced reactors and advanced reactor fuels. Eventually, regulators and industry must also verify the safety and security of storage methods for these advanced fuel types. To help address these challenges, the DOE established the Center for Used Fuel Research (CUFR) in January 2026 for work related to the long-term storage and transport of used nuclear fuel.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-21/article-8225/center-for-used-fuel-research-building-confidence-in-storage-and-transport/",
-    "timestamp": "2026-08-21T20:02:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-21/article-8225/center-for-used-fuel-research-building-confidence-in-storage-and-transport/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-21T20:02:22Z",
-    "id": "energy-a6957f22c3e326a1"
-  },
-  {
-    "title": "Panelists talk domestic enrichment expansion at Global 2026",
-    "summary": "What fuels the future of nuclear? Whether it is low-enriched uranium, LEU+, or high-assay low-enriched uranium, one of the answers is in the question itself: fuel. Earlier this week, the American Nuclear Society’s Fuel Cycle & Waste Management Division hosted Global 2026, with the theme of “Deploying Sustainable Nuclear Fuel Cycles.” During one plenary session, “Fueling the Future of Nuclear,” panelists from Urenco USA, Centrus Energy, General Matter, and Global Laser Enrichment shared with attendees how the companies were contributing to the front end of the fuel cycle—more specifically, by launching or expanding their respective enrichment services.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-21/article-8323/panelists-talk-domestic-enrichment-expansion-at-global-2026/",
-    "timestamp": "2026-08-21T17:28:19Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-21/article-8323/panelists-talk-domestic-enrichment-expansion-at-global-2026/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-21T17:28:19Z",
-    "id": "energy-3bfd8e2d1798ea16"
-  },
-  {
-    "title": "IAEA research project to develop hazard detection for edible insects",
-    "summary": "This week, the International Atomic Energy Agency announced a new coordinated research project (CRP) to improve understanding of the safety of edible insects and other novel foods and to use nuclear and related technologies to assess risks.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-21/article-8316/iaea-research-project-to-develop-hazard-detection-for-edible-insects/",
-    "timestamp": "2026-08-21T14:38:11Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-21/article-8316/iaea-research-project-to-develop-hazard-detection-for-edible-insects/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-21T14:38:11Z",
-    "id": "energy-6615745f4634fc90"
-  },
-  {
-    "title": "Registration open for Consumer Liaison Group meeting in Maine",
-    "summary": "A virtual attendance option is also available for the Sept. 24 event. The post Registration open for Consumer Liaison Group meeting in Maine appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/21/registration-open-for-consumer-liaison-group-meeting-in-maine/",
-    "timestamp": "2026-08-21T13:10:39Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/21/registration-open-for-consumer-liaison-group-meeting-in-maine/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-21T13:10:39Z",
-    "id": "energy-b7d51ae29e61c157"
   }
 ]
