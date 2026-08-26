@@ -1,16 +1,16 @@
 [
   {
-    "title": "A closer look at the initial NLIC selections—Part 2",
-    "summary": "In January, the Department of Energy announced its new Nuclear Lifecycle Innovation Campus (NLIC) program, inviting states via a request for information to express their interest in hosting a facility supporting work from the front to the back end of the nuclear fuel cycle. By April, 26 states had expressed interest in hosting such a facility. At the end of July, the DOE signed memorandums of understanding with five states—Idaho, Louisiana, Oklahoma, Tennessee, and Utah—to more closely explore the possibilities of state-federal partnerships. These MOUs are not firm commitments from either the federal or state governments. Time will tell which—if any—of the five states develop projects through the program. In the meantime, today, we are taking a close look at what Utah, Idaho, Tennessee can offer in terms of a preexisting nuclear sector that could support new fuel cycle developments.",
+    "title": "Second round of Launch Pad selections includes eight newcomers",
+    "summary": "The National Reactor Innovation Center at Idaho National Laboratory has announced 13 project selections across 12 companies for the Nuclear Energy Launch Pad, a Department of Energy–led program that integrates reactor and fuel facility authorization, testing, and deployment support for private nuclear developers. The Launch Pad emerged from the Reactor Pilot Program and Fuel Line Pilot Program. According to INL, projects selected include reactor development and nuclear fuel cycle advancements, including fabrication, enrichment, and conversion technologies.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-24/article-8334/a-closer-look-at-the-initial-nlic-selectionspart-2/",
-    "timestamp": "2026-08-24T20:13:54Z",
+    "url": "https://www.ans.org/news/2026-08-25/article-8338/second-round-of-launch-pad-selections-includes-eight-newcomers/",
+    "timestamp": "2026-08-25T21:02:47Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-24/article-8334/a-closer-look-at-the-initial-nlic-selectionspart-2/"
+      "https://www.ans.org/news/2026-08-25/article-8338/second-round-of-launch-pad-selections-includes-eight-newcomers/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,74 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-24T20:13:54Z",
-    "id": "energy-c67ea59fd69fff37"
+    "data_as_of": "2026-08-25T21:02:47Z",
+    "id": "energy-293c65641b09ca0d"
+  },
+  {
+    "title": "NECX 2026 kicks off with a look to the future",
+    "summary": "The second annual Nuclear Energy Conference & Expo (NECX 2026), hosted in Dallas, Texas, kicked off this morning with an exciting opening plenary that saw leaders from government, regulation, and industry discussing the unprecedented opportunities now open to the nuclear sector. NECX, the premier nuclear industry conference cohosted by the American Nuclear Society and the Nuclear Energy Institute, is all about leveraging those opportunities.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-25/article-8337/necx-2026-kicks-off-with-a-look-to-the-future/",
+    "timestamp": "2026-08-25T17:23:06Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-25/article-8337/necx-2026-kicks-off-with-a-look-to-the-future/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-25T17:23:06Z",
+    "id": "energy-204f7ad669a2df88"
+  },
+  {
+    "title": "GAO report analyzes nuclear fuel efforts in national security and commercial sectors",
+    "summary": "The Government Accountability Office has released a report to Congress titled “Nuclear Fuel: Actions Needed to Enhance Cost Reporting and Economic Analysis for Federal Uranium Supply Efforts.” The report describes National Nuclear Security Administration estimates of enriched uranium supplies and demands, examines the NNSA’s plans to meet enriched uranium needs, and describes potential challenges to meeting supply goals. It also examines Department of Energy efforts to support the front-end fuel cycle for the commercial nuclear industry.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-25/article-8336/gao-report-analyzes-nuclear-fuel-efforts-in-national-security-and-commercial-sectors/",
+    "timestamp": "2026-08-25T15:25:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-25/article-8336/gao-report-analyzes-nuclear-fuel-efforts-in-national-security-and-commercial-sectors/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-25T15:25:44Z",
+    "id": "energy-55d052d90cc007ff"
+  },
+  {
+    "title": "Market monitor issues spring 2026 quarterly report",
+    "summary": "The total estimated wholesale market cost of electricity was $1.75 billion, up 6% from spring 2025. The post Market monitor issues spring 2026 quarterly report appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/25/market-monitor-issues-spring-2026-quarterly-report/",
+    "timestamp": "2026-08-25T13:23:48Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/25/market-monitor-issues-spring-2026-quarterly-report/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-25T13:23:48Z",
+    "id": "energy-fe9a10b3e57b3703"
   },
   {
     "title": "Entergy Mississippi storm update — 8/24/2026, 3 p.m.",
@@ -46,48 +112,28 @@
     "id": "energy-43f54cddc289e6a8"
   },
   {
-    "title": "Global 2026 draws attention to nuclear fuel developments",
-    "summary": "Last week in Chicago, the American Nuclear Society’s Fuel Cycle & Waste Management Division hosted Global 2026, where it was abundantly clear that there are many exciting fuel-related developments in the nuclear power industry. Developments announced last week run the gamut of the fuel cycle, including enrichment, fabrication, and recycling and reprocessing.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-24/article-8333/global-2026-draws-attention-to-nuclear-fuel-developments/",
-    "timestamp": "2026-08-24T17:21:56Z",
+    "title": "Entergy Mississippi storm update – 8/24/2026, 3 p.m.",
+    "summary": "Progress continued yesterday in the outage restoration from Thursday through Sunday morning weather impacts to the Entergy Mississippi service territory. In total, approximately 75,000 outages have occurred during these weather fronts with nearly 99% restored. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-storm-update-8-24-2026-3-p-m",
+    "timestamp": "2026-08-24T20:11:58Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-24/article-8333/global-2026-draws-attention-to-nuclear-fuel-developments/"
+      "https://www.entergy.com/stormcenter/entergy-mississippi-storm-update-8-24-2026-3-p-m"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
+    "source_tier": "primary",
+    "primary_source": true,
     "entities": [
-      "American Nuclear Society",
-      "ANS"
+      "Entergy"
     ],
-    "data_as_of": "2026-08-24T17:21:56Z",
-    "id": "energy-c032f55800148258"
-  },
-  {
-    "title": "Corpus Christi seaport latest to partner with MARAD on maritime reactors",
-    "summary": "The Department of Transportation’s Maritime Administration (MARAD) has signed its second memorandum of cooperation with a U.S. seaport to advance the development of small modular reactors to power commercial vessels, ports, and other maritime assets—this time, shifting its attention to the Gulf coast. The MOC pairs the Port of Corpus Christi in Texas with MARAD to explore SMRs, microgrids, and advanced vessel propulsion systems for maritime applications. Last week, Secretary of Transportation Sean Duffy, MARAD Administrator Stephen Carmel, Port of Corpus Christi CEO Kent Britton, and Port of Corpus Christi Commission Chair Gabe Guerra signed the MOC at a ceremony.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-24/article-8332/corpus-christi-seaport-latest-to-partner-with-marad-on-maritime-reactors/",
-    "timestamp": "2026-08-24T15:23:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-24/article-8332/corpus-christi-seaport-latest-to-partner-with-marad-on-maritime-reactors/"
+    "tickers": [
+      "ETR"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-24T15:23:28Z",
-    "id": "energy-a528455c85411720"
+    "data_as_of": "2026-08-24T20:11:58Z",
+    "id": "energy-f3e8124f3f0e6773"
   },
   {
     "title": "Entergy Mississippi storm update — 8/23/2026, 6 p.m.",
@@ -112,29 +158,5 @@
     ],
     "data_as_of": "2026-08-23T23:37:32Z",
     "id": "energy-e191118653aeba8e"
-  },
-  {
-    "title": "Entergy Mississippi storm update – 8/23/26, 1 p.m.",
-    "summary": "Crews continue restortion efforts, even as additional severe weather has impacted Entergy Mississippi's service area. In total, approximately 75,000 outages have occurred and we have restored power for 93% of customers.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-storm-update-8-23-26-1-pm",
-    "timestamp": "2026-08-23T18:03:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/entergy-mississippi-storm-update-8-23-26-1-pm"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-23T18:03:50Z",
-    "id": "energy-791750bccd51c5ec"
   }
 ]

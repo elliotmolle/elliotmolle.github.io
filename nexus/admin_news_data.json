@@ -1,304 +1,322 @@
 [
   {
-    "title": "It's the End of an Era for This Star Wars Character",
-    "summary": "Another Star Wars character bites the dust in Fantasy Flight Games' Star Wars Unlimited.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/star-wars-unlimited-cad-bane-ban/",
-    "timestamp": "2026-08-25T10:29:27Z",
-    "topic": "Gaming",
+    "title": "Making data centers flexible so they can serve the grid rather than stress it out",
+    "summary": "A conversation with Varun Sivaram of Emerald AI.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/making-data-centers-flexible-so-they",
+    "timestamp": "2026-08-26T10:10:28Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/star-wars-unlimited-cad-bane-ban/"
+      "https://www.volts.wtf/p/making-data-centers-flexible-so-they"
     ],
-    "source_tier": "primary",
+    "source_tier": "opinion",
     "primary_source": false,
-    "data_as_of": "2026-08-25T10:29:27Z",
-    "id": "energy-12ec5ed8817ee617"
+    "data_as_of": "2026-08-26T10:10:28Z",
+    "id": "energy-dd817244270d9f72"
   },
   {
-    "title": "NoiseRoom UIO releases Andes JX, a FREE open-source synth for Windows",
-    "summary": "NoiseRoom UIO has released Andes JX, a free and open-source polyphonic subtractive synthesizer for Windows. The independent audio lab is based in Quito, Ecuador. Last year, we featured its NoiseRverb convolution reverb, which captures the acoustics of historic churches around the city. Andes JX continues that connection to Ecuador, but from a different angle. Its [...] View post: NoiseRoom UIO releases Andes JX, a FREE open-source synth for Windows",
+    "title": "Noise Trip Drive Collection brings 16 overdrive pedals to your DAW (30% OFF + extra BPB discount)",
+    "summary": "Noise Trip has released Drive Collection, a new plugin that brings 16 classic, modern, and rare guitar overdrive circuits to macOS and Windows. This is the debut release from Noise Trip, a solo independent plugin developer from England. Drive Collection is available at a 30% launch discount until September 9th, and BPB readers get an [...] View post: Noise Trip Drive Collection brings 16 overdrive pedals to your DAW (30% OFF + extra BPB discount)",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/25/noiseroom-andes-jx/",
-    "timestamp": "2026-08-25T10:23:04Z",
+    "url": "https://bedroomproducersblog.com/2026/08/26/noise-trip-drive-collection/",
+    "timestamp": "2026-08-26T10:08:49Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/25/noiseroom-andes-jx/"
+      "https://bedroomproducersblog.com/2026/08/26/noise-trip-drive-collection/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-25T10:23:04Z",
-    "id": "energy-5e2c2908bd1b4607"
+    "data_as_of": "2026-08-26T10:08:49Z",
+    "id": "energy-1812d54068a8fa54"
   },
   {
-    "title": "Metal Gear Solid Partners up With the Only Thing Stealthier Than Snake",
-    "summary": "Cat merch is coming your way, Metal Gear Solid fans, but it will only be available for two days at CatCon and OKS Gear Shop.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/metal-gear-solid-mgs-catcon-exclusive-merch/",
-    "timestamp": "2026-08-25T10:21:45Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/metal-gear-solid-mgs-catcon-exclusive-merch/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-25T10:21:45Z",
-    "id": "energy-4a2f18836228c208"
-  },
-  {
-    "title": "Why some US restaurants are banning tips",
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/c4g36yze692o",
-    "timestamp": "2026-08-25T10:09:47Z",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "timestamp": "2026-08-26T10:04:55Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.bbc.com/news/articles/c4g36yze692o"
+      "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-25T10:09:47Z",
-    "id": "energy-32353451ce0bd90b"
+    "data_as_of": "2026-08-26T10:04:55Z",
+    "id": "energy-bc283d6ef689ec2a"
   },
   {
-    "title": "HOFA SYSTEM can now host one third-party plugin for FREE",
-    "summary": "HOFA-Plugins has released SYSTEM ThirdPartyPluginLoader, allowing the free version of HOFA SYSTEM to host one third-party plugin at a time. HOFA SYSTEM is a modular environment for custom effect chains, routing, and modulation. We previously covered its free DigiDestroy bitcrusher, which works inside SYSTEM or separately. The new loader supports VST2, VST3, and AU plugins, [...] View post: HOFA SYSTEM can now host one third-party plugin for FREE",
+    "title": "The Witcher Announces Exciting New Crossover With Major Game Franchise",
+    "summary": "CD Projekt Red announces a crossover event with Diablo and the launch of The Witcher 3 on Battle.net as part of collab with Blizzard.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/witcher-diablo-skin-collabration-cdpr-blizzard-battlenet/",
+    "timestamp": "2026-08-26T09:46:43Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/witcher-diablo-skin-collabration-cdpr-blizzard-battlenet/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-26T09:46:43Z",
+    "id": "energy-ab338a93c22157b0"
+  },
+  {
+    "title": "Social media use on the rise among Australian under-16s after ban: data",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+    "timestamp": "2026-08-26T09:35:58Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-26T09:35:58Z",
+    "id": "energy-5fcee2162e9a3d52"
+  },
+  {
+    "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.globalsolo.global/data/banking-access-index",
+    "timestamp": "2026-08-26T09:01:49Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.globalsolo.global/data/banking-access-index"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-26T09:01:49Z",
+    "id": "energy-589a8bad9eb698ef"
+  },
+  {
+    "title": "I’m Not Sure Whatever Point Stranger Than Heaven Is Trying To Prove Is Worth The Headache",
+    "summary": "The Yakuza prequel’s obtuse control scheme feels at odds with how its fights flow",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/stranger-than-heaven-preview-yakuza-like-dragon-controls-2000727560",
+    "timestamp": "2026-08-26T09:00:52Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/stranger-than-heaven-preview-yakuza-like-dragon-controls-2000727560"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-26T09:00:52Z",
+    "id": "energy-2c98acf256c22091"
+  },
+  {
+    "title": "After Playing Persona 4 Revival, It’s Nice To Know Some Parts Of The RPG Classic Are Still Timeless",
+    "summary": "The early sections of the remake still hit like they did in 2008",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/persona-4-revival-preview-gamescom-atlus-p-studio-boss-2000727581",
+    "timestamp": "2026-08-26T09:00:33Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/persona-4-revival-preview-gamescom-atlus-p-studio-boss-2000727581"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-26T09:00:33Z",
+    "id": "energy-733d463dd4f2bea6"
+  },
+  {
+    "title": "The Witcher 3 Songs of the Past’s First Gameplay Demo Showcases Geralt’s New Weapon and Deadly Enemies",
+    "summary": "I watched an hour-long gameplay demo of The Witcher 3: Songs of the Past, and it shows Geralt back at his best.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/witcher-3-songs-past-preview-gameplay-gamescom/",
+    "timestamp": "2026-08-26T08:57:36Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/witcher-3-songs-past-preview-gameplay-gamescom/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-26T08:57:36Z",
+    "id": "energy-469e912b66b98588"
+  },
+  {
+    "title": "Alien Geoguessr Meets Sherlock Holmes in This Captivating Steam Mystery",
+    "summary": "Locator: The Search for Abigail Lidari is a geography-themed puzzler set on an alien planet all about black holes and a missing astronaut.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/locator-search-for-abigail-lidari-preview-gamescom/",
+    "timestamp": "2026-08-26T08:00:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/locator-search-for-abigail-lidari-preview-gamescom/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-26T08:00:15Z",
+    "id": "energy-cbc64205976aa875"
+  },
+  {
+    "title": "Modern Warfare 4 Team Promises To Patch Captain ‘Just F*ck My Shit Up’ Price’s Hairline",
+    "summary": "Or he could just embrace it and go bald.",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/modern-warfare-4-team-promises-to-patch-captain-just-fuck-my-shit-up-prices-hairline-2000728040",
+    "timestamp": "2026-08-26T07:00:31Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/modern-warfare-4-team-promises-to-patch-captain-just-fuck-my-shit-up-prices-hairline-2000728040"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-26T07:00:31Z",
+    "id": "energy-2cb68699b7954961"
+  },
+  {
+    "title": "Jeesonic releases Metering Cockpit, a FREE loudness meter for macOS and Windows",
+    "summary": "Developer Jeesonic has released a free loudness meter for macOS and Windows, called Metering Cockpit. Loudness meters or analysers are rarely the first thing on our minds when we have some spare cash for plugins, but they are often the unsung hero of any music-maker’s workflow. Luckily for us, we don’t need to spend a [...] View post: Jeesonic releases Metering Cockpit, a FREE loudness meter for macOS and Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/25/hofa-system-free/",
-    "timestamp": "2026-08-25T09:41:29Z",
+    "url": "https://bedroomproducersblog.com/2026/08/26/jeesonic-metering-cockpit/",
+    "timestamp": "2026-08-26T06:32:00Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/25/hofa-system-free/"
+      "https://bedroomproducersblog.com/2026/08/26/jeesonic-metering-cockpit/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-25T09:41:29Z",
-    "id": "energy-91f12018efcde3d2"
+    "data_as_of": "2026-08-26T06:32:00Z",
+    "id": "energy-17c86db0aca2cdbf"
   },
   {
-    "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
-    "timestamp": "2026-08-25T09:17:33Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://link.springer.com/article/10.1007/s12519-026-01046-1"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-25T09:17:33Z",
-    "id": "energy-b47640d5a2393819"
-  },
-  {
-    "title": "Ridley Scott's Canceled 2-Part Sci-Fi Streaming Series Is \"Westworld Meets Blade Runner\"",
-    "summary": "With The Dog Stars bringing Ridley Scott back to sci-fi, revisit the ambitious HBO Max series that deserved a third season.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/ridley-scott-raised-by-wolves-sci-fi-series/",
-    "timestamp": "2026-08-25T08:00:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/ridley-scott-raised-by-wolves-sci-fi-series/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-25T08:00:14Z",
-    "id": "energy-8c1b04089f1a8484"
-  },
-  {
-    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://github.com/dragthelake/ambient-context",
-    "timestamp": "2026-08-25T04:33:24Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://github.com/dragthelake/ambient-context"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-25T04:33:24Z",
-    "id": "energy-77a3f5ac9cfd170b"
-  },
-  {
-    "title": "Zeroth-Order Nonsmooth Nonconvex Optimization with Convex Liftings and Its Application to State-Feedback $H_\\infty$ Policy Optimization",
-    "summary": "arXiv:2608.23178v1 Announce Type: new Abstract: Direct policy optimization is widely used in reinforcement learning and control, but generally leads to nonconvex optimization problems. For state-feedback $H_\\infty$ control, the policy objective is also nonsmooth, despite possessing a benign landscape whose hidden convexity can be revealed by the recently developed extended convex lifting framework. Motivated by recent advances in hidden convex optimization, we study zeroth-order optimization of nonsmooth, nonconvex problems admitting a convex lifting. We propose a zeroth-order proximal point algorithm: An inexact proximal-point outer loop constructs strongly convex subproblems, while an inner loop approximately solves each subproblem using only function evaluations. With probability at least $1-\\delta$, our proposed algorithm returns an $\\epsilon$-optimal solution using $\\widetilde{O}\\left(d\\epsilon^{-3}\\right)$ function evaluations, while all iterates remain feasible without explicit projection. Finally, we verify that the assumptions underlying our analysis hold for discrete-time state-feedback $H_\\infty$ policy optimization, yielding an oracle complexity of $\\widetilde{O}\\left(…",
+    "title": "Winning property of counterexamples to Uniform Littlewood's Conjecture",
+    "summary": "arXiv:2608.24401v1 Announce Type: new Abstract: In this paper, we prove that the set of counterexamples to uniform Littlewood's conjecture proposed in \\cite{BFK25}, that is, the set of real pairs $(x,y)$ satisfying $$\\limsup_{Q\\to+\\infty}\\ Q\\min_{1\\leq q\\leq Q}\\langle qx\\rangle\\langle qy\\rangle>0$$ is hyperplane absolute winning. In particular, it has full Hausdorff dimension in $\\mathbb{R}^2$.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.23178",
-    "timestamp": "2026-08-25T04:00:00Z",
+    "url": "https://arxiv.org/abs/2608.24401",
+    "timestamp": "2026-08-26T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2608.23178"
+      "https://arxiv.org/abs/2608.24401"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-08-25T04:00:00Z",
-    "id": "energy-d83f8eea053cf794"
+    "data_as_of": "2026-08-26T04:00:00Z",
+    "id": "energy-147608c9322f7184"
   },
   {
-    "title": "Zeros of the Dirichlet series of even zeta values",
-    "summary": "arXiv:2607.20758v2 Announce Type: replace Abstract: We give a complete unconditional description of the zero set of the Dirichlet series $\\mathbf{D}(s) = \\sum_{n \\ge 1} \\zeta(2n)n^{-s}$, which continues meromorphically to $\\mathbb{C}$ with a single simple pole at $s = 1$. The series possesses neither an Euler product nor a self-dual functional equation, and descriptions with this level of completeness are exceedingly rare for such series. The key input is an exact functional equation of Hecke type, obtained from the Lipschitz summation formula, which expresses $\\mathbf{D}$ in the left half-plane as a gamma factor times a dual series over the complex logarithms of the perfect squares; Riemann's functional equation appears as a single column of the dual series. The zeros fall into four families. The half-plane $\\sigma \\ge \\sigma_0 = 1.5001\\ldots$ is zero-free, and $\\mathbf{D}$ has a unique real zero $\\rho_0 = 0.2004\\ldots$. The zeros in the critical strip are perturbed $a$-points of $\\zeta$ for values of $a$ near $-(\\zeta(2)-1)$, and their counting function obeys a Riemann--von Mangoldt law. The remaining zeros form two complex-conjugate strings that recede into the left half-plane…",
+    "title": "When is double negation Scott continuous?",
+    "summary": "arXiv:2608.17107v2 Announce Type: replace Abstract: Let $L$ be the frame of opens of a $T_0$-space $X$. We prove that if $X$ is sober and $T_1$, then the double negation nucleus on $L$ is Scott continuous iff $X$ is discrete. It follows that if, in addition, $X$ is compact then double negation is Scott continuous iff $X$ is finite. We show that both the sober and $T_1$ assumptions are essential, and generalize the above results to all boolean nuclei on $L$. A pointfree characterization of when $X$ is sober and $T_1$ is also given by proving that it is equivalent to Scott continuous nuclei on $L$ being closed.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.20758",
-    "timestamp": "2026-08-25T04:00:00Z",
+    "url": "https://arxiv.org/abs/2608.17107",
+    "timestamp": "2026-08-26T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2607.20758"
+      "https://arxiv.org/abs/2608.17107"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-08-25T04:00:00Z",
-    "id": "energy-8bb09496f13e3a24"
+    "data_as_of": "2026-08-26T04:00:00Z",
+    "id": "energy-5cf175912642e6cb"
   },
   {
-    "title": "Yun's zeta function and the overorder zeta function for Gorenstein cubic orders",
-    "summary": "arXiv:2608.22431v1 Announce Type: new Abstract: For every Gorenstein cubic $\\mathbb Z$-order, we prove an identity equating Yun's zeta function, defined by counting finite-index submodules of the trace dual, with the explicit overorder zeta function introduced in our previous work on Beyond Endoscopy for $\\mathrm{GL}_3$. This is posed as Conjecture A in an early draft of Deng-Espinosa and Lee subsequently proved the functional equation of the overorder zeta function, making the Deng--Espinosa isolation of the trivial representation fully unconditional. His argument computes the local factors explicitly. Our proof is independent of Lee's and does not evaluate the individual cubic overorder factors: it matches natural decompositions of the two sides and concludes by induction. As an application, we give a short, uniform evaluation of the local $\\mathrm{GL}_3 $ Kloosterman Dirichlet series in the Poisson-summation argument of Deng--Espinosa. The direct local analysis of the Kloosterman series occupies nearly ninety pages in Deng--Espinosa while our treatment here replaces its case-by-case enumeration with a short uniform proof.",
+    "title": "Weil positivity in compact windows: certified two-sided bounds and a Landau--Widom decay law",
+    "summary": "arXiv:2608.24827v1 Announce Type: new Abstract: Weil's criterion equates the Riemann Hypothesis with the positivity of an explicit quadratic form $Q(f)$. For test functions supported in a window $[-L,L]$ we study the profile $\\lambda^*(L)=\\inf Q(f)/\\|f\\|_2^2$ from both sides. A one-stroke reduction converts window positivity into positive semidefiniteness of a finite matrix; executing it at $L=0.8$ yields the unconditional certificate $Q(f)\\ge 8.9\\times 10^{-18}\\|f\\|_2^2$ for all (complex) $f$ of support $1.6$, extending the classical range $\\log 2$ of Yoshida and Connes--Consani by a factor $2.3$. The same computation shows that the window ground state is simple and even. On the other side, interval-arithmetic Rayleigh quotients, evaluated on the geometric side of the explicit formula with no appeal to zeros or to RH, give unconditional upper bounds down to $3.2\\times 10^{-283}$ at $L=2$. They follow $-\\ln\\lambda^*(L)\\simeq 2\\pi^2 N(T^*)/\\ln N(T^*)$ with $T^*=2\\pi e^{2L}$, the Landau--Widom plunge rate for time--band limiting. At $L=0.8$ the two halves enclose the profile, $8.9\\times 10^{-18}\\le\\lambda^*(0.8)\\le 2.27\\times 10^{-17}$. Any pointwise-envelope certificate must resolv…",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.22431",
-    "timestamp": "2026-08-25T04:00:00Z",
+    "url": "https://arxiv.org/abs/2608.24827",
+    "timestamp": "2026-08-26T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2608.22431"
+      "https://arxiv.org/abs/2608.24827"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-08-25T04:00:00Z",
-    "id": "energy-a6eaa29e032aeeb3"
+    "data_as_of": "2026-08-26T04:00:00Z",
+    "id": "energy-2289af19fbc09972"
   },
   {
-    "title": "France Celebrates $7 Billion Dragon Ball Z Theme Park Paid For By Saudi Arabia: ‘You Know My Passion For Manga’",
-    "summary": "The anime-washing is in full swing",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/france-celebrates-7-billion-dragon-ball-z-theme-park-paid-for-by-saudi-arabia-you-know-my-passion-for-manga-2000727680",
-    "timestamp": "2026-08-24T22:00:56Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/france-celebrates-7-billion-dragon-ball-z-theme-park-paid-for-by-saudi-arabia-you-know-my-passion-for-manga-2000727680"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-24T22:00:56Z",
-    "id": "energy-c27ee1c03be56b22"
-  },
-  {
-    "title": "Every Song And Radio Station We’ve Spotted In The GTA 6 Leaks",
-    "summary": "From classic rock to recent pop hits and some oddball choices like a foreign cover of \"Heart of Glass,\" here's all the music (so far)",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/every-song-and-radio-station-weve-spotted-in-the-gta-6-leaks-2000727661",
-    "timestamp": "2026-08-24T21:30:01Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/every-song-and-radio-station-weve-spotted-in-the-gta-6-leaks-2000727661"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-24T21:30:01Z",
-    "id": "energy-0b4aa3122171ecf2"
-  },
-  {
-    "title": "Game About Finding A Needle In A 5-Million-Piece Haystack Is Either Serene Or Stressful Depending On Who You Ask",
-    "summary": "The unnamed game will have a Steam page later this week",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664",
-    "timestamp": "2026-08-24T20:45:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-24T20:45:16Z",
-    "id": "energy-065e9918371288ec"
-  },
-  {
-    "title": "RLFS S5 [Swiss - Round 5]: Vernal Kerato Conjunctivitis [Vatira, kofyr, Catalysm] vs. Quenchiest [M0nkey M00n, juicy, Fever]",
-    "summary": "Rocket League Fantasy Series (RLFS) - Season 5 The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. Swiss - Round 5 - Game 2 Vernal Kerato Conjunctivitis Vatira kofyr Catalysm GM Message: N/A Quenchiest M0nkey M00n juicy) Fever GM Message: M0nkey M00n. Juicy. Fever. Do you know what these three players all have in common? They all love cactus juice*. Juicy, delicious cactus juice that leaves you in a Fever dream where you feel like a M0nkey flying over the M00n. Don't overthink it, follow the wise words of Captain B…",
+    "title": "Version1 was the best",
+    "summary": "Just came to say version 1 with beast, torment, and comm was the best team ever. Had the best player in the game, the best demo(er) and also an elite striker, and had a third man that didn’t get scored on ever. That’s all submitted by /u/ChariZmatt [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vx6sks/rlfs_s5_swiss_round_5_vernal_kerato/",
-    "timestamp": "2026-08-24T15:57:15Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vyk5wl/version1_was_the_best/",
+    "timestamp": "2026-08-26T02:24:13Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vx6sks/rlfs_s5_swiss_round_5_vernal_kerato/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vyk5wl/version1_was_the_best/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-24T15:57:15Z",
-    "id": "energy-35a359b3abe31ec9"
+    "data_as_of": "2026-08-26T02:24:13Z",
+    "id": "energy-a54e374b4b9b5a12"
   },
   {
-    "title": "Top 10 in 1v1 right now?",
-    "summary": "Rank My List Bro's List 1 Nwpo Nass 2 Nass Nwpo 3 Diaz Diaz 4 trk511 / Zen Zen 5 Osaft / Rezears trk511 6 Mawkzy Kv1 7 Firstkiller Firstkiller 8 Kv1 Mawkzy 9 Nush / Fbi Nush 10 Rebmob Rezears submitted by /u/eNot_O [link] [comments]",
+    "title": "Is WeDemGirlz still the most successful non-org backed team in history?",
+    "summary": "Top 4 in Season 6 Eleague 2018 champions If so will we ever see anyone surpass them? submitted by /u/NobodyAtAll77 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vx5cxv/top_10_in_1v1_right_now/",
-    "timestamp": "2026-08-24T15:04:12Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vy6e66/is_wedemgirlz_still_the_most_successful_nonorg/",
+    "timestamp": "2026-08-25T17:28:44Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vx5cxv/top_10_in_1v1_right_now/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vy6e66/is_wedemgirlz_still_the_most_successful_nonorg/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-24T15:04:12Z",
-    "id": "energy-d6785082fd8c5239"
+    "data_as_of": "2026-08-25T17:28:44Z",
+    "id": "energy-018a320e416c4622"
   },
   {
     "title": "MISO Wants Consequences For Gen Lead Time Extensions In Emergencies",
     "summary": "By Amanda Durish Cook MISO said it will roll out new rules to discourage its market participants from stretching out their units’ lead times when a grid emergency is on the horizon. The Bottom Line MISO plans to reduce capacity resources’ accreditation values if they log in to the MISO system to increase their lead […]",
     "source": "MISO XenWatch",
     "url": "https://misoxenwatch.com/2026/08/miso-wants-consequences-for-gen-lead-time-extensions-in-emergencies/",
-    "timestamp": "2026-08-24T14:50:24Z",
+    "timestamp": "2026-08-25T14:50:24Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
@@ -311,7 +329,7 @@
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-24T14:50:24Z",
+    "data_as_of": "2026-08-25T14:50:24Z",
     "id": "energy-de9d98f67eb40cd7"
   },
   {
@@ -319,7 +337,7 @@
     "summary": "By Amanda Durish Cook MISO said it tracked its largest-ever import assistance of almost 18 GW during a mid-July emergency declaration. Why This Matters MISO’s net scheduled interchange tracked a little more than 17.7 GW coming into the footprint on the evening of July 15, putting an end to a maximum generation emergency. It’s the […]",
     "source": "MISO XenWatch",
     "url": "https://misoxenwatch.com/2026/08/miso-smashes-import-record-during-mid-july-emergency/",
-    "timestamp": "2026-08-24T14:49:46Z",
+    "timestamp": "2026-08-25T14:49:46Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
@@ -332,7 +350,7 @@
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-24T14:49:46Z",
+    "data_as_of": "2026-08-25T14:49:46Z",
     "id": "energy-b7a4c9de029f9612"
   },
   {
@@ -340,7 +358,7 @@
     "summary": "By Amanda Durish Cook MISO approved a $240 million cost hike for a long-range transmission project in Minnesota after the developers’ even larger cost increases triggered a re-evaluation of the project. The RTO wound up settling for a 24.74% cost increase — resetting a baseline cost estimate from $970 million to $1.21 billion — for […]",
     "source": "MISO XenWatch",
     "url": "https://misoxenwatch.com/2026/08/miso-accepts-25-increase-for-1-2b-long-range-tx-project-in-minn/",
-    "timestamp": "2026-08-24T14:49:09Z",
+    "timestamp": "2026-08-25T14:49:09Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
@@ -353,46 +371,46 @@
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-08-24T14:49:09Z",
+    "data_as_of": "2026-08-25T14:49:09Z",
     "id": "energy-5186e853119d905f"
   },
   {
-    "title": "Rust Romance releases BigBlockPre LE, a FREE API-style preamp plugin",
-    "summary": "Rust Romance has released BigBlockPre LE, a free discrete console preamp plugin for macOS and Windows. BigBlockPre LE is inspired by the classic API 312-style signal path, combining an input transformer, a 2520-style discrete op-amp gain stage, and an output transformer. It does not emulate one particular hardware unit. Instead, this is a custom channel [...] View post: Rust Romance releases BigBlockPre LE, a FREE API-style preamp plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/24/rust-romance-bigblockpre/",
-    "timestamp": "2026-08-24T14:45:45Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/24/rust-romance-bigblockpre/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-24T14:45:45Z",
-    "id": "energy-c943fbd50d37bd75"
-  },
-  {
-    "title": "The 2024 r/RocketLeagueEsports Census Results (Yes, 2024)",
-    "summary": "https://preview.redd.it/j4rij3yasblh1.png?width=1080&format=png&auto=webp&s=bb7f356860fbdf171aa8b7776bb979c3994142a4 Hello everyone! On April 25th 2024, we published our annual census and feedback form, a yearly tradition where our community gets to let their voices be heard. However when it came to publishing the results, the deadline was missed by a day, which turned into a week, then a month, and, well you get the point, this is August 2026. Quite frankly, this took so long that North America actually won the World Championship again before we got to this post. Anyways, Here are the results of the 2024 r/RocketLeagueEsports Census. Below you will find highlighted data from the survey that the mod team would like to share. If you'd like to see the raw data, please jump to the bottom. Where Everyone's From https://preview.redd.it/1ye3zxbesblh1.png?width=853&format=png&auto=webp&s=4f8f53313e4687c07223c607163ff8cda8e8c69a Region 2023 2024 % Change North America 54.8% 57% +2.2% Europe 35.4% 32.1% -2.3% Oceania 2.5% 2.8% +0.3% South America 2.4% 2.4% +0% Asia-Pacific 2.6% 2.4% -0.2% Middle East & North Africa 1.7% 1.6% -0.1% Sub-Saharan Africa 0.4% 0.4% +0% (Do note percentages may n…",
+    "title": "Worlds less than one month and I need help",
+    "summary": "I’m attending RLCS Worlds as a fan. I’m meeting my son and this will be my first in person esports event. I’ve only been playing RL for about a year. I haven’t followed RLCS very close, so I need a top tier team and an underdog to root for. I plan to get caught up on these teams so that I can enjoy the atmosphere more. The gameplay I expect to be amazing, but having a couple of teams that I’ve learned some lore on should help make it even more enjoyable. My son is following NRG and Falcon. I can follow those, but thought it would be more interesting to put this question to Reddit. Edit: I’m in the 🇺🇸. I’m Silver sometimes gold in 3s and 2s, but in my 50s and my son is in his 20s and GC at times but I think is Champ now. I picked up the game after he graduated college to keep in touch more and he’s been a great coach. submitted by /u/n1n3mil [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vx33qa/the_2024_rrocketleagueesports_census_results_yes/",
-    "timestamp": "2026-08-24T13:38:36Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vy1txq/worlds_less_than_one_month_and_i_need_help/",
+    "timestamp": "2026-08-25T14:43:44Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vx33qa/the_2024_rrocketleagueesports_census_results_yes/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vy1txq/worlds_less_than_one_month_and_i_need_help/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-24T13:38:36Z",
-    "id": "energy-10cc983a2a63bef6"
+    "data_as_of": "2026-08-25T14:43:44Z",
+    "id": "energy-587b3a5259168b01"
+  },
+  {
+    "title": "Studio Kozak releases SK Rust, a FREE lo-fi effect for macOS and Windows",
+    "summary": "Studio Kozak has released SK Rust, a free lo-fi coloration plugin for macOS and Windows. The developer describes it as “the sound of something forgotten in a damp Eastern European cellar,” which is honestly a pretty good summary, especially regarding the interface (speaking from experience). I really like the GUI because it reminds me of [...] View post: Studio Kozak releases SK Rust, a FREE lo-fi effect for macOS and Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/25/studio-kozak-rust/",
+    "timestamp": "2026-08-25T10:55:58Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/25/studio-kozak-rust/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-25T10:55:58Z",
+    "id": "energy-49c18afaacc943fb"
   }
 ]
