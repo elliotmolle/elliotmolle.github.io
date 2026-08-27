@@ -1,38 +1,40 @@
 [
   {
-    "title": "Second round of Launch Pad selections includes eight newcomers",
-    "summary": "The National Reactor Innovation Center at Idaho National Laboratory has announced 13 project selections across 12 companies for the Nuclear Energy Launch Pad, a Department of Energy–led program that integrates reactor and fuel facility authorization, testing, and deployment support for private nuclear developers. The Launch Pad emerged from the Reactor Pilot Program and Fuel Line Pilot Program. According to INL, projects selected include reactor development and nuclear fuel cycle advancements, including fabrication, enrichment, and conversion technologies.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-25/article-8338/second-round-of-launch-pad-selections-includes-eight-newcomers/",
-    "timestamp": "2026-08-25T21:02:47Z",
+    "title": "NCA Food Bank receives $4,250 in incentives from Entergy Solutions",
+    "summary": "The Food Bank of North Central Arkansas (FBNCA) has received a $4,250 incentive from Entergy Arkansas for completing energy-efficiency projects through the Entergy Solutions Core Continuous Energy Improvement (CEI) initiative. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/nca-food-bank-receives-4250-in-incentives-from-entergy-solutions",
+    "timestamp": "2026-08-27T18:04:37Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-25/article-8338/second-round-of-launch-pad-selections-includes-eight-newcomers/"
+      "https://www.entergy.com/news/nca-food-bank-receives-4250-in-incentives-from-entergy-solutions"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
+    "source_tier": "primary",
+    "primary_source": true,
     "entities": [
-      "American Nuclear Society",
-      "ANS"
+      "Entergy"
     ],
-    "data_as_of": "2026-08-25T21:02:47Z",
-    "id": "energy-293c65641b09ca0d"
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-27T18:04:37Z",
+    "id": "energy-dd56fb4e7ac85d36"
   },
   {
-    "title": "NECX 2026 kicks off with a look to the future",
-    "summary": "The second annual Nuclear Energy Conference & Expo (NECX 2026), hosted in Dallas, Texas, kicked off this morning with an exciting opening plenary that saw leaders from government, regulation, and industry discussing the unprecedented opportunities now open to the nuclear sector. NECX, the premier nuclear industry conference cohosted by the American Nuclear Society and the Nuclear Energy Institute, is all about leveraging those opportunities.",
+    "title": "ORNL and INL collaborate on 3D-printed pressure vessels",
+    "summary": "Oak Ridge National Laboratory and Idaho National Laboratory have announced they will collaborate to help industry develop a process for wire arc 3D printing of industrial pressure vessels used for nuclear energy and chemical processing. “By working with industry to demonstrate, validate, and qualify advanced manufacturing technologies, we can reduce risk, accelerate deployment, and strengthen the domestic supply chains essential to America’s energy future,” said Robert Wagner, ORNL associate laboratory director for energy science and technology.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-25/article-8337/necx-2026-kicks-off-with-a-look-to-the-future/",
-    "timestamp": "2026-08-25T17:23:06Z",
+    "url": "https://www.ans.org/news/2026-08-27/article-8345/ornl-and-inl-collaborate-on-3dprinted-pressure-vessels/",
+    "timestamp": "2026-08-27T17:21:01Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-25/article-8337/necx-2026-kicks-off-with-a-look-to-the-future/"
+      "https://www.ans.org/news/2026-08-27/article-8345/ornl-and-inl-collaborate-on-3dprinted-pressure-vessels/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +42,45 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-25T17:23:06Z",
-    "id": "energy-204f7ad669a2df88"
+    "data_as_of": "2026-08-27T17:21:01Z",
+    "id": "energy-ab278ad3912b7f3c"
   },
   {
-    "title": "GAO report analyzes nuclear fuel efforts in national security and commercial sectors",
-    "summary": "The Government Accountability Office has released a report to Congress titled “Nuclear Fuel: Actions Needed to Enhance Cost Reporting and Economic Analysis for Federal Uranium Supply Efforts.” The report describes National Nuclear Security Administration estimates of enriched uranium supplies and demands, examines the NNSA’s plans to meet enriched uranium needs, and describes potential challenges to meeting supply goals. It also examines Department of Energy efforts to support the front-end fuel cycle for the commercial nuclear industry.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-25/article-8336/gao-report-analyzes-nuclear-fuel-efforts-in-national-security-and-commercial-sectors/",
-    "timestamp": "2026-08-25T15:25:44Z",
+    "title": "Entergy customers begin seeing benefits from data center agreements, Fair Share Plus pledge keeps money in customers’ pockets",
+    "summary": "The first dollars attributed to Entergy’s data center corridor have begun to positively impact customer bills under the company’s Fair Share Plus pledge. Amazon’s hyperscale facility generates revenue that offsets costs for all Entergy Mississippi customers, eliminating nearly $5 on monthly bills — approved by state regulators. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-customers-begin-seeing-benefits-from-data-center-agreements-fair-share-plus-pledge-keeps-money-in-customers-pockets",
+    "timestamp": "2026-08-27T16:58:16Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-08-25/article-8336/gao-report-analyzes-nuclear-fuel-efforts-in-national-security-and-commercial-sectors/"
+      "https://www.entergy.com/news/entergy-customers-begin-seeing-benefits-from-data-center-agreements-fair-share-plus-pledge-keeps-money-in-customers-pockets"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-27T16:58:16Z",
+    "id": "energy-143c02f8def3eafc"
+  },
+  {
+    "title": "Two new ANS standards issued",
+    "summary": "Two new American Nuclear Society standards recently received approval from the American National Standards Institute (ANSI). The new standard ANSI/ANS-56.2-2026, Containment Isolation Provisions for Fluid Systems After a LOCA, is a revision of historic ANS-56.2-1984 (W1999). ANS-GS-30.1-2026, Integrating Risk and Performance Objectives into Standards for New Reactor Designs, is a new guidance standard. Both standards are available for purchase in the ANS Online Store.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-27/article-8344/two-new-ans-standards-issued/",
+    "timestamp": "2026-08-27T14:34:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-27/article-8344/two-new-ans-standards-issued/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,8 +88,120 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-08-25T15:25:44Z",
-    "id": "energy-55d052d90cc007ff"
+    "data_as_of": "2026-08-27T14:34:28Z",
+    "id": "energy-7a4214677befcdb6"
+  },
+  {
+    "title": "First benefits from data centers appear in Entergy Mississippi customer bills, eliminating nearly $5 monthly increase",
+    "summary": "New revenues from Mississippi data centers, like Amazon’s, are a primary reason why Entergy Mississippi customers won’t see their rates increase this summer. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/first-benefits-from-data-centers-appear-in-entergy-mississippi-customer-bills-eliminating-nearly-5-monthly-increase",
+    "timestamp": "2026-08-27T13:00:38Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/first-benefits-from-data-centers-appear-in-entergy-mississippi-customer-bills-eliminating-nearly-5-monthly-increase"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-27T13:00:38Z",
+    "id": "energy-13d26f5cd4f0c2d6"
+  },
+  {
+    "title": "PJM President & CEO Response to Indiana and Virginia Legislators’ Letter Regarding Surplus Interconnection Service",
+    "summary": "Updated Date: 08.27.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260827-pjm-president-ceo-response-to-indiana-virginia-legislators-letter-regarding-surplus-interconnection-service.pdf",
+    "timestamp": "2026-08-27T12:22:09Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260827-pjm-president-ceo-response-to-indiana-virginia-legislators-letter-regarding-surplus-interconnection-service.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-08-27T12:22:09Z",
+    "id": "energy-e83456538213c8e4"
+  },
+  {
+    "title": "DOE plans to expand WIPP’s capacity and operational life",
+    "summary": "In an amendment to a 1998 record of decision, the Department of Energy is expanding the available space at its Waste Isolation Pilot Plant deep geological repository for defense-related radioactive waste, and is also now planning to accept waste at the facility for 50 more years than previously planned. The amended decision, which was signed on August 18 by Tim Walsh, assistant secretary for Environmental Management, commits the DOE to a WIPP operating horizon extending to about 2083.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-27/article-8343/doe-plans-to-expand-wipps-capacity-and-operational-life/",
+    "timestamp": "2026-08-27T12:21:30Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-27/article-8343/doe-plans-to-expand-wipps-capacity-and-operational-life/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-27T12:21:30Z",
+    "id": "energy-547d85275a9ec179"
+  },
+  {
+    "title": "ISO Minute: Inside the interconnection queue",
+    "summary": "Jody Truswell breaks down the new “first-ready, first-served” approach to studying proposed resources. The post ISO Minute: Inside the interconnection queue appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/27/iso-minute-inside-the-interconnection-queue/",
+    "timestamp": "2026-08-27T11:59:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/27/iso-minute-inside-the-interconnection-queue/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-27T11:59:57Z",
+    "id": "energy-a486978ce6a8493b"
+  },
+  {
+    "title": "Monthly wholesale electricity prices and demand in New England, July 2026",
+    "summary": "Wholesale prices were down in both the day-ahead and the real-time markets in July. The post Monthly wholesale electricity prices and demand in New England, July 2026 appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/08/26/monthly-wholesale-electricity-prices-and-demand-in-new-england-july-2026/",
+    "timestamp": "2026-08-26T15:31:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/08/26/monthly-wholesale-electricity-prices-and-demand-in-new-england-july-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-08-26T15:31:33Z",
+    "id": "energy-b589fc3e952de5c0"
   },
   {
     "title": "Market monitor issues spring 2026 quarterly report",
@@ -86,77 +224,5 @@
     ],
     "data_as_of": "2026-08-25T13:23:48Z",
     "id": "energy-fe9a10b3e57b3703"
-  },
-  {
-    "title": "Entergy Mississippi storm update — 8/24/2026, 3 p.m.",
-    "summary": "Progress continued yesterday in the outage restoration from Thursday through Sunday morning weather impacts to the Entergy Mississippi service territory. In total, approximately 75,000 outages have occurred during these weather fronts with nearly 99% restored.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-24-2026-3-p-m",
-    "timestamp": "2026-08-24T20:11:58Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-24-2026-3-p-m"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-24T20:11:58Z",
-    "id": "energy-43f54cddc289e6a8"
-  },
-  {
-    "title": "Entergy Mississippi storm update – 8/24/2026, 3 p.m.",
-    "summary": "Progress continued yesterday in the outage restoration from Thursday through Sunday morning weather impacts to the Entergy Mississippi service territory. In total, approximately 75,000 outages have occurred during these weather fronts with nearly 99% restored. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-storm-update-8-24-2026-3-p-m",
-    "timestamp": "2026-08-24T20:11:58Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/entergy-mississippi-storm-update-8-24-2026-3-p-m"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-24T20:11:58Z",
-    "id": "energy-f3e8124f3f0e6773"
-  },
-  {
-    "title": "Entergy Mississippi storm update — 8/23/2026, 6 p.m.",
-    "summary": "Restoration efforts are continuing from Thursday through Sunday morning weather impacts to the territory. In total with the latest round of weather, early morning today, approximately 75,000 outages have occurred during these weather fronts with approximately 95% restored.",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-23-2026-6-p-m",
-    "timestamp": "2026-08-23T23:37:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-mississippi-storm-update-8-23-2026-6-p-m"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-23T23:37:32Z",
-    "id": "energy-e191118653aeba8e"
   }
 ]
