@@ -1,5 +1,71 @@
 [
   {
+    "title": "Five companies, five bases: The Army’s Janus Program takes shape",
+    "summary": "Between the Nuclear Lifecycle Innovation Campuses and Nuclear Energy Launch Pad programs, August has already been a busy month for federal partnerships with the nuclear industry. That trend continues: On Wednesday, the Department of the Army announced that it has selected five nuclear reactor developers—Antares Nuclear, BWXT Advanced Technologies, General Atomics Electromagnetic Systems, Radiant Industries, and Westinghouse Government Services—each paired with a different military installation, for its Janus Program. This week, the nuclear community descended on Dallas, Texas, for the second annual Nuclear Energy Conference and Expo, the premier industry-focused nuclear conference cohosted by the American Nuclear Society and the Nuclear Energy Institute. Among the plenary panelists was Jeff Waksman, principal deputy assistant secretary of the Army for installations, energy, and environment. Waksman has been closely involved in the development of the Janus Program, and the morning before the program’s new selections were unveiled, he provided insights on its ultimate goals at NECX 2026.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-28/article-8347/five-companies-five-bases-the-armys-janus-program-takes-shape/",
+    "timestamp": "2026-08-28T20:12:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-28/article-8347/five-companies-five-bases-the-armys-janus-program-takes-shape/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-28T20:12:28Z",
+    "id": "energy-a050919d30aa8645"
+  },
+  {
+    "title": "Collaboration key to meeting 2050 goal, NECX 2026 panelists say",
+    "summary": "Based on attendee reactions at yesterday’s final plenary session of the Nuclear Energy Conference & Expo (NECX 2026) in Dallas, Texas, the response is mixed as to whether the United States can fulfill its ambitious plans to quadruple the country’s nuclear generating capacity by 2050. When asked whether the nation would reach that goal, a number of hands in the room went up. But when asked the opposite, several hands also went up. Moderator Jon Colby told attendees to think positively about the long term.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-28/article-8349/collaboration-key-to-meeting-2050-goal-necx-2026-panelists-say/",
+    "timestamp": "2026-08-28T18:08:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-28/article-8349/collaboration-key-to-meeting-2050-goal-necx-2026-panelists-say/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-28T18:08:23Z",
+    "id": "energy-54291665638c15d9"
+  },
+  {
+    "title": "LLNL simulations calculate ICF’s asymmetry limits",
+    "summary": "A simulation from the study shows density (top) and temperature (bottom) just before the time when fusion reactions peak in an asymmetric implosion. The hottest point coincides with the densest point of fuel, illustrating the direct ignition of a dense jet of fuel driven by asymmetry. The image was recently selected for the cover of Physics of Plasmas. (Image: LLNL) Researchers at Lawrence Livermore National Laboratory used simulations to show that inertial fusion power plants could tolerate significant low-mode asymmetries, such as those caused by laser alignment being off-center, revealing a trade-off between robustness and yield that could impact how power plants are brought on line.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-28/article-8348/llnl-simulations-calculate-icfs-asymmetry-limits/",
+    "timestamp": "2026-08-28T15:52:41Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-28/article-8348/llnl-simulations-calculate-icfs-asymmetry-limits/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-28T15:52:41Z",
+    "id": "energy-460a11bcdb17e00a"
+  },
+  {
     "title": "NCA Food Bank receives $4,250 in incentives from Entergy Solutions",
     "summary": "The Food Bank of North Central Arkansas (FBNCA) has received a $4,250 incentive from Entergy Arkansas for completing energy-efficiency projects through the Entergy Solutions Core Continuous Energy Improvement (CEI) initiative. Source",
     "source": "Entergy",
@@ -24,28 +90,6 @@
     "id": "energy-dd56fb4e7ac85d36"
   },
   {
-    "title": "ORNL and INL collaborate on 3D-printed pressure vessels",
-    "summary": "Oak Ridge National Laboratory and Idaho National Laboratory have announced they will collaborate to help industry develop a process for wire arc 3D printing of industrial pressure vessels used for nuclear energy and chemical processing. “By working with industry to demonstrate, validate, and qualify advanced manufacturing technologies, we can reduce risk, accelerate deployment, and strengthen the domestic supply chains essential to America’s energy future,” said Robert Wagner, ORNL associate laboratory director for energy science and technology.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-27/article-8345/ornl-and-inl-collaborate-on-3dprinted-pressure-vessels/",
-    "timestamp": "2026-08-27T17:21:01Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-27/article-8345/ornl-and-inl-collaborate-on-3dprinted-pressure-vessels/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-27T17:21:01Z",
-    "id": "energy-ab278ad3912b7f3c"
-  },
-  {
     "title": "Entergy customers begin seeing benefits from data center agreements, Fair Share Plus pledge keeps money in customers’ pockets",
     "summary": "The first dollars attributed to Entergy’s data center corridor have begun to positively impact customer bills under the company’s Fair Share Plus pledge. Amazon’s hyperscale facility generates revenue that offsets costs for all Entergy Mississippi customers, eliminating nearly $5 on monthly bills — approved by state regulators. Source",
     "source": "Entergy",
@@ -68,28 +112,6 @@
     ],
     "data_as_of": "2026-08-27T16:58:16Z",
     "id": "energy-143c02f8def3eafc"
-  },
-  {
-    "title": "Two new ANS standards issued",
-    "summary": "Two new American Nuclear Society standards recently received approval from the American National Standards Institute (ANSI). The new standard ANSI/ANS-56.2-2026, Containment Isolation Provisions for Fluid Systems After a LOCA, is a revision of historic ANS-56.2-1984 (W1999). ANS-GS-30.1-2026, Integrating Risk and Performance Objectives into Standards for New Reactor Designs, is a new guidance standard. Both standards are available for purchase in the ANS Online Store.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-27/article-8344/two-new-ans-standards-issued/",
-    "timestamp": "2026-08-27T14:34:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-27/article-8344/two-new-ans-standards-issued/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-27T14:34:28Z",
-    "id": "energy-7a4214677befcdb6"
   },
   {
     "title": "First benefits from data centers appear in Entergy Mississippi customer bills, eliminating nearly $5 monthly increase",
@@ -138,28 +160,6 @@
     "id": "energy-e83456538213c8e4"
   },
   {
-    "title": "DOE plans to expand WIPP’s capacity and operational life",
-    "summary": "In an amendment to a 1998 record of decision, the Department of Energy is expanding the available space at its Waste Isolation Pilot Plant deep geological repository for defense-related radioactive waste, and is also now planning to accept waste at the facility for 50 more years than previously planned. The amended decision, which was signed on August 18 by Tim Walsh, assistant secretary for Environmental Management, commits the DOE to a WIPP operating horizon extending to about 2083.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-27/article-8343/doe-plans-to-expand-wipps-capacity-and-operational-life/",
-    "timestamp": "2026-08-27T12:21:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-27/article-8343/doe-plans-to-expand-wipps-capacity-and-operational-life/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-27T12:21:30Z",
-    "id": "energy-547d85275a9ec179"
-  },
-  {
     "title": "ISO Minute: Inside the interconnection queue",
     "summary": "Jody Truswell breaks down the new “first-ready, first-served” approach to studying proposed resources. The post ISO Minute: Inside the interconnection queue appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -202,27 +202,5 @@
     ],
     "data_as_of": "2026-08-26T15:31:33Z",
     "id": "energy-b589fc3e952de5c0"
-  },
-  {
-    "title": "Market monitor issues spring 2026 quarterly report",
-    "summary": "The total estimated wholesale market cost of electricity was $1.75 billion, up 6% from spring 2025. The post Market monitor issues spring 2026 quarterly report appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/08/25/market-monitor-issues-spring-2026-quarterly-report/",
-    "timestamp": "2026-08-25T13:23:48Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/08/25/market-monitor-issues-spring-2026-quarterly-report/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-08-25T13:23:48Z",
-    "id": "energy-fe9a10b3e57b3703"
   }
 ]
