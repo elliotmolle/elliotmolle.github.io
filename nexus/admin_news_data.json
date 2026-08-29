@@ -1,165 +1,264 @@
 [
   {
-    "title": "10 New Movies to Watch This Weekend on Netflix, HBO Max, and Hulu (August 28-30)",
-    "summary": "This week's streaming column featured the new Adam Scott thriller, an Alan Ritchson revenge quest, and one of the most divisive movies of the year.",
+    "title": "EA Acknowledges Iron Man Gameplay Leak: \"Well, That Didn't Go As Planned\"",
+    "summary": "EA also teased that \"we've got a lot more to show you\" after footage of Motive Studios' Iron Man game leaked",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-august-28-30/",
-    "timestamp": "2026-08-28T21:00:14Z",
+    "url": "https://www.polygon.com/ea-acknowledges-iron-man-leak/",
+    "timestamp": "2026-08-29T14:27:25Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-august-28-30/"
+      "https://www.polygon.com/ea-acknowledges-iron-man-leak/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-28T21:00:14Z",
-    "id": "energy-38a0cd26bb994625"
+    "data_as_of": "2026-08-29T14:27:25Z",
+    "id": "energy-b69b89a5879467d7"
   },
   {
-    "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-    "summary": "The person accused subsequently served with an image of a butthole drawn in MS Paint",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-    "timestamp": "2026-08-28T20:51:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-28T20:51:22Z",
-    "id": "energy-8a2c7e43f8fc8c99"
-  },
-  {
-    "title": "Stopping the smart TV from being used against you",
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-    "timestamp": "2026-08-28T20:27:57Z",
+    "url": "https://uecker.codeberg.page/2026-08-29.html",
+    "timestamp": "2026-08-29T14:20:33Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/"
+      "https://uecker.codeberg.page/2026-08-29.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-28T20:27:57Z",
-    "id": "energy-1e497919e389d72d"
+    "data_as_of": "2026-08-29T14:20:33Z",
+    "id": "energy-6448ea530987f3d0"
   },
   {
-    "title": "Ex-Pokémon World Champion Banned From Competing At World Championships After Cutting In Merch Line: ‘I Believe This To Be Extremely Unjust’",
-    "summary": "Luca Ceribelli, Ruben Gianzini, and Luca Lussignoli were told they'd be banned from the Pokémon Center, but ended up barred from the event itself",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/pokemon-world-championships-ban-luca-ceribelli-merch-line-2000729442",
-    "timestamp": "2026-08-28T20:10:03Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/pokemon-world-championships-ban-luca-ceribelli-merch-line-2000729442"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-28T20:10:03Z",
-    "id": "energy-37f6493d38acf3f8"
-  },
-  {
-    "title": "The Last of Us, Skyrim and More Get Unreal Makeovers With Nvidia's Controversial AI Tech",
-    "summary": "PC gamers are testing out DLSS 5 graphics on games like GTA: San Andreas and Skyrim, and the results are realistic but uncanny",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/",
-    "timestamp": "2026-08-28T20:08:05Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-28T20:08:05Z",
-    "id": "energy-ce9a1ca7ae2b27fa"
-  },
-  {
-    "title": "The Most Unforgettable Apocalypse Action Movie of the 21st Century Is Officially Leaving Streaming",
-    "summary": "Zombieland leaves Netflix after Aug. 31. Its chaotic action, experimental style, and sincere found-family story remain a must-watch.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/zombieland-leaving-netflix-movies-rec/",
-    "timestamp": "2026-08-28T20:00:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/zombieland-leaving-netflix-movies-rec/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-28T20:00:14Z",
-    "id": "energy-96379521b16e1fba"
-  },
-  {
-    "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard",
-    "summary": "Committing grand theft auto in Grand Theft Auto 6 will be much more challenging and rewarding",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
-    "timestamp": "2026-08-28T19:31:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-28T19:31:12Z",
-    "id": "energy-70bbd80a5c49ee17"
-  },
-  {
-    "title": "Isitdoneyet.gg is a website I made to figure out if games are complete",
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://isitdoneyet.gg/",
-    "timestamp": "2026-08-28T19:30:46Z",
+    "url": "https://lwn.net/Articles/1091231/",
+    "timestamp": "2026-08-29T14:02:10Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://isitdoneyet.gg/"
+      "https://lwn.net/Articles/1091231/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-28T19:30:46Z",
-    "id": "energy-3c561e773b990e2f"
+    "data_as_of": "2026-08-29T14:02:10Z",
+    "id": "energy-bb0090e83cc755ef"
   },
   {
-    "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
+    "title": "How 'Coyote vs. ACME' Broke All the Rules of Live-Action Looney Tunes Movies, and Got Away with It",
+    "summary": "Director Dave Green and screenwriter Samy Burch reveal how they threw out the Space Jam playbook to make a perfect Looney Tunes movie",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/coyote-vs-acme-director-screenwriter-interview/",
+    "timestamp": "2026-08-29T14:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/coyote-vs-acme-director-screenwriter-interview/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-29T14:00:14Z",
+    "id": "energy-b28f9083d7c7ed8c"
+  },
+  {
+    "title": "Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive",
+    "summary": "Microsoft's gaming division was tight-lipped at Gamescom",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/xbox-calls-next-gen-project-helix-a-family-of-devices-but-isnt-ready-to-say-if-elder-scrolls-6-will-be-exclusive-2000729562",
+    "timestamp": "2026-08-29T13:58:52Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/xbox-calls-next-gen-project-helix-a-family-of-devices-but-isnt-ready-to-say-if-elder-scrolls-6-will-be-exclusive-2000729562"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-29T13:58:52Z",
+    "id": "energy-ddffd722bf3196ed"
+  },
+  {
+    "title": "Gamescom Responds To Rampant Reports Of Theft At The Event",
+    "summary": "There have been several stolen equipment incidents at Gamescom 2026, and the organization has at last responded to victims' reports.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gamescom-event-theft-response/",
+    "timestamp": "2026-08-29T13:48:36Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/gamescom-event-theft-response/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-29T13:48:36Z",
+    "id": "energy-50aee7c236b1d11e"
+  },
+  {
+    "title": "A flawless transition with Cole and Johnny",
+    "summary": "submitted by /u/Babydrone [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1my21/a_flawless_transition_with_cole_and_johnny/",
+    "timestamp": "2026-08-29T13:44:00Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1my21/a_flawless_transition_with_cole_and_johnny/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-29T13:44:00Z",
+    "id": "energy-c28dffe715f9147f"
+  },
+  {
+    "title": "Gamescom Says Stolen Laptops ‘Make Us Very Sad,’ But Says Exhibitors Have To Protect Against Theft: ‘This Is Noted In The Terms And Conditions’",
+    "summary": "Gamescom's official statement noted that while they treat the theft 'very seriously and understand the frustration of affected exhibitors,' there's also options to pay extra for 'individual stand security'",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563",
+    "timestamp": "2026-08-29T13:39:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-29T13:39:18Z",
+    "id": "energy-1fdfa01443433e71"
+  },
+  {
+    "title": "FIFAe African Continental Championship | Event Thread | Morocco LAN | Aug 29th",
+    "summary": "Event Thread FIFAe African Continental Championship, August 29th 2026 in Casablanca, Morocco. Streams Twitch - FIFAe YouTube - FIFAe Tournament Info Liquipedia Format Group Stage 8 nations compete in a Single Round Robin. Matches are So2. Top 2 nations advance to the Semifinals. 3rd-6th place nations advance to the Quarterfinals. 7th-8th place nations are eliminated. Knockout Stage Single Elimination Bracket. All matches are Bo7. Semifinal winners qualify for the FIFAe World Cup 2026. Group Stage https://preview.redd.it/h3xbh2065bmh1.png?width=1484&format=png&auto=webp&s=7e93eac75bffac6c127ce906d0f8cb093f97e762 Knockout Stage https://preview.redd.it/w9hyuc3a5bmh1.png?width=680&format=png&auto=webp&s=e2ef90dacdb34ef4f477de60a0e2adc6f67b156c Teams https://preview.redd.it/7d282iwz5bmh1.png?width=1890&format=png&auto=webp&s=427aac0fd7c802563a885ce48335270b3a3e60f7 submitted by /u/Babydrone [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1lb1m/fifae_african_continental_championship_event/",
+    "timestamp": "2026-08-29T12:30:14Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1lb1m/fifae_african_continental_championship_event/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-29T12:30:14Z",
+    "id": "energy-c7cc87a1d3f13e10"
+  },
+  {
+    "title": "The Weeknd’s Music Gets A Final Fantasy Makeover By Legendary Artist Yoshitaka Amano",
+    "summary": "Turns out, fame and unfiltered posting can manifest beautiful things",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-weeknds-music-gets-a-final-fantasy-makeover-by-yoshitaka-amano-2000728638",
+    "timestamp": "2026-08-29T12:27:59Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/the-weeknds-music-gets-a-final-fantasy-makeover-by-yoshitaka-amano-2000728638"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-29T12:27:59Z",
+    "id": "energy-526f701254d0ef84"
+  },
+  {
+    "title": "Iceland votes on whether to restart talks on joining EU",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
-    "timestamp": "2026-08-28T19:30:15Z",
+    "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+    "timestamp": "2026-08-29T11:39:38Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/"
+      "https://www.bbc.com/news/articles/cn45vdxyvvlo"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-28T19:30:15Z",
-    "id": "energy-239b522d023edead"
+    "data_as_of": "2026-08-29T11:39:38Z",
+    "id": "energy-c5ee6a282c55544d"
+  },
+  {
+    "title": "Shadaloo Audio DSP makes Density EQ permanently FREE",
+    "summary": "Shadaloo Audio DSP has made Density EQ, its four-band presence and weight-shaping equalizer, permanently free. Fabio “Shadaloo” Caterino shared the news in the BPB Community yesterday (thank you!), explaining that he wanted to make the plugin accessible to anyone who would like to try it. Density EQ previously cost €19, but it is now available [...] View post: Shadaloo Audio DSP makes Density EQ permanently FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/29/shadaloo-density-eq/",
+    "timestamp": "2026-08-29T09:38:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/29/shadaloo-density-eq/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-29T09:38:08Z",
+    "id": "energy-e925838bb5c6cec7"
+  },
+  {
+    "title": "Get W.A. Production Presser compressor FREE until September 6",
+    "summary": "W.A. Production is offering Presser, its $29.90 creative compressor plugin, as a free download with the code TBC100 until September 6, 2026. The giveaway is a collaboration with The Beat Community. To claim it, add Presser to your cart on the W.A. Production website, enter TBC100 at checkout, and complete the order for free. W.A. [...] View post: Get W.A. Production Presser compressor FREE until September 6",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/08/29/wa-production-presser-free/",
+    "timestamp": "2026-08-29T09:22:13Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/08/29/wa-production-presser-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-29T09:22:13Z",
+    "id": "energy-740bc395b5fc246a"
+  },
+  {
+    "title": "Wizz is now cancer free",
+    "summary": "submitted by /u/Legitimate-Sign-371 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w10s37/wizz_is_now_cancer_free/",
+    "timestamp": "2026-08-28T19:47:13Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w10s37/wizz_is_now_cancer_free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-28T19:47:13Z",
+    "id": "energy-bbc518557fc79d21"
   },
   {
     "title": "MISO Finds Higher Load Loss Risks As It Launches South Long-Range Tx Plan",
@@ -243,42 +342,6 @@
     "id": "energy-0789aef427e4e01b"
   },
   {
-    "title": "SSL Native X-Echo tape delay is only $15 until August 31 (84% OFF)",
-    "summary": "Plugin Boutique is offering SSL Native X-Echo for only $15 until August 31, 2026. The vintage-style tape delay typically costs $99, so the current deal knocks 84% off the regular price. X-Echo takes inspiration from classic 1960s tape echo hardware such as the Echoplex, but it adds several convenient add-ons that would probably be difficult [...] View post: SSL Native X-Echo tape delay is only $15 until August 31 (84% OFF)",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/28/ssl-native-x-echo-tape/",
-    "timestamp": "2026-08-28T11:28:29Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/28/ssl-native-x-echo-tape/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-28T11:28:29Z",
-    "id": "energy-0f43d9756616f5e9"
-  },
-  {
-    "title": "Get one Orchestral Tools premium instrument FREE until October 31",
-    "summary": "Orchestral Tools and Mastering.com are giving away one premium SINEplayer instrument of your choice until October 31, 2026. There are five instruments to choose from, with regular prices ranging from €20 to €50. Use the voucher code ot-x-masteringcom-2026 during checkout to reduce your selected instrument to €0. Unlike Orchestral Tools’ permanently free SINEfactory catalog, these [...] View post: Get one Orchestral Tools premium instrument FREE until October 31",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/28/orchestral-tools-mastering/",
-    "timestamp": "2026-08-28T11:17:30Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/08/28/orchestral-tools-mastering/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-28T11:17:30Z",
-    "id": "energy-9cfa8eb835731e00"
-  },
-  {
     "title": "Could we use Trump's tricks to make good green policy?",
     "summary": "A conversation with Todd Tucker of the Roosevelt Institute.",
     "source": "Volts",
@@ -349,86 +412,5 @@
     "primary_source": true,
     "data_as_of": "2026-08-28T04:00:00Z",
     "id": "energy-901462515be8d418"
-  },
-  {
-    "title": "Has their ever been a good sample size to support 2v2 > 3v3 for pros",
-    "summary": "I know we always see pros more in 2s and 1s then in 3s . Hell the only ones I can think of that are always at the top were squishy and jstn. Not sure if they do it just for content or just to grind, but I'm wondering if teams lose chemistry when not playing 3s . The pros put around let's say 90 hours every 2 weeks into 2s and scrim for let's say maybe 5 or 6 hours at lans in 3s. I know there are some regional scrims as well but I imagine the hours for scrims are way lower than ranked hours. What I'm trying to say is that don't pros think chemistry is lost after playing 2s and 1s that much .l? Obviously I'm not pro level but jumping from 2s to 3s is just a totally different game imo . 2s is a lot more solo playish, while 3s is more chemistry and team plays . It also seems a lot of the goals given up in 3s are from pressure or lack of chemistry mistakes . I think every year the teams at lans get closer and closer . Look at NRG and Falcons . NRG had been together 2 years going into worlds . The rotations just looked crisp against falcons and you can tell they built that up . As for falcons at the most recent EWC, their 2nd man pressure and rotations were overwhelming people. I know D…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vzyr55/has_their_ever_been_a_good_sample_size_to_support/",
-    "timestamp": "2026-08-27T16:26:07Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vzyr55/has_their_ever_been_a_good_sample_size_to_support/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-27T16:26:07Z",
-    "id": "energy-4ac647fb75a3c7e7"
-  },
-  {
-    "title": "With less than 3 weeks until Worlds, here are the players and teams grinding the most",
-    "summary": "Ranked games by player Steam hours by player Total ranked games played by team Average ranked MMR by team MMR by player These are the teams and players grinding the most in the lead up to worlds. Teams that didn't have to travel for EWC, like Bigodes, will have had more time to play online, but that's unlikely to be more valuable than the LAN experience missed. At the bottom end, Wildcard have two players that haven't played a single ranked game in the last week - and Fever hasn't played ranked in two weeks. Worrying signs for OCE's only hope? All of this is viewable on https://www.rocket-goats.com/worlds-tracker which I'll keep updated until worlds. It updates every 15 mins. note - just under half of the players at worlds have their steam hours hidden submitted by /u/Rocket-Goats [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vzwihz/with_less_than_3_weeks_until_worlds_here_are_the/",
-    "timestamp": "2026-08-27T15:04:09Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vzwihz/with_less_than_3_weeks_until_worlds_here_are_the/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-27T15:04:09Z",
-    "id": "energy-87c31b0fa9d8a547"
-  },
-  {
-    "title": "Finally making it to worlds",
-    "summary": "I went to my first RLCS LAN for the Boston major this February. Unfortunately it snowed the last day so I had to leave early to make it home safe, and wasn’t able to watch the entirety of championship Sunday in person💔 I had no expectation of going to this event but something called out to me that I need to go watch it in person so I started grinding. I’ve made $800 in two days and I’m gonna be able to make it to worlds 🥹 My beautiful, supportive girlfriend (who was at the Boston major with me) has helped me grind for the money and will be joining me in watching on Sunday. I’m beyond excited to go cause I’ve followed the game since 2015, played it since 2017. Questions: Is there anything to do in the Texas area? Are there gonna be any fan meetup and the surrounding areas? What is the difference in buying the 3 day pass vs just the 3 days normal tickets submitted by /u/Busy_Wheel_8819 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1vzu4zc/finally_making_it_to_worlds/",
-    "timestamp": "2026-08-27T13:34:09Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1vzu4zc/finally_making_it_to_worlds/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-27T13:34:09Z",
-    "id": "energy-1c2d565a83def5b5"
-  },
-  {
-    "title": "Making data centers flexible so they can serve the grid rather than stress it out",
-    "summary": "A conversation with Varun Sivaram of Emerald AI.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/making-data-centers-flexible-so-they",
-    "timestamp": "2026-08-26T10:10:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/making-data-centers-flexible-so-they"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-08-26T10:10:28Z",
-    "id": "energy-dd817244270d9f72"
   }
 ]
