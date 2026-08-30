@@ -1,207 +1,228 @@
 [
   {
-    "title": "EA Acknowledges Iron Man Gameplay Leak: \"Well, That Didn't Go As Planned\"",
-    "summary": "EA also teased that \"we've got a lot more to show you\" after footage of Motive Studios' Iron Man game leaked",
+    "title": "PlayStation Wants To Prove In Court That You Don't Own Your Digital Games",
+    "summary": "Gamers have taken Sony to court, stating that it was unclear during the purchasing stage that buying a digital game wouldn't grant them ownership.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/ea-acknowledges-iron-man-leak/",
-    "timestamp": "2026-08-29T14:27:25Z",
+    "url": "https://www.polygon.com/sony-digital-games-lawsuit-california/",
+    "timestamp": "2026-08-30T14:02:24Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/ea-acknowledges-iron-man-leak/"
+      "https://www.polygon.com/sony-digital-games-lawsuit-california/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-29T14:27:25Z",
-    "id": "energy-b69b89a5879467d7"
+    "data_as_of": "2026-08-30T14:02:24Z",
+    "id": "energy-e387da8c0c08eb64"
   },
   {
-    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://uecker.codeberg.page/2026-08-29.html",
-    "timestamp": "2026-08-29T14:20:33Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://uecker.codeberg.page/2026-08-29.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-29T14:20:33Z",
-    "id": "energy-6448ea530987f3d0"
-  },
-  {
-    "title": "Debian votes to allow \"responsible use of generative AI\"",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://lwn.net/Articles/1091231/",
-    "timestamp": "2026-08-29T14:02:10Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://lwn.net/Articles/1091231/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-29T14:02:10Z",
-    "id": "energy-bb0090e83cc755ef"
-  },
-  {
-    "title": "How 'Coyote vs. ACME' Broke All the Rules of Live-Action Looney Tunes Movies, and Got Away with It",
-    "summary": "Director Dave Green and screenwriter Samy Burch reveal how they threw out the Space Jam playbook to make a perfect Looney Tunes movie",
+    "title": "MCU Actor Reveals the 'Avengers: Endgame' Spinoff He's Been Pitching to Marvel for 7 Years",
+    "summary": "Actor Ross Marquand, who played the Red Skull in Avengers: Infinity War and Avengers: Endgame has a pitch for Marvel about a Captain America TV series",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/coyote-vs-acme-director-screenwriter-interview/",
-    "timestamp": "2026-08-29T14:00:14Z",
+    "url": "https://www.polygon.com/ross-marquand-red-skull-captain-america-infinity-stones-pitch/",
+    "timestamp": "2026-08-30T14:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/coyote-vs-acme-director-screenwriter-interview/"
+      "https://www.polygon.com/ross-marquand-red-skull-captain-america-infinity-stones-pitch/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-29T14:00:14Z",
-    "id": "energy-b28f9083d7c7ed8c"
+    "data_as_of": "2026-08-30T14:00:14Z",
+    "id": "energy-cf211bfb1ba3b73a"
   },
   {
-    "title": "Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive",
-    "summary": "Microsoft's gaming division was tight-lipped at Gamescom",
+    "title": "Steam Just Suffered the Biggest Leak in Video Game History",
+    "summary": "Valve's PC gaming platform is at the center of a massive information breach that contains beta builds for decade's worth of games",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/steam-leak-valve-portal-2-beta-half-life-3-what-is/",
+    "timestamp": "2026-08-30T13:22:49Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/steam-leak-valve-portal-2-beta-half-life-3-what-is/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-30T13:22:49Z",
+    "id": "energy-3307eb83c65d581b"
+  },
+  {
+    "title": "Colossal 13TB Steam Leak Reportedly Includes Beta Builds Of Portal 2, Left 4 Dead 2, And Much More",
+    "summary": "The alleged Steam depot data reportedly spans from 2003 to 2013, and contains pre-release builds of potentially thousands of first and third-party games",
     "source": "Kotaku",
-    "url": "https://kotaku.com/xbox-calls-next-gen-project-helix-a-family-of-devices-but-isnt-ready-to-say-if-elder-scrolls-6-will-be-exclusive-2000729562",
-    "timestamp": "2026-08-29T13:58:52Z",
+    "url": "https://kotaku.com/colossal-13tb-steam-leak-reportedly-includes-beta-builds-of-portal-2-left-4-dead-2-and-much-more-2000729638",
+    "timestamp": "2026-08-30T13:22:19Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/xbox-calls-next-gen-project-helix-a-family-of-devices-but-isnt-ready-to-say-if-elder-scrolls-6-will-be-exclusive-2000729562"
+      "https://kotaku.com/colossal-13tb-steam-leak-reportedly-includes-beta-builds-of-portal-2-left-4-dead-2-and-much-more-2000729638"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-29T13:58:52Z",
-    "id": "energy-ddffd722bf3196ed"
+    "data_as_of": "2026-08-30T13:22:19Z",
+    "id": "energy-a348da4f697d872b"
   },
   {
-    "title": "Gamescom Responds To Rampant Reports Of Theft At The Event",
-    "summary": "There have been several stolen equipment incidents at Gamescom 2026, and the organization has at last responded to victims' reports.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/gamescom-event-theft-response/",
-    "timestamp": "2026-08-29T13:48:36Z",
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "timestamp": "2026-08-30T12:50:54Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://github.com/anthropics/claude-code/issues/66504"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-30T12:50:54Z",
+    "id": "energy-49ce7cd60fffc03a"
+  },
+  {
+    "title": "No AI Fridays",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://noaifridays.com/",
+    "timestamp": "2026-08-30T12:31:05Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://noaifridays.com/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-30T12:31:05Z",
+    "id": "energy-5e28e0b543151dd8"
+  },
+  {
+    "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://github.com/fugue-labs/monty-go",
+    "timestamp": "2026-08-30T12:02:09Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://github.com/fugue-labs/monty-go"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-08-30T12:02:09Z",
+    "id": "energy-b479690a4c416c62"
+  },
+  {
+    "title": "Star Wars Effects Artist Phil Tippett Shutters Studio",
+    "summary": "Following a Chapter 11 bankruptcy, the Hollywood puppetry wizard and director of Mad God is selling over 40 years of movie magic",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/star-wars-effects-artist-phil-tippett-shutters-studio-2000729605",
+    "timestamp": "2026-08-30T06:11:11Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/gamescom-event-theft-response/"
+      "https://kotaku.com/star-wars-effects-artist-phil-tippett-shutters-studio-2000729605"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-29T13:48:36Z",
-    "id": "energy-50aee7c236b1d11e"
+    "data_as_of": "2026-08-30T06:11:11Z",
+    "id": "energy-53a09b2ca141a6db"
   },
   {
-    "title": "A flawless transition with Cole and Johnny",
+    "title": "Incredibly clutch corner double from Ray vs South Africa",
+    "summary": "submitted by /u/N0b0dy_her3 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1ya44/incredibly_clutch_corner_double_from_ray_vs_south/",
+    "timestamp": "2026-08-29T21:15:17Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1ya44/incredibly_clutch_corner_double_from_ray_vs_south/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-08-29T21:15:17Z",
+    "id": "energy-f40af8e3bbbb0696"
+  },
+  {
+    "title": "South Africa equalize at the death with an infield pass into bar down finish",
     "summary": "submitted by /u/Babydrone [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1my21/a_flawless_transition_with_cole_and_johnny/",
-    "timestamp": "2026-08-29T13:44:00Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1y9sj/south_africa_equalize_at_the_death_with_an/",
+    "timestamp": "2026-08-29T21:14:55Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1my21/a_flawless_transition_with_cole_and_johnny/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1y9sj/south_africa_equalize_at_the_death_with_an/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-29T13:44:00Z",
-    "id": "energy-c28dffe715f9147f"
+    "data_as_of": "2026-08-29T21:14:55Z",
+    "id": "energy-9598c70276315662"
   },
   {
-    "title": "Gamescom Says Stolen Laptops ‘Make Us Very Sad,’ But Says Exhibitors Have To Protect Against Theft: ‘This Is Noted In The Terms And Conditions’",
-    "summary": "Gamescom's official statement noted that while they treat the theft 'very seriously and understand the frustration of affected exhibitors,' there's also options to pay extra for 'individual stand security'",
+    "title": "Phil Collins Returns To Vice City With An Ominous Song Choice For GTA 6′s Jason And Lucia",
+    "summary": "On top of an extended glimpse at what the upcoming Grand Theft Auto VI will look like, Netflix gave a hint at what your crime spree playlist will sound like too",
     "source": "Kotaku",
-    "url": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563",
-    "timestamp": "2026-08-29T13:39:18Z",
+    "url": "https://kotaku.com/phil-collins-returns-to-vice-city-with-an-ominous-song-choice-for-jason-and-lucia-2000729601",
+    "timestamp": "2026-08-29T20:39:51Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563"
+      "https://kotaku.com/phil-collins-returns-to-vice-city-with-an-ominous-song-choice-for-jason-and-lucia-2000729601"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-29T13:39:18Z",
-    "id": "energy-1fdfa01443433e71"
+    "data_as_of": "2026-08-29T20:39:51Z",
+    "id": "energy-5a95944fdaf69830"
   },
   {
-    "title": "FIFAe African Continental Championship | Event Thread | Morocco LAN | Aug 29th",
-    "summary": "Event Thread FIFAe African Continental Championship, August 29th 2026 in Casablanca, Morocco. Streams Twitch - FIFAe YouTube - FIFAe Tournament Info Liquipedia Format Group Stage 8 nations compete in a Single Round Robin. Matches are So2. Top 2 nations advance to the Semifinals. 3rd-6th place nations advance to the Quarterfinals. 7th-8th place nations are eliminated. Knockout Stage Single Elimination Bracket. All matches are Bo7. Semifinal winners qualify for the FIFAe World Cup 2026. Group Stage https://preview.redd.it/h3xbh2065bmh1.png?width=1484&format=png&auto=webp&s=7e93eac75bffac6c127ce906d0f8cb093f97e762 Knockout Stage https://preview.redd.it/w9hyuc3a5bmh1.png?width=680&format=png&auto=webp&s=e2ef90dacdb34ef4f477de60a0e2adc6f67b156c Teams https://preview.redd.it/7d282iwz5bmh1.png?width=1890&format=png&auto=webp&s=427aac0fd7c802563a885ce48335270b3a3e60f7 submitted by /u/Babydrone [link] [comments]",
+    "title": "Greatest passing plays in RLCS history | GFE/Dignitas highlights",
+    "summary": "Youtube Link - edit by me submitted by /u/NobodyAtAll77 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1lb1m/fifae_african_continental_championship_event/",
-    "timestamp": "2026-08-29T12:30:14Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1qajx/greatest_passing_plays_in_rlcs_history/",
+    "timestamp": "2026-08-29T16:00:18Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1lb1m/fifae_african_continental_championship_event/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w1qajx/greatest_passing_plays_in_rlcs_history/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-08-29T12:30:14Z",
-    "id": "energy-c7cc87a1d3f13e10"
-  },
-  {
-    "title": "The Weeknd’s Music Gets A Final Fantasy Makeover By Legendary Artist Yoshitaka Amano",
-    "summary": "Turns out, fame and unfiltered posting can manifest beautiful things",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-weeknds-music-gets-a-final-fantasy-makeover-by-yoshitaka-amano-2000728638",
-    "timestamp": "2026-08-29T12:27:59Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/the-weeknds-music-gets-a-final-fantasy-makeover-by-yoshitaka-amano-2000728638"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-29T12:27:59Z",
-    "id": "energy-526f701254d0ef84"
-  },
-  {
-    "title": "Iceland votes on whether to restart talks on joining EU",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-    "timestamp": "2026-08-29T11:39:38Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.bbc.com/news/articles/cn45vdxyvvlo"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-29T11:39:38Z",
-    "id": "energy-c5ee6a282c55544d"
+    "data_as_of": "2026-08-29T16:00:18Z",
+    "id": "energy-4fe36ae42dee8cf8"
   },
   {
     "title": "Shadaloo Audio DSP makes Density EQ permanently FREE",
@@ -238,27 +259,6 @@
     "primary_source": false,
     "data_as_of": "2026-08-29T09:22:13Z",
     "id": "energy-740bc395b5fc246a"
-  },
-  {
-    "title": "Wizz is now cancer free",
-    "summary": "submitted by /u/Legitimate-Sign-371 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w10s37/wizz_is_now_cancer_free/",
-    "timestamp": "2026-08-28T19:47:13Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w10s37/wizz_is_now_cancer_free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-28T19:47:13Z",
-    "id": "energy-bbc518557fc79d21"
   },
   {
     "title": "MISO Finds Higher Load Loss Risks As It Launches South Long-Range Tx Plan",
