@@ -1,147 +1,345 @@
 [
   {
-    "title": "Intergalactic Has Finished Shooting And Naughty Dog Can’t Wait To Show You More ‘When The Time Is Right’",
-    "summary": "The PS5 exclusive has been MIA since its original reveal in 2024",
+    "title": "Joint Peak Energy Alert Issued For Southeast Minnesota And Northern Iowa",
+    "summary": "By Eric Min Freeborn Mower Electric Cooperative, MiEnergy Cooperative and People’s Energy Cooperative issued a joint peak energy alert Monday—in effect until approximately 6 p.m. To save money on electricity, the companies are asking community not to run demanding appliances. Their suggestions include: • Setting cooling systems to at least 76 degrees or higher if […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/joint-peak-energy-alert-issued-for-southeast-minnesota-and-northern-iowa/",
+    "timestamp": "2026-09-01T14:31:32Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/joint-peak-energy-alert-issued-for-southeast-minnesota-and-northern-iowa/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-01T14:31:32Z",
+    "id": "energy-47c513225ff0d6c5"
+  },
+  {
+    "title": "Officials Consider Legal Options For Proposed Solar Project",
+    "summary": "By Beth Milligan Grant Township trustees and Grand Traverse County commissioners will meet separately this week to explore options for responding to a proposed 375-megawatt solar project spanning Grand Traverse and Wexford counties. The project highlights zoning control tensions after a 2023 Michigan law change allowed solar developers to bypass local boards and go directly […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/officials-consider-legal-options-for-proposed-solar-project/",
+    "timestamp": "2026-09-01T14:30:56Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/officials-consider-legal-options-for-proposed-solar-project/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-01T14:30:56Z",
+    "id": "energy-50d8e68717f0c825"
+  },
+  {
+    "title": "Nvidia Confirms AI-Slop Filter DLSS 5 Will Cut Your Framerate In Half",
+    "summary": "Not only will it ruin how your games look, but it'll then run them half as slowly!",
     "source": "Kotaku",
-    "url": "https://kotaku.com/intergalactic-heretic-prophet-naughty-dog-ps5-state-play-2000729969",
-    "timestamp": "2026-08-31T17:19:02Z",
+    "url": "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208",
+    "timestamp": "2026-09-01T14:30:16Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/intergalactic-heretic-prophet-naughty-dog-ps5-state-play-2000729969"
+      "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-31T17:19:02Z",
-    "id": "energy-1ae1c49e3946d2b5"
+    "data_as_of": "2026-09-01T14:30:16Z",
+    "id": "energy-f113ca77e91bc450"
   },
   {
-    "title": "Pokémon’s World Champion Made History By Dethroning Charizard",
-    "summary": "Dragonite helped pull off a Championship win for the first time in the series’ 30 years",
+    "title": "Michigan Introduces Legislation To Establish State Carbon Capture Framework",
+    "summary": "By Violet George Members of the Michigan House Energy Committee have introduced House Bills 6247, 6248, and 6249, a legislative package designed to create a comprehensive state-run regulatory framework for carbon capture and storage (CCS) projects. Supported by the Michigan Chamber of Commerce, the legislation initiates the process of transferring Class VI underground carbon injection […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/michigan-introduces-legislation-to-establish-state-carbon-capture-framework/",
+    "timestamp": "2026-09-01T14:30:05Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/michigan-introduces-legislation-to-establish-state-carbon-capture-framework/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-01T14:30:05Z",
+    "id": "energy-3c32bd9593b71d57"
+  },
+  {
+    "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+    "timestamp": "2026-09-01T14:19:30Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-01T14:19:30Z",
+    "id": "energy-a517f8d6fb8d7be8"
+  },
+  {
+    "title": "Double Fine Promises To Make Brütal Legend 2 But Only If Fans Give Them $100 Million",
+    "summary": "That's an ambitious-ass stretch goal for a Kickstarter, but not impossible",
     "source": "Kotaku",
-    "url": "https://kotaku.com/pokemon-world-championships-mega-dragonite-charizard-finals-2000729957",
-    "timestamp": "2026-08-31T17:00:51Z",
+    "url": "https://kotaku.com/brutal-legend-2-double-fine-100-million-kickstarter-2000730205",
+    "timestamp": "2026-09-01T14:15:22Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/pokemon-world-championships-mega-dragonite-charizard-finals-2000729957"
+      "https://kotaku.com/brutal-legend-2-double-fine-100-million-kickstarter-2000730205"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-31T17:00:51Z",
-    "id": "energy-0a19d65f361d273e"
+    "data_as_of": "2026-09-01T14:15:22Z",
+    "id": "energy-8b99ac8fd2fa6b4c"
   },
   {
-    "title": "Onimusha: Way of the Sword Reviews Say Capcom Has a Fourth Hit on Its Hands this Year",
-    "summary": "Onimusha Way of the Sword reviews highlight the action game's top-notch combat and storytelling, despite some limitations and repetition",
+    "title": "Aliens: Fireteam Elite 2 Is As Mediocre As Its Steam Reviews Let On",
+    "summary": "Cold Iron Studios’ Aliens: Fireteam Elite 2 is too simplistic and boring to become my next co-op game guilty pleasure",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/onimusha-way-of-the-sword-review-roundup-metacritic-score/",
-    "timestamp": "2026-08-31T17:00:14Z",
+    "url": "https://www.polygon.com/aliens-fireteam-elite-2-impressions/",
+    "timestamp": "2026-09-01T14:01:22Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/onimusha-way-of-the-sword-review-roundup-metacritic-score/"
+      "https://www.polygon.com/aliens-fireteam-elite-2-impressions/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-31T17:00:14Z",
-    "id": "energy-cbf81589d516d538"
+    "data_as_of": "2026-09-01T14:01:22Z",
+    "id": "energy-d0f57aad3c18a187"
   },
   {
-    "title": "GTA 6 Is Officially the Bloodiest GTA Game Yet",
-    "summary": "GTA 6 fans should expect to see more gore and higher-definition violence against NPCs in Rockstar's open-world shooter",
+    "title": "Crimson Desert Now Playable for Free in Browser With New Demo",
+    "summary": "With Pearl Abyss' browser demo on Twitch, players can try out Crimson Desert without using up any of the storage on their device.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-violence-bloody-dismemberment/",
-    "timestamp": "2026-08-31T16:53:48Z",
+    "url": "https://www.polygon.com/crimson-desert-free-demo-twitch/",
+    "timestamp": "2026-09-01T13:59:53Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/gta-6-violence-bloody-dismemberment/"
+      "https://www.polygon.com/crimson-desert-free-demo-twitch/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-31T16:53:48Z",
-    "id": "energy-6387dfc792d76e3d"
+    "data_as_of": "2026-09-01T13:59:53Z",
+    "id": "energy-1e004c200d13e56e"
   },
   {
-    "title": "British Museum hosted Peter Thiel in private viewing of Bayeux tapestry",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.theguardian.com/culture/2026/aug/31/british-museum-hosted-palantir-founder-peter-thiel-private-viewing-bayeux-tapestry",
-    "timestamp": "2026-08-31T16:53:15Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.theguardian.com/culture/2026/aug/31/british-museum-hosted-palantir-founder-peter-thiel-private-viewing-bayeux-tapestry"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-31T16:53:15Z",
-    "id": "energy-cf35a7b94c237bae"
-  },
-  {
-    "title": "Konrad Zuse Museum shutting down due to lack of funding",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
-    "timestamp": "2026-08-31T16:52:35Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-31T16:52:35Z",
-    "id": "energy-901c5c4463c2fa3e"
-  },
-  {
-    "title": "The Blood Of Dawnwalker Reviews Are Divided On Whether It’s A Great New RPG Or Repetitive And Janky",
-    "summary": "Can ex-Witcher 3 devs recreate a winning formula with vampires?",
+    "title": "CEO Steps Down At Saudi Arabia’s $38 Billion Gaming Fund That Owns Pokémon Go",
+    "summary": "Brian Ward is leaving after five years and a mountain of acquisitions",
     "source": "Kotaku",
-    "url": "https://kotaku.com/the-blood-of-dawnwalker-reviews-are-divided-on-whether-its-a-great-new-rpg-or-repetitive-and-janky-2000729933",
-    "timestamp": "2026-08-31T16:48:49Z",
+    "url": "https://kotaku.com/ceo-steps-down-at-saudi-arabias-38-billion-gaming-fund-that-owns-pokemon-go-2000730210",
+    "timestamp": "2026-09-01T13:58:07Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/the-blood-of-dawnwalker-reviews-are-divided-on-whether-its-a-great-new-rpg-or-repetitive-and-janky-2000729933"
+      "https://kotaku.com/ceo-steps-down-at-saudi-arabias-38-billion-gaming-fund-that-owns-pokemon-go-2000730210"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-31T16:48:49Z",
-    "id": "energy-faec5905b3858b6c"
+    "data_as_of": "2026-09-01T13:58:07Z",
+    "id": "energy-0f371fce50ebaf35"
   },
   {
-    "title": "I turned my security cameras into an automatic bird identification system",
+    "title": "FIFAe Finals 2026 set to take place in Jeddah, October 16-25",
+    "summary": "submitted by /u/Lukasz__ [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w4cex6/fifae_finals_2026_set_to_take_place_in_jeddah/",
+    "timestamp": "2026-09-01T13:44:01Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w4cex6/fifae_finals_2026_set_to_take_place_in_jeddah/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-01T13:44:01Z",
+    "id": "energy-c62fa8d7f18378fd"
+  },
+  {
+    "title": "Io_uring Without Readahead",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-    "timestamp": "2026-08-31T16:47:11Z",
+    "url": "https://frn.sh/io-uring/",
+    "timestamp": "2026-09-01T13:19:12Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
+      "https://frn.sh/io-uring/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-31T16:47:11Z",
-    "id": "energy-a8fb0b0425bcad14"
+    "data_as_of": "2026-09-01T13:19:12Z",
+    "id": "energy-cdc1f1fd28cc533f"
+  },
+  {
+    "title": "Steven Spielberg and The Odyssey Inspired The Fantasy Blockbuster Event of the Decade",
+    "summary": "‘We are just going to make the story as emotionally true, powerful, and funny as possible’",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/katherine-rundell-neverfear-adaptation-interview/",
+    "timestamp": "2026-09-01T13:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/katherine-rundell-neverfear-adaptation-interview/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-01T13:00:14Z",
+    "id": "energy-df1182c06ba74703"
+  },
+  {
+    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+    "timestamp": "2026-09-01T12:53:51Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-01T12:53:51Z",
+    "id": "energy-de70dbe6f6692dda"
+  },
+  {
+    "title": "Every Play-In Team's Reaction to Worlds Bracket",
+    "summary": "2 WEEKS OUT submitted by /u/GoDrinkWater [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w4aiyl/every_playin_teams_reaction_to_worlds_bracket/",
+    "timestamp": "2026-09-01T12:27:42Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w4aiyl/every_playin_teams_reaction_to_worlds_bracket/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-01T12:27:42Z",
+    "id": "energy-da31c8b52ccfb809"
+  },
+  {
+    "title": "{\\L}ojasiewicz--Simon inequalities near bubbling configurations for the Yamabe functional on bounded domains",
+    "summary": "arXiv:2608.30173v1 Announce Type: new Abstract: We establish {\\L}ojasiewicz--Simon type gradient inequalities for the Yamabe functional on bounded smooth domains near configurations consisting of finitely many concentrating bubbles, with or without a regular component. A weighted decomposition separates the finite-dimensional spectral and bubble parameters from an infinite-dimensional coercive remainder. We obtain quantitative estimates for the parameters, the remainder, and the corresponding energy gaps, in both the regular-plus-bubbling and the pure-bubbling regimes. These inequalities quantify the deviation from such surfaces and are essential for studying the dynamics of related parabolic flows.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.30173",
+    "timestamp": "2026-09-01T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.30173"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-01T04:00:00Z",
+    "id": "energy-fa6aeebdd2d9c877"
+  },
+  {
+    "title": "Ziggurats, taut foliations, and contact structures",
+    "summary": "arXiv:2608.30031v1 Announce Type: new Abstract: We study the geography of taut foliations on compact $3$-manifolds with toroidal boundary components. The central object of our work is the set of boundary multislopes realized by foliations transverse to a fixed flow on such a manifold. We prove that these sets exhibit remarkable structural properties (rationality, rigidity, and convexity) which motivate the name ziggurats. Our main tool, of independent interest, is a two-way correspondence between foliations and contact structures on $3$-manifolds with boundary: we generalize the Eliashberg-Thurston theorem, which produces pairs of positive and negative contact structures from foliations, and a construction of the first author, which builds foliations from such contact pairs. Using both directions of this correspondence, we bring contact-geometric methods to bear on the architecture of ziggurats.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.30031",
+    "timestamp": "2026-09-01T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.30031"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-01T04:00:00Z",
+    "id": "energy-a597c681056c8d71"
+  },
+  {
+    "title": "Wigner-Eckart Factorization of the Polyatomic Boltzmann Collision Operator",
+    "summary": "arXiv:2608.29825v1 Announce Type: new Abstract: We extend the Wigner-Eckart factorization of the spectral Boltzmann collision operator to polyatomic gases with continuous internal energy. Because internal energies are invariant under spatial rotations, the SO(3) reduction survives the Borgnakke-Larsen energy exchange, and the twelve-dimensional collision integral collapses onto a nine-dimensional kinematic core. The core splits into a sparse geometric tensor, evaluated exactly, and a dense physical tensor, integrated by singularity-resolving Gauss rules with an auxiliary Laplace representation of the fractional energy couplings. The quadrature attains near machine precision at the fractional exponents of real gases. The collision invariants are embedded exactly, preserving the translational-internal energy exchange. The factorization compresses the operator by three to nearly four orders of magnitude and accelerates its evaluation 40-fold over dense formulations. The method is validated against the exact monatomic limit, Landau-Teller relaxation, and an analytic frozen-channel Prandtl number, and it matches a published calibration of the same kernel for N2, CO, and H2.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.29825",
+    "timestamp": "2026-09-01T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.29825"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-01T04:00:00Z",
+    "id": "energy-e9222019e79ac1ef"
+  },
+  {
+    "title": "I’ve added a competition to my Worlds 2026 prediction sheet to find out who made the best prediction",
+    "summary": "For the last few LANs, I’ve kept tweaking the prediction sheets so I could compare my own picks against those of content creators, casters, and friends. So, why not offer this to the whole community? Everyone submits their predictions leading up to Worlds, and then we watch live during the event to see who did the best. Just for fun. Prediction Sheet Competition Sheet (+Infos) (The group assignments and the playoff bracket in some scenarios might differ from reality, as precise information on how they are generated is missing. However, this shouldn't matter for the sake of comparing predictions for fun.) submitted by /u/No-Bill1750 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w3yb57/ive_added_a_competition_to_my_worlds_2026/",
+    "timestamp": "2026-09-01T01:57:25Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w3yb57/ive_added_a_competition_to_my_worlds_2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-01T01:57:25Z",
+    "id": "energy-c4e61b5e8e2adeae"
   },
   {
     "title": "Schallenberg Engineering releases FREE Collision: Bongos for Kontakt",
@@ -160,24 +358,6 @@
     "primary_source": false,
     "data_as_of": "2026-08-31T16:33:19Z",
     "id": "energy-8429cfa5cf2196f3"
-  },
-  {
-    "title": "The Blood of Dawnwalker Reviews Say The Witcher 3 Finally Has a Worthy Successor",
-    "summary": "Reviews for The Blood of Dawnwalker are in, and critics are raving about Rebel Wolves' vampire RPG.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/blood-of-dawnwalker-review-roundup/",
-    "timestamp": "2026-08-31T16:31:03Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/blood-of-dawnwalker-review-roundup/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-31T16:31:03Z",
-    "id": "energy-fc623a950d163d12"
   },
   {
     "title": "Raccoon Audio releases RoboComp stereo character compressor for $49",
@@ -214,185 +394,5 @@
     "primary_source": false,
     "data_as_of": "2026-08-31T15:49:17Z",
     "id": "energy-7f7f5fb927c09448"
-  },
-  {
-    "title": "Useful guideline for Vatira at worlds",
-    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w3hbfw/useful_guideline_for_vatira_at_worlds/",
-    "timestamp": "2026-08-31T15:35:40Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w3hbfw/useful_guideline_for_vatira_at_worlds/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-31T15:35:40Z",
-    "id": "energy-d900211d18062c0e"
-  },
-  {
-    "title": "Stakeholders Call For Earlier MISO Evals On Tx Project Cost Overruns",
-    "summary": "By Amanda Durish Cook Some stakeholders asked MISO to intervene earlier with re-evaluations when transmission projects significantly exceed their budgets and to give more serious thought to canceling projects that become too overpriced. The Bottom Line A nearly 25% cost increase to a long-range transmission project has stakeholders asking MISO to step in earlier with […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/stakeholders-call-for-earlier-miso-evals-on-tx-project-cost-overruns/",
-    "timestamp": "2026-08-31T14:51:56Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/stakeholders-call-for-earlier-miso-evals-on-tx-project-cost-overruns/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-31T14:51:56Z",
-    "id": "energy-9d48aa27e504b08d"
-  },
-  {
-    "title": "Stakeholders Urge MISO To Go Beyond FERC Order To Prevent Spillover Costs From Large Loads",
-    "summary": "By Amanda Durish Cook MISO is concentrating on creating customer protections to ensure that the transmission projects needed to interconnect large loads aren’t involuntarily paid for by other transmission customers. Why This Matters Some stakeholders told MISO it should be doing more than what’s required in FERC’s show cause order to ensure its customers aren’t […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/stakeholders-urge-miso-to-go-beyond-ferc-order-to-prevent-spillover-costs-from-large-loads/",
-    "timestamp": "2026-08-31T14:51:16Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/stakeholders-urge-miso-to-go-beyond-ferc-order-to-prevent-spillover-costs-from-large-loads/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-31T14:51:16Z",
-    "id": "energy-8e832ff17ee0be38"
-  },
-  {
-    "title": "MISO Wholesale Power Prices Hit Triple Digits As Grid Operator Issues Grid Notices",
-    "summary": "By Ronnie Turner • MISO expects above-normal temperatures, rising peakload • Indiana Hub day-ahead power prices at $108/MWh on ICE Wholesale power prices in the Midcontinent Independent System Operator market rose into triple digits after the grid operator issued a capacity advisory, conservative operations declaration and hot weather alert for all three regions of its […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/08/miso-wholesale-power-prices-hit-triple-digits-as-grid-operator-issues-grid-notices/",
-    "timestamp": "2026-08-31T14:50:38Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/08/miso-wholesale-power-prices-hit-triple-digits-as-grid-operator-issues-grid-notices/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-08-31T14:50:38Z",
-    "id": "energy-fbab9145272f085b"
-  },
-  {
-    "title": "NA 2027 Potential Rosters",
-    "summary": "With it being relatively likely that NRG split up at the end of this year, what sort of teams do you think could be formed? There could be a good 3 na teams formed for next year that could easily win lans on paper. We know The nrg boys individually are still best itw, and ssg are only really held back by no one on their team having significant lan experience. Shop have kofyr and fk who are the most capable of being on a top team (LJ held back by his game sense). Including one or two rogue players from other na teams like a chronic/justn or tawk, some really strong teams could be made where the talent is distributed well and we could actually see more than 2 na teams challenge for titles at a time. submitted by /u/AdFragrant5682 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w3853f/na_2027_potential_rosters/",
-    "timestamp": "2026-08-31T08:58:08Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w3853f/na_2027_potential_rosters/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-31T08:58:08Z",
-    "id": "energy-6a3062774b4c6307"
-  },
-  {
-    "title": "Zero-free columns in character tables of symmetric groups",
-    "summary": "arXiv:2608.27718v1 Announce Type: new Abstract: The rows and columns of the character table of the symmetric group $S_n$ are both naturally indexed by partitions of $n$. Let $D(n)$ denote the number of conjugacy classes of $S_n$ whose column contains no zero entry. The identity column is always zero-free, so $D(n)\\geq 1$. It is known that $D(n)\\ll n^2$. We prove that $D(n)\\ll n^{3/4}$. Second, we prove for almost all positive integers $n$ that $D(n)\\ll_B n^{1/2}(\\log n)^B$ for every $B>5/6$, with a quantitative bound for the exceptional set, using work of Matom\\\"aki and Radziwill. Finally, we offer a heuristic supporting our conjecture that $D(n)\\ll_{\\varepsilon} n^{\\varepsilon}$. AxiomProver formalized the results in this paper in Lean assuming preexisting literature.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.27718",
-    "timestamp": "2026-08-31T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.27718"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-31T04:00:00Z",
-    "id": "energy-d709715d2fe80e41"
-  },
-  {
-    "title": "Zero-energy scattering and the real Bers image on the line",
-    "summary": "arXiv:2602.07373v3 Announce Type: cross Abstract: Let $\\mathrm{Diff}_{\\mathcal S}(\\mathbb R)$ be the group of orientation-preserving diffeomorphisms $\\varphi$ of the line with $\\varphi'-1$ Schwartz and $\\varphi(x)-x\\to0$ as $x\\to-\\infty$, and let $\\beta(\\varphi)=\\frac12S(\\varphi)$ be half the Schwarzian derivative. We determine the image of $\\beta$. The coordinate $w_\\varphi=\\frac12(\\log\\varphi')'$ identifies $\\mathrm{Diff}_{\\mathcal S}(\\mathbb R)$ with the zero-mean hyperplane $\\mathcal S_0(\\mathbb R;\\mathbb R)$ and turns $\\beta$ into $w\\mapsto w'-w^2$, so the question is which real Schwartz $q$ equal $w'-w^2$ for some $w$ of zero mean. Nonnegativity of the Schrodinger operator $H_q=-\\partial_x^2-q$ decides which $q$ admit such a $w$ at all, and says nothing about the mean of $w$. The mean is a scattering invariant. Let $T_q$ and $R_q$ be the transmission and reflection coefficients of $H_q$. For every real $w\\in\\mathcal S(\\mathbb R)$, with $q=w'-w^2$, we prove $T_q(0)=\\mathrm{sech}(\\int_{\\mathbb R} w\\,dx)$ and $R_q(0)=-\\tanh(\\int_{\\mathbb R} w\\,dx)$, so $\\int_\\mathbb R w\\,dx$ is read off the scattering matrix at zero energy. Thus $q\\in\\beta(\\mathrm{Diff}_{\\mathcal S}(\\mathbb R))…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2602.07373",
-    "timestamp": "2026-08-31T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2602.07373"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-31T04:00:00Z",
-    "id": "energy-25247ec8a55eb304"
-  },
-  {
-    "title": "Wirsching's Positive-Predecessor-Density Program: Proofs of Conjectures 1 and 3",
-    "summary": "arXiv:2608.27617v1 Announce Type: new Abstract: Wirsching (2003) reduces uniform positive predecessor density for the $3n+1$ map to a chain of five conditions, organized into three conjectures. We prove two of them. Conjecture 1 concerns his path-counting generators: in the convolution carrying them to his Elka functions the partition weights grow subexponentially while the binomial ratio decays geometrically, so a window of width $O(\\sqrt{\\ell})$ dominates and its radius fits inside the hypothesis. Conjecture 3 concerns the asymptotics near 0 of an invariant density $\\varphi$, a base-3 analogue of the Fabius density, against an explicit $\\varphi_0$ due to Berg and Kr\\\"uppel. The exact log-Laplace transform of $\\varphi$ splits into a smooth part, a log 3-periodic correction $H$, and a doubly exponentially small remainder. Berg and Kr\\\"uppel represented that correction as an infinite product in 1998; their analysis did not determine whether it is constant. We give $H$ as a Fourier series with coefficients in closed form in $\\Gamma$ and $\\zeta$; a classical zero-free theorem for $\\zeta$ shows it is not constant, and we enclose its oscillation rigorously. Wirsching's comparison class…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.27617",
-    "timestamp": "2026-08-31T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.27617"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-08-31T04:00:00Z",
-    "id": "energy-3b09c639c22f90f1"
-  },
-  {
-    "title": "LAN Winner, New GOAT????",
-    "summary": "THE KING HAS DONE IT submitted by /u/DoubleQuarterPoundin [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w32et0/lan_winner_new_goat/",
-    "timestamp": "2026-08-31T03:45:55Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w32et0/lan_winner_new_goat/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-08-31T03:45:55Z",
-    "id": "energy-b1b9c584831e5a66"
   }
 ]

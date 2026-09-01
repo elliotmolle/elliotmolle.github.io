@@ -1,38 +1,16 @@
 [
   {
-    "title": "Posiva begins drilling disposal holes at Finland’s Onkalo repository",
-    "summary": "Last week the Finnish nuclear waste management company Posiva began drilling holes for final disposal at the Onkalo deep geological repository, near the Olkiluoto nuclear power plant in western Finland. The company’s German-made Deposition Hole Boring Machine (DHBM) took about 10 hours to drill the first hole, with a depth of 8.4 meters and a diameter of 1.75 meters, into the 1.9-billion-year-old bedrock. This is the first deposition hole intended for an iron-copper canister containing spent nuclear fuel—though test holes have been drilled at the site since 2022. The Onkalo repository received a favorable safety assessment from the Radiation and Nuclear Safety Authority of Finland earlier in August.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-31/article-8351/posiva-begins-drilling-disposal-holes-at-finlands-onkalo-repository/",
-    "timestamp": "2026-08-31T14:35:45Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-31/article-8351/posiva-begins-drilling-disposal-holes-at-finlands-onkalo-repository/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-31T14:35:45Z",
-    "id": "energy-77837e07a3a2751d"
-  },
-  {
-    "title": "Get more comfort and save more energy with a free home assessment",
-    "summary": "As the days begin to cool and fall settles into New Orleans, now is the perfect time to prepare your home for the season ahead. Source",
+    "title": "Meet the pros: Rhett Amedee",
+    "summary": "For nearly two decades, Rhett Amedee has helped power Entergy’s mission through leadership, technical expertise and an unwavering commitment to safety. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/get-more-comfort-and-save-more-energy-with-a-free-home-assessment",
-    "timestamp": "2026-08-31T14:14:41Z",
+    "url": "https://www.entergy.com/blog/meet-the-pros-rhett-amedee",
+    "timestamp": "2026-09-01T13:34:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/get-more-comfort-and-save-more-energy-with-a-free-home-assessment"
+      "https://www.entergy.com/blog/meet-the-pros-rhett-amedee"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -42,8 +20,166 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-08-31T14:14:41Z",
-    "id": "energy-c625d498a67661d4"
+    "data_as_of": "2026-09-01T13:34:39Z",
+    "id": "energy-08a17200ca639f52"
+  },
+  {
+    "title": "PJM President & CEO Response to MD Office of Peoples’ Counsel Letter Regarding Base Residual Auction for 2029/2030",
+    "summary": "Updated Date: 09.01.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260901-pjm-president-ceo-response-to-md-office-of-peoples-counsel-letter-regarding-base-residual-auction-2029-2030.pdf",
+    "timestamp": "2026-09-01T13:14:31Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260901-pjm-president-ceo-response-to-md-office-of-peoples-counsel-letter-regarding-base-residual-auction-2029-2030.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-09-01T13:14:31Z",
+    "id": "energy-540d9e13eb73fce4"
+  },
+  {
+    "title": "Nuclear’s Next Chapter Has a Knowledge Challenge",
+    "summary": "The nuclear industry is entering a new chapter. Existing plants are extending operating lives beyond their original design expectations. New reactor technologies are moving from concept to construction. Investment in domestic manufacturing and fuel production is accelerating, and utilities are strengthening supply chains to support decades of future operation. At the same time, another transition is taking place.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-01/article-8321/nuclears-next-chapter-has-a-knowledge-challenge/",
+    "timestamp": "2026-09-01T12:59:38Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-01/article-8321/nuclears-next-chapter-has-a-knowledge-challenge/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-01T12:59:38Z",
+    "id": "energy-bc12d47e8f3db889"
+  },
+  {
+    "title": "Webinar will outline longer-term transmission planning process, procurement",
+    "summary": "The webinar takes place Oct. 1 from 12:00 to 1:00 p.m. Registration is not required. The post Webinar will outline longer-term transmission planning process, procurement appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/09/01/webinar-will-outline-longer-term-transmission-planning-process-procurement/",
+    "timestamp": "2026-09-01T12:00:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/09/01/webinar-will-outline-longer-term-transmission-planning-process-procurement/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-09-01T12:00:00Z",
+    "id": "energy-0dfa69aaa6dc29b3"
+  },
+  {
+    "title": "Entergy Texas se prepara ante el clima tropical en el Sureste de Texas",
+    "summary": "La compañía activa operaciones de emergencia, despliega recursos y recomienda a los clientes mantenerse atentos al clima Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-texas-se-prepara-ante-el-clima-tropical-en-el-sureste-de-texas",
+    "timestamp": "2026-08-31T21:43:38Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-texas-se-prepara-ante-el-clima-tropical-en-el-sureste-de-texas"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-31T21:43:38Z",
+    "id": "energy-b080c71bd3e2e8da"
+  },
+  {
+    "title": "Entergy Texas prepares for tropical weather across Southeast Texas",
+    "summary": "Company activates emergency operations, positions resources and urges customers to stay weather aware Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-texas-prepares-for-tropical-weather-across-southeast-texas",
+    "timestamp": "2026-08-31T20:37:49Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-texas-prepares-for-tropical-weather-across-southeast-texas"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-08-31T20:37:49Z",
+    "id": "energy-741e40046c641720"
+  },
+  {
+    "title": "Fuel loading process begins at Palisades",
+    "summary": "The Palisades nuclear power plant has drawn closer to restart, as plant staff began the process of loading fuel into the reactor vessel on Sunday morning. The commencement of fuel loading places the Covert, Mich., facility in Mode 6—or the refueling stage—under the plant’s technical specifications, plant owner and operator Holtec International said in a news release. The Palisades reactor core consists of 204 fuel assemblies that include new fuel and partially used fuel from the plant’s most recent operating cycles. According to Holtec, the fuel loading is being conducted in accordance with plant procedures and technical specifications.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-31/article-8355/fuel-loading-process-begins-at-palisades/",
+    "timestamp": "2026-08-31T20:27:19Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-31/article-8355/fuel-loading-process-begins-at-palisades/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-31T20:27:19Z",
+    "id": "energy-ae637f31b2139e75"
+  },
+  {
+    "title": "ATLAS, new MARAD partnership, among latest maritime nuclear announcements",
+    "summary": "Just days after the Department of Transportation’s Maritime Administration (MARAD) and the Port of Corpus Christi announced a partnership to explore the development of small modular reactors in the U.S. seaport, multiple other maritime nuclear announcements were unveiled to the public, including another MARAD partnership.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-08-31/article-8353/atlas-new-marad-partnership-among-latest-maritime-nuclear-announcements/",
+    "timestamp": "2026-08-31T17:42:59Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-08-31/article-8353/atlas-new-marad-partnership-among-latest-maritime-nuclear-announcements/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-08-31T17:42:59Z",
+    "id": "energy-832dbd299e9e5079"
   },
   {
     "title": "MD Office of Peoples’ Counsel Letter Regarding Base Residual Auction for 20292030",
@@ -66,49 +202,5 @@
     ],
     "data_as_of": "2026-08-31T14:01:59Z",
     "id": "energy-4c3a3a2fd98cf90b"
-  },
-  {
-    "title": "Awards presented at NECX 2026",
-    "summary": "Last week, the American Nuclear Society and the Nuclear Energy Institute jointly hosted the second annual Nuclear Energy Conference & Expo in Dallas, Texas. NECX serves as both a combination and evolution of ANS’s Utility Working Conference and NEI’s Nuclear Energy Assembly. For the second year in a row, NECX brought together utilities, advanced reactor developers, suppliers, regulators, policymakers, investors, engineers, and innovators for a wide range of discussions pertaining to the present and future of the industry.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-31/article-8350/awards-presented-at-necx-2026/",
-    "timestamp": "2026-08-31T12:12:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-31/article-8350/awards-presented-at-necx-2026/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-31T12:12:08Z",
-    "id": "energy-9650bcf7510ed4f6"
-  },
-  {
-    "title": "Five companies, five bases: The Army’s Janus Program takes shape",
-    "summary": "Between the Nuclear Lifecycle Innovation Campuses and Nuclear Energy Launch Pad programs, August has already been a busy month for federal partnerships with the nuclear industry. That trend continues: On Wednesday, the Department of the Army announced that it has selected five nuclear reactor developers—Antares Nuclear, BWXT Advanced Technologies, General Atomics Electromagnetic Systems, Radiant Industries, and Westinghouse Government Services—each paired with a different military installation, for its Janus Program. This week, the nuclear community descended on Dallas, Texas, for the second annual Nuclear Energy Conference and Expo, the premier industry-focused nuclear conference cohosted by the American Nuclear Society and the Nuclear Energy Institute. Among the plenary panelists was Jeff Waksman, principal deputy assistant secretary of the Army for installations, energy, and environment. Waksman has been closely involved in the development of the Janus Program, and the morning before the program’s new selections were unveiled, he provided insights on its ultimate goals at NECX 2026.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-28/article-8347/five-companies-five-bases-the-armys-janus-program-takes-shape/",
-    "timestamp": "2026-08-28T20:12:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-28/article-8347/five-companies-five-bases-the-armys-janus-program-takes-shape/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-28T20:12:28Z",
-    "id": "energy-a050919d30aa8645"
   }
 ]
