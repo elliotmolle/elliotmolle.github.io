@@ -1,398 +1,416 @@
 [
   {
-    "title": "Joint Peak Energy Alert Issued For Southeast Minnesota And Northern Iowa",
-    "summary": "By Eric Min Freeborn Mower Electric Cooperative, MiEnergy Cooperative and People’s Energy Cooperative issued a joint peak energy alert Monday—in effect until approximately 6 p.m. To save money on electricity, the companies are asking community not to run demanding appliances. Their suggestions include: • Setting cooling systems to at least 76 degrees or higher if […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/joint-peak-energy-alert-issued-for-southeast-minnesota-and-northern-iowa/",
-    "timestamp": "2026-09-01T14:31:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/joint-peak-energy-alert-issued-for-southeast-minnesota-and-northern-iowa/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-01T14:31:32Z",
-    "id": "energy-47c513225ff0d6c5"
-  },
-  {
-    "title": "Officials Consider Legal Options For Proposed Solar Project",
-    "summary": "By Beth Milligan Grant Township trustees and Grand Traverse County commissioners will meet separately this week to explore options for responding to a proposed 375-megawatt solar project spanning Grand Traverse and Wexford counties. The project highlights zoning control tensions after a 2023 Michigan law change allowed solar developers to bypass local boards and go directly […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/officials-consider-legal-options-for-proposed-solar-project/",
-    "timestamp": "2026-09-01T14:30:56Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/officials-consider-legal-options-for-proposed-solar-project/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-01T14:30:56Z",
-    "id": "energy-50d8e68717f0c825"
-  },
-  {
-    "title": "Nvidia Confirms AI-Slop Filter DLSS 5 Will Cut Your Framerate In Half",
-    "summary": "Not only will it ruin how your games look, but it'll then run them half as slowly!",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208",
-    "timestamp": "2026-09-01T14:30:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-01T14:30:16Z",
-    "id": "energy-f113ca77e91bc450"
-  },
-  {
-    "title": "Michigan Introduces Legislation To Establish State Carbon Capture Framework",
-    "summary": "By Violet George Members of the Michigan House Energy Committee have introduced House Bills 6247, 6248, and 6249, a legislative package designed to create a comprehensive state-run regulatory framework for carbon capture and storage (CCS) projects. Supported by the Michigan Chamber of Commerce, the legislation initiates the process of transferring Class VI underground carbon injection […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/michigan-introduces-legislation-to-establish-state-carbon-capture-framework/",
-    "timestamp": "2026-09-01T14:30:05Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/michigan-introduces-legislation-to-establish-state-carbon-capture-framework/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-01T14:30:05Z",
-    "id": "energy-3c32bd9593b71d57"
-  },
-  {
-    "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+    "title": "GrapheneOS says Pixel 11 has MTE support after all",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-    "timestamp": "2026-09-01T14:19:30Z",
+    "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+    "timestamp": "2026-09-02T14:00:28Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept"
+      "https://grapheneos.social/@GrapheneOS/117194007157499435"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-01T14:19:30Z",
-    "id": "energy-a517f8d6fb8d7be8"
+    "data_as_of": "2026-09-02T14:00:28Z",
+    "id": "energy-5db4bd255a261c71"
   },
   {
-    "title": "Double Fine Promises To Make Brütal Legend 2 But Only If Fans Give Them $100 Million",
-    "summary": "That's an ambitious-ass stretch goal for a Kickstarter, but not impossible",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/brutal-legend-2-double-fine-100-million-kickstarter-2000730205",
-    "timestamp": "2026-09-01T14:15:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/brutal-legend-2-double-fine-100-million-kickstarter-2000730205"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-01T14:15:22Z",
-    "id": "energy-8b99ac8fd2fa6b4c"
-  },
-  {
-    "title": "Aliens: Fireteam Elite 2 Is As Mediocre As Its Steam Reviews Let On",
-    "summary": "Cold Iron Studios’ Aliens: Fireteam Elite 2 is too simplistic and boring to become my next co-op game guilty pleasure",
+    "title": "The Definitive ’70s Action Blockbuster Is Officially Streaming for Free on YouTube",
+    "summary": "Bruce Lee was already reinventing the action movie in 1972. Here's why you should watch Way of the Dragon for free on YouTube.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/aliens-fireteam-elite-2-impressions/",
-    "timestamp": "2026-09-01T14:01:22Z",
+    "url": "https://www.polygon.com/bruce-lee-way-of-the-dragon-action-movie-free-on-youtube/",
+    "timestamp": "2026-09-02T14:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/aliens-fireteam-elite-2-impressions/"
+      "https://www.polygon.com/bruce-lee-way-of-the-dragon-action-movie-free-on-youtube/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-01T14:01:22Z",
-    "id": "energy-d0f57aad3c18a187"
+    "data_as_of": "2026-09-02T14:00:14Z",
+    "id": "energy-c024895d19745f73"
   },
   {
-    "title": "Crimson Desert Now Playable for Free in Browser With New Demo",
-    "summary": "With Pearl Abyss' browser demo on Twitch, players can try out Crimson Desert without using up any of the storage on their device.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/crimson-desert-free-demo-twitch/",
-    "timestamp": "2026-09-01T13:59:53Z",
-    "topic": "Gaming",
+    "title": "Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "timestamp": "2026-09-02T13:59:59Z",
+    "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/crimson-desert-free-demo-twitch/"
+      "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-01T13:59:53Z",
-    "id": "energy-1e004c200d13e56e"
+    "data_as_of": "2026-09-02T13:59:59Z",
+    "id": "energy-ac787ea087a16d93"
   },
   {
-    "title": "CEO Steps Down At Saudi Arabia’s $38 Billion Gaming Fund That Owns Pokémon Go",
-    "summary": "Brian Ward is leaving after five years and a mountain of acquisitions",
+    "title": "The Biggest Mod Website Just Bought Everyone’s Window Into Steam",
+    "summary": "SteamDB's owner explained that the 'rise of AI' and 'mental burnout' led to his decision to sell the site: 'The internet we once loved is gone, and with it my passion'",
     "source": "Kotaku",
-    "url": "https://kotaku.com/ceo-steps-down-at-saudi-arabias-38-billion-gaming-fund-that-owns-pokemon-go-2000730210",
-    "timestamp": "2026-09-01T13:58:07Z",
+    "url": "https://kotaku.com/nexus-mods-steamdb-steam-2000730486",
+    "timestamp": "2026-09-02T13:50:30Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/ceo-steps-down-at-saudi-arabias-38-billion-gaming-fund-that-owns-pokemon-go-2000730210"
+      "https://kotaku.com/nexus-mods-steamdb-steam-2000730486"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-01T13:58:07Z",
-    "id": "energy-0f371fce50ebaf35"
+    "data_as_of": "2026-09-02T13:50:30Z",
+    "id": "energy-5e43b359f5a73003"
   },
   {
-    "title": "FIFAe Finals 2026 set to take place in Jeddah, October 16-25",
-    "summary": "submitted by /u/Lukasz__ [link] [comments]",
+    "title": "Dyson CameraJet: The only toothbrush with a camera and a jet",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.dyson.com/discover/news/latest/introducing-camerajet",
+    "timestamp": "2026-09-02T13:47:57Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.dyson.com/discover/news/latest/introducing-camerajet"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-02T13:47:57Z",
+    "id": "energy-41241c9d26f1eb47"
+  },
+  {
+    "title": "Joyo being a danger at both ends of the field (3 clips)",
+    "summary": "submitted by /u/Babydrone [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w4cex6/fifae_finals_2026_set_to_take_place_in_jeddah/",
-    "timestamp": "2026-09-01T13:44:01Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5at5t/joyo_being_a_danger_at_both_ends_of_the_field_3/",
+    "timestamp": "2026-09-02T13:45:00Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w4cex6/fifae_finals_2026_set_to_take_place_in_jeddah/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5at5t/joyo_being_a_danger_at_both_ends_of_the_field_3/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-01T13:44:01Z",
-    "id": "energy-c62fa8d7f18378fd"
+    "data_as_of": "2026-09-02T13:45:00Z",
+    "id": "energy-82c4e76e1a93adec"
   },
   {
-    "title": "Io_uring Without Readahead",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://frn.sh/io-uring/",
-    "timestamp": "2026-09-01T13:19:12Z",
-    "topic": "Computer Science",
+    "title": "Codwaves releases BassXtend psychoacoustic bass enhancer for €14.99",
+    "summary": "Codwaves has released BassXtend, a psychoacoustic bass enhancement plugin for macOS and Windows, priced at €14.99. BassXtend helps kicks, basslines, 808s, bass guitars, and drum groups translate to phones, laptops, earbuds, and other playback systems that cannot properly reproduce the lowest frequencies. As most of us have learned the hard way, simply boosting the sub-bass [...] View post: Codwaves releases BassXtend psychoacoustic bass enhancer for €14.99",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/02/codwaves-bassxtend/",
+    "timestamp": "2026-09-02T13:44:30Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://frn.sh/io-uring/"
+      "https://bedroomproducersblog.com/2026/09/02/codwaves-bassxtend/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-01T13:19:12Z",
-    "id": "energy-cdc1f1fd28cc533f"
+    "data_as_of": "2026-09-02T13:44:30Z",
+    "id": "energy-1cb77fcb9563e30c"
   },
   {
-    "title": "Steven Spielberg and The Odyssey Inspired The Fantasy Blockbuster Event of the Decade",
-    "summary": "‘We are just going to make the story as emotionally true, powerful, and funny as possible’",
+    "title": "Vitric Audio releases Bevel EQ, a FREE 24-band dynamic equalizer",
+    "summary": "New developer Vitric Audio has released Bevel EQ, a free 24-band dynamic equalizer for macOS and Windows. Vitric Audio is a new Cleveland-based developer that launched its store on August 28th. Bevel EQ and the four-knob Stoke Saturator are free during the launch sale, with no end date listed. We already have so many high-quality [...] View post: Vitric Audio releases Bevel EQ, a FREE 24-band dynamic equalizer",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/02/vitric-audio-bevel-eq/",
+    "timestamp": "2026-09-02T13:36:35Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/02/vitric-audio-bevel-eq/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-02T13:36:35Z",
+    "id": "energy-350d48ebf9b50bb0"
+  },
+  {
+    "title": "After 7 Hours, Lego Skylines Really Is the Perfect Twist on Cities Skylines",
+    "summary": "Lego Skylines adapts Cities Skylines well, and it adds a much deeper customization element to city building",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/katherine-rundell-neverfear-adaptation-interview/",
-    "timestamp": "2026-09-01T13:00:14Z",
+    "url": "https://www.polygon.com/lego-skylines-preview/",
+    "timestamp": "2026-09-02T13:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/katherine-rundell-neverfear-adaptation-interview/"
+      "https://www.polygon.com/lego-skylines-preview/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-01T13:00:14Z",
-    "id": "energy-df1182c06ba74703"
+    "data_as_of": "2026-09-02T13:00:14Z",
+    "id": "energy-33efc38fb008dfda"
   },
   {
-    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-    "timestamp": "2026-09-01T12:53:51Z",
-    "topic": "Computer Science",
+    "title": "Dragon’s Dogma 2: Dark Arisen Devs Say Japanese And Western Players Are ‘Directly Opposed’ On What They Want From The RPG",
+    "summary": "Balancing player expectations between the two regions proved challenging",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/dragons-dogma-2-dark-arisen-devs-say-japanese-and-western-players-are-directly-opposed-on-what-they-want-from-the-rpg-2000730103",
+    "timestamp": "2026-09-02T12:45:36Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
+      "https://kotaku.com/dragons-dogma-2-dark-arisen-devs-say-japanese-and-western-players-are-directly-opposed-on-what-they-want-from-the-rpg-2000730103"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-01T12:53:51Z",
-    "id": "energy-de70dbe6f6692dda"
+    "data_as_of": "2026-09-02T12:45:36Z",
+    "id": "energy-972a6d281cdd6970"
   },
   {
-    "title": "Every Play-In Team's Reaction to Worlds Bracket",
-    "summary": "2 WEEKS OUT submitted by /u/GoDrinkWater [link] [comments]",
+    "title": "FIFAe European Continental Championship | Event Thread | Portugal LAN | Sept 2nd | Playoffs",
+    "summary": "Event Thread FIFAe European Continental Championship, September 2nd 2026 in Lisbon, Portugal. Show begins around 1:30pm UTC local time (2:30pm CEST, 8:30am EDT) Matches begin around 2pm UTC local time (3pm CEST, 9am EDT) Streams Twitch - FIFAe YouTube - TBA England Team Stream - SubParButInHD France Team Stream - RocketBaguette Tournament Info Liquipedia | Fifa.gg Format Group Stage 12 nations compete in 2 groups of 6. Single Round Robin. Matches are So2. Top 4 nations from each group advance to the Knockout Stage. 5th-6th place nations from each group are eliminated. Playoffs Single Elimination Bracket. All matches are Bo7. Quarterfinal winners qualify for the FIFAe World Cup 2026. Quarterfinal losers advance to the Second Chance Semifinals. Second Chance Semifinal winners qualify for the FIFAe World Cup 2026. Playoffs Quarterfinal Winners will qualify for the FIFAe World Cup in October https://preview.redd.it/tem34zknq3nh1.png?width=1723&format=png&auto=webp&s=2d46b028e9a0c7b18379fe433e190e0304bbb165 Second Chance Bonus losers matches to decide qualification for the FIFAe World Cup in October https://preview.redd.it/sflv4l1uq3nh1.png?width=614&format=png&auto=webp&s=945270a83b3a…",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w4aiyl/every_playin_teams_reaction_to_worlds_bracket/",
-    "timestamp": "2026-09-01T12:27:42Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w598f4/fifae_european_continental_championship_event/",
+    "timestamp": "2026-09-02T12:41:35Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w4aiyl/every_playin_teams_reaction_to_worlds_bracket/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w598f4/fifae_european_continental_championship_event/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-01T12:27:42Z",
-    "id": "energy-da31c8b52ccfb809"
+    "data_as_of": "2026-09-02T12:41:35Z",
+    "id": "energy-778d50714979bc38"
   },
   {
-    "title": "{\\L}ojasiewicz--Simon inequalities near bubbling configurations for the Yamabe functional on bounded domains",
-    "summary": "arXiv:2608.30173v1 Announce Type: new Abstract: We establish {\\L}ojasiewicz--Simon type gradient inequalities for the Yamabe functional on bounded smooth domains near configurations consisting of finitely many concentrating bubbles, with or without a regular component. A weighted decomposition separates the finite-dimensional spectral and bubble parameters from an infinite-dimensional coercive remainder. We obtain quantitative estimates for the parameters, the remainder, and the corresponding energy gaps, in both the regular-plus-bubbling and the pure-bubbling regimes. These inequalities quantify the deviation from such surfaces and are essential for studying the dynamics of related parabolic flows.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.30173",
-    "timestamp": "2026-09-01T04:00:00Z",
-    "topic": "Mathematics",
+    "title": "Surprise Switch 2 Upgrade Brings Wild 8-Player Split-Screen Mode To Mario Kart 8 Deluxe For Free",
+    "summary": "Still the king",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/surprise-switch-2-upgrade-brings-wild-8-player-split-screen-mode-to-mario-kart-8-deluxe-for-free-2000730478",
+    "timestamp": "2026-09-02T12:11:33Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2608.30173"
+      "https://kotaku.com/surprise-switch-2-upgrade-brings-wild-8-player-split-screen-mode-to-mario-kart-8-deluxe-for-free-2000730478"
     ],
     "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-01T04:00:00Z",
-    "id": "energy-fa6aeebdd2d9c877"
+    "primary_source": false,
+    "data_as_of": "2026-09-02T12:11:33Z",
+    "id": "energy-dc167646b6c473fa"
   },
   {
-    "title": "Ziggurats, taut foliations, and contact structures",
-    "summary": "arXiv:2608.30031v1 Announce Type: new Abstract: We study the geography of taut foliations on compact $3$-manifolds with toroidal boundary components. The central object of our work is the set of boundary multislopes realized by foliations transverse to a fixed flow on such a manifold. We prove that these sets exhibit remarkable structural properties (rationality, rigidity, and convexity) which motivate the name ziggurats. Our main tool, of independent interest, is a two-way correspondence between foliations and contact structures on $3$-manifolds with boundary: we generalize the Eliashberg-Thurston theorem, which produces pairs of positive and negative contact structures from foliations, and a construction of the first author, which builds foliations from such contact pairs. Using both directions of this correspondence, we bring contact-geometric methods to bear on the architecture of ziggurats.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.30031",
-    "timestamp": "2026-09-01T04:00:00Z",
-    "topic": "Mathematics",
+    "title": "PlayStation Faces $7.85 Million Lawsuit for Allegedly Establishing Digital Game Monopoly on PlayStation",
+    "summary": "Sony is being sued for anticompetitive behavior due its problematic policies regarding digital PlayStation game sales.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/sony-playstation-lawsuit-digital-game-monopoly/",
+    "timestamp": "2026-09-02T12:05:44Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2608.30031"
+      "https://www.polygon.com/sony-playstation-lawsuit-digital-game-monopoly/"
     ],
     "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-01T04:00:00Z",
-    "id": "energy-a597c681056c8d71"
+    "primary_source": false,
+    "data_as_of": "2026-09-02T12:05:44Z",
+    "id": "energy-0d1049e62aca0034"
   },
   {
-    "title": "Wigner-Eckart Factorization of the Polyatomic Boltzmann Collision Operator",
-    "summary": "arXiv:2608.29825v1 Announce Type: new Abstract: We extend the Wigner-Eckart factorization of the spectral Boltzmann collision operator to polyatomic gases with continuous internal energy. Because internal energies are invariant under spatial rotations, the SO(3) reduction survives the Borgnakke-Larsen energy exchange, and the twelve-dimensional collision integral collapses onto a nine-dimensional kinematic core. The core splits into a sparse geometric tensor, evaluated exactly, and a dense physical tensor, integrated by singularity-resolving Gauss rules with an auxiliary Laplace representation of the fractional energy couplings. The quadrature attains near machine precision at the fractional exponents of real gases. The collision invariants are embedded exactly, preserving the translational-internal energy exchange. The factorization compresses the operator by three to nearly four orders of magnitude and accelerates its evaluation 40-fold over dense formulations. The method is validated against the exact monatomic limit, Landau-Teller relaxation, and an analytic frozen-channel Prandtl number, and it matches a published calibration of the same kernel for N2, CO, and H2.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.29825",
-    "timestamp": "2026-09-01T04:00:00Z",
-    "topic": "Mathematics",
+    "title": "How to respond to disinformation about clean energy, at scale",
+    "summary": "A conversation with Leah Qusba of GoodPower.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/how-to-respond-to-disinformation",
+    "timestamp": "2026-09-02T10:04:47Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2608.29825"
+      "https://www.volts.wtf/p/how-to-respond-to-disinformation"
     ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-01T04:00:00Z",
-    "id": "energy-e9222019e79ac1ef"
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-09-02T10:04:47Z",
+    "id": "energy-a61fe671e62e2c49"
   },
   {
-    "title": "I’ve added a competition to my Worlds 2026 prediction sheet to find out who made the best prediction",
-    "summary": "For the last few LANs, I’ve kept tweaking the prediction sheets so I could compare my own picks against those of content creators, casters, and friends. So, why not offer this to the whole community? Everyone submits their predictions leading up to Worlds, and then we watch live during the event to see who did the best. Just for fun. Prediction Sheet Competition Sheet (+Infos) (The group assignments and the playoff bracket in some scenarios might differ from reality, as precise information on how they are generated is missing. However, this shouldn't matter for the sake of comparing predictions for fun.) submitted by /u/No-Bill1750 [link] [comments]",
+    "title": "Unbalanced play-in bracket",
+    "summary": "Worlds play-in Does anyone else think that this play-in bracket is terrible? You could make a legit argument that all 4 teams in the bottom half of the bracket are better than all 4 teams in the top half of the bracket, even TSM. FUT in particular have a very difficult run to qualify for the main event, they have a crazy matchup round one, and they'll likely have to go through VP or Mate y Tapa in the lower. It's still crazy to me how the MENA teams are seeded so low, despite how good we know they are. submitted by /u/Elektride [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w3yb57/ive_added_a_competition_to_my_worlds_2026/",
-    "timestamp": "2026-09-01T01:57:25Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w510se/unbalanced_playin_bracket/",
+    "timestamp": "2026-09-02T05:18:23Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w3yb57/ive_added_a_competition_to_my_worlds_2026/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w510se/unbalanced_playin_bracket/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-01T01:57:25Z",
-    "id": "energy-c4e61b5e8e2adeae"
+    "data_as_of": "2026-09-02T05:18:23Z",
+    "id": "energy-1a60f7edf0feb07a"
   },
   {
-    "title": "Schallenberg Engineering releases FREE Collision: Bongos for Kontakt",
-    "summary": "Schallenberg Engineering has released Collision: Bongos, a free bongo sample library for the full version of Native Instruments Kontakt. I haven’t used Schallenberg Engineering’s libraries before, but this is definitely a very cool freebie. It is fairly compact at 268 MB, but the sampling depth here is much better than you might expect from a [...] View post: Schallenberg Engineering releases FREE Collision: Bongos for Kontakt",
+    "title": "Win rates at first-passage times for biased simple random walks",
+    "summary": "arXiv:2512.21254v3 Announce Type: replace Abstract: We study the win rate $R_{N_d}/N_d$ of a biased simple random walk $S_n$ on $\\mathbb{Z}$ at the first-passage time $N_d=\\inf\\{n\\ge 0:S_n=d\\}$, with $p=P[X_1=+1]\\in[1/2,1)$. Using generating-function techniques and integral representations, we derive explicit formulas for the expectation and variance of $R_{N_d}/N_d$ along with monotonicity properties in the threshold $d$ and the bias $p$. We also provide closed-form expressions and use them to design unbiased coin-flipping estimators of $\\pi$ based on first-passage sampling; the resulting schemes illustrate how biasing the coin can dramatically improve both approximation accuracy and computational cost.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2512.21254",
+    "timestamp": "2026-09-02T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2512.21254"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-02T04:00:00Z",
+    "id": "energy-fa68245fb393bf7c"
+  },
+  {
+    "title": "Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials",
+    "summary": "arXiv:2609.00528v1 Announce Type: cross Abstract: We prove that the Hypergraph Neural Network, an invariant architecture with 3-body message passing, is a universal approximator for potential energy surfaces. Our main contribution is a multi-layer completeness theory. We show that $L$ layers of message passing on sparse, cutoff-based graphs achieve the same representational power as having access to the full $L$-hop neighborhood, provided the configurations are generic, satisfy an overlap condition and a connectivity condition. This provides the first rigorous justification for the common practice of using multi-layer message passing with a per-layer cutoff smaller than the physical interaction range, the setting used by virtually all practical graph neural network based machine-learned interatomic potentials. As immediate consequences, we show that both DPA3 and CHGNet architectures inherit universal approximation.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.00528",
+    "timestamp": "2026-09-02T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.00528"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-02T04:00:00Z",
+    "id": "energy-abbfdcf7b8d091c7"
+  },
+  {
+    "title": "Well-posedness of the relaxed Electron MHD equations with random diffusion",
+    "summary": "arXiv:2509.18640v3 Announce Type: replace Abstract: We investigate a three-dimensional active-vector relaxation of the electron magnetohydrodynamics (EMHD) equations without resistivity. The relaxation replaces the electron current by a generalized current defined through a fractional power of the Laplacian. We drive the system by multiplicative pseudo-differential noise and apply an exponential transformation that removes the stochastic differential term and produces an effective fractional damping. For deterministic divergence-free, mean-zero initial data, we prove local well-posedness up to a stopping time in suitable Gevrey spaces. Under a smallness condition, we further establish global well-posedness with high explicit probability.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2509.18640",
+    "timestamp": "2026-09-02T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2509.18640"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-02T04:00:00Z",
+    "id": "energy-d88aa2ff7620dbb8"
+  },
+  {
+    "title": "Golden DSP launches Silkbrush Reverb for $39",
+    "summary": "Golden DSP has released Silkbrush Reverb, a ducking reverb plugin for macOS and Windows, priced at $39 during launch. Silkbrush is designed for vocals and other lead sounds that need ambiance without being pushed back by the reverb tail. It combines a modulated hall-style reverb with built-in ducking, so you do not need a separate [...] View post: Golden DSP launches Silkbrush Reverb for $39",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/31/schallenberg-engineering-collision-bongos/",
-    "timestamp": "2026-08-31T16:33:19Z",
+    "url": "https://bedroomproducersblog.com/2026/09/01/golden-dsp-silkbrush-reverb/",
+    "timestamp": "2026-09-01T17:09:24Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/31/schallenberg-engineering-collision-bongos/"
+      "https://bedroomproducersblog.com/2026/09/01/golden-dsp-silkbrush-reverb/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-08-31T16:33:19Z",
-    "id": "energy-8429cfa5cf2196f3"
+    "data_as_of": "2026-09-01T17:09:24Z",
+    "id": "energy-c89879efce37f180"
   },
   {
-    "title": "Raccoon Audio releases RoboComp stereo character compressor for $49",
-    "summary": "Raccoon Audio has released RoboComp, a stereo character compressor for macOS and Windows, with a $49 launch price through August 31st. RoboComp combines a familiar compressor layout with two controls that let you decide which parts of the signal drive the compression. Basically, the idea is to shape the movement and stereo character without building [...] View post: Raccoon Audio releases RoboComp stereo character compressor for $49",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/31/raccoon-audio-robocomp/",
-    "timestamp": "2026-08-31T16:15:02Z",
-    "topic": "Music Production",
+    "title": "Second High-Voltage Power Line Proposed To Cut Through Driftless Area",
+    "summary": "By Madeline Heim Wisconsin residents are fighting another proposal to bring a high-voltage power line to the state’s environmentally sensitive Driftless region. It’s become high-profile enough that hundreds of people have been showing up for public meetings, raising questions about the impact on the land, and whether the lines would largely serve data centers. The […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/second-high-voltage-power-line-proposed-to-cut-through-driftless-area/",
+    "timestamp": "2026-09-01T14:43:32Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/31/raccoon-audio-robocomp/"
+      "https://misoxenwatch.com/2026/09/second-high-voltage-power-line-proposed-to-cut-through-driftless-area/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-31T16:15:02Z",
-    "id": "energy-a1f7c5b46a341479"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-01T14:43:32Z",
+    "id": "energy-d7dfd9a57f0e5cd5"
   },
   {
-    "title": "WET VST releases FREE WetEQ and WetCompressor analog-style plugins",
-    "summary": "Ronald Klarenbeek has released WetEQ and WetCompressor, two free and open-source analog-style plugins for macOS, Windows, and Linux. These are the follow-ups to WetDelay and WetReverb, which we featured in March. The developer told me that the two earlier plugins have since reached over 3,000 users. He started seeing YouTube Shorts of producers using WetDelay [...] View post: WET VST releases FREE WetEQ and WetCompressor analog-style plugins",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/08/31/weteq-wetcompressor/",
-    "timestamp": "2026-08-31T15:49:17Z",
-    "topic": "Music Production",
+    "title": "Transmission Line Project Makes A Sun Prairie Engagement Stop",
+    "summary": "By Ethan Ferrell Since the BECI 765-kilovolt (kV) Transmission Line Project was announced just a couple of weeks ago, the buzz surrounding the proposal has spread much farther than infrastructure routes that are being proposed. The project’s contractor, Midcontinent Grid Solutions (MGS), made a series of stops throughout southern Wisconsin this past week in an […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/transmission-line-project-makes-a-sun-prairie-engagement-stop/",
+    "timestamp": "2026-09-01T14:42:37Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/08/31/weteq-wetcompressor/"
+      "https://misoxenwatch.com/2026/09/transmission-line-project-makes-a-sun-prairie-engagement-stop/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-08-31T15:49:17Z",
-    "id": "energy-7f7f5fb927c09448"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-01T14:42:37Z",
+    "id": "energy-290477ea8fed918d"
+  },
+  {
+    "title": "MISO Strives To Be Ahead Of FERC And NERC Requirements On Large-Load Additions",
+    "summary": "By Thomas Tiernan • MISO proposes 50-MW threshold for large loads • Data centers must withstand voltage swings • Peak demand may jump 50 GW by 2036 The Midcontinent Independent System Operator is trying to stay ahead of regulatory requirements for meeting demand from large loads such as data centers, with a recent proposal to […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/miso-strives-to-be-ahead-of-ferc-and-nerc-requirements-on-large-load-additions/",
+    "timestamp": "2026-09-01T14:39:50Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/miso-strives-to-be-ahead-of-ferc-and-nerc-requirements-on-large-load-additions/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-01T14:39:50Z",
+    "id": "energy-97ef527a15f1e48e"
   }
 ]

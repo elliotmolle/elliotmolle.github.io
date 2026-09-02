@@ -1,16 +1,38 @@
 [
   {
-    "title": "Meet the pros: Rhett Amedee",
-    "summary": "For nearly two decades, Rhett Amedee has helped power Entergy’s mission through leadership, technical expertise and an unwavering commitment to safety. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/meet-the-pros-rhett-amedee",
-    "timestamp": "2026-09-01T13:34:39Z",
+    "title": "GSE Solutions gives talk on enabling uprates",
+    "summary": "The American Nuclear Society recently hosted a Supplier Showcase webinar, “Advancing DVR for MUR: Lessons from First-of-a-Kind Projects,” featuring Greg Kanuckel, director of thermal performance at GSE Solutions, who shared his insights on data validation and reconciliation (DVR) and its impact on conducting measurement uncertainty recapture (MUR) uprates in nuclear power plants.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-02/article-8359/gse-solutions-gives-talk-on-enabling-uprates/",
+    "timestamp": "2026-09-02T12:20:57Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/meet-the-pros-rhett-amedee"
+      "https://www.ans.org/news/2026-09-02/article-8359/gse-solutions-gives-talk-on-enabling-uprates/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-02T12:20:57Z",
+    "id": "energy-005f8e4df04cc196"
+  },
+  {
+    "title": "Entergy Texas: actualización sobre la tormenta tropical Edouard – 1 de septiembre de 2026, 7:15 p.m.",
+    "summary": "El personal técnico evalúa los daños y trabaja en el restablecimiento del suministro eléctrico en las zonas donde las condiciones lo permiten. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-texas-actualizacion-sobre-la-tormenta-tropical-edouard-1-de-septiembre-de-2026-715-p-m",
+    "timestamp": "2026-09-02T01:16:24Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-texas-actualizacion-sobre-la-tormenta-tropical-edouard-1-de-septiembre-de-2026-715-p-m"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -20,8 +42,100 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-01T13:34:39Z",
-    "id": "energy-08a17200ca639f52"
+    "data_as_of": "2026-09-02T01:16:24Z",
+    "id": "energy-a57f01ef3e074000"
+  },
+  {
+    "title": "Entergy Texas Tropical Storm Edouard update – 9/1/2026, 7:15 p.m.",
+    "summary": "Crews are assessing damage and restoring power where conditions allow Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-1-2026-715-p-m",
+    "timestamp": "2026-09-02T00:14:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-1-2026-715-p-m"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-02T00:14:23Z",
+    "id": "energy-e265365ec24626d1"
+  },
+  {
+    "title": "ANL dust study aims to improve emergency response models",
+    "summary": "Researchers at Argonne National Laboratory have conducted experimental tests on how particles from paved surfaces become suspended from activities such as walking, driving, and vacuuming, aiming to improve modeling of radiological and other contamination scenarios where emergency operations may kick up hazardous dust.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-01/article-8358/anl-dust-study-aims-to-improve-emergency-response-models/",
+    "timestamp": "2026-09-01T21:09:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-01/article-8358/anl-dust-study-aims-to-improve-emergency-response-models/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-01T21:09:33Z",
+    "id": "energy-fba4da14298f40b4"
+  },
+  {
+    "title": "ANS webinar explores systematic risk evaluations",
+    "summary": "The American Nuclear Society’s Risk-informed, Performance-based Principles and Policy Committee (RP3C) recently held another presentation in its monthly Community of Practice (CoP) series. Former RP3C chair N. Prasad Kadambi opened the meeting with brief introductory remarks about the RP3C and the value of risk-informed, performance-based (RIPB) techniques in contrast to the shortcomings of conventional, deterministic approaches for the development of nuclear technology.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-01/article-8357/ans-webinar-explores-systematic-risk-evaluations/",
+    "timestamp": "2026-09-01T19:14:24Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-01/article-8357/ans-webinar-explores-systematic-risk-evaluations/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-01T19:14:24Z",
+    "id": "energy-183ed7209f66826c"
+  },
+  {
+    "title": "Entergy Texas pide a sus clientes a prepararse ante la tormenta tropical Edouard",
+    "summary": "Fuertes lluvias, inundaciones repentinas y vientos intensos podrían afectar el sureste de Texas a medida que la tormenta se acerca a la costa Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-texas-pide-a-sus-clientes-a-prepararse-ante-la-tormenta-tropical-edouard",
+    "timestamp": "2026-09-01T15:57:04Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-texas-pide-a-sus-clientes-a-prepararse-ante-la-tormenta-tropical-edouard"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-01T15:57:04Z",
+    "id": "energy-3f105d3e6c0ebe3a"
   },
   {
     "title": "PJM President & CEO Response to MD Office of Peoples’ Counsel Letter Regarding Base Residual Auction for 2029/2030",
@@ -46,28 +160,6 @@
     "id": "energy-540d9e13eb73fce4"
   },
   {
-    "title": "Nuclear’s Next Chapter Has a Knowledge Challenge",
-    "summary": "The nuclear industry is entering a new chapter. Existing plants are extending operating lives beyond their original design expectations. New reactor technologies are moving from concept to construction. Investment in domestic manufacturing and fuel production is accelerating, and utilities are strengthening supply chains to support decades of future operation. At the same time, another transition is taking place.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-01/article-8321/nuclears-next-chapter-has-a-knowledge-challenge/",
-    "timestamp": "2026-09-01T12:59:38Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-01/article-8321/nuclears-next-chapter-has-a-knowledge-challenge/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-01T12:59:38Z",
-    "id": "energy-bc12d47e8f3db889"
-  },
-  {
     "title": "Webinar will outline longer-term transmission planning process, procurement",
     "summary": "The webinar takes place Oct. 1 from 12:00 to 1:00 p.m. Registration is not required. The post Webinar will outline longer-term transmission planning process, procurement appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -88,98 +180,6 @@
     ],
     "data_as_of": "2026-09-01T12:00:00Z",
     "id": "energy-0dfa69aaa6dc29b3"
-  },
-  {
-    "title": "Entergy Texas se prepara ante el clima tropical en el Sureste de Texas",
-    "summary": "La compañía activa operaciones de emergencia, despliega recursos y recomienda a los clientes mantenerse atentos al clima Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-texas-se-prepara-ante-el-clima-tropical-en-el-sureste-de-texas",
-    "timestamp": "2026-08-31T21:43:38Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/entergy-texas-se-prepara-ante-el-clima-tropical-en-el-sureste-de-texas"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-31T21:43:38Z",
-    "id": "energy-b080c71bd3e2e8da"
-  },
-  {
-    "title": "Entergy Texas prepares for tropical weather across Southeast Texas",
-    "summary": "Company activates emergency operations, positions resources and urges customers to stay weather aware Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-texas-prepares-for-tropical-weather-across-southeast-texas",
-    "timestamp": "2026-08-31T20:37:49Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/entergy-texas-prepares-for-tropical-weather-across-southeast-texas"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-08-31T20:37:49Z",
-    "id": "energy-741e40046c641720"
-  },
-  {
-    "title": "Fuel loading process begins at Palisades",
-    "summary": "The Palisades nuclear power plant has drawn closer to restart, as plant staff began the process of loading fuel into the reactor vessel on Sunday morning. The commencement of fuel loading places the Covert, Mich., facility in Mode 6—or the refueling stage—under the plant’s technical specifications, plant owner and operator Holtec International said in a news release. The Palisades reactor core consists of 204 fuel assemblies that include new fuel and partially used fuel from the plant’s most recent operating cycles. According to Holtec, the fuel loading is being conducted in accordance with plant procedures and technical specifications.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-31/article-8355/fuel-loading-process-begins-at-palisades/",
-    "timestamp": "2026-08-31T20:27:19Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-31/article-8355/fuel-loading-process-begins-at-palisades/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-31T20:27:19Z",
-    "id": "energy-ae637f31b2139e75"
-  },
-  {
-    "title": "ATLAS, new MARAD partnership, among latest maritime nuclear announcements",
-    "summary": "Just days after the Department of Transportation’s Maritime Administration (MARAD) and the Port of Corpus Christi announced a partnership to explore the development of small modular reactors in the U.S. seaport, multiple other maritime nuclear announcements were unveiled to the public, including another MARAD partnership.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-08-31/article-8353/atlas-new-marad-partnership-among-latest-maritime-nuclear-announcements/",
-    "timestamp": "2026-08-31T17:42:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-08-31/article-8353/atlas-new-marad-partnership-among-latest-maritime-nuclear-announcements/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-08-31T17:42:59Z",
-    "id": "energy-832dbd299e9e5079"
   },
   {
     "title": "MD Office of Peoples’ Counsel Letter Regarding Base Residual Auction for 20292030",
