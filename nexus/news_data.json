@@ -1,16 +1,38 @@
 [
   {
-    "title": "GSE Solutions gives talk on enabling uprates",
-    "summary": "The American Nuclear Society recently hosted a Supplier Showcase webinar, “Advancing DVR for MUR: Lessons from First-of-a-Kind Projects,” featuring Greg Kanuckel, director of thermal performance at GSE Solutions, who shared his insights on data validation and reconciliation (DVR) and its impact on conducting measurement uncertainty recapture (MUR) uprates in nuclear power plants.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-02/article-8359/gse-solutions-gives-talk-on-enabling-uprates/",
-    "timestamp": "2026-09-02T12:20:57Z",
+    "title": "ISO-NE staff share expertise in conferences, webcasts",
+    "summary": "A roundup of ISO-NE staff speaking engagements in August 2026. The post ISO-NE staff share expertise in conferences, webcasts appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/09/03/iso-ne-staff-share-expertise-in-conferences-webcasts/",
+    "timestamp": "2026-09-03T13:28:04Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-02/article-8359/gse-solutions-gives-talk-on-enabling-uprates/"
+      "https://isonewswire.com/2026/09/03/iso-ne-staff-share-expertise-in-conferences-webcasts/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-09-03T13:28:04Z",
+    "id": "energy-de65c59ed5f09bbc"
+  },
+  {
+    "title": "Realta Fusion’s utility partnership boosts fusion energy in Wisconsin",
+    "summary": "Realta Fusion and Madison Gas and Electric (MGE) are collaborating to bring fusion power to Wisconsin. As reported by Wisconsin Public Radio and other news outlets, as well as MGE, the Madison-headquartered startup company and utility are exploring the development, siting, permitting, and financing of a 200-MWe-minimum fusion facility that would be capable of generating enough electricity for approximately 150,000 homes.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-03/article-8363/realta-fusions-utility-partnership-boosts-fusion-energy-in-wisconsin/",
+    "timestamp": "2026-09-03T12:09:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-03/article-8363/realta-fusions-utility-partnership-boosts-fusion-energy-in-wisconsin/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-02T12:20:57Z",
-    "id": "energy-005f8e4df04cc196"
+    "data_as_of": "2026-09-03T12:09:31Z",
+    "id": "energy-1bf5cbd3c19a13c1"
   },
   {
-    "title": "Entergy Texas: actualización sobre la tormenta tropical Edouard – 1 de septiembre de 2026, 7:15 p.m.",
-    "summary": "El personal técnico evalúa los daños y trabaja en el restablecimiento del suministro eléctrico en las zonas donde las condiciones lo permiten. Source",
+    "title": "Actualización de Tropical Storm Edouard de Entergy Texas – 9/2/2026, 6:00 p.m.",
+    "summary": "Cuadrillas restauran energía a más del 50% de clientes afectados en medio de condiciones desafiantes en el Sureste de Texas Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-texas-actualizacion-sobre-la-tormenta-tropical-edouard-1-de-septiembre-de-2026-715-p-m",
-    "timestamp": "2026-09-02T01:16:24Z",
+    "url": "https://www.entergy.com/stormcenter/actualizacion-de-tropical-storm-edouard-de-entergy-texas-9-2-2026-600-p-m",
+    "timestamp": "2026-09-03T00:48:34Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/stormcenter/entergy-texas-actualizacion-sobre-la-tormenta-tropical-edouard-1-de-septiembre-de-2026-715-p-m"
+      "https://www.entergy.com/stormcenter/actualizacion-de-tropical-storm-edouard-de-entergy-texas-9-2-2026-600-p-m"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -42,21 +64,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-02T01:16:24Z",
-    "id": "energy-a57f01ef3e074000"
+    "data_as_of": "2026-09-03T00:48:34Z",
+    "id": "energy-552eada30e3dc2a1"
   },
   {
-    "title": "Entergy Texas Tropical Storm Edouard update – 9/1/2026, 7:15 p.m.",
-    "summary": "Crews are assessing damage and restoring power where conditions allow Source",
+    "title": "Statement from Entergy Arkansas",
+    "summary": "The information first published in the Aug. 31 Arkansas Democrat Gazette contains a serious and careless mathematical error. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-1-2026-715-p-m",
-    "timestamp": "2026-09-02T00:14:23Z",
+    "url": "https://www.entergy.com/blog/statement-from-entergy-arkansas",
+    "timestamp": "2026-09-02T23:34:55Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-1-2026-715-p-m"
+      "https://www.entergy.com/blog/statement-from-entergy-arkansas"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -66,65 +88,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-02T00:14:23Z",
-    "id": "energy-e265365ec24626d1"
+    "data_as_of": "2026-09-02T23:34:55Z",
+    "id": "energy-739752df5405fb0b"
   },
   {
-    "title": "ANL dust study aims to improve emergency response models",
-    "summary": "Researchers at Argonne National Laboratory have conducted experimental tests on how particles from paved surfaces become suspended from activities such as walking, driving, and vacuuming, aiming to improve modeling of radiological and other contamination scenarios where emergency operations may kick up hazardous dust.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-01/article-8358/anl-dust-study-aims-to-improve-emergency-response-models/",
-    "timestamp": "2026-09-01T21:09:33Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-01/article-8358/anl-dust-study-aims-to-improve-emergency-response-models/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-01T21:09:33Z",
-    "id": "energy-fba4da14298f40b4"
-  },
-  {
-    "title": "ANS webinar explores systematic risk evaluations",
-    "summary": "The American Nuclear Society’s Risk-informed, Performance-based Principles and Policy Committee (RP3C) recently held another presentation in its monthly Community of Practice (CoP) series. Former RP3C chair N. Prasad Kadambi opened the meeting with brief introductory remarks about the RP3C and the value of risk-informed, performance-based (RIPB) techniques in contrast to the shortcomings of conventional, deterministic approaches for the development of nuclear technology.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-01/article-8357/ans-webinar-explores-systematic-risk-evaluations/",
-    "timestamp": "2026-09-01T19:14:24Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-01/article-8357/ans-webinar-explores-systematic-risk-evaluations/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-01T19:14:24Z",
-    "id": "energy-183ed7209f66826c"
-  },
-  {
-    "title": "Entergy Texas pide a sus clientes a prepararse ante la tormenta tropical Edouard",
-    "summary": "Fuertes lluvias, inundaciones repentinas y vientos intensos podrían afectar el sureste de Texas a medida que la tormenta se acerca a la costa Source",
+    "title": "Entergy Texas Tropical Storm Edouard update – 9/2/2026, 6:00 p.m.",
+    "summary": "Crews restore power to more than 50% of impacted customers amid challenging weather conditions in Southeast Texas Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-texas-pide-a-sus-clientes-a-prepararse-ante-la-tormenta-tropical-edouard",
-    "timestamp": "2026-09-01T15:57:04Z",
+    "url": "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-2-2026-600-p-m",
+    "timestamp": "2026-09-02T23:08:10Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/stormcenter/entergy-texas-pide-a-sus-clientes-a-prepararse-ante-la-tormenta-tropical-edouard"
+      "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-2-2026-600-p-m"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -134,8 +112,52 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-01T15:57:04Z",
-    "id": "energy-3f105d3e6c0ebe3a"
+    "data_as_of": "2026-09-02T23:08:10Z",
+    "id": "energy-3cad4e736dfff751"
+  },
+  {
+    "title": "Oklo claims PJM improperly dropped its Virginia project",
+    "summary": "Last Friday, Oklo filed an emergency request with the Federal Energy Regulatory Commission claiming that one of its potential generation projects has been “unjustifiably withdrawn” from the PJM Interconnection queue. Through that request, Oklo has asked FERC to direct PJM to reinstate its application with its original queue position. In an interesting twist, the project at issue in this interconnection dispute was, until now, unknown to the public.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-02/article-8362/oklo-claims-pjm-improperly-dropped-its-virginia-project/",
+    "timestamp": "2026-09-02T20:28:32Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-02/article-8362/oklo-claims-pjm-improperly-dropped-its-virginia-project/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-02T20:28:32Z",
+    "id": "energy-fd1a85d1c9221323"
+  },
+  {
+    "title": "ORNL explores hybrid approach to manufacturing HIP cans",
+    "summary": "Oak Ridge National Laboratory scientists have collaborated with A.J. Tuck Company to develop a new manufacturing approach for use with the hot isostatic pressing (HIP) technique. The hybrid approach combines 3D printing and electroforming to produce so-called HIP cans used to form metal parts from powder materials, aiming to simplify the production of critical reactor components.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-02/article-8361/ornl-explores-hybrid-approach-to-manufacturing-hip-cans/",
+    "timestamp": "2026-09-02T18:36:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-02/article-8361/ornl-explores-hybrid-approach-to-manufacturing-hip-cans/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-02T18:36:20Z",
+    "id": "energy-e1600862f018082f"
   },
   {
     "title": "PJM President & CEO Response to MD Office of Peoples’ Counsel Letter Regarding Base Residual Auction for 2029/2030",
@@ -180,27 +202,5 @@
     ],
     "data_as_of": "2026-09-01T12:00:00Z",
     "id": "energy-0dfa69aaa6dc29b3"
-  },
-  {
-    "title": "MD Office of Peoples’ Counsel Letter Regarding Base Residual Auction for 20292030",
-    "summary": "Updated Date: 08.31.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260828-md-office-of-peoples-counsel-letter-re-base-residual-auction-for-20292030.pdf",
-    "timestamp": "2026-08-31T14:01:59Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260828-md-office-of-peoples-counsel-letter-re-base-residual-auction-for-20292030.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-08-31T14:01:59Z",
-    "id": "energy-4c3a3a2fd98cf90b"
   }
 ]

@@ -1,243 +1,336 @@
 [
   {
-    "title": "GrapheneOS says Pixel 11 has MTE support after all",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
-    "timestamp": "2026-09-02T14:00:28Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://grapheneos.social/@GrapheneOS/117194007157499435"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-02T14:00:28Z",
-    "id": "energy-5db4bd255a261c71"
-  },
-  {
-    "title": "The Definitive ’70s Action Blockbuster Is Officially Streaming for Free on YouTube",
-    "summary": "Bruce Lee was already reinventing the action movie in 1972. Here's why you should watch Way of the Dragon for free on YouTube.",
+    "title": "Sony State of Play September 2026: Every Big Reveal and Trailer",
+    "summary": "The September 2026 State of Play was packed with announcements, including a FF7 Revelation release date, GTA 6 PlayStation hardware, and more",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/bruce-lee-way-of-the-dragon-action-movie-free-on-youtube/",
-    "timestamp": "2026-09-02T14:00:14Z",
+    "url": "https://www.polygon.com/sony-state-of-play-news-trailers-announcements-september-2026/",
+    "timestamp": "2026-09-03T14:09:07Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/bruce-lee-way-of-the-dragon-action-movie-free-on-youtube/"
+      "https://www.polygon.com/sony-state-of-play-news-trailers-announcements-september-2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-02T14:00:14Z",
-    "id": "energy-c024895d19745f73"
+    "data_as_of": "2026-09-03T14:09:07Z",
+    "id": "energy-c8680f37f26a0995"
   },
   {
-    "title": "Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "timestamp": "2026-09-02T13:59:59Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-02T13:59:59Z",
-    "id": "energy-ac787ea087a16d93"
-  },
-  {
-    "title": "The Biggest Mod Website Just Bought Everyone’s Window Into Steam",
-    "summary": "SteamDB's owner explained that the 'rise of AI' and 'mental burnout' led to his decision to sell the site: 'The internet we once loved is gone, and with it my passion'",
+    "title": "Everything We Saw At PlayStation’s September State Of Play",
+    "summary": "The two-part broadcast featured both a State of Play and a State of Play Japan, with the latter showcase spotlighting games from Asia",
     "source": "Kotaku",
-    "url": "https://kotaku.com/nexus-mods-steamdb-steam-2000730486",
-    "timestamp": "2026-09-02T13:50:30Z",
+    "url": "https://kotaku.com/playstation-state-of-play-final-fantasy-until-dawn-2000730839",
+    "timestamp": "2026-09-03T14:00:49Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/nexus-mods-steamdb-steam-2000730486"
+      "https://kotaku.com/playstation-state-of-play-final-fantasy-until-dawn-2000730839"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-02T13:50:30Z",
-    "id": "energy-5e43b359f5a73003"
+    "data_as_of": "2026-09-03T14:00:49Z",
+    "id": "energy-df203291a8f44d0c"
   },
   {
-    "title": "Dyson CameraJet: The only toothbrush with a camera and a jet",
+    "title": "'GTA 6' Is Getting Its Own Official PlayStation Hardware",
+    "summary": "The new DualSense gives GTA 6 fans on PS5 a taste of Vice City, and it'll launch alongside Rockstar's open world game",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-6-ps5-controller-hardware-preorder-how-to-buy-price-release-date/",
+    "timestamp": "2026-09-03T13:57:42Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/gta-6-ps5-controller-hardware-preorder-how-to-buy-price-release-date/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-03T13:57:42Z",
+    "id": "energy-299f96573023adbd"
+  },
+  {
+    "title": "Final Fantasy 7 Revelation Gets Release Date And Shows Off Extended Open-World RPG Gameplay",
+    "summary": "The game's scope is bigger than ever",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880",
+    "timestamp": "2026-09-03T13:55:34Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-03T13:55:34Z",
+    "id": "energy-92491aed91ba0830"
+  },
+  {
+    "title": "The Blood Of Dawnwalker Developers Offer Workarounds For The 4 Main Issues On PC",
+    "summary": "The RPG from CD Projekt alumni has landed a lot more smoothly on console",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-blood-of-dawnwalker-rpg-pc-crash-issues-fixes-rebel-wolves-2000730833",
+    "timestamp": "2026-09-03T13:55:03Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/the-blood-of-dawnwalker-rpg-pc-crash-issues-fixes-rebel-wolves-2000730833"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-03T13:55:03Z",
+    "id": "energy-f5f42b38e80e63b2"
+  },
+  {
+    "title": "'Crimson Desert' DLC’s First Trailer Takes the RPG to Unexpected New Places",
+    "summary": "The first trailer for the 'Crimson Desert: Charting the Unknown' DLC includes pirates, robots, and steampunk scuba diving.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/crimson-desert-dlc-charting-the-unknown-trailer-release-date/",
+    "timestamp": "2026-09-03T13:47:33Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/crimson-desert-dlc-charting-the-unknown-trailer-release-date/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-03T13:47:33Z",
+    "id": "energy-0dab44931ffd4e62"
+  },
+  {
+    "title": "ICE Has a $2M Contract for Spyware That Can Hack Phones Without a Click",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.dyson.com/discover/news/latest/introducing-camerajet",
-    "timestamp": "2026-09-02T13:47:57Z",
+    "url": "https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click",
+    "timestamp": "2026-09-03T13:36:04Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.dyson.com/discover/news/latest/introducing-camerajet"
+      "https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-02T13:47:57Z",
-    "id": "energy-41241c9d26f1eb47"
+    "data_as_of": "2026-09-03T13:36:04Z",
+    "id": "energy-495d3b5d2ea1c91a"
   },
   {
-    "title": "Joyo being a danger at both ends of the field (3 clips)",
-    "summary": "submitted by /u/Babydrone [link] [comments]",
+    "title": "JAS-I Khorlo is a new FREE physical modeling/resonator synth for macOS, Windows, and Linux",
+    "summary": "JAS-I Khorlo, a free physical modeling/resonator synth for macOS, Windows, and Linux, is now in open beta. When we post news about new releases, we occasionally run into a few problems. For example, sometimes installers won’t download, or emails take a while, and that’s not ideal if you’re against the clock. On rarer occasions, a [...] View post: JAS-I Khorlo is a new FREE physical modeling/resonator synth for macOS, Windows, and Linux",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/",
+    "timestamp": "2026-09-03T13:35:58Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-03T13:35:58Z",
+    "id": "energy-e40c83aae4e81c5f"
+  },
+  {
+    "title": "Elevated Errors for Multiple Models",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+    "timestamp": "2026-09-03T13:29:12Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://status.claude.com/incidents/461yvfrzpwtt"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-03T13:29:12Z",
+    "id": "energy-e1bebcd0b5e5becb"
+  },
+  {
+    "title": "Nvidia to Acquire Hugging Face",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+    "timestamp": "2026-09-03T12:10:33Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-03T12:10:33Z",
+    "id": "energy-fb62f721fb809c50"
+  },
+  {
+    "title": "Zen casually aura farms against the M8s in his rank up game to 2820 (all time mmr record)",
+    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5at5t/joyo_being_a_danger_at_both_ends_of_the_field_3/",
-    "timestamp": "2026-09-02T13:45:00Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w619df/zen_casually_aura_farms_against_the_m8s_in_his/",
+    "timestamp": "2026-09-03T08:17:28Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5at5t/joyo_being_a_danger_at_both_ends_of_the_field_3/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w619df/zen_casually_aura_farms_against_the_m8s_in_his/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-02T13:45:00Z",
-    "id": "energy-82c4e76e1a93adec"
+    "data_as_of": "2026-09-03T08:17:28Z",
+    "id": "energy-27ca6e520af1c099"
   },
   {
-    "title": "Codwaves releases BassXtend psychoacoustic bass enhancer for €14.99",
-    "summary": "Codwaves has released BassXtend, a psychoacoustic bass enhancement plugin for macOS and Windows, priced at €14.99. BassXtend helps kicks, basslines, 808s, bass guitars, and drum groups translate to phones, laptops, earbuds, and other playback systems that cannot properly reproduce the lowest frequencies. As most of us have learned the hard way, simply boosting the sub-bass [...] View post: Codwaves releases BassXtend psychoacoustic bass enhancer for €14.99",
+    "title": "ukdf releases GrainCharlie, a FREE granular synth for macOS and Windows",
+    "summary": "Developer ukdf has released GrainCharlie, a free granular synthesizer plugin for macOS and Windows. The developer, who also releases music as uknowdatfeel, created GrainCharlie after spending around a year looking for an affordable granular synth without unnecessary complexity. Granular synthesis can be intimidating at first, so the idea behind GrainCharlie is to provide the essential [...] View post: ukdf releases GrainCharlie, a FREE granular synth for macOS and Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/02/codwaves-bassxtend/",
-    "timestamp": "2026-09-02T13:44:30Z",
+    "url": "https://bedroomproducersblog.com/2026/09/03/ukdf-graincharlie/",
+    "timestamp": "2026-09-03T07:54:43Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/02/codwaves-bassxtend/"
+      "https://bedroomproducersblog.com/2026/09/03/ukdf-graincharlie/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-02T13:44:30Z",
-    "id": "energy-1cb77fcb9563e30c"
+    "data_as_of": "2026-09-03T07:54:43Z",
+    "id": "energy-78ca95e9fd9cedd9"
   },
   {
-    "title": "Vitric Audio releases Bevel EQ, a FREE 24-band dynamic equalizer",
-    "summary": "New developer Vitric Audio has released Bevel EQ, a free 24-band dynamic equalizer for macOS and Windows. Vitric Audio is a new Cleveland-based developer that launched its store on August 28th. Bevel EQ and the four-knob Stoke Saturator are free during the launch sale, with no end date listed. We already have so many high-quality [...] View post: Vitric Audio releases Bevel EQ, a FREE 24-band dynamic equalizer",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/02/vitric-audio-bevel-eq/",
-    "timestamp": "2026-09-02T13:36:35Z",
-    "topic": "Music Production",
+    "title": "Zero-damped modes of near-extremal Reissner--Nordstr\\\"{o}m black holes from exact WKB",
+    "summary": "arXiv:2609.02816v1 Announce Type: cross Abstract: The late-time ringdown dynamics of near-extremal black holes (BHs) are expected to be dominated by zero-damped modes (ZDMs), whose decay rates are parametrically suppressed relative to those of ordinary quasinormal modes. In this paper, we demonstrate that exact WKB methods provide an exceptionally powerful framework for analyzing the ZDM spectrum of near-extremal Reissner--Nordstr\\\"{o}m (RN) BHs. Focusing on massless, neutral scalar modes propagating on an RN background, we present the full Stokes geometry derived from the radial eigenvalue problem and establish the corresponding exact quantization condition (EQC). Our analytic computation of the Voros symbols entering the EQC achieves higher-order accuracy for the ZDM spectrum compared to previous studies and is systematically improvable. Ergo, this work serves as a proof of concept for investigations of ZDM spectra of other systems using exact WKB methods.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.02816",
+    "timestamp": "2026-09-03T04:00:00Z",
+    "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/02/vitric-audio-bevel-eq/"
+      "https://arxiv.org/abs/2609.02816"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-02T13:36:35Z",
-    "id": "energy-350d48ebf9b50bb0"
+    "primary_source": true,
+    "data_as_of": "2026-09-03T04:00:00Z",
+    "id": "energy-c69b2046e8df9db5"
   },
   {
-    "title": "After 7 Hours, Lego Skylines Really Is the Perfect Twist on Cities Skylines",
-    "summary": "Lego Skylines adapts Cities Skylines well, and it adds a much deeper customization element to city building",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/lego-skylines-preview/",
-    "timestamp": "2026-09-02T13:00:14Z",
-    "topic": "Gaming",
+    "title": "Yang-Mills theory for multiplicative Ehresmann connections",
+    "summary": "arXiv:2607.10904v3 Announce Type: replace Abstract: We develop a twofold generalization of classical Yang-Mills theory, extending it from principal bundles to the setting of possibly non-transitive and non-integrable Lie algebroids. The classical theory is recovered when one considers the Atiyah algebroid of a principal bundle. In our framework, principal bundle connections are replaced by the more general notion of (infinitesimal) multiplicative Ehresmann connections. An action functional for such connections is constructed, now including a curvature 3-form contribution, alongside the usual curvature 2-form term, and the resulting variational problem is naturally constrained by a cohomological condition. We derive the associated Euler-Lagrange equations, and define a class of self-dual solutions (instantons) in both 4 and 5 dimensions. We also show that the solution space is invariant under gauge transformations, and compute its tangent space at a solution. As an important example, we show that our framework produces a Yang-Mills theory for connections on bundle gerbes.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.10904",
+    "timestamp": "2026-09-03T04:00:00Z",
+    "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/lego-skylines-preview/"
+      "https://arxiv.org/abs/2607.10904"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-02T13:00:14Z",
-    "id": "energy-33efc38fb008dfda"
+    "primary_source": true,
+    "data_as_of": "2026-09-03T04:00:00Z",
+    "id": "energy-e8c1b376ec1a8dc9"
   },
   {
-    "title": "Dragon’s Dogma 2: Dark Arisen Devs Say Japanese And Western Players Are ‘Directly Opposed’ On What They Want From The RPG",
-    "summary": "Balancing player expectations between the two regions proved challenging",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/dragons-dogma-2-dark-arisen-devs-say-japanese-and-western-players-are-directly-opposed-on-what-they-want-from-the-rpg-2000730103",
-    "timestamp": "2026-09-02T12:45:36Z",
-    "topic": "Gaming",
+    "title": "Windowed thinning and query complexity for the bouncy particle and Zigzag samplers",
+    "summary": "arXiv:2607.28413v2 Announce Type: replace Abstract: Let $\\mu(d x)\\propto e^{-U(x)} d x$ on $\\R^d$, where $U$ is $m$-strongly convex and $L$-smooth, and denote by $\\kappa=L/m$ the condition number. We consider windowed thinning, an exact simulation method for the bouncy particle sampler and the coordinate Zigzag process. The method divides a trajectory into deterministic windows and uses a gradient evaluation at the beginning of each window to construct a tractable local envelope for the event rate. Combining this construction with quantitative mixing estimates and finite-time bounds on the expected numbers of bounces and flips yields query complexity guarantees from a Gaussian cold start. For total-variation error $\\varepsilon$, the expected query counts are $O(\\kappa^{1/2}d\\,(d\\log\\kappa+\\log\\frac1\\varepsilon))$ gradient queries for the bouncy particle sampler and $O(\\kappa d^{1/4}(d\\log\\kappa+\\log\\frac1\\varepsilon))$ full-gradient equivalents for Zigzag, where $d$ coordinate-partial queries count as one equivalent.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.28413",
+    "timestamp": "2026-09-03T04:00:00Z",
+    "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/dragons-dogma-2-dark-arisen-devs-say-japanese-and-western-players-are-directly-opposed-on-what-they-want-from-the-rpg-2000730103"
+      "https://arxiv.org/abs/2607.28413"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-02T12:45:36Z",
-    "id": "energy-972a6d281cdd6970"
+    "primary_source": true,
+    "data_as_of": "2026-09-03T04:00:00Z",
+    "id": "energy-db5bf71e7f679d59"
   },
   {
-    "title": "FIFAe European Continental Championship | Event Thread | Portugal LAN | Sept 2nd | Playoffs",
-    "summary": "Event Thread FIFAe European Continental Championship, September 2nd 2026 in Lisbon, Portugal. Show begins around 1:30pm UTC local time (2:30pm CEST, 8:30am EDT) Matches begin around 2pm UTC local time (3pm CEST, 9am EDT) Streams Twitch - FIFAe YouTube - TBA England Team Stream - SubParButInHD France Team Stream - RocketBaguette Tournament Info Liquipedia | Fifa.gg Format Group Stage 12 nations compete in 2 groups of 6. Single Round Robin. Matches are So2. Top 4 nations from each group advance to the Knockout Stage. 5th-6th place nations from each group are eliminated. Playoffs Single Elimination Bracket. All matches are Bo7. Quarterfinal winners qualify for the FIFAe World Cup 2026. Quarterfinal losers advance to the Second Chance Semifinals. Second Chance Semifinal winners qualify for the FIFAe World Cup 2026. Playoffs Quarterfinal Winners will qualify for the FIFAe World Cup in October https://preview.redd.it/tem34zknq3nh1.png?width=1723&format=png&auto=webp&s=2d46b028e9a0c7b18379fe433e190e0304bbb165 Second Chance Bonus losers matches to decide qualification for the FIFAe World Cup in October https://preview.redd.it/sflv4l1uq3nh1.png?width=614&format=png&auto=webp&s=945270a83b3a…",
+    "title": "Zen/Atow hit a psycho pass to prejump skim (ranked)",
+    "summary": "submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w598f4/fifae_european_continental_championship_event/",
-    "timestamp": "2026-09-02T12:41:35Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5t3sd/zenatow_hit_a_psycho_pass_to_prejump_skim_ranked/",
+    "timestamp": "2026-09-03T01:10:15Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w598f4/fifae_european_continental_championship_event/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5t3sd/zenatow_hit_a_psycho_pass_to_prejump_skim_ranked/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-02T12:41:35Z",
-    "id": "energy-778d50714979bc38"
+    "data_as_of": "2026-09-03T01:10:15Z",
+    "id": "energy-0b52f346b8a3e23d"
   },
   {
-    "title": "Surprise Switch 2 Upgrade Brings Wild 8-Player Split-Screen Mode To Mario Kart 8 Deluxe For Free",
-    "summary": "Still the king",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/surprise-switch-2-upgrade-brings-wild-8-player-split-screen-mode-to-mario-kart-8-deluxe-for-free-2000730478",
-    "timestamp": "2026-09-02T12:11:33Z",
-    "topic": "Gaming",
+    "title": "I think i’m a curse and i’m going insane",
+    "summary": "My 3 favorite players across any sport/esport seems cursed. i’m a big firstkiller (rl obviously) Trent (val) and Josh allen (Nfl) fan, and they all seem to be cursed to not be able to win when it matters most. Also is there any news on fixing the schedule? i know everyone complains about how long worlds is after the majors and i agree, it’s kinda ridiculous. is there any plans to fix that anytime soon or are they keeping this schedule for next year Post got taken done because the title wasn’t detailed enough. i hope this is better. if not i apologize and wont remake this again submitted by /u/Vibez67 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5rqcb/i_think_im_a_curse_and_im_going_insane/",
+    "timestamp": "2026-09-03T00:08:22Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/surprise-switch-2-upgrade-brings-wild-8-player-split-screen-mode-to-mario-kart-8-deluxe-for-free-2000730478"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5rqcb/i_think_im_a_curse_and_im_going_insane/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-02T12:11:33Z",
-    "id": "energy-dc167646b6c473fa"
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-03T00:08:22Z",
+    "id": "energy-7b5493b15d242545"
   },
   {
-    "title": "PlayStation Faces $7.85 Million Lawsuit for Allegedly Establishing Digital Game Monopoly on PlayStation",
-    "summary": "Sony is being sued for anticompetitive behavior due its problematic policies regarding digital PlayStation game sales.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/sony-playstation-lawsuit-digital-game-monopoly/",
-    "timestamp": "2026-09-02T12:05:44Z",
-    "topic": "Gaming",
+    "title": "The new TONE3000 is FREE and provides access to countless NAM profiles",
+    "summary": "The TONE3000 plugin has been released for macOS, Windows, and Linux, and it is available for free! We’ve mentioned the TONE3000 platform plenty of times when discussing other guitar-related releases. The TONE3000 platform provides access to countless gear models (NAM profiles), and this new plugin makes it more convenient than ever. The TONE3000 plugin is [...] View post: The new TONE3000 is FREE and provides access to countless NAM profiles",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/",
+    "timestamp": "2026-09-02T17:08:21Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/sony-playstation-lawsuit-digital-game-monopoly/"
+      "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-02T12:05:44Z",
-    "id": "energy-0d1049e62aca0034"
+    "data_as_of": "2026-09-02T17:08:21Z",
+    "id": "energy-cd7b5af298201b6f"
   },
   {
     "title": "How to respond to disinformation about clean energy, at scale",
@@ -256,99 +349,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-02T10:04:47Z",
     "id": "energy-a61fe671e62e2c49"
-  },
-  {
-    "title": "Unbalanced play-in bracket",
-    "summary": "Worlds play-in Does anyone else think that this play-in bracket is terrible? You could make a legit argument that all 4 teams in the bottom half of the bracket are better than all 4 teams in the top half of the bracket, even TSM. FUT in particular have a very difficult run to qualify for the main event, they have a crazy matchup round one, and they'll likely have to go through VP or Mate y Tapa in the lower. It's still crazy to me how the MENA teams are seeded so low, despite how good we know they are. submitted by /u/Elektride [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w510se/unbalanced_playin_bracket/",
-    "timestamp": "2026-09-02T05:18:23Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w510se/unbalanced_playin_bracket/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-02T05:18:23Z",
-    "id": "energy-1a60f7edf0feb07a"
-  },
-  {
-    "title": "Win rates at first-passage times for biased simple random walks",
-    "summary": "arXiv:2512.21254v3 Announce Type: replace Abstract: We study the win rate $R_{N_d}/N_d$ of a biased simple random walk $S_n$ on $\\mathbb{Z}$ at the first-passage time $N_d=\\inf\\{n\\ge 0:S_n=d\\}$, with $p=P[X_1=+1]\\in[1/2,1)$. Using generating-function techniques and integral representations, we derive explicit formulas for the expectation and variance of $R_{N_d}/N_d$ along with monotonicity properties in the threshold $d$ and the bias $p$. We also provide closed-form expressions and use them to design unbiased coin-flipping estimators of $\\pi$ based on first-passage sampling; the resulting schemes illustrate how biasing the coin can dramatically improve both approximation accuracy and computational cost.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2512.21254",
-    "timestamp": "2026-09-02T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2512.21254"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-02T04:00:00Z",
-    "id": "energy-fa68245fb393bf7c"
-  },
-  {
-    "title": "Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials",
-    "summary": "arXiv:2609.00528v1 Announce Type: cross Abstract: We prove that the Hypergraph Neural Network, an invariant architecture with 3-body message passing, is a universal approximator for potential energy surfaces. Our main contribution is a multi-layer completeness theory. We show that $L$ layers of message passing on sparse, cutoff-based graphs achieve the same representational power as having access to the full $L$-hop neighborhood, provided the configurations are generic, satisfy an overlap condition and a connectivity condition. This provides the first rigorous justification for the common practice of using multi-layer message passing with a per-layer cutoff smaller than the physical interaction range, the setting used by virtually all practical graph neural network based machine-learned interatomic potentials. As immediate consequences, we show that both DPA3 and CHGNet architectures inherit universal approximation.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.00528",
-    "timestamp": "2026-09-02T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.00528"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-02T04:00:00Z",
-    "id": "energy-abbfdcf7b8d091c7"
-  },
-  {
-    "title": "Well-posedness of the relaxed Electron MHD equations with random diffusion",
-    "summary": "arXiv:2509.18640v3 Announce Type: replace Abstract: We investigate a three-dimensional active-vector relaxation of the electron magnetohydrodynamics (EMHD) equations without resistivity. The relaxation replaces the electron current by a generalized current defined through a fractional power of the Laplacian. We drive the system by multiplicative pseudo-differential noise and apply an exponential transformation that removes the stochastic differential term and produces an effective fractional damping. For deterministic divergence-free, mean-zero initial data, we prove local well-posedness up to a stopping time in suitable Gevrey spaces. Under a smallness condition, we further establish global well-posedness with high explicit probability.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2509.18640",
-    "timestamp": "2026-09-02T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2509.18640"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-02T04:00:00Z",
-    "id": "energy-d88aa2ff7620dbb8"
-  },
-  {
-    "title": "Golden DSP launches Silkbrush Reverb for $39",
-    "summary": "Golden DSP has released Silkbrush Reverb, a ducking reverb plugin for macOS and Windows, priced at $39 during launch. Silkbrush is designed for vocals and other lead sounds that need ambiance without being pushed back by the reverb tail. It combines a modulated hall-style reverb with built-in ducking, so you do not need a separate [...] View post: Golden DSP launches Silkbrush Reverb for $39",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/01/golden-dsp-silkbrush-reverb/",
-    "timestamp": "2026-09-01T17:09:24Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/01/golden-dsp-silkbrush-reverb/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-01T17:09:24Z",
-    "id": "energy-c89879efce37f180"
   },
   {
     "title": "Second High-Voltage Power Line Proposed To Cut Through Driftless Area",
