@@ -1,336 +1,417 @@
 [
   {
-    "title": "Sony State of Play September 2026: Every Big Reveal and Trailer",
-    "summary": "The September 2026 State of Play was packed with announcements, including a FF7 Revelation release date, GTA 6 PlayStation hardware, and more",
+    "title": "The Last of Us Will Continue After the HBO Show’s Third Season",
+    "summary": "The Last of Us creator Neil Druckmann teases more games after the HBO adaptation's third season",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/sony-state-of-play-news-trailers-announcements-september-2026/",
-    "timestamp": "2026-09-03T14:09:07Z",
+    "url": "https://www.polygon.com/last-of-us-naughty-dog-teases-more-games-after-hbo-adaptation-season-3/",
+    "timestamp": "2026-09-04T13:55:17Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/sony-state-of-play-news-trailers-announcements-september-2026/"
+      "https://www.polygon.com/last-of-us-naughty-dog-teases-more-games-after-hbo-adaptation-season-3/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-03T14:09:07Z",
-    "id": "energy-c8680f37f26a0995"
+    "data_as_of": "2026-09-04T13:55:17Z",
+    "id": "energy-e41c1d99a4781dd2"
   },
   {
-    "title": "Everything We Saw At PlayStation’s September State Of Play",
-    "summary": "The two-part broadcast featured both a State of Play and a State of Play Japan, with the latter showcase spotlighting games from Asia",
+    "title": "We’re Getting Not One, But Two Nintendo Directs Next Week",
+    "summary": "One will be a general showcase, while the other will focus on The Legend of Zelda",
     "source": "Kotaku",
-    "url": "https://kotaku.com/playstation-state-of-play-final-fantasy-until-dawn-2000730839",
-    "timestamp": "2026-09-03T14:00:49Z",
+    "url": "https://kotaku.com/nintendo-direct-september-announcement-zelda-time-date-2000731290",
+    "timestamp": "2026-09-04T13:54:52Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/playstation-state-of-play-final-fantasy-until-dawn-2000730839"
+      "https://kotaku.com/nintendo-direct-september-announcement-zelda-time-date-2000731290"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-03T14:00:49Z",
-    "id": "energy-df203291a8f44d0c"
+    "data_as_of": "2026-09-04T13:54:52Z",
+    "id": "energy-94e6c6a8fc3c5dec"
   },
   {
-    "title": "'GTA 6' Is Getting Its Own Official PlayStation Hardware",
-    "summary": "The new DualSense gives GTA 6 fans on PS5 a taste of Vice City, and it'll launch alongside Rockstar's open world game",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-ps5-controller-hardware-preorder-how-to-buy-price-release-date/",
-    "timestamp": "2026-09-03T13:57:42Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/gta-6-ps5-controller-hardware-preorder-how-to-buy-price-release-date/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-03T13:57:42Z",
-    "id": "energy-299f96573023adbd"
-  },
-  {
-    "title": "Final Fantasy 7 Revelation Gets Release Date And Shows Off Extended Open-World RPG Gameplay",
-    "summary": "The game's scope is bigger than ever",
+    "title": "Gamescom Apologizes For Victim-Blaming Indie Devs Whose Laptops Were Stolen: ‘We Understand What This Has Cost You, And We Should Have Said So From The Very First Moment’",
+    "summary": "Several indie developers reported having their laptops stolen at the event, despite security",
     "source": "Kotaku",
-    "url": "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880",
-    "timestamp": "2026-09-03T13:55:34Z",
+    "url": "https://kotaku.com/gamescom-laptop-indie-developers-stolen-theft-security-2000731279",
+    "timestamp": "2026-09-04T13:45:10Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880"
+      "https://kotaku.com/gamescom-laptop-indie-developers-stolen-theft-security-2000731279"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-03T13:55:34Z",
-    "id": "energy-92491aed91ba0830"
+    "data_as_of": "2026-09-04T13:45:10Z",
+    "id": "energy-20b0fc19b8decb5d"
   },
   {
-    "title": "The Blood Of Dawnwalker Developers Offer Workarounds For The 4 Main Issues On PC",
-    "summary": "The RPG from CD Projekt alumni has landed a lot more smoothly on console",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-blood-of-dawnwalker-rpg-pc-crash-issues-fixes-rebel-wolves-2000730833",
-    "timestamp": "2026-09-03T13:55:03Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/the-blood-of-dawnwalker-rpg-pc-crash-issues-fixes-rebel-wolves-2000730833"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-03T13:55:03Z",
-    "id": "energy-f5f42b38e80e63b2"
-  },
-  {
-    "title": "'Crimson Desert' DLC’s First Trailer Takes the RPG to Unexpected New Places",
-    "summary": "The first trailer for the 'Crimson Desert: Charting the Unknown' DLC includes pirates, robots, and steampunk scuba diving.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/crimson-desert-dlc-charting-the-unknown-trailer-release-date/",
-    "timestamp": "2026-09-03T13:47:33Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/crimson-desert-dlc-charting-the-unknown-trailer-release-date/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-03T13:47:33Z",
-    "id": "energy-0dab44931ffd4e62"
-  },
-  {
-    "title": "ICE Has a $2M Contract for Spyware That Can Hack Phones Without a Click",
+    "title": "'People are going to get screwed' Pennsylvania voters unite against data centres",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click",
-    "timestamp": "2026-09-03T13:36:04Z",
+    "url": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5",
+    "timestamp": "2026-09-04T13:33:01Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click"
+      "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-03T13:36:04Z",
-    "id": "energy-495d3b5d2ea1c91a"
+    "data_as_of": "2026-09-04T13:33:01Z",
+    "id": "energy-0d0ed7aebe7e373e"
   },
   {
-    "title": "JAS-I Khorlo is a new FREE physical modeling/resonator synth for macOS, Windows, and Linux",
-    "summary": "JAS-I Khorlo, a free physical modeling/resonator synth for macOS, Windows, and Linux, is now in open beta. When we post news about new releases, we occasionally run into a few problems. For example, sometimes installers won’t download, or emails take a while, and that’s not ideal if you’re against the clock. On rarer occasions, a [...] View post: JAS-I Khorlo is a new FREE physical modeling/resonator synth for macOS, Windows, and Linux",
+    "title": "Trump Puts Racist Arcade Games On The White House Website",
+    "summary": "Poor Snake and Flappy Bird knock-offs are the best they can manage",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/white-house-racist-arcade-games-donald-trump-flappy-bird-tetris-2000731267",
+    "timestamp": "2026-09-04T13:31:27Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/white-house-racist-arcade-games-donald-trump-flappy-bird-tetris-2000731267"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-04T13:31:27Z",
+    "id": "energy-bb12a06b01801910"
+  },
+  {
+    "title": "Scientists Find Worms in Almost Every Fish in a Tuna Haul – 96% Were Infected",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected",
+    "timestamp": "2026-09-04T13:08:18Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-04T13:08:18Z",
+    "id": "energy-8400395755fdf22e"
+  },
+  {
+    "title": "After 2 Hours, Exodus Feels Like the Second Coming of Mass Effect | Preview",
+    "summary": "Exodus, the debut space sci-fi action RPG of Archetype Entertainment, is the Mass Effect replacement we've been waiting for.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/exodus-preview-hands-on/",
+    "timestamp": "2026-09-04T13:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/exodus-preview-hands-on/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-04T13:00:14Z",
+    "id": "energy-8752ae3addbc6e02"
+  },
+  {
+    "title": "IBM Bob",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://bob.ibm.com/",
+    "timestamp": "2026-09-04T12:50:29Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bob.ibm.com/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-04T12:50:29Z",
+    "id": "energy-405142092edf881f"
+  },
+  {
+    "title": "dBdone releases Wasser, a FREE liquid multiband delay plugin",
+    "summary": "dBdone has released Wasser, a free multiband delay plugin for macOS and Windows. Wasser splits the incoming signal into frequency bands and lets you draw a different delay time for each one. That’s a pretty cool idea. It’s definitely a fun little tool for sound design because it lets you create rhythmic movement that would [...] View post: dBdone releases Wasser, a FREE liquid multiband delay plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/",
-    "timestamp": "2026-09-03T13:35:58Z",
+    "url": "https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/",
+    "timestamp": "2026-09-04T12:18:44Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/"
+      "https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-03T13:35:58Z",
-    "id": "energy-e40c83aae4e81c5f"
+    "data_as_of": "2026-09-04T12:18:44Z",
+    "id": "energy-566fbbf81da55ab4"
   },
   {
-    "title": "Elevated Errors for Multiple Models",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-    "timestamp": "2026-09-03T13:29:12Z",
-    "topic": "Computer Science",
+    "title": "Yurt Rock releases Pick Pocket audio-to-MIDI drum plugin for $49",
+    "summary": "Yurt Rock has released Pick Pocket, an audio-to-MIDI drum conversion plugin for macOS and Windows, priced at $49. This one is useful if you want to extract the groove from a drum recording without losing the swing and quantizing the performance onto a grid. Pick Pocket preserves the original microtiming and dynamics, so you can [...] View post: Yurt Rock releases Pick Pocket audio-to-MIDI drum plugin for $49",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/04/yurt-rock-pick-pocket/",
+    "timestamp": "2026-09-04T12:03:08Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://status.claude.com/incidents/461yvfrzpwtt"
+      "https://bedroomproducersblog.com/2026/09/04/yurt-rock-pick-pocket/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-03T13:29:12Z",
-    "id": "energy-e1bebcd0b5e5becb"
+    "data_as_of": "2026-09-04T12:03:08Z",
+    "id": "energy-3c74ff2da9d75953"
   },
   {
-    "title": "Nvidia to Acquire Hugging Face",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-    "timestamp": "2026-09-03T12:10:33Z",
-    "topic": "Computer Science",
+    "title": "6 Upcoming Steam Games That Need To Be on Your Wishlist",
+    "summary": "Fresh off of Gamescom, here are six standouts from the show that should be on your Steam wishlist.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/wishlister-gamescom-september-4/",
+    "timestamp": "2026-09-04T11:00:14Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+      "https://www.polygon.com/wishlister-gamescom-september-4/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-03T12:10:33Z",
-    "id": "energy-fb62f721fb809c50"
+    "data_as_of": "2026-09-04T11:00:14Z",
+    "id": "energy-970c789a8d8c01f9"
   },
   {
-    "title": "Zen casually aura farms against the M8s in his rank up game to 2820 (all time mmr record)",
-    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "title": "Best of August 2026",
+    "summary": "Highlights from the eight conversations released last month.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/best-of-august-2026",
+    "timestamp": "2026-09-04T10:04:13Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/best-of-august-2026"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-09-04T10:04:13Z",
+    "id": "energy-dcf452d56d83817a"
+  },
+  {
+    "title": "Ziggurats, taut foliations, and contact structures",
+    "summary": "arXiv:2608.30031v2 Announce Type: replace Abstract: We study the geography of taut foliations on compact $3$-manifolds with toroidal boundary components. The central object of our work is the set of boundary multislopes realized by foliations transverse to a fixed flow on such a manifold. We prove that these sets exhibit remarkable structural properties (rationality, rigidity, and convexity) which motivate the name ziggurats. Our main tool, of independent interest, is a two-way correspondence between foliations and contact structures on $3$-manifolds with boundary: we generalize the Eliashberg-Thurston theorem, which produces pairs of positive and negative contact structures from foliations, and a construction of the first author, which builds foliations from such contact pairs. Using both directions of this correspondence, we bring contact-geometric methods to bear on the architecture of ziggurats.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.30031",
+    "timestamp": "2026-09-04T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.30031"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-04T04:00:00Z",
+    "id": "energy-a597c681056c8d71"
+  },
+  {
+    "title": "Zeros of Polynomials in Derivatives of Automorphic $L$-functions",
+    "summary": "arXiv:2512.22451v3 Announce Type: replace Abstract: Let $\\mathfrak{F}_m$ be the set of all cuspidal automorphic representations of $\\mathrm{GL}_m(\\mathbb{A}_{\\mathbb{Q}})$, and let $F(s,\\boldsymbol{\\pi})$ be a polynomial in the derivatives of $L$-functions associated with representations $\\pi \\in \\cup_{m=1}^{\\infty} \\mathfrak{F}_m$. We establish an asymptotic formula for the number of nontrivial zeros of $F(s,\\boldsymbol{\\pi})$ with $0 < \\operatorname{Im}(s) < T$. We explicitly determine the main term of this formula in terms of the dimensions, the arithmetic conductors, and the orders of differentiation of the component $L$-functions. Furthermore, we show that, under certain conditions, almost all nontrivial zeros of $F(s,\\boldsymbol{\\pi})$ lie near the critical line $\\operatorname{Re}(s)=1/2$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2512.22451",
+    "timestamp": "2026-09-04T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2512.22451"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-04T04:00:00Z",
+    "id": "energy-2f4c05455407138a"
+  },
+  {
+    "title": "Zeros of polynomial powers under the heat flow",
+    "summary": "arXiv:2512.17808v2 Announce Type: replace Abstract: We study the zero evolution of high powers of polynomials under the heat flow. For any fixed polynomial $P(z)$, we prove that the empirical zero distribution of its heat-evolved $n$-th power converges to a distribution on the complex plane as $n$ tends to infinity. We describe this limit distribution $\\mu_t$ as a function of the time parameter $t$ of the holomorphic heat flow operator: For small time, zeros of the heat-evolved polynomial start to spread out from the initial zeros $\\lambda_j$ of $P$, and $\\mu_t$ approximates the superposition of semicircle laws around $\\lambda_j$. Then for arbitrary time, the support of $\\mu_t$ forms intricate curves, which merge as $t$ grows, until for large time, the limit distribution $\\mu_t$ approaches a widespread semicircle law through the initial center of mass of the $\\lambda_j$. We further show that the Stieltjes transform of $\\mu_t$ satisfies a self-consistent equation and a Burgers' equation. The present paper deals with general complex-rooted polynomials for which, in contrast to the real-rooted case, no free-probabilistic representation for $\\mu_t$ is available.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2512.17808",
+    "timestamp": "2026-09-04T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2512.17808"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-04T04:00:00Z",
+    "id": "energy-66f4ace851b704e7"
+  },
+  {
+    "title": "extremely warm take: Zen is THE best player oat.",
+    "summary": "notice how i didn’t say GREATEST. By pure mechanical and individual creativity/skill, Zen clears anyone and it’s honestly not that close. That means he’s the BEST. But Greatest is not that good for Zen, since he has a considerably less amount of trophies than other players like Vatira or Turbopolsa. Thoughts? submitted by /u/Jazzlike-Fig8738 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w619df/zen_casually_aura_farms_against_the_m8s_in_his/",
-    "timestamp": "2026-09-03T08:17:28Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w6nyvg/extremely_warm_take_zen_is_the_best_player_oat/",
+    "timestamp": "2026-09-03T23:37:39Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w619df/zen_casually_aura_farms_against_the_m8s_in_his/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w6nyvg/extremely_warm_take_zen_is_the_best_player_oat/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-03T08:17:28Z",
-    "id": "energy-27ca6e520af1c099"
+    "data_as_of": "2026-09-03T23:37:39Z",
+    "id": "energy-a2b2ecaf80e93da2"
   },
   {
-    "title": "ukdf releases GrainCharlie, a FREE granular synth for macOS and Windows",
-    "summary": "Developer ukdf has released GrainCharlie, a free granular synthesizer plugin for macOS and Windows. The developer, who also releases music as uknowdatfeel, created GrainCharlie after spending around a year looking for an affordable granular synth without unnecessary complexity. Granular synthesis can be intimidating at first, so the idea behind GrainCharlie is to provide the essential [...] View post: ukdf releases GrainCharlie, a FREE granular synth for macOS and Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/03/ukdf-graincharlie/",
-    "timestamp": "2026-09-03T07:54:43Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/03/ukdf-graincharlie/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-03T07:54:43Z",
-    "id": "energy-78ca95e9fd9cedd9"
-  },
-  {
-    "title": "Zero-damped modes of near-extremal Reissner--Nordstr\\\"{o}m black holes from exact WKB",
-    "summary": "arXiv:2609.02816v1 Announce Type: cross Abstract: The late-time ringdown dynamics of near-extremal black holes (BHs) are expected to be dominated by zero-damped modes (ZDMs), whose decay rates are parametrically suppressed relative to those of ordinary quasinormal modes. In this paper, we demonstrate that exact WKB methods provide an exceptionally powerful framework for analyzing the ZDM spectrum of near-extremal Reissner--Nordstr\\\"{o}m (RN) BHs. Focusing on massless, neutral scalar modes propagating on an RN background, we present the full Stokes geometry derived from the radial eigenvalue problem and establish the corresponding exact quantization condition (EQC). Our analytic computation of the Voros symbols entering the EQC achieves higher-order accuracy for the ZDM spectrum compared to previous studies and is systematically improvable. Ergo, this work serves as a proof of concept for investigations of ZDM spectra of other systems using exact WKB methods.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.02816",
-    "timestamp": "2026-09-03T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.02816"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-03T04:00:00Z",
-    "id": "energy-c69b2046e8df9db5"
-  },
-  {
-    "title": "Yang-Mills theory for multiplicative Ehresmann connections",
-    "summary": "arXiv:2607.10904v3 Announce Type: replace Abstract: We develop a twofold generalization of classical Yang-Mills theory, extending it from principal bundles to the setting of possibly non-transitive and non-integrable Lie algebroids. The classical theory is recovered when one considers the Atiyah algebroid of a principal bundle. In our framework, principal bundle connections are replaced by the more general notion of (infinitesimal) multiplicative Ehresmann connections. An action functional for such connections is constructed, now including a curvature 3-form contribution, alongside the usual curvature 2-form term, and the resulting variational problem is naturally constrained by a cohomological condition. We derive the associated Euler-Lagrange equations, and define a class of self-dual solutions (instantons) in both 4 and 5 dimensions. We also show that the solution space is invariant under gauge transformations, and compute its tangent space at a solution. As an important example, we show that our framework produces a Yang-Mills theory for connections on bundle gerbes.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.10904",
-    "timestamp": "2026-09-03T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.10904"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-03T04:00:00Z",
-    "id": "energy-e8c1b376ec1a8dc9"
-  },
-  {
-    "title": "Windowed thinning and query complexity for the bouncy particle and Zigzag samplers",
-    "summary": "arXiv:2607.28413v2 Announce Type: replace Abstract: Let $\\mu(d x)\\propto e^{-U(x)} d x$ on $\\R^d$, where $U$ is $m$-strongly convex and $L$-smooth, and denote by $\\kappa=L/m$ the condition number. We consider windowed thinning, an exact simulation method for the bouncy particle sampler and the coordinate Zigzag process. The method divides a trajectory into deterministic windows and uses a gradient evaluation at the beginning of each window to construct a tractable local envelope for the event rate. Combining this construction with quantitative mixing estimates and finite-time bounds on the expected numbers of bounces and flips yields query complexity guarantees from a Gaussian cold start. For total-variation error $\\varepsilon$, the expected query counts are $O(\\kappa^{1/2}d\\,(d\\log\\kappa+\\log\\frac1\\varepsilon))$ gradient queries for the bouncy particle sampler and $O(\\kappa d^{1/4}(d\\log\\kappa+\\log\\frac1\\varepsilon))$ full-gradient equivalents for Zigzag, where $d$ coordinate-partial queries count as one equivalent.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.28413",
-    "timestamp": "2026-09-03T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2607.28413"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-03T04:00:00Z",
-    "id": "energy-db5bf71e7f679d59"
-  },
-  {
-    "title": "Zen/Atow hit a psycho pass to prejump skim (ranked)",
-    "summary": "submitted by /u/N0b0dy_her3 [link] [comments]",
+    "title": "Someone completing rocket league",
+    "summary": "I saw a video a little while back about a pro player “completing” siege as in winning all major tournaments, (major, ewc, worlds) and i was wondering if it’s possible for someone to complete rocket league and what would it take. what would you guys consider someone completing rl. do they need to win worlds in every game mode? do they need a fifae?, etc etc. submitted by /u/Vibez67 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5t3sd/zenatow_hit_a_psycho_pass_to_prejump_skim_ranked/",
-    "timestamp": "2026-09-03T01:10:15Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w6hlmq/someone_completing_rocket_league/",
+    "timestamp": "2026-09-03T19:34:01Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5t3sd/zenatow_hit_a_psycho_pass_to_prejump_skim_ranked/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w6hlmq/someone_completing_rocket_league/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-03T01:10:15Z",
-    "id": "energy-0b52f346b8a3e23d"
+    "data_as_of": "2026-09-03T19:34:01Z",
+    "id": "energy-eb6a32314d8c148d"
   },
   {
-    "title": "I think i’m a curse and i’m going insane",
-    "summary": "My 3 favorite players across any sport/esport seems cursed. i’m a big firstkiller (rl obviously) Trent (val) and Josh allen (Nfl) fan, and they all seem to be cursed to not be able to win when it matters most. Also is there any news on fixing the schedule? i know everyone complains about how long worlds is after the majors and i agree, it’s kinda ridiculous. is there any plans to fix that anytime soon or are they keeping this schedule for next year Post got taken done because the title wasn’t detailed enough. i hope this is better. if not i apologize and wont remake this again submitted by /u/Vibez67 [link] [comments]",
+    "title": "Nass sets a new global MMR record (2,824) just 4 hours after Zen's record.",
+    "summary": "https://preview.redd.it/7vi3t9khucnh1.png?width=1434&format=png&auto=webp&s=fd6ebed8d80300d613584cf00691d540edc4f685 The end of the season battle will be legendary. submitted by /u/Woorel [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5rqcb/i_think_im_a_curse_and_im_going_insane/",
-    "timestamp": "2026-09-03T00:08:22Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w6h5fv/nass_sets_a_new_global_mmr_record_2824_just_4/",
+    "timestamp": "2026-09-03T19:18:16Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w5rqcb/i_think_im_a_curse_and_im_going_insane/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w6h5fv/nass_sets_a_new_global_mmr_record_2824_just_4/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-03T00:08:22Z",
-    "id": "energy-7b5493b15d242545"
+    "data_as_of": "2026-09-03T19:18:16Z",
+    "id": "energy-52dd015a570638fb"
   },
   {
-    "title": "The new TONE3000 is FREE and provides access to countless NAM profiles",
-    "summary": "The TONE3000 plugin has been released for macOS, Windows, and Linux, and it is available for free! We’ve mentioned the TONE3000 platform plenty of times when discussing other guitar-related releases. The TONE3000 platform provides access to countless gear models (NAM profiles), and this new plugin makes it more convenient than ever. The TONE3000 plugin is [...] View post: The new TONE3000 is FREE and provides access to countless NAM profiles",
+    "title": "Lewitt releases Space Replicator Free, a virtual monitoring plugin for macOS and Windows",
+    "summary": "Developer Lewitt has released Space Replicator Free, a virtual monitoring plugin for macOS and Windows. Lots of plugins virtually recreate the characteristics of real-life spaces for various reasons, whether it’s something like UAD’s Sound City Studios providing a touch of LA when tracking in your bedroom or a convolution reverb like NoiseRverb bringing you the [...] View post: Lewitt releases Space Replicator Free, a virtual monitoring plugin for macOS and Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/",
-    "timestamp": "2026-09-02T17:08:21Z",
+    "url": "https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/",
+    "timestamp": "2026-09-03T15:25:11Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/"
+      "https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-02T17:08:21Z",
-    "id": "energy-cd7b5af298201b6f"
+    "data_as_of": "2026-09-03T15:25:11Z",
+    "id": "energy-a7b108258610d303"
+  },
+  {
+    "title": "MISO Issues Hot Weather Alert For North Region, Extends Conservative Operations",
+    "summary": "By Ronnie Turner • Hot weather alert scheduled to last through Sept. 5 • Michigan Hub on-peak day-ahead power rises to $155/MWh The Midcontinent Independent System Operator on Sept. 2 issued a hot weather alert for its North Region because of temperatures expected to reach 94 degrees Fahrenheit across that part of the footprint during […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/miso-issues-hot-weather-alert-for-north-region-extends-conservative-operations/",
+    "timestamp": "2026-09-03T14:49:19Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/miso-issues-hot-weather-alert-for-north-region-extends-conservative-operations/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-03T14:49:19Z",
+    "id": "energy-e2bf2efd3ed89eff"
+  },
+  {
+    "title": "MISO Proposes New Reliability Rules Targeting Data Centers And Large Power Consumers",
+    "summary": "By Staff Writer The Midcontinent Independent System Operator, better known as MISO, filed a proposal with the Federal Energy Regulatory Commission on August 28 that would impose new interconnection reliability requirements on large electricity consumers. The primary target: data centers powering the AI boom that are gobbling up power at a pace the grid wasn’t […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/miso-proposes-new-reliability-rules-targeting-data-centers-and-large-power-consumers/",
+    "timestamp": "2026-09-03T14:48:41Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/miso-proposes-new-reliability-rules-targeting-data-centers-and-large-power-consumers/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-03T14:48:41Z",
+    "id": "energy-e639ec2cd1d9297b"
+  },
+  {
+    "title": "US Blackout Risk Climbs As Heat Wave Strains Largest Grids",
+    "summary": "By Faith Benter The risk of power outages is set to rise across a large stretch of the United States as intense heat tests electricity supplies serving millions of homes and businesses from the Midwest through the Mid-Atlantic. The US Department of Energy warned of heightened blackout risk within the PJM Interconnection, the country’s largest […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/us-blackout-risk-climbs-as-heat-wave-strains-largest-grids/",
+    "timestamp": "2026-09-03T14:47:50Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/us-blackout-risk-climbs-as-heat-wave-strains-largest-grids/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-03T14:47:50Z",
+    "id": "energy-fa67ad85ba8df422"
   },
   {
     "title": "How to respond to disinformation about clean energy, at scale",
@@ -349,68 +430,5 @@
     "primary_source": false,
     "data_as_of": "2026-09-02T10:04:47Z",
     "id": "energy-a61fe671e62e2c49"
-  },
-  {
-    "title": "Second High-Voltage Power Line Proposed To Cut Through Driftless Area",
-    "summary": "By Madeline Heim Wisconsin residents are fighting another proposal to bring a high-voltage power line to the state’s environmentally sensitive Driftless region. It’s become high-profile enough that hundreds of people have been showing up for public meetings, raising questions about the impact on the land, and whether the lines would largely serve data centers. The […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/second-high-voltage-power-line-proposed-to-cut-through-driftless-area/",
-    "timestamp": "2026-09-01T14:43:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/second-high-voltage-power-line-proposed-to-cut-through-driftless-area/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-01T14:43:32Z",
-    "id": "energy-d7dfd9a57f0e5cd5"
-  },
-  {
-    "title": "Transmission Line Project Makes A Sun Prairie Engagement Stop",
-    "summary": "By Ethan Ferrell Since the BECI 765-kilovolt (kV) Transmission Line Project was announced just a couple of weeks ago, the buzz surrounding the proposal has spread much farther than infrastructure routes that are being proposed. The project’s contractor, Midcontinent Grid Solutions (MGS), made a series of stops throughout southern Wisconsin this past week in an […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/transmission-line-project-makes-a-sun-prairie-engagement-stop/",
-    "timestamp": "2026-09-01T14:42:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/transmission-line-project-makes-a-sun-prairie-engagement-stop/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-01T14:42:37Z",
-    "id": "energy-290477ea8fed918d"
-  },
-  {
-    "title": "MISO Strives To Be Ahead Of FERC And NERC Requirements On Large-Load Additions",
-    "summary": "By Thomas Tiernan • MISO proposes 50-MW threshold for large loads • Data centers must withstand voltage swings • Peak demand may jump 50 GW by 2036 The Midcontinent Independent System Operator is trying to stay ahead of regulatory requirements for meeting demand from large loads such as data centers, with a recent proposal to […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/miso-strives-to-be-ahead-of-ferc-and-nerc-requirements-on-large-load-additions/",
-    "timestamp": "2026-09-01T14:39:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/miso-strives-to-be-ahead-of-ferc-and-nerc-requirements-on-large-load-additions/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-01T14:39:50Z",
-    "id": "energy-97ef527a15f1e48e"
   }
 ]

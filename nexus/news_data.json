@@ -1,5 +1,143 @@
 [
   {
+    "title": "Raven-Flint U conversion plans land on NRC docket, in Launch Pad",
+    "summary": "Raven-Flint Nuclear Corp., which had a project selected by the Department of Energy for the Nuclear Energy Launch Pad, announced that its license application was docketed by the Nuclear Regulatory Commission. The company also announced that it has conducted successful tests of its processing method as it works toward developing a uranium conversion pilot plant.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-04/article-8367/ravenflint-u-conversion-plans-land-on-nrc-docket-in-launch-pad/",
+    "timestamp": "2026-09-04T12:22:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-04/article-8367/ravenflint-u-conversion-plans-land-on-nrc-docket-in-launch-pad/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-04T12:22:20Z",
+    "id": "energy-c207e2c7dbad158f"
+  },
+  {
+    "title": "Message from Laura Landreaux, President and CEO, Entergy Arkansas",
+    "summary": "Dear Entergy Arkansas Customer, I’m reaching out directly to you to correct some inaccurate information published in the news this week regarding Google, specifically when it comes to how much they’re paying toward the Arkansas Cypress Solar facility. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/statement-from-laura-landreaux-president-and-ceo-entergy-arkansas",
+    "timestamp": "2026-09-04T00:19:42Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/statement-from-laura-landreaux-president-and-ceo-entergy-arkansas"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-04T00:19:42Z",
+    "id": "energy-8859c89587ec2f0e"
+  },
+  {
+    "title": "Studsvik announces partnership to deploy four BWRX-300s in Sweden",
+    "summary": "Swedish engineering services firm Studsvik and its partners have teamed up on a four-unit BWRX-300 new build project in southern Sweden. On Thursday, Studsvik entered into a joint development agreement with GE Vernova Hitachi Nuclear Energy, GE Vernova Financial Services, DS Investment Partners, and Samsung C&T to advance the 1.2-GW ReFirm program, with the expectation the first unit will commence operations in the mid-2030s.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-03/article-8366/studsvik-announces-partnership-to-deploy-four-bwrx300s-in-sweden/",
+    "timestamp": "2026-09-03T20:02:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-03/article-8366/studsvik-announces-partnership-to-deploy-four-bwrx300s-in-sweden/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-03T20:02:36Z",
+    "id": "energy-36d864a4fcbe8cbd"
+  },
+  {
+    "title": "ANS and INMM host webinar on digital twins and safeguards",
+    "summary": "The American Nuclear Society and the Institute of Nuclear Materials Management recently cohosted a webinar exploring recent advancements in digital twins for nuclear safeguards. The program featured a panel of experts in digital twin research, including Manuel Kreutle of Forschungszentrum Jülich, Nick Luciano of the University of Texas–Austin, Ryan Stewart of Idaho National Laboratory, and Pavel Tsvetkov of Texas A&M University. Luis Ocampo Giraldo of the National Nuclear Security Administration moderated the talk.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-03/article-8365/ans-and-inmm-host-webinar-on-digital-twins-and-safeguards/",
+    "timestamp": "2026-09-03T18:21:39Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-03/article-8365/ans-and-inmm-host-webinar-on-digital-twins-and-safeguards/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-03T18:21:39Z",
+    "id": "energy-1af35474e8064837"
+  },
+  {
+    "title": "Entergy New Orleans honors Hurricane Katrina anniversary through partnership and community service",
+    "summary": "Twenty-one years after Hurricane Katrina, Entergy New Orleans continues to honor the resilience of New Orleans by supporting the communities it serves through volunteerism, partnerships and community investments Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-honors-hurricane-katrina-anniversary-through-partnership-and-community-service",
+    "timestamp": "2026-09-03T17:29:22Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-new-orleans-honors-hurricane-katrina-anniversary-through-partnership-and-community-service"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-03T17:29:22Z",
+    "id": "energy-3405f38390455bdc"
+  },
+  {
+    "title": "Actualización de Entergy Texas sobre la tormenta tropical Edouard – 3 de septiembre de 2026, 10 a.m.",
+    "summary": "Se ha restablecido el servicio eléctrico a más del 70% de los clientes; la empresa espera alcanzar el 90% al final del día Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/actualizacion-de-entergy-texas-sobre-la-tormenta-tropical-edouard-3-de-septiembre-de-2026-10-a-m",
+    "timestamp": "2026-09-03T16:52:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/actualizacion-de-entergy-texas-sobre-la-tormenta-tropical-edouard-3-de-septiembre-de-2026-10-a-m"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-03T16:52:57Z",
+    "id": "energy-73044cc05401240c"
+  },
+  {
     "title": "ISO-NE staff share expertise in conferences, webcasts",
     "summary": "A roundup of ISO-NE staff speaking engagements in August 2026. The post ISO-NE staff share expertise in conferences, webcasts appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -20,187 +158,5 @@
     ],
     "data_as_of": "2026-09-03T13:28:04Z",
     "id": "energy-de65c59ed5f09bbc"
-  },
-  {
-    "title": "Realta Fusion’s utility partnership boosts fusion energy in Wisconsin",
-    "summary": "Realta Fusion and Madison Gas and Electric (MGE) are collaborating to bring fusion power to Wisconsin. As reported by Wisconsin Public Radio and other news outlets, as well as MGE, the Madison-headquartered startup company and utility are exploring the development, siting, permitting, and financing of a 200-MWe-minimum fusion facility that would be capable of generating enough electricity for approximately 150,000 homes.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-03/article-8363/realta-fusions-utility-partnership-boosts-fusion-energy-in-wisconsin/",
-    "timestamp": "2026-09-03T12:09:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-03/article-8363/realta-fusions-utility-partnership-boosts-fusion-energy-in-wisconsin/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-03T12:09:31Z",
-    "id": "energy-1bf5cbd3c19a13c1"
-  },
-  {
-    "title": "Actualización de Tropical Storm Edouard de Entergy Texas – 9/2/2026, 6:00 p.m.",
-    "summary": "Cuadrillas restauran energía a más del 50% de clientes afectados en medio de condiciones desafiantes en el Sureste de Texas Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/actualizacion-de-tropical-storm-edouard-de-entergy-texas-9-2-2026-600-p-m",
-    "timestamp": "2026-09-03T00:48:34Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/actualizacion-de-tropical-storm-edouard-de-entergy-texas-9-2-2026-600-p-m"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-03T00:48:34Z",
-    "id": "energy-552eada30e3dc2a1"
-  },
-  {
-    "title": "Statement from Entergy Arkansas",
-    "summary": "The information first published in the Aug. 31 Arkansas Democrat Gazette contains a serious and careless mathematical error. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/statement-from-entergy-arkansas",
-    "timestamp": "2026-09-02T23:34:55Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/statement-from-entergy-arkansas"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-02T23:34:55Z",
-    "id": "energy-739752df5405fb0b"
-  },
-  {
-    "title": "Entergy Texas Tropical Storm Edouard update – 9/2/2026, 6:00 p.m.",
-    "summary": "Crews restore power to more than 50% of impacted customers amid challenging weather conditions in Southeast Texas Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-2-2026-600-p-m",
-    "timestamp": "2026-09-02T23:08:10Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-2-2026-600-p-m"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-02T23:08:10Z",
-    "id": "energy-3cad4e736dfff751"
-  },
-  {
-    "title": "Oklo claims PJM improperly dropped its Virginia project",
-    "summary": "Last Friday, Oklo filed an emergency request with the Federal Energy Regulatory Commission claiming that one of its potential generation projects has been “unjustifiably withdrawn” from the PJM Interconnection queue. Through that request, Oklo has asked FERC to direct PJM to reinstate its application with its original queue position. In an interesting twist, the project at issue in this interconnection dispute was, until now, unknown to the public.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-02/article-8362/oklo-claims-pjm-improperly-dropped-its-virginia-project/",
-    "timestamp": "2026-09-02T20:28:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-02/article-8362/oklo-claims-pjm-improperly-dropped-its-virginia-project/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-02T20:28:32Z",
-    "id": "energy-fd1a85d1c9221323"
-  },
-  {
-    "title": "ORNL explores hybrid approach to manufacturing HIP cans",
-    "summary": "Oak Ridge National Laboratory scientists have collaborated with A.J. Tuck Company to develop a new manufacturing approach for use with the hot isostatic pressing (HIP) technique. The hybrid approach combines 3D printing and electroforming to produce so-called HIP cans used to form metal parts from powder materials, aiming to simplify the production of critical reactor components.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-02/article-8361/ornl-explores-hybrid-approach-to-manufacturing-hip-cans/",
-    "timestamp": "2026-09-02T18:36:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-02/article-8361/ornl-explores-hybrid-approach-to-manufacturing-hip-cans/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-02T18:36:20Z",
-    "id": "energy-e1600862f018082f"
-  },
-  {
-    "title": "PJM President & CEO Response to MD Office of Peoples’ Counsel Letter Regarding Base Residual Auction for 2029/2030",
-    "summary": "Updated Date: 09.01.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260901-pjm-president-ceo-response-to-md-office-of-peoples-counsel-letter-regarding-base-residual-auction-2029-2030.pdf",
-    "timestamp": "2026-09-01T13:14:31Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260901-pjm-president-ceo-response-to-md-office-of-peoples-counsel-letter-regarding-base-residual-auction-2029-2030.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-09-01T13:14:31Z",
-    "id": "energy-540d9e13eb73fce4"
-  },
-  {
-    "title": "Webinar will outline longer-term transmission planning process, procurement",
-    "summary": "The webinar takes place Oct. 1 from 12:00 to 1:00 p.m. Registration is not required. The post Webinar will outline longer-term transmission planning process, procurement appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/09/01/webinar-will-outline-longer-term-transmission-planning-process-procurement/",
-    "timestamp": "2026-09-01T12:00:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/09/01/webinar-will-outline-longer-term-transmission-planning-process-procurement/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-09-01T12:00:00Z",
-    "id": "energy-0dfa69aaa6dc29b3"
   }
 ]
