@@ -1,16 +1,16 @@
 [
   {
-    "title": "Raven-Flint U conversion plans land on NRC docket, in Launch Pad",
-    "summary": "Raven-Flint Nuclear Corp., which had a project selected by the Department of Energy for the Nuclear Energy Launch Pad, announced that its license application was docketed by the Nuclear Regulatory Commission. The company also announced that it has conducted successful tests of its processing method as it works toward developing a uranium conversion pilot plant.",
+    "title": "Westinghouse, Nordion, and PSEG team up to produce Co‑60 in the United States",
+    "summary": "This past January, Westinghouse Electric Company, Nordion, and PSEG Nuclear formalized agreements to implement newly developed cobalt-60 production technology at Units 1 and 2 of PSEG’s Salem nuclear power plant in New Jersey, with the Co-60 to be supplied to Nordion. Through an ongoing joint initiative, the companies aim to harness U.S. pressurized water reactors to produce a key medical isotope and build the first commercial-scale Co-60 production platform in the United States.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-04/article-8367/ravenflint-u-conversion-plans-land-on-nrc-docket-in-launch-pad/",
-    "timestamp": "2026-09-04T12:22:20Z",
+    "url": "https://www.ans.org/news/2026-09-04/article-8326/westinghouse-nordion-and-pseg-team-up-to-produce-co60-in-the-united-states/",
+    "timestamp": "2026-09-04T20:05:49Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-04/article-8367/ravenflint-u-conversion-plans-land-on-nrc-docket-in-launch-pad/"
+      "https://www.ans.org/news/2026-09-04/article-8326/westinghouse-nordion-and-pseg-team-up-to-produce-co60-in-the-united-states/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,43 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-04T12:22:20Z",
-    "id": "energy-c207e2c7dbad158f"
+    "data_as_of": "2026-09-04T20:05:49Z",
+    "id": "energy-6c9faf686e763b78"
   },
   {
-    "title": "Message from Laura Landreaux, President and CEO, Entergy Arkansas",
-    "summary": "Dear Entergy Arkansas Customer, I’m reaching out directly to you to correct some inaccurate information published in the news this week regarding Google, specifically when it comes to how much they’re paying toward the Arkansas Cypress Solar facility. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/statement-from-laura-landreaux-president-and-ceo-entergy-arkansas",
-    "timestamp": "2026-09-04T00:19:42Z",
+    "title": "U.S. House discusses new nuclear reactors, permitting reform bills",
+    "summary": "Two U.S. House committees spent Wednesday broaching the subject of new nuclear reactors and moving forward several bills on nuclear permitting reform. The House Science, Space, and Technology Committee’s energy subcommittee held a hearing titled “Powering the Nuclear Renaissance: Accelerating U.S. Leadership in Advanced Nuclear Reactors.” Meanwhile, the House Committee on Energy and Commerce advanced six nuclear permitting reform bills.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-04/article-8369/us-house-discusses-new-nuclear-reactors-permitting-reform-bills/",
+    "timestamp": "2026-09-04T17:19:35Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/statement-from-laura-landreaux-president-and-ceo-entergy-arkansas"
+      "https://www.ans.org/news/2026-09-04/article-8369/us-house-discusses-new-nuclear-reactors-permitting-reform-bills/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-04T17:19:35Z",
+    "id": "energy-c53f2a9a343ab7ce"
+  },
+  {
+    "title": "Actualización de Entergy Texas sobre la tormenta tropical Edouard – 4 de septiembre de 2026, 9:00 a.m.",
+    "summary": "Más del 90% de nuestros clientes cuentan nuevamente con servicio eléctrico tras la tormenta tropical Edouard Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/actualizacion-de-entergy-texas-sobre-la-tormenta-tropical-edouard-4-de-septiembre-de-2026-900-a-m",
+    "timestamp": "2026-09-04T16:28:04Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/actualizacion-de-entergy-texas-sobre-la-tormenta-tropical-edouard-4-de-septiembre-de-2026-900-a-m"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -42,65 +64,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-04T00:19:42Z",
-    "id": "energy-8859c89587ec2f0e"
+    "data_as_of": "2026-09-04T16:28:04Z",
+    "id": "energy-6bbc7995d6374b77"
   },
   {
-    "title": "Studsvik announces partnership to deploy four BWRX-300s in Sweden",
-    "summary": "Swedish engineering services firm Studsvik and its partners have teamed up on a four-unit BWRX-300 new build project in southern Sweden. On Thursday, Studsvik entered into a joint development agreement with GE Vernova Hitachi Nuclear Energy, GE Vernova Financial Services, DS Investment Partners, and Samsung C&T to advance the 1.2-GW ReFirm program, with the expectation the first unit will commence operations in the mid-2030s.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-03/article-8366/studsvik-announces-partnership-to-deploy-four-bwrx300s-in-sweden/",
-    "timestamp": "2026-09-03T20:02:36Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-03/article-8366/studsvik-announces-partnership-to-deploy-four-bwrx300s-in-sweden/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-03T20:02:36Z",
-    "id": "energy-36d864a4fcbe8cbd"
-  },
-  {
-    "title": "ANS and INMM host webinar on digital twins and safeguards",
-    "summary": "The American Nuclear Society and the Institute of Nuclear Materials Management recently cohosted a webinar exploring recent advancements in digital twins for nuclear safeguards. The program featured a panel of experts in digital twin research, including Manuel Kreutle of Forschungszentrum Jülich, Nick Luciano of the University of Texas–Austin, Ryan Stewart of Idaho National Laboratory, and Pavel Tsvetkov of Texas A&M University. Luis Ocampo Giraldo of the National Nuclear Security Administration moderated the talk.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-03/article-8365/ans-and-inmm-host-webinar-on-digital-twins-and-safeguards/",
-    "timestamp": "2026-09-03T18:21:39Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-03/article-8365/ans-and-inmm-host-webinar-on-digital-twins-and-safeguards/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-03T18:21:39Z",
-    "id": "energy-1af35474e8064837"
-  },
-  {
-    "title": "Entergy New Orleans honors Hurricane Katrina anniversary through partnership and community service",
-    "summary": "Twenty-one years after Hurricane Katrina, Entergy New Orleans continues to honor the resilience of New Orleans by supporting the communities it serves through volunteerism, partnerships and community investments Source",
+    "title": "Investing in Louisiana’s future: Entergy and Quanta award scholarships to future lineworkers",
+    "summary": "A reliable and resilient electric system depends on more than infrastructure. It depends on the skilled men and women who build, maintain and restore it. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-honors-hurricane-katrina-anniversary-through-partnership-and-community-service",
-    "timestamp": "2026-09-03T17:29:22Z",
+    "url": "https://www.entergy.com/blog/investing-in-louisianas-future-entergy-and-quanta-award-scholarships-to-future-lineworkers",
+    "timestamp": "2026-09-04T16:09:59Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-honors-hurricane-katrina-anniversary-through-partnership-and-community-service"
+      "https://www.entergy.com/blog/investing-in-louisianas-future-entergy-and-quanta-award-scholarships-to-future-lineworkers"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -110,21 +88,43 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-03T17:29:22Z",
-    "id": "energy-3405f38390455bdc"
+    "data_as_of": "2026-09-04T16:09:59Z",
+    "id": "energy-2e5ed3096d8b1e26"
   },
   {
-    "title": "Actualización de Entergy Texas sobre la tormenta tropical Edouard – 3 de septiembre de 2026, 10 a.m.",
-    "summary": "Se ha restablecido el servicio eléctrico a más del 70% de los clientes; la empresa espera alcanzar el 90% al final del día Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/actualizacion-de-entergy-texas-sobre-la-tormenta-tropical-edouard-3-de-septiembre-de-2026-10-a-m",
-    "timestamp": "2026-09-03T16:52:57Z",
+    "title": "NRC proposes rule for decommissioning timelines, groundwater protection",
+    "summary": "The Nuclear Regulatory Commission is proposing a new rule that addresses two different aspects of agency oversight. In “In Situ Recovery Monitoring and Decommissioning Timeliness,” published online on September 1, the NRC proposes in the first part of the new rule to establish risk-informed criteria for protecting drinking water from radiological and nonradiological contamination near uranium in situ recovery (ISR) sites. In the second part of the rule, the NRC proposes to streamline the process for extending decommissioning timelines for all licensees.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-04/article-8368/nrc-proposes-rule-for-decommissioning-timelines-groundwater-protection/",
+    "timestamp": "2026-09-04T14:29:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/stormcenter/actualizacion-de-entergy-texas-sobre-la-tormenta-tropical-edouard-3-de-septiembre-de-2026-10-a-m"
+      "https://www.ans.org/news/2026-09-04/article-8368/nrc-proposes-rule-for-decommissioning-timelines-groundwater-protection/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-04T14:29:22Z",
+    "id": "energy-23dddf1210f656f7"
+  },
+  {
+    "title": "Entergy Texas Tropical Storm Edouard update – 9/4/2026, 9 a.m.",
+    "summary": "Entergy Texas crews have restored power to more than 90% of customers impacted by Edouard. As of 9 a.m. Friday, approximately 6,000 customers remain without power, down from a peak of approximately 80,000 customers impacted by the storm. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-4-2026-9-a-m",
+    "timestamp": "2026-09-04T13:40:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-texas-tropical-storm-edouard-update-9-4-2026-9-a-m"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -134,8 +134,8 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-03T16:52:57Z",
-    "id": "energy-73044cc05401240c"
+    "data_as_of": "2026-09-04T13:40:23Z",
+    "id": "energy-fefd1c6f1b6ebeb2"
   },
   {
     "title": "ISO-NE staff share expertise in conferences, webcasts",
