@@ -114,49 +114,5 @@
     ],
     "data_as_of": "2026-09-04T16:28:04Z",
     "id": "energy-6bbc7995d6374b77"
-  },
-  {
-    "title": "NRC proposes rule for decommissioning timelines, groundwater protection",
-    "summary": "The Nuclear Regulatory Commission is proposing a new rule that addresses two different aspects of agency oversight. In “In Situ Recovery Monitoring and Decommissioning Timeliness,” published online on September 1, the NRC proposes in the first part of the new rule to establish risk-informed criteria for protecting drinking water from radiological and nonradiological contamination near uranium in situ recovery (ISR) sites. In the second part of the rule, the NRC proposes to streamline the process for extending decommissioning timelines for all licensees.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-04/article-8368/nrc-proposes-rule-for-decommissioning-timelines-groundwater-protection/",
-    "timestamp": "2026-09-04T14:29:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-04/article-8368/nrc-proposes-rule-for-decommissioning-timelines-groundwater-protection/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-04T14:29:22Z",
-    "id": "energy-23dddf1210f656f7"
-  },
-  {
-    "title": "ISO-NE staff share expertise in conferences, webcasts",
-    "summary": "A roundup of ISO-NE staff speaking engagements in August 2026. The post ISO-NE staff share expertise in conferences, webcasts appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/09/03/iso-ne-staff-share-expertise-in-conferences-webcasts/",
-    "timestamp": "2026-09-03T13:28:04Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/09/03/iso-ne-staff-share-expertise-in-conferences-webcasts/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-09-03T13:28:04Z",
-    "id": "energy-de65c59ed5f09bbc"
   }
 ]
