@@ -1,204 +1,282 @@
 [
   {
-    "title": "Full Bucket Music releases FB3, a FREE Kawai K3/K3m emulation",
-    "summary": "Full Bucket Music has released FB3, a free software emulation of the 1986 Kawai K3 and K3m hybrid synthesizers for macOS and Windows. If the name FB3 sounds familiar, that might be because we previewed FB3 in July, when Espen Kraft demonstrated a beta version and the plugin was not yet publicly available. Version 1.0.0 [...] View post: Full Bucket Music releases FB3, a FREE Kawai K3/K3m emulation",
+    "title": "Hands-On With Gundam Rogue Orbit: An Ideal Jumping-In Point For Newcomers To The 40-Year-Old Mech Franchise",
+    "summary": "Despite stepping away from its core message, Gundam Rogue Orbit still feels true to the anime",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/hands-on-with-gundam-rogue-orbit-an-ideal-jumping-in-point-for-newcomers-to-the-40-year-old-mech-franchise-2000732108",
+    "timestamp": "2026-09-08T14:00:04Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/hands-on-with-gundam-rogue-orbit-an-ideal-jumping-in-point-for-newcomers-to-the-40-year-old-mech-franchise-2000732108"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T14:00:04Z",
+    "id": "energy-9627671e0601ef3b"
+  },
+  {
+    "title": "Plea Tech releases Super Wide, a FREE stereo widening plugin for Windows",
+    "summary": "Plea Tech Audio has released Super Wide, a free stereo widening plugin for Windows. Plea Tech is a one-person independent plugin company based in Denmark, and Super Wide is their first plugin I’ve tested. First impressions are positive. Super Wide is built to add stereo width while keeping the center stable, and Plea Tech says [...] View post: Plea Tech releases Super Wide, a FREE stereo widening plugin for Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/07/full-bucket-fb3/",
-    "timestamp": "2026-09-07T15:01:04Z",
+    "url": "https://bedroomproducersblog.com/2026/09/08/plea-tech-super-wide/",
+    "timestamp": "2026-09-08T13:52:06Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/07/full-bucket-fb3/"
+      "https://bedroomproducersblog.com/2026/09/08/plea-tech-super-wide/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-07T15:01:04Z",
-    "id": "energy-d7570e6e53dcf3e9"
+    "data_as_of": "2026-09-08T13:52:06Z",
+    "id": "energy-05a4786adfa8b2fc"
   },
   {
-    "title": "Solaris in Xenogears Is A Disturbing But Fascinating Journey Into Human Nature",
-    "summary": "Xenogears has one of the most ambitious and complex narratives ever told",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/solaris-in-xenogears-is-a-disturbing-but-fascinating-journey-into-human-nature-2000729582",
-    "timestamp": "2026-09-07T15:00:33Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/solaris-in-xenogears-is-a-disturbing-but-fascinating-journey-into-human-nature-2000729582"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-07T15:00:33Z",
-    "id": "energy-721f1f8a0c2c9ceb"
-  },
-  {
-    "title": "François Pé releases the FREE Euclid3an Arp plus two chord/arrangement tools for macOS",
-    "summary": "Developer François Pé has released the free Euclid3an Arp plus two chord/arrangement tools for macOS. Euclidean algorithms come up fairly often in rhythmic audio tools, like Euclyd (multitap delay) by Artists in DSP, and the free Constellations Sequencer from Factor8. Euclid3an Arp is the latest addition to this category, and you can now download this [...] View post: François Pé releases the FREE Euclid3an Arp plus two chord/arrangement tools for macOS",
+    "title": "SoundBoost updates its browser-based mastering service with Engine v4",
+    "summary": "SoundBoost has released Engine v4 for its browser-based mastering service, which lets you guide the result with ordinary language instead of building a complete mastering chain from scratch. The basic workflow is pretty simple. You need to upload your mix, describe the result you want, and let SoundBoost prepare a master that you can compare [...] View post: SoundBoost updates its browser-based mastering service with Engine v4",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/07/francois-pe-euclid3an/",
-    "timestamp": "2026-09-07T14:56:22Z",
+    "url": "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/",
+    "timestamp": "2026-09-08T13:51:52Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/07/francois-pe-euclid3an/"
+      "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-07T14:56:22Z",
-    "id": "energy-25b023332fbcf2dd"
+    "data_as_of": "2026-09-08T13:51:52Z",
+    "id": "energy-0c8e8492a068b2e8"
   },
   {
-    "title": "Resident Evil Director Zach Cregger Confirms He Already Has Sequels in Mind",
-    "summary": "Resident Evil (2026) looks like it'll be a box office hit for the director of Weapons and Barbarian. Zach Cregger responds to what's next.",
+    "title": "James Bond Has Officially Been Recast",
+    "summary": "Bond 26 screenwriter Steve Knight confirmed that the new James Bond has been cast ahead of an official announcement from Amazon MGM.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/resident-evil-2026-movie-sequels-zach-cregger/",
-    "timestamp": "2026-09-07T14:32:25Z",
+    "url": "https://www.polygon.com/james-bond-recast-amazon/",
+    "timestamp": "2026-09-08T13:49:48Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/resident-evil-2026-movie-sequels-zach-cregger/"
+      "https://www.polygon.com/james-bond-recast-amazon/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-07T14:32:25Z",
-    "id": "energy-d49a532c4c129df5"
+    "data_as_of": "2026-09-08T13:49:48Z",
+    "id": "energy-866eb4d017cd2033"
   },
   {
-    "title": "Resident Evil's Zach Cregger: What Being 'Faithful' Really Means",
-    "summary": "2026's Resident Evil lifts from RE2 but the Weapons director really wanted to tell his own story in this world — maybe sequels too.",
+    "title": "The BEST WAY To Buy Comics!",
+    "summary": "What's the best way to buy comics? Well, that depends. Would you rather make the process easier for yourself, or support the creators you love? Because you can't have both!",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/zach-cregger-resident-evil-interview/",
-    "timestamp": "2026-09-07T14:12:20Z",
+    "url": "https://www.polygon.com/video/the-best-way-to-buy-comics/",
+    "timestamp": "2026-09-08T13:38:11Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/zach-cregger-resident-evil-interview/"
+      "https://www.polygon.com/video/the-best-way-to-buy-comics/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-07T14:12:20Z",
-    "id": "energy-1d2ba6f86c70e3e9"
+    "data_as_of": "2026-09-08T13:38:11Z",
+    "id": "energy-eccf08bfcbe23806"
   },
   {
-    "title": "Get 15% OFF StemMaster automated mixing and mastering application",
-    "summary": "NOMZ Studios has updated StemMaster to version 1.1.54, adding mastered stem export to its automated mixing and mastering application for Windows and macOS. BPB readers can use coupon code BPB15 to get 15% off until October 31st, 2026. StemMaster is a standalone desktop application that builds a mix from individual stems using level, EQ, compression, [...] View post: Get 15% OFF StemMaster automated mixing and mastering application",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/07/stemmaster-deal/",
-    "timestamp": "2026-09-07T14:10:49Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/07/stemmaster-deal/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-07T14:10:49Z",
-    "id": "energy-1d968acfbfb0d459"
-  },
-  {
-    "title": "26 Years Later, the Best 'Dilbert' Quote Remains a Comic Strip Classic Despite Its Controversial Creator",
-    "summary": "efore revealing his controversial views, Scott Adams found success with the comic strip Dilbert. This is his best quote from the comic",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/best-dilbert-comic-strip-quote/",
-    "timestamp": "2026-09-07T14:00:15Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/best-dilbert-comic-strip-quote/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-07T14:00:15Z",
-    "id": "energy-8e7546ee3e047d2b"
-  },
-  {
-    "title": "Dawn Of Sorrow’s Tactical Soul System Made It One Of The Best Castlevania Games",
-    "summary": "The tactical soul system empowered gamers with an overwhelming number of play styles",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/dawn-of-sorrows-tactical-soul-system-made-it-one-of-the-best-castlevania-games-2000729676",
-    "timestamp": "2026-09-07T14:00:07Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/dawn-of-sorrows-tactical-soul-system-made-it-one-of-the-best-castlevania-games-2000729676"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-07T14:00:07Z",
-    "id": "energy-b7524033cb428bf9"
-  },
-  {
-    "title": "Big Rumors Are Circulating Ahead Of The September 2026 Nintendo Direct And A New Leaker Just Nuked Their YouTube Comments",
-    "summary": "A new Nintendodogs is also claimed to be on the way",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/big-rumors-are-circulating-ahead-of-the-september-2026-nintendo-direct-and-a-new-leaker-just-nuked-their-youtube-comments-2000731878",
-    "timestamp": "2026-09-07T13:45:03Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/big-rumors-are-circulating-ahead-of-the-september-2026-nintendo-direct-and-a-new-leaker-just-nuked-their-youtube-comments-2000731878"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-07T13:45:03Z",
-    "id": "energy-b3b38132c53140f0"
-  },
-  {
-    "title": "bzip3",
+    "title": "DaVinci Resolve 21.1",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/iczelia/bzip3",
-    "timestamp": "2026-09-07T13:35:13Z",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "timestamp": "2026-09-08T13:36:53Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/iczelia/bzip3"
+      "https://www.blackmagicdesign.com/media/release/20260908-03"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-07T13:35:13Z",
-    "id": "energy-c0fa02c3461fc6ac"
+    "data_as_of": "2026-09-08T13:36:53Z",
+    "id": "energy-59b49ccb2e7aa370"
   },
   {
-    "title": "Best 3v3 teams possible if NA and SAM combine",
-    "summary": "NA and SAM, each dissolve to form sort of a \"super big region\" What's the best teams that you can think of? (start from 2027) submitted by /u/So1ne [link] [comments]",
+    "title": "The History of Batman's ROBIN",
+    "summary": "Did you know there have been FIVE canonical Robins in the DC Universe since Batman's inception? So then why is Batman considered a loner? Susana breaks it all down in this episode of Issue At Hand!",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/video/the-history-of-batman-s-robin/",
+    "timestamp": "2026-09-08T13:34:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/video/the-history-of-batman-s-robin/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T13:34:12Z",
+    "id": "energy-e03f9eb947e06b81"
+  },
+  {
+    "title": "Some Big Companies Are Seemingly Opting Out Of Xbox’s Disc-To-Digital Service",
+    "summary": "Fans report Sega, Ubisoft, Square Enix, and Bandai Namco games are ‘not participating’ in the newly introduced service",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117",
+    "timestamp": "2026-09-08T13:26:56Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T13:26:56Z",
+    "id": "energy-174dbf587291eac5"
+  },
+  {
+    "title": "Show HN: Copperhead – Hardware as Fast as Software",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://copperhead.sh/",
+    "timestamp": "2026-09-08T13:26:45Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://copperhead.sh/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T13:26:45Z",
+    "id": "energy-21b77ec1ef483c20"
+  },
+  {
+    "title": "@RLEsports: Day tickets are now available for the 2026 World Championship",
+    "summary": "submitted by /u/Duke_ofChutney [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w9rsz1/best_3v3_teams_possible_if_na_and_sam_combine/",
-    "timestamp": "2026-09-07T13:12:07Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wanymy/rlesports_day_tickets_are_now_available_for_the/",
+    "timestamp": "2026-09-08T13:08:41Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w9rsz1/best_3v3_teams_possible_if_na_and_sam_combine/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wanymy/rlesports_day_tickets_are_now_available_for_the/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-07T13:12:07Z",
-    "id": "energy-321cf42063d33e5f"
+    "data_as_of": "2026-09-08T13:08:41Z",
+    "id": "energy-f048e8e38a4def89"
+  },
+  {
+    "title": "The United States Will Be One Of The Last Countries In The World To Be Able To Play GTA 6",
+    "summary": "Lock yourself in a bank vault for the whole of November 18, because spoilers will be everywhere",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gta6-grand-theft-auto-6-launch-date-time-midnight-rockstar-2000732098",
+    "timestamp": "2026-09-08T12:54:52Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/gta6-grand-theft-auto-6-launch-date-time-midnight-rockstar-2000732098"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T12:54:52Z",
+    "id": "energy-bf45a175f8949947"
+  },
+  {
+    "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
+    "timestamp": "2026-09-08T11:13:03Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T11:13:03Z",
+    "id": "energy-07bb561fad53abfd"
+  },
+  {
+    "title": "Harmony Lab Audio releases Harmony Pro, a FREE harmony assistant",
+    "summary": "Harmony Lab Audio has released Harmony Pro, a free harmony assistant designed for musicians who want to explore chord progressions and alternative harmonic directions. First, let’s get the GUI out of the way. It looks very vibe-coded, and since we obviously won’t be living in a world without vibe-coded plugins anytime soon, I hope at [...] View post: Harmony Lab Audio releases Harmony Pro, a FREE harmony assistant",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/08/harmony-pro-harmony-assistant/",
+    "timestamp": "2026-09-08T08:39:25Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/08/harmony-pro-harmony-assistant/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T08:39:25Z",
+    "id": "energy-9148b1c84641f07c"
+  },
+  {
+    "title": "Nwpo being the most skilled player",
+    "summary": "Im just going to clarify that im not exactly a follower/fan of Nwpo but i think he is the most skilled player of all time. He might not be the GOAT in terms of accolades, or put up the dominance that zen does in 3s, but for me ive never seen a player like him. I feel like watching him play is just insane, if i could inherit any rl players overall skill (muscle memory, etc) i would pick nwpo. Absolute dominance in 1s and maybe the scariest player of all time. submitted by /u/Idontthinkyou-know [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wafytb/nwpo_being_the_most_skilled_player/",
+    "timestamp": "2026-09-08T05:59:40Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wafytb/nwpo_being_the_most_skilled_player/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-08T05:59:40Z",
+    "id": "energy-3886b6bd2bc34fd4"
+  },
+  {
+    "title": "I played against Stax!!!",
+    "summary": "I’m freaking out rn. First Azap, then Jorby, and now Stax! It’s so crazy that you can just randomly get into a lobby with them. I just love it. If you’re seeing this Stax, I’m sorry I dunked on you like that😭😖 submitted by /u/MonkeyBomb255 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wad2jz/i_played_against_stax/",
+    "timestamp": "2026-09-08T03:25:57Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wad2jz/i_played_against_stax/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-08T03:25:57Z",
+    "id": "energy-d7f33689fdf7b73e"
   },
   {
     "title": "Win tickets to an upcoming event! My NY climate week lineup, new faces at Volts, and just, hey, how’s it going",
@@ -217,84 +295,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-07T13:03:31Z",
     "id": "energy-cebf0af85f38aacb"
-  },
-  {
-    "title": "De-Brainrot Vacations",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "timestamp": "2026-09-07T13:00:48Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-07T13:00:48Z",
-    "id": "energy-4c68b716081233d7"
-  },
-  {
-    "title": "Splash-free urinals (2025)",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-    "timestamp": "2026-09-07T12:58:57Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-07T12:58:57Z",
-    "id": "energy-5548f27c07188435"
-  },
-  {
-    "title": "Why has it been so difficult to pronounce Nwpo?",
-    "summary": "Hey guys! Just a preface, I don’t mean this as any kind of callout or shade, I’m just genuinely curious. So this has been bugging me for quite some time now. Ever since the major (I can’t remember which one it was) where Nwpo pronounced his own name and all the casters changed how they said it, haven't they all (except for like Gibbs) consistently pronounced it differently from how Nwpo did in that interview? I remember it as distinctly \"Nobu\", rather than \"Nubo\" as most casters adopted thereafter. I have never seen anyone talk about this, but it's always been on my mind. Am I crazy for this? Have you guys noticed this too? submitted by /u/MrGuy1312 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w9qa21/why_has_it_been_so_difficult_to_pronounce_nwpo/",
-    "timestamp": "2026-09-07T12:03:15Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w9qa21/why_has_it_been_so_difficult_to_pronounce_nwpo/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-07T12:03:15Z",
-    "id": "energy-6724237bfaf6a8d5"
-  },
-  {
-    "title": "what are the chances wildcard gets top 6 again?",
-    "summary": "i think the different format plus how everyone except wildcard has seemed to level up this year makes it nearly impossible. they have a shot at beating vp but that all depends on how they play on the day i think submitted by /u/Hot-Engineering6023 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1w9nj9y/what_are_the_chances_wildcard_gets_top_6_again/",
-    "timestamp": "2026-09-07T09:37:03Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1w9nj9y/what_are_the_chances_wildcard_gets_top_6_again/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-07T09:37:03Z",
-    "id": "energy-67f25cec00b2ff5d"
   },
   {
     "title": "Weak-Coupling Limit of the Lattice Nonlinear Schr\\\"odinger Integral Equation",
