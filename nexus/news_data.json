@@ -1,16 +1,16 @@
 [
   {
-    "title": "Las cuadrillas de Entergy Texas se acercan a la fase final del restablecimiento del servicio tras la tormenta tropical Edouard",
-    "summary": "Se espera restablecer el servicio esta noche a todos los clientes cuyas instalaciones puedan recibir electricidad de manera segura. Source",
+    "title": "Entergy volunteers help move Capitol Green Connector project forward",
+    "summary": "Volunteers—including Entergy employees—helped plant trees and landscaping along the Capitol Green Connector, making downtown Jackson greener and more welcoming. Supported by local organizations, the project extends the Museum Trail and connects key destinations. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/las-cuadrillas-de-entergy-texas-se-acercan-a-la-fase-final-del-restablecimiento-del-servicio-tras-la-tormenta-tropical-edouard",
-    "timestamp": "2026-09-05T20:37:23Z",
+    "url": "https://www.entergy.com/blog/entergy-volunteers-help-move-capitol-green-connector-project-forward",
+    "timestamp": "2026-09-09T13:59:34Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/stormcenter/las-cuadrillas-de-entergy-texas-se-acercan-a-la-fase-final-del-restablecimiento-del-servicio-tras-la-tormenta-tropical-edouard"
+      "https://www.entergy.com/blog/entergy-volunteers-help-move-capitol-green-connector-project-forward"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -20,21 +20,65 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-05T20:37:23Z",
-    "id": "energy-322981bd560dd04d"
+    "data_as_of": "2026-09-09T13:59:34Z",
+    "id": "energy-c268569618be8d85"
   },
   {
-    "title": "Entergy Texas crews near the end of Tropical Storm Edouard restoration",
-    "summary": "All impacted customers who can safely take power are expected to be restored tonight Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-texas-crews-near-the-end-of-tropical-storm-edouard-restoration",
-    "timestamp": "2026-09-05T19:13:14Z",
+    "title": "FIA white paper guides Agreement States on fusion regulation",
+    "summary": "The Fusion Industry Association has released a white paper providing guidance to current and future Agreement States on how to prepare for potential commercial fusion energy companies that may be looking to set up facilities.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-09/article-8374/fia-white-paper-guides-agreement-states-on-fusion-regulation/",
+    "timestamp": "2026-09-09T12:12:29Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/stormcenter/entergy-texas-crews-near-the-end-of-tropical-storm-edouard-restoration"
+      "https://www.ans.org/news/2026-09-09/article-8374/fia-white-paper-guides-agreement-states-on-fusion-regulation/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-09T12:12:29Z",
+    "id": "energy-a0623eb272c124bb"
+  },
+  {
+    "title": "Full text, enrichment details emerge on Saudi 123 Agreement",
+    "summary": "On July 22, the Department of Energy announced that Energy Secretary Chris Wright and Saudi Minister of Energy Prince Abdulaziz bin Salman had signed a 123 Agreement to facilitate peaceful nuclear cooperation between the two countries. The agreement now awaits congressional approval. At the time of the signing, Wright said, “Rest assured, these agreements uphold the highest standards of nuclear safety and nonproliferation while relying on the world's best nuclear technology and scientists, designed right here in the United States.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-08/article-8373/full-text-enrichment-details-emerge-on-saudi-123-agreement/",
+    "timestamp": "2026-09-08T20:48:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-08/article-8373/full-text-enrichment-details-emerge-on-saudi-123-agreement/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-08T20:48:20Z",
+    "id": "energy-c078e29bdadc42c6"
+  },
+  {
+    "title": "Stay alert: Utility customers being targeted with new QR and barcode scams",
+    "summary": "Entergy urges customers to be cautious when scanning codes used for payments, account access or customer service interactions. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/stay-alert-utility-customers-being-targeted-with-new-qr-and-barcode-scams",
+    "timestamp": "2026-09-08T19:57:42Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/stay-alert-utility-customers-being-targeted-with-new-qr-and-barcode-scams"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -44,7 +88,51 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-05T19:13:14Z",
-    "id": "energy-01a82624e7636416"
+    "data_as_of": "2026-09-08T19:57:42Z",
+    "id": "energy-30a87621dedecf4d"
+  },
+  {
+    "title": "Market participants take note: Annual satisfaction survey launched",
+    "summary": "Survey feedback helps the ISO deliver better products and services. The post Market participants take note: Annual satisfaction survey launched appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/09/08/market-participants-take-note-annual-satisfaction-survey-launched-4/",
+    "timestamp": "2026-09-08T19:00:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/09/08/market-participants-take-note-annual-satisfaction-survey-launched-4/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-09-08T19:00:00Z",
+    "id": "energy-bb5e0eca3c9e6e2f"
+  },
+  {
+    "title": "DOE loan, task force report spur nuclear momentum in Iowa",
+    "summary": "NextEra Energy has secured a Department of Energy loan of up to $1.9 billion for its restart of the Duane Arnold nuclear power plant in Linn County, Iowa. The announcement that NextEra and the DOE’s Office of Energy Dominance Financing had closed on a loan came this morning, less than a week after the state’s Nuclear Energy Task Force issued a final report on the feasibility of new nuclear projects in Iowa.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-08/article-8372/doe-loan-task-force-report-spur-nuclear-momentum-in-iowa/",
+    "timestamp": "2026-09-08T18:59:41Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-08/article-8372/doe-loan-task-force-report-spur-nuclear-momentum-in-iowa/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-08T18:59:41Z",
+    "id": "energy-1548dc8dbb5c076c"
   }
 ]

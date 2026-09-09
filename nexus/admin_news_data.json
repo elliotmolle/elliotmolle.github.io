@@ -1,21 +1,345 @@
 [
   {
-    "title": "Hands-On With Gundam Rogue Orbit: An Ideal Jumping-In Point For Newcomers To The 40-Year-Old Mech Franchise",
-    "summary": "Despite stepping away from its core message, Gundam Rogue Orbit still feels true to the anime",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/hands-on-with-gundam-rogue-orbit-an-ideal-jumping-in-point-for-newcomers-to-the-40-year-old-mech-franchise-2000732108",
-    "timestamp": "2026-09-08T14:00:04Z",
+    "title": "Brad Pitt's New Survival Thriller Pushed Him to His Limits: \"He Was Hypothermic the Whole Time\"",
+    "summary": "Heart of the Beast director David Ayer discusses his new movie in an exclusive Polygon interview.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/heart-of-the-beast-david-ayer-director-interview/",
+    "timestamp": "2026-09-09T14:01:15Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/hands-on-with-gundam-rogue-orbit-an-ideal-jumping-in-point-for-newcomers-to-the-40-year-old-mech-franchise-2000732108"
+      "https://www.polygon.com/heart-of-the-beast-david-ayer-director-interview/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-08T14:00:04Z",
-    "id": "energy-9627671e0601ef3b"
+    "data_as_of": "2026-09-09T14:01:15Z",
+    "id": "energy-4518b4ec575c0a69"
+  },
+  {
+    "title": "Nintendo Keeps Revealing Cool, Expensive Lego Sets That Won’t Be Ready For Christmas",
+    "summary": "Link and Epona are the latest super-detailed Lego build that won't be here till next year, and will probably be too rich for my blood anyway",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/nintendo-keeps-revealing-cool-expensive-lego-sets-that-wont-be-ready-for-christmas-2000732729",
+    "timestamp": "2026-09-09T14:00:06Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/nintendo-keeps-revealing-cool-expensive-lego-sets-that-wont-be-ready-for-christmas-2000732729"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T14:00:06Z",
+    "id": "energy-7a896646cb951bf1"
+  },
+  {
+    "title": "All 'Forge it Anew' sword shard locations in The Blood of Dawnwalker",
+    "summary": "Here's where to find every sword shard and the Uriashi blacksmith in The Blood of Dawnwalker's 'Forge It Anew' quest.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/blood-of-dawnwalker-forge-it-anew-quest-walkthrough-sword-shards-location-mihai/",
+    "timestamp": "2026-09-09T13:45:40Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/blood-of-dawnwalker-forge-it-anew-quest-walkthrough-sword-shards-location-mihai/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T13:45:40Z",
+    "id": "energy-0d39bb78195c3a6f"
+  },
+  {
+    "title": "Anthropic Researcher Declares AI Could Wipe Out Humanity In 10 Years (It Won’t)",
+    "summary": "There's a reason why these companies want you to think their products are so potentially dangerous",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/anthropic-ai-genai-claude-openai-opinion-the-end-of-humanity-2000732708",
+    "timestamp": "2026-09-09T13:45:40Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/anthropic-ai-genai-claude-openai-opinion-the-end-of-humanity-2000732708"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T13:45:40Z",
+    "id": "energy-ce67183055d4595f"
+  },
+  {
+    "title": "Ask HN: Anyone still coding like 2021? Where do you work?",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49626431",
+    "timestamp": "2026-09-09T13:41:55Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://news.ycombinator.com/item?id=49626431"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T13:41:55Z",
+    "id": "energy-cde355aceb0825d0"
+  },
+  {
+    "title": "Playing whack-a-mole is losing",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
+    "timestamp": "2026-09-09T13:41:53Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://dadrian.io/blog/posts/whack-a-mole-is-losing/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T13:41:53Z",
+    "id": "energy-8ff301e091f9dff6"
+  },
+  {
+    "title": "Do people prefer stories written by AI?",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
+    "timestamp": "2026-09-09T13:38:14Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T13:38:14Z",
+    "id": "energy-7bb2bd30cd18af16"
+  },
+  {
+    "title": "Shift Up CTO Says The Stellar Blade Maker Is taking Fan Complaints About AI ‘Seriously,’ But Believes It Should Still Be ‘Used As A Tool’ To Make A ‘Great, High-Quality Game’",
+    "summary": "A controversial music video was just 'experimental,' he said",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/shift-up-cto-says-the-stellar-blade-maker-is-taking-fan-complaints-about-ai-seriously-but-believes-it-should-still-be-used-as-a-tool-to-make-a-great-high-quality-game-2000732716",
+    "timestamp": "2026-09-09T13:36:22Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/shift-up-cto-says-the-stellar-blade-maker-is-taking-fan-complaints-about-ai-seriously-but-believes-it-should-still-be-used-as-a-tool-to-make-a-great-high-quality-game-2000732716"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T13:36:22Z",
+    "id": "energy-2632102850c6edce"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time Remake Gets One Thing Absolutely Right",
+    "summary": "Nintendo's Switch 2 remake of The Legend of Zelda classic nails its approach to a great location, Hyrule Field",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-switch-2-art-style-hyrule-field/",
+    "timestamp": "2026-09-09T13:14:29Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/zelda-ocarina-of-time-remake-switch-2-art-style-hyrule-field/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T13:14:29Z",
+    "id": "energy-810bc9103d603ad5"
+  },
+  {
+    "title": "Is there way more conventional geothermal than we thought?",
+    "summary": "A conversation with Carl Hoiland & Joel Edwards of Zanskar.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/is-there-way-more-conventional-geothermal",
+    "timestamp": "2026-09-09T10:09:46Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/is-there-way-more-conventional-geothermal"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-09-09T10:09:46Z",
+    "id": "energy-649f7d624c15c565"
+  },
+  {
+    "title": "AMC Theater Locations Showing the Rocket League World Championship Finals [Official Release]",
+    "summary": "Atlanta AMC Southlake 24 AMC Sugarloaf Mills 18 Baltimore AMC Owings Mills 17 Boston AMC Methuen 20 Charlotte AMC Carolina Pavilion 22 AMC Concord Mills 24 Chicago AMC Crestwood 18 AMC South Barrington 24 AMC Village Crossing 18 Columbus AMC Dublin Village 18 Dallas AMC Mesquite 30 AMC Stonebriar Mall 24 Denver AMC Highlands Ranch 24 AMC Westminster Promenade 24 Houston AMC Fountains 18 AMC Gulf Pointe 30 AMC Willowbrook 24 Indianapolis AMC Castleton Square 14 AMC Indianapolis 17 Jacksonville AMC Orange Park 24 AMC Regency 24 Kansas City AMC Barrywoods 24 Las Vegas AMC Rainbow Promenade 10 AMC Town Square 18 Los Angeles AMC Burbank 16 AMC DINE-IN Ontario Mills 30 AMC Orange 30 AMC Rolling Hills 20 Miami AMC Aventura Mall 24 Minneapolis AMC Eden Prairie Mall 18 Nashville AMC Thoroughbred 20 New York AMC Garden State Plaza 16 AMC Jersey Gardens 20 AMC Kips Bay 15 Oklahoma City AMC Quail Springs Mall 24 Orlando AMC DINE-IN Disney Springs 24 Philadelphia AMC Cherry Hill 24 AMC Neshaminy 24 Phoenix AMC Ahwatukee 24 AMC Deer Valley 17 Pittsburgh AMC Waterfront 22 Sacramento AMC Manteca 16 San Diego AMC Fashion Valley 18 San Francisco AMC Bay Street 16 AMC Mercado 20 Seattle AMC Southcen…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wbg47r/amc_theater_locations_showing_the_rocket_league/",
+    "timestamp": "2026-09-09T08:55:15Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wbg47r/amc_theater_locations_showing_the_rocket_league/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-09T08:55:15Z",
+    "id": "energy-70286f81f55e6ec0"
+  },
+  {
+    "title": "What if worlds had a random team?",
+    "summary": "So I dreamt last night that Psyonix added a team to the World Championship consisting of random players who didn’t qualify with their actual teams. I got chosen (EU. I’m gold at best, hehe) and was paired with Motta and kv1 (both SAM). Unfortunately, I woke up before we got to play a single game, but this gave me the idea for this random discussion post to bridge the gap until the actual World Championship... which I won’t be competing in either. What kind of random, inter-regional teams made up of players who aren’t participating at Worlds would you like to see in this hypothetical scenario? submitted by /u/BurnaddictB [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wbf6ct/what_if_worlds_had_a_random_team/",
+    "timestamp": "2026-09-09T07:58:37Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wbf6ct/what_if_worlds_had_a_random_team/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-09T07:58:37Z",
+    "id": "energy-dbfadcfcfc796f10"
+  },
+  {
+    "title": "Is there a case for Atomic being a GOAT if NRG wins Worlds?",
+    "summary": "Theoretically (the chances are low, but not zero), NRG wins Worlds. How strong of a case does Atomic have for being the GOAT over Monkey Moon? IMO, it's really close and up to debate. submitted by /u/Rob_D_Shad [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wb1cnm/is_there_a_case_for_atomic_being_a_goat_if_nrg/",
+    "timestamp": "2026-09-08T21:13:31Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wb1cnm/is_there_a_case_for_atomic_being_a_goat_if_nrg/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-08T21:13:31Z",
+    "id": "energy-e0e8cd09a8b64add"
+  },
+  {
+    "title": "Septabee: A FREE, unique, and sometimes bewildering DAW for Windows and Linux",
+    "summary": "Unlike anything you’ve seen before, Septabee is a free DAW for Windows and Linux. Even though well-established software like Tracktion’s Waveform Free often dominates the free DAW conversation, more options keep popping up constantly. Check out our top free DAWs; there’s something to suit everyone, whether you’re a complete beginner or looking for a professional [...] View post: Septabee: A FREE, unique, and sometimes bewildering DAW for Windows and Linux",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/08/septabee-daw/",
+    "timestamp": "2026-09-08T18:40:00Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/08/septabee-daw/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T18:40:00Z",
+    "id": "energy-d3f8241f00ab702d"
+  },
+  {
+    "title": "SPP, MISO Issue Grid Advisories Due To Above-Normal Peakloads, Temperatures",
+    "summary": "By Ronnie Turner • SPP advisory lasts Sept. 4-6; MISO’s expires Sept. 4 • SPP North Hub real-time power surges to about $96/MWh The Southwest Power Pool issued a resource advisory for its East balancing authority area for Sept. 4-6 because of potentially high peakloads and severe hot weather across the footprint, and neighboring Midcontinent […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/spp-miso-issue-grid-advisories-due-to-above-normal-peakloads-temperatures/",
+    "timestamp": "2026-09-08T14:42:54Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/spp-miso-issue-grid-advisories-due-to-above-normal-peakloads-temperatures/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-08T14:42:54Z",
+    "id": "energy-e59f1fa14e48c221"
+  },
+  {
+    "title": "Stakeholders Amplify Call To Hit Brakes On 2026 MISO Interconnection Queue Cycle",
+    "summary": "By Amanda Durish Cook Emphasizing that MISO has a long way to go to complete studies on generation projects that lined up as early as 2020, stakeholders again appealed to the grid operator to pause acceptance of a new cycle of projects. Why This Matters Despite changes to MISO’s interconnection processes, the RTO is still […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/stakeholders-amplify-call-to-hit-brakes-on-2026-miso-interconnection-queue-cycle/",
+    "timestamp": "2026-09-08T14:42:12Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/stakeholders-amplify-call-to-hit-brakes-on-2026-miso-interconnection-queue-cycle/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-08T14:42:12Z",
+    "id": "energy-ab6ae2795d16146e"
+  },
+  {
+    "title": "MISO’s 2026 Tx Portfolio Soars Past $17B",
+    "summary": "By Amanda Durish Cook MISO’s 2026 Transmission Expansion Plan has risen to nearly $17.3 billion across 562 projects. The Bottom Line At almost $17.3 billion, MTEP 26 is MISO’s most expensive annual transmission portfolio that’s not associated with a long-range transmission plan. The plan (MTEP 26) is the RTO’s most expensive annual transmission portfolio that’s […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/misos-2026-tx-portfolio-soars-past-17b/",
+    "timestamp": "2026-09-08T14:41:34Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/misos-2026-tx-portfolio-soars-past-17b/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-08T14:41:34Z",
+    "id": "energy-3ce0099041bcc20e"
+  },
+  {
+    "title": "GIVEAWAY: Win BS-203 MacroAcidizer, a 3-in-1 acid synth with generative sequencer",
+    "summary": "Developer Born Second has released BS-203 MacroAcidizer, a component-level analog-modeled acid synthesizer plugin for macOS and Windows. The plugin combines three switchable acid machines with a scale-aware pattern generator, and we are giving away one free copy to a lucky BPB reader. You will find the entry question at the end of this article. BS-203 [...] View post: GIVEAWAY: Win BS-203 MacroAcidizer, a 3-in-1 acid synth with generative sequencer",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/08/bs-203-macroacidizer-giveaway/",
+    "timestamp": "2026-09-08T14:17:12Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/08/bs-203-macroacidizer-giveaway/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-08T14:17:12Z",
+    "id": "energy-f915fd2cb4c80e7b"
   },
   {
     "title": "Plea Tech releases Super Wide, a FREE stereo widening plugin for Windows",
@@ -34,249 +358,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-08T13:52:06Z",
     "id": "energy-05a4786adfa8b2fc"
-  },
-  {
-    "title": "SoundBoost updates its browser-based mastering service with Engine v4",
-    "summary": "SoundBoost has released Engine v4 for its browser-based mastering service, which lets you guide the result with ordinary language instead of building a complete mastering chain from scratch. The basic workflow is pretty simple. You need to upload your mix, describe the result you want, and let SoundBoost prepare a master that you can compare [...] View post: SoundBoost updates its browser-based mastering service with Engine v4",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/",
-    "timestamp": "2026-09-08T13:51:52Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T13:51:52Z",
-    "id": "energy-0c8e8492a068b2e8"
-  },
-  {
-    "title": "James Bond Has Officially Been Recast",
-    "summary": "Bond 26 screenwriter Steve Knight confirmed that the new James Bond has been cast ahead of an official announcement from Amazon MGM.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/james-bond-recast-amazon/",
-    "timestamp": "2026-09-08T13:49:48Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/james-bond-recast-amazon/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T13:49:48Z",
-    "id": "energy-866eb4d017cd2033"
-  },
-  {
-    "title": "The BEST WAY To Buy Comics!",
-    "summary": "What's the best way to buy comics? Well, that depends. Would you rather make the process easier for yourself, or support the creators you love? Because you can't have both!",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/video/the-best-way-to-buy-comics/",
-    "timestamp": "2026-09-08T13:38:11Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/video/the-best-way-to-buy-comics/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T13:38:11Z",
-    "id": "energy-eccf08bfcbe23806"
-  },
-  {
-    "title": "DaVinci Resolve 21.1",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-    "timestamp": "2026-09-08T13:36:53Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.blackmagicdesign.com/media/release/20260908-03"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T13:36:53Z",
-    "id": "energy-59b49ccb2e7aa370"
-  },
-  {
-    "title": "The History of Batman's ROBIN",
-    "summary": "Did you know there have been FIVE canonical Robins in the DC Universe since Batman's inception? So then why is Batman considered a loner? Susana breaks it all down in this episode of Issue At Hand!",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/video/the-history-of-batman-s-robin/",
-    "timestamp": "2026-09-08T13:34:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/video/the-history-of-batman-s-robin/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T13:34:12Z",
-    "id": "energy-e03f9eb947e06b81"
-  },
-  {
-    "title": "Some Big Companies Are Seemingly Opting Out Of Xbox’s Disc-To-Digital Service",
-    "summary": "Fans report Sega, Ubisoft, Square Enix, and Bandai Namco games are ‘not participating’ in the newly introduced service",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117",
-    "timestamp": "2026-09-08T13:26:56Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T13:26:56Z",
-    "id": "energy-174dbf587291eac5"
-  },
-  {
-    "title": "Show HN: Copperhead – Hardware as Fast as Software",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://copperhead.sh/",
-    "timestamp": "2026-09-08T13:26:45Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://copperhead.sh/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T13:26:45Z",
-    "id": "energy-21b77ec1ef483c20"
-  },
-  {
-    "title": "@RLEsports: Day tickets are now available for the 2026 World Championship",
-    "summary": "submitted by /u/Duke_ofChutney [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wanymy/rlesports_day_tickets_are_now_available_for_the/",
-    "timestamp": "2026-09-08T13:08:41Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wanymy/rlesports_day_tickets_are_now_available_for_the/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-08T13:08:41Z",
-    "id": "energy-f048e8e38a4def89"
-  },
-  {
-    "title": "The United States Will Be One Of The Last Countries In The World To Be Able To Play GTA 6",
-    "summary": "Lock yourself in a bank vault for the whole of November 18, because spoilers will be everywhere",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/gta6-grand-theft-auto-6-launch-date-time-midnight-rockstar-2000732098",
-    "timestamp": "2026-09-08T12:54:52Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/gta6-grand-theft-auto-6-launch-date-time-midnight-rockstar-2000732098"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T12:54:52Z",
-    "id": "energy-bf45a175f8949947"
-  },
-  {
-    "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
-    "timestamp": "2026-09-08T11:13:03Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T11:13:03Z",
-    "id": "energy-07bb561fad53abfd"
-  },
-  {
-    "title": "Harmony Lab Audio releases Harmony Pro, a FREE harmony assistant",
-    "summary": "Harmony Lab Audio has released Harmony Pro, a free harmony assistant designed for musicians who want to explore chord progressions and alternative harmonic directions. First, let’s get the GUI out of the way. It looks very vibe-coded, and since we obviously won’t be living in a world without vibe-coded plugins anytime soon, I hope at [...] View post: Harmony Lab Audio releases Harmony Pro, a FREE harmony assistant",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/08/harmony-pro-harmony-assistant/",
-    "timestamp": "2026-09-08T08:39:25Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/08/harmony-pro-harmony-assistant/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-08T08:39:25Z",
-    "id": "energy-9148b1c84641f07c"
-  },
-  {
-    "title": "Nwpo being the most skilled player",
-    "summary": "Im just going to clarify that im not exactly a follower/fan of Nwpo but i think he is the most skilled player of all time. He might not be the GOAT in terms of accolades, or put up the dominance that zen does in 3s, but for me ive never seen a player like him. I feel like watching him play is just insane, if i could inherit any rl players overall skill (muscle memory, etc) i would pick nwpo. Absolute dominance in 1s and maybe the scariest player of all time. submitted by /u/Idontthinkyou-know [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wafytb/nwpo_being_the_most_skilled_player/",
-    "timestamp": "2026-09-08T05:59:40Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wafytb/nwpo_being_the_most_skilled_player/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-08T05:59:40Z",
-    "id": "energy-3886b6bd2bc34fd4"
-  },
-  {
-    "title": "I played against Stax!!!",
-    "summary": "I’m freaking out rn. First Azap, then Jorby, and now Stax! It’s so crazy that you can just randomly get into a lobby with them. I just love it. If you’re seeing this Stax, I’m sorry I dunked on you like that😭😖 submitted by /u/MonkeyBomb255 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wad2jz/i_played_against_stax/",
-    "timestamp": "2026-09-08T03:25:57Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wad2jz/i_played_against_stax/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-08T03:25:57Z",
-    "id": "energy-d7f33689fdf7b73e"
   },
   {
     "title": "Win tickets to an upcoming event! My NY climate week lineup, new faces at Volts, and just, hey, how’s it going",
