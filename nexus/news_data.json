@@ -1,16 +1,16 @@
 [
   {
-    "title": "SRS resumes shipments of remote-handled transuranic waste to WIPP",
-    "summary": "A new type of heavy-duty shielded container is being used to ship remote-handled legacy transuranic waste from the Savannah River Site in Aiken, S.C., to the Waste Isolation Pilot Plant in New Mexico. The Department of Energy’s Office of Environmental Management announced this week that the first shipment using the new packaging was successfully completed.",
+    "title": "In a boost to Finland’s Loviisa plant, Google and Fortum ink nuclear PPA",
+    "summary": "Google and Nordic energy company Fortum have reached a multidecade nuclear power purchase agreement (PPA) that will provide the tech giant power from Finland’s Loviisa plant through 2050, the two companies announced Wednesday. The PPA further justifies Finland’s 2023 decision to extend Loviisa’s operating license until the end of 2050. Since the 2023 decision, Fortum has adopted a life extension investment program to support the plant for another couple of decades. According to Fortum, the investments are expected to reach €1 billion (approximately $1.16 billion) by 2050. Work is already underway, including a major turbine modernization project that will be implemented during outages in 2026 and 2028.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-10/article-8378/srs-resumes-shipments-of-remotehandled-transuranic-waste-to-wipp/",
-    "timestamp": "2026-09-10T12:10:54Z",
+    "url": "https://www.ans.org/news/2026-09-11/article-8381/in-a-boost-to-finlands-loviisa-plant-google-and-fortum-ink-nuclear-ppa/",
+    "timestamp": "2026-09-11T12:06:09Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-10/article-8378/srs-resumes-shipments-of-remotehandled-transuranic-waste-to-wipp/"
+      "https://www.ans.org/news/2026-09-11/article-8381/in-a-boost-to-finlands-loviisa-plant-google-and-fortum-ink-nuclear-ppa/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-10T12:10:54Z",
-    "id": "energy-1e8c3f6f84715872"
+    "data_as_of": "2026-09-11T12:06:09Z",
+    "id": "energy-36583059e720a519"
   },
   {
-    "title": "Zaporizhzhia restores off-site power following IAEA-brokered local ceasefire",
-    "summary": "The International Atomic Energy Agency brokered a temporary ceasefire in and around Ukraine’s Zaporizhzhia plant that allowed key repairs at the Russian-occupied nuclear power plant to be carried out, the organization announced Saturday. Workers began repairing a damaged power line north of the Dnipro River, the IAEA update said. Those repairs, completed earlier this week, restored off-site power to Zaporizhzhia, which had been running on emergency diesel generators. On Monday, plant operator Energoatom said on Facebook that the plant was receiving external power again after Ukrainian workers restored the 330-kV Ferosplavna-1 line.",
+    "title": "NASA solicits lunar radioisotope power",
+    "summary": "NASA has announced it is seeking proposals for five technological areas, including radioisotope power systems (RPSs), to support exploration missions with a near-term focus on a base at the south lunar pole.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-09/article-8377/zaporizhzhia-restores-offsite-power-following-iaeabrokered-local-ceasefire/",
-    "timestamp": "2026-09-09T20:11:26Z",
+    "url": "https://www.ans.org/news/2026-09-10/article-8380/nasa-solicits-lunar-radioisotope-power/",
+    "timestamp": "2026-09-10T21:06:16Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-09/article-8377/zaporizhzhia-restores-offsite-power-following-iaeabrokered-local-ceasefire/"
+      "https://www.ans.org/news/2026-09-10/article-8380/nasa-solicits-lunar-radioisotope-power/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-09T20:11:26Z",
-    "id": "energy-777a6d314e678358"
+    "data_as_of": "2026-09-10T21:06:16Z",
+    "id": "energy-9b8700b376bdcc7d"
   },
   {
-    "title": "IAEA continues inspection activities in post-Assad Syria",
-    "summary": "According to a report by the Associated Press, inspectors with the International Atomic Energy Agency have confirmed that Syria under the leadership of President Bashar Assad, who was ousted amid civil conflict in 2024, was building a nuclear reactor in the eastern Syrian city of Deir ez Zor. The IAEA inspectors visited that site in August, following up on a previous inspection that had detected uranium in samples taken there.",
+    "title": "West Virginia joins the ranks of NLIC finalists",
+    "summary": "Earlier this week, West Virginia Gov. Patrick Morrissey announced that his state has been selected as a finalist for the Department of Energy’s Nuclear Lifecycle Innovation Campuses (NLIC) program. It joins five other finalists—Idaho, Louisiana, Oklahoma, Tennessee, and Utah—all of which are now in the running to host a facility or facilities supporting the back end of the fuel cycle through federal-state partnerships.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-09/article-8376/iaea-continues-inspection-activities-in-postassad-syria/",
-    "timestamp": "2026-09-09T17:01:01Z",
+    "url": "https://www.ans.org/news/2026-09-10/article-8379/west-virginia-joins-the-ranks-of-nlic-finalists/",
+    "timestamp": "2026-09-10T18:09:49Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-09/article-8376/iaea-continues-inspection-activities-in-postassad-syria/"
+      "https://www.ans.org/news/2026-09-10/article-8379/west-virginia-joins-the-ranks-of-nlic-finalists/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,21 +62,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-09T17:01:01Z",
-    "id": "energy-bef4370b1b1e0427"
+    "data_as_of": "2026-09-10T18:09:49Z",
+    "id": "energy-168160d98eb3ec61"
   },
   {
-    "title": "Improve your home’s energy efficiency with Entergy Mississippi’s READI program",
-    "summary": "Entergy Mississippi’s READI Program offers homeowners a simple way to save energy and money. Schedule a walk-through, get a personalized report, and enjoy instant installation of energy-saving products. Upgrades like duct sealing and insulation may also be available. Source",
+    "title": "Entergy protects endangered whooping cranes while increasing reliability for customers",
+    "summary": "Entergy is partnering with the Louisiana Department of Wildlife and Fisheries and Fulcrum Air to deploy bird flight diverters on transmission lines across Louisiana, marking a significant milestone in the company’s commitment to protecting the endangered whooping cranes while improving reliability for our customers. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/improve-your-homes-energy-efficiency-with-entergy-mississippis-readi-program-2",
-    "timestamp": "2026-09-09T14:37:08Z",
+    "url": "https://www.entergy.com/blog/entergy-protects-endangered-whooping-cranes-while-increasing-reliability-for-customers",
+    "timestamp": "2026-09-10T17:03:59Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/improve-your-homes-energy-efficiency-with-entergy-mississippis-readi-program-2"
+      "https://www.entergy.com/blog/entergy-protects-endangered-whooping-cranes-while-increasing-reliability-for-customers"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -86,21 +86,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-09T14:37:08Z",
-    "id": "energy-290e541d5955aa63"
+    "data_as_of": "2026-09-10T17:03:59Z",
+    "id": "energy-9f75202db3166a4f"
   },
   {
-    "title": "Entergy volunteers help move Capitol Green Connector project forward",
-    "summary": "Volunteers—including Entergy employees—helped plant trees and landscaping along the Capitol Green Connector, making downtown Jackson greener and more welcoming. Supported by local organizations, the project extends the Museum Trail and connects key destinations. Source",
+    "title": "Entergy New Orleans partners with Heroes of New Orleans to help alleviate food insecurity",
+    "summary": "As more families in New Orleans and across Louisiana struggle with rising food prices, Entergy New Orleans remains committed to addressing food insecurity and supporting community organizations working to meet this critical need. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-volunteers-help-move-capitol-green-connector-project-forward",
-    "timestamp": "2026-09-09T13:59:34Z",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-partners-with-heroes-of-new-orleans-to-help-alleviate-food-insecurity",
+    "timestamp": "2026-09-10T16:47:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-volunteers-help-move-capitol-green-connector-project-forward"
+      "https://www.entergy.com/blog/entergy-new-orleans-partners-with-heroes-of-new-orleans-to-help-alleviate-food-insecurity"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -110,21 +110,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-09T13:59:34Z",
-    "id": "energy-c268569618be8d85"
+    "data_as_of": "2026-09-10T16:47:39Z",
+    "id": "energy-75d4e25c694fe0ad"
   },
   {
-    "title": "Stay alert: Utility customers being targeted with new QR and barcode scams",
-    "summary": "Entergy urges customers to be cautious when scanning codes used for payments, account access or customer service interactions. Source",
+    "title": "Entergy, Ampirical invest $1.5M in LSU New Orleans Energy Lab",
+    "summary": "LSU New Orleans students preparing for careers in engineering and the energy industry will gain access to enhanced technology, research opportunities and hands-on learning through a combined $1.5 million investment from Entergy and Ampirical to modernize the university’s Power and Energy Research Laboratory. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/stay-alert-utility-customers-being-targeted-with-new-qr-and-barcode-scams",
-    "timestamp": "2026-09-08T19:57:42Z",
+    "url": "https://www.entergy.com/blog/entergy-ampirical-invest-1-5m-in-lsu-new-orleans-energy-lab",
+    "timestamp": "2026-09-10T15:28:45Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/stay-alert-utility-customers-being-targeted-with-new-qr-and-barcode-scams"
+      "https://www.entergy.com/blog/entergy-ampirical-invest-1-5m-in-lsu-new-orleans-energy-lab"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -134,8 +134,8 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-08T19:57:42Z",
-    "id": "energy-30a87621dedecf4d"
+    "data_as_of": "2026-09-10T15:28:45Z",
+    "id": "energy-03046ad795789931"
   },
   {
     "title": "Market participants take note: Annual satisfaction survey launched",
