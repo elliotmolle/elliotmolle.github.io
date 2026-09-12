@@ -1,16 +1,16 @@
 [
   {
-    "title": "In a boost to Finland’s Loviisa plant, Google and Fortum ink nuclear PPA",
-    "summary": "Google and Nordic energy company Fortum have reached a multidecade nuclear power purchase agreement (PPA) that will provide the tech giant power from Finland’s Loviisa plant through 2050, the two companies announced Wednesday. The PPA further justifies Finland’s 2023 decision to extend Loviisa’s operating license until the end of 2050. Since the 2023 decision, Fortum has adopted a life extension investment program to support the plant for another couple of decades. According to Fortum, the investments are expected to reach €1 billion (approximately $1.16 billion) by 2050. Work is already underway, including a major turbine modernization project that will be implemented during outages in 2026 and 2028.",
+    "title": "Limerick’s digital leap: Sustainability through modernization",
+    "summary": "Constellation’s Limerick plant has generated nuclear power in the community of Pottstown, Pa., northwest of Philadelphia, since the first of two boiling water reactors came on line 40 years ago, in 1986. The plan is to keep Limerick running for at least another 40 years, but from a control room that would look wholly unfamiliar to its 1980s-era operators. Limerick is set to get a major safety-related digital instrumentation and control modernization for its two units, rated at 1,153 MWe and 1,162 MWe, respectively.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-11/article-8381/in-a-boost-to-finlands-loviisa-plant-google-and-fortum-ink-nuclear-ppa/",
-    "timestamp": "2026-09-11T12:06:09Z",
+    "url": "https://www.ans.org/news/2026-09-11/article-8327/limericks-digital-leap-sustainability-through-modernization/",
+    "timestamp": "2026-09-11T20:03:54Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-11/article-8381/in-a-boost-to-finlands-loviisa-plant-google-and-fortum-ink-nuclear-ppa/"
+      "https://www.ans.org/news/2026-09-11/article-8327/limericks-digital-leap-sustainability-through-modernization/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-11T12:06:09Z",
-    "id": "energy-36583059e720a519"
+    "data_as_of": "2026-09-11T20:03:54Z",
+    "id": "energy-83c3a03c050fb04e"
   },
   {
-    "title": "NASA solicits lunar radioisotope power",
-    "summary": "NASA has announced it is seeking proposals for five technological areas, including radioisotope power systems (RPSs), to support exploration missions with a near-term focus on a base at the south lunar pole.",
+    "title": "Navy’s first terrestrial reactor coming to Indiana’s NWS Crane",
+    "summary": "The Department of Defense has announced the first deployment of a microreactor on a shore-based Navy installation will be at Indiana’s Naval Weapons Station (NWS) Crane and executed jointly with the Army’s Janus Program. Not only will it be a first for the Navy when it is installed by September 2028, it will be Indiana’s first power-producing reactor. Previous announcements regarding advanced reactors on military bases have revolved around the Army and Air Force. Most recently, the Army announced that five reactor developers were selected and paired with five military installations under the Janus Program. Wednesday’s announcement expands the concept into another military branch.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-10/article-8380/nasa-solicits-lunar-radioisotope-power/",
-    "timestamp": "2026-09-10T21:06:16Z",
+    "url": "https://www.ans.org/news/2026-09-11/article-8383/navys-first-terrestrial-reactor-coming-to-indianas-nws-crane/",
+    "timestamp": "2026-09-11T17:31:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-10/article-8380/nasa-solicits-lunar-radioisotope-power/"
+      "https://www.ans.org/news/2026-09-11/article-8383/navys-first-terrestrial-reactor-coming-to-indianas-nws-crane/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +40,45 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-10T21:06:16Z",
-    "id": "energy-9b8700b376bdcc7d"
+    "data_as_of": "2026-09-11T17:31:22Z",
+    "id": "energy-19f357bae0e69cb1"
   },
   {
-    "title": "West Virginia joins the ranks of NLIC finalists",
-    "summary": "Earlier this week, West Virginia Gov. Patrick Morrissey announced that his state has been selected as a finalist for the Department of Energy’s Nuclear Lifecycle Innovation Campuses (NLIC) program. It joins five other finalists—Idaho, Louisiana, Oklahoma, Tennessee, and Utah—all of which are now in the running to host a facility or facilities supporting the back end of the fuel cycle through federal-state partnerships.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-10/article-8379/west-virginia-joins-the-ranks-of-nlic-finalists/",
-    "timestamp": "2026-09-10T18:09:49Z",
+    "title": "Meet the pros: Tiedra Lewis",
+    "summary": "Meet Tiedra Lewis, manager of planning and project management in the system planning and operations organization, based in The Woodlands, Texas. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/meet-the-pros-tiedra-lewis",
+    "timestamp": "2026-09-11T16:28:50Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-10/article-8379/west-virginia-joins-the-ranks-of-nlic-finalists/"
+      "https://www.entergy.com/blog/meet-the-pros-tiedra-lewis"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-11T16:28:50Z",
+    "id": "energy-48d60f3918fbbdd7"
+  },
+  {
+    "title": "Uranium mining ban enacted for New Mexico lands",
+    "summary": "Garcia Richard On September 4, New Mexico Land Commissioner Stephanie Garcia Richard issued an executive order that bans the leasing of state lands for new uranium mining and associated activities. The executive order also directs the State Land Office to focus on cleaning up legacy uranium sites and urges the uranium industry and federal government to prioritize legacy uranium problems in the state. According to the State Land Office’s announcement, “New Mexico has a painful history as the largest producer of uranium ore in the United States, which has left a legacy of over 1,000 former uranium mining, milling, and exploratory drilling sites in the state, of which 250 are considered abandoned because they are not associated with a viable responsible party (at least 50 of the sites involve state trust lands).”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-11/article-8382/uranium-mining-ban-enacted-for-new-mexico-lands/",
+    "timestamp": "2026-09-11T14:28:46Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-11/article-8382/uranium-mining-ban-enacted-for-new-mexico-lands/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,8 +86,8 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-10T18:09:49Z",
-    "id": "energy-168160d98eb3ec61"
+    "data_as_of": "2026-09-11T14:28:46Z",
+    "id": "energy-d2b889701ab4da53"
   },
   {
     "title": "Entergy protects endangered whooping cranes while increasing reliability for customers",
@@ -112,51 +136,5 @@
     ],
     "data_as_of": "2026-09-10T16:47:39Z",
     "id": "energy-75d4e25c694fe0ad"
-  },
-  {
-    "title": "Entergy, Ampirical invest $1.5M in LSU New Orleans Energy Lab",
-    "summary": "LSU New Orleans students preparing for careers in engineering and the energy industry will gain access to enhanced technology, research opportunities and hands-on learning through a combined $1.5 million investment from Entergy and Ampirical to modernize the university’s Power and Energy Research Laboratory. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-ampirical-invest-1-5m-in-lsu-new-orleans-energy-lab",
-    "timestamp": "2026-09-10T15:28:45Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-ampirical-invest-1-5m-in-lsu-new-orleans-energy-lab"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-10T15:28:45Z",
-    "id": "energy-03046ad795789931"
-  },
-  {
-    "title": "Market participants take note: Annual satisfaction survey launched",
-    "summary": "Survey feedback helps the ISO deliver better products and services. The post Market participants take note: Annual satisfaction survey launched appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/09/08/market-participants-take-note-annual-satisfaction-survey-launched-4/",
-    "timestamp": "2026-09-08T19:00:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/09/08/market-participants-take-note-annual-satisfaction-survey-launched-4/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-09-08T19:00:00Z",
-    "id": "energy-bb5e0eca3c9e6e2f"
   }
 ]

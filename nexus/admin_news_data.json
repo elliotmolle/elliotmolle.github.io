@@ -1,147 +1,282 @@
 [
   {
-    "title": "6 Upcoming Steam Games That Should Be on Your Wishlist",
-    "summary": "If you're looking for some new games to add to your Steam wishlist, here are some promising PC games we've already tried.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/wishlister-gamescom-september-11/",
-    "timestamp": "2026-09-11T14:00:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/wishlister-gamescom-september-11/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T14:00:14Z",
-    "id": "energy-fa0fb57d5bc4b546"
-  },
-  {
-    "title": "'The Heart Wants What It Wants' quest walkthrough in The Blood of Dawnwalker",
-    "summary": "Here's how to decide Ocha's future in The Blood of Dawnwalker's 'The Heart Wants What It Wants' quest.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/blood-of-dawnwalker-the-heart-wants-what-it-wants-quest-walkthrough-ocha/",
-    "timestamp": "2026-09-11T13:59:10Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/blood-of-dawnwalker-the-heart-wants-what-it-wants-quest-walkthrough-ocha/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T13:59:10Z",
-    "id": "energy-d2c21ad7413431fd"
-  },
-  {
-    "title": "Chamilo 3.0 – open-source LMS with native MCP server (PAuth2.1)",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0",
-    "timestamp": "2026-09-11T13:53:33Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T13:53:33Z",
-    "id": "energy-57e78f42f470cce1"
-  },
-  {
-    "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
-    "timestamp": "2026-09-11T13:43:53Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://github.com/Field-Logic-Ltd/ClaudeStatsBar"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T13:43:53Z",
-    "id": "energy-f6238214eb036ade"
-  },
-  {
-    "title": "If coding is solved, what now?: Measuring the sloppiness of code",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "timestamp": "2026-09-11T13:42:28Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://earendil.com/posts/measuring-code-sloppiness/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T13:42:28Z",
-    "id": "energy-a0504b50de77000f"
-  },
-  {
-    "title": "GTA 6 Fans Track Down Real-World Version Of The Nudist Resort, Then Try To Extort It",
-    "summary": "According to Cypress Cove Nudist Resort, reviewers have demanded money to remove references to gun violence",
+    "title": "YouTuber Gets Tackled On Stage At Roblox Conference Wearing T-Shirt That Says ‘Kids Deserve Better’",
+    "summary": "Emathiio was escorted out of the event after the stunt",
     "source": "Kotaku",
-    "url": "https://kotaku.com/gta6-nudist-resort-cypress-cove-rockstar-grand-theft-auto-vi-leaks-2000733492",
-    "timestamp": "2026-09-11T13:16:45Z",
+    "url": "https://kotaku.com/youtuber-gets-tackled-on-stage-at-roblox-conference-wearing-t-shirt-that-says-kids-deserve-better-2000733753",
+    "timestamp": "2026-09-12T13:20:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/gta6-nudist-resort-cypress-cove-rockstar-grand-theft-auto-vi-leaks-2000733492"
+      "https://kotaku.com/youtuber-gets-tackled-on-stage-at-roblox-conference-wearing-t-shirt-that-says-kids-deserve-better-2000733753"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-11T13:16:45Z",
-    "id": "energy-d99c03fcad2f7926"
+    "data_as_of": "2026-09-12T13:20:14Z",
+    "id": "energy-7bbf5af309bf0d1f"
   },
   {
-    "title": "'Blade Runner 2099' Showrunner Reveals the Sci-Fi Secrets She Learned from Ridley Scott",
-    "summary": "For Polygon's Fall Preview, we caught up with Silka Luisa and peppered her with questions about Blade Runner 2099",
+    "title": "Ace Combat 8’s Developers Are on a Mission To Create the Perfect Clouds",
+    "summary": "The brains behind Ace Combat 8: Wings of Theve explain how the team created more realistic clouds through a new tech innovation.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/blade-runner-2099-showrunner-interview-preview/",
-    "timestamp": "2026-09-11T13:00:14Z",
+    "url": "https://www.polygon.com/ace-combat-8-wings-of-theve-cloud-interview/",
+    "timestamp": "2026-09-12T13:00:15Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/blade-runner-2099-showrunner-interview-preview/"
+      "https://www.polygon.com/ace-combat-8-wings-of-theve-cloud-interview/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-11T13:00:14Z",
-    "id": "energy-b775e50d7991787c"
+    "data_as_of": "2026-09-12T13:00:15Z",
+    "id": "energy-602e11650084dd6a"
   },
   {
-    "title": "Amplimood releases Gazer FX, a FREE shoegaze multi-effect plugin",
-    "summary": "Amplimood has launched with Gazer FX, its first release and a free multi-effect plugin for macOS and Windows. I love using simple multi-effects that let you get some interesting combos quickly without building a long chain. This one definitely fits my workflow; it’s very easy to use and is surprisingly good on synths. Gazer FX [...] View post: Amplimood releases Gazer FX, a FREE shoegaze multi-effect plugin",
+    "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://liniora.com/",
+    "timestamp": "2026-09-12T12:15:12Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://liniora.com/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-12T12:15:12Z",
+    "id": "energy-9bd71601de9fe498"
+  },
+  {
+    "title": "Mario Fans Have A New Platforming Hero To Watch This Fall",
+    "summary": "Croak is a new platformer on Steam and you can play the demo now before the fall release.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/croak-video-game-2026-preview/",
+    "timestamp": "2026-09-12T12:00:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/croak-video-game-2026-preview/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-12T12:00:19Z",
+    "id": "energy-8ce4af23a516ae5e"
+  },
+  {
+    "title": "Fuck it, make it anyway",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "timestamp": "2026-09-12T11:42:32Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-12T11:42:32Z",
+    "id": "energy-2788a14abb2c4aa8"
+  },
+  {
+    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+    "timestamp": "2026-09-12T11:37:22Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-12T11:37:22Z",
+    "id": "energy-942216e0722c6ecd"
+  },
+  {
+    "title": "GIVEAWAY: Win Golden DSP Silkbrush Reverb (5 copies)",
+    "summary": "Golden DSP is giving five BPB readers a free copy of Silkbrush Reverb, a $59 ducking reverb plugin for macOS and Windows. To enter the giveaway, answer the question at the end of the article in the comments section. We will randomly select five comments and announce the winners on this page on September 25th. [...] View post: GIVEAWAY: Win Golden DSP Silkbrush Reverb (5 copies)",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/",
-    "timestamp": "2026-09-11T11:18:54Z",
+    "url": "https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/",
+    "timestamp": "2026-09-12T10:06:46Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/"
+      "https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-11T11:18:54Z",
-    "id": "energy-baccb0eb1b77f542"
+    "data_as_of": "2026-09-12T10:06:46Z",
+    "id": "energy-c0c7775e6e5996a1"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time is Actually A Horror Game",
+    "summary": "Nintendo's N64 version of The Legend of Zelda: Ocarina of Time is full of terrifying visuals. The Switch 2 remake might not be as cute as it looks.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/zelda-ocarina-of-time-horror-game/",
+    "timestamp": "2026-09-12T10:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/zelda-ocarina-of-time-horror-game/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-12T10:00:14Z",
+    "id": "energy-3cff7e9764d831fa"
+  },
+  {
+    "title": "Wave Mastering launches WIDENER stereo enhancement plugin for $29.99",
+    "summary": "Wave Mastering LTD has released WIDENER, a stereo enhancement plugin for macOS and Windows, with a $29.99 introductory price through September 30th. WIDENER is the first plugin from Andy De Rosa, a UK-based mixing and mastering engineer who has worked on thousands of tracks and specializes in rock, blues, country, and related genres. It is [...] View post: Wave Mastering launches WIDENER stereo enhancement plugin for $29.99",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/",
+    "timestamp": "2026-09-12T09:52:24Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-12T09:52:24Z",
+    "id": "energy-661b0276bdd9a825"
+  },
+  {
+    "title": "13X Audio releases Aurora, a FREE 24-band dynamic EQ plugin",
+    "summary": "13X Audio has released Aurora, a free 24-band dynamic parametric equalizer plugin for macOS, Windows, and Linux. This is probably the fifth or sixth similar EQ plugin I’ve seen over the past year or so. Vibe coding is definitely making dynamic EQ plugins trivial to build right now, or at least trivial enough that we’re [...] View post: 13X Audio releases Aurora, a FREE 24-band dynamic EQ plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/",
+    "timestamp": "2026-09-12T09:45:23Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-12T09:45:23Z",
+    "id": "energy-d4ba8e007f7bc623"
+  },
+  {
+    "title": "Opinions on 1v1 and 2v2 when it comes to player legacies",
+    "summary": "Usually when we see people talk about how great a player is in all-time discussions, the focus is almost always strictly on 3’s. Now that we’ll have both the inaugural 2v2 champions and the second ever 1v1 champion next weekend, should these trophies start counting towards player legacies considering all 3 of the main modes are being represented? imo the answer is yes, even though the circuits are still young and with only one regional, winning LANs in multiple game modes is so much more impressive than just winning in 3v3, but I’d like to hear others’ opinions on it submitted by /u/Kozuki_D_Oden [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1we360p/opinions_on_1v1_and_2v2_when_it_comes_to_player/",
+    "timestamp": "2026-09-12T04:57:55Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1we360p/opinions_on_1v1_and_2v2_when_it_comes_to_player/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-12T04:57:55Z",
+    "id": "energy-db88b6f2fb0cf9fc"
+  },
+  {
+    "title": "Who are the players with the biggest difference in level between 2s and 3s? All-time",
+    "summary": "You get what you expect from most players across both gamemodes, but every now and then, someone is clearly levels ahead in 3s compared to 2s, or vice versa. A recent case that stood out to me is Kiileerrz. He's undeniably world class in 3s, but whenever I see him playing 2s without Rw9, it just doesn't hit the same way. submitted by /u/Huge-Computer2037 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdzk2j/who_are_the_players_with_the_biggest_difference/",
+    "timestamp": "2026-09-12T01:58:20Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdzk2j/who_are_the_players_with_the_biggest_difference/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-12T01:58:20Z",
+    "id": "energy-8120eb7cfe1af43a"
+  },
+  {
+    "title": "The Most Viral Roblox Games Are About To Break Containment",
+    "summary": "Creators will soon be able to upload their games as standalone apps",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606",
+    "timestamp": "2026-09-11T22:30:59Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-11T22:30:59Z",
+    "id": "energy-8db039957f2d7345"
+  },
+  {
+    "title": "Is this the season with the most games ever played by pros? I feel like these numebrs are higher than usual",
+    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdu1mg/is_this_the_season_with_the_most_games_ever/",
+    "timestamp": "2026-09-11T21:55:11Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdu1mg/is_this_the_season_with_the_most_games_ever/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-11T21:55:11Z",
+    "id": "energy-39fe27c7384d86e7"
+  },
+  {
+    "title": "Steam’s Latest Super Hit Is A Massive 100-Player Warzone Simulator Fueled By Cash That Has Me Hooked",
+    "summary": "Wardogs is a slower, bigger and in many ways better Battlefield-like military shooter that won't appeal to everyone",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fueled-by-cash-that-has-me-hooked-2000733568",
+    "timestamp": "2026-09-11T21:54:49Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fueled-by-cash-that-has-me-hooked-2000733568"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-11T21:54:49Z",
+    "id": "energy-4046c4952da6d174"
   },
   {
     "title": "Building a big, abundant, clean grid",
@@ -160,105 +295,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-11T10:04:30Z",
     "id": "energy-5f2f8d3a46b207d2"
-  },
-  {
-    "title": "NRG Results prior to Worlds in 2025 and 2026",
-    "summary": "submitted by /u/mrabu3abd12 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdbw41/nrg_results_prior_to_worlds_in_2025_and_2026/",
-    "timestamp": "2026-09-11T10:02:06Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdbw41/nrg_results_prior_to_worlds_in_2025_and_2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-11T10:02:06Z",
-    "id": "energy-e719098115a00c39"
-  },
-  {
-    "title": "Luftrum releases the Symbiotic Volume 2 preset collection for Omnisphere 3",
-    "summary": "From Luftrum comes the Symbiotic Volume 2 preset collection for Omnisphere 3. Symbiotic is a new collaborative series from Danish sound designer Luftrum (Søren). The series offers custom Omnisphere 3 presets crafted by Luftrum and guest artists (Omnisphere 3 required). Luftrum recently released Symbiotic Volume 1, a collaboration with Swedish artist Plughugger. Symbiotic Volume 2 [...] View post: Luftrum releases the Symbiotic Volume 2 preset collection for Omnisphere 3",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/11/luftrum-releases-the-symbiotic-volume-2-preset-collection-for-omnisphere-3/",
-    "timestamp": "2026-09-11T08:38:48Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/11/luftrum-releases-the-symbiotic-volume-2-preset-collection-for-omnisphere-3/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T08:38:48Z",
-    "id": "energy-ec906d3684345775"
-  },
-  {
-    "title": "Nass Vs Nwpo for 1v1 Worlds",
-    "summary": "Nass is unbeaten in show matches(if you count road to worlds as a series of matches) whereas nWpo is unbeaten in tourney matches.(15-0 I think) their H2H this year has been nWpo 3-1 Nass (feer frenzy) nWpo 4-3 Nass '' nWpo 0 -4 Nass (showmatch) nwpo has shown a weaker showmatch record compared to his tourney record where as nass has done the opposite Who do you have as a favourite for worlds 1v1? submitted by /u/eNot_O [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wd93zb/nass_vs_nwpo_for_1v1_worlds/",
-    "timestamp": "2026-09-11T07:19:06Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wd93zb/nass_vs_nwpo_for_1v1_worlds/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-11T07:19:06Z",
-    "id": "energy-2161d161b6abd6ea"
-  },
-  {
-    "title": "Miami Beach Has The Most Ridiculous Debate About GTA 6: ‘We’re Not Giving Away Pistols And Cocaine To People’",
-    "summary": "Local commissioners voted 4-3 to approve negotiating a marketing campaign after some bizarre grandstanding",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/miami-beach-debates-taking-millions-from-rockstar-to-advertise-gta-6-were-not-giving-away-pistols-and-cocaine-to-people-2000733378",
-    "timestamp": "2026-09-11T04:55:07Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/miami-beach-debates-taking-millions-from-rockstar-to-advertise-gta-6-were-not-giving-away-pistols-and-cocaine-to-people-2000733378"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T04:55:07Z",
-    "id": "energy-2780b021009bd8ff"
-  },
-  {
-    "title": "Joreuz and Oaly screen peeking like it’s 2005",
-    "summary": "From Evoh’s stream submitted by /u/TheFlamingLemon [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wd6hhq/joreuz_and_oaly_screen_peeking_like_its_2005/",
-    "timestamp": "2026-09-11T04:54:14Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wd6hhq/joreuz_and_oaly_screen_peeking_like_its_2005/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-11T04:54:14Z",
-    "id": "energy-2f8738802e2f7b7b"
   },
   {
     "title": "Zonoids whose polars are zonoids: the Banach--Mazur distance need not tend to one",
@@ -313,24 +349,6 @@
     "primary_source": true,
     "data_as_of": "2026-09-11T04:00:00Z",
     "id": "energy-fc4c8ee5c316dfa2"
-  },
-  {
-    "title": "Marvel’s Wolverine Has Already Been Consumed By A Debate About ‘Fart Gas’ And It’s Not Even Out Yet",
-    "summary": "The PS5 blockbuster has been criticized for being too inrails and afraid to trust players",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/marvels-wolverine-has-already-been-consumed-by-a-debate-about-fart-gas-and-its-not-even-out-yet-2000733361",
-    "timestamp": "2026-09-11T03:40:40Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/marvels-wolverine-has-already-been-consumed-by-a-debate-about-fart-gas-and-its-not-even-out-yet-2000733361"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T03:40:40Z",
-    "id": "energy-a156cafcaaa89970"
   },
   {
     "title": "Google, Xcel, Others Back MISO’s ‘Zero Injection’ Large-Load Proposal",
@@ -394,41 +412,5 @@
     ],
     "data_as_of": "2026-09-10T14:51:38Z",
     "id": "energy-34bccf0bb1e1aedc"
-  },
-  {
-    "title": "Get The $129 JST Gemini Twin Synthesizer FREE For A Limited Time",
-    "summary": "Joey Sturgis Tones is giving away Gemini Twin, a dual-mode virtual synthesizer for macOS and Windows, for a limited time. Gemini Twin normally costs $129, and JST has not announced an end date for the giveaway, so I wouldn’t leave this one sitting in an open browser tab for too long. Gemini Twin was created [...] View post: Get The $129 JST Gemini Twin Synthesizer FREE For A Limited Time",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/10/jst-gemini-twin-free/",
-    "timestamp": "2026-09-10T13:51:55Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/10/jst-gemini-twin-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-10T13:51:55Z",
-    "id": "energy-1ec1bf185abecc76"
-  },
-  {
-    "title": "Is there way more conventional geothermal than we thought?",
-    "summary": "A conversation with Carl Hoiland & Joel Edwards of Zanskar.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/is-there-way-more-conventional-geothermal",
-    "timestamp": "2026-09-09T10:09:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/is-there-way-more-conventional-geothermal"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-09-09T10:09:46Z",
-    "id": "energy-649f7d624c15c565"
   }
 ]
