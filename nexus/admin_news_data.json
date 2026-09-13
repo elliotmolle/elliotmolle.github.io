@@ -1,111 +1,228 @@
 [
   {
-    "title": "YouTuber Gets Tackled On Stage At Roblox Conference Wearing T-Shirt That Says ‘Kids Deserve Better’",
-    "summary": "Emathiio was escorted out of the event after the stunt",
+    "title": "We Need More Games Like Echo Weaver",
+    "summary": "Echo Weaver fuses a variety of genres to provide a unique platforming experience with time loops.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/echo-weaver-preview-interview/",
+    "timestamp": "2026-09-13T14:00:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/echo-weaver-preview-interview/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-13T14:00:14Z",
+    "id": "energy-5ebcedcea7ffc29f"
+  },
+  {
+    "title": "Your car is selling your data",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "timestamp": "2026-09-13T13:45:08Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-13T13:45:08Z",
+    "id": "energy-577fb2390618d0e7"
+  },
+  {
+    "title": "Blizzard Explains Why It’s Revealing Diablo 5 And A New StarCraft So Early",
+    "summary": "The storied studio is embarking on its next chapter under the shadow of mass layoffs",
     "source": "Kotaku",
-    "url": "https://kotaku.com/youtuber-gets-tackled-on-stage-at-roblox-conference-wearing-t-shirt-that-says-kids-deserve-better-2000733753",
-    "timestamp": "2026-09-12T13:20:14Z",
+    "url": "https://kotaku.com/blizzard-explains-why-its-revealing-diablo-5-and-a-new-starcraft-so-early-2000733970",
+    "timestamp": "2026-09-13T13:36:28Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/youtuber-gets-tackled-on-stage-at-roblox-conference-wearing-t-shirt-that-says-kids-deserve-better-2000733753"
+      "https://kotaku.com/blizzard-explains-why-its-revealing-diablo-5-and-a-new-starcraft-so-early-2000733970"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-12T13:20:14Z",
-    "id": "energy-7bbf5af309bf0d1f"
+    "data_as_of": "2026-09-13T13:36:28Z",
+    "id": "energy-2cfd31d550240c37"
   },
   {
-    "title": "Ace Combat 8’s Developers Are on a Mission To Create the Perfect Clouds",
-    "summary": "The brains behind Ace Combat 8: Wings of Theve explain how the team created more realistic clouds through a new tech innovation.",
+    "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+    "timestamp": "2026-09-13T13:24:28Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-13T13:24:28Z",
+    "id": "energy-b8f36148014ef839"
+  },
+  {
+    "title": "Whew, That Was A Close One",
+    "summary": "Just a few more inches and the whole planet would have been titan flakes!",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/whew-that-was-a-close-one-2000733875",
+    "timestamp": "2026-09-13T13:15:48Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/whew-that-was-a-close-one-2000733875"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-13T13:15:48Z",
+    "id": "energy-cd853d1ef0bf9c29"
+  },
+  {
+    "title": "Marvel's Wolverine Set To End Sony's Historic 11-Year GOTY Run",
+    "summary": "Marvel's Wolverine on PS5 looks unlikely to nab a GOTY nomination at the 2026 Game Awards, the first time for a PlayStation exclusive since 2014.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/ace-combat-8-wings-of-theve-cloud-interview/",
-    "timestamp": "2026-09-12T13:00:15Z",
+    "url": "https://www.polygon.com/marvels-wolverine-sony-goty-run/",
+    "timestamp": "2026-09-13T13:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/ace-combat-8-wings-of-theve-cloud-interview/"
+      "https://www.polygon.com/marvels-wolverine-sony-goty-run/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-12T13:00:15Z",
-    "id": "energy-602e11650084dd6a"
+    "data_as_of": "2026-09-13T13:00:14Z",
+    "id": "energy-01c848ac89126277"
   },
   {
-    "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
+    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://liniora.com/",
-    "timestamp": "2026-09-12T12:15:12Z",
+    "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+    "timestamp": "2026-09-13T12:01:52Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://liniora.com/"
+      "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-12T12:15:12Z",
-    "id": "energy-9bd71601de9fe498"
+    "data_as_of": "2026-09-13T12:01:52Z",
+    "id": "energy-5fd1fff817506af3"
   },
   {
-    "title": "Mario Fans Have A New Platforming Hero To Watch This Fall",
-    "summary": "Croak is a new platformer on Steam and you can play the demo now before the fall release.",
+    "title": "Vivienne Medrano reveals her plan for Helluva Boss / Hazbin Hotel crossovers",
+    "summary": "Vivziepop says Helluva Boss season 3 will feature at least one Hazbin Hotel Easter egg. The new season launches Oct. 14, with part one of two.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/croak-video-game-2026-preview/",
-    "timestamp": "2026-09-12T12:00:19Z",
+    "url": "https://www.polygon.com/vivziepop-interview-helluva-boss-hazbin-hotel-crossover/",
+    "timestamp": "2026-09-13T12:00:14Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/croak-video-game-2026-preview/"
+      "https://www.polygon.com/vivziepop-interview-helluva-boss-hazbin-hotel-crossover/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-12T12:00:19Z",
-    "id": "energy-8ce4af23a516ae5e"
+    "data_as_of": "2026-09-13T12:00:14Z",
+    "id": "energy-64a61031c55ffac7"
   },
   {
-    "title": "Fuck it, make it anyway",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "timestamp": "2026-09-12T11:42:32Z",
-    "topic": "Computer Science",
+    "title": "Zen is 14 MMR away from 3000",
+    "summary": "Also TRK is now second with Nass dropping to third submitted by /u/EfficientPart8292 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wf1cf8/zen_is_14_mmr_away_from_3000/",
+    "timestamp": "2026-09-13T07:48:37Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wf1cf8/zen_is_14_mmr_away_from_3000/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-12T11:42:32Z",
-    "id": "energy-2788a14abb2c4aa8"
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-13T07:48:37Z",
+    "id": "energy-2aa78eaf3655557c"
   },
   {
-    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
-    "timestamp": "2026-09-12T11:37:22Z",
-    "topic": "Computer Science",
+    "title": "If you're going to Fort Worth alone...",
+    "summary": "If you're going to Fort Worth RLCS alone this weekend, feel free to hit me up. No one should have to cheer alone for their favorite team. DM me. And maybe there will be a few people here and you can use this to link up with each other. submitted by /u/rockyourteeth [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1weubv1/if_youre_going_to_fort_worth_alone/",
+    "timestamp": "2026-09-13T01:35:39Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1weubv1/if_youre_going_to_fort_worth_alone/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-12T11:37:22Z",
-    "id": "energy-942216e0722c6ecd"
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-13T01:35:39Z",
+    "id": "energy-24e5cec9b1f48ce0"
+  },
+  {
+    "title": "World Of Warcraft Is About To Remix Its Most Beloved Expansion",
+    "summary": "A cold, cold summer",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867",
+    "timestamp": "2026-09-13T01:05:43Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-13T01:05:43Z",
+    "id": "energy-3a335d66c6a64cd4"
+  },
+  {
+    "title": "All First Touch Awards 2026 winners",
+    "summary": "submitted by /u/N0b0dy_her3 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wesd1o/all_first_touch_awards_2026_winners/",
+    "timestamp": "2026-09-13T00:03:00Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wesd1o/all_first_touch_awards_2026_winners/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-13T00:03:00Z",
+    "id": "energy-1e444508b48c21b9"
   },
   {
     "title": "GIVEAWAY: Win Golden DSP Silkbrush Reverb (5 copies)",
@@ -124,24 +241,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-12T10:06:46Z",
     "id": "energy-c0c7775e6e5996a1"
-  },
-  {
-    "title": "The Legend of Zelda: Ocarina of Time is Actually A Horror Game",
-    "summary": "Nintendo's N64 version of The Legend of Zelda: Ocarina of Time is full of terrifying visuals. The Switch 2 remake might not be as cute as it looks.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/zelda-ocarina-of-time-horror-game/",
-    "timestamp": "2026-09-12T10:00:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/zelda-ocarina-of-time-horror-game/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-12T10:00:14Z",
-    "id": "energy-3cff7e9764d831fa"
   },
   {
     "title": "Wave Mastering launches WIDENER stereo enhancement plugin for $29.99",
@@ -178,105 +277,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-12T09:45:23Z",
     "id": "energy-d4ba8e007f7bc623"
-  },
-  {
-    "title": "Opinions on 1v1 and 2v2 when it comes to player legacies",
-    "summary": "Usually when we see people talk about how great a player is in all-time discussions, the focus is almost always strictly on 3’s. Now that we’ll have both the inaugural 2v2 champions and the second ever 1v1 champion next weekend, should these trophies start counting towards player legacies considering all 3 of the main modes are being represented? imo the answer is yes, even though the circuits are still young and with only one regional, winning LANs in multiple game modes is so much more impressive than just winning in 3v3, but I’d like to hear others’ opinions on it submitted by /u/Kozuki_D_Oden [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1we360p/opinions_on_1v1_and_2v2_when_it_comes_to_player/",
-    "timestamp": "2026-09-12T04:57:55Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1we360p/opinions_on_1v1_and_2v2_when_it_comes_to_player/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-12T04:57:55Z",
-    "id": "energy-db88b6f2fb0cf9fc"
-  },
-  {
-    "title": "Who are the players with the biggest difference in level between 2s and 3s? All-time",
-    "summary": "You get what you expect from most players across both gamemodes, but every now and then, someone is clearly levels ahead in 3s compared to 2s, or vice versa. A recent case that stood out to me is Kiileerrz. He's undeniably world class in 3s, but whenever I see him playing 2s without Rw9, it just doesn't hit the same way. submitted by /u/Huge-Computer2037 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdzk2j/who_are_the_players_with_the_biggest_difference/",
-    "timestamp": "2026-09-12T01:58:20Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdzk2j/who_are_the_players_with_the_biggest_difference/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-12T01:58:20Z",
-    "id": "energy-8120eb7cfe1af43a"
-  },
-  {
-    "title": "The Most Viral Roblox Games Are About To Break Containment",
-    "summary": "Creators will soon be able to upload their games as standalone apps",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606",
-    "timestamp": "2026-09-11T22:30:59Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T22:30:59Z",
-    "id": "energy-8db039957f2d7345"
-  },
-  {
-    "title": "Is this the season with the most games ever played by pros? I feel like these numebrs are higher than usual",
-    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdu1mg/is_this_the_season_with_the_most_games_ever/",
-    "timestamp": "2026-09-11T21:55:11Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wdu1mg/is_this_the_season_with_the_most_games_ever/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-11T21:55:11Z",
-    "id": "energy-39fe27c7384d86e7"
-  },
-  {
-    "title": "Steam’s Latest Super Hit Is A Massive 100-Player Warzone Simulator Fueled By Cash That Has Me Hooked",
-    "summary": "Wardogs is a slower, bigger and in many ways better Battlefield-like military shooter that won't appeal to everyone",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fueled-by-cash-that-has-me-hooked-2000733568",
-    "timestamp": "2026-09-11T21:54:49Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fueled-by-cash-that-has-me-hooked-2000733568"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T21:54:49Z",
-    "id": "energy-4046c4952da6d174"
   },
   {
     "title": "Building a big, abundant, clean grid",
