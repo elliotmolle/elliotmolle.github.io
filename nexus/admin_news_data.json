@@ -1,416 +1,398 @@
 [
   {
-    "title": "We Need More Games Like Echo Weaver",
-    "summary": "Echo Weaver fuses a variety of genres to provide a unique platforming experience with time loops.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/echo-weaver-preview-interview/",
-    "timestamp": "2026-09-13T14:00:14Z",
+    "title": "World Of Warcraft Pizza Is A Perfect Reminder Of What Makes BlizzCon Special",
+    "summary": "Put down a feast",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/night-elf-pizza-orc-pizza-blizzcon-2026-kotaku-review-2000734044",
+    "timestamp": "2026-09-14T16:00:35Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/echo-weaver-preview-interview/"
+      "https://kotaku.com/night-elf-pizza-orc-pizza-blizzcon-2026-kotaku-review-2000734044"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-13T14:00:14Z",
-    "id": "energy-5ebcedcea7ffc29f"
+    "data_as_of": "2026-09-14T16:00:35Z",
+    "id": "energy-3e3613b373abeb9b"
   },
   {
-    "title": "Your car is selling your data",
+    "title": "The World's Coolest New Indie Gaming Showcase Officially Returns Next Month",
+    "summary": "After a successful spring outing, Evil Empire's Triple-i Initiative Showcase will return this fall, promising 'No ads, no host, just games.'",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/triple-i-initiative-showcase-oct-8/",
+    "timestamp": "2026-09-14T16:00:16Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/triple-i-initiative-showcase-oct-8/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-14T16:00:16Z",
+    "id": "energy-1b675af7617ad302"
+  },
+  {
+    "title": "Costco Is Quietly Getting The Best Pokémon Trading Card Deal of 2026",
+    "summary": "The membership-only retailer receives Ascended Heroes ETBs on the same week that 30th anniversary TCG products release, and for cheaper than expected",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/pokemon-tcg-ascended-heroes-etb-costco-price-restock-locations-when/",
+    "timestamp": "2026-09-14T15:48:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/pokemon-tcg-ascended-heroes-etb-costco-price-restock-locations-when/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-14T15:48:19Z",
+    "id": "energy-d57616da52c57763"
+  },
+  {
+    "title": "Zack Snyder’s Lifelong Passion Project Gets Terrible Reviews",
+    "summary": "Zack Snyder's new film, 'The Last Photograph,' just premiered at TIFF and it's getting horrible first reviews.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/zack-snyder-last-photograph-reviews-rotten-tomatoes/",
+    "timestamp": "2026-09-14T15:36:38Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/zack-snyder-last-photograph-reviews-rotten-tomatoes/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-14T15:36:38Z",
+    "id": "energy-d2ba472bbef06f5d"
+  },
+  {
+    "title": "Tom Holland Is Now The Highest-Grossing Actor Of All Time As Spider-Man: Brand New Day Crosses $2.4 Billion Mark",
+    "summary": "Thanks to a strong box-office weekend for both Spider-Man: Brand New Day and The Odyssey, Holland has overtaken Zoe Saldaña as the highest grossing lead actor in history",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/tom-holland-highest-grossing-actor-mcu-box-office-spider-man-odyssey-zoe-saldana-robert-downey-jr-harrison-ford-2000734000",
+    "timestamp": "2026-09-14T15:30:45Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/tom-holland-highest-grossing-actor-mcu-box-office-spider-man-odyssey-zoe-saldana-robert-downey-jr-harrison-ford-2000734000"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-14T15:30:45Z",
+    "id": "energy-8e218bab84b018e3"
+  },
+  {
+    "title": "Principles for Fast Tokio Applications",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-    "timestamp": "2026-09-13T13:45:08Z",
+    "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+    "timestamp": "2026-09-14T15:27:56Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
+      "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-13T13:45:08Z",
-    "id": "energy-577fb2390618d0e7"
+    "data_as_of": "2026-09-14T15:27:56Z",
+    "id": "energy-19330dda5e49cb4c"
   },
   {
-    "title": "Blizzard Explains Why It’s Revealing Diablo 5 And A New StarCraft So Early",
-    "summary": "The storied studio is embarking on its next chapter under the shadow of mass layoffs",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/blizzard-explains-why-its-revealing-diablo-5-and-a-new-starcraft-so-early-2000733970",
-    "timestamp": "2026-09-13T13:36:28Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/blizzard-explains-why-its-revealing-diablo-5-and-a-new-starcraft-so-early-2000733970"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-13T13:36:28Z",
-    "id": "energy-2cfd31d550240c37"
-  },
-  {
-    "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+    "title": "Foundation Model Engineering: From Theory to Production",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-    "timestamp": "2026-09-13T13:24:28Z",
+    "url": "https://sungeuns.github.io/foundation-model-engineering/",
+    "timestamp": "2026-09-14T15:27:48Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg"
+      "https://sungeuns.github.io/foundation-model-engineering/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-13T13:24:28Z",
-    "id": "energy-b8f36148014ef839"
+    "data_as_of": "2026-09-14T15:27:48Z",
+    "id": "energy-b5a5749fe6d27b16"
   },
   {
-    "title": "Whew, That Was A Close One",
-    "summary": "Just a few more inches and the whole planet would have been titan flakes!",
+    "title": "Ikumi Nakamura Breaks Fans’ Hearts By Asking Elon Musk To Play Her Demon-Hunting Action Game",
+    "summary": "Her studio's hosting a closed testing event for Kemuri at Tokyo Game Show and she wants the Nazi to try it out I guess",
     "source": "Kotaku",
-    "url": "https://kotaku.com/whew-that-was-a-close-one-2000733875",
-    "timestamp": "2026-09-13T13:15:48Z",
+    "url": "https://kotaku.com/ikumi-nakamura-elon-musk-kemuri-unseen-tokyo-game-show-2000734245",
+    "timestamp": "2026-09-14T15:00:05Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/whew-that-was-a-close-one-2000733875"
+      "https://kotaku.com/ikumi-nakamura-elon-musk-kemuri-unseen-tokyo-game-show-2000734245"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-13T13:15:48Z",
-    "id": "energy-cd853d1ef0bf9c29"
+    "data_as_of": "2026-09-14T15:00:05Z",
+    "id": "energy-0319be3802b00bc6"
   },
   {
-    "title": "Marvel's Wolverine Set To End Sony's Historic 11-Year GOTY Run",
-    "summary": "Marvel's Wolverine on PS5 looks unlikely to nab a GOTY nomination at the 2026 Game Awards, the first time for a PlayStation exclusive since 2014.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/marvels-wolverine-sony-goty-run/",
-    "timestamp": "2026-09-13T13:00:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/marvels-wolverine-sony-goty-run/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-13T13:00:14Z",
-    "id": "energy-01c848ac89126277"
-  },
-  {
-    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-    "timestamp": "2026-09-13T12:01:52Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-13T12:01:52Z",
-    "id": "energy-5fd1fff817506af3"
-  },
-  {
-    "title": "Vivienne Medrano reveals her plan for Helluva Boss / Hazbin Hotel crossovers",
-    "summary": "Vivziepop says Helluva Boss season 3 will feature at least one Hazbin Hotel Easter egg. The new season launches Oct. 14, with part one of two.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/vivziepop-interview-helluva-boss-hazbin-hotel-crossover/",
-    "timestamp": "2026-09-13T12:00:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/vivziepop-interview-helluva-boss-hazbin-hotel-crossover/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-13T12:00:14Z",
-    "id": "energy-64a61031c55ffac7"
-  },
-  {
-    "title": "Zen is 14 MMR away from 3000",
-    "summary": "Also TRK is now second with Nass dropping to third submitted by /u/EfficientPart8292 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wf1cf8/zen_is_14_mmr_away_from_3000/",
-    "timestamp": "2026-09-13T07:48:37Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wf1cf8/zen_is_14_mmr_away_from_3000/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-13T07:48:37Z",
-    "id": "energy-2aa78eaf3655557c"
-  },
-  {
-    "title": "If you're going to Fort Worth alone...",
-    "summary": "If you're going to Fort Worth RLCS alone this weekend, feel free to hit me up. No one should have to cheer alone for their favorite team. DM me. And maybe there will be a few people here and you can use this to link up with each other. submitted by /u/rockyourteeth [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1weubv1/if_youre_going_to_fort_worth_alone/",
-    "timestamp": "2026-09-13T01:35:39Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1weubv1/if_youre_going_to_fort_worth_alone/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-13T01:35:39Z",
-    "id": "energy-24e5cec9b1f48ce0"
-  },
-  {
-    "title": "World Of Warcraft Is About To Remix Its Most Beloved Expansion",
-    "summary": "A cold, cold summer",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867",
-    "timestamp": "2026-09-13T01:05:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-13T01:05:43Z",
-    "id": "energy-3a335d66c6a64cd4"
-  },
-  {
-    "title": "All First Touch Awards 2026 winners",
-    "summary": "submitted by /u/N0b0dy_her3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wesd1o/all_first_touch_awards_2026_winners/",
-    "timestamp": "2026-09-13T00:03:00Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wesd1o/all_first_touch_awards_2026_winners/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-13T00:03:00Z",
-    "id": "energy-1e444508b48c21b9"
-  },
-  {
-    "title": "GIVEAWAY: Win Golden DSP Silkbrush Reverb (5 copies)",
-    "summary": "Golden DSP is giving five BPB readers a free copy of Silkbrush Reverb, a $59 ducking reverb plugin for macOS and Windows. To enter the giveaway, answer the question at the end of the article in the comments section. We will randomly select five comments and announce the winners on this page on September 25th. [...] View post: GIVEAWAY: Win Golden DSP Silkbrush Reverb (5 copies)",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/",
-    "timestamp": "2026-09-12T10:06:46Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-12T10:06:46Z",
-    "id": "energy-c0c7775e6e5996a1"
-  },
-  {
-    "title": "Wave Mastering launches WIDENER stereo enhancement plugin for $29.99",
-    "summary": "Wave Mastering LTD has released WIDENER, a stereo enhancement plugin for macOS and Windows, with a $29.99 introductory price through September 30th. WIDENER is the first plugin from Andy De Rosa, a UK-based mixing and mastering engineer who has worked on thousands of tracks and specializes in rock, blues, country, and related genres. It is [...] View post: Wave Mastering launches WIDENER stereo enhancement plugin for $29.99",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/",
-    "timestamp": "2026-09-12T09:52:24Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-12T09:52:24Z",
-    "id": "energy-661b0276bdd9a825"
-  },
-  {
-    "title": "13X Audio releases Aurora, a FREE 24-band dynamic EQ plugin",
-    "summary": "13X Audio has released Aurora, a free 24-band dynamic parametric equalizer plugin for macOS, Windows, and Linux. This is probably the fifth or sixth similar EQ plugin I’ve seen over the past year or so. Vibe coding is definitely making dynamic EQ plugins trivial to build right now, or at least trivial enough that we’re [...] View post: 13X Audio releases Aurora, a FREE 24-band dynamic EQ plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/",
-    "timestamp": "2026-09-12T09:45:23Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-12T09:45:23Z",
-    "id": "energy-d4ba8e007f7bc623"
-  },
-  {
-    "title": "Building a big, abundant, clean grid",
-    "summary": "A conversation with Jane Flegal.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/building-a-big-abundant-clean-grid",
-    "timestamp": "2026-09-11T10:04:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/building-a-big-abundant-clean-grid"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-09-11T10:04:30Z",
-    "id": "energy-5f2f8d3a46b207d2"
-  },
-  {
-    "title": "Zonoids whose polars are zonoids: the Banach--Mazur distance need not tend to one",
-    "summary": "arXiv:2609.10852v1 Announce Type: new Abstract: For every $n\\geq2$, we consider a Gaussian zonoid of revolution $Z_n$ arising from works of Vitale and Mathis. We prove that $Z_n^*$ is also a zonoid and compute the Banach--Mazur distance from $Z_n$ to the Euclidean ball. This distance is independent of the dimension and is approximately $1.10$. Consequently, the supremal Banach--Mazur distance among zonoids whose polars are zonoids does not converge to $1$. The construction also produces a separable real Banach space $X$, not isometric to a Hilbert space, such that both $X$ and $X^*$ embed linearly isometrically into $L_1$.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.10852",
-    "timestamp": "2026-09-11T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.10852"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-11T04:00:00Z",
-    "id": "energy-77228fcdee9ffde7"
-  },
-  {
-    "title": "Yoshida algebra for groupoids",
-    "summary": "arXiv:2605.09563v2 Announce Type: replace Abstract: In this paper, we extend the notion of the Yoshida algebra of a finite group introduced in \\cite{Yos83} to finite groupoids and investigate its fundamental properties. Our main results show that the center of the Yoshida algebra of a finite groupoid is isomorphic to the center of the corresponding groupoid algebra, and that there exists a surjective ring homomorphism from the crossed Burnside ring of a finite groupoid, introduced in \\cite{Shi26+}, onto the center of the Yoshida algebra of a finite groupoid.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2605.09563",
-    "timestamp": "2026-09-11T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2605.09563"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-11T04:00:00Z",
-    "id": "energy-1ed50bec6f95313d"
-  },
-  {
-    "title": "Why we should condition denoising diffusion generative models on windows of past observations",
-    "summary": "arXiv:2609.10924v1 Announce Type: new Abstract: Data assimilation (DA) is, traditionally, a cycling process that relies on time-dependent priors to propagate information from past observations to future cycles. Using denoising diffusion generative modeling for DA is challenging because standard approaches use a fixed training data set, which in turn leads to a static prior that ignores information from past observations. Because past observations are ignored, DA systems with static priors lead to larger posterior errors than cycling DA systems. Incorporating time-dependent priors into generative models, however, requires expensive and frequent retraining. Motivated by linear systems theory - where the dependence of a prediction of a Kalman filter on past observations decays exponentially - we condition diffusion models on short windows of past observations. Specifically, we describe training procedures for two frameworks: a diffusion DA system predicting the current state given a set of past observations, and a diffusion ``direct observation prediction'' (DOP) system, predicting future observations given a set of past observations. Using a canonical linear system, we show that bot…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.10924",
-    "timestamp": "2026-09-11T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.10924"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-11T04:00:00Z",
-    "id": "energy-fc4c8ee5c316dfa2"
-  },
-  {
-    "title": "Google, Xcel, Others Back MISO’s ‘Zero Injection’ Large-Load Proposal",
-    "summary": "By Ethan Howland Dive Brief: • Google, Xcel Energy and other utilities, and clean energy trade groups support the Midcontinent Independent System Operator’s proposal to create a framework for interconnecting generation that will serve large loads at the same substation and at the same voltage level, according to filings at the Federal Energy Regulatory Commission. […]",
+    "title": "MISO Stakeholders Demand Better Cost Allocation For Transmission Spurred By Large Loads",
+    "summary": "By Amanda Durish Cook Stakeholders told MISO that cost-shifting among transmission customers to bring large loads online seems to already be taking place in the form of expensive reliability-based transmission projects that wouldn’t be necessary but for data centers and their ilk. The Bottom Line MISO stakeholders said the cost-shifting risk among transmission customers for […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/google-xcel-others-back-misos-zero-injection-large-load-proposal/",
-    "timestamp": "2026-09-10T14:52:19Z",
+    "url": "https://misoxenwatch.com/2026/09/miso-stakeholders-demand-better-cost-allocation-for-transmission-spurred-by-large-loads/",
+    "timestamp": "2026-09-14T14:47:01Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/09/google-xcel-others-back-misos-zero-injection-large-load-proposal/"
+      "https://misoxenwatch.com/2026/09/miso-stakeholders-demand-better-cost-allocation-for-transmission-spurred-by-large-loads/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-09-10T14:52:19Z",
-    "id": "energy-9d20effa6edd4569"
+    "data_as_of": "2026-09-14T14:47:01Z",
+    "id": "energy-66e6f69a3b67bcb7"
   },
   {
-    "title": "Massive Power Line Projects Will Stretch More Than 250 Miles Across Michigan",
-    "summary": "By Lucas Smolcic A blitz of major power line projects is spreading across Michigan as developers propose adding 254 miles of new electricity superhighways cutting through large swaths of the central Lower Peninsula. More than 50,000 households along the potential routes for the new high-voltage transmission lines are set to receive mailers inviting them to […]",
+    "title": "MISO South States Want Removal of Majority/Minority Labels In OMS Docs",
+    "summary": "By Amanda Durish Cook MISO South states are pushing for a change in the Organization of MISO States’ bylaws that would end the organization’s longstanding practice of recognizing majority and minority opinions among regulators. Why This Matters The Organization of MISO States’ position statements recognize the minority opinion among their members, which MISO South states […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/massive-power-line-projects-will-stretch-more-than-250-miles-across-michigan/",
-    "timestamp": "2026-09-10T14:51:50Z",
+    "url": "https://misoxenwatch.com/2026/09/miso-south-states-want-removal-of-majority-minority-labels-in-oms-docs/",
+    "timestamp": "2026-09-14T14:46:07Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/09/massive-power-line-projects-will-stretch-more-than-250-miles-across-michigan/"
+      "https://misoxenwatch.com/2026/09/miso-south-states-want-removal-of-majority-minority-labels-in-oms-docs/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-09-10T14:51:50Z",
-    "id": "energy-906f6f00b30fa888"
+    "data_as_of": "2026-09-14T14:46:07Z",
+    "id": "energy-5927ef1888320566"
   },
   {
-    "title": "Rep. Spartz Seeks Independent Federal Review Of Indiana Data Centers & LEAP",
-    "summary": "By Staff Writer On Wednesday, Sept. 9, Congresswoman Victoria Spartz (R-Ind.-05) sent a letter to U.S. Department of Energy Secretary Chris Wright and U.S. Department of the Interior Secretary Doug Burgum requesting an independent federal review of the rapidly expanding LEAP Research and Innovation District and other major data-center projects across Indiana, raising concerns about […]",
+    "title": "Trump’s Campbell Plant Energy Order Struck Down; Closure Could Be Tied Up In Courts",
+    "summary": "By Sarah Leach A federal court has struck down a Department of Energy directive that forced a Michigan coal-fired power plant to remain operational, ruling that the administration improperly invoked emergency powers to delay the facility’s scheduled retirement. In a 40-page opinion written by Circuit Judge Cornelia Pillard, a three-judge panel for the U.S. Court […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/rep-spartz-seeks-independent-federal-review-of-indiana-data-centers-leap/",
-    "timestamp": "2026-09-10T14:51:38Z",
+    "url": "https://misoxenwatch.com/2026/09/trumps-campbell-plant-energy-order-struck-down-closure-could-be-tied-up-in-courts/",
+    "timestamp": "2026-09-14T14:45:10Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/09/rep-spartz-seeks-independent-federal-review-of-indiana-data-centers-leap/"
+      "https://misoxenwatch.com/2026/09/trumps-campbell-plant-energy-order-struck-down-closure-could-be-tied-up-in-courts/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-09-10T14:51:38Z",
-    "id": "energy-34bccf0bb1e1aedc"
+    "data_as_of": "2026-09-14T14:45:10Z",
+    "id": "energy-49c1d4d62d4acd4c"
+  },
+  {
+    "title": "RubyGems Open Source Supply Chain Security and OpenAI",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://rietta.com/blog/rubygems-supply-chain-openai/",
+    "timestamp": "2026-09-14T14:39:01Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://rietta.com/blog/rubygems-supply-chain-openai/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-14T14:39:01Z",
+    "id": "energy-37a8eadcb23b5cdc"
+  },
+  {
+    "title": "ABYZOR releases IZZY, a FREE one-click synth for Windows",
+    "summary": "ABYZOR has released IZZY Synth, a free synthesizer plugin and standalone instrument for Windows. IZZY takes a different approach from the synths we all grew up with. You know, the normal synths that put oscillator, filter, envelope, and modulation controls in front of you. In this one, you choose between Bass, Stab, Lead, and Pluck [...] View post: ABYZOR releases IZZY, a FREE one-click synth for Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/14/abyzor-izzy-synth/",
+    "timestamp": "2026-09-14T14:12:15Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/14/abyzor-izzy-synth/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-14T14:12:15Z",
+    "id": "energy-9491eb53aa5bc5a0"
+  },
+  {
+    "title": "Streamers’ reactions to the Atomic whiff (almost exactly two years ago)",
+    "summary": "Since we are returning to dickies, thought it would be cool to remember what happened last time we were there submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wg4dy6/streamers_reactions_to_the_atomic_whiff_almost/",
+    "timestamp": "2026-09-14T14:05:21Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wg4dy6/streamers_reactions_to_the_atomic_whiff_almost/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-14T14:05:21Z",
+    "id": "energy-e91025030a5c5c09"
+  },
+  {
+    "title": "Helio is a new FREE and open-source music sequencer",
+    "summary": "Helio is a free, open-source sequencer that encourages experimentation with exotic scales and microtonal temperaments. It’s important to note that Helio isn’t meant to take your project from start to finish; it’s for sketching ideas without the distractions or restrictions of a more traditional sequencer. Helio is available for macOS, Windows, Linux, and iOS/Android devices. [...] View post: Helio is a new FREE and open-source music sequencer",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/",
+    "timestamp": "2026-09-14T14:03:16Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-14T14:03:16Z",
+    "id": "energy-08ea9679b25b53bd"
+  },
+  {
+    "title": "Sympiano is a FREE reverb plugin that explores the inside of a grand piano",
+    "summary": "Sympiano is a reverb plugin that explores the inside of a grand piano, and it is free on macOS and Windows. We come across lots of reverb plugins that offer the acoustic character of specific places or objects, like NoiseRverb by NoiseRoom. NoiseRverb offers the acoustic character of historic churches in Quito, Ecuador. Airspace from [...] View post: Sympiano is a FREE reverb plugin that explores the inside of a grand piano",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/",
+    "timestamp": "2026-09-14T14:02:02Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-14T14:02:02Z",
+    "id": "energy-11a3d76acbc0dcfd"
+  },
+  {
+    "title": "Who were the best players not to make an RLCS LAN in 2026?",
+    "summary": "Last year, I made this post after the LCQs to shine a light on the best players who weren't present at RLCS LANs that year. From said list of players, one made Top 6 on their LAN debut, one is now on the SAM #1 seed, and another made worlds for the first time in 3 years through the LCQ. So on the eve of the World Championship, I'm back again to do the same here. I've got a shortlist of standout players who didn't make a LAN this year and I'm curious as to who this subreddit thinks the best of these were this season, if it's any of these or someone else all together. Europe TempoH (On 2 teams that made majors, played to a very high level in Split 1) Rezears (Also played to a very high level in Split 1) Tox (Oh so close multiple times, but produced a remarkable level in the LCQ) HMs: Alpha54 (Remarkable return to competition) + Radosin (Good showing in Split 2 + LCQ) North America Frosty (A bright light on unremarkable FUT + GenG rosters who sorely lacks a specific fit teammate wise) Bora (Kickstarted Dignitas' season to be a sleeper threat to the LAN teams) HMs: I don't got much here so I'll say Evoh for giving GenG a bit of life in the LCQ Middle East Trook (Shades of 2023 SMW in…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wg3wmp/who_were_the_best_players_not_to_make_an_rlcs_lan/",
+    "timestamp": "2026-09-14T13:46:33Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wg3wmp/who_were_the_best_players_not_to_make_an_rlcs_lan/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-14T13:46:33Z",
+    "id": "energy-41b3a5c8773a7651"
+  },
+  {
+    "title": "Dralii response to Pros criticizing him",
+    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wg3gg7/dralii_response_to_pros_criticizing_him/",
+    "timestamp": "2026-09-14T13:28:32Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wg3gg7/dralii_response_to_pros_criticizing_him/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-14T13:28:32Z",
+    "id": "energy-55b20f5ecfc2da20"
+  },
+  {
+    "title": "Zeros of Quasimodular Forms Defined by Iterated Sums",
+    "summary": "arXiv:2609.12729v1 Announce Type: new Abstract: We study the zeros of the quasimodular forms $G_{\\{2\\}^n}$ defined by iterated sums. We first show that, for every $n>0$, $G_{\\{2\\}^n}$ has exactly $n$ simple zeros on each of the vertical half-lines $\\Real(\\tau)=0$ and $\\Real(\\tau)=1/2$, and that the zeros for consecutive values of $n$ satisfy an interlacing property. The proof is based on an expression of $G_{\\{2\\}^n}$ in terms of the $n$-th derivative of $\\eta^3$ and on the theory of bell-shaped functions, rather than on Rankin--Swinnerton-Dyer method. We also determine the asymptotic behavior of these zeros as $n\\to\\infty$. In addition, we prove that all zeros of $G_{\\{2\\}^n}$ are simple and that $G_{\\{2\\}^n}$ has infinitely many $SL_2(\\ZZ)$-inequivalent zeros. We further establish a transcendence result for zeros of quasimodular forms of maximal depth, which in particular implies that all zeros of $G_{\\{2\\}^n}$ are transcendental. Finally, in the special case $G_{2,2}$, we show that each Ford circle contains exactly two distinct simple zeros.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.12729",
+    "timestamp": "2026-09-14T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.12729"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-14T04:00:00Z",
+    "id": "energy-87256a1c50cdb55b"
+  },
+  {
+    "title": "Yau's conjecture for the stacked Clifford tori of Wiygul",
+    "summary": "arXiv:2609.07423v2 Announce Type: replace Abstract: We prove Yau's conjecture $\\lambda_{1}=2$ for the stacked Clifford tori of Wiygul: for all integers $N\\ge2$, $k,\\ell\\ge1$ and every sufficiently large $m$, every closed embedded minimal surface arising from Wiygul's construction, of genus $k\\ell m^{2}(N-1)+1$ in the round three-sphere and resembling $N$ parallel copies of the Clifford torus joined by small catenoidal tunnels, has first Laplace eigenvalue $2$. For $N\\ge3$ these surfaces are chains rather than doublings, and the even--odd decomposition on which all previous verifications for gluing constructions rest is not available. The reflection lemma of Choe and Soret reduces the problem to the sector of functions invariant under the symmetry group of the construction, and we show that the lowest nonzero eigenvalue of that sector equals $4+O(m^{-1})$. The value $4$ is the outcome of an exact identity in the limiting weighted graph model: the limiting waist ratios of the construction form the Perron vector of the adjacency operator of the line graph of a path, so that the spectral gap of the path cancels against the total conductance of the tunnels prescribed by the balancing c…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.07423",
+    "timestamp": "2026-09-14T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.07423"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-14T04:00:00Z",
+    "id": "energy-3c3ab37d9d4a57c3"
+  },
+  {
+    "title": "When higher-order interactions enhance synchronization: the case of the Kuramoto model",
+    "summary": "arXiv:2508.10992v4 Announce Type: replace-cross Abstract: Synchronization is a fundamental phenomenon in complex systems, observed across a wide range of natural and engineered contexts. The Kuramoto model provides a foundational framework for understanding synchronization among coupled oscillators, traditionally assuming pairwise interactions. However, many real-world systems exhibit group and many-body interactions, which can be effectively modeled through hypergraphs. Here we show that the effect of such higher-order interactions on synchronization is non-monotonic. Through a numerical study of higher-order Kuramoto models on random hypergraphs and on globally coupled systems, we find that the degree of synchronization reached from incoherent initial conditions is maximized at a small but nonzero higher-order coupling strength: weak higher-order interactions enhance synchronization when added to pairwise ones, whereas strong ones work against it, in line with earlier reports of reduced basins and of cluster states. We further show, through a cost-constrained allocation analysis, that under a constrained budget for interactions a mixed allocation of pairwise and higher-order cou…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2508.10992",
+    "timestamp": "2026-09-14T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2508.10992"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-14T04:00:00Z",
+    "id": "energy-8c7a7e3c1e4e4cf0"
   }
 ]

@@ -1,5 +1,95 @@
 [
   {
+    "title": "Grid modernization vs. smart grid: What’s the difference?",
+    "summary": "“Grid modernization” and “smart grid” are two terms associated with updating the electrical grid, but they differ in significant ways. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/grid-modernization-vs-smart-grid-whats-the-difference",
+    "timestamp": "2026-09-14T15:10:19Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/grid-modernization-vs-smart-grid-whats-the-difference"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-14T15:10:19Z",
+    "id": "energy-ebeccd377b0b9aea"
+  },
+  {
+    "title": "Proxima signs MOU with Lower Saxony for HTS tape production",
+    "summary": "Proxima Fusion has signed a memorandum of understanding with the State of Lower Saxony in Germany to “lay the foundations for large-scale industrial production of high-temperature superconducting tape” in the region, the company announced. According to the announcement, the first two phases of the project, which will run until the end of 2029, will require a €140 million (approximately $162.3 million) investment, which is expected to be split equally between public and private funding. Lower Saxony has committed €21 million (approximately $24.3 million).",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-14/article-8385/proxima-signs-mou-with-lower-saxony-for-hts-tape-production/",
+    "timestamp": "2026-09-14T14:33:51Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-14/article-8385/proxima-signs-mou-with-lower-saxony-for-hts-tape-production/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-14T14:33:51Z",
+    "id": "energy-1d05f07d97075dce"
+  },
+  {
+    "title": "Fall settlements forum materials available online",
+    "summary": "Topics included tariff changes related to the Pay-for-Performance program and an overview of FERC Order No. 2222. The post Fall settlements forum materials available online appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/09/14/fall-settlements-forum-materials-available-online/",
+    "timestamp": "2026-09-14T13:22:54Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/09/14/fall-settlements-forum-materials-available-online/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-09-14T13:22:54Z",
+    "id": "energy-5fcbb5bab5183182"
+  },
+  {
+    "title": "Reactor licensing, decommissioning, operational oversight regulations addressed in latest NRC rulemaking",
+    "summary": "The Nuclear Regulatory Commission unveiled its latest proposed rule Friday, one that would overhaul broad swaths of its regulations on nuclear reactor licensing, decommissioning, and operational oversight. It also would impact both existing nuclear plants and new reactor applicants. The proposal, “Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight,” takes a similar approach to other proposed and final rulemakings issued this year in response to Executive Order 14300, “Ordering the Reform of the Nuclear Regulatory Commission,” with a focus on making affected regulations more flexible and open to risk-informed approaches.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-14/article-8384/reactor-licensing-decommissioning-operational-oversight-regulations-addressed-in-latest-nrc-rulemaking/",
+    "timestamp": "2026-09-14T12:09:24Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-14/article-8384/reactor-licensing-decommissioning-operational-oversight-regulations-addressed-in-latest-nrc-rulemaking/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-14T12:09:24Z",
+    "id": "energy-d07aea09065ea127"
+  },
+  {
     "title": "Limerick’s digital leap: Sustainability through modernization",
     "summary": "Constellation’s Limerick plant has generated nuclear power in the community of Pottstown, Pa., northwest of Philadelphia, since the first of two boiling water reactors came on line 40 years ago, in 1986. The plan is to keep Limerick running for at least another 40 years, but from a control room that would look wholly unfamiliar to its 1980s-era operators. Limerick is set to get a major safety-related digital instrumentation and control modernization for its two units, rated at 1,153 MWe and 1,162 MWe, respectively.",
     "source": "ANS Newswire",
@@ -20,28 +110,6 @@
     ],
     "data_as_of": "2026-09-11T20:03:54Z",
     "id": "energy-83c3a03c050fb04e"
-  },
-  {
-    "title": "Navy’s first terrestrial reactor coming to Indiana’s NWS Crane",
-    "summary": "The Department of Defense has announced the first deployment of a microreactor on a shore-based Navy installation will be at Indiana’s Naval Weapons Station (NWS) Crane and executed jointly with the Army’s Janus Program. Not only will it be a first for the Navy when it is installed by September 2028, it will be Indiana’s first power-producing reactor. Previous announcements regarding advanced reactors on military bases have revolved around the Army and Air Force. Most recently, the Army announced that five reactor developers were selected and paired with five military installations under the Janus Program. Wednesday’s announcement expands the concept into another military branch.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-11/article-8383/navys-first-terrestrial-reactor-coming-to-indianas-nws-crane/",
-    "timestamp": "2026-09-11T17:31:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-11/article-8383/navys-first-terrestrial-reactor-coming-to-indianas-nws-crane/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-11T17:31:22Z",
-    "id": "energy-19f357bae0e69cb1"
   },
   {
     "title": "Meet the pros: Tiedra Lewis",
@@ -66,75 +134,5 @@
     ],
     "data_as_of": "2026-09-11T16:28:50Z",
     "id": "energy-48d60f3918fbbdd7"
-  },
-  {
-    "title": "Uranium mining ban enacted for New Mexico lands",
-    "summary": "Garcia Richard On September 4, New Mexico Land Commissioner Stephanie Garcia Richard issued an executive order that bans the leasing of state lands for new uranium mining and associated activities. The executive order also directs the State Land Office to focus on cleaning up legacy uranium sites and urges the uranium industry and federal government to prioritize legacy uranium problems in the state. According to the State Land Office’s announcement, “New Mexico has a painful history as the largest producer of uranium ore in the United States, which has left a legacy of over 1,000 former uranium mining, milling, and exploratory drilling sites in the state, of which 250 are considered abandoned because they are not associated with a viable responsible party (at least 50 of the sites involve state trust lands).”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-11/article-8382/uranium-mining-ban-enacted-for-new-mexico-lands/",
-    "timestamp": "2026-09-11T14:28:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-11/article-8382/uranium-mining-ban-enacted-for-new-mexico-lands/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-11T14:28:46Z",
-    "id": "energy-d2b889701ab4da53"
-  },
-  {
-    "title": "Entergy protects endangered whooping cranes while increasing reliability for customers",
-    "summary": "Entergy is partnering with the Louisiana Department of Wildlife and Fisheries and Fulcrum Air to deploy bird flight diverters on transmission lines across Louisiana, marking a significant milestone in the company’s commitment to protecting the endangered whooping cranes while improving reliability for our customers. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-protects-endangered-whooping-cranes-while-increasing-reliability-for-customers",
-    "timestamp": "2026-09-10T17:03:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-protects-endangered-whooping-cranes-while-increasing-reliability-for-customers"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-10T17:03:59Z",
-    "id": "energy-9f75202db3166a4f"
-  },
-  {
-    "title": "Entergy New Orleans partners with Heroes of New Orleans to help alleviate food insecurity",
-    "summary": "As more families in New Orleans and across Louisiana struggle with rising food prices, Entergy New Orleans remains committed to addressing food insecurity and supporting community organizations working to meet this critical need. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-partners-with-heroes-of-new-orleans-to-help-alleviate-food-insecurity",
-    "timestamp": "2026-09-10T16:47:39Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-partners-with-heroes-of-new-orleans-to-help-alleviate-food-insecurity"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-10T16:47:39Z",
-    "id": "energy-75d4e25c694fe0ad"
   }
 ]
