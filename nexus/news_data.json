@@ -1,16 +1,16 @@
 [
   {
-    "title": "AI leads to improved efficiency at SRS’s Salt Waste Processing Facility",
-    "summary": "The use of artificial intelligence enabled operators of the Savannah River Site’s Salt Waste Processing Facility to make a miniscule mechanical adjustment that resulted in substantially improved efficiency—beyond the design expectations of the facility. The SWPF, which has been operating since 2021, is used to treat salt waste stored in SRS’s radioactive liquid waste tanks. The waste, which originated in chemical separation processes, is pretreated at SWPF to remove cesium and other radionuclides. The pretreated waste is then delivered to the Defense Waste Processing Facility for vitrification.",
+    "title": "House subcommittee discusses NLIC, nuclear spent fuel policy",
+    "summary": "Six states—Idaho, Louisiana, Oklahoma, Tennessee, Utah, and West Virginia—have now signed memorandums of understanding as finalists for the Department of Energy’s Nuclear Lifecycle Innovation Campuses (NLIC) program. Some or all of these states could very well host a facility or facilities to handle multiple stages of the nuclear fuel cycle, including enrichment, fabrication, recycling, reprocessing, and disposal.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-15/article-8389/ai-leads-to-improved-efficiency-at-srss-salt-waste-processing-facility/",
-    "timestamp": "2026-09-15T14:38:27Z",
+    "url": "https://www.ans.org/news/2026-09-16/article-8393/house-subcommittee-discusses-nlic-nuclear-spent-fuel-policy/",
+    "timestamp": "2026-09-16T14:25:42Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-15/article-8389/ai-leads-to-improved-efficiency-at-srss-salt-waste-processing-facility/"
+      "https://www.ans.org/news/2026-09-16/article-8393/house-subcommittee-discusses-nlic-nuclear-spent-fuel-policy/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,43 +18,43 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-15T14:38:27Z",
-    "id": "energy-4f7df6c431f202e5"
+    "data_as_of": "2026-09-16T14:25:42Z",
+    "id": "energy-bc0a48fb8854d2dc"
   },
   {
-    "title": "Extending the Life of Aging Nuclear Assets Without Major Replacement",
-    "summary": "More than two-thirds of the U.S. nuclear fleet has now been operating for over 40 years, and many plants are pursuing subsequent license renewal to continue generating carbon-free electricity well into the 2050s. As facilities age, maintaining components affected by corrosion/erosion mechanisms, including flow accelerated corrosion (FAC) in particular, has become an increasingly important part of long-term operation. Cross-under piping, feedwater systems and steam turbine components are particularly vulnerable. High-velocity wet steam gradually removes the protective oxide layer from carbon steel, leading to wall thinning, erosion and reduced structural margin. Left unmanaged, these degradation mechanisms can result in costly repairs, extended outages and, ultimately, replacement of major components.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-15/article-8320/extending-the-life-of-aging-nuclear-assets-without-major-replacement/",
-    "timestamp": "2026-09-15T11:46:18Z",
+    "title": "ISO Minute: The tools that power the people behind the grid",
+    "summary": "Jaren Lutenegger explains how his team helps equip the ISO-NE employees operating the grid and wholesale markets. The post ISO Minute: The tools that power the people behind the grid appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/09/16/iso-minute-the-tools-that-power-the-people-behind-the-grid/",
+    "timestamp": "2026-09-16T12:12:50Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-15/article-8320/extending-the-life-of-aging-nuclear-assets-without-major-replacement/"
+      "https://isonewswire.com/2026/09/16/iso-minute-the-tools-that-power-the-people-behind-the-grid/"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
+    "source_tier": "primary",
+    "primary_source": true,
     "entities": [
-      "American Nuclear Society",
-      "ANS"
+      "ISO New England",
+      "ISO-NE"
     ],
-    "data_as_of": "2026-09-15T11:46:18Z",
-    "id": "energy-855fb63b900fe105"
+    "data_as_of": "2026-09-16T12:12:50Z",
+    "id": "energy-bd36f6b58a0cb8ba"
   },
   {
-    "title": "IAEA General Conference kicks off with opening remarks from DG Grossi",
-    "summary": "When the International Atomic Energy Agency held its first General Conference in 1956, the global organization had only 56 member states. As of its 70th General Conference this week, the number is up to 182. IAEA Director General Rafael Mariano Grossi was quick to mention this updated count during an opening statement that kickstarted the five-day event in Vienna, Austria, this morning. He also noted that nearly 4,000 people were expected to attend the General Conference.",
+    "title": "We’ve crossed the nuclear tipping point",
+    "summary": "Bahran Twenty years ago, I walked across a graduation stage with a nuclear engineering degree and a promise that the nuclear renaissance was coming. It never came. The hard part was not the physics. Fermi demonstrated the technical viability of fission as an energy source in 1942, achieving the first man-made criticality with a pile of uranium and graphite bricks under a Chicago stadium. The hard part was everything wrapped around the physics, and that’s the part that has just changed, with three shifts lining up at the same time.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-14/article-8388/iaea-general-conference-kicks-off-with-opening-remarks-from-dg-grossi/",
-    "timestamp": "2026-09-14T22:38:43Z",
+    "url": "https://www.ans.org/news/2026-09-16/article-8317/weve-crossed-the-nuclear-tipping-point/",
+    "timestamp": "2026-09-16T12:08:54Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-14/article-8388/iaea-general-conference-kicks-off-with-opening-remarks-from-dg-grossi/"
+      "https://www.ans.org/news/2026-09-16/article-8317/weve-crossed-the-nuclear-tipping-point/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,8 +62,52 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-14T22:38:43Z",
-    "id": "energy-4b87051708278b68"
+    "data_as_of": "2026-09-16T12:08:54Z",
+    "id": "energy-c515a50e1902468b"
+  },
+  {
+    "title": "Nusano releases Launch Pad enrichment project details",
+    "summary": "At the end of August, Utah-based company Nusano was chosen as one of the second-round selections by the National Reactor Innovation Center for a project through its Nuclear Energy Launch Pad. Yesterday, the company announced the details of that project, which will focus on high-assay low-enrichment uranium production. This turn to enrichment comes as the company continues to develop a radioisotope production facility in Utah.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-15/article-8392/nusano-releases-launch-pad-enrichment-project-details/",
+    "timestamp": "2026-09-15T21:18:49Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-15/article-8392/nusano-releases-launch-pad-enrichment-project-details/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-15T21:18:49Z",
+    "id": "energy-a3e8c41c7dfcef5a"
+  },
+  {
+    "title": "Summer 2026 recap: New England power grid operates reliably through multiple hot spells",
+    "summary": "Wildfire smoke and even a partial eclipse reduced solar power generation at times. The post Summer 2026 recap: New England power grid operates reliably through multiple hot spells appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/09/15/summer-2026-recap-new-england-power-grid-operates-reliably-through-multiple-hot-spells/",
+    "timestamp": "2026-09-15T19:06:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/09/15/summer-2026-recap-new-england-power-grid-operates-reliably-through-multiple-hot-spells/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-09-15T19:06:02Z",
+    "id": "energy-72af05bd8e67eb65"
   },
   {
     "title": "How do you choose the right HVAC filter?",
