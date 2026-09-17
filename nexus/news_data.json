@@ -1,16 +1,16 @@
 [
   {
-    "title": "House subcommittee discusses NLIC, nuclear spent fuel policy",
-    "summary": "Six states—Idaho, Louisiana, Oklahoma, Tennessee, Utah, and West Virginia—have now signed memorandums of understanding as finalists for the Department of Energy’s Nuclear Lifecycle Innovation Campuses (NLIC) program. Some or all of these states could very well host a facility or facilities to handle multiple stages of the nuclear fuel cycle, including enrichment, fabrication, recycling, reprocessing, and disposal.",
+    "title": "Massachusetts blocks Holtec from discharging Pilgrim water",
+    "summary": "In 2024, the Massachusetts Department of Environmental Protection (MassDEP) denied Holtec International’s application to release treated water into Cape Cod Bay from the Pilgrim nuclear power plant site as decommissioning work continues. Holtec appealed that decision, and on Tuesday, MassDEP announced that it has dismissed the appeal, leaving Holtec—for now—with fewer options for how to deal with the up to 1.1 million gallons of water it seeks to discharge.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-16/article-8393/house-subcommittee-discusses-nlic-nuclear-spent-fuel-policy/",
-    "timestamp": "2026-09-16T14:25:42Z",
+    "url": "https://www.ans.org/news/2026-09-17/article-8397/massachusetts-blocks-holtec-from-discharging-pilgrim-water/",
+    "timestamp": "2026-09-17T14:28:21Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-16/article-8393/house-subcommittee-discusses-nlic-nuclear-spent-fuel-policy/"
+      "https://www.ans.org/news/2026-09-17/article-8397/massachusetts-blocks-holtec-from-discharging-pilgrim-water/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,124 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-16T14:25:42Z",
-    "id": "energy-bc0a48fb8854d2dc"
+    "data_as_of": "2026-09-17T14:28:21Z",
+    "id": "energy-260262ac7192abb6"
+  },
+  {
+    "title": "U.K. regulators plan “radical reforms,” begin Xe-100 assessment",
+    "summary": "Earlier this year, the United Kingdom released plans intended to “fundamentally reshape the regulatory landscape” of the nuclear industry and speed nuclear deployment. A policy paper, “Building Our Nuclear Nation,” was released in March 2026, and that same month, then chancellor Rachel Reeves sent a letter to the U.K. Office for Nuclear Regulation that posed five questions on how ONR and other regulators planned to adapt.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-17/article-8396/uk-regulators-plan-radical-reforms-begin-xe100-assessment/",
+    "timestamp": "2026-09-17T12:12:38Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-17/article-8396/uk-regulators-plan-radical-reforms-begin-xe100-assessment/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-17T12:12:38Z",
+    "id": "energy-9a364d9274a93d6e"
+  },
+  {
+    "title": "Entergy Mississippi welcomes Smith-Jeuitt as senior media relations specialist",
+    "summary": "Entergy Mississippi has added Tamica Jeuitt to its communications team as a senior media relations specialist supporting the company’s media and external relations strategy, including serving as a company spokesperson. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-mississippi-welcomes-smith-jeuitt-as-senior-media-relations-specialist",
+    "timestamp": "2026-09-16T22:27:08Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-mississippi-welcomes-smith-jeuitt-as-senior-media-relations-specialist"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-16T22:27:08Z",
+    "id": "energy-b3ad5beeed7c775f"
+  },
+  {
+    "title": "Entergy Louisiana President and CEO Phillip May discusses economic growth and energy infrastructure on FUELED podcast",
+    "summary": "Entergy Louisiana President and CEO Phillip May recently joined Kathryn Fenstermaker for Episode 7 of FUELED to discuss the intersection of economic development and energy infrastructure in Louisiana. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-louisiana-president-and-ceo-phillip-may-discusses-economic-growth-and-energy-infrastructure-on-fueled-podcast",
+    "timestamp": "2026-09-16T20:51:05Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-louisiana-president-and-ceo-phillip-may-discusses-economic-growth-and-energy-infrastructure-on-fueled-podcast"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-16T20:51:05Z",
+    "id": "energy-18c2e6a5040bcaca"
+  },
+  {
+    "title": "The whole picture: BNL researchers combine CT technologies to study nuclear materials",
+    "summary": "Often, multiple tests need to be performed to make an accurate diagnosis. This can be the case for illnesses, a strange rattle in a car, computer troubleshooting—and examining nuclear materials. Rather than wait the days or even weeks it would take to run such tests one after the other, a team at Brookhaven National Library has developed a way to get multiple images concurrently, shortening the testing time to just hours.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-16/article-8395/the-whole-picture-bnl-researchers-combine-ct-technologies-to-study-nuclear-materials/",
+    "timestamp": "2026-09-16T20:18:51Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-16/article-8395/the-whole-picture-bnl-researchers-combine-ct-technologies-to-study-nuclear-materials/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-16T20:18:51Z",
+    "id": "energy-21f4b3e59be9989c"
+  },
+  {
+    "title": "Entergy New Orleans supports expectant mothers through community baby showers",
+    "summary": "Entergy New Orleans recently supported two community baby showers in New Orleans, providing expectant mothers with essential resources as they prepare to welcome new additions to their families. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-supports-expectant-mothers-through-community-baby-showers",
+    "timestamp": "2026-09-16T16:07:35Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-new-orleans-supports-expectant-mothers-through-community-baby-showers"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-16T16:07:35Z",
+    "id": "energy-1e8df628302453f5"
   },
   {
     "title": "ISO Minute: The tools that power the people behind the grid",
@@ -44,50 +160,6 @@
     "id": "energy-bd36f6b58a0cb8ba"
   },
   {
-    "title": "We’ve crossed the nuclear tipping point",
-    "summary": "Bahran Twenty years ago, I walked across a graduation stage with a nuclear engineering degree and a promise that the nuclear renaissance was coming. It never came. The hard part was not the physics. Fermi demonstrated the technical viability of fission as an energy source in 1942, achieving the first man-made criticality with a pile of uranium and graphite bricks under a Chicago stadium. The hard part was everything wrapped around the physics, and that’s the part that has just changed, with three shifts lining up at the same time.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-16/article-8317/weve-crossed-the-nuclear-tipping-point/",
-    "timestamp": "2026-09-16T12:08:54Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-16/article-8317/weve-crossed-the-nuclear-tipping-point/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-16T12:08:54Z",
-    "id": "energy-c515a50e1902468b"
-  },
-  {
-    "title": "Nusano releases Launch Pad enrichment project details",
-    "summary": "At the end of August, Utah-based company Nusano was chosen as one of the second-round selections by the National Reactor Innovation Center for a project through its Nuclear Energy Launch Pad. Yesterday, the company announced the details of that project, which will focus on high-assay low-enrichment uranium production. This turn to enrichment comes as the company continues to develop a radioisotope production facility in Utah.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-15/article-8392/nusano-releases-launch-pad-enrichment-project-details/",
-    "timestamp": "2026-09-15T21:18:49Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-15/article-8392/nusano-releases-launch-pad-enrichment-project-details/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-15T21:18:49Z",
-    "id": "energy-a3e8c41c7dfcef5a"
-  },
-  {
     "title": "Summer 2026 recap: New England power grid operates reliably through multiple hot spells",
     "summary": "Wildfire smoke and even a partial eclipse reduced solar power generation at times. The post Summer 2026 recap: New England power grid operates reliably through multiple hot spells appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -108,75 +180,5 @@
     ],
     "data_as_of": "2026-09-15T19:06:02Z",
     "id": "energy-72af05bd8e67eb65"
-  },
-  {
-    "title": "How do you choose the right HVAC filter?",
-    "summary": "HVAC filters come in different types, shapes and sizes. Which type is right for your home? Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/how-do-you-choose-the-right-hvac-filter",
-    "timestamp": "2026-09-14T17:00:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/how-do-you-choose-the-right-hvac-filter"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-14T17:00:46Z",
-    "id": "energy-691d24d6a269c241"
-  },
-  {
-    "title": "Grid modernization vs. smart grid: What’s the difference?",
-    "summary": "“Grid modernization” and “smart grid” are two terms associated with updating the electrical grid, but they differ in significant ways. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/grid-modernization-vs-smart-grid-whats-the-difference",
-    "timestamp": "2026-09-14T15:10:19Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/grid-modernization-vs-smart-grid-whats-the-difference"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-14T15:10:19Z",
-    "id": "energy-ebeccd377b0b9aea"
-  },
-  {
-    "title": "Fall settlements forum materials available online",
-    "summary": "Topics included tariff changes related to the Pay-for-Performance program and an overview of FERC Order No. 2222. The post Fall settlements forum materials available online appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/09/14/fall-settlements-forum-materials-available-online/",
-    "timestamp": "2026-09-14T13:22:54Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/09/14/fall-settlements-forum-materials-available-online/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-09-14T13:22:54Z",
-    "id": "energy-5fcbb5bab5183182"
   }
 ]
