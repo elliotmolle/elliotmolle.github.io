@@ -1,5 +1,338 @@
 [
   {
+    "title": "RLCS 2026: World Championship - Day 4 | Playoffs",
+    "summary": "https://preview.redd.it/zyn2j949i6qh1.png?width=4200&format=png&auto=webp&s=6c7faaef98f266babaa82d7e30f709a81200e3bc Event Schedule - Day UTC Time Top X Bracket 1 Tues 16:00 Top 20 Play-In 2 Wed 16:00 Top 16 Groups 3 Thurs 16:00 Top 16 Groups 4 Fri (Today) 16:00 Top 12 Playoffs 5 Sat 16:00 Top 8 Playoffs 6 Sun 16:00 Top 6 Playoffs Coverage RLCS Worlds Primer // Liquipedia // Blast.tv // Pickstop.gg Streams Platform Channel Lang Twitch RocketLeague 🇺🇸 YouTube RLEsports 🇺🇸 Twitch RocketBaguette 🇫🇷 Twitch RocketStreetLive 🇪🇸 Schedule https://preview.redd.it/j9m5rqapi6qh1.png?width=936&format=png&auto=webp&s=f13b4d086f6b04849eb3af2ea2be8086339e0274 submitted by /u/RLMatchThreads [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wjr45m/rlcs_2026_world_championship_day_4_playoffs/",
+    "timestamp": "2026-09-18T14:03:31Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wjr45m/rlcs_2026_world_championship_day_4_playoffs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-18T14:03:31Z",
+    "id": "energy-99e52b86b05ba026"
+  },
+  {
+    "title": "An Oscar-Winning Director and Sam Raimi Are Now Attached to the Roblox Movie",
+    "summary": "Toy Story director Josh Cooley has been selected to write the screenplay for 99 Nights in the Forest, with Sam Raimi as a producer.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/99-nights-in-the-forest-movie-sam-raimi-josh-cooley/",
+    "timestamp": "2026-09-18T13:17:58Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/99-nights-in-the-forest-movie-sam-raimi-josh-cooley/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T13:17:58Z",
+    "id": "energy-0ab167c5f845d0c1"
+  },
+  {
+    "title": "An Empirical Study of Harness Design for Coding Agents",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2609.20804",
+    "timestamp": "2026-09-18T13:06:30Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.20804"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T13:06:30Z",
+    "id": "energy-dc9b97f216f29239"
+  },
+  {
+    "title": "Control Resonant: The Kotaku Review",
+    "summary": "The action-RPG sequel shows Remedy Entertainment isn't done pulling from its bag of refreshingly original tricks",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/control-resonant-the-kotaku-review-2000735575",
+    "timestamp": "2026-09-18T13:00:52Z",
+    "topic": "Gaming",
+    "category": "Reviews",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/control-resonant-the-kotaku-review-2000735575"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T13:00:52Z",
+    "id": "energy-31ce0392421131b2"
+  },
+  {
+    "title": "Control Resonant Fails At Nearly All of Its Ambitions | Review",
+    "summary": "Remedy evokes everything from Infamous to Devil May Cry in Control Resonant but fails to deliver a satisfying follow-up to the 2019 original",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/control-resonant-review/",
+    "timestamp": "2026-09-18T13:00:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/control-resonant-review/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T13:00:15Z",
+    "id": "energy-6c9e5247f5564149"
+  },
+  {
+    "title": "If materialism is true, the United States is probably conscious",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.jstor.org/stable/24704177",
+    "timestamp": "2026-09-18T12:27:40Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.jstor.org/stable/24704177"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T12:27:40Z",
+    "id": "energy-c10f0ec2fd126ec8"
+  },
+  {
+    "title": "I don't like passkeys",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "timestamp": "2026-09-18T12:06:50Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://hawksley.dev/blog/i-dont-like-passkeys"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T12:06:50Z",
+    "id": "energy-c7b8d11d1e8a5cec"
+  },
+  {
+    "title": "Giancarlo Esposito Reveals His Dream 'X-Men' Role After Professor X Casting",
+    "summary": "The Mandalorian star wanted more from his role in Captain America: Brave New World",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/fans-cast-giancarlo-esposito-as-professor-x-but-hed-rather-be-magneto/",
+    "timestamp": "2026-09-18T12:00:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/fans-cast-giancarlo-esposito-as-professor-x-but-hed-rather-be-magneto/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T12:00:15Z",
+    "id": "energy-35e3d383d110ce29"
+  },
+  {
+    "title": "Two Legs, Five Arms is a FREE generative drum machine for macOS",
+    "summary": "François Pé has released Two Legs, Five Arms, a free generative drum machine and AU MIDI effect for macOS. We recently featured the developer’s free Euclid3an Arp, which builds polyrhythmic arpeggios without making you program every note manually. Two Legs, Five Arms applies that same playful approach to drum patterns. I absolutely love the GUI [...] View post: Two Legs, Five Arms is a FREE generative drum machine for macOS",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/",
+    "timestamp": "2026-09-18T11:28:27Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T11:28:27Z",
+    "id": "energy-41a978aed20c108a"
+  },
+  {
+    "title": "Playhead builds custom effects chains from your sound descriptions",
+    "summary": "Playhead is a new music production tool that turns descriptions of a sound into editable effect chains in your DAW. It is available for macOS, with a free two-week trial. Sometimes you know exactly what a track needs, but not the right combination of effects needed to get there. Playhead lets you start with the [...] View post: Playhead builds custom effects chains from your sound descriptions",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/",
+    "timestamp": "2026-09-18T11:21:26Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T11:21:26Z",
+    "id": "energy-4dd7a52ca7304106"
+  },
+  {
+    "title": "AZPEX Audio releases REGENT FREE clipper with ADAA and parallel processing",
+    "summary": "AZPEX Audio has released REGENT, a free clipper plugin for macOS and Windows. I still find it fascinating how many free clippers there are. The number is probably well into the hundreds by now. You can cut through the noise with our recently updated free clipper roundup, which features 13 particularly good ones. But still, [...] View post: AZPEX Audio releases REGENT FREE clipper with ADAA and parallel processing",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/18/azpex-audio-regent-clipper/",
+    "timestamp": "2026-09-18T10:59:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/18/azpex-audio-regent-clipper/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T10:59:08Z",
+    "id": "energy-5a7cfe94ba146ffe"
+  },
+  {
+    "title": "How energy politics work inside DC",
+    "summary": "A conversation with Frank Maisano.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/how-energy-politics-work-inside-dc",
+    "timestamp": "2026-09-18T10:04:22Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/how-energy-politics-work-inside-dc"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-09-18T10:04:22Z",
+    "id": "energy-5266719ff52574d3"
+  },
+  {
+    "title": "RLCS Merch prices are absurd",
+    "summary": "I noticed the merch shop looked bare yesterday compared to before so kept checking figuring they were going to add new stuff for Worlds which they finally did, but the prices are absolutely laughable…. Wondering what the in-person prices are submitted by /u/remymanigold [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wjl2iy/rlcs_merch_prices_are_absurd/",
+    "timestamp": "2026-09-18T09:06:27Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wjl2iy/rlcs_merch_prices_are_absurd/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-18T09:06:27Z",
+    "id": "energy-64566247ce0595f8"
+  },
+  {
+    "title": "CJCJ appreciation post",
+    "summary": "Finally caught up with the 2v2 semis. CJCJ kept saying, \"HOW GOOD IS 2v2?!\" and I kept thinking, \"How good is CJCJ?\". 2v2 is the perfect format for his infectious hype casting, and his appreciation for the game and just unfiltered enthusiasm feel like paying homage to a mode that should've seen competitive representation for too long. Thanks for being a positive presence in the scene. We are lucky to have you and generally a great line-up of talent across the board. submitted by /u/Raythunda125 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wjjb78/cjcj_appreciation_post/",
+    "timestamp": "2026-09-18T07:20:05Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wjjb78/cjcj_appreciation_post/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-18T07:20:05Z",
+    "id": "energy-67450e7b6fd30b66"
+  },
+  {
+    "title": "Zero-product problem for Toeplitz operators on the Fock space",
+    "summary": "arXiv:2609.20555v1 Announce Type: new Abstract: We answer Bauer and Le's question on zero products of Toeplitz operators on the Fock space $F^2(\\mathbb C^n)$[JFA, 261 (2011), 9, 2617--2640]. For $n\\ge2$, we construct two bounded nonradial Schwartz symbols on $\\mathbb C^n$ whose Toeplitz operators are nonzero and have zero product on $F^2(\\mathbb C^n)$. For $n=1$ and each $c\\in(1/2,1)$, we construct two smooth nonradial symbols of growth at most $Ce^{c|z|^2}$ for some constant $C>0$. Their extended Toeplitz operators in $F^2(\\mathbb C)$ are nonzero and have zero product on all holomorphic polynomials. Moreover, the second symbol is bounded when $c\\geq3/4$. Our proofs use Gaussian kernel calculations, matrix identities, theta functions and Fourier transform.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.20555",
+    "timestamp": "2026-09-18T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.20555"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-18T04:00:00Z",
+    "id": "energy-ae808fe69a6cf6fd"
+  },
+  {
+    "title": "Wideband Directional $\\mathcal{H}^2$-Matrix Compression for the Electric Field Integral Equation with Geometry-Adaptive Cluster Trees",
+    "summary": "arXiv:2609.19431v1 Announce Type: new Abstract: We present an efficient wideband construction of directional $\\mathcal{H}^2$-matrices for the electrical field integral equation that, in contrast to existing constructions, supports not only box trees but also geometry-adaptive cluster trees. To accommodate geometry-adaptive cluster trees, we determine the number of directions from the electrical size of each cluster (instead of the level of a box tree), construct the directions using Spherical-Fibonacci points, and establish a hierarchy between the direction sets of a cluster and its children through an angular nearest-neighbor mapping. We construct the nested directional representation using the incomplete adaptive cross approximation, for which we introduce a robustified tree-mimicry pivoting strategy that prevents premature convergence for block-structured matrices arising from certain geometries and meshes. Numerical results demonstrate that the proposed approach achieves the desired accuracy, requires no more storage than the octree-based construction and substantially less when the geometry or discretization is poorly matched to octree clustering, and exhibits the expected $\\…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.19431",
+    "timestamp": "2026-09-18T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.19431"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-18T04:00:00Z",
+    "id": "energy-9f802d29cdbc8261"
+  },
+  {
+    "title": "We Asked Blizzard Why Diablo 5 Is Confirmed For PC But StarCraft Is Not",
+    "summary": "Why is Blizzard being so weird about this?",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/diablo-5-pc-starcraft-xbox-confirmed-2000735382",
+    "timestamp": "2026-09-17T22:30:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/diablo-5-pc-starcraft-xbox-confirmed-2000735382"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-17T22:30:18Z",
+    "id": "energy-09fafcd312f26e27"
+  },
+  {
+    "title": "Team Behind Popular Ocarina Of Time PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About ‘Vibecoded Slop’",
+    "summary": "When asked what version of Ship of Harkinian doesn't contain LLM content, a dev said 'I don't know'",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
+    "timestamp": "2026-09-17T22:00:44Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-17T22:00:44Z",
+    "id": "energy-0de176af5e23527d"
+  },
+  {
     "title": "John James Calls For Giving DTE, Consumers More Electricity Competition",
     "summary": "By Craig Mauger Republican nominee for governor John James says he wants to lift Michigan’s limit on competition with the state’s dominant electric utilities in a bid to lower residents’ energy costs. The proposal could re-ignite a debate over the monopoly power granted to influential energy providers like Detroit-based DTE Energy and Jackson-based Consumers Energy. […]",
     "source": "MISO XenWatch",
@@ -42,27 +375,6 @@
     "id": "energy-38a36d69bfdb8863"
   },
   {
-    "title": "RLCS 2026: World Championship - Day 3",
-    "summary": "Event Schedule - Day UTC Time Top X Bracket 1 Tues 16:00 Top 20 Play-In 2 Wed 16:00 Top 16 Groups 3 Thurs (Today) 16:00 Top 16 Groups 4 Fri 16:00 Top 12 Playoffs 5 Sat 16:00 Top 8 Playoffs 6 Sun 16:00 Top 6 Playoffs Coverage RLCS Worlds Primer // Liquipedia // Blast.tv // Pickstop.gg Streams Platform Channel Lang Twitch RocketLeague 🇺🇸 Twitch RLEsports 🇺🇸 \\) YouTube RLEsports 🇺🇸 Twitch RocketBaguette 🇫🇷 Twitch RocketStreetLive 🇪🇸 \\Tues-Thur alt stream) Schedule https://preview.redd.it/ndhy2p6573qh1.png?width=619&format=png&auto=webp&s=0fe725834428d877e18a5159809d82be0cf9d3d7 submitted by /u/RLMatchThreads [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wivmyy/rlcs_2026_world_championship_day_3/",
-    "timestamp": "2026-09-17T14:31:11Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wivmyy/rlcs_2026_world_championship_day_3/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-17T14:31:11Z",
-    "id": "energy-7a902129dbf2cc9d"
-  },
-  {
     "title": "Climavision Offers Expanded Weather Forecasting To Data Centers",
     "summary": "By Chris Paullin Dive Brief: • Climavision, a company offering weather forecasting data to utilities, power producers and government agencies, opened its network of 31 radars in 15 states to data centers beginning Sept. 10. • The company has weather radars in areas that publicly available federal forecast monitors don’t cover accurately, CEO Chris Goode […]",
     "source": "MISO XenWatch",
@@ -82,318 +394,6 @@
     ],
     "data_as_of": "2026-09-17T14:31:09Z",
     "id": "energy-77a898f4044a557d"
-  },
-  {
-    "title": "Ghostrunner Devs Explain Why Their Napoleon Soulslike Valor Mortis Is Just $40: ‘The Fall Is Stacked And There’s High Demand For Your Time And Money’",
-    "summary": "Steam competition is fiercer than ever",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/ghostrunner-devs-explain-why-their-napoleon-soulslike-valor-mortis-is-just-40-the-fall-is-stacked-and-theres-high-demand-for-your-time-and-money-2000735278",
-    "timestamp": "2026-09-17T14:00:26Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/ghostrunner-devs-explain-why-their-napoleon-soulslike-valor-mortis-is-just-40-the-fall-is-stacked-and-theres-high-demand-for-your-time-and-money-2000735278"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T14:00:26Z",
-    "id": "energy-75b0fd9d41a82658"
-  },
-  {
-    "title": "All sprites in Fortnite Chapter 7 Season 4",
-    "summary": "Here's a list of all the new sprites added in Fortnite Chapter 7 Season 4, including the Sonic the Hedgehog sprites.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/",
-    "timestamp": "2026-09-17T14:00:00Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T14:00:00Z",
-    "id": "energy-211bf997f7006915"
-  },
-  {
-    "title": "Lunacy launches NOVA platform with five FREE virtual instruments",
-    "summary": "Lunacy has launched NOVA, a new instrument platform and marketplace for macOS and Windows, with a free host plugin and five free virtual instruments. The basic idea is somewhat similar to what Spitfire Audio LABS used to represent. You install one free host in your DAW and access a growing collection of instruments through it. [...] View post: Lunacy launches NOVA platform with five FREE virtual instruments",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/17/lunacy-nova-free-instruments/",
-    "timestamp": "2026-09-17T13:56:31Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/17/lunacy-nova-free-instruments/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T13:56:31Z",
-    "id": "energy-f4805da2165f8495"
-  },
-  {
-    "title": "All match overrides and console locations in Fortnite Chapter 7 Season 4",
-    "summary": "Match overrides change the way you play Fortnite in Chapter 7 Season 4. Here are all the match overrides and where to find override consoles.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-match-overrides-console-locations-c7s4/",
-    "timestamp": "2026-09-17T13:53:44Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fortnite-chapter-7-season-4-match-overrides-console-locations-c7s4/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T13:53:44Z",
-    "id": "energy-7556da829b0af2ee"
-  },
-  {
-    "title": "All admin panel lobby hack codes in Fortnite Chapter 7 Season 4",
-    "summary": "Admin panel codes, also known as lobby hacks, will help you get started in Fortnite Chapter 7 Season 4. Here's a list of all the codes available now.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-admin-panel-lobby-hack-codes-list-all/",
-    "timestamp": "2026-09-17T13:44:57Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fortnite-chapter-7-season-4-admin-panel-lobby-hack-codes-list-all/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T13:44:57Z",
-    "id": "energy-131ed05cda540ea2"
-  },
-  {
-    "title": "Canada welcomes EU proposal to become 'associate member'",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
-    "timestamp": "2026-09-17T13:30:37Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.bbc.com/news/articles/cwly7vkke4jxo"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T13:30:37Z",
-    "id": "energy-22fb9a40c68918de"
-  },
-  {
-    "title": "Pokémon TCG’s 30th Celebration Set Has Incredible Pull Rates, And It’s Demolishing Resale Prices",
-    "summary": "The prettiest cards are showing up five times more frequently than in years of recent sets",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/pokemon-tgc-30th-celebration-set-pull-rates-rarity-rgb-mew-2000735250",
-    "timestamp": "2026-09-17T13:30:08Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/pokemon-tgc-30th-celebration-set-pull-rates-rarity-rgb-mew-2000735250"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T13:30:08Z",
-    "id": "energy-a4b6c0cde298291c"
-  },
-  {
-    "title": "GTA 6 Won’t Have A Game Disc But It Is Getting A Vinyl And CD Soundtrack",
-    "summary": "That’s something for the physical media lovers, I suppose",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/grand-theft-auto-6-gta6-soundtrack-vinyl-cd-pre-order-2000735270",
-    "timestamp": "2026-09-17T13:18:33Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/grand-theft-auto-6-gta6-soundtrack-vinyl-cd-pre-order-2000735270"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T13:18:33Z",
-    "id": "energy-26d3ea7f04bd2846"
-  },
-  {
-    "title": "I had Gemini train its own replacement for $9",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.petervijeh.com/projects/reddit-ner",
-    "timestamp": "2026-09-17T13:17:16Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.petervijeh.com/projects/reddit-ner"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T13:17:16Z",
-    "id": "energy-bb2f6240a5045ead"
-  },
-  {
-    "title": "Show HN: Share your AI Setup, Learn from others",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://mysetup.ai/",
-    "timestamp": "2026-09-17T13:01:44Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://mysetup.ai/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T13:01:44Z",
-    "id": "energy-c216358e228ffa79"
-  },
-  {
-    "title": "Smart Audio Plugins launches Timbral Box parallel harmonic processor",
-    "summary": "Smart Audio Plugins has released Timbral Box, a parallel harmonic processor for mixing and mastering, available for an introductory price of €48.30/$56 through September 30th, 2026. Timbral Box is a parallel harmonic processor. Instead of running the entire signal through EQ, saturation, and compression, it leaves the dry signal untouched and adds four processed layers [...] View post: Smart Audio Plugins launches Timbral Box parallel harmonic processor",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/17/smart-audio-timbral-box/",
-    "timestamp": "2026-09-17T11:26:26Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/17/smart-audio-timbral-box/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T11:26:26Z",
-    "id": "energy-f63239a0a4cfe8cc"
-  },
-  {
-    "title": "Gearmulator MD/MM is a FREE Elektron Machinedrum and Monomachine emulator",
-    "summary": "Developer Joe Landers has released Gearmulator MD/MM, a free and open-source emulation of the Elektron Machinedrum and Monomachine for macOS and Windows. Landers is also the dev behind Profligacy, the hardware-level Korg Prophecy emulator that we featured yesterday. Gearmulator MD/MM takes a similar approach to two of Elektron’s iconic instruments. This one isn’t simply inspired [...] View post: Gearmulator MD/MM is a FREE Elektron Machinedrum and Monomachine emulator",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/17/elektron-gearmulator/",
-    "timestamp": "2026-09-17T11:00:28Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/17/elektron-gearmulator/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-17T11:00:28Z",
-    "id": "energy-aa6bee2453359c42"
-  },
-  {
-    "title": "Zeros of the Spectrogram of Colored Noise",
-    "summary": "arXiv:2609.18689v1 Announce Type: new Abstract: We study the expected number of zeros of the Short-Time Fourier Transform (STFT) with a Gaussian window for signals degraded by complex Gaussian colored noise. We provide an exact formula for this quantity and investigate its asymptotic behavior. From a computational perspective, we propose an algorithmic method to recover a smoothed power spectral density (PSD) directly from the spatial distribution of the transform's zeros. Our results formalize the commonly-held heuristic that detection algorithms based on spectrogram zeros, though designed for white noise, also perform adequately under moderately colored noise.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.18689",
-    "timestamp": "2026-09-17T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.18689"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-17T04:00:00Z",
-    "id": "energy-b2b2d82ce0a50ae0"
-  },
-  {
-    "title": "Zeros of Quasimodular Forms Defined by Iterated Sums",
-    "summary": "arXiv:2609.12729v2 Announce Type: replace Abstract: We study the zeros of the quasimodular forms $G_{\\{2\\}^n}$ defined by iterated sums. We first show that, for every $n>0$, $G_{\\{2\\}^n}$ has exactly $n$ simple zeros on each of the vertical half-lines $\\Real(\\tau)=0$ and $\\Real(\\tau)=1/2$, and that the zeros for consecutive values of $n$ satisfy an interlacing property. The proof is based on an expression of $G_{\\{2\\}^n}$ in terms of the $n$-th derivative of $\\eta^3$ and on the theory of bell-shaped functions, rather than on Rankin--Swinnerton-Dyer method. We also determine the asymptotic behavior of these zeros as $n\\to\\infty$. In addition, we prove that all zeros of $G_{\\{2\\}^n}$ are simple and that $G_{\\{2\\}^n}$ has infinitely many $SL_2(\\ZZ)$-inequivalent zeros. We further show that quasimodular forms of maximal depth have no zeros at CM points. In particular, none of the zeros of $G_{\\{2\\}^n}$ are CM points. Finally, in the special case $G_{2,2}$, we show that each Ford circle contains exactly two distinct simple zeros.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.12729",
-    "timestamp": "2026-09-17T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.12729"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-17T04:00:00Z",
-    "id": "energy-87256a1c50cdb55b"
-  },
-  {
-    "title": "Zero-Density Concentration for Dirichlet Polynomials",
-    "summary": "arXiv:2609.17875v1 Announce Type: new Abstract: We prove that broad families of finite Dirichlet sums exhibit deterministic concentration of normalized vertical zero density on a single line. The main result gives a general criterion under which the normalized Jessen potentials converge locally uniformly to a piecewise-linear convex function with a single corner. The associated normalized measures describing the distribution of real parts of zeros in vertical mean density then converge weakly to a Dirac mass. Thus, for each fixed truncation, zeros may occupy a nontrivial range of real parts, while asymptotically their normalized vertical density concentrates on one line. The proof combines the finite Bohr lift with a translation-uniform anti-concentration estimate for isolated prime coordinates. We apply the criterion to partial sums of the Riemann zeta function, fixed Dirichlet $L$-functions, and primitive holomorphic Hecke eigenforms of fixed level, trivial Dirichlet character, and without complex multiplication. The concentration line is $\\operatorname{Re} s=1/2$ in the normalized setting and becomes $\\operatorname{Re} s=k/2$ for the classical Fourier coefficients of a form of…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.17875",
-    "timestamp": "2026-09-17T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.17875"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-17T04:00:00Z",
-    "id": "energy-753ced9936e00266"
-  },
-  {
-    "title": "When those 3v3 instincts kick in but it's only a 1v1",
-    "summary": "submitted by /u/Babydrone [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wif937/when_those_3v3_instincts_kick_in_but_its_only_a/",
-    "timestamp": "2026-09-17T00:51:57Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wif937/when_those_3v3_instincts_kick_in_but_its_only_a/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-17T00:51:57Z",
-    "id": "energy-8272efca4d8da76a"
-  },
-  {
-    "title": "RLCS 2026 World Championship day 3 schedule",
-    "summary": "submitted by /u/Legitimate-Sign-371 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wif8bt/rlcs_2026_world_championship_day_3_schedule/",
-    "timestamp": "2026-09-17T00:51:00Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wif8bt/rlcs_2026_world_championship_day_3_schedule/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-17T00:51:00Z",
-    "id": "energy-a9e24af85bccb0d8"
   },
   {
     "title": "How to build a more flexible, quieter, less obnoxious data center",
