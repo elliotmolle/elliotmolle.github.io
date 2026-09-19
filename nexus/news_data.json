@@ -1,5 +1,95 @@
 [
   {
+    "title": "Industry and INL collaborate to test new varieties of TRISO fuel",
+    "summary": "In the 1950s, nuclear scientists set out to design a different kind of nuclear fuel. Instead of relying primarily on reactor systems and large containment domes to prevent the release of radioactive material, researchers in the United States and Europe envisioned surrounding tiny uranium particles with their own miniature containment systems. Over the next 30 years, they developed the earliest tristructural isotropic (TRISO) fuel designs, covering particles with multiple containment layers and demonstrating that they could operate at very high temperatures while maintaining strong safety performance.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-18/article-8328/industry-and-inl-collaborate-to-test-new-varieties-of-triso-fuel/",
+    "timestamp": "2026-09-18T20:01:16Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-18/article-8328/industry-and-inl-collaborate-to-test-new-varieties-of-triso-fuel/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-18T20:01:16Z",
+    "id": "energy-216541f99eff7e85"
+  },
+  {
+    "title": "USDA opens nuclear power funding opportunity for rural electric cooperatives",
+    "summary": "A new program from the U.S. Department of Agriculture has allocated $175 million for rural electric cooperatives to expand nuclear power and improve electricity transmission in rural communities. The new Affordable Rural Cooperative Program (ARC) will begin taking letters of interest from eligible applicants for the awards—which will be offered as loans and/or grants—beginning on October 19. The window closes on November 20.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-18/article-8403/usda-opens-nuclear-power-funding-opportunity-for-rural-electric-cooperatives/",
+    "timestamp": "2026-09-18T18:28:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-18/article-8403/usda-opens-nuclear-power-funding-opportunity-for-rural-electric-cooperatives/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-18T18:28:28Z",
+    "id": "energy-7e6feaa5d83f590b"
+  },
+  {
+    "title": "Powering Affordability: Community connections lead to energy saving improvements",
+    "summary": "For Entergy Arkansas, powering affordability starts with making sure customers know what resources are available. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/powering-affordability-community-connections-lead-to-energy-saving-improvements",
+    "timestamp": "2026-09-18T17:54:06Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/powering-affordability-community-connections-lead-to-energy-saving-improvements"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-18T17:54:06Z",
+    "id": "energy-e64caaa7512c605a"
+  },
+  {
+    "title": "MSRE FLiBe arrives in Texas for reuse after decades in storage",
+    "summary": "This morning, more than 2 metric tons of FLiBe—a mixture of lithium fluoride and beryllium fluoride—was delivered to the Molten Salt Research Reactor (MSRR), a Natura Resources MSR-1, on the Abilene Christian University campus in Abilene, Texas. The shipment gives the salt a second life. It was originally used in the Molten Salt Reactor Experiment (MSRE) at Oak Ridge National Laboratory, which ceased operations in 1969. Since then, the salt has been stored with minimal use beyond the extraction of a small amount for research purposes.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-18/article-8402/msre-flibe-arrives-in-texas-for-reuse-after-decades-in-storage/",
+    "timestamp": "2026-09-18T16:32:50Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-18/article-8402/msre-flibe-arrives-in-texas-for-reuse-after-decades-in-storage/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-18T16:32:50Z",
+    "id": "energy-4328adf63c79ba85"
+  },
+  {
     "title": "Cluster Study Participation Forum materials posted online",
     "summary": "The cluster request window for the ISO’s first full cluster study opens Oct. 5 and closes Nov. 19. The post Cluster Study Participation Forum materials posted online appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -20,72 +110,6 @@
     ],
     "data_as_of": "2026-09-18T12:05:55Z",
     "id": "energy-35794ce60fca860c"
-  },
-  {
-    "title": "Hanford’s TSCR system restarted after extended downtime",
-    "summary": "Earlier this week, the Tank-Side Cesium Removal (TSCR) system at the Department of Energy’s Hanford Site near Richland, Wash., returned to service following a pause in operation that began on February 25. The system, which produces low-level waste material by filtering radioactive cesium and solid materials from liquid waste, normally is available for a new treatment cycle about two weeks after a previous batch of waste has been processed. However, operators at Hanford decided against restarting the system in March, because Tank AP-106, which has been the storage receptacle for TSCR-processed material, was “too full” at the time to accept more LLW, according to the DOE.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-18/article-8400/hanfords-tscr-system-restarted-after-extended-downtime/",
-    "timestamp": "2026-09-18T12:05:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-18/article-8400/hanfords-tscr-system-restarted-after-extended-downtime/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-18T12:05:32Z",
-    "id": "energy-a75b384e2617a63d"
-  },
-  {
-    "title": "STEP Fusion program announces manufacturing and project partnerships",
-    "summary": "On Tuesday, U.K. Fusion Energy announced a strategic partnership with an advanced manufacturing company to support the STEP (Spherical Tokamak for Energy Production) Fusion program. On the same day, Kyoto Fusioneering announced it would invest in a breeding blanket experiment that would be designed to advance STEP.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-17/article-8399/step-fusion-program-announces-manufacturing-and-project-partnerships/",
-    "timestamp": "2026-09-17T20:15:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-17/article-8399/step-fusion-program-announces-manufacturing-and-project-partnerships/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-17T20:15:59Z",
-    "id": "energy-242b5f9470cead02"
-  },
-  {
-    "title": "ORNL develops air duct radiation monitoring system for fuel cycle facilities",
-    "summary": "An Oak Ridge National Laboratory research team led by embedded systems hardware and software engineer Brett Witherspoon has developed a monitoring system that can continuously evaluate the accumulation of radiological materials inside the air ducts of facilities that fabricate nuclear fuel or process nuclear waste.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-17/article-8398/ornl-develops-air-duct-radiation-monitoring-system-for-fuel-cycle-facilities/",
-    "timestamp": "2026-09-17T17:29:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-17/article-8398/ornl-develops-air-duct-radiation-monitoring-system-for-fuel-cycle-facilities/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-17T17:29:20Z",
-    "id": "energy-c99bb9f578ae5222"
   },
   {
     "title": "Preferred regional longer-term transmission solution moves on to next steps",
@@ -156,51 +180,5 @@
     ],
     "data_as_of": "2026-09-16T20:51:05Z",
     "id": "energy-18c2e6a5040bcaca"
-  },
-  {
-    "title": "Entergy New Orleans supports expectant mothers through community baby showers",
-    "summary": "Entergy New Orleans recently supported two community baby showers in New Orleans, providing expectant mothers with essential resources as they prepare to welcome new additions to their families. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-supports-expectant-mothers-through-community-baby-showers",
-    "timestamp": "2026-09-16T16:07:35Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-supports-expectant-mothers-through-community-baby-showers"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-16T16:07:35Z",
-    "id": "energy-1e8df628302453f5"
-  },
-  {
-    "title": "ISO Minute: The tools that power the people behind the grid",
-    "summary": "Jaren Lutenegger explains how his team helps equip the ISO-NE employees operating the grid and wholesale markets. The post ISO Minute: The tools that power the people behind the grid appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/09/16/iso-minute-the-tools-that-power-the-people-behind-the-grid/",
-    "timestamp": "2026-09-16T12:12:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/09/16/iso-minute-the-tools-that-power-the-people-behind-the-grid/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-09-16T12:12:50Z",
-    "id": "energy-bd36f6b58a0cb8ba"
   }
 ]
