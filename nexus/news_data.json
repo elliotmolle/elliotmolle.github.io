@@ -132,53 +132,5 @@
     ],
     "data_as_of": "2026-09-17T15:15:22Z",
     "id": "energy-cc563bb2fd662f2e"
-  },
-  {
-    "title": "Entergy Mississippi welcomes Smith-Jeuitt as senior media relations specialist",
-    "summary": "Entergy Mississippi has added Tamica Jeuitt to its communications team as a senior media relations specialist supporting the company’s media and external relations strategy, including serving as a company spokesperson. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-mississippi-welcomes-smith-jeuitt-as-senior-media-relations-specialist",
-    "timestamp": "2026-09-16T22:27:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-mississippi-welcomes-smith-jeuitt-as-senior-media-relations-specialist"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-16T22:27:08Z",
-    "id": "energy-b3ad5beeed7c775f"
-  },
-  {
-    "title": "Entergy Louisiana President and CEO Phillip May discusses economic growth and energy infrastructure on FUELED podcast",
-    "summary": "Entergy Louisiana President and CEO Phillip May recently joined Kathryn Fenstermaker for Episode 7 of FUELED to discuss the intersection of economic development and energy infrastructure in Louisiana. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-louisiana-president-and-ceo-phillip-may-discusses-economic-growth-and-energy-infrastructure-on-fueled-podcast",
-    "timestamp": "2026-09-16T20:51:05Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-louisiana-president-and-ceo-phillip-may-discusses-economic-growth-and-energy-infrastructure-on-fueled-podcast"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-16T20:51:05Z",
-    "id": "energy-18c2e6a5040bcaca"
   }
 ]
