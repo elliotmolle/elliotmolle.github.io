@@ -1,398 +1,398 @@
 [
   {
-    "title": "Disney Plus Just Proved You Won't Be Able to Escape Ads On Any Tier",
-    "summary": "According to a recent update to Disney Plus' subscriber agreement, ads may now appear regardless of users' subscription tier.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/disney-plus-subscriber-agreement-ads-every-plan/",
-    "timestamp": "2026-09-20T13:51:02Z",
+    "title": "Destiny 2′/’s Red War And Other Vaulted Content Is Coming Back Over Six Years Later",
+    "summary": "Bungie is restoring the game to its former glory",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/destiny-2s-red-war-and-other-vaulted-content-is-coming-back-over-six-years-later-2000736168",
+    "timestamp": "2026-09-21T16:10:35Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/disney-plus-subscriber-agreement-ads-every-plan/"
+      "https://kotaku.com/destiny-2s-red-war-and-other-vaulted-content-is-coming-back-over-six-years-later-2000736168"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-20T13:51:02Z",
-    "id": "energy-e8f81c7a586662be"
+    "data_as_of": "2026-09-21T16:10:35Z",
+    "id": "energy-91fb29dc7a1fb157"
   },
   {
-    "title": "Kojima Productions Confirms The Studio Is Alright After Concerning Physint Report",
-    "summary": "\"The studio is in a healthy, profitable state,\" Kojima Productions stated, refuting Bloomberg's reporting on Physint's rocky development",
+    "title": "Pokémon Scalpers Are Officially Melting Down Over 30th Anniversary TCG Set and It's Glorious",
+    "summary": "Viral Discord and social media posts show resellers crashing out over how much money they're losing on Pokémon 30th anniversary ETBs",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/physint-report-skepticism-kojima-productions-statement/",
-    "timestamp": "2026-09-20T13:36:59Z",
+    "url": "https://www.polygon.com/pokemon-30th-anniversary-tcg-scalpers-discord-card-pack-posts/",
+    "timestamp": "2026-09-21T16:01:28Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/physint-report-skepticism-kojima-productions-statement/"
+      "https://www.polygon.com/pokemon-30th-anniversary-tcg-scalpers-discord-card-pack-posts/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-20T13:36:59Z",
-    "id": "energy-adf7f460794ac6d6"
+    "data_as_of": "2026-09-21T16:01:28Z",
+    "id": "energy-78a1aa0a56490cad"
   },
   {
-    "title": "Falcons CC Crespor Response to the Vatira/Zen/Atow Rumors",
-    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "title": "Bethesda Is Taking Legal Action Against Doom-Themed Memecoin Promoted By Former Doom Designer",
+    "summary": "Hope he's doing well",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/bethesda-legal-action-doom-memecoin-designer-2000735731",
+    "timestamp": "2026-09-21T16:00:49Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/bethesda-legal-action-doom-memecoin-designer-2000735731"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-21T16:00:49Z",
+    "id": "energy-45466b50618bcf83"
+  },
+  {
+    "title": "PlayStation Teams Up with K-Pop Star for New Hardware Release",
+    "summary": "PlayStation and Lisa have worked together to bring fans an array of themed goodies, ranging from a limited-edition controller to hoodies and stickers.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/playstation-lisa-blackpink-collab-controller/",
+    "timestamp": "2026-09-21T15:59:46Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/playstation-lisa-blackpink-collab-controller/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-21T15:59:46Z",
+    "id": "energy-6654acc5c0c0c7ed"
+  },
+  {
+    "title": "'Reacher' Star Says Season Where He Kills His Way Through a White Supremacist Militia Scrapped After ‘Someone Got Re-Elected'",
+    "summary": "'Reacher' star Alan Ritchson implied that a season adapting the second book in the series was shelved when Trump got re-elected.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/reacher-alan-ritchson-scrapped-season-white-supremacists-trump/",
+    "timestamp": "2026-09-21T15:57:31Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/reacher-alan-ritchson-scrapped-season-white-supremacists-trump/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-21T15:57:31Z",
+    "id": "energy-d28da2cb54e8077c"
+  },
+  {
+    "title": "Grok 4.7",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://x.ai/news/grok-4-7",
+    "timestamp": "2026-09-21T15:50:15Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://x.ai/news/grok-4-7"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-21T15:50:15Z",
+    "id": "energy-f57c5cf685da28bc"
+  },
+  {
+    "title": "RLCS Worlds 2026 had a peak viewership of 704,000 (KC vs FLCN) - all-time record for the game",
+    "summary": "submitted by /u/Lukasz__ [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wlh8hp/falcons_cc_crespor_response_to_the_vatirazenatow/",
-    "timestamp": "2026-09-20T13:33:42Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wmg6ta/rlcs_worlds_2026_had_a_peak_viewership_of_704000/",
+    "timestamp": "2026-09-21T15:34:49Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wlh8hp/falcons_cc_crespor_response_to_the_vatirazenatow/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wmg6ta/rlcs_worlds_2026_had_a_peak_viewership_of_704000/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-20T13:33:42Z",
-    "id": "energy-0c7296e4fc9770d4"
+    "data_as_of": "2026-09-21T15:34:49Z",
+    "id": "energy-782a676fb57f7203"
   },
   {
-    "title": "Teen Social Media Bans Miss the Point",
+    "title": "Good people refuse to do bad things",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/",
-    "timestamp": "2026-09-20T13:32:14Z",
+    "url": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/",
+    "timestamp": "2026-09-21T15:31:47Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/"
+      "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-20T13:32:14Z",
-    "id": "energy-5055876b5c24b3b7"
+    "data_as_of": "2026-09-21T15:31:47Z",
+    "id": "energy-6de7810a7dc0348f"
   },
   {
-    "title": "Do birds have accents? the regional differences in birdsong",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
-    "timestamp": "2026-09-20T13:19:32Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-20T13:19:32Z",
-    "id": "energy-dfa02aa7e41a9c53"
-  },
-  {
-    "title": "Hideo Kojima Says Sony Canceled Physint Over A Zoom Call And Claims He Still Doesn’t Know The Reason Why",
-    "summary": "The relationship is apparently still okay, though",
+    "title": "Bethesda Updates Oblivion Remastered On Switch 2, Makes It Worse",
+    "summary": "It's a classic tradition at this point for Bethesda to break its games with patches",
     "source": "Kotaku",
-    "url": "https://kotaku.com/hideo-kojima-says-sony-canceled-physint-over-a-zoom-call-and-he-still-doesnt-know-the-reason-why-2000735931",
-    "timestamp": "2026-09-20T13:12:45Z",
+    "url": "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-makes-it-worse-2000736105",
+    "timestamp": "2026-09-21T15:30:04Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/hideo-kojima-says-sony-canceled-physint-over-a-zoom-call-and-he-still-doesnt-know-the-reason-why-2000735931"
+      "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-makes-it-worse-2000736105"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-20T13:12:45Z",
-    "id": "energy-a89b77a266402671"
+    "data_as_of": "2026-09-21T15:30:04Z",
+    "id": "energy-5e41eb899e3d36c4"
   },
   {
-    "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-    "timestamp": "2026-09-20T13:09:25Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://qwen.ai/blog?id=qwen-image-2.1"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-20T13:09:25Z",
-    "id": "energy-1681066caec62adf"
-  },
-  {
-    "title": "Zen, Vatira, and Atow set to form a team for the 2027 season",
-    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "title": "The Entire World is trying to call shots on Dralii",
+    "summary": "Canada -- Morroco -- France -- Saudi --- Entire NA --- Entire EU submitted by /u/spikyraccoon [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wlglkh/zen_vatira_and_atow_set_to_form_a_team_for_the/",
-    "timestamp": "2026-09-20T13:05:13Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wmfp29/the_entire_world_is_trying_to_call_shots_on_dralii/",
+    "timestamp": "2026-09-21T15:16:56Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wlglkh/zen_vatira_and_atow_set_to_form_a_team_for_the/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wmfp29/the_entire_world_is_trying_to_call_shots_on_dralii/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-20T13:05:13Z",
-    "id": "energy-4154ebcdf78a6c4b"
+    "data_as_of": "2026-09-21T15:16:56Z",
+    "id": "energy-2a1143e331050c94"
   },
   {
-    "title": "Wit Studio President George Wada Is Ready to Bring One Piece to a New Generation",
-    "summary": "George Wada speaks about the honor and burden of bringing Japan's 'treasure' One Piece to a new audience.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/one-piece-remake-wit-studio-president-george-wada-interview/",
-    "timestamp": "2026-09-20T13:00:17Z",
-    "topic": "Gaming",
+    "title": "Get NOS Audio Little Lush Halls reverb FREE for a limited time",
+    "summary": "NOS Audio’s Little Lush Halls reverb plugin is free at JRR Shop with coupon code subscribersonly. The plugin normally costs $29, although JRR currently lists it for $20 before the coupon. Add it to your cart, enter subscribersonly in the Discount Codes box, and the total drops to $0.00. I verified that the code works. [...] View post: Get NOS Audio Little Lush Halls reverb FREE for a limited time",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/21/nos-audio-little-lush/",
+    "timestamp": "2026-09-21T14:47:39Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/one-piece-remake-wit-studio-president-george-wada-interview/"
+      "https://bedroomproducersblog.com/2026/09/21/nos-audio-little-lush/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-20T13:00:17Z",
-    "id": "energy-45bd0b6caefa17b1"
+    "data_as_of": "2026-09-21T14:47:39Z",
+    "id": "energy-6615d959610e8ab4"
   },
   {
-    "title": "Worlds Bundle Player Awards (Spoilers for top 8 teams)",
-    "summary": "Heading into the final day, here are the players to look out for when it comes to the stat-based awards. Only players in the top 8 teams can receive awards, and only the top 3 players from each statistic will share a cut of the Worlds Bundle profits. Goals Per Game: Chronic leads the pack at 1 goal per game, quite far out in front. Atomic is next up with 0.95, and shortly after is Tawk with 0.92 per game. From there, both Zach and Reveal register 0.88 per game, Cheese at 0.86 and Vatira at 0.84. If SSG want to get their hands on one of them, its going to have to come from this duo; Diaz sits all the way in last place, with 0.38 per game, with the largest gap to 2nd from bottom Beastmode (0.45). 3 players tie for 3rd from bottom, with exactly 0.5 goals per game. All 3 are on Gentlemates. Assists Per Game: Cheese has run away with playmaker; he sits 0.08 per game above Daniel's 0.75 tally. Vatira sits a bit behind at 0.68, with Firstkiller breathing down his neck at 0.67. Vatira is going to have to keep up the assists if he doesnt want to fall below FK. Rw9 and Kiileerrz trail at 0.63 each. Both Moroccans sit in the bottom 4; Nass accompanied by teammate Archie, with the lowest tall…",
+    "title": "Heat Wave Pushes Midcontinent Power Prices To Triple Digits, Highlights Regional Spreads",
+    "summary": "By Markham Watson • Indiana Hub prices surge to $964/MWh • Grid transfer limits drive $600 price gap Amid the heat wave that caused an Energy Emergency Alert in the Midcontinent Independent System Operator, real-time power prices hit triple digits across the system, especially during the evening solar power ramp, and the spread multiplied between […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/heat-wave-pushes-midcontinent-power-prices-to-triple-digits-highlights-regional-spreads/",
+    "timestamp": "2026-09-21T14:40:54Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/heat-wave-pushes-midcontinent-power-prices-to-triple-digits-highlights-regional-spreads/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-21T14:40:54Z",
+    "id": "energy-5acabe63a8db9f81"
+  },
+  {
+    "title": "MISO Stakeholders Repeat Calls For Fair Cost Splits On Large Load Tx Work",
+    "summary": "By Amanda Durish Cook MISO stakeholders are increasingly concerned about the potential for costs from large load customers who require increasingly complex transmission projects to spill over onto the RTO’s other customers. Notable Quote “MISO needs to think creatively about how to ensure that large loads are a benefit to the broader system, justifying their […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/miso-stakeholders-repeat-calls-for-fair-cost-splits-on-large-load-tx-work/",
+    "timestamp": "2026-09-21T14:40:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/miso-stakeholders-repeat-calls-for-fair-cost-splits-on-large-load-tx-work/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-21T14:40:14Z",
+    "id": "energy-c2d9d5f0d6e8b93a"
+  },
+  {
+    "title": "Cost Of The Campbell: How A West Michigan Coal Plant Became The Epicenter For A U.S. Energy War",
+    "summary": "By Sarah Leach What was supposed to be a straightforward retirement for one of Michigan’s largest coal-fired power plants has devolved into a multi-hundred-million-dollar tug-of-war between federal energy officials, state regulators and community advocates. On Sept. 11, the U.S. Court of Appeals struck down the Department of Energy’s emergency orders that forced Consumers Energy to […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/cost-of-the-campbell-how-a-west-michigan-coal-plant-became-the-epicenter-for-a-u-s-energy-war/",
+    "timestamp": "2026-09-21T14:39:34Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/cost-of-the-campbell-how-a-west-michigan-coal-plant-became-the-epicenter-for-a-u-s-energy-war/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-21T14:39:34Z",
+    "id": "energy-2a5fd786b354618c"
+  },
+  {
+    "title": "Meta bans ads for Virginia Woolf play in Spain",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+    "timestamp": "2026-09-21T14:30:39Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-21T14:30:39Z",
+    "id": "energy-439302de2aa96725"
+  },
+  {
+    "title": "Get Krampfstadt Studio’s $35 WIND GUSTS library FREE until September 23",
+    "summary": "A Sound Effect is giving away Krampfstadt Studio’s WIND GUSTS sound effects library, normally priced at $35, for a very limited time. The offer ends at 23:59 CET on Wednesday, September 23, 2026, so there isn’t much time to grab it. WIND GUSTS contains 37 WAV files and 37 minutes of storm recordings, totaling 3.14 [...] View post: Get Krampfstadt Studio’s $35 WIND GUSTS library FREE until September 23",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/21/krampfstadt-studio-wind-gusts/",
+    "timestamp": "2026-09-21T14:24:22Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/21/krampfstadt-studio-wind-gusts/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-21T14:24:22Z",
+    "id": "energy-9c0ec97365ee239b"
+  },
+  {
+    "title": "Killeerz shots are so satisfying.",
+    "summary": "submitted by /u/Even_Storage_9716 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wlgfh2/worlds_bundle_player_awards_spoilers_for_top_8/",
-    "timestamp": "2026-09-20T12:57:52Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wme0v8/killeerz_shots_are_so_satisfying/",
+    "timestamp": "2026-09-21T14:15:05Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wlgfh2/worlds_bundle_player_awards_spoilers_for_top_8/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wme0v8/killeerz_shots_are_so_satisfying/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-20T12:57:52Z",
-    "id": "energy-667b0866160f8895"
+    "data_as_of": "2026-09-21T14:15:05Z",
+    "id": "energy-3c1c87f5efdf58ab"
   },
   {
-    "title": "Hakuna Audio releases FREE Hakunizer one-knob enhancer plugin",
-    "summary": "Hakuna Audio has released Hakunizer, a free one-knob enhancer plugin for macOS and Windows. The workflow immediately reminded me of Image-Line’s old Soundgoodizer. Just like in FL Studio’s old multiband sound enhancer, you choose one of four programs labeled A, B, C, and D, then turn a single large knob until the result sounds good. [...] View post: Hakuna Audio releases FREE Hakunizer one-knob enhancer plugin",
+    "title": "Distance Simulator by 194dB Audio is FREE for a limited time",
+    "summary": "Developer 194dB Audio has made its Distance Simulator plugin for macOS and Windows free for a limited time. Distance Simulator is an easy-to-use plugin that does exactly what the name suggests; it simulates distance. More specifically, it recreates the tonal balance of a faraway sound more realistically than simply turning the volume down. Distance Simulator [...] View post: Distance Simulator by 194dB Audio is FREE for a limited time",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/20/hakuna-audio-hakunizer/",
-    "timestamp": "2026-09-20T12:08:52Z",
+    "url": "https://bedroomproducersblog.com/2026/09/21/distance-simulator-194db-audio/",
+    "timestamp": "2026-09-21T13:28:45Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/20/hakuna-audio-hakunizer/"
+      "https://bedroomproducersblog.com/2026/09/21/distance-simulator-194db-audio/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-20T12:08:52Z",
-    "id": "energy-89131b681d621d26"
+    "data_as_of": "2026-09-21T13:28:45Z",
+    "id": "energy-43584db35859b7e3"
   },
   {
-    "title": "ModeAudio Quiet Piano Ambient Loops: Cinematic upright piano samples",
-    "summary": "ModeAudio has released the Quiet Piano Ambient Loops, a collection of 833MB worth of royalty-free music loops and MIDI. The piano is arguably the most versatile instrument; a single performance can be percussive, rhythmic, harmonic, and melodic all at once, with as much polyphony as your fingers can manage. But despite having all that potential [...] View post: ModeAudio Quiet Piano Ambient Loops: Cinematic upright piano samples",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/20/modeaudio-quiet-piano-ambient-loops/",
-    "timestamp": "2026-09-20T11:53:28Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/20/modeaudio-quiet-piano-ambient-loops/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-20T11:53:28Z",
-    "id": "energy-26395af8712065e4"
-  },
-  {
-    "title": "Get Safari Audio Time Machine FREE in UJAM collaboration",
-    "summary": "Safari Audio and UJAM have teamed up to give Time Machine away for free to UJAM users for a limited time. The vintage character plugin normally costs $49, and Safari Audio has not published an expiry date for the collaboration offer, so it is probably best to claim it sooner rather than later. Visit the [...] View post: Get Safari Audio Time Machine FREE in UJAM collaboration",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/20/safari-audio-time-machine-free/",
-    "timestamp": "2026-09-20T11:52:49Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/20/safari-audio-time-machine-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-20T11:52:49Z",
-    "id": "energy-f98469f6a05b5081"
-  },
-  {
-    "title": "Nintendo Gives Mario Those Little Coin Pockets In Newly Updated Renders",
-    "summary": "Eagle eyed fans spotted a cosmetic change to Mario’s character model, giving video game’s biggest superstar a greater ability to carry a BiC lighter",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/nintendo-gives-mario-those-little-coin-pockets-in-newly-updated-renders-2000735891",
-    "timestamp": "2026-09-19T20:48:55Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/nintendo-gives-mario-those-little-coin-pockets-in-newly-updated-renders-2000735891"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-19T20:48:55Z",
-    "id": "energy-5247770027cd91cb"
-  },
-  {
-    "title": "Father Says Nine-Year-Old Spent Over $100K Plugging Minecraft YouTube Videos And Cost Him His Job",
-    "summary": "'Mighty Mike Plays' spent six figures advertising his Minecraft videos through his father's corporate card, in a now viral video the parent says he has a month to recoup the costs",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/father-says-nine-year-old-spent-over-100k-plugging-minecraft-youtube-videos-and-cost-him-his-job-2000735884",
-    "timestamp": "2026-09-19T19:52:51Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/father-says-nine-year-old-spent-over-100k-plugging-minecraft-youtube-videos-and-cost-him-his-job-2000735884"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-19T19:52:51Z",
-    "id": "energy-e1149e0ddc888372"
-  },
-  {
-    "title": "MISO Powers Through ‘Hot, Hot, Hot’ Summer; IMM Decries Max Gen Reprice",
-    "summary": "By Amanda Durish Cook The Independent Market Monitor said MISO’s repricing of several hours during a summertime heat wave emergency eroded faith in MISO’s markets. Why This Matters MISO’s IMM said hours of market repricing during an emergency in mid-July 2026 never should have happened. MISO, meanwhile, reported to its Board of Directors that it […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/miso-powers-through-hot-hot-hot-summer-imm-decries-max-gen-reprice/",
-    "timestamp": "2026-09-18T14:39:03Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/miso-powers-through-hot-hot-hot-summer-imm-decries-max-gen-reprice/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-18T14:39:03Z",
-    "id": "energy-9428a60c3eb02086"
-  },
-  {
-    "title": "MISO Lowers Customer Experience Survey Goals, Cites On-Edge Industry",
-    "summary": "By Amanda Durish Cook MISO is moving the goalposts and creating a new definition of “excellent” in its customer experience survey as it’s forced to implement more drastic measures to maintain reliability that could be unpopular with certain stakeholders. Why This Matters MISO is loosening some targets for its annual customer experience survey as its […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/miso-lowers-customer-experience-survey-goals-cites-on-edge-industry/",
-    "timestamp": "2026-09-18T14:38:25Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/miso-lowers-customer-experience-survey-goals-cites-on-edge-industry/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-18T14:38:25Z",
-    "id": "energy-55d0e5bcaf07de0c"
-  },
-  {
-    "title": "MISO Seeks FERC’s OK To Extend Expedited Power Project Queue To Year-End 2027",
-    "summary": "By Ronnie Turner • Would allow retail choice projects more time to apply • No applications yet from retail choice projects: MISO The Midcontinent Independent System Operator has requested authorization from federal regulators to extend the sunset date on its expedited interconnection queue process by four months to Dec. 31, 2027, to provide developers of […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/miso-seeks-fercs-ok-to-extend-expedited-power-project-queue-to-year-end-2027/",
-    "timestamp": "2026-09-18T14:37:41Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/miso-seeks-fercs-ok-to-extend-expedited-power-project-queue-to-year-end-2027/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-18T14:37:41Z",
-    "id": "energy-50b397bb7d2cc748"
-  },
-  {
-    "title": "How energy politics work inside DC",
-    "summary": "A conversation with Frank Maisano.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/how-energy-politics-work-inside-dc",
-    "timestamp": "2026-09-18T10:04:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/how-energy-politics-work-inside-dc"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-09-18T10:04:22Z",
-    "id": "energy-5266719ff52574d3"
-  },
-  {
-    "title": "Zero-product problem for Toeplitz operators on the Fock space",
-    "summary": "arXiv:2609.20555v1 Announce Type: new Abstract: We answer Bauer and Le's question on zero products of Toeplitz operators on the Fock space $F^2(\\mathbb C^n)$[JFA, 261 (2011), 9, 2617--2640]. For $n\\ge2$, we construct two bounded nonradial Schwartz symbols on $\\mathbb C^n$ whose Toeplitz operators are nonzero and have zero product on $F^2(\\mathbb C^n)$. For $n=1$ and each $c\\in(1/2,1)$, we construct two smooth nonradial symbols of growth at most $Ce^{c|z|^2}$ for some constant $C>0$. Their extended Toeplitz operators in $F^2(\\mathbb C)$ are nonzero and have zero product on all holomorphic polynomials. Moreover, the second symbol is bounded when $c\\geq3/4$. Our proofs use Gaussian kernel calculations, matrix identities, theta functions and Fourier transform.",
+    "title": "Zeros of the Spectrogram of Colored Noise",
+    "summary": "arXiv:2609.18689v2 Announce Type: replace Abstract: We study the expected number of zeros of the Short-Time Fourier Transform (STFT) with a Gaussian window for signals degraded by complex Gaussian colored noise. We provide an exact formula for this quantity and investigate its asymptotic behavior. From a computational perspective, we propose an algorithmic method to recover a smoothed power spectral density (PSD) directly from the spatial distribution of the transform's zeros. Our results formalize the commonly-held heuristic that detection algorithms based on spectrogram zeros, though designed for white noise, also perform adequately under moderately colored noise.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.20555",
-    "timestamp": "2026-09-18T04:00:00Z",
+    "url": "https://arxiv.org/abs/2609.18689",
+    "timestamp": "2026-09-21T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2609.20555"
+      "https://arxiv.org/abs/2609.18689"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-09-18T04:00:00Z",
-    "id": "energy-ae808fe69a6cf6fd"
+    "data_as_of": "2026-09-21T04:00:00Z",
+    "id": "energy-b2b2d82ce0a50ae0"
   },
   {
-    "title": "Wideband Directional $\\mathcal{H}^2$-Matrix Compression for the Electric Field Integral Equation with Geometry-Adaptive Cluster Trees",
-    "summary": "arXiv:2609.19431v1 Announce Type: new Abstract: We present an efficient wideband construction of directional $\\mathcal{H}^2$-matrices for the electrical field integral equation that, in contrast to existing constructions, supports not only box trees but also geometry-adaptive cluster trees. To accommodate geometry-adaptive cluster trees, we determine the number of directions from the electrical size of each cluster (instead of the level of a box tree), construct the directions using Spherical-Fibonacci points, and establish a hierarchy between the direction sets of a cluster and its children through an angular nearest-neighbor mapping. We construct the nested directional representation using the incomplete adaptive cross approximation, for which we introduce a robustified tree-mimicry pivoting strategy that prevents premature convergence for block-structured matrices arising from certain geometries and meshes. Numerical results demonstrate that the proposed approach achieves the desired accuracy, requires no more storage than the octree-based construction and substantially less when the geometry or discretization is poorly matched to octree clustering, and exhibits the expected $\\…",
+    "title": "Wild frieze patterns over the integers",
+    "summary": "arXiv:2609.20967v1 Announce Type: new Abstract: We study frieze patterns over the integers that are allowed to have wild entries. We introduce the quiddity number as a new invariant. The quiddity number is then used to classify strongly connected components of the directed graph $\\Gamma_{2,n}(\\mathbb{Z})$. Furthermore, we show that every finite simple directed graph arises as an induced subgraph of a directed graph $\\Gamma_{2,n}(\\mathbb{Z})$ for $n$ sufficiently large.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.19431",
-    "timestamp": "2026-09-18T04:00:00Z",
+    "url": "https://arxiv.org/abs/2609.20967",
+    "timestamp": "2026-09-21T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2609.19431"
+      "https://arxiv.org/abs/2609.20967"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-09-18T04:00:00Z",
-    "id": "energy-9f802d29cdbc8261"
+    "data_as_of": "2026-09-21T04:00:00Z",
+    "id": "energy-50ccecfe7a5a9e80"
+  },
+  {
+    "title": "What Must Survive? Exact Task-Information--State Frontiers for Resource-Sufficient Learning",
+    "summary": "arXiv:2609.21523v1 Announce Type: cross Abstract: A system may be compressed before its downstream task is fully known. We ask how much retained state is then necessary and how much can be saved by limited advance task information. For a finite family of linear tasks, a task message is revealed before state formation and the exact task only afterwards. For an advice alphabet of size $K$, the exact frontier is \\[ p^*(K)= \\min_{\\substack{\\Pcal\\text{ partition of }\\U\\\\|\\Pcal|\\le K}} \\max_{C\\in\\Pcal}\\rank(T_C), \\] with the $b$-bit frontier obtained by setting $K=\\min(2^b,|\\U|)$. Thus advance task information reduces state through partitions whose joint task operators have low rank. We also give an approximate singular-value frontier, a common-core lower bound and exact direct-sum law, and strong NP-hardness of finding an optimal advice partition. The hardness persists at every fixed positive approximation tolerance. Three examples illustrate the result. A well-conditioned softmax attention construction gives an exact $524{,}288\\to1{,}024$ coordinate frontier when nine bits resolve one of $512$ continuations. A domain-decomposed digital twin yields an interface-plus-local-state law and…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.21523",
+    "timestamp": "2026-09-21T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.21523"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-21T04:00:00Z",
+    "id": "energy-b3538566c465e6d7"
   }
 ]
