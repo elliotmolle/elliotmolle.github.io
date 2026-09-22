@@ -1,16 +1,16 @@
 [
   {
-    "title": "Centrus touts unobligated uranium production in HALEU agreements",
-    "summary": "In two recent announcements of partnerships with private microreactor developers, Centrus Energy Corp. declared that the high-assay low-enriched uranium it has agreed to provide both developers will be “unobligated,” meaning it will be produced entirely within the United States without use of foreign equipment or material. Centrus announced its multiyear contract with Radiant on September 9 and revealed a similar contract with Antares Nuclear on September 17. In both cases, Centrus noted that its AC100 centrifuge technology, which it will use to produce both low-enriched uranium and HALEU, originates in the United States and can be built using materials from domestic supply chains.",
+    "title": "Powering Smarter Nuclear Fuel Management with CMS5",
+    "summary": "For nuclear power operators, the challenge is no longer simply running a reliable plant. Today’s utilities must optimize fuel investments, manage evolving reactor designs, meet regulatory requirements, and respond quickly to changing operating conditions.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-21/article-8412/centrus-touts-unobligated-uranium-production-in-haleu-agreements/",
-    "timestamp": "2026-09-21T15:33:44Z",
+    "url": "https://www.ans.org/news/2026-09-22/article-8322/powering-smarter-nuclear-fuel-management-with-cms5/",
+    "timestamp": "2026-09-22T12:10:40Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-21/article-8412/centrus-touts-unobligated-uranium-production-in-haleu-agreements/"
+      "https://www.ans.org/news/2026-09-22/article-8322/powering-smarter-nuclear-fuel-management-with-cms5/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-21T15:33:44Z",
-    "id": "energy-199612d092214636"
+    "data_as_of": "2026-09-22T12:10:40Z",
+    "id": "energy-3f81292bb6451b7e"
   },
   {
-    "title": "Supplier showcase: Framatome gives talk on modernizing safety I&C",
-    "summary": "The American Nuclear Society recently hosted a Supplier Showcase webinar, “Modernizing Safety I&C: Practical Strategies and a Path Forward for Analog and Digital Systems,” featuring two speakers from Framatome: Logan Davenport, supervisor of product development and life cycle maintenance, and Erica Hindle, an I&C safety system software engineer.",
+    "title": "TerraPower, Bechtel part ways on Natrium project",
+    "summary": "Engineering, construction, and project management firm Bechtel will no longer be involved with TerraPower’s Natrium power plant project in Kemmerer, Wyo., after the two companies were unable to reach an agreement on the next phase of the project.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-21/article-8404/supplier-showcase-framatome-gives-talk-on-modernizing-safety-ic/",
-    "timestamp": "2026-09-21T12:14:44Z",
+    "url": "https://www.ans.org/news/2026-09-21/article-8417/terrapower-bechtel-part-ways-on-natrium-project/",
+    "timestamp": "2026-09-21T20:47:16Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-21/article-8404/supplier-showcase-framatome-gives-talk-on-modernizing-safety-ic/"
+      "https://www.ans.org/news/2026-09-21/article-8417/terrapower-bechtel-part-ways-on-natrium-project/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-21T12:14:44Z",
-    "id": "energy-40a465b111625089"
+    "data_as_of": "2026-09-21T20:47:16Z",
+    "id": "energy-ac87b582e6003ac6"
   },
   {
-    "title": "Industry and INL collaborate to test new varieties of TRISO fuel",
-    "summary": "In the 1950s, nuclear scientists set out to design a different kind of nuclear fuel. Instead of relying primarily on reactor systems and large containment domes to prevent the release of radioactive material, researchers in the United States and Europe envisioned surrounding tiny uranium particles with their own miniature containment systems. Over the next 30 years, they developed the earliest tristructural isotropic (TRISO) fuel designs, covering particles with multiple containment layers and demonstrating that they could operate at very high temperatures while maintaining strong safety performance.",
+    "title": "Army announces new power projects for installations",
+    "summary": "In an update to the Department of Defense’s ongoing efforts to bring nuclear demonstrations on line, the Army has announced the conditional award of long-term leases to three companies that will aim to deploy new power generation at Army installations. Despite at least one of these three contracts involving nuclear generation, these new leases are apparently unrelated to the Army’s ongoing Janus program.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-18/article-8328/industry-and-inl-collaborate-to-test-new-varieties-of-triso-fuel/",
-    "timestamp": "2026-09-18T20:01:16Z",
+    "url": "https://www.ans.org/news/2026-09-21/article-8416/army-announces-new-power-projects-for-installations/",
+    "timestamp": "2026-09-21T19:28:53Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-18/article-8328/industry-and-inl-collaborate-to-test-new-varieties-of-triso-fuel/"
+      "https://www.ans.org/news/2026-09-21/article-8416/army-announces-new-power-projects-for-installations/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,21 +62,43 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-18T20:01:16Z",
-    "id": "energy-216541f99eff7e85"
+    "data_as_of": "2026-09-21T19:28:53Z",
+    "id": "energy-f792b2f2aa377cdc"
   },
   {
-    "title": "Powering Affordability: Community connections lead to energy saving improvements",
-    "summary": "For Entergy Arkansas, powering affordability starts with making sure customers know what resources are available. Source",
+    "title": "500 ‘duck curves’ and counting: Growth of solar power brings another New England electricity milestone",
+    "summary": "On sunny days, demand for electricity from the regional power grid can dip lower at midday than overnight. The post 500 ‘duck curves’ and counting: Growth of solar power brings another New England electricity milestone appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/09/21/500-duck-curves-and-counting-growth-of-solar-power-brings-another-new-england-electricity-milestone/",
+    "timestamp": "2026-09-21T17:50:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/09/21/500-duck-curves-and-counting-growth-of-solar-power-brings-another-new-england-electricity-milestone/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-09-21T17:50:21Z",
+    "id": "energy-6a6f45a898e13c10"
+  },
+  {
+    "title": "Entergy receives 52nd EEI Emergency Response Award for response to winter storm",
+    "summary": "Entergy Corporation was named a recipient of the Edison Electric Institute’s Emergency Response Award for its outstanding response following the January 2026 winter storm. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/powering-affordability-community-connections-lead-to-energy-saving-improvements",
-    "timestamp": "2026-09-18T17:54:06Z",
+    "url": "https://www.entergy.com/blog/entergy-receives-52nd-eei-emergency-response-award-for-response-to-winter-storm",
+    "timestamp": "2026-09-21T14:00:33Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/powering-affordability-community-connections-lead-to-energy-saving-improvements"
+      "https://www.entergy.com/blog/entergy-receives-52nd-eei-emergency-response-award-for-response-to-winter-storm"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -86,7 +108,7 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-18T17:54:06Z",
-    "id": "energy-e64caaa7512c605a"
+    "data_as_of": "2026-09-21T14:00:33Z",
+    "id": "energy-f8cfa113a1ed24bc"
   }
 ]
