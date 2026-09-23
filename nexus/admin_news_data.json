@@ -1,264 +1,417 @@
 [
   {
-    "title": "Xbox Announces Halo Layoffs and More Changes in Big 'Reset'",
-    "summary": "Halo Studios is being cut by Xbox and moving to Call of Duty publisher Activision, Microsoft announced Tuesday in the latest round of layoffs.",
+    "title": "Texas Halts Data Center Permits, Expanding Environmental Scrutiny",
+    "summary": "By Scott Dance Texas is effectively halting development of new data centers as Gov. Greg Abbott, a Republican running for re-election, confronts growing opposition to the projects and concern over their environmental impacts. Mr. Abbott on Monday ordered state environmental regulators to pause their review of data center permit applications until audits can be performed […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/texas-halts-data-center-permits-expanding-environmental-scrutiny/",
+    "timestamp": "2026-09-23T14:42:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/texas-halts-data-center-permits-expanding-environmental-scrutiny/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-23T14:42:20Z",
+    "id": "energy-2b58cbbfdcc03256"
+  },
+  {
+    "title": "How Have Data Center Politics Changed? Look At Texas’s Republican Governor.",
+    "summary": "By Dan Merica Just 10 months ago, Gov. Greg Abbott (R) celebrated Google’s planned $40 billion investment in Texas by calling the state the “epicenter of AI development.” “We must ensure that America remains at the forefront of the AI revolution, and Texas is the place where that can happen,” Abbott said. Oh, how times […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/how-have-data-center-politics-changed-look-at-texass-republican-governor/",
+    "timestamp": "2026-09-23T14:41:38Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/how-have-data-center-politics-changed-look-at-texass-republican-governor/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-23T14:41:38Z",
+    "id": "energy-adc6d8ef1749a5ef"
+  },
+  {
+    "title": "Indiana Michigan Power To Build 765 Kilovolt Line Through Region",
+    "summary": "By Staff Writer A 765-kilovolt power line project has been revealed that could pass through Allen, DeKalb, Noble, Steuben and Whitley counties. Open houses have been scheduled to share Indiana Michigan Power (I&M) plans to strengthen the electric system. In letters sent to property owners, study routes are indicated in blue as “multiple alternatives presented […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/09/indiana-michigan-power-to-build-765-kilovolt-line-through-region-2/",
+    "timestamp": "2026-09-23T14:40:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/09/indiana-michigan-power-to-build-765-kilovolt-line-through-region-2/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-09-23T14:40:27Z",
+    "id": "energy-a4a040cf13c0560c"
+  },
+  {
+    "title": "Popular Slay The Spire Streamer ‘Dropped’ By Talent Agency After Criticizing U.S. Army–Sponsored Twitch Streams",
+    "summary": "FrostPrime says he was dropped from his agency after being told to stop criticizing Dan Gheesling's U.S. Army–sponsored Twitch livestreams",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/popular-slay-the-spire-streamer-dropped-by-talent-agency-after-criticizing-u-s-army-sponsored-twitch-streams-2000736729",
+    "timestamp": "2026-09-23T14:36:40Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/popular-slay-the-spire-streamer-dropped-by-talent-agency-after-criticizing-u-s-army-sponsored-twitch-streams-2000736729"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-23T14:36:40Z",
+    "id": "energy-90321b8287f567a2"
+  },
+  {
+    "title": "Shadi allegedly win trading & queue sniping Mawkzy to stop him from achieving rank 1 in ranked 1v1",
+    "summary": "FYI: starting this season players will receive titles for achieving rank 1 in any ranked mode https://x.com/mawkzy1?s=11 submitted by /u/N0b0dy_her3 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wo7rpl/shadi_allegedly_win_trading_queue_sniping_mawkzy/",
+    "timestamp": "2026-09-23T14:36:37Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wo7rpl/shadi_allegedly_win_trading_queue_sniping_mawkzy/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-23T14:36:37Z",
+    "id": "energy-45414baf8505293c"
+  },
+  {
+    "title": "Next Lord of the Rings Movie's First Set Photos Feature the Return of a Familiar Face",
+    "summary": "Filming for The Lord of the Rings: The Hunt for Gollum is underway, and Warner Bros. shared the first set photos for the upcoming film on Wednesday.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/xbox-layoffs-halo-studios-ninja-theory/",
-    "timestamp": "2026-09-22T14:18:49Z",
+    "url": "https://www.polygon.com/lord-of-the-rings-lotr-hunt-for-gollum-first-set-photos-frodo-shire/",
+    "timestamp": "2026-09-23T14:31:05Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/xbox-layoffs-halo-studios-ninja-theory/"
+      "https://www.polygon.com/lord-of-the-rings-lotr-hunt-for-gollum-first-set-photos-frodo-shire/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-22T14:18:49Z",
-    "id": "energy-62052299d3c18e7f"
+    "data_as_of": "2026-09-23T14:31:05Z",
+    "id": "energy-57dc5e49a748fc7b"
   },
   {
-    "title": "Xbox Working Toward Closing Hellblade Studio Ninja Theory After Multiple Deals Fall Through",
-    "summary": "A sale is still possible but sounding less likely",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/xbox-working-toward-closing-hellblade-studio-ninja-theory-after-multiple-deals-fall-through-2000736441",
-    "timestamp": "2026-09-22T14:14:49Z",
+    "title": "The Upcoming Godzilla Film Officially Marks a Huge Series First",
+    "summary": "'Godzilla: Minus Zero' will be the first movie in the series history with an R rating.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/godzilla-minus-zero-r-rating-series-first/",
+    "timestamp": "2026-09-23T14:23:33Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/xbox-working-toward-closing-hellblade-studio-ninja-theory-after-multiple-deals-fall-through-2000736441"
+      "https://www.polygon.com/godzilla-minus-zero-r-rating-series-first/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-22T14:14:49Z",
-    "id": "energy-5e70c1a039098fd5"
+    "data_as_of": "2026-09-23T14:23:33Z",
+    "id": "energy-acccc9b79dcb446c"
   },
   {
-    "title": "Xbox Is Merging Its Two Forza Teams Into One Studio Focused On Forza Horizon And Fable",
-    "summary": "Playground Games and Turn 10 are merging",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/xbox-is-merging-its-two-forza-teams-into-one-studio-focused-on-forza-horizon-and-fable-2000736447",
-    "timestamp": "2026-09-22T14:13:07Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/xbox-is-merging-its-two-forza-teams-into-one-studio-focused-on-forza-horizon-and-fable-2000736447"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-22T14:13:07Z",
-    "id": "energy-7b71b3f86b32c445"
-  },
-  {
-    "title": "Obsidian Entertainment Is Officially Moving Under Bethesda As It Works On Its New Fallout Game",
-    "summary": "The RPG powerhouse has been rehoused",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/obsidian-entertainment-is-officially-moving-under-bethesda-as-it-works-on-its-new-fallout-game-2000736429",
-    "timestamp": "2026-09-22T14:01:26Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/obsidian-entertainment-is-officially-moving-under-bethesda-as-it-works-on-its-new-fallout-game-2000736429"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-22T14:01:26Z",
-    "id": "energy-52eff85fa3343d07"
-  },
-  {
-    "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+    "title": "Montreal adopts bylaw banning insults against police, municipal employees",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
-    "timestamp": "2026-09-22T13:52:56Z",
+    "url": "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
+    "timestamp": "2026-09-23T14:22:54Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
+      "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-22T13:52:56Z",
-    "id": "energy-e390c5429316675f"
+    "data_as_of": "2026-09-23T14:22:54Z",
+    "id": "energy-1494b286917aac05"
   },
   {
-    "title": "Prime Video's Stargate Reboot Just Got an Exciting Update",
-    "summary": "Amazon's Stargate series is officially looking for a writer after Martin Gero's reboot was canceled in June",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/amazon-stargate-reboot-searching-for-writer/",
-    "timestamp": "2026-09-22T13:52:26Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/amazon-stargate-reboot-searching-for-writer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-22T13:52:26Z",
-    "id": "energy-109dd96825887fae"
-  },
-  {
-    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "title": "Jev in practice: typed decisions, scoped authority",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-    "timestamp": "2026-09-22T13:52:15Z",
+    "url": "https://tenuo.ai/blog/jev-scoped-authority",
+    "timestamp": "2026-09-23T14:11:14Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
+      "https://tenuo.ai/blog/jev-scoped-authority"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-22T13:52:15Z",
-    "id": "energy-766b6852ae6c2328"
+    "data_as_of": "2026-09-23T14:11:14Z",
+    "id": "energy-35c37a8f18cacc07"
   },
   {
-    "title": "Circuit Haze releases Howl, a FREE three-knob delay and reverb plugin",
-    "summary": "New London-based developer Circuit Haze has released Howl, a free delay and reverb plugin for macOS, Windows, and Linux. Howl combines both effects into a single feedback loop and reduces the interface to three knobs and a tone switch. One big bonus for me is that it’s shaped as a guitar pedal rather than some [...] View post: Circuit Haze releases Howl, a FREE three-knob delay and reverb plugin",
+    "title": "Spider-Man: The Animated Series’ Decades-Old Cliffhanger to Be Officially Resolved in Surprise Sequel",
+    "summary": "Spider-Man: The Animated Series writer John Semper will resolve the show's iconic season 5 cliffhanger in a new sequel comic from Marvel",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/spider-man-94-animated-series-cliffhanger-sequel-comic/",
+    "timestamp": "2026-09-23T14:03:46Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/spider-man-94-animated-series-cliffhanger-sequel-comic/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-23T14:03:46Z",
+    "id": "energy-27de8e173a6416d1"
+  },
+  {
+    "title": "Comma's hands-off driving tech under investigation after 2 fatal crashes",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+    "timestamp": "2026-09-23T13:50:12Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-23T13:50:12Z",
+    "id": "energy-5beebe87db700212"
+  },
+  {
+    "title": "State Of Decay 3 Studio Lays Off A ‘Significant’ Number Of Developers But Says It Won’t Impact The Game",
+    "summary": "The cuts come as Undead Labs goes independent again",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/state-of-decay-3-studio-lays-off-a-significant-number-of-developers-but-says-it-wont-impact-the-game-2000736716",
+    "timestamp": "2026-09-23T12:56:41Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/state-of-decay-3-studio-lays-off-a-significant-number-of-developers-but-says-it-wont-impact-the-game-2000736716"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-23T12:56:41Z",
+    "id": "energy-65f0cb87d0e44c74"
+  },
+  {
+    "title": "SoniX Audio releases DRUMFLX, a FREE drum machine plugin",
+    "summary": "SoniX Audio has released DRUMFLX, a free drum machine plugin for macOS and Windows. DRUMFLX is a sample-based instrument built by producer KXVI, whose credits include work with Future, SZA, 21 Savage, and Lil Tjay. It is aimed mainly at hip-hop, trap, R&B, drill, and related styles, although the included processing lets you tweak the [...] View post: SoniX Audio releases DRUMFLX, a FREE drum machine plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/22/circuit-haze-howl/",
-    "timestamp": "2026-09-22T13:50:52Z",
+    "url": "https://bedroomproducersblog.com/2026/09/23/sonix-audio-drumflx/",
+    "timestamp": "2026-09-23T12:51:05Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/22/circuit-haze-howl/"
+      "https://bedroomproducersblog.com/2026/09/23/sonix-audio-drumflx/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-22T13:50:52Z",
-    "id": "energy-6946dcc59289e43c"
+    "data_as_of": "2026-09-23T12:51:05Z",
+    "id": "energy-93f2bef3f3f39b3d"
   },
   {
-    "title": "The Usual Suspects release 88emu, a FREE Roland Sound Canvas emulator for macOS, Windows, and Linux",
-    "summary": "Developer Usual Suspects has released 88emu, a free Roland Sound Canvas emulator for macOS, Windows, and Linux. The Roland Sound Canvas series expanded the General MIDI standard with its GS sound modules throughout the 1990s. Roland’s GS-compatible sound modules offered more sounds/instruments, effects, and editing capabilities, starting with the SC-55 half-rack unit in 1991. While [...] View post: The Usual Suspects release 88emu, a FREE Roland Sound Canvas emulator for macOS, Windows, and Linux",
+    "title": "Moog Mariana bass synthesizer drops to $39 at Plugin Boutique",
+    "summary": "Plugin Boutique is offering Moog Mariana for $39 through September 30, a 60% discount off its regular $99 price. We previously covered Moog Mariana at $49 in 2024, so the current offer takes another $10 off that deal. A purchase also includes one of Plugin Boutique’s current free gifts. At Mariana’s price, I could choose [...] View post: Moog Mariana bass synthesizer drops to $39 at Plugin Boutique",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/22/the-usual-suspects-88emu/",
-    "timestamp": "2026-09-22T13:36:48Z",
+    "url": "https://bedroomproducersblog.com/2026/09/23/moog-mariana-bass-deal/",
+    "timestamp": "2026-09-23T11:47:27Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/22/the-usual-suspects-88emu/"
+      "https://bedroomproducersblog.com/2026/09/23/moog-mariana-bass-deal/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-22T13:36:48Z",
-    "id": "energy-b1b5518de32196f1"
+    "data_as_of": "2026-09-23T11:47:27Z",
+    "id": "energy-43de0d2d1f9b1322"
   },
   {
-    "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
-    "timestamp": "2026-09-22T13:27:29Z",
-    "topic": "Computer Science",
+    "title": "BPB EXCLUSIVE: Get Vitric Audio Colonnade Delay FREE until September 30",
+    "summary": "Vitric Audio is giving BPB readers a free copy of Colonnade Delay, normally priced at $35, through September 30. This exclusive BPB offer has no limited quantity. Every reader who claims it before the deadline receives the complete plugin with a perpetual license and three lifetime machine activations. Colonnade combines two independent delay engines in [...] View post: BPB EXCLUSIVE: Get Vitric Audio Colonnade Delay FREE until September 30",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/23/colonnade-delay-free/",
+    "timestamp": "2026-09-23T11:41:20Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
+      "https://bedroomproducersblog.com/2026/09/23/colonnade-delay-free/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-22T13:27:29Z",
-    "id": "energy-773bb14a7f6688cc"
+    "data_as_of": "2026-09-23T11:41:20Z",
+    "id": "energy-e1e85ac498877b15"
   },
   {
-    "title": "Explosive New Spider-Man Spinoff Will Bridge the Gap After Your Friendly Neighborhood Spider-Man's Finale",
-    "summary": "Comic fans are in for a real treat with a new spin-off that bridges the gap in Jeff Trammell's epic Spider-Man series.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/your-friendly-neighborhood-spider-man-spin-off-comic/",
-    "timestamp": "2026-09-22T13:26:49Z",
+    "title": "Avengers: Endgame’s New Footage Has Leaked Online, And Plays Right Into A Popular Conspiracy",
+    "summary": "Shaky footage from a live screening has appeared, and it's certainly intriguing",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/avengers-endgames-new-footage-leaked-online-doomsday-marvel-2000736698",
+    "timestamp": "2026-09-23T11:11:20Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/your-friendly-neighborhood-spider-man-spin-off-comic/"
+      "https://kotaku.com/avengers-endgames-new-footage-leaked-online-doomsday-marvel-2000736698"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-22T13:26:49Z",
-    "id": "energy-f4d03be3767592de"
+    "data_as_of": "2026-09-23T11:11:20Z",
+    "id": "energy-7c7769ba8b60c8c5"
   },
   {
-    "title": "Does anyone else dislike all this nonchalance?",
-    "summary": "In recent years it feels like more and more pros are not caring or acting nonchalant on purpose (basically michael olise gimmick). Its a shame because its starting to take away from the emotion of a win and the hype for a fan. Look at the 2023 2024 and 2025 worlds winning reaction. That 2v2 win meant much more to me once i saw zens reaction to him winning. Its why i hope vatira wins eventually, because of his passion. Just to clarify, I am not targeting falcons, and it was amazing to see them win (also rw9 and killerz has a pretty big reaction to winning). This has become a thing with a ton of pros. Not expecting overreactions or not genuine reactions, but half the time it doesnt look like it means anything to some of the pros. This is likely cause my generation are obsessed with aura and being nonchalant and the pros are all young. It happens in majors and other stuff as well. That said if thats their genuine reaction than sure, but i just look back to some reactions to winning worlds and even majors and reminisce on how good it made the rlcs look. There is barely any passion, or at least passion shown, although i understand most pros are kids or young adults and are probably jus…",
+    "title": "Do small residential batteries make sense?",
+    "summary": "A conversation with Cole Ashman of Pila Energy.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/do-small-residential-batteries-make",
+    "timestamp": "2026-09-23T10:10:03Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/do-small-residential-batteries-make"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-09-23T10:10:03Z",
+    "id": "energy-975806cbdd7914d0"
+  },
+  {
+    "title": "Why are the 3v3 Grand Finals always underwhelming? and is there a possible solution?",
+    "summary": "Is this down to format and fatigue or is it just the nature of 3v3? How could tournament organizers fix this without ruining competitive integrity? Would love to hear your thoughts. submitted by /u/Huge-Computer2037 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wn3gb8/does_anyone_else_dislike_all_this_nonchalance/",
-    "timestamp": "2026-09-22T08:13:34Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wo1f00/why_are_the_3v3_grand_finals_always_underwhelming/",
+    "timestamp": "2026-09-23T09:44:22Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wn3gb8/does_anyone_else_dislike_all_this_nonchalance/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wo1f00/why_are_the_3v3_grand_finals_always_underwhelming/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-22T08:13:34Z",
-    "id": "energy-fe44699635ee1e9f"
+    "data_as_of": "2026-09-23T09:44:22Z",
+    "id": "energy-116e3330c8d6dbd0"
   },
   {
-    "title": "Falcons manager Azzam shares some messages between the players from 6 months ago.",
-    "summary": "submitted by /u/Ammar-is-not-weird [link] [comments]",
+    "title": "The Twins Results at International LANs",
+    "summary": "submitted by /u/mrabu3abd12 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wn155l/falcons_manager_azzam_shares_some_messages/",
-    "timestamp": "2026-09-22T05:57:15Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wo1boq/the_twins_results_at_international_lans/",
+    "timestamp": "2026-09-23T09:38:51Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wn155l/falcons_manager_azzam_shares_some_messages/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wo1boq/the_twins_results_at_international_lans/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-22T05:57:15Z",
-    "id": "energy-3ff749298715c920"
+    "data_as_of": "2026-09-23T09:38:51Z",
+    "id": "energy-38807cf841b452dd"
   },
   {
-    "title": "Thoughts on kickoffs recently/at worlds and the evolution of kickoff strategies overall?",
-    "summary": "I've been watching since 2018, and for like 5-6 years kickoffs felt like a solved process with teams choosing to minimize risk every time. second cheats up, third gets boost, and the only real changes were things like speedflips or teams pulling a variation out as a trick play once in a blue moon. But that's started to shift in the past few years with so many teams adapting their kickoffs to exploit other teams predictability, and then responses to those adaptations developing in so many different ways, essentially building a playbook and introducing a lot more tactical depth into games. It genuinely felt like I saw 20 different types of kickoffs at worlds like hard cheats, immediate demos, different types of intentional losses, double fakes, etc etc. Some of my favorites are the bot kickoff bc of how dumb it looks and the Virtus Pro 3 man set play off the ceiling, anyone have any thoughts or other favorites? submitted by /u/A_Wild_Blobfish [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wmu0c1/thoughts_on_kickoffs_recentlyat_worlds_and_the/",
-    "timestamp": "2026-09-22T00:09:28Z",
-    "topic": "Rocket League",
+    "title": "Zero-Run Spectra of the $(3,2)$ Raney numbers Modulo Primes",
+    "summary": "arXiv:2609.25742v1 Announce Type: new Abstract: We study the zero-run structure of the $(3,2)$-Raney numbers modulo a prime $p$. For every prime $p$, we determine the left-to-right maxima of the zero-run lengths, the complete zero-run spectrum, and the exact number of nonzero entries in $0\\le n",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.25742",
+    "timestamp": "2026-09-23T04:00:00Z",
+    "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wmu0c1/thoughts_on_kickoffs_recentlyat_worlds_and_the/"
+      "https://arxiv.org/abs/2609.25742"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
+    "primary_source": true,
+    "data_as_of": "2026-09-23T04:00:00Z",
+    "id": "energy-784fa077ae78802a"
+  },
+  {
+    "title": "Word Length Formulae, Normal Forms, Conjugation and Root-finding Algorithms in Surface Groups",
+    "summary": "arXiv:2511.12862v3 Announce Type: replace Abstract: In this paper, we mainly study the following symmetric presentation of the surface group $$\\pi_1(\\Sigma_g)=\\left\\langle c_1,\\dots, c_{2g}\\mid c_1\\cdots c_{2g}c_1^{-1}\\cdots c_{2g}^{-1}\\right\\rangle.$$ For every nontrivial element $x\\in \\pi_1(\\Sigma_g)$ and $k\\geq 2$, we obtain a uniform representative of the normal forms $\\mathfrak{nf}(x^k)$ of $x^k$ under the length-lexicographical order: $$\\mathfrak{nf}(x^k) = \\overline{LW^{k-2}R}.$$ Building on this result, we establish a new relation among these normal forms, and then derive the following three formulae related to the word length: $|x^2|>|x|$; $|x^k|=(k-1)(|x^2|-|x|)+|x|$; $\\lim_{k\\to\\infty}\\frac{|x^k|}{k}=|x^2|-|x|$. Furthermore, we extend these results to obtain a coarser analogue for every minimal geometric presentation. We then define normal forms of conjugacy classes in $\\pi_1(\\Sigma_g)$ and provide a criterion for determining the conjugacy of group elements. As a consequence, we provide efficient algorithms for solving the root-finding and conjugacy problems. Finally, we present applications to the computation of several growth rates.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2511.12862",
+    "timestamp": "2026-09-23T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2511.12862"
     ],
-    "data_as_of": "2026-09-22T00:09:28Z",
-    "id": "energy-7594842d4593ef1c"
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-23T04:00:00Z",
+    "id": "energy-27d835a947a0d7a0"
+  },
+  {
+    "title": "Word Length and Diameter in Permutation Groups",
+    "summary": "arXiv:2609.26307v1 Announce Type: new Abstract: The input for the binary diameter problem consists of explicitly represented permutations generating a finite group $G$ and a binary-encoded nonnegative integer $k$. The question is whether every element of $G$ is a product of at most $k$ input generators. For the binary length problem, the input contains in addition a permutation $g \\in G$ and it is asked whether $g$ is a product of at most $k$ input generators. We prove that the binary diameter problem is PSPACE-complete. When restricted to $2$-step nilpotent groups, the binary diameter problem is shown to be complete for $\\mathsf{\\Pi_2^P}$, whereas the binary length problem is shown to be NP-complete. Without the restriction to $2$-step nilpotent groups, the binary length problem is PSPACE-complete by a result of Jerrum.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.26307",
+    "timestamp": "2026-09-23T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.26307"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-09-23T04:00:00Z",
+    "id": "energy-cdb751a744e46291"
   },
   {
     "title": "Volts community thread #30: what should I ask the Danes?",
@@ -277,140 +430,5 @@
     "primary_source": false,
     "data_as_of": "2026-09-21T21:38:52Z",
     "id": "energy-6befb9c37c1f74f4"
-  },
-  {
-    "title": "Get NOS Audio Little Lush Halls reverb FREE for a limited time",
-    "summary": "NOS Audio’s Little Lush Halls reverb plugin is free at JRR Shop with coupon code subscribersonly. The plugin normally costs $29, although JRR currently lists it for $20 before the coupon. Add it to your cart, enter subscribersonly in the Discount Codes box, and the total drops to $0.00. I verified that the code works. [...] View post: Get NOS Audio Little Lush Halls reverb FREE for a limited time",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/21/nos-audio-little-lush/",
-    "timestamp": "2026-09-21T14:47:39Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/21/nos-audio-little-lush/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-21T14:47:39Z",
-    "id": "energy-6615d959610e8ab4"
-  },
-  {
-    "title": "Heat Wave Pushes Midcontinent Power Prices To Triple Digits, Highlights Regional Spreads",
-    "summary": "By Markham Watson • Indiana Hub prices surge to $964/MWh • Grid transfer limits drive $600 price gap Amid the heat wave that caused an Energy Emergency Alert in the Midcontinent Independent System Operator, real-time power prices hit triple digits across the system, especially during the evening solar power ramp, and the spread multiplied between […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/heat-wave-pushes-midcontinent-power-prices-to-triple-digits-highlights-regional-spreads/",
-    "timestamp": "2026-09-21T14:40:54Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/heat-wave-pushes-midcontinent-power-prices-to-triple-digits-highlights-regional-spreads/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-21T14:40:54Z",
-    "id": "energy-5acabe63a8db9f81"
-  },
-  {
-    "title": "MISO Stakeholders Repeat Calls For Fair Cost Splits On Large Load Tx Work",
-    "summary": "By Amanda Durish Cook MISO stakeholders are increasingly concerned about the potential for costs from large load customers who require increasingly complex transmission projects to spill over onto the RTO’s other customers. Notable Quote “MISO needs to think creatively about how to ensure that large loads are a benefit to the broader system, justifying their […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/miso-stakeholders-repeat-calls-for-fair-cost-splits-on-large-load-tx-work/",
-    "timestamp": "2026-09-21T14:40:14Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/miso-stakeholders-repeat-calls-for-fair-cost-splits-on-large-load-tx-work/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-21T14:40:14Z",
-    "id": "energy-c2d9d5f0d6e8b93a"
-  },
-  {
-    "title": "Cost Of The Campbell: How A West Michigan Coal Plant Became The Epicenter For A U.S. Energy War",
-    "summary": "By Sarah Leach What was supposed to be a straightforward retirement for one of Michigan’s largest coal-fired power plants has devolved into a multi-hundred-million-dollar tug-of-war between federal energy officials, state regulators and community advocates. On Sept. 11, the U.S. Court of Appeals struck down the Department of Energy’s emergency orders that forced Consumers Energy to […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/cost-of-the-campbell-how-a-west-michigan-coal-plant-became-the-epicenter-for-a-u-s-energy-war/",
-    "timestamp": "2026-09-21T14:39:34Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/cost-of-the-campbell-how-a-west-michigan-coal-plant-became-the-epicenter-for-a-u-s-energy-war/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-21T14:39:34Z",
-    "id": "energy-2a5fd786b354618c"
-  },
-  {
-    "title": "Zeros of the Spectrogram of Colored Noise",
-    "summary": "arXiv:2609.18689v2 Announce Type: replace Abstract: We study the expected number of zeros of the Short-Time Fourier Transform (STFT) with a Gaussian window for signals degraded by complex Gaussian colored noise. We provide an exact formula for this quantity and investigate its asymptotic behavior. From a computational perspective, we propose an algorithmic method to recover a smoothed power spectral density (PSD) directly from the spatial distribution of the transform's zeros. Our results formalize the commonly-held heuristic that detection algorithms based on spectrogram zeros, though designed for white noise, also perform adequately under moderately colored noise.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.18689",
-    "timestamp": "2026-09-21T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.18689"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-21T04:00:00Z",
-    "id": "energy-b2b2d82ce0a50ae0"
-  },
-  {
-    "title": "Wild frieze patterns over the integers",
-    "summary": "arXiv:2609.20967v1 Announce Type: new Abstract: We study frieze patterns over the integers that are allowed to have wild entries. We introduce the quiddity number as a new invariant. The quiddity number is then used to classify strongly connected components of the directed graph $\\Gamma_{2,n}(\\mathbb{Z})$. Furthermore, we show that every finite simple directed graph arises as an induced subgraph of a directed graph $\\Gamma_{2,n}(\\mathbb{Z})$ for $n$ sufficiently large.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.20967",
-    "timestamp": "2026-09-21T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.20967"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-21T04:00:00Z",
-    "id": "energy-50ccecfe7a5a9e80"
-  },
-  {
-    "title": "What Must Survive? Exact Task-Information--State Frontiers for Resource-Sufficient Learning",
-    "summary": "arXiv:2609.21523v1 Announce Type: cross Abstract: A system may be compressed before its downstream task is fully known. We ask how much retained state is then necessary and how much can be saved by limited advance task information. For a finite family of linear tasks, a task message is revealed before state formation and the exact task only afterwards. For an advice alphabet of size $K$, the exact frontier is \\[ p^*(K)= \\min_{\\substack{\\Pcal\\text{ partition of }\\U\\\\|\\Pcal|\\le K}} \\max_{C\\in\\Pcal}\\rank(T_C), \\] with the $b$-bit frontier obtained by setting $K=\\min(2^b,|\\U|)$. Thus advance task information reduces state through partitions whose joint task operators have low rank. We also give an approximate singular-value frontier, a common-core lower bound and exact direct-sum law, and strong NP-hardness of finding an optimal advice partition. The hardness persists at every fixed positive approximation tolerance. Three examples illustrate the result. A well-conditioned softmax attention construction gives an exact $524{,}288\\to1{,}024$ coordinate frontier when nine bits resolve one of $512$ continuations. A domain-decomposed digital twin yields an interface-plus-local-state law and…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.21523",
-    "timestamp": "2026-09-21T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.21523"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-21T04:00:00Z",
-    "id": "energy-b3538566c465e6d7"
   }
 ]

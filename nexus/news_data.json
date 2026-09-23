@@ -1,16 +1,16 @@
 [
   {
-    "title": "Powering Smarter Nuclear Fuel Management with CMS5",
-    "summary": "For nuclear power operators, the challenge is no longer simply running a reliable plant. Today’s utilities must optimize fuel investments, manage evolving reactor designs, meet regulatory requirements, and respond quickly to changing operating conditions.",
+    "title": "ANS comments on OMB, NRC proposed rulemakings",
+    "summary": "As the pace of growth in the nuclear industry increases, policy is picking up speed, too. Over the summer, the American Nuclear Society responded to several requests for comment in nuclear policy–related matters. In July and August, ANS published letters of response concerning the Office of Management and Budget’s “Regulation for Federal Financial Assistance,” as well as two proposed rules from the Nuclear Regulatory Commission: “Integrated Low-Level Radioactive Waste Disposal” and “Reforming and Modernizing the NRC's Radiation Protection Framework.”",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-22/article-8322/powering-smarter-nuclear-fuel-management-with-cms5/",
-    "timestamp": "2026-09-22T12:10:40Z",
+    "url": "https://www.ans.org/news/2026-09-23/article-8423/ans-comments-on-omb-nrc-proposed-rulemakings/",
+    "timestamp": "2026-09-23T14:22:44Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-22/article-8322/powering-smarter-nuclear-fuel-management-with-cms5/"
+      "https://www.ans.org/news/2026-09-23/article-8423/ans-comments-on-omb-nrc-proposed-rulemakings/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-22T12:10:40Z",
-    "id": "energy-3f81292bb6451b7e"
+    "data_as_of": "2026-09-23T14:22:44Z",
+    "id": "energy-2266956ce012a644"
   },
   {
-    "title": "TerraPower, Bechtel part ways on Natrium project",
-    "summary": "Engineering, construction, and project management firm Bechtel will no longer be involved with TerraPower’s Natrium power plant project in Kemmerer, Wyo., after the two companies were unable to reach an agreement on the next phase of the project.",
+    "title": "Argonne designs molten salt–based heat exchanger with ML-based monitoring",
+    "summary": "Researchers at Argonne National Laboratory have proposed a compact matrix-type heat exchanger for reactors using molten salt as a coolant, featuring an embedded hardware-software system designed to improve reliability and reduce costly interruptions. The heat exchanger is a critical component of any reactor, transferring thermal energy away from the reactor core for use, either directly or to make electricity. Reactors using molten salt for this function must be monitored for blockages caused by fluid freezing, which could result from impurity accumulation or inadequate insulation. These can slow down operations and may require urgent attention.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-21/article-8417/terrapower-bechtel-part-ways-on-natrium-project/",
-    "timestamp": "2026-09-21T20:47:16Z",
+    "url": "https://www.ans.org/news/2026-09-23/article-8422/argonne-designs-molten-saltbased-heat-exchanger-with-mlbased-monitoring/",
+    "timestamp": "2026-09-23T12:32:30Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-21/article-8417/terrapower-bechtel-part-ways-on-natrium-project/"
+      "https://www.ans.org/news/2026-09-23/article-8422/argonne-designs-molten-saltbased-heat-exchanger-with-mlbased-monitoring/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-21T20:47:16Z",
-    "id": "energy-ac87b582e6003ac6"
+    "data_as_of": "2026-09-23T12:32:30Z",
+    "id": "energy-cb1963e3aaa60c6c"
   },
   {
-    "title": "Army announces new power projects for installations",
-    "summary": "In an update to the Department of Defense’s ongoing efforts to bring nuclear demonstrations on line, the Army has announced the conditional award of long-term leases to three companies that will aim to deploy new power generation at Army installations. Despite at least one of these three contracts involving nuclear generation, these new leases are apparently unrelated to the Army’s ongoing Janus program.",
+    "title": "International roundup: The Philippines, IAEA remarks, and EDF’s SMR plans",
+    "summary": "The Philippines resurrecting talks to bring nuclear power to the island country, notable remarks from the International Atomic Energy Agency General Conference, and Électricité de France’s timeline for small modular reactors are among the notable recent international news you may have missed.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-21/article-8416/army-announces-new-power-projects-for-installations/",
-    "timestamp": "2026-09-21T19:28:53Z",
+    "url": "https://www.ans.org/news/2026-09-22/article-8421/international-roundup-the-philippines-iaea-remarks-and-edfs-smr-plans/",
+    "timestamp": "2026-09-22T21:12:17Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-21/article-8416/army-announces-new-power-projects-for-installations/"
+      "https://www.ans.org/news/2026-09-22/article-8421/international-roundup-the-philippines-iaea-remarks-and-edfs-smr-plans/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,8 +62,80 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-21T19:28:53Z",
-    "id": "energy-f792b2f2aa377cdc"
+    "data_as_of": "2026-09-22T21:12:17Z",
+    "id": "energy-6aab70ffa31361f1"
+  },
+  {
+    "title": "Entergy Mississippi invests in the future workforce through STEM scholarships for students attending Historically Black Colleges and Universities",
+    "summary": "Entergy Mississippi is investing in the future of higher education and workforce development by awarding $20,000 in STEM scholarships to four outstanding students attending Historically Black Colleges and Universities, or HBCUs, and partner institutions across Mississippi. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-mississippi-invests-in-the-future-workforce-through-stem-scholarships-for-students-attending-historically-black-colleges-and-universities",
+    "timestamp": "2026-09-22T19:55:52Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-mississippi-invests-in-the-future-workforce-through-stem-scholarships-for-students-attending-historically-black-colleges-and-universities"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-22T19:55:52Z",
+    "id": "energy-1f67a78006a5e07a"
+  },
+  {
+    "title": "Entergy New Orleans joins US Department of Energy to break ground on $2M grant-funded grid hardening project",
+    "summary": "Entergy New Orleans today joined leaders from the U.S. Department of Energy to break ground on a grid-hardening project that will upgrade 94 distribution poles serving the Leonidas area and directly benefit more than 1,900 customers. Making the grid stronger means customers will experience fewer, shorter outages. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-new-orleans-joins-us-department-of-energy-to-break-ground-on-2m-grant-funded-grid-hardening-project",
+    "timestamp": "2026-09-22T17:05:51Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-new-orleans-joins-us-department-of-energy-to-break-ground-on-2m-grant-funded-grid-hardening-project"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-22T17:05:51Z",
+    "id": "energy-08c7c9855faaa89c"
+  },
+  {
+    "title": "Entergy named a Top Utility in Economic Development for the 19th year in a row",
+    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. The communities we serve in Arkansas, Louisiana, Mississippi and Texas continue to attract some of the nation’s most competitive and power‑intensive industries. In 2025, Entergy helped secure more than $83 million in capital investments and create approximately 7,560 new direct jobs. New and expanding facilities span advanced manufacturing, clean energy production and large‑scale industrial development, further strengthening the Gulf South region’s position as a premier location for business growth. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-named-a-top-utility-in-economic-development-for-the-19th-year-in-a-row",
+    "timestamp": "2026-09-22T14:44:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-named-a-top-utility-in-economic-development-for-the-19th-year-in-a-row"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-22T14:44:21Z",
+    "id": "energy-0b3fff38417dee63"
   },
   {
     "title": "500 ‘duck curves’ and counting: Growth of solar power brings another New England electricity milestone",
@@ -86,29 +158,5 @@
     ],
     "data_as_of": "2026-09-21T17:50:21Z",
     "id": "energy-6a6f45a898e13c10"
-  },
-  {
-    "title": "Entergy receives 52nd EEI Emergency Response Award for response to winter storm",
-    "summary": "Entergy Corporation was named a recipient of the Edison Electric Institute’s Emergency Response Award for its outstanding response following the January 2026 winter storm. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-receives-52nd-eei-emergency-response-award-for-response-to-winter-storm",
-    "timestamp": "2026-09-21T14:00:33Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-receives-52nd-eei-emergency-response-award-for-response-to-winter-storm"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-21T14:00:33Z",
-    "id": "energy-f8cfa113a1ed24bc"
   }
 ]
