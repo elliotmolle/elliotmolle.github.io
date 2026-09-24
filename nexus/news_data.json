@@ -1,16 +1,16 @@
 [
   {
-    "title": "ANS comments on OMB, NRC proposed rulemakings",
-    "summary": "As the pace of growth in the nuclear industry increases, policy is picking up speed, too. Over the summer, the American Nuclear Society responded to several requests for comment in nuclear policy–related matters. In July and August, ANS published letters of response concerning the Office of Management and Budget’s “Regulation for Federal Financial Assistance,” as well as two proposed rules from the Nuclear Regulatory Commission: “Integrated Low-Level Radioactive Waste Disposal” and “Reforming and Modernizing the NRC's Radiation Protection Framework.”",
+    "title": "The Waymo effect",
+    "summary": "Craig Piercycpiercy@ans.org The focus of the September issue of Nuclear News issue is on new technology, and the stories within are reflective of the broader wave of innovation sweeping the industry—a wave driven in no small part by the head-jerking progress of AI and its pervasion into our economy and way of life. Something caught my eye a few days ago: an ad by Waymo touting its careful intentionality in deploying its fleet of driverless vehicles in the U.S. “Now, the Waymo driver is safer than a human one,” says the soothing female voiceover, “statistically 10 times safer in the cities we serve.” It made me realize that most if not all safety-related applications of AI will at some point— usually after a lot of trial and error—reach a state of “too good to not use.” At that point, people become the weakest link in the safety chain. While the first Waymo ride can be a cognitively dissonant experience, I think we will be surprised at how easily we will all get used to seeing the road ahead behind an empty driver’s seat, assuming the safety case holds up.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-23/article-8423/ans-comments-on-omb-nrc-proposed-rulemakings/",
-    "timestamp": "2026-09-23T14:22:44Z",
+    "url": "https://www.ans.org/news/2026-09-24/article-8325/the-waymo-effect/",
+    "timestamp": "2026-09-24T14:12:52Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-23/article-8423/ans-comments-on-omb-nrc-proposed-rulemakings/"
+      "https://www.ans.org/news/2026-09-24/article-8325/the-waymo-effect/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-23T14:22:44Z",
-    "id": "energy-2266956ce012a644"
+    "data_as_of": "2026-09-24T14:12:52Z",
+    "id": "energy-93966537670d8e16"
   },
   {
-    "title": "Argonne designs molten salt–based heat exchanger with ML-based monitoring",
-    "summary": "Researchers at Argonne National Laboratory have proposed a compact matrix-type heat exchanger for reactors using molten salt as a coolant, featuring an embedded hardware-software system designed to improve reliability and reduce costly interruptions. The heat exchanger is a critical component of any reactor, transferring thermal energy away from the reactor core for use, either directly or to make electricity. Reactors using molten salt for this function must be monitored for blockages caused by fluid freezing, which could result from impurity accumulation or inadequate insulation. These can slow down operations and may require urgent attention.",
+    "title": "Kairos and Samsung C&T partner up on Hermes 2",
+    "summary": "Earlier this week, Kairos Power announced a binding term sheet signed with Samsung C&T Engineering and Construction Group that will facilitate the two companies’ collaboration on Kairos’s Hermes 2 demonstration plant on multiple fronts. The terms of that agreement include Samsung C&T providing up to $100 million to Kairos through a combination of direct investment and in-kind engineering services for the project. To that end, Samsung C&T also has officially joined Kairos’s engineering, procurement, and construction (EPC) team to support both the delivery of Hermes 2 and future deployments of Kairos’s reactor technology.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-23/article-8422/argonne-designs-molten-saltbased-heat-exchanger-with-mlbased-monitoring/",
-    "timestamp": "2026-09-23T12:32:30Z",
+    "url": "https://www.ans.org/news/2026-09-24/article-8431/kairos-and-samsung-ct-partner-up-on-hermes-2/",
+    "timestamp": "2026-09-24T12:17:04Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-23/article-8422/argonne-designs-molten-saltbased-heat-exchanger-with-mlbased-monitoring/"
+      "https://www.ans.org/news/2026-09-24/article-8431/kairos-and-samsung-ct-partner-up-on-hermes-2/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-23T12:32:30Z",
-    "id": "energy-cb1963e3aaa60c6c"
+    "data_as_of": "2026-09-24T12:17:04Z",
+    "id": "energy-7d6d0602e99eb8d2"
   },
   {
-    "title": "International roundup: The Philippines, IAEA remarks, and EDF’s SMR plans",
-    "summary": "The Philippines resurrecting talks to bring nuclear power to the island country, notable remarks from the International Atomic Energy Agency General Conference, and Électricité de France’s timeline for small modular reactors are among the notable recent international news you may have missed.",
+    "title": "Fuel decladding skid ready to deploy at INL’s Moran test bed",
+    "summary": "A mobile skid designed to process and remove the cladding from spent nuclear fuel has been declared ready for use at Idaho National Laboratory’s Moran Nuclear Fuels Test Facility. Production of the skid was funded by the Athena Initiative, a project that the National Nuclear Security Administration’s Nonproliferation Stewardship Program began in 2022 to support nonproliferation efforts in the United States.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-22/article-8421/international-roundup-the-philippines-iaea-remarks-and-edfs-smr-plans/",
-    "timestamp": "2026-09-22T21:12:17Z",
+    "url": "https://www.ans.org/news/2026-09-23/article-8425/fuel-decladding-skid-ready-to-deploy-at-inls-moran-test-bed/",
+    "timestamp": "2026-09-23T20:15:36Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-22/article-8421/international-roundup-the-philippines-iaea-remarks-and-edfs-smr-plans/"
+      "https://www.ans.org/news/2026-09-23/article-8425/fuel-decladding-skid-ready-to-deploy-at-inls-moran-test-bed/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,8 +62,54 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-22T21:12:17Z",
-    "id": "energy-6aab70ffa31361f1"
+    "data_as_of": "2026-09-23T20:15:36Z",
+    "id": "energy-6b64564ef17cbc20"
+  },
+  {
+    "title": "Entergy Louisiana president and CEO Phillip May Named 2026 LABI Executive of the Year",
+    "summary": "Entergy Louisiana president and CEO Phillip May has been named the 2026 Executive of the Year by the Louisiana Association of Business and Industry (LABI), recognizing his exceptional leadership in strengthening Louisiana’s business climate, advancing major economic development initiatives and supporting the wellbeing of communities across the state. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-louisiana-president-and-ceo-phillip-may-named-2026-labi-executive-of-the-year",
+    "timestamp": "2026-09-23T19:50:34Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-louisiana-president-and-ceo-phillip-may-named-2026-labi-executive-of-the-year"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-23T19:50:34Z",
+    "id": "energy-5097a56894ffa1cc"
+  },
+  {
+    "title": "ISO 101 training materials posted online",
+    "summary": "The course provided an overview of ISO New England’s role in grid operations, market administration, and system planning. The post ISO 101 training materials posted online appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/09/23/iso-101-training-materials-posted-online/",
+    "timestamp": "2026-09-23T16:31:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/09/23/iso-101-training-materials-posted-online/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-09-23T16:31:11Z",
+    "id": "energy-6664b9eb2250317a"
   },
   {
     "title": "Entergy Mississippi invests in the future workforce through STEM scholarships for students attending Historically Black Colleges and Universities",
@@ -112,30 +158,6 @@
     ],
     "data_as_of": "2026-09-22T17:05:51Z",
     "id": "energy-08c7c9855faaa89c"
-  },
-  {
-    "title": "Entergy named a Top Utility in Economic Development for the 19th year in a row",
-    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. The communities we serve in Arkansas, Louisiana, Mississippi and Texas continue to attract some of the nation’s most competitive and power‑intensive industries. In 2025, Entergy helped secure more than $83 million in capital investments and create approximately 7,560 new direct jobs. New and expanding facilities span advanced manufacturing, clean energy production and large‑scale industrial development, further strengthening the Gulf South region’s position as a premier location for business growth. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-named-a-top-utility-in-economic-development-for-the-19th-year-in-a-row",
-    "timestamp": "2026-09-22T14:44:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-named-a-top-utility-in-economic-development-for-the-19th-year-in-a-row"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-22T14:44:21Z",
-    "id": "energy-0b3fff38417dee63"
   },
   {
     "title": "500 ‘duck curves’ and counting: Growth of solar power brings another New England electricity milestone",
