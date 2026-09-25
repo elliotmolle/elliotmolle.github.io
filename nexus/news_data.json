@@ -1,16 +1,40 @@
 [
   {
-    "title": "The Waymo effect",
-    "summary": "Craig Piercycpiercy@ans.org The focus of the September issue of Nuclear News issue is on new technology, and the stories within are reflective of the broader wave of innovation sweeping the industry—a wave driven in no small part by the head-jerking progress of AI and its pervasion into our economy and way of life. Something caught my eye a few days ago: an ad by Waymo touting its careful intentionality in deploying its fleet of driverless vehicles in the U.S. “Now, the Waymo driver is safer than a human one,” says the soothing female voiceover, “statistically 10 times safer in the cities we serve.” It made me realize that most if not all safety-related applications of AI will at some point— usually after a lot of trial and error—reach a state of “too good to not use.” At that point, people become the weakest link in the safety chain. While the first Waymo ride can be a cognitively dissonant experience, I think we will be surprised at how easily we will all get used to seeing the road ahead behind an empty driver’s seat, assuming the safety case holds up.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-24/article-8325/the-waymo-effect/",
-    "timestamp": "2026-09-24T14:12:52Z",
+    "title": "Entergy named a Top Utility in economic development for 19th year in a row",
+    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. The communities we serve continue to attract some of the nation’s most competitive and power‑intensive industries in the United States. In 2025, Entergy Texas helped secure more than $30,000 in capital investments and create more than 700 new jobs within Southeast Texas. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row",
+    "timestamp": "2026-09-25T14:14:37Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-24/article-8325/the-waymo-effect/"
+      "https://www.entergy.com/blog/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-25T14:14:37Z",
+    "id": "energy-2874d89195451c99"
+  },
+  {
+    "title": "ITER breeding blanket and tritium plant plans advance",
+    "summary": "ITER has announced progress on its tritium breeding and processing efforts, including the success of a summit bringing together the teams that are developing its tritium plant and the selection of four breeding blanket systems that will be tested at ITER.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-25/article-8435/iter-breeding-blanket-and-tritium-plant-plans-advance/",
+    "timestamp": "2026-09-25T12:27:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-25/article-8435/iter-breeding-blanket-and-tritium-plant-plans-advance/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +42,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-24T14:12:52Z",
-    "id": "energy-93966537670d8e16"
+    "data_as_of": "2026-09-25T12:27:26Z",
+    "id": "energy-3836facc6c35430e"
   },
   {
-    "title": "Kairos and Samsung C&T partner up on Hermes 2",
-    "summary": "Earlier this week, Kairos Power announced a binding term sheet signed with Samsung C&T Engineering and Construction Group that will facilitate the two companies’ collaboration on Kairos’s Hermes 2 demonstration plant on multiple fronts. The terms of that agreement include Samsung C&T providing up to $100 million to Kairos through a combination of direct investment and in-kind engineering services for the project. To that end, Samsung C&T also has officially joined Kairos’s engineering, procurement, and construction (EPC) team to support both the delivery of Hermes 2 and future deployments of Kairos’s reactor technology.",
+    "title": "Pickering refurb will “strengthen Ontario's economic sovereignty and energy security”",
+    "summary": "Ontario Power Generation has begun an extensive project to refurbish the Pickering nuclear power plant. Characterized as “Canada’s largest clean energy infrastructure project,” the refurbishment will extend the operating lifetimes of the facility’s four CANDU reactors by as much as 38 years—and support Ontario’s nuclear supply chain.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-24/article-8431/kairos-and-samsung-ct-partner-up-on-hermes-2/",
-    "timestamp": "2026-09-24T12:17:04Z",
+    "url": "https://www.ans.org/news/2026-09-24/article-8434/pickering-refurb-will-strengthen-ontarios-economic-sovereignty-and-energy-security/",
+    "timestamp": "2026-09-24T21:59:54Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-24/article-8431/kairos-and-samsung-ct-partner-up-on-hermes-2/"
+      "https://www.ans.org/news/2026-09-24/article-8434/pickering-refurb-will-strengthen-ontarios-economic-sovereignty-and-energy-security/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +64,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-24T12:17:04Z",
-    "id": "energy-7d6d0602e99eb8d2"
+    "data_as_of": "2026-09-24T21:59:54Z",
+    "id": "energy-f7537e6cce62c8b1"
   },
   {
-    "title": "Fuel decladding skid ready to deploy at INL’s Moran test bed",
-    "summary": "A mobile skid designed to process and remove the cladding from spent nuclear fuel has been declared ready for use at Idaho National Laboratory’s Moran Nuclear Fuels Test Facility. Production of the skid was funded by the Athena Initiative, a project that the National Nuclear Security Administration’s Nonproliferation Stewardship Program began in 2022 to support nonproliferation efforts in the United States.",
+    "title": "ANS looks at Illinois’s nuclear future",
+    "summary": "The latest installment in the ANS webinar series “Nuclear in the States” focused on the Society’s home state of Illinois. Illinois has 11 operating commercial reactors and the largest operating nuclear capacity in the country. Recently, it lifted the last restrictions it had on building new reactors. Furthermore, Gov. J. B. Pritzker has set a goal to add 2 GW of new nuclear capacity from either new sites or uprates, and for that construction to begin by 2033.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-23/article-8425/fuel-decladding-skid-ready-to-deploy-at-inls-moran-test-bed/",
-    "timestamp": "2026-09-23T20:15:36Z",
+    "url": "https://www.ans.org/news/2026-09-24/article-8433/ans-looks-at-illinoiss-nuclear-future/",
+    "timestamp": "2026-09-24T20:45:37Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-23/article-8425/fuel-decladding-skid-ready-to-deploy-at-inls-moran-test-bed/"
+      "https://www.ans.org/news/2026-09-24/article-8433/ans-looks-at-illinoiss-nuclear-future/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,12 +86,36 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-23T20:15:36Z",
-    "id": "energy-6b64564ef17cbc20"
+    "data_as_of": "2026-09-24T20:45:37Z",
+    "id": "energy-5f81f48987d6283e"
   },
   {
-    "title": "Entergy Louisiana president and CEO Phillip May Named 2026 LABI Executive of the Year",
-    "summary": "Entergy Louisiana president and CEO Phillip May has been named the 2026 Executive of the Year by the Louisiana Association of Business and Industry (LABI), recognizing his exceptional leadership in strengthening Louisiana’s business climate, advancing major economic development initiatives and supporting the wellbeing of communities across the state. Source",
+    "title": "Smarter lighting can support a stronger business",
+    "summary": "Lighting is one of the most visible systems in a commercial facility. It affects how customers experience a space, how employees complete their work and how safely people move through interior and exterior areas. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/smarter-lighting-can-support-a-stronger-business",
+    "timestamp": "2026-09-24T18:01:47Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/smarter-lighting-can-support-a-stronger-business"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-24T18:01:47Z",
+    "id": "energy-05afe4b82918c45f"
+  },
+  {
+    "title": "Entergy Louisiana President and CEO Phillip May named 2026 LABI Executive of the Year",
+    "summary": "Entergy Louisiana president and CEO Phillip May has been named the 2026 Executive of the Year by the Louisiana Association of Business and Industry, recognizing his exceptional leadership in strengthening Louisiana’s business climate, advancing major economic development initiatives and supporting the wellbeing of communities across the state. Source",
     "source": "Entergy",
     "url": "https://www.entergy.com/news/entergy-louisiana-president-and-ceo-phillip-may-named-2026-labi-executive-of-the-year",
     "timestamp": "2026-09-23T19:50:34Z",
@@ -110,75 +158,5 @@
     ],
     "data_as_of": "2026-09-23T16:31:11Z",
     "id": "energy-6664b9eb2250317a"
-  },
-  {
-    "title": "Entergy Mississippi invests in the future workforce through STEM scholarships for students attending Historically Black Colleges and Universities",
-    "summary": "Entergy Mississippi is investing in the future of higher education and workforce development by awarding $20,000 in STEM scholarships to four outstanding students attending Historically Black Colleges and Universities, or HBCUs, and partner institutions across Mississippi. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-mississippi-invests-in-the-future-workforce-through-stem-scholarships-for-students-attending-historically-black-colleges-and-universities",
-    "timestamp": "2026-09-22T19:55:52Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-mississippi-invests-in-the-future-workforce-through-stem-scholarships-for-students-attending-historically-black-colleges-and-universities"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-22T19:55:52Z",
-    "id": "energy-1f67a78006a5e07a"
-  },
-  {
-    "title": "Entergy New Orleans joins US Department of Energy to break ground on $2M grant-funded grid hardening project",
-    "summary": "Entergy New Orleans today joined leaders from the U.S. Department of Energy to break ground on a grid-hardening project that will upgrade 94 distribution poles serving the Leonidas area and directly benefit more than 1,900 customers. Making the grid stronger means customers will experience fewer, shorter outages. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-new-orleans-joins-us-department-of-energy-to-break-ground-on-2m-grant-funded-grid-hardening-project",
-    "timestamp": "2026-09-22T17:05:51Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-new-orleans-joins-us-department-of-energy-to-break-ground-on-2m-grant-funded-grid-hardening-project"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-22T17:05:51Z",
-    "id": "energy-08c7c9855faaa89c"
-  },
-  {
-    "title": "500 ‘duck curves’ and counting: Growth of solar power brings another New England electricity milestone",
-    "summary": "On sunny days, demand for electricity from the regional power grid can dip lower at midday than overnight. The post 500 ‘duck curves’ and counting: Growth of solar power brings another New England electricity milestone appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/09/21/500-duck-curves-and-counting-growth-of-solar-power-brings-another-new-england-electricity-milestone/",
-    "timestamp": "2026-09-21T17:50:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/09/21/500-duck-curves-and-counting-growth-of-solar-power-brings-another-new-england-electricity-milestone/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-09-21T17:50:21Z",
-    "id": "energy-6a6f45a898e13c10"
   }
 ]
