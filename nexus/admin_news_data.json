@@ -1,21 +1,246 @@
 [
   {
-    "title": "PC Gaming Grows Over 200 Percent In Four Years In Japan As Global Hits Break Through",
-    "summary": "A new report shows how streamer-friendly global hits have propelled Japanese gaming",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/pc-gaming-grows-over-200-percent-in-four-years-in-japan-as-global-hits-break-through-2000736037",
-    "timestamp": "2026-09-25T14:45:37Z",
+    "title": "Control Resonant Violates the Number One Commandment of Video Game Lore",
+    "summary": "Control Resonant is packed with intriguing worldbuilding, but its glut of lore logs go a little overboard.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/control-resonant-lore-logs/",
+    "timestamp": "2026-09-26T14:00:15Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/pc-gaming-grows-over-200-percent-in-four-years-in-japan-as-global-hits-break-through-2000736037"
+      "https://www.polygon.com/control-resonant-lore-logs/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-25T14:45:37Z",
-    "id": "energy-8a5e51d89ebaf93d"
+    "data_as_of": "2026-09-26T14:00:15Z",
+    "id": "energy-c55c64cd3052a636"
+  },
+  {
+    "title": "Wolverine Now Officially Lets Players Turn Off Its Most-Hated Feature",
+    "summary": "The latest update for PS5 exclusive Marvel's Wolverine lets players turn off controversial scent trails",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/wolverine-turn-off-scent-trails/",
+    "timestamp": "2026-09-26T13:32:45Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/wolverine-turn-off-scent-trails/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T13:32:45Z",
+    "id": "energy-589660500b1f21e2"
+  },
+  {
+    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+    "timestamp": "2026-09-26T13:05:36Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T13:05:36Z",
+    "id": "energy-533c47f440f9e8d4"
+  },
+  {
+    "title": "RLFS S5 [Final Bracket - Upper Bracket Quarterfinal]: Lions and Monkeys [zen, Reveal., Cheese] vs. The Exotic Falcons [Kiileerrzz, ExoTiiK, DRUFINHO]",
+    "summary": "Rocket League Fantasy Series (RLFS) - Season 5 The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. Explanation of the Weighted Voting System used to determine odds Assumptions to consider when voting Final Bracket - Upper Bracket Quarterfinal - Match 2 Lions and Monkeys zen Reveal CHEESE. GM Message: Zen. Reveal. Cheese. Cmon, need I say more? Back to back finals for Reveal, an insane breakout performance from Cheese (ties Vatira’s best worlds placement btw), and arguably one of if not the best individual player in…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqpylw/rlfs_s5_final_bracket_upper_bracket_quarterfinal/",
+    "timestamp": "2026-09-26T13:00:21Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqpylw/rlfs_s5_final_bracket_upper_bracket_quarterfinal/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-26T13:00:21Z",
+    "id": "energy-c2b3ce41459192b7"
+  },
+  {
+    "title": "Forgotten Island's directors unpack their 'very personal' anime references",
+    "summary": "Sailor Moon, Street Fighter, and Dragon Ball all get Easter egg moments in Forgotten Island, alongside a little Marvel Vs. Capcom.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/forgotten-island-anime-references-director-interview/",
+    "timestamp": "2026-09-26T13:00:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/forgotten-island-anime-references-director-interview/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T13:00:15Z",
+    "id": "energy-ed493a42fe9fe77b"
+  },
+  {
+    "title": "CEO of Mistral: AI is software. It can be controlled",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+    "timestamp": "2026-09-26T12:52:04Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T12:52:04Z",
+    "id": "energy-49ba7b787629d4b1"
+  },
+  {
+    "title": "Oski on the Rumor of him joining Zen and Atow on Vitality",
+    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqpjfr/oski_on_the_rumor_of_him_joining_zen_and_atow_on/",
+    "timestamp": "2026-09-26T12:40:12Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqpjfr/oski_on_the_rumor_of_him_joining_zen_and_atow_on/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-26T12:40:12Z",
+    "id": "energy-981b9e392e2f582c"
+  },
+  {
+    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "timestamp": "2026-09-26T10:55:56Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://gultsch.de/posts/breaking-up-with-google-play/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T10:55:56Z",
+    "id": "energy-6c89709e35c90a26"
+  },
+  {
+    "title": "Suno confirms v6 is trained on user-generated interactions as new copyright lawsuits surface",
+    "summary": "Suno recently released v6 of its AI music generation models, marking a new beginning for the platform and a step out of the shadows of its legally murky past. Well, that was the plan. The trouble is, the company faced new lawsuits from Sony and UMG barely a week after releasing Suno v6. I’m almost [...] View post: Suno confirms v6 is trained on user-generated interactions as new copyright lawsuits surface",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/26/suno-lawsuit/",
+    "timestamp": "2026-09-26T08:23:51Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/26/suno-lawsuit/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T08:23:51Z",
+    "id": "energy-a7ac8399c40d4317"
+  },
+  {
+    "title": "So that's why they're exploring their options...",
+    "summary": "A Tawk and Wahvey silly moment in ranked! All joking aside, I hope they stick together. Virtus.pro was fun this season even if they weren't always on their game. submitted by /u/Babydrone [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqknce/so_thats_why_theyre_exploring_their_options/",
+    "timestamp": "2026-09-26T07:50:11Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqknce/so_thats_why_theyre_exploring_their_options/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-26T07:50:11Z",
+    "id": "energy-e818997f4405b150"
+  },
+  {
+    "title": "There Are Only Two Things That Money Can’t Buy: True Love, And Homegrown Tomatoes",
+    "summary": "Plant 'em in the spring, eat 'em in the summer/All winter without 'em's a culinary bummer",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/only-two-things-money-cant-buy-true-love-and-homegrown-tomatoes-2000737231",
+    "timestamp": "2026-09-25T21:00:43Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/only-two-things-money-cant-buy-true-love-and-homegrown-tomatoes-2000737231"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-25T21:00:43Z",
+    "id": "energy-c1b97ce212b577ea"
+  },
+  {
+    "title": "Nippon Ichi, NIS America Head Says Company Is ‘Researching’ AI But Personally Doesn’t Think It Will Make Development Faster",
+    "summary": "'The best way to [apply AI] would be in a way that actually improves the quality of the game'",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211",
+    "timestamp": "2026-09-25T19:00:02Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-25T19:00:02Z",
+    "id": "energy-23909cc166ddcebb"
+  },
+  {
+    "title": "Microsoft CEO On Recent Xbox Layoffs: ‘There’s Some Amount Of Streamlining Asha Is Doing…Which Is Great To See’",
+    "summary": "Don't worry folks, everything is going great and according to plan",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/microsoft-ceo-on-recent-xbox-layoffs-theres-some-amount-of-streamlining-asha-is-doing-which-is-great-to-see-2000737217",
+    "timestamp": "2026-09-25T18:38:57Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/microsoft-ceo-on-recent-xbox-layoffs-theres-some-amount-of-streamlining-asha-is-doing-which-is-great-to-see-2000737217"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-25T18:38:57Z",
+    "id": "energy-9c69c7e5041f6921"
   },
   {
     "title": "MISO Urges FERC To Ok ‘Zero-Injection’ Proposal For Large Loads Without Delays",
@@ -37,24 +262,6 @@
     ],
     "data_as_of": "2026-09-25T14:40:12Z",
     "id": "energy-e27bc7800c067dd7"
-  },
-  {
-    "title": "Control Resonant Devs Officially Confirm Fans’ Most-Requested Feature Is Coming in Post-Launch Update",
-    "summary": "Remedy has shared its immediate post-launch plans for Control Resonant, the sequel to 2019's GOTY contender Control.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/control-resonant-post-launch-plans-new-game-plus-photo-mode/",
-    "timestamp": "2026-09-25T14:39:30Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/control-resonant-post-launch-plans-new-game-plus-photo-mode/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T14:39:30Z",
-    "id": "energy-2f1d81b9f0ee6ab1"
   },
   {
     "title": "MISO Asks FERC For Queue Restudy Cutback, 1-Shot Exit Ramp For 2022 Projects",
@@ -99,159 +306,6 @@
     "id": "energy-4450f83c7fd9fe96"
   },
   {
-    "title": "Man City found guilty on almost all charges - how does this affect Seikoo's legacy?",
-    "summary": "No but jokes aside will this impact their esports org? submitted by /u/nickEbutt [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wpxuxw/man_city_found_guilty_on_almost_all_charges_how/",
-    "timestamp": "2026-09-25T14:30:21Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wpxuxw/man_city_found_guilty_on_almost_all_charges_how/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-25T14:30:21Z",
-    "id": "energy-62b906cba7d7e8da"
-  },
-  {
-    "title": "[Alphakep] Forky to Karmine Corp",
-    "summary": "“FORKY IS EXPECTED TO TEAM UP WITH VATIRA ON KARMINE CORP. THEY WILL BE SEARCHING FOR A 3rd to join this DUO. #KCORP #RLCS” So that’s why Vatira didn’t go with Zen and Atow, he was COOKING this up. https://x.com/alphakep/status/2103488949935014170?s=46 submitted by /u/WillingnessFew7211 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wpxnnh/alphakep_forky_to_karmine_corp/",
-    "timestamp": "2026-09-25T14:22:15Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wpxnnh/alphakep_forky_to_karmine_corp/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-25T14:22:15Z",
-    "id": "energy-aaf73051b8ada753"
-  },
-  {
-    "title": "A Vanillaware Veteran Is Making A 2D Multimedia Fantasy IP With An All-New Studio",
-    "summary": "The Ignisphere Project, led by a new action RPG named Dawngazer, has ambitions to be more than just a video game",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/a-vanillaware-veteran-is-making-a-2d-multimedia-fantasy-ip-with-an-all-new-studio-2000737147",
-    "timestamp": "2026-09-25T14:15:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/a-vanillaware-veteran-is-making-a-2d-multimedia-fantasy-ip-with-an-all-new-studio-2000737147"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T14:15:43Z",
-    "id": "energy-b1872437e28e939f"
-  },
-  {
-    "title": "The Resident Evil Movie Ruled — Now What? | Point It Out!",
-    "summary": "On this week's episode of Point It Out! Patches is back from France to guide Simone through a history of Resident Evil movies, and figure out where Hollywood should go next now that they've figured out how to make a good adaptation.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/video/why-resident-evil-worked-and-what-future-video-game-movies-need-to-do-next/",
-    "timestamp": "2026-09-25T14:10:37Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/video/why-resident-evil-worked-and-what-future-video-game-movies-need-to-do-next/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T14:10:37Z",
-    "id": "energy-469dedb5a4db53e7"
-  },
-  {
-    "title": "Hytale's Next Major Update Promises Dungeons and Other Huge Changes",
-    "summary": "The sandbox game Hytale is getting its chapter 1 update, featuring dungeons and a flexible ability system.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/hytale-chapter-one-dungeons-goblins-abilities-trailer/",
-    "timestamp": "2026-09-25T14:06:39Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/hytale-chapter-one-dungeons-goblins-abilities-trailer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T14:06:39Z",
-    "id": "energy-d6cfca4796736c3f"
-  },
-  {
-    "title": "Allow Carriers on Planes",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
-    "timestamp": "2026-09-25T14:00:10Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.jefftk.com/p/allow-carriers-on-planes"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T14:00:10Z",
-    "id": "energy-f690616345943fe6"
-  },
-  {
-    "title": "First Principles Thinking",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-    "timestamp": "2026-09-25T13:55:37Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://sunilsadasivan.com/writing/first-principles-thinking/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T13:55:37Z",
-    "id": "energy-356b30b04a6444a5"
-  },
-  {
-    "title": "[AR0Nqc] Oski is reportedly set to round out Vitality’s 2027 roster alongside zen and Atow.",
-    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wpwhwz/ar0nqc_oski_is_reportedly_set_to_round_out/",
-    "timestamp": "2026-09-25T13:34:12Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wpwhwz/ar0nqc_oski_is_reportedly_set_to_round_out/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-25T13:34:12Z",
-    "id": "energy-01f8c739d2b5a0ef"
-  },
-  {
     "title": "Rue Blose releases Oppressor, a FREE spectral sidechain compressor",
     "summary": "Rue Blose has released Oppressor, a free multiband and spectral sidechain compressor for macOS and Windows. This free compressor was designed specifically to help you create space between competing sounds without turning down the entire target track. You can place it on the sound you want to move out of the way, then route the [...] View post: Rue Blose releases Oppressor, a FREE spectral sidechain compressor",
     "source": "Bedroom Producers Blog",
@@ -270,24 +324,6 @@
     "id": "energy-b5c404ab284f2e6b"
   },
   {
-    "title": "The Test",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://tante.cc/2026/09/24/the-test/",
-    "timestamp": "2026-09-25T12:14:02Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://tante.cc/2026/09/24/the-test/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T12:14:02Z",
-    "id": "energy-b384dabdecd4605d"
-  },
-  {
     "title": "YBK Instrument Player for Windows is FREE until October 19th",
     "summary": "YBK Audio is offering Instrument Player, a standalone VST3 instrument host for Windows, free until October 19th. Instrument Player normally costs $10 and strips away the timeline, mixer, and track setup you’d normally find in a full DAW. With this one, you simply open it, choose a VST3 instrument, and start playing. This looks super [...] View post: YBK Instrument Player for Windows is FREE until October 19th",
     "source": "Bedroom Producers Blog",
@@ -304,24 +340,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-25T12:07:54Z",
     "id": "energy-1fb2decb02c9727c"
-  },
-  {
-    "title": "Apollo View releases Scope, a FREE oscilloscope plugin for Mac and Windows",
-    "summary": "Apollo View Modular has released Scope 1.2, a free beat-synced oscilloscope plugin for macOS and Windows. The latest update makes this one worth a look for Windows users, as Scope was previously available only on macOS. Version 1.2 also adds AAX and CLAP formats, along with features borrowed from Apollo View’s paid DeltaScope plugin. I [...] View post: Apollo View releases Scope, a FREE oscilloscope plugin for Mac and Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/25/apollo-view-scope/",
-    "timestamp": "2026-09-25T12:02:16Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/25/apollo-view-scope/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T12:02:16Z",
-    "id": "energy-094bfade20af2a27"
   },
   {
     "title": "Yes, $(2K_2, K_4)$-free graphs are recolorable",
@@ -376,41 +394,5 @@
     "primary_source": true,
     "data_as_of": "2026-09-25T04:00:00Z",
     "id": "energy-45ff609d1834b43c"
-  },
-  {
-    "title": "Nvidia CEO Doesn’t Care That Kids Are Forgetting Basic Math Because Of AI: ‘I Actually Don’t Know My Address’",
-    "summary": "Who needs to know things like your own phone number or home address or how to solve a simple equation like 3x2?",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092",
-    "timestamp": "2026-09-24T21:49:35Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-24T21:49:35Z",
-    "id": "energy-84cd2fc3119907f1"
-  },
-  {
-    "title": "Do small residential batteries make sense?",
-    "summary": "A conversation with Cole Ashman of Pila Energy.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/do-small-residential-batteries-make",
-    "timestamp": "2026-09-23T10:10:03Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/do-small-residential-batteries-make"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-09-23T10:10:03Z",
-    "id": "energy-975806cbdd7914d0"
   }
 ]

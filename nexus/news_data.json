@@ -1,16 +1,106 @@
 [
   {
+    "title": "Monument Valley and Rifle: Monitoring Plant-Based Approaches to Milling Site Remediation",
+    "summary": "The Department of Energy’s Office of Legacy Management (DOE-LM) is using cutting-edge technology to give its scientists a virtual look underground at its Monument Valley processing site in Arizona, where a uranium mill once operated. By tracking the size and movements of a nitrate plume below the site, DOE-LM is assessing the effectiveness of a plant-based treatment plan. Plants are also key to environmental remediation at a former uranium mill site in Rifle, Colo. There, DOE-LM is planting and seeding vegetation with the aim of reducing the amount of groundwater that reaches a buried disposal cell.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-25/article-8430/monument-valley-and-rifle-monitoring-plantbased-approaches-to-milling-site-remediation/",
+    "timestamp": "2026-09-25T20:06:18Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-25/article-8430/monument-valley-and-rifle-monitoring-plantbased-approaches-to-milling-site-remediation/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-25T20:06:18Z",
+    "id": "energy-d9cb75c7bfa92fef"
+  },
+  {
+    "title": "European new nuclear: Italian revival, Polish agreement, Parisian summit",
+    "summary": "Recent news from the international nuclear community includes progress across Europe. In Italy, the Senate passed a bill allowing the government to build a framework to bring back nuclear power. Plans for Poland’s first nuclear power plant are moving forward, with a partnership between Polskie Elektrownie Jądrowe and a Bechtel-Westinghouse consortium now in place. Partners have crafted a memorandum of understanding for the potential deployment of GE Vernova Hitachi’s BWRX-300 in Europe and the United Kingdom. And earlier this month, the Roadmaps to New Nuclear conference was held in Paris, France, where OECD Nuclear Energy Agency Director General William Magwood IV gave the opening address.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-25/article-8437/european-new-nuclear-italian-revival-polish-agreement-parisian-summit/",
+    "timestamp": "2026-09-25T18:16:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-25/article-8437/european-new-nuclear-italian-revival-polish-agreement-parisian-summit/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-25T18:16:44Z",
+    "id": "energy-080d14a6b522934a"
+  },
+  {
+    "title": "Incident pauses Palisades fuel loading; plant connected to switchyard",
+    "summary": "An incident involving a fuel assembly has paused the fuel loading process at the Palisades power plant in Covert, Mich., operator Holtec has acknowledged. Fuel loading began on August 30 as Palisades entered Mode 6, the refueling stage of the restart. The reactor core consists of 204 fuel assemblies that include new fuel and partially used fuel from the plant’s most recent operating cycles.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-25/article-8436/incident-pauses-palisades-fuel-loading-plant-connected-to-switchyard/",
+    "timestamp": "2026-09-25T16:39:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-25/article-8436/incident-pauses-palisades-fuel-loading-plant-connected-to-switchyard/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-25T16:39:21Z",
+    "id": "energy-29cce853a5c9ce8d"
+  },
+  {
+    "title": "Americans stand ready: Make sure you’re prepared for severe weather",
+    "summary": "September is National Preparedness Month, and Entergy is joining organizations across the country in encouraging customers to take simple, proactive steps to keep their families and property safe before emergencies occur. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/americans-stand-ready-make-sure-youre-prepared-for-severe-weather",
+    "timestamp": "2026-09-25T16:36:34Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/americans-stand-ready-make-sure-youre-prepared-for-severe-weather"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-25T16:36:34Z",
+    "id": "energy-b5325e2cf483dd95"
+  },
+  {
     "title": "Entergy named a Top Utility in economic development for 19th year in a row",
     "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. The communities we serve continue to attract some of the nation’s most competitive and power‑intensive industries in the United States. In 2025, Entergy Texas helped secure more than $30,000 in capital investments and create more than 700 new jobs within Southeast Texas. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row",
+    "url": "https://www.entergy.com/news/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row",
     "timestamp": "2026-09-25T14:14:37Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row"
+      "https://www.entergy.com/news/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -21,73 +111,7 @@
       "ETR"
     ],
     "data_as_of": "2026-09-25T14:14:37Z",
-    "id": "energy-2874d89195451c99"
-  },
-  {
-    "title": "ITER breeding blanket and tritium plant plans advance",
-    "summary": "ITER has announced progress on its tritium breeding and processing efforts, including the success of a summit bringing together the teams that are developing its tritium plant and the selection of four breeding blanket systems that will be tested at ITER.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-25/article-8435/iter-breeding-blanket-and-tritium-plant-plans-advance/",
-    "timestamp": "2026-09-25T12:27:26Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-25/article-8435/iter-breeding-blanket-and-tritium-plant-plans-advance/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-25T12:27:26Z",
-    "id": "energy-3836facc6c35430e"
-  },
-  {
-    "title": "Pickering refurb will “strengthen Ontario's economic sovereignty and energy security”",
-    "summary": "Ontario Power Generation has begun an extensive project to refurbish the Pickering nuclear power plant. Characterized as “Canada’s largest clean energy infrastructure project,” the refurbishment will extend the operating lifetimes of the facility’s four CANDU reactors by as much as 38 years—and support Ontario’s nuclear supply chain.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-24/article-8434/pickering-refurb-will-strengthen-ontarios-economic-sovereignty-and-energy-security/",
-    "timestamp": "2026-09-24T21:59:54Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-24/article-8434/pickering-refurb-will-strengthen-ontarios-economic-sovereignty-and-energy-security/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-24T21:59:54Z",
-    "id": "energy-f7537e6cce62c8b1"
-  },
-  {
-    "title": "ANS looks at Illinois’s nuclear future",
-    "summary": "The latest installment in the ANS webinar series “Nuclear in the States” focused on the Society’s home state of Illinois. Illinois has 11 operating commercial reactors and the largest operating nuclear capacity in the country. Recently, it lifted the last restrictions it had on building new reactors. Furthermore, Gov. J. B. Pritzker has set a goal to add 2 GW of new nuclear capacity from either new sites or uprates, and for that construction to begin by 2033.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-24/article-8433/ans-looks-at-illinoiss-nuclear-future/",
-    "timestamp": "2026-09-24T20:45:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-24/article-8433/ans-looks-at-illinoiss-nuclear-future/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-24T20:45:37Z",
-    "id": "energy-5f81f48987d6283e"
+    "id": "energy-5bd59ae2583ab1a1"
   },
   {
     "title": "Smarter lighting can support a stronger business",
@@ -112,30 +136,6 @@
     ],
     "data_as_of": "2026-09-24T18:01:47Z",
     "id": "energy-05afe4b82918c45f"
-  },
-  {
-    "title": "Entergy Louisiana President and CEO Phillip May named 2026 LABI Executive of the Year",
-    "summary": "Entergy Louisiana president and CEO Phillip May has been named the 2026 Executive of the Year by the Louisiana Association of Business and Industry, recognizing his exceptional leadership in strengthening Louisiana’s business climate, advancing major economic development initiatives and supporting the wellbeing of communities across the state. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-louisiana-president-and-ceo-phillip-may-named-2026-labi-executive-of-the-year",
-    "timestamp": "2026-09-23T19:50:34Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-louisiana-president-and-ceo-phillip-may-named-2026-labi-executive-of-the-year"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-23T19:50:34Z",
-    "id": "energy-5097a56894ffa1cc"
   },
   {
     "title": "ISO 101 training materials posted online",
