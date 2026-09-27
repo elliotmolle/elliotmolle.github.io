@@ -1,153 +1,264 @@
 [
   {
-    "title": "Control Resonant Violates the Number One Commandment of Video Game Lore",
-    "summary": "Control Resonant is packed with intriguing worldbuilding, but its glut of lore logs go a little overboard.",
+    "title": "The Real Budget Of Hideo Kojima's Physint Remains A Mystery",
+    "summary": "It's unlikely that Kojima Productions' Physint has a budget of $400 million after Xbox decided to publsih it",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/control-resonant-lore-logs/",
-    "timestamp": "2026-09-26T14:00:15Z",
+    "url": "https://www.polygon.com/physint-budget-controversy/",
+    "timestamp": "2026-09-27T14:43:45Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/control-resonant-lore-logs/"
+      "https://www.polygon.com/physint-budget-controversy/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-26T14:00:15Z",
-    "id": "energy-c55c64cd3052a636"
+    "data_as_of": "2026-09-27T14:43:45Z",
+    "id": "energy-b9106be675c51ba2"
   },
   {
-    "title": "Wolverine Now Officially Lets Players Turn Off Its Most-Hated Feature",
-    "summary": "The latest update for PS5 exclusive Marvel's Wolverine lets players turn off controversial scent trails",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/wolverine-turn-off-scent-trails/",
-    "timestamp": "2026-09-26T13:32:45Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/wolverine-turn-off-scent-trails/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-26T13:32:45Z",
-    "id": "energy-589660500b1f21e2"
-  },
-  {
-    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+    "title": "10 Tells of a Slop UI",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-    "timestamp": "2026-09-26T13:05:36Z",
+    "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+    "timestamp": "2026-09-27T14:41:26Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
+      "https://hereticpleb.vercel.app/blog/10-tells-of-slop"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-26T13:05:36Z",
-    "id": "energy-533c47f440f9e8d4"
+    "data_as_of": "2026-09-27T14:41:26Z",
+    "id": "energy-0c8749b32106c691"
   },
   {
-    "title": "RLFS S5 [Final Bracket - Upper Bracket Quarterfinal]: Lions and Monkeys [zen, Reveal., Cheese] vs. The Exotic Falcons [Kiileerrzz, ExoTiiK, DRUFINHO]",
-    "summary": "Rocket League Fantasy Series (RLFS) - Season 5 The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. Explanation of the Weighted Voting System used to determine odds Assumptions to consider when voting Final Bracket - Upper Bracket Quarterfinal - Match 2 Lions and Monkeys zen Reveal CHEESE. GM Message: Zen. Reveal. Cheese. Cmon, need I say more? Back to back finals for Reveal, an insane breakout performance from Cheese (ties Vatira’s best worlds placement btw), and arguably one of if not the best individual player in…",
+    "title": "[Alphakep] FaZe Clan is STRONGLY considering joining rocket league next season",
+    "summary": "As a note, kep is not trolling here; he actually got connections with pros, leakers, coaches etc, submitted by /u/Used_Worldliness_287 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqpylw/rlfs_s5_final_bracket_upper_bracket_quarterfinal/",
-    "timestamp": "2026-09-26T13:00:21Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wrloiz/alphakep_faze_clan_is_strongly_considering/",
+    "timestamp": "2026-09-27T14:31:04Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqpylw/rlfs_s5_final_bracket_upper_bracket_quarterfinal/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wrloiz/alphakep_faze_clan_is_strongly_considering/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-26T13:00:21Z",
-    "id": "energy-c2b3ce41459192b7"
+    "data_as_of": "2026-09-27T14:31:04Z",
+    "id": "energy-1fe823ec93aecaa3"
   },
   {
-    "title": "Forgotten Island's directors unpack their 'very personal' anime references",
-    "summary": "Sailor Moon, Street Fighter, and Dragon Ball all get Easter egg moments in Forgotten Island, alongside a little Marvel Vs. Capcom.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/forgotten-island-anime-references-director-interview/",
-    "timestamp": "2026-09-26T13:00:15Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/forgotten-island-anime-references-director-interview/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-26T13:00:15Z",
-    "id": "energy-ed493a42fe9fe77b"
-  },
-  {
-    "title": "CEO of Mistral: AI is software. It can be controlled",
+    "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
-    "timestamp": "2026-09-26T12:52:04Z",
+    "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+    "timestamp": "2026-09-27T14:30:55Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
+      "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-26T12:52:04Z",
-    "id": "energy-49ba7b787629d4b1"
+    "data_as_of": "2026-09-27T14:30:55Z",
+    "id": "energy-506a73434d1f4de8"
   },
   {
-    "title": "Oski on the Rumor of him joining Zen and Atow on Vitality",
-    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "title": "[Alphakep] Kofyr is expected to be joining Frosty as a duo and LF3rd going into next season.",
+    "summary": "submitted by /u/Ibrah_11 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqpjfr/oski_on_the_rumor_of_him_joining_zen_and_atow_on/",
-    "timestamp": "2026-09-26T12:40:12Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wrlhs6/alphakep_kofyr_is_expected_to_be_joining_frosty/",
+    "timestamp": "2026-09-27T14:23:14Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqpjfr/oski_on_the_rumor_of_him_joining_zen_and_atow_on/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wrlhs6/alphakep_kofyr_is_expected_to_be_joining_frosty/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-26T12:40:12Z",
-    "id": "energy-981b9e392e2f582c"
+    "data_as_of": "2026-09-27T14:23:14Z",
+    "id": "energy-60f4d1b728f78ee9"
   },
   {
-    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "title": "Libelula Audio releases Ultiverb, a feature-packed FREE reverb for Windows",
+    "summary": "Libelula Audio has released Ultiverb, a free algorithmic reverb plugin for Windows. Free reverb plugins are hardly rare these days, and our free reverb roundup already lists the best ones. Ultiverb is still worth covering, though, because it packs an unusually broad range of sound-shaping tools into a single reverb plugin. The reverb engine provides [...] View post: Libelula Audio releases Ultiverb, a feature-packed FREE reverb for Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/",
+    "timestamp": "2026-09-27T14:04:39Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-27T14:04:39Z",
+    "id": "energy-f26beaebe06ccfb8"
+  },
+  {
+    "title": "Flying a Helicopter Is 2026’s Most Stressful Gaming Experience",
+    "summary": "Being a helicopter pilot in Wardogs is ridiculously anxiety-inducing, and here's why.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/",
+    "timestamp": "2026-09-27T14:00:17Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-27T14:00:17Z",
+    "id": "energy-5d11629bc88d704f"
+  },
+  {
+    "title": "NoiseAsh Heater V2 ($129 value) is FREE for a limited time",
+    "summary": "Audio Plugin Deals is offering NoiseAsh Heater V2, an analog-style saturation and tone-shaping plugin for macOS and Windows, as a free download for a limited time. Heater V2 normally has a $129 list price, although NoiseAsh currently sells it for $39.90. The Audio Plugin Deals giveaway reduces the price to $0 and is advertised to [...] View post: NoiseAsh Heater V2 ($129 value) is FREE for a limited time",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/09/27/noiseash-heater-free/",
+    "timestamp": "2026-09-27T13:59:53Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/09/27/noiseash-heater-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-27T13:59:53Z",
+    "id": "energy-2387cd55083894e7"
+  },
+  {
+    "title": "Star Wars Episode 10 Has Found Its Director",
+    "summary": "Jon Watts has come on board to direct Simon Kinberg's Star Wars movie, which is expected to be Star Wars: Episode 10",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/star-wars-episode-10-director/",
+    "timestamp": "2026-09-27T13:43:55Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/star-wars-episode-10-director/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-27T13:43:55Z",
+    "id": "energy-8a9bc4ee2629bbd5"
+  },
+  {
+    "title": "Replacing the old battery on rechargeable bike lights",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-    "timestamp": "2026-09-26T10:55:56Z",
+    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "timestamp": "2026-09-27T13:30:11Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://gultsch.de/posts/breaking-up-with-google-play/"
+      "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-26T10:55:56Z",
-    "id": "energy-6c89709e35c90a26"
+    "data_as_of": "2026-09-27T13:30:11Z",
+    "id": "energy-075d16fe5a031f76"
+  },
+  {
+    "title": "NA rlcs 1s now that Diaz left",
+    "summary": "So I was thinking since diaz left na, how is going to be na 1s because zach showed us he is really good at 1s and firstkiller being always the 1s na “goat”, even though I don’t think he is good enough to beat eu/mena best player since he never plays any showmatches anymore and doesn’t grind like the others. And what other players we could see going further now? submitted by /u/One-Philosopher3402 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wrjrxd/na_rlcs_1s_now_that_diaz_left/",
+    "timestamp": "2026-09-27T13:06:32Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wrjrxd/na_rlcs_1s_now_that_diaz_left/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-09-27T13:06:32Z",
+    "id": "energy-92ef71d4eeedc533"
+  },
+  {
+    "title": "UK’s Largest Tabletop Convention Bans AI With Few Exceptions",
+    "summary": "As AI generated material consumes much of the gaming and entertainment world, major tabletop players like UKGE refuse to roll the dice with the unpopular tech",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334",
+    "timestamp": "2026-09-26T20:30:50Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T20:30:50Z",
+    "id": "energy-11fe70c03b5fdf05"
+  },
+  {
+    "title": "Comedic Filmmaker John Wilson Discovers Foundational Metaphor In The History Of Concrete",
+    "summary": "Building off his HBO series, Wilson’s feature length poetic odyssey examines why it’s hard to get excited about the future when the present visibly crumbles",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/comedic-filmmaker-john-wilson-discovers-foundational-metaphor-in-the-history-of-concrete-2000737329",
+    "timestamp": "2026-09-26T19:35:03Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/comedic-filmmaker-john-wilson-discovers-foundational-metaphor-in-the-history-of-concrete-2000737329"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T19:35:03Z",
+    "id": "energy-b58ba577ae61cd90"
+  },
+  {
+    "title": "Everything We Saw At Minecraft Live, Including The First New Dimension In 15 Years",
+    "summary": "The Sift will be the fourth dimension in the game, joining the Overworld, Nether and the End",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/minecraft-live-dungeons-ii-ice-caves-the-sift-microsoft-mojang-2000737181",
+    "timestamp": "2026-09-26T17:28:16Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/minecraft-live-dungeons-ii-ice-caves-the-sift-microsoft-mojang-2000737181"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-09-26T17:28:16Z",
+    "id": "energy-4866df55043210b0"
   },
   {
     "title": "Suno confirms v6 is trained on user-generated interactions as new copyright lawsuits surface",
@@ -166,81 +277,6 @@
     "primary_source": false,
     "data_as_of": "2026-09-26T08:23:51Z",
     "id": "energy-a7ac8399c40d4317"
-  },
-  {
-    "title": "So that's why they're exploring their options...",
-    "summary": "A Tawk and Wahvey silly moment in ranked! All joking aside, I hope they stick together. Virtus.pro was fun this season even if they weren't always on their game. submitted by /u/Babydrone [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqknce/so_thats_why_theyre_exploring_their_options/",
-    "timestamp": "2026-09-26T07:50:11Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wqknce/so_thats_why_theyre_exploring_their_options/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-09-26T07:50:11Z",
-    "id": "energy-e818997f4405b150"
-  },
-  {
-    "title": "There Are Only Two Things That Money Can’t Buy: True Love, And Homegrown Tomatoes",
-    "summary": "Plant 'em in the spring, eat 'em in the summer/All winter without 'em's a culinary bummer",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/only-two-things-money-cant-buy-true-love-and-homegrown-tomatoes-2000737231",
-    "timestamp": "2026-09-25T21:00:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/only-two-things-money-cant-buy-true-love-and-homegrown-tomatoes-2000737231"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T21:00:43Z",
-    "id": "energy-c1b97ce212b577ea"
-  },
-  {
-    "title": "Nippon Ichi, NIS America Head Says Company Is ‘Researching’ AI But Personally Doesn’t Think It Will Make Development Faster",
-    "summary": "'The best way to [apply AI] would be in a way that actually improves the quality of the game'",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211",
-    "timestamp": "2026-09-25T19:00:02Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T19:00:02Z",
-    "id": "energy-23909cc166ddcebb"
-  },
-  {
-    "title": "Microsoft CEO On Recent Xbox Layoffs: ‘There’s Some Amount Of Streamlining Asha Is Doing…Which Is Great To See’",
-    "summary": "Don't worry folks, everything is going great and according to plan",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/microsoft-ceo-on-recent-xbox-layoffs-theres-some-amount-of-streamlining-asha-is-doing-which-is-great-to-see-2000737217",
-    "timestamp": "2026-09-25T18:38:57Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/microsoft-ceo-on-recent-xbox-layoffs-theres-some-amount-of-streamlining-asha-is-doing-which-is-great-to-see-2000737217"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T18:38:57Z",
-    "id": "energy-9c69c7e5041f6921"
   },
   {
     "title": "MISO Urges FERC To Ok ‘Zero-Injection’ Proposal For Large Loads Without Delays",
@@ -304,42 +340,6 @@
     ],
     "data_as_of": "2026-09-25T14:37:41Z",
     "id": "energy-4450f83c7fd9fe96"
-  },
-  {
-    "title": "Rue Blose releases Oppressor, a FREE spectral sidechain compressor",
-    "summary": "Rue Blose has released Oppressor, a free multiband and spectral sidechain compressor for macOS and Windows. This free compressor was designed specifically to help you create space between competing sounds without turning down the entire target track. You can place it on the sound you want to move out of the way, then route the [...] View post: Rue Blose releases Oppressor, a FREE spectral sidechain compressor",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/25/rue-blose-oppressor/",
-    "timestamp": "2026-09-25T12:30:48Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/25/rue-blose-oppressor/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T12:30:48Z",
-    "id": "energy-b5c404ab284f2e6b"
-  },
-  {
-    "title": "YBK Instrument Player for Windows is FREE until October 19th",
-    "summary": "YBK Audio is offering Instrument Player, a standalone VST3 instrument host for Windows, free until October 19th. Instrument Player normally costs $10 and strips away the timeline, mixer, and track setup you’d normally find in a full DAW. With this one, you simply open it, choose a VST3 instrument, and start playing. This looks super [...] View post: YBK Instrument Player for Windows is FREE until October 19th",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/25/ybk-instrument-player/",
-    "timestamp": "2026-09-25T12:07:54Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/25/ybk-instrument-player/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-25T12:07:54Z",
-    "id": "energy-1fb2decb02c9727c"
   },
   {
     "title": "Yes, $(2K_2, K_4)$-free graphs are recolorable",
