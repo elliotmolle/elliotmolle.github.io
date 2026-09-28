@@ -1,16 +1,16 @@
 [
   {
-    "title": "Monument Valley and Rifle: Monitoring Plant-Based Approaches to Milling Site Remediation",
-    "summary": "The Department of Energy’s Office of Legacy Management (DOE-LM) is using cutting-edge technology to give its scientists a virtual look underground at its Monument Valley processing site in Arizona, where a uranium mill once operated. By tracking the size and movements of a nitrate plume below the site, DOE-LM is assessing the effectiveness of a plant-based treatment plan. Plants are also key to environmental remediation at a former uranium mill site in Rifle, Colo. There, DOE-LM is planting and seeding vegetation with the aim of reducing the amount of groundwater that reaches a buried disposal cell.",
+    "title": "Solubility-driven process could simplify used fuel reprocessing",
+    "summary": "Researchers at Oregon State University have developed an aqueous reprocessing technique that could provide a new way to recycle used nuclear fuel or simplify existing reprocessing methods. As published in Communications Chemistry, the technique uses differences in solubility between actinide fluoride clusters and used nuclear fuel contaminants in a concentrated ammonium fluoride solution to remove a majority of fission products from samples simulating used nuclear fuel.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-25/article-8430/monument-valley-and-rifle-monitoring-plantbased-approaches-to-milling-site-remediation/",
-    "timestamp": "2026-09-25T20:06:18Z",
+    "url": "https://www.ans.org/news/2026-09-28/article-8441/solubilitydriven-process-could-simplify-used-fuel-reprocessing/",
+    "timestamp": "2026-09-28T17:57:20Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-25/article-8430/monument-valley-and-rifle-monitoring-plantbased-approaches-to-milling-site-remediation/"
+      "https://www.ans.org/news/2026-09-28/article-8441/solubilitydriven-process-could-simplify-used-fuel-reprocessing/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-25T20:06:18Z",
-    "id": "energy-d9cb75c7bfa92fef"
+    "data_as_of": "2026-09-28T17:57:20Z",
+    "id": "energy-84bc5b7a3c64fe29"
   },
   {
-    "title": "European new nuclear: Italian revival, Polish agreement, Parisian summit",
-    "summary": "Recent news from the international nuclear community includes progress across Europe. In Italy, the Senate passed a bill allowing the government to build a framework to bring back nuclear power. Plans for Poland’s first nuclear power plant are moving forward, with a partnership between Polskie Elektrownie Jądrowe and a Bechtel-Westinghouse consortium now in place. Partners have crafted a memorandum of understanding for the potential deployment of GE Vernova Hitachi’s BWRX-300 in Europe and the United Kingdom. And earlier this month, the Roadmaps to New Nuclear conference was held in Paris, France, where OECD Nuclear Energy Agency Director General William Magwood IV gave the opening address.",
+    "title": "Democrats request information from NRC, Nieh over regulatory overhaul",
+    "summary": "The ranking members of the congressional subcommittees on energy and water development are seeking more information from NRC Chairman Ho Nieh on the agency’s approach to fulfilling Executive Order 14300, “Ordering the Reform of the Nuclear Regulatory Commission,” and whether transparency, public input, safety, oversight, and other items have been impacted by the overhaul. In a letter sent to Nieh on September 18, Sen. Patty Murray (D., Wash.), vice chair of the Senate Appropriations Committee and ranking member of the Subcommittee on Energy and Water Development, and Rep. Marcy Kaptur (D., Ohio), ranking member of the House Appropriations Subcommittee on Energy and Water Development, listed 17 items they wanted more information on. The two gave Nieh 15 days to respond to the letter.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-25/article-8437/european-new-nuclear-italian-revival-polish-agreement-parisian-summit/",
-    "timestamp": "2026-09-25T18:16:44Z",
+    "url": "https://www.ans.org/news/2026-09-28/article-8440/democrats-request-information-from-nrc-nieh-over-regulatory-overhaul/",
+    "timestamp": "2026-09-28T16:06:26Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-25/article-8437/european-new-nuclear-italian-revival-polish-agreement-parisian-summit/"
+      "https://www.ans.org/news/2026-09-28/article-8440/democrats-request-information-from-nrc-nieh-over-regulatory-overhaul/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-25T18:16:44Z",
-    "id": "energy-080d14a6b522934a"
+    "data_as_of": "2026-09-28T16:06:26Z",
+    "id": "energy-64f49eb80b090ad5"
   },
   {
-    "title": "Incident pauses Palisades fuel loading; plant connected to switchyard",
-    "summary": "An incident involving a fuel assembly has paused the fuel loading process at the Palisades power plant in Covert, Mich., operator Holtec has acknowledged. Fuel loading began on August 30 as Palisades entered Mode 6, the refueling stage of the restart. The reactor core consists of 204 fuel assemblies that include new fuel and partially used fuel from the plant’s most recent operating cycles.",
+    "title": "NN Asks: How can the nuclear industry ensure trust in AI-driven decisions?",
+    "summary": "Jamie Coble This is a really interesting question that we’re already grappling with both in research and industry. A lot of the discussion around the practicality of implementing AI in nuclear includes concepts of trustworthiness, transparency, and explainability. Conceptually, these are all intertwined: An AI that generates explainable results through a transparent process is inherently easier to trust through careful verification, validation, and guardrails. Developing this trust goes beyond simple measures of the accuracy, precision, or recall of the final result. Even when results are incorrect, as human experts we must be able to inspect the “thought process,” judge the evidence that was relied on, and draw conclusions about the validity of the AI tool overall. This allows us to develop trust in the process without requiring everyone to be an expert in AI algorithms and structures.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-25/article-8436/incident-pauses-palisades-fuel-loading-plant-connected-to-switchyard/",
-    "timestamp": "2026-09-25T16:39:21Z",
+    "url": "https://www.ans.org/news/2026-09-28/article-8330/inni-asks-how-can-the-nuclear-industry-ensure-trust-in-aidriven-decisions/",
+    "timestamp": "2026-09-28T14:31:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-25/article-8436/incident-pauses-palisades-fuel-loading-plant-connected-to-switchyard/"
+      "https://www.ans.org/news/2026-09-28/article-8330/inni-asks-how-can-the-nuclear-industry-ensure-trust-in-aidriven-decisions/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,79 +62,7 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-25T16:39:21Z",
-    "id": "energy-29cce853a5c9ce8d"
-  },
-  {
-    "title": "Americans stand ready: Make sure you’re prepared for severe weather",
-    "summary": "September is National Preparedness Month, and Entergy is joining organizations across the country in encouraging customers to take simple, proactive steps to keep their families and property safe before emergencies occur. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/americans-stand-ready-make-sure-youre-prepared-for-severe-weather",
-    "timestamp": "2026-09-25T16:36:34Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/americans-stand-ready-make-sure-youre-prepared-for-severe-weather"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-25T16:36:34Z",
-    "id": "energy-b5325e2cf483dd95"
-  },
-  {
-    "title": "Entergy named a Top Utility in economic development for 19th year in a row",
-    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. The communities we serve continue to attract some of the nation’s most competitive and power‑intensive industries in the United States. In 2025, Entergy Texas helped secure more than $30,000 in capital investments and create more than 700 new jobs within Southeast Texas. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row",
-    "timestamp": "2026-09-25T14:14:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-25T14:14:37Z",
-    "id": "energy-5bd59ae2583ab1a1"
-  },
-  {
-    "title": "Smarter lighting can support a stronger business",
-    "summary": "Lighting is one of the most visible systems in a commercial facility. It affects how customers experience a space, how employees complete their work and how safely people move through interior and exterior areas. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/smarter-lighting-can-support-a-stronger-business",
-    "timestamp": "2026-09-24T18:01:47Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/smarter-lighting-can-support-a-stronger-business"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-24T18:01:47Z",
-    "id": "energy-05afe4b82918c45f"
+    "data_as_of": "2026-09-28T14:31:39Z",
+    "id": "energy-7c8b3bfacbd2bc35"
   }
 ]
