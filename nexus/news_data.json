@@ -1,16 +1,40 @@
 [
   {
-    "title": "NRC roundup: Crane EA/FONSI; new Agreement State",
-    "summary": "The breakneck speed at which the Nuclear Regulatory Commission has been moving for the past year-plus showed no sign of slowing down last week, with a slew of new updates being announced. The environmental assessment and finding of no significant impact for the Crane nuclear power plant in Pennsylvania was officially issued, Indiana became an NRC Agreement State, and a new Executive Order 14300–related rulemaking was proposed.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-29/article-8442/nrc-roundup-crane-eafonsi-new-agreement-state/",
-    "timestamp": "2026-09-29T14:36:41Z",
+    "title": "Entergy New Orleans connects with customers through community town hall meetings",
+    "summary": "Entergy New Orleans recently hosted a series of community town hall meetings throughout the city, giving residents an opportunity to hear directly from our subject matter experts about electric reliability, economic development initiatives, and infrastructure projects underway in their neighborhoods. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-connects-with-customers-through-community-town-hall-meetings",
+    "timestamp": "2026-09-30T15:03:05Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-29/article-8442/nrc-roundup-crane-eafonsi-new-agreement-state/"
+      "https://www.entergy.com/blog/entergy-new-orleans-connects-with-customers-through-community-town-hall-meetings"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-30T15:03:05Z",
+    "id": "energy-aed97901192546ef"
+  },
+  {
+    "title": "Bipartisan fusion bill proposes $10B for commercialization and research",
+    "summary": "Ranking Member Zoe Lofgren (D., Calif.) and Rep. Jay Obernolte (R., Calif.) have led the introduction of a House bill, the American Leadership in Fusion Act. If enacted, it would provide $10 billion in direct investments for fusion facilities, research, and commercialization efforts and would authorize the establishment of an Office of Fusion within the Department of Energy and a National Science Foundation–led fusion workforce development program. The bill aims to implement the recommendations given in a bipartisan commission report released in October by the Special Competitive Studies Project’s (SCSP) Commission on the Scaling of Fusion Energy.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-30/article-8446/bipartisan-fusion-bill-proposes-10b-for-commercialization-and-research/",
+    "timestamp": "2026-09-30T14:34:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-30/article-8446/bipartisan-fusion-bill-proposes-10b-for-commercialization-and-research/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,12 +42,124 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-29T14:36:41Z",
-    "id": "energy-d6c54500bb574ff9"
+    "data_as_of": "2026-09-30T14:34:11Z",
+    "id": "energy-ad6380e68321a630"
+  },
+  {
+    "title": "OPSI and Governors Collaborative Letter to the PJM Board Concerning the Members Governance Term Sheet",
+    "summary": "Updated Date: 09.30.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260930-opsi-and-governors-collaborative-letter-to-the-pjm-board-concerning-the-members-governance-term-sheet.pdf",
+    "timestamp": "2026-09-30T13:22:21Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260930-opsi-and-governors-collaborative-letter-to-the-pjm-board-concerning-the-members-governance-term-sheet.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-09-30T13:22:21Z",
+    "id": "energy-47cefd07bec35b07"
+  },
+  {
+    "title": "US Energy Department awards Entergy $13.7M to strengthen grid reliability, support the region’s growing communities",
+    "summary": "The U.S. Energy Department has selected Entergy to receive $13.7 million in federal funding to improve the power delivery to Entergy’s customers and communities and support economic growth across Arkansas, Louisiana and Mississippi. The grid improvements will strengthen reliability, boost resilience and lower costs for customers. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/us-energy-department-awards-entergy-13-7m-to-strengthen-grid-reliability-support-the-regions-growing-communities",
+    "timestamp": "2026-09-30T13:00:05Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/us-energy-department-awards-entergy-13-7m-to-strengthen-grid-reliability-support-the-regions-growing-communities"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-09-30T13:00:05Z",
+    "id": "energy-c5430fab2ec381ab"
+  },
+  {
+    "title": "TVA receives construction permit for Clinch River",
+    "summary": "Today, the Nuclear Regulatory Commission approved the Tennessee Valley Authority’s construction permit application for its planned GE Vernova Hitachi BWRX-300 at the Clinch River site in Oak Ridge, Tenn.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-29/article-8445/tva-receives-construction-permit-for-clinch-river/",
+    "timestamp": "2026-09-29T20:32:43Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-29/article-8445/tva-receives-construction-permit-for-clinch-river/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-29T20:32:43Z",
+    "id": "energy-aec01eb1efd984b7"
+  },
+  {
+    "title": "Harvard Electricity Law Initiative Letter to the PJM Board of Managers",
+    "summary": "Updated Date: 09.29.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260929-harvard-eli-letter-to-pjm-board-of-managers.pdf",
+    "timestamp": "2026-09-29T19:18:22Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260929-harvard-eli-letter-to-pjm-board-of-managers.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-09-29T19:18:22Z",
+    "id": "energy-d7dec3d8a41dcf01"
+  },
+  {
+    "title": "NRC grants review of Homestake Mining’s groundwater ACL application",
+    "summary": "The Nuclear Regulatory Commission has announced that it will begin review of Homestake Mining Company’s application to pursue alternative concentration limits (ACLs) and revised treatment options of groundwater contaminants at its Grants Reclamation Project site near Milan, N.M.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-29/article-8444/nrc-grants-review-of-homestake-minings-groundwater-acl-application/",
+    "timestamp": "2026-09-29T18:58:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-29/article-8444/nrc-grants-review-of-homestake-minings-groundwater-acl-application/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-29T18:58:31Z",
+    "id": "energy-e7bb4608e3ed7e0e"
   },
   {
     "title": "Entergy named a Top Utility in economic development for 19th year in a row",
-    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. The communities we serve continue to attract some of the nation’s most competitive and power‑intensive industries in the United States. In 2025, Entergy Mississippi helped secure 9,609 in capital investments and create nearly 1,177 new jobs within the Entergy Mississippi service area. Source",
+    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. The communities we serve continue to attract some of the nation’s most competitive and power‑intensive industries in the United States. In 2025, Entergy Mississippi helped secure $9.609 billion in capital investments and create nearly 1,177 new jobs within the Entergy Mississippi service area. Source",
     "source": "Entergy",
     "url": "https://www.entergy.com/news/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row-2",
     "timestamp": "2026-09-29T14:22:24Z",
@@ -66,49 +202,5 @@
     ],
     "data_as_of": "2026-09-29T12:14:45Z",
     "id": "energy-75a253f65ea05a8f"
-  },
-  {
-    "title": "Goodway® ScaleBreak®-000: Redefining Industrial Descaling for Power Generation",
-    "summary": "In power generation facilities, scale is more than a maintenance issue. It is an efficiency issue, a reliability issue, and ultimately a profitability issue. Mineral deposits such as calcium carbonate create an insulating barrier on heat transfer surfaces. As scale accumulates inside condensers, feedwater heaters, boilers, cooling systems, and auxiliary heat exchangers, thermal efficiency declines. The result can be higher operating costs, increased condenser backpressure, greater energy requirements, reduced generating capacity, and longer maintenance outages. Removing these deposits is critical, but traditional chemical descaling has often required facilities to balance cleaning performance against worker safety, environmental impact, and operational complexity. Goodway® ScaleBreak®-000 changes that equation.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-29/article-8319/goodway-scalebreak000-redefining-industrial-descaling-for-power-generation/",
-    "timestamp": "2026-09-29T12:01:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-29/article-8319/goodway-scalebreak000-redefining-industrial-descaling-for-power-generation/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-29T12:01:30Z",
-    "id": "energy-1a447bdac0feddf0"
-  },
-  {
-    "title": "Findings from deep borehole disposal study hold promise for NLIC initiative",
-    "summary": "On September 22, Deep Isolation shared the results of a three-year project examining deep borehole disposal of waste produced by recycling spent fuel. The results could have bearing on plans proposed for managing the nation’s nuclear waste, including the DOE’s Nuclear Lifecycle Innovation Campuses (NLIC) program.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-28/article-8438/findings-from-deep-borehole-disposal-study/",
-    "timestamp": "2026-09-28T20:07:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-28/article-8438/findings-from-deep-borehole-disposal-study/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-28T20:07:30Z",
-    "id": "energy-84aeb485756629a4"
   }
 ]
