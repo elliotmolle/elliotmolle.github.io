@@ -1,345 +1,399 @@
 [
   {
-    "title": "PlayStation Plus October 2026 Free Games Lineup Officially Revealed",
-    "summary": "Sony's free PlayStation Plus Essential games for October 2026 have been announced, and include three wildly different games.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential/",
-    "timestamp": "2026-09-30T16:03:57Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T16:03:57Z",
-    "id": "energy-7ab0e894c0e00efb"
-  },
-  {
-    "title": "The Pokémon Center Opens Pre-Orders For Delta Reign, The Next Big TCG Set",
-    "summary": "TPC begins presale for the set releasing after the Pokémon 30th anniversary collection, Delta Reign, and it includes ETBs and Booster Bundles",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-center-delta-reign-preorder-tcg-error-15-17-drawing/",
-    "timestamp": "2026-09-30T16:01:29Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/pokemon-center-delta-reign-preorder-tcg-error-15-17-drawing/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T16:01:29Z",
-    "id": "energy-1216ed47f26258e4"
-  },
-  {
-    "title": "Control Resonant Hides Its Best Part 15 Hours Into the Game",
-    "summary": "Control Resonant's finest hours happen in a strange area that trades combat for surreal platforming.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/control-resonant-the-underpass-opinion/",
-    "timestamp": "2026-09-30T16:01:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/control-resonant-the-underpass-opinion/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T16:01:16Z",
-    "id": "energy-f915521f7dd32796"
-  },
-  {
-    "title": "Directive 8020 Will Finally Add Online Multiplayer Just In Time For Spooky Season",
-    "summary": "While the game's Movie Night mode supports local co-op, Supermassive will add its online component this October",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/directive-8020-will-finally-add-online-multiplayer-just-in-time-for-spooky-season-2000738639",
-    "timestamp": "2026-09-30T16:00:02Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/directive-8020-will-finally-add-online-multiplayer-just-in-time-for-spooky-season-2000738639"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T16:00:02Z",
-    "id": "energy-59ec86b71ec479a7"
-  },
-  {
-    "title": "The AI Race Just Got Awkward",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-    "timestamp": "2026-09-30T15:50:11Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T15:50:11Z",
-    "id": "energy-f128385f58b0b45c"
-  },
-  {
-    "title": "Asha Sharma Says ‘Xbox Is Not For Sale’ Amid Concerns Microsoft’s Gaming Business Is Being Streamlined For A Spin-Off",
-    "summary": "Xbox is already looking very different than it did a year ago",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/asha-sharma-says-xbox-is-not-for-sale-amid-concerns-microsofts-gaming-business-is-being-streamlined-for-a-spin-off-2000738651",
-    "timestamp": "2026-09-30T15:43:04Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/asha-sharma-says-xbox-is-not-for-sale-amid-concerns-microsofts-gaming-business-is-being-streamlined-for-a-spin-off-2000738651"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T15:43:04Z",
-    "id": "energy-9b3005bf40f4053f"
-  },
-  {
-    "title": "Airwindows releases ConsoleX3 open-source mixing system with an adaptive GUI",
-    "summary": "Airwindows has released ConsoleX3, a free and open-source mixing console system for macOS, Windows, and Linux. Most Airwindows plugins famously prioritize efficient DSP over custom interfaces, but ConsoleX3 continues the developer’s newer experiments with in-house GUIs. It is not the first Airwindows release with one, but I think this one is the most elaborate example [...] View post: Airwindows releases ConsoleX3 open-source mixing system with an adaptive GUI",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/30/airwindows-consolex3/",
-    "timestamp": "2026-09-30T15:37:32Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/30/airwindows-consolex3/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T15:37:32Z",
-    "id": "energy-8642a5c69f08552f"
-  },
-  {
-    "title": "Alleged Rockstar Games Hacker Arrested In Connection With Data Breach That Revealed GTA Online Profits",
-    "summary": "The FBI claims the arrested hacker was one of the leaders of prolific hacking group ShinyHunters",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/alleged-rockstar-games-hacker-arrested-in-connection-with-data-breach-that-revealed-gta-online-profits-2000738638",
-    "timestamp": "2026-09-30T15:30:05Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/alleged-rockstar-games-hacker-arrested-in-connection-with-data-breach-that-revealed-gta-online-profits-2000738638"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T15:30:05Z",
-    "id": "energy-b6cca07783f43d93"
-  },
-  {
-    "title": "Pizza Bagel Plugins releases Schmear vocal widener FREE",
-    "summary": "Pizza Bagel Plugins has released Schmear, a streamlined vocal widener for macOS and Windows that is currently free instead of $19. The new company comes from Los Angeles producer and vocal producer Justin Gammella. His credits include Benson Boone’s “Let Me Go” and vocal production on FINNEAS’ Optimist album. Schmear is the classic micro-pitch widening [...] View post: Pizza Bagel Plugins releases Schmear vocal widener FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/30/pizza-bagel-plugins-schmear/",
-    "timestamp": "2026-09-30T15:03:31Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/09/30/pizza-bagel-plugins-schmear/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T15:03:31Z",
-    "id": "energy-2d11acdcf79416f6"
-  },
-  {
-    "title": "Exus Nearly Doubles U.S. Solar Portfolio With 715 MW ibV Deal",
-    "summary": "By Branka Narancic A single utility-scale transaction just added 715 megawatts of solar capacity to Exus Renewables North America’s U.S. portfolio, nearly doubling what the Pittsburgh-based developer already held. The deal, announced on 29 September 2026, sees Exus acquire four development-stage solar projects across Louisiana and Wisconsin from ibV Energy Partners, an ib vogt company. […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/exus-nearly-doubles-u-s-solar-portfolio-with-715-mw-ibv-deal/",
-    "timestamp": "2026-09-30T14:36:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/exus-nearly-doubles-u-s-solar-portfolio-with-715-mw-ibv-deal/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-30T14:36:42Z",
-    "id": "energy-660c29e1a742c113"
-  },
-  {
-    "title": "Opinion: MISO’s Market Monitor Needs A Record The Public Can Trust",
-    "summary": "By Claire Douglass MISO hired EY-Parthenon to examine how it oversees its Independent Market Monitor. Its preliminary findings have produced a disagreement worth resolving. EY-Parthenon’s comparison listed several oversight practices used by other grid operators but did not list MISO among them. Potomac Economics, MISO’s Monitor for more than two decades, says the comparison understates […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/opinion-misos-market-monitor-needs-a-record-the-public-can-trust/",
-    "timestamp": "2026-09-30T14:35:06Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/opinion-misos-market-monitor-needs-a-record-the-public-can-trust/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-30T14:35:06Z",
-    "id": "energy-0c9f6aa3ebc0db4c"
-  },
-  {
-    "title": "Inside A Data Center Industry Conference",
-    "summary": "By Hiroko Tabuchi Rajiv Vohra, a private equity investor who develops data center infrastructure, recently reminisced about the good old days of a year ago. “Nobody knew what a data center was,” he said last week at a gathering of industry leaders in Dallas. “We’d put a data center in, and nobody cared.” But in […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/09/inside-a-data-center-industry-conference/",
-    "timestamp": "2026-09-30T14:34:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/09/inside-a-data-center-industry-conference/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-09-30T14:34:28Z",
-    "id": "energy-7251e1dcd6371eb8"
-  },
-  {
-    "title": "A Brief History of the Bloomberg Terminal",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://spectrum.ieee.org/bloomberg-terminal",
-    "timestamp": "2026-09-30T14:34:07Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://spectrum.ieee.org/bloomberg-terminal"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T14:34:07Z",
-    "id": "energy-67b388b80fa5ef50"
-  },
-  {
-    "title": "Stizzy becomes a free agent for RLCS 2027",
-    "summary": "https://x.com/stizzyrl/status/2105302361107272078?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
+    "title": "What is the 2027 RLCS season gonna look like?",
+    "summary": "I'm really confused what the format is supposed to be going into next season. What is the weird 24 team kickoff tournament? Are there still open qualifiers? Still 2 majors and worlds? Are we switching to UE6 mid season? 1v1, 2v2, LCQ? What's going on lmao submitted by /u/Rosieverse83 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wu6eaf/stizzy_becomes_a_free_agent_for_rlcs_2027/",
-    "timestamp": "2026-09-30T14:27:40Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv4gz6/what_is_the_2027_rlcs_season_gonna_look_like/",
+    "timestamp": "2026-10-01T16:44:48Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wu6eaf/stizzy_becomes_a_free_agent_for_rlcs_2027/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv4gz6/what_is_the_2027_rlcs_season_gonna_look_like/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-30T14:27:40Z",
-    "id": "energy-d8eda9f35118f530"
+    "data_as_of": "2026-10-01T16:44:48Z",
+    "id": "energy-86ac2aef4d74753a"
   },
   {
-    "title": "Jack is going to be the Head Coach of GenG next season. He will be coaching Beastmode, Chronic, and Tawk! - Alphakep",
+    "title": "Gaming Show MinnMax Removes YouTuber Jacob Geller After Recently Surfaced Allegation Of Past Sexual Misconduct",
+    "summary": "Geller is known for his video game essays on YouTube",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/jacob-geller-minnmax-youtube-sexual-assault-allegations-2000738985",
+    "timestamp": "2026-10-01T16:41:35Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/jacob-geller-minnmax-youtube-sexual-assault-allegations-2000738985"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T16:41:35Z",
+    "id": "energy-d936703b1bf9aa30"
+  },
+  {
+    "title": "Following the news of FIFAE having many teams backing out, team USA will not be sending a team. - Alphakep",
     "summary": "submitted by /u/HimelTy [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wu6bxz/jack_is_going_to_be_the_head_coach_of_geng_next/",
-    "timestamp": "2026-09-30T14:25:03Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv4cnd/following_the_news_of_fifae_having_many_teams/",
+    "timestamp": "2026-10-01T16:40:14Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wu6bxz/jack_is_going_to_be_the_head_coach_of_geng_next/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv4cnd/following_the_news_of_fifae_having_many_teams/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-30T14:25:03Z",
-    "id": "energy-b2e0539451ede7f3"
+    "data_as_of": "2026-10-01T16:40:14Z",
+    "id": "energy-91b7e19284420426"
   },
   {
-    "title": "[AlphaKep] The duo of JSTN and Cheese are looking to add on LJ to their team - org still undecided",
+    "title": "[SheepRLE] FIFAe World Cup 2026 in jeopardy as teams consider withdrawal over safety concerns",
     "summary": "submitted by /u/VicktoriousVICK [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wu6991/alphakep_the_duo_of_jstn_and_cheese_are_looking/",
-    "timestamp": "2026-09-30T14:21:55Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv49x1/sheeprle_fifae_world_cup_2026_in_jeopardy_as/",
+    "timestamp": "2026-10-01T16:37:19Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wu6991/alphakep_the_duo_of_jstn_and_cheese_are_looking/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv49x1/sheeprle_fifae_world_cup_2026_in_jeopardy_as/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-09-30T14:21:55Z",
-    "id": "energy-dbfe69e98d5b755f"
+    "data_as_of": "2026-10-01T16:37:19Z",
+    "id": "energy-0f119d44072c52fa"
   },
   {
-    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "timestamp": "2026-09-30T13:50:50Z",
-    "topic": "Computer Science",
+    "title": "Spring Nangan region treasure hunt location in Forza Horizon 6",
+    "summary": "The spring treasure hunt is located in the Nangan region of Forza Horizon 6. Here's its exact location and how to reach it.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/",
+    "timestamp": "2026-10-01T16:35:10Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/"
+      "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-30T13:50:50Z",
-    "id": "energy-7c16314633592f42"
+    "data_as_of": "2026-10-01T16:35:10Z",
+    "id": "energy-2c8b41f6764ebbd1"
   },
   {
-    "title": "Get SampleScience RC909 Pro FREE through October 31st",
-    "summary": "SampleScience is giving away RC909 Pro, a sample-based TR-909 drum instrument for macOS and Windows, free instead of $30 through October 31st. There is no shortage of free 909 samples, but RC909 Pro packages them into a drum plugin that’s ready to play as soon as you load it and offers plenty of options for [...] View post: Get SampleScience RC909 Pro FREE through October 31st",
+    "title": "Base PS5 Is Getting AI Upscaling Starting With Wolverine And Ghost Of Yotei To Make The Smallest Details Look Even Crisper",
+    "summary": "It's called Quick Spectral Super Resolution and it's coming to a big-budget Sony blockbuster near you",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/base-ps5-is-getting-ai-upscaling-starting-with-wolverine-and-ghost-of-yotei-to-make-the-smallest-details-look-even-crisper-2000738994",
+    "timestamp": "2026-10-01T16:30:42Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/base-ps5-is-getting-ai-upscaling-starting-with-wolverine-and-ghost-of-yotei-to-make-the-smallest-details-look-even-crisper-2000738994"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T16:30:42Z",
+    "id": "energy-3c432acc6fa920b0"
+  },
+  {
+    "title": "All Right, Calm Down, Some Of You Are Far Too Good At Dressmaker",
+    "summary": "I need everyone to make some worse dresses",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/dressmaker-community-creations-2000738962",
+    "timestamp": "2026-10-01T16:30:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/dressmaker-community-creations-2000738962"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T16:30:18Z",
+    "id": "energy-a01cac4bb4cc8376"
+  },
+  {
+    "title": "The Witcher 3 Remastered Just Got Two Huge Fixes One Day After Launch",
+    "summary": "CD Projekt Red has released two big patches for The Witcher 3 Remastered to address major bugs",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/the-witcher-3-remastered-two-hotfixes-voiceover-save-fix/",
+    "timestamp": "2026-10-01T16:22:51Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/the-witcher-3-remastered-two-hotfixes-voiceover-save-fix/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T16:22:51Z",
+    "id": "energy-5898d5df7af335e9"
+  },
+  {
+    "title": "Hivetune releases ENS-86, a FREE vintage BBD chorus plugin",
+    "summary": "Hivetune has released ENS-86, a free vintage chorus plugin for macOS and Windows. The developer recently gave us Delta6, a surprisingly user-friendly (for an FM synth) six-operator FM synthesizer with a flexible modulation matrix. ENS-86 is a much simpler release, but once again, I like the intuitive interface and the overall design. The new effect [...] View post: Hivetune releases ENS-86, a FREE vintage BBD chorus plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/09/30/samplescience-rc909-pro-free/",
-    "timestamp": "2026-09-30T13:22:34Z",
+    "url": "https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/",
+    "timestamp": "2026-10-01T16:21:18Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/09/30/samplescience-rc909-pro-free/"
+      "https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-09-30T13:22:34Z",
-    "id": "energy-b6cfb1e1721ab05b"
+    "data_as_of": "2026-10-01T16:21:18Z",
+    "id": "energy-6f0c077731d08d79"
+  },
+  {
+    "title": "Clef: our open-source decision models",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "timestamp": "2026-10-01T16:18:57Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://blog.cloudflare.com/clef-decision-models/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T16:18:57Z",
+    "id": "energy-122c2c7b1fa5bf14"
+  },
+  {
+    "title": "Freddy Fazbear's Pizzeria location in Fortnite Chapter 7 Season 4",
+    "summary": "Freddy Fazbear's Pizzeria is a new location in Fortnite Chapter 7 Season 4, as part of the Fortnitemares update. Here's where you can find it.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-freddy-fazbear-pizza-location-fnaf/",
+    "timestamp": "2026-10-01T16:17:59Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/fortnite-chapter-7-season-4-freddy-fazbear-pizza-location-fnaf/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T16:17:59Z",
+    "id": "energy-ea7a4339c5b540a6"
+  },
+  {
+    "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb",
+    "timestamp": "2026-10-01T16:10:00Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T16:10:00Z",
+    "id": "energy-2bf1d2c541e01e24"
+  },
+  {
+    "title": "RIP, vector database",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://turbopuffer.com/blog/rip-vector-database",
+    "timestamp": "2026-10-01T16:01:56Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://turbopuffer.com/blog/rip-vector-database"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T16:01:56Z",
+    "id": "energy-edf27fe895e620f9"
+  },
+  {
+    "title": "Segment CPH launches Palora virtual-analog synthesizer",
+    "summary": "Segment CPH has released Palora, a virtual analog synthesizer for macOS and Windows, available at an introductory price of €47.40. This is the first release from Copenhagen-based developer and music producer Peter Bojesen. Palora began as a pluck synthesizer for his deep-house productions before growing into a more versatile instrument for basses, pads, leads, keys, [...] View post: Segment CPH launches Palora virtual-analog synthesizer",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/01/segment-cph-palora/",
+    "timestamp": "2026-10-01T15:31:15Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/01/segment-cph-palora/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T15:31:15Z",
+    "id": "energy-b02bd61ab9e98ab7"
+  },
+  {
+    "title": "Klein Soundworks releases Plug-in Bench, a FREE host for testing plugins",
+    "summary": "Klein Soundworks has released Plug-in Bench, a free standalone host built for testing VST3 and AU plugins without opening a full DAW session. Although the developer presents it primarily as a utility for indie plugin makers, I think it is a fantastic tool for someone like me, who tests plugins every day. And if you [...] View post: Klein Soundworks releases Plug-in Bench, a FREE host for testing plugins",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/",
+    "timestamp": "2026-10-01T15:09:47Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-01T15:09:47Z",
+    "id": "energy-c63e261f9057e87c"
+  },
+  {
+    "title": "MISO Issues Pair Of Load Pocket Advisories For South Region On Outages, Loads",
+    "summary": "By Ronnie Turner • Seventh straight advisory for Southeast Texas • South Region under conservative operations until Oct. 5 The Midcontinent Independent System Operator’s South Region was under a pair of load pocket advisories Sept. 30 because of contributing factors including generation outages, elevated load levels and high temperatures. A load pocket advisory was effective […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/miso-issues-pair-of-load-pocket-advisories-for-south-region-on-outages-loads/",
+    "timestamp": "2026-10-01T14:36:03Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/miso-issues-pair-of-load-pocket-advisories-for-south-region-on-outages-loads/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-01T14:36:03Z",
+    "id": "energy-55efbb28404c08f7"
+  },
+  {
+    "title": "US Midwest, Southwest Lead Clean Power Purchasing In 2026",
+    "summary": "By Nushin Huq • Corporate buyers sign 31.2 GW through August • Solar dominates Southwest contract activity Rising US power demand continues to drive momentum for clean energy offtake agreements in 2026, especially in the Midwest and Southwest. Utilities, hyperscale cloud-computing giants and other corporations signed about 31.2 gigawatts of clean power contracts from January […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/us-midwest-southwest-lead-clean-power-purchasing-in-2026/",
+    "timestamp": "2026-10-01T14:35:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/us-midwest-southwest-lead-clean-power-purchasing-in-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-01T14:35:21Z",
+    "id": "energy-3869c18ed4405f1a"
+  },
+  {
+    "title": "A Power Boom In Eastern South Dakota Raises Questions About What Comes Next",
+    "summary": "By Brad Johnson Eastern South Dakota could soon host the largest transmission project in the state’s history. South Dakota’s first 765-kilovolt line would run through Grant, Deuel and Brookings counties. The larger story is what could follow it. South Dakota’s largest existing transmission lines operate at 345 kilovolts. The proposed 765-kilovolt line is the electrical […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/a-power-boom-in-eastern-south-dakota-raises-questions-about-what-comes-next/",
+    "timestamp": "2026-10-01T14:34:52Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/a-power-boom-in-eastern-south-dakota-raises-questions-about-what-comes-next/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-01T14:34:52Z",
+    "id": "energy-581be40e5fc358bc"
+  },
+  {
+    "title": "Zong's problem on $2d$ half-spaces containing the unit ball",
+    "summary": "arXiv:2609.38394v1 Announce Type: new Abstract: We prove that the intersection of $2d$ halfspaces containing the Euclidean unit ball in $\\mathbb{R}^d$ contains a point of norm at least $\\sqrt{d}$. Equality characterizes the cube. The proof gives a lower bound for the average squared norm of the vertices, weighted by the Gaussian measures of their normal cones. The main step is an inequality for Gaussian orthant probabilities, proved by a one-dimensional comparison of mass, centroid, and boundary density. We also discuss a quadratic extension and give an independent spectral estimate.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.38394",
+    "timestamp": "2026-10-01T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.38394"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-01T04:00:00Z",
+    "id": "energy-3078259231717623"
+  },
+  {
+    "title": "Zeta elements for $p$-ordinary modular forms over imaginary quadratic fields and applications",
+    "summary": "arXiv:2609.38558v1 Announce Type: new Abstract: Let $p\\geq 5$ be a prime, and let $f$ be a $p$-ordinary cuspidal newform of even weight $k = 2r \\geq 2$ and level $N$, with $p \\nmid N$ and trivial nebentype. In this article, we prove Kato's Iwasawa main conjecture for $f$, formulated in terms of the $p$-adic $L$-function of $f$, under the sole assumptions that the associated Galois representation of $f$ satisfies the big-image hypothesis and that its residual representation is absolutely irreducible. This generalises the main result of Burungale--Castella--Skinner, which treats elliptic curves over $\\mathbb{Q}$ with good ordinary reduction at $p$. Our proof follows their general strategy. A key new ingredient is the construction, over an imaginary quadratic field in which $p$ splits, of a zeta element attached to $f$, together with a proof of its explicit reciprocity laws, generalising the corresponding work of Burungale--Skinner--Tian--Wan. These results provide the higher-weight analogue of a crucial input in the argument of Burungale--Castella--Skinner and allow their method to be carried out for higher-weight modular forms.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.38558",
+    "timestamp": "2026-10-01T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.38558"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-01T04:00:00Z",
+    "id": "energy-4f7445bdb71f7adf"
+  },
+  {
+    "title": "Zero velocity Lagrangians in the Hitchin system",
+    "summary": "arXiv:2609.38548v1 Announce Type: new Abstract: Lagrangians of the moduli space of Higgs bundles are a fundamental piece of its study under the lens of mirror symmetry. We construct a new class of Lagrangians defined via a zero 'velocity condition' imposed on the natural action of the non-zero complex numbers on the moduli space, motivated by a certain 'infinitesimal conormal principle'. These are Lagrangian subvarieties analogous to the upward flows considered by [CW19] and [HH22], but which fiber over the $\\mathbb{C}^*$-fixed point subvarieties. We then prove a formula for the number of intersection points of this Lagrangian with the generic fiber of the Hitchin map, and build a vector bundle over the dual moduli space which we conjecture to correspond to its mirror hyperholomorphic bundle.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.38548",
+    "timestamp": "2026-10-01T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.38548"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-01T04:00:00Z",
+    "id": "energy-5966ba2941e73ef8"
   },
   {
     "title": "What’s up with heat-pump water heaters?",
@@ -358,59 +412,5 @@
     "primary_source": false,
     "data_as_of": "2026-09-30T10:04:52Z",
     "id": "energy-ce4840322c1d091a"
-  },
-  {
-    "title": "Zero divisors of Gorenstein Rings",
-    "summary": "arXiv:2609.36021v1 Announce Type: new Abstract: Let $R$ be a commutative Artinian ring. We consider two graphs associated to $R$, namely the compressed zero-divisor graph $\\Gamma_E(R)$ and the associate class graph $\\Gamma_A(R)$. Partitioning the vertex set of a zero-divisor graph into its core and its boundary, we count the core vertices that dominate the core. This count is a graph invariant, and we estimate it for $\\Gamma(R)$, $\\Gamma_A(R)$ and $\\Gamma_E(R)$. We prove that the count for $\\Gamma_A(R)$ is bounded below by the count for $\\Gamma_E(R)$, and that the lower bound is attained precisely when $R$ is Gorenstein. As a consequence we obtain that $R$ is Gorenstein if and only if $\\Gamma_A(R)\\cong\\Gamma_E(R)$ as graphs, the isomorphism being an arbitrary one and not merely the natural compression map. Using the same counting technique we then answer, for Artinian rings, a question of Anderson and LaGrange by showing that $\\Gamma(R)\\cong\\Gamma_E(R)$ if and only if $R\\cong \\mathbb Z_2^{\\,n}$ for some $n\\ge2$, or $R\\cong\\mathbb Z_4$, or $R\\cong\\mathbb Z_2[x]/(x^2)$.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.36021",
-    "timestamp": "2026-09-30T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.36021"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-30T04:00:00Z",
-    "id": "energy-e8daab41e373d4b9"
-  },
-  {
-    "title": "Willmore Energy Estimates for Klein Bottles",
-    "summary": "arXiv:2609.36519v1 Announce Type: new Abstract: In this note, we provide an estimate for the Willmore energy of Klein bottles in $\\mathbb R^N$, building on the ideas of Li-Yau and Montiel-Ros for $2$-tori. In particular, we prove that the Willmore energy $\\mathcal{W}(\\phi)> 6\\pi$ for any conformal branched immersion $\\phi:\\mathbb{K}^2_b\\rightarrow \\mathbb R^N$, where $\\mathbb{K}^2_b$ is a flat Klein bottle with $0.350\\lesssim b \\lesssim 0.755$. This confirms partially a conjecture of Kusner. Moreover, for a flat immersion $\\psi:\\mathbb{K}^2_b\\rightarrow \\mathbb R^N$, we derive a lower bound of $\\mathcal{W}(\\psi)$, which confirms a conjecture of Hirsch-M\\\"{a}der-Baumdicker for flat Klein bottles in $\\mathbb R^N$. We also construct a smooth family of flat Klein bottles in $\\mathbb R^5$, with Willmore energy between $6.912\\pi$ and $8\\pi$.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.36519",
-    "timestamp": "2026-09-30T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.36519"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-30T04:00:00Z",
-    "id": "energy-e4634cc8f1d1c4b2"
-  },
-  {
-    "title": "Wild frieze patterns over the integers",
-    "summary": "arXiv:2609.20967v2 Announce Type: replace Abstract: We study frieze patterns over the integers that are allowed to have wild entries. We introduce the quiddity number as a new invariant. The quiddity number is then used to classify strongly connected components of the directed graph $\\Gamma_{2,n}(\\mathbb{Z})$. Furthermore, we show that every finite simple directed graph arises as an induced subgraph of a directed graph $\\Gamma_{2,n}(\\mathbb{Z})$ for $n$ sufficiently large.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.20967",
-    "timestamp": "2026-09-30T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.20967"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-09-30T04:00:00Z",
-    "id": "energy-50ccecfe7a5a9e80"
   }
 ]

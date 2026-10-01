@@ -1,16 +1,16 @@
 [
   {
-    "title": "Entergy New Orleans connects with customers through community town hall meetings",
-    "summary": "Entergy New Orleans recently hosted a series of community town hall meetings throughout the city, giving residents an opportunity to hear directly from our subject matter experts about electric reliability, economic development initiatives, and infrastructure projects underway in their neighborhoods. Source",
+    "title": "Entergy supports student innovation at Red Stick Rumble",
+    "summary": "Entergy served as title sponsor of the 13th annual Red Stick Rumble, held September 19 at Denham Springs High School. Entergy employees volunteered and served as judges, supporting student robotics teams from Louisiana, Mississippi and Texas. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-connects-with-customers-through-community-town-hall-meetings",
-    "timestamp": "2026-09-30T15:03:05Z",
+    "url": "https://www.entergy.com/blog/entergy-supports-student-innovation-at-red-stick-rumble",
+    "timestamp": "2026-10-01T16:02:03Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-connects-with-customers-through-community-town-hall-meetings"
+      "https://www.entergy.com/blog/entergy-supports-student-innovation-at-red-stick-rumble"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -20,21 +20,69 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-09-30T15:03:05Z",
-    "id": "energy-aed97901192546ef"
+    "data_as_of": "2026-10-01T16:02:03Z",
+    "id": "energy-271706c636758fd9"
   },
   {
-    "title": "Bipartisan fusion bill proposes $10B for commercialization and research",
-    "summary": "Ranking Member Zoe Lofgren (D., Calif.) and Rep. Jay Obernolte (R., Calif.) have led the introduction of a House bill, the American Leadership in Fusion Act. If enacted, it would provide $10 billion in direct investments for fusion facilities, research, and commercialization efforts and would authorize the establishment of an Office of Fusion within the Department of Energy and a National Science Foundation–led fusion workforce development program. The bill aims to implement the recommendations given in a bipartisan commission report released in October by the Special Competitive Studies Project’s (SCSP) Commission on the Scaling of Fusion Energy.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-30/article-8446/bipartisan-fusion-bill-proposes-10b-for-commercialization-and-research/",
-    "timestamp": "2026-09-30T14:34:11Z",
+    "title": "https://shop.energysmartnola.com/",
+    "summary": "Energy Smart is here to help you take control of your energy use. Energy waste can be hard to spot, but a free home energy assessment can help uncover opportunities to save energy, improve comfort and lower energy costs. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/https-shop-energysmartnola-com",
+    "timestamp": "2026-10-01T15:59:53Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-09-30/article-8446/bipartisan-fusion-bill-proposes-10b-for-commercialization-and-research/"
+      "https://www.entergy.com/blog/https-shop-energysmartnola-com"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-01T15:59:53Z",
+    "id": "energy-17c256e8428fb6bd"
+  },
+  {
+    "title": "Natchez journeyman lineman to be honored at New Orleans Saints game",
+    "summary": "Some linemen follow in the footsteps of their family members or family friends in choosing the profession. This was not the case for Corvan Day. He is a first-generation lineman who took an interest in becoming a lineman and found he has a passion for it. This passion shows through in the way he shows up every day as a journeyman lineman in Natchez and has earned him recognition as a Lineman of the Game. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/natchez-journeyman-lineman-to-be-honored-at-new-orleans-saints-game",
+    "timestamp": "2026-10-01T14:49:43Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/natchez-journeyman-lineman-to-be-honored-at-new-orleans-saints-game"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-01T14:49:43Z",
+    "id": "energy-7b1d7d1db59bb725"
+  },
+  {
+    "title": "Study finds a better way to separate zirconium and hafnium",
+    "summary": "Different shapes of the crystals in the precipitates. (Image: OSU) Researchers at Oregon State University have published a paper in the Journal of the American Chemical Society on a new method of separating zirconium and hafnium, both of which are important for nuclear energy, and which are generally quite challenging to separate due to the elements’ similarities. According to the paper, more than 90 percent of Zr and Hf derived from zirconium silicate (zircon) is utilized by the nuclear industry, with high-purity Zr being widely used for nuclear fuel rod cladding. High-purity Hf is also used in the nuclear applications, typically for specialized control rods, such as those in nuclear submarines.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-01/article-8451/study-finds-a-better-way-to-separate-zirconium-and-hafnium/",
+    "timestamp": "2026-10-01T14:39:13Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-01/article-8451/study-finds-a-better-way-to-separate-zirconium-and-hafnium/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -42,8 +90,74 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-09-30T14:34:11Z",
-    "id": "energy-ad6380e68321a630"
+    "data_as_of": "2026-10-01T14:39:13Z",
+    "id": "energy-6e1f472c05238cd8"
+  },
+  {
+    "title": "PA Sen. Gene Yaw’s Letter to the PJM Board Concerning Allocation of 205 Filing Rights",
+    "summary": "Updated Date: 10.01.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261001-letter-to-the-pjm-board-concerning-allocation-of-205-filing-rights.pdf",
+    "timestamp": "2026-10-01T12:35:42Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261001-letter-to-the-pjm-board-concerning-allocation-of-205-filing-rights.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-10-01T12:35:42Z",
+    "id": "energy-a9d0b6ea06660572"
+  },
+  {
+    "title": "Up next: 2026 ANS Winter Conference & Expo",
+    "summary": "Fall may have officially kicked off only last week, but the American Nuclear Society’s 2026 Winter Conference & Expo is already just around the corner. This year’s Winter Conference will be held November 15–18 at the Arizona Grand Resort & Spa in Phoenix. Registration is currently open, with early-bird pricing ending October 22. More details are available on the ANS website.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-01/article-8450/up-next-2026-ans-winter-conference-expo/",
+    "timestamp": "2026-10-01T12:14:12Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-01/article-8450/up-next-2026-ans-winter-conference-expo/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-01T12:14:12Z",
+    "id": "energy-084befb7ef0076b7"
+  },
+  {
+    "title": "IAEA, Inter-American Development Bank expand nuclear cooperation",
+    "summary": "In Latin America, only Argentina, Brazil, and Mexico currently have operating nuclear power plants. Less than 2 percent of the region’s electricity is generated by nuclear energy, in contrast to the roughly 8 percent of electricity generation from nuclear energy globally. These statistics, however, are expected to change, with nuclear deployments set to increase substantially in Latin America in the coming decades.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-09-30/article-8449/iaea-interamerican-development-bank-expand-nuclear-cooperation/",
+    "timestamp": "2026-09-30T21:17:42Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-09-30/article-8449/iaea-interamerican-development-bank-expand-nuclear-cooperation/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-09-30T21:17:42Z",
+    "id": "energy-c50986df5a543e8c"
   },
   {
     "title": "OPSI and Governors Collaborative Letter to the PJM Board Concerning the Members Governance Term Sheet",
@@ -68,52 +182,6 @@
     "id": "energy-47cefd07bec35b07"
   },
   {
-    "title": "US Energy Department awards Entergy $13.7M to strengthen grid reliability, support the region’s growing communities",
-    "summary": "The U.S. Energy Department has selected Entergy to receive $13.7 million in federal funding to improve the power delivery to Entergy’s customers and communities and support economic growth across Arkansas, Louisiana and Mississippi. The grid improvements will strengthen reliability, boost resilience and lower costs for customers. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/us-energy-department-awards-entergy-13-7m-to-strengthen-grid-reliability-support-the-regions-growing-communities",
-    "timestamp": "2026-09-30T13:00:05Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/us-energy-department-awards-entergy-13-7m-to-strengthen-grid-reliability-support-the-regions-growing-communities"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-30T13:00:05Z",
-    "id": "energy-c5430fab2ec381ab"
-  },
-  {
-    "title": "TVA receives construction permit for Clinch River",
-    "summary": "Today, the Nuclear Regulatory Commission approved the Tennessee Valley Authority’s construction permit application for its planned GE Vernova Hitachi BWRX-300 at the Clinch River site in Oak Ridge, Tenn.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-29/article-8445/tva-receives-construction-permit-for-clinch-river/",
-    "timestamp": "2026-09-29T20:32:43Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-29/article-8445/tva-receives-construction-permit-for-clinch-river/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-29T20:32:43Z",
-    "id": "energy-aec01eb1efd984b7"
-  },
-  {
     "title": "Harvard Electricity Law Initiative Letter to the PJM Board of Managers",
     "summary": "Updated Date: 09.29.2026",
     "source": "PJM Public Disclosures",
@@ -134,73 +202,5 @@
     ],
     "data_as_of": "2026-09-29T19:18:22Z",
     "id": "energy-d7dec3d8a41dcf01"
-  },
-  {
-    "title": "NRC grants review of Homestake Mining’s groundwater ACL application",
-    "summary": "The Nuclear Regulatory Commission has announced that it will begin review of Homestake Mining Company’s application to pursue alternative concentration limits (ACLs) and revised treatment options of groundwater contaminants at its Grants Reclamation Project site near Milan, N.M.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-29/article-8444/nrc-grants-review-of-homestake-minings-groundwater-acl-application/",
-    "timestamp": "2026-09-29T18:58:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-29/article-8444/nrc-grants-review-of-homestake-minings-groundwater-acl-application/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-29T18:58:31Z",
-    "id": "energy-e7bb4608e3ed7e0e"
-  },
-  {
-    "title": "Entergy named a Top Utility in economic development for 19th year in a row",
-    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. The communities we serve continue to attract some of the nation’s most competitive and power‑intensive industries in the United States. In 2025, Entergy Mississippi helped secure $9.609 billion in capital investments and create nearly 1,177 new jobs within the Entergy Mississippi service area. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row-2",
-    "timestamp": "2026-09-29T14:22:24Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-named-a-top-utility-in-economic-development-for-19th-year-in-a-row-2"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-09-29T14:22:24Z",
-    "id": "energy-1df6dcaf515d216a"
-  },
-  {
-    "title": "Kelliher Letter to the PJM Board on State Filing Rights over PJM Tariff",
-    "summary": "Updated Date: 09.29.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260929-kelliher-letter-to-the-pjm-board-on-state-filing-rights-over-pjm-tariff.pdf",
-    "timestamp": "2026-09-29T12:14:45Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260929-kelliher-letter-to-the-pjm-board-on-state-filing-rights-over-pjm-tariff.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-09-29T12:14:45Z",
-    "id": "energy-75a253f65ea05a8f"
   }
 ]
