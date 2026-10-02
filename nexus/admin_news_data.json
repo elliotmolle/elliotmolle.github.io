@@ -1,399 +1,417 @@
 [
   {
-    "title": "What is the 2027 RLCS season gonna look like?",
-    "summary": "I'm really confused what the format is supposed to be going into next season. What is the weird 24 team kickoff tournament? Are there still open qualifiers? Still 2 majors and worlds? Are we switching to UE6 mid season? 1v1, 2v2, LCQ? What's going on lmao submitted by /u/Rosieverse83 [link] [comments]",
+    "title": "Next Halo Game May Be a Master Chief Origin Story, New Report Claims",
+    "summary": "A new report details what may be next for Halo, including a series reboot in the Call of Duty engine.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/halo-reboot-master-chief-origin-story/",
+    "timestamp": "2026-10-02T16:02:54Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/halo-reboot-master-chief-origin-story/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T16:02:54Z",
+    "id": "energy-9989272657618415"
+  },
+  {
+    "title": "The Internet Is Losing Its Mind Over Retired NFL Coach Mike Tomlin Spending 12 Years Making A Very Intricate Minecraft City",
+    "summary": "'I'm not going to bore you with too much detail' says the fan of bathroom concepts",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/mike-tomlin-minecraft-city-nfl-coach-steelers-mojang-youtube-2000739307",
+    "timestamp": "2026-10-02T16:00:22Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/mike-tomlin-minecraft-city-nfl-coach-steelers-mojang-youtube-2000739307"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T16:00:22Z",
+    "id": "energy-2a2ff5d19bea0084"
+  },
+  {
+    "title": "Listen to a Wild, 2-Hour UFO 50 Mashup Album by Trombone Champ’s Co-Creator",
+    "summary": "UFO 50,000, an enormous video game mashup album, mixes instrumentals from every game in UFO 50 with hip-hop songs.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/ufo-50-mashup-album/",
+    "timestamp": "2026-10-02T16:00:16Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/ufo-50-mashup-album/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T16:00:16Z",
+    "id": "energy-930f5be40ebb2ee8"
+  },
+  {
+    "title": "Eros about the Vatira Atow Zen transfer situation",
+    "summary": "To add context, they're all contracted under the same agency (@ProdigySEG) submitted by /u/No_Square2213 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv4gz6/what_is_the_2027_rlcs_season_gonna_look_like/",
-    "timestamp": "2026-10-01T16:44:48Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvx7x1/eros_about_the_vatira_atow_zen_transfer_situation/",
+    "timestamp": "2026-10-02T15:46:12Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv4gz6/what_is_the_2027_rlcs_season_gonna_look_like/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvx7x1/eros_about_the_vatira_atow_zen_transfer_situation/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-01T16:44:48Z",
-    "id": "energy-86ac2aef4d74753a"
+    "data_as_of": "2026-10-02T15:46:12Z",
+    "id": "energy-0f82d13ca4025686"
   },
   {
-    "title": "Gaming Show MinnMax Removes YouTuber Jacob Geller After Recently Surfaced Allegation Of Past Sexual Misconduct",
-    "summary": "Geller is known for his video game essays on YouTube",
+    "title": "Supabase Is Acquiring Turso",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+    "timestamp": "2026-10-02T15:43:03Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://supabase.com/blog/supabase-is-acquiring-turso"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T15:43:03Z",
+    "id": "energy-58e930e5039fded3"
+  },
+  {
+    "title": "A 20-year-long permanent cookie: America.gov and tracking",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions",
+    "timestamp": "2026-10-02T15:30:24Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T15:30:24Z",
+    "id": "energy-a2888241940980be"
+  },
+  {
+    "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+    "timestamp": "2026-10-02T15:24:54Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T15:24:54Z",
+    "id": "energy-59652c267b1957b4"
+  },
+  {
+    "title": "I’m Not Ready For Lanterns Season 1 To End",
+    "summary": "There's going to be a giant Green Lantern-shaped hole in my life starting next week",
     "source": "Kotaku",
-    "url": "https://kotaku.com/jacob-geller-minnmax-youtube-sexual-assault-allegations-2000738985",
-    "timestamp": "2026-10-01T16:41:35Z",
+    "url": "https://kotaku.com/im-not-ready-for-lanterns-season-1-to-end-2000739322",
+    "timestamp": "2026-10-02T15:20:56Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/jacob-geller-minnmax-youtube-sexual-assault-allegations-2000738985"
+      "https://kotaku.com/im-not-ready-for-lanterns-season-1-to-end-2000739322"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-01T16:41:35Z",
-    "id": "energy-d936703b1bf9aa30"
+    "data_as_of": "2026-10-02T15:20:56Z",
+    "id": "energy-a3496e51aeb54742"
   },
   {
-    "title": "Following the news of FIFAE having many teams backing out, team USA will not be sending a team. - Alphakep",
-    "summary": "submitted by /u/HimelTy [link] [comments]",
+    "title": "GTA 6’s Next Wild Crossover Is With the Miami Heat",
+    "summary": "The NBA's Miami Heat will play as Vice City to celebrate GTA 6's release this November, and yes, there's merch",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-6-vice-city-miami-heat-nba-collaboration-merch/",
+    "timestamp": "2026-10-02T15:17:08Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/gta-6-vice-city-miami-heat-nba-collaboration-merch/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T15:17:08Z",
+    "id": "energy-54537fb1e78c3c6a"
+  },
+  {
+    "title": "j.mp3 labs releases Pulse Ducker FREE sidechain volume shaper",
+    "summary": "j.mp3 labs has released Pulse Ducker, a free sidechain-style volume shaper for macOS, Windows, and Linux. Instead of using compression to duck the signal whenever a kick hits, Pulse Ducker lets you apply a volume envelope. This makes the amount and timing of the movement predictable, and it works great for both subtle low-end separation [...] View post: j.mp3 labs releases Pulse Ducker FREE sidechain volume shaper",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/",
+    "timestamp": "2026-10-02T15:16:20Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T15:16:20Z",
+    "id": "energy-de81bbabb857dee7"
+  },
+  {
+    "title": "You At Midnight releases Dreamwater FREE vocal sample pack",
+    "summary": "You At Midnight has released Dreamwater, a free collection of 36 dreamy female vocal samples. Free vocal sample packs are still relatively rare, and in this age of machine-generated vocals, I think it is nice to have another real human voice that you can add to a track for free. Dreamwater was performed, composed, recorded, [...] View post: You At Midnight releases Dreamwater FREE vocal sample pack",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/",
+    "timestamp": "2026-10-02T15:07:40Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T15:07:40Z",
+    "id": "energy-22d3603f7113537a"
+  },
+  {
+    "title": "8 Things Final Fantasy VII Revelation Is Changing From The Original On PS1",
+    "summary": "The finale of the ambitious FF7 remake project arrives just in time for the game's 30th anniversary",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on-ps1-2000739078",
+    "timestamp": "2026-10-02T15:00:07Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on-ps1-2000739078"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T15:00:07Z",
+    "id": "energy-810596aa88ca4579"
+  },
+  {
+    "title": "MISO Tries Different Tack For PRMR Allocation, Decides On Forecasting Approach",
+    "summary": "By Amanda Durish Cook MISO announced it’s abandoning a plan to use settled load to divide its resource planning obligations among its load-serving entities, moving instead to a forecasting approach it once vowed not to use. Why This Matters It didn’t want to at first, but now MISO says it will use a forecasting method […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/miso-tries-different-tack-for-prmr-allocation-decides-on-forecasting-approach/",
+    "timestamp": "2026-10-02T14:51:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/miso-tries-different-tack-for-prmr-allocation-decides-on-forecasting-approach/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-02T14:51:14Z",
+    "id": "energy-8ef0a123ab1317a4"
+  },
+  {
+    "title": "Amazon Promises More Local Funding and Less Secrecy Around Data Centers",
+    "summary": "By Karen Weise Amazon has become the latest big technology company to promise money for local communities and policy changes in reaction to anti-data-center sentiment that has become a political flashpoint around the country. In a lengthy blog post on Friday, the company pledged $1 billion over five years to communities for work force development, […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/amazon-promises-more-local-funding-and-less-secrecy-around-data-centers/",
+    "timestamp": "2026-10-02T14:50:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/amazon-promises-more-local-funding-and-less-secrecy-around-data-centers/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-02T14:50:20Z",
+    "id": "energy-20522ef5660f2d8b"
+  },
+  {
+    "title": "States Sue To Stop Trump’s Retreat On Power Plant Emissions",
+    "summary": "By Evan Halper The Trump administration’s abandonment of climate rules at the nation’s most polluting power plants is being challenged by 21 states, the District of Columbia and three major cities in a federal lawsuit that accuses the Environmental Protection Agency of brazenly shirking a legal obligation. The coalition of Democratic attorneys general, governors and […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/states-sue-to-stop-trumps-retreat-on-power-plant-emissions/",
+    "timestamp": "2026-10-02T14:49:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/states-sue-to-stop-trumps-retreat-on-power-plant-emissions/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-02T14:49:36Z",
+    "id": "energy-49ab9390fc39085d"
+  },
+  {
+    "title": "RiverFlux Audio releases Relic with 12 FREE analog-style plugins",
+    "summary": "RiverFlux Audio has released Relic, a free collection of 12 analog-style compressors, equalizers, and tape effects for macOS, Windows, and Linux. First of all, this is a huge freebie. We don’t often get twelve plugins in one pack for free, but it does happen occasionally. KG Series was a recent example, and if you like [...] View post: RiverFlux Audio releases Relic with 12 FREE analog-style plugins",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/",
+    "timestamp": "2026-10-02T14:26:17Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T14:26:17Z",
+    "id": "energy-61d4ba7e631ff417"
+  },
+  {
+    "title": "All RLEsports nominations for the Esports Awards 2026",
+    "summary": "RL was also nominated for Esports GOTY and Rocket Baguette was nominated for Esports Content Group of the Year Source: https://esportsawards.com/vote) submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv4cnd/following_the_news_of_fifae_having_many_teams/",
-    "timestamp": "2026-10-01T16:40:14Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvv1ud/all_rlesports_nominations_for_the_esports_awards/",
+    "timestamp": "2026-10-02T14:19:55Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv4cnd/following_the_news_of_fifae_having_many_teams/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvv1ud/all_rlesports_nominations_for_the_esports_awards/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-01T16:40:14Z",
-    "id": "energy-91b7e19284420426"
+    "data_as_of": "2026-10-02T14:19:55Z",
+    "id": "energy-96573602a59d4e63"
   },
   {
-    "title": "[SheepRLE] FIFAe World Cup 2026 in jeopardy as teams consider withdrawal over safety concerns",
-    "summary": "submitted by /u/VicktoriousVICK [link] [comments]",
+    "title": "Best of September 2026",
+    "summary": "Highlights from the seven conversations released last month.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/best-of-september-2026",
+    "timestamp": "2026-10-02T10:24:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/best-of-september-2026"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T10:24:33Z",
+    "id": "energy-adb4c09db59d8a92"
+  },
+  {
+    "title": "Zeros and interlacing for multiset Eulerian-Narayana polynomials",
+    "summary": "arXiv:2610.00966v1 Announce Type: new Abstract: We prove the real-rootedness conjecture of Lin, Ma, Ma, and Zhou (2021) for multiset Eulerian-Narayana polynomials, including simplicity and negativity of all zeros after removing the factor t. Using a forest decomposition and Lagrange inversion, we derive a differential formula and a first-order factorization of the differential operator. We use these factors to show that the nonconstant gamma-coefficients and ordered gamma-zeros are nondecreasing, with corresponding bounds given by the Narayana and Eulerian polynomials. The same factorization gives totally nonnegative coefficient transition matrices. We also prove strict interlacing of the zeros of generating polynomials arising from adjacent columns of the transition matrices.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.00966",
+    "timestamp": "2026-10-02T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.00966"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-02T04:00:00Z",
+    "id": "energy-51549dabc1058b6d"
+  },
+  {
+    "title": "When Information Is Not Enough: Accuracy-Constrained Thermodynamic Costs of Binary Classification",
+    "summary": "arXiv:2610.00291v1 Announce Type: new Abstract: How much entropy must a physical classifier produce to achieve a prescribed accuracy? Rate--distortion theory specifies the minimum information required, but does that information threshold suffice to determine the physical cost? We show that it does not, even for a binary task and a two-state memory. For a uniform binary target observed through a finite symmetric experiment, replacing the classification-error constraint with its necessary mutual-information threshold strictly lowers the infimum of entropy production under a common operation time, integrated mobility budget, and sufficiently large finite transition-rate cap. The separation holds whenever the target error lies strictly between the Bayes error of the observations and chance. Two results establish this physical gap. First, ordering observations by posterior confidence gives exact transport--risk and transport--information frontiers. Observations with the same Bayes error can have different cost frontiers. Second, we construct bounded-rate protocols that realize prescribed encoders with write probabilities below one, starting from exact reset, with an explicit excess cos…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.00291",
+    "timestamp": "2026-10-02T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.00291"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-02T04:00:00Z",
+    "id": "energy-dcc511bc1d586f2f"
+  },
+  {
+    "title": "Wetting Transition of the Two-Dimensional Solid-on-Solid Model with Quenched Disorder",
+    "summary": "arXiv:2610.01157v1 Announce Type: new Abstract: We study the wetting transition for a two-dimensional Solid-On-Solid (SOS) interface above a hard wall in the presence of quenched disorder. The interface is represented by a nonnegative integer-valued height function $\\phi$, with Hamiltonian $\\mathcal H^\\omega(\\phi)=\\beta\\sum_{x\\sim y}|\\phi(x)-\\phi(y)|-\\sum_x(h+\\alpha\\omega_x-\\lambda(\\alpha))\\mathbf 1_{\\{\\phi(x)=0\\}}$, where $(\\omega_x)_{x\\in\\mathbb Z^2}$ is an i.i.d. centered field, $\\alpha\\ge0$ is the disorder strength, and $\\lambda(\\alpha)=\\log\\mathbb E[e^{\\alpha\\omega_0}]$. This normalization is chosen so that the annealed model coincides with the corresponding homogeneous wetting model. As the wall attraction $h$ increases, the interface undergoes a transition from a delocalized phase, in which contacts with the wall have vanishing density, to a localized phase with a positive density of contacts. For sufficiently large $\\beta$, the homogeneous wetting point and its sharp near-critical free-energy behavior are known. We prove that, for every fixed $\\alpha\\ge0$, the quenched critical point coincides with the homogeneous wetting point, $h_c(\\beta,\\alpha)=h_w(\\beta)=-\\log(1-e^{-4\\…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.01157",
+    "timestamp": "2026-10-02T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.01157"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-02T04:00:00Z",
+    "id": "energy-4c83a669693633fe"
+  },
+  {
+    "title": "APAC will become much better in the coming seasons",
+    "summary": "I believe that apac will become a much stronger region in the next couple of seasons. I’m not saying that they will become as good as NA, EU, pr MENA, but I’m saying that they will certainly become much better than they are now. They already have Sphinx, who’s the best player that’s ever come out of Asia. Kevin isn’t bad either, and they have some rising players. One of them is risk, who at 15 yrs old is placing consistently in top 4 in regionals. He also got second in apac 1v1 losing to Sphinx in the final. I also just found a random 14 year old Mongolian player who’s sitting around 2k mmr on twitter. His name is cosmo I belive. Also, apac is a huge market in esports. I have no doubt that epic will want to grow the game, especially as UE6 is just around the corner. But I’m curious to know what you guys think submitted by /u/guavagrav [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv49x1/sheeprle_fifae_world_cup_2026_in_jeopardy_as/",
-    "timestamp": "2026-10-01T16:37:19Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvgeia/apac_will_become_much_better_in_the_coming_seasons/",
+    "timestamp": "2026-10-02T00:56:02Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wv49x1/sheeprle_fifae_world_cup_2026_in_jeopardy_as/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvgeia/apac_will_become_much_better_in_the_coming_seasons/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-01T16:37:19Z",
-    "id": "energy-0f119d44072c52fa"
-  },
-  {
-    "title": "Spring Nangan region treasure hunt location in Forza Horizon 6",
-    "summary": "The spring treasure hunt is located in the Nangan region of Forza Horizon 6. Here's its exact location and how to reach it.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/",
-    "timestamp": "2026-10-01T16:35:10Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:35:10Z",
-    "id": "energy-2c8b41f6764ebbd1"
-  },
-  {
-    "title": "Base PS5 Is Getting AI Upscaling Starting With Wolverine And Ghost Of Yotei To Make The Smallest Details Look Even Crisper",
-    "summary": "It's called Quick Spectral Super Resolution and it's coming to a big-budget Sony blockbuster near you",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/base-ps5-is-getting-ai-upscaling-starting-with-wolverine-and-ghost-of-yotei-to-make-the-smallest-details-look-even-crisper-2000738994",
-    "timestamp": "2026-10-01T16:30:42Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/base-ps5-is-getting-ai-upscaling-starting-with-wolverine-and-ghost-of-yotei-to-make-the-smallest-details-look-even-crisper-2000738994"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:30:42Z",
-    "id": "energy-3c432acc6fa920b0"
-  },
-  {
-    "title": "All Right, Calm Down, Some Of You Are Far Too Good At Dressmaker",
-    "summary": "I need everyone to make some worse dresses",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/dressmaker-community-creations-2000738962",
-    "timestamp": "2026-10-01T16:30:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/dressmaker-community-creations-2000738962"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:30:18Z",
-    "id": "energy-a01cac4bb4cc8376"
-  },
-  {
-    "title": "The Witcher 3 Remastered Just Got Two Huge Fixes One Day After Launch",
-    "summary": "CD Projekt Red has released two big patches for The Witcher 3 Remastered to address major bugs",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-witcher-3-remastered-two-hotfixes-voiceover-save-fix/",
-    "timestamp": "2026-10-01T16:22:51Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/the-witcher-3-remastered-two-hotfixes-voiceover-save-fix/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:22:51Z",
-    "id": "energy-5898d5df7af335e9"
-  },
-  {
-    "title": "Hivetune releases ENS-86, a FREE vintage BBD chorus plugin",
-    "summary": "Hivetune has released ENS-86, a free vintage chorus plugin for macOS and Windows. The developer recently gave us Delta6, a surprisingly user-friendly (for an FM synth) six-operator FM synthesizer with a flexible modulation matrix. ENS-86 is a much simpler release, but once again, I like the intuitive interface and the overall design. The new effect [...] View post: Hivetune releases ENS-86, a FREE vintage BBD chorus plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/",
-    "timestamp": "2026-10-01T16:21:18Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:21:18Z",
-    "id": "energy-6f0c077731d08d79"
-  },
-  {
-    "title": "Clef: our open-source decision models",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://blog.cloudflare.com/clef-decision-models/",
-    "timestamp": "2026-10-01T16:18:57Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://blog.cloudflare.com/clef-decision-models/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:18:57Z",
-    "id": "energy-122c2c7b1fa5bf14"
-  },
-  {
-    "title": "Freddy Fazbear's Pizzeria location in Fortnite Chapter 7 Season 4",
-    "summary": "Freddy Fazbear's Pizzeria is a new location in Fortnite Chapter 7 Season 4, as part of the Fortnitemares update. Here's where you can find it.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-freddy-fazbear-pizza-location-fnaf/",
-    "timestamp": "2026-10-01T16:17:59Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fortnite-chapter-7-season-4-freddy-fazbear-pizza-location-fnaf/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:17:59Z",
-    "id": "energy-ea7a4339c5b540a6"
-  },
-  {
-    "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb",
-    "timestamp": "2026-10-01T16:10:00Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:10:00Z",
-    "id": "energy-2bf1d2c541e01e24"
-  },
-  {
-    "title": "RIP, vector database",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://turbopuffer.com/blog/rip-vector-database",
-    "timestamp": "2026-10-01T16:01:56Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://turbopuffer.com/blog/rip-vector-database"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T16:01:56Z",
-    "id": "energy-edf27fe895e620f9"
-  },
-  {
-    "title": "Segment CPH launches Palora virtual-analog synthesizer",
-    "summary": "Segment CPH has released Palora, a virtual analog synthesizer for macOS and Windows, available at an introductory price of €47.40. This is the first release from Copenhagen-based developer and music producer Peter Bojesen. Palora began as a pluck synthesizer for his deep-house productions before growing into a more versatile instrument for basses, pads, leads, keys, [...] View post: Segment CPH launches Palora virtual-analog synthesizer",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/01/segment-cph-palora/",
-    "timestamp": "2026-10-01T15:31:15Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/01/segment-cph-palora/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T15:31:15Z",
-    "id": "energy-b02bd61ab9e98ab7"
-  },
-  {
-    "title": "Klein Soundworks releases Plug-in Bench, a FREE host for testing plugins",
-    "summary": "Klein Soundworks has released Plug-in Bench, a free standalone host built for testing VST3 and AU plugins without opening a full DAW session. Although the developer presents it primarily as a utility for indie plugin makers, I think it is a fantastic tool for someone like me, who tests plugins every day. And if you [...] View post: Klein Soundworks releases Plug-in Bench, a FREE host for testing plugins",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/",
-    "timestamp": "2026-10-01T15:09:47Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-01T15:09:47Z",
-    "id": "energy-c63e261f9057e87c"
-  },
-  {
-    "title": "MISO Issues Pair Of Load Pocket Advisories For South Region On Outages, Loads",
-    "summary": "By Ronnie Turner • Seventh straight advisory for Southeast Texas • South Region under conservative operations until Oct. 5 The Midcontinent Independent System Operator’s South Region was under a pair of load pocket advisories Sept. 30 because of contributing factors including generation outages, elevated load levels and high temperatures. A load pocket advisory was effective […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/miso-issues-pair-of-load-pocket-advisories-for-south-region-on-outages-loads/",
-    "timestamp": "2026-10-01T14:36:03Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/miso-issues-pair-of-load-pocket-advisories-for-south-region-on-outages-loads/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-01T14:36:03Z",
-    "id": "energy-55efbb28404c08f7"
-  },
-  {
-    "title": "US Midwest, Southwest Lead Clean Power Purchasing In 2026",
-    "summary": "By Nushin Huq • Corporate buyers sign 31.2 GW through August • Solar dominates Southwest contract activity Rising US power demand continues to drive momentum for clean energy offtake agreements in 2026, especially in the Midwest and Southwest. Utilities, hyperscale cloud-computing giants and other corporations signed about 31.2 gigawatts of clean power contracts from January […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/us-midwest-southwest-lead-clean-power-purchasing-in-2026/",
-    "timestamp": "2026-10-01T14:35:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/us-midwest-southwest-lead-clean-power-purchasing-in-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-01T14:35:21Z",
-    "id": "energy-3869c18ed4405f1a"
-  },
-  {
-    "title": "A Power Boom In Eastern South Dakota Raises Questions About What Comes Next",
-    "summary": "By Brad Johnson Eastern South Dakota could soon host the largest transmission project in the state’s history. South Dakota’s first 765-kilovolt line would run through Grant, Deuel and Brookings counties. The larger story is what could follow it. South Dakota’s largest existing transmission lines operate at 345 kilovolts. The proposed 765-kilovolt line is the electrical […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/a-power-boom-in-eastern-south-dakota-raises-questions-about-what-comes-next/",
-    "timestamp": "2026-10-01T14:34:52Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/a-power-boom-in-eastern-south-dakota-raises-questions-about-what-comes-next/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-01T14:34:52Z",
-    "id": "energy-581be40e5fc358bc"
-  },
-  {
-    "title": "Zong's problem on $2d$ half-spaces containing the unit ball",
-    "summary": "arXiv:2609.38394v1 Announce Type: new Abstract: We prove that the intersection of $2d$ halfspaces containing the Euclidean unit ball in $\\mathbb{R}^d$ contains a point of norm at least $\\sqrt{d}$. Equality characterizes the cube. The proof gives a lower bound for the average squared norm of the vertices, weighted by the Gaussian measures of their normal cones. The main step is an inequality for Gaussian orthant probabilities, proved by a one-dimensional comparison of mass, centroid, and boundary density. We also discuss a quadratic extension and give an independent spectral estimate.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.38394",
-    "timestamp": "2026-10-01T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.38394"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-01T04:00:00Z",
-    "id": "energy-3078259231717623"
-  },
-  {
-    "title": "Zeta elements for $p$-ordinary modular forms over imaginary quadratic fields and applications",
-    "summary": "arXiv:2609.38558v1 Announce Type: new Abstract: Let $p\\geq 5$ be a prime, and let $f$ be a $p$-ordinary cuspidal newform of even weight $k = 2r \\geq 2$ and level $N$, with $p \\nmid N$ and trivial nebentype. In this article, we prove Kato's Iwasawa main conjecture for $f$, formulated in terms of the $p$-adic $L$-function of $f$, under the sole assumptions that the associated Galois representation of $f$ satisfies the big-image hypothesis and that its residual representation is absolutely irreducible. This generalises the main result of Burungale--Castella--Skinner, which treats elliptic curves over $\\mathbb{Q}$ with good ordinary reduction at $p$. Our proof follows their general strategy. A key new ingredient is the construction, over an imaginary quadratic field in which $p$ splits, of a zeta element attached to $f$, together with a proof of its explicit reciprocity laws, generalising the corresponding work of Burungale--Skinner--Tian--Wan. These results provide the higher-weight analogue of a crucial input in the argument of Burungale--Castella--Skinner and allow their method to be carried out for higher-weight modular forms.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.38558",
-    "timestamp": "2026-10-01T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.38558"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-01T04:00:00Z",
-    "id": "energy-4f7445bdb71f7adf"
-  },
-  {
-    "title": "Zero velocity Lagrangians in the Hitchin system",
-    "summary": "arXiv:2609.38548v1 Announce Type: new Abstract: Lagrangians of the moduli space of Higgs bundles are a fundamental piece of its study under the lens of mirror symmetry. We construct a new class of Lagrangians defined via a zero 'velocity condition' imposed on the natural action of the non-zero complex numbers on the moduli space, motivated by a certain 'infinitesimal conormal principle'. These are Lagrangian subvarieties analogous to the upward flows considered by [CW19] and [HH22], but which fiber over the $\\mathbb{C}^*$-fixed point subvarieties. We then prove a formula for the number of intersection points of this Lagrangian with the generic fiber of the Hitchin map, and build a vector bundle over the dual moduli space which we conjecture to correspond to its mirror hyperholomorphic bundle.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.38548",
-    "timestamp": "2026-10-01T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.38548"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-01T04:00:00Z",
-    "id": "energy-5966ba2941e73ef8"
+    "data_as_of": "2026-10-02T00:56:02Z",
+    "id": "energy-85d1db25a74649e5"
   },
   {
     "title": "What’s up with heat-pump water heaters?",

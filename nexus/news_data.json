@@ -1,88 +1,38 @@
 [
   {
-    "title": "Entergy supports student innovation at Red Stick Rumble",
-    "summary": "Entergy served as title sponsor of the 13th annual Red Stick Rumble, held September 19 at Denham Springs High School. Entergy employees volunteered and served as judges, supporting student robotics teams from Louisiana, Mississippi and Texas. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-supports-student-innovation-at-red-stick-rumble",
-    "timestamp": "2026-10-01T16:02:03Z",
+    "title": "September speaker roundup: ISO-NE staff discuss the future of the electric grid",
+    "summary": "A roundup of ISO-NE staff speaking engagements in September 2026. The post September speaker roundup: ISO-NE staff discuss the future of the electric grid appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/02/september-speaker-roundup-iso-ne-staff-discuss-the-future-of-the-electric-grid/",
+    "timestamp": "2026-10-02T14:35:53Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-supports-student-innovation-at-red-stick-rumble"
+      "https://isonewswire.com/2026/10/02/september-speaker-roundup-iso-ne-staff-discuss-the-future-of-the-electric-grid/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
-      "Entergy"
+      "ISO New England",
+      "ISO-NE"
     ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-01T16:02:03Z",
-    "id": "energy-271706c636758fd9"
+    "data_as_of": "2026-10-02T14:35:53Z",
+    "id": "energy-6f268ee8eb2f1ee1"
   },
   {
-    "title": "https://shop.energysmartnola.com/",
-    "summary": "Energy Smart is here to help you take control of your energy use. Energy waste can be hard to spot, but a free home energy assessment can help uncover opportunities to save energy, improve comfort and lower energy costs. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/https-shop-energysmartnola-com",
-    "timestamp": "2026-10-01T15:59:53Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/https-shop-energysmartnola-com"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-01T15:59:53Z",
-    "id": "energy-17c256e8428fb6bd"
-  },
-  {
-    "title": "Natchez journeyman lineman to be honored at New Orleans Saints game",
-    "summary": "Some linemen follow in the footsteps of their family members or family friends in choosing the profession. This was not the case for Corvan Day. He is a first-generation lineman who took an interest in becoming a lineman and found he has a passion for it. This passion shows through in the way he shows up every day as a journeyman lineman in Natchez and has earned him recognition as a Lineman of the Game. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/natchez-journeyman-lineman-to-be-honored-at-new-orleans-saints-game",
-    "timestamp": "2026-10-01T14:49:43Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/natchez-journeyman-lineman-to-be-honored-at-new-orleans-saints-game"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-01T14:49:43Z",
-    "id": "energy-7b1d7d1db59bb725"
-  },
-  {
-    "title": "Study finds a better way to separate zirconium and hafnium",
-    "summary": "Different shapes of the crystals in the precipitates. (Image: OSU) Researchers at Oregon State University have published a paper in the Journal of the American Chemical Society on a new method of separating zirconium and hafnium, both of which are important for nuclear energy, and which are generally quite challenging to separate due to the elements’ similarities. According to the paper, more than 90 percent of Zr and Hf derived from zirconium silicate (zircon) is utilized by the nuclear industry, with high-purity Zr being widely used for nuclear fuel rod cladding. High-purity Hf is also used in the nuclear applications, typically for specialized control rods, such as those in nuclear submarines.",
+    "title": "N.M. legislators tackle funding for WIPP road repair",
+    "summary": "Just before the end of the federal government’s 2026 fiscal year, members of New Mexico’s congressional delegation announced $10 million in funding to repair roads used to transport waste to the Waste Isolation Pilot Plant, near Carlsbad, N.M. Press releases from Sen. Ben Ray Luján and Rep. Gabe Vasquez on September 29 followed an initial announcement from Sen. Martin Heinrich on September 28. All three legislators celebrated the funding, which Heinrich explained had initially been awarded in January through federal appropriations bills and was the first such funding to be awarded for WIPP-related road maintenance since 2014.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-01/article-8451/study-finds-a-better-way-to-separate-zirconium-and-hafnium/",
-    "timestamp": "2026-10-01T14:39:13Z",
+    "url": "https://www.ans.org/news/2026-10-02/article-8454/nm-legislators-tackle-funding-for-wipp-road-repair/",
+    "timestamp": "2026-10-02T12:15:11Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-01/article-8451/study-finds-a-better-way-to-separate-zirconium-and-hafnium/"
+      "https://www.ans.org/news/2026-10-02/article-8454/nm-legislators-tackle-funding-for-wipp-road-repair/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -90,8 +40,124 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-01T14:39:13Z",
-    "id": "energy-6e1f472c05238cd8"
+    "data_as_of": "2026-10-02T12:15:11Z",
+    "id": "energy-c1053036d306d355"
+  },
+  {
+    "title": "South Korea to invest in U.S. nuclear projects, including 8 large reactors",
+    "summary": "The U.S. Department of Commerce announced Wednesday that South Korea would invest $120 billion in U.S. nuclear power projects, most notably the construction of eight large nuclear reactors at federal sites, as part of a $200 billion investment comprising three separate projects.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-01/article-8453/south-korea-to-invest-in-us-nuclear-projects-including-8-large-reactors/",
+    "timestamp": "2026-10-01T21:15:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-01/article-8453/south-korea-to-invest-in-us-nuclear-projects-including-8-large-reactors/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-01T21:15:21Z",
+    "id": "energy-a9df34042b252db3"
+  },
+  {
+    "title": "ACES gives Arkansas students a firsthand look at careers in energy",
+    "summary": "For four University of Arkansas at Pine Bluff students, the Accessing Careers in Energy Summit (ACES) is providing more than an introduction to the energy industry. It’s giving them a chance to see firsthand how their skills and interests can translate into careers that help power their communities. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/aces-gives-arkansas-students-a-firsthand-look-at-careers-in-energy",
+    "timestamp": "2026-10-01T20:35:18Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/aces-gives-arkansas-students-a-firsthand-look-at-careers-in-energy"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-01T20:35:18Z",
+    "id": "energy-07a7b258ead1622f"
+  },
+  {
+    "title": "Investing in a cleaner, more resilient Southeast Texas",
+    "summary": "Entergy Texas is partnering with local organizations to protect natural resources, strengthen communities and create lasting benefits Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/investing-in-a-cleaner-more-resilient-southeast-texas",
+    "timestamp": "2026-10-01T19:33:41Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/investing-in-a-cleaner-more-resilient-southeast-texas"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-01T19:33:41Z",
+    "id": "energy-808ea1c9451ad065"
+  },
+  {
+    "title": "Amazon, Constellation partner for Calvert Cliffs uprate",
+    "summary": "In the latest update to the ever-deepening connection between Big Tech and the nuclear industry, Constellation announced yesterday that it has entered into a long-term power purchase agreement (PPA) with Amazon. This PPA will see Amazon supporting a 190-MWe uprate at the Calvert Cliffs nuclear power plant in Lusby, Md.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-01/article-8452/amazon-constellation-partner-for-calvert-cliffs-uprate/",
+    "timestamp": "2026-10-01T17:47:03Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-01/article-8452/amazon-constellation-partner-for-calvert-cliffs-uprate/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-01T17:47:03Z",
+    "id": "energy-76503539c58c1b2b"
+  },
+  {
+    "title": "Entergy Louisiana named a Top Utility in economic development for 19th year in a row",
+    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-louisiana-named-a-top-utility-in-economic-development-for-19th-year-in-a-row",
+    "timestamp": "2026-10-01T16:13:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-louisiana-named-a-top-utility-in-economic-development-for-19th-year-in-a-row"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-01T16:13:57Z",
+    "id": "energy-d35c0097a4a9d27e"
   },
   {
     "title": "PA Sen. Gene Yaw’s Letter to the PJM Board Concerning Allocation of 205 Filing Rights",
@@ -114,50 +180,6 @@
     ],
     "data_as_of": "2026-10-01T12:35:42Z",
     "id": "energy-a9d0b6ea06660572"
-  },
-  {
-    "title": "Up next: 2026 ANS Winter Conference & Expo",
-    "summary": "Fall may have officially kicked off only last week, but the American Nuclear Society’s 2026 Winter Conference & Expo is already just around the corner. This year’s Winter Conference will be held November 15–18 at the Arizona Grand Resort & Spa in Phoenix. Registration is currently open, with early-bird pricing ending October 22. More details are available on the ANS website.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-01/article-8450/up-next-2026-ans-winter-conference-expo/",
-    "timestamp": "2026-10-01T12:14:12Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-01/article-8450/up-next-2026-ans-winter-conference-expo/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-01T12:14:12Z",
-    "id": "energy-084befb7ef0076b7"
-  },
-  {
-    "title": "IAEA, Inter-American Development Bank expand nuclear cooperation",
-    "summary": "In Latin America, only Argentina, Brazil, and Mexico currently have operating nuclear power plants. Less than 2 percent of the region’s electricity is generated by nuclear energy, in contrast to the roughly 8 percent of electricity generation from nuclear energy globally. These statistics, however, are expected to change, with nuclear deployments set to increase substantially in Latin America in the coming decades.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-09-30/article-8449/iaea-interamerican-development-bank-expand-nuclear-cooperation/",
-    "timestamp": "2026-09-30T21:17:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-09-30/article-8449/iaea-interamerican-development-bank-expand-nuclear-cooperation/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-09-30T21:17:42Z",
-    "id": "energy-c50986df5a543e8c"
   },
   {
     "title": "OPSI and Governors Collaborative Letter to the PJM Board Concerning the Members Governance Term Sheet",
