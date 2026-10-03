@@ -1,5 +1,141 @@
 [
   {
+    "title": "Modernizing for more megawatts: Columbia’s EPU journey",
+    "summary": "Columbia Generating Station is the third-largest power-generating resource in Washington state and the region’s only operating nuclear plant. It has long served the Bonneville Power Administration’s (BPA’s) public power customers as a 24/7, not-for-profit baseload complement to hydropower, providing operational flexibility during low-water months and supporting grid stability as renewables scale up and contribute their power on a variable basis. Under BPA’s net billing framework, Columbia’s output is marketed at cost, integrating clean, firm capacity into a hydro-dominant system that increasingly faces volatility and growing load.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-02/article-8410/modernizing-for-more-megawatts-columbias-epu-journey/",
+    "timestamp": "2026-10-02T22:10:25Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-02/article-8410/modernizing-for-more-megawatts-columbias-epu-journey/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-02T22:10:25Z",
+    "id": "energy-a7207ee6c98173ea"
+  },
+  {
+    "title": "ANS names 2026 Winter Conference award winners, new Fellows",
+    "summary": "As November draws near and the nuclear community prepares to convene in Phoenix, Ariz., for the American Nuclear Society’s 2026 Winter Conference & Expo, it is time once again to celebrate the exceptional colleagues in our midst. ANS President Mark Peters has named this season’s national award recipients, who will be recognized next month at the conference, which is being held November 15–18 at the Arizona Grand Resort & Spa. Recipients of the Society’s professional division awards, winners of this year’s Presidential Citation and the new ANS CEO Service Leadership Award, and recently designated Nuclear Historical Landmarks will be announced soon.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-02/article-8459/ans-names-2026-winter-conference-award-winners-new-fellows/",
+    "timestamp": "2026-10-02T21:38:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-02/article-8459/ans-names-2026-winter-conference-award-winners-new-fellows/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-02T21:38:28Z",
+    "id": "energy-6fc4e8e72773d988"
+  },
+  {
+    "title": "From high seas to the power grid: meet Entergy Texas’ Lineman of the Game",
+    "summary": "Navy veteran and Conroe substation technician Johnny Nesmith recognized as Lineman of the Game Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/from-high-seas-to-the-power-grid-meet-entergy-texas-lineman-of-the-game",
+    "timestamp": "2026-10-02T20:01:23Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/from-high-seas-to-the-power-grid-meet-entergy-texas-lineman-of-the-game"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-02T20:01:23Z",
+    "id": "energy-fc735d2661690bb5"
+  },
+  {
+    "title": "Interactive heatmap provides insights into what areas of the New England grid might best support new capacity",
+    "summary": "The heatmap is one of two new maps highlighting geographical information about the regional interconnection process. The post Interactive heatmap provides insights into what areas of the New England grid might best support new capacity appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/02/interactive-heatmap-provides-insights-into-what-areas-of-the-new-england-grid-might-best-support-new-capacity/",
+    "timestamp": "2026-10-02T19:12:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/02/interactive-heatmap-provides-insights-into-what-areas-of-the-new-england-grid-might-best-support-new-capacity/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-02T19:12:27Z",
+    "id": "energy-f9360869c30b7451"
+  },
+  {
+    "title": "California bills consider new nuclear power plant and plan for the future of fusion",
+    "summary": "On Wednesday, California Gov. Gavin Newsom signed two bills that could shape the future of nuclear fission and fusion energy in the state. One bill directs the state to conduct a formal assessment of whether new nuclear plants and advanced nuclear technologies could help meet California's clean-energy goals and support critical infrastructure. The other establishes a state fusion energy strategic planning process and directs development of a regulatory framework for fusion energy.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-02/article-8456/california-bills-consider-new-nuclear-power-plant-and-plan-for-the-future-of-fusion/",
+    "timestamp": "2026-10-02T17:35:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-02/article-8456/california-bills-consider-new-nuclear-power-plant-and-plan-for-the-future-of-fusion/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-02T17:35:02Z",
+    "id": "energy-30b58162de9bae9d"
+  },
+  {
+    "title": "Enterprise environmental and safety organizations making strides in workforce development through internships",
+    "summary": "Every summer, Entergy welcomes a new class of interns eager to apply classroom knowledge to real-world challenges. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/enterprise-environmental-and-safety-organizations-making-strides-in-workforce-development-through-internships",
+    "timestamp": "2026-10-02T16:09:52Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/enterprise-environmental-and-safety-organizations-making-strides-in-workforce-development-through-internships"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-02T16:09:52Z",
+    "id": "energy-31278eaacbbbd88b"
+  },
+  {
     "title": "September speaker roundup: ISO-NE staff discuss the future of the electric grid",
     "summary": "A roundup of ISO-NE staff speaking engagements in September 2026. The post September speaker roundup: ISO-NE staff discuss the future of the electric grid appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -20,50 +156,6 @@
     ],
     "data_as_of": "2026-10-02T14:35:53Z",
     "id": "energy-6f268ee8eb2f1ee1"
-  },
-  {
-    "title": "N.M. legislators tackle funding for WIPP road repair",
-    "summary": "Just before the end of the federal government’s 2026 fiscal year, members of New Mexico’s congressional delegation announced $10 million in funding to repair roads used to transport waste to the Waste Isolation Pilot Plant, near Carlsbad, N.M. Press releases from Sen. Ben Ray Luján and Rep. Gabe Vasquez on September 29 followed an initial announcement from Sen. Martin Heinrich on September 28. All three legislators celebrated the funding, which Heinrich explained had initially been awarded in January through federal appropriations bills and was the first such funding to be awarded for WIPP-related road maintenance since 2014.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-02/article-8454/nm-legislators-tackle-funding-for-wipp-road-repair/",
-    "timestamp": "2026-10-02T12:15:11Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-02/article-8454/nm-legislators-tackle-funding-for-wipp-road-repair/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-02T12:15:11Z",
-    "id": "energy-c1053036d306d355"
-  },
-  {
-    "title": "South Korea to invest in U.S. nuclear projects, including 8 large reactors",
-    "summary": "The U.S. Department of Commerce announced Wednesday that South Korea would invest $120 billion in U.S. nuclear power projects, most notably the construction of eight large nuclear reactors at federal sites, as part of a $200 billion investment comprising three separate projects.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-01/article-8453/south-korea-to-invest-in-us-nuclear-projects-including-8-large-reactors/",
-    "timestamp": "2026-10-01T21:15:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-01/article-8453/south-korea-to-invest-in-us-nuclear-projects-including-8-large-reactors/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-01T21:15:21Z",
-    "id": "energy-a9df34042b252db3"
   },
   {
     "title": "ACES gives Arkansas students a firsthand look at careers in energy",
@@ -90,76 +182,6 @@
     "id": "energy-07a7b258ead1622f"
   },
   {
-    "title": "Investing in a cleaner, more resilient Southeast Texas",
-    "summary": "Entergy Texas is partnering with local organizations to protect natural resources, strengthen communities and create lasting benefits Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/investing-in-a-cleaner-more-resilient-southeast-texas",
-    "timestamp": "2026-10-01T19:33:41Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/investing-in-a-cleaner-more-resilient-southeast-texas"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-01T19:33:41Z",
-    "id": "energy-808ea1c9451ad065"
-  },
-  {
-    "title": "Amazon, Constellation partner for Calvert Cliffs uprate",
-    "summary": "In the latest update to the ever-deepening connection between Big Tech and the nuclear industry, Constellation announced yesterday that it has entered into a long-term power purchase agreement (PPA) with Amazon. This PPA will see Amazon supporting a 190-MWe uprate at the Calvert Cliffs nuclear power plant in Lusby, Md.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-01/article-8452/amazon-constellation-partner-for-calvert-cliffs-uprate/",
-    "timestamp": "2026-10-01T17:47:03Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-01/article-8452/amazon-constellation-partner-for-calvert-cliffs-uprate/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-01T17:47:03Z",
-    "id": "energy-76503539c58c1b2b"
-  },
-  {
-    "title": "Entergy Louisiana named a Top Utility in economic development for 19th year in a row",
-    "summary": "For the 19th consecutive year, Site Selection magazine has named Entergy a Top Utility in economic development. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-louisiana-named-a-top-utility-in-economic-development-for-19th-year-in-a-row",
-    "timestamp": "2026-10-01T16:13:57Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-louisiana-named-a-top-utility-in-economic-development-for-19th-year-in-a-row"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-01T16:13:57Z",
-    "id": "energy-d35c0097a4a9d27e"
-  },
-  {
     "title": "PA Sen. Gene Yaw’s Letter to the PJM Board Concerning Allocation of 205 Filing Rights",
     "summary": "Updated Date: 10.01.2026",
     "source": "PJM Public Disclosures",
@@ -180,49 +202,5 @@
     ],
     "data_as_of": "2026-10-01T12:35:42Z",
     "id": "energy-a9d0b6ea06660572"
-  },
-  {
-    "title": "OPSI and Governors Collaborative Letter to the PJM Board Concerning the Members Governance Term Sheet",
-    "summary": "Updated Date: 09.30.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260930-opsi-and-governors-collaborative-letter-to-the-pjm-board-concerning-the-members-governance-term-sheet.pdf",
-    "timestamp": "2026-09-30T13:22:21Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260930-opsi-and-governors-collaborative-letter-to-the-pjm-board-concerning-the-members-governance-term-sheet.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-09-30T13:22:21Z",
-    "id": "energy-47cefd07bec35b07"
-  },
-  {
-    "title": "Harvard Electricity Law Initiative Letter to the PJM Board of Managers",
-    "summary": "Updated Date: 09.29.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260929-harvard-eli-letter-to-pjm-board-of-managers.pdf",
-    "timestamp": "2026-09-29T19:18:22Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260929-harvard-eli-letter-to-pjm-board-of-managers.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-09-29T19:18:22Z",
-    "id": "energy-d7dec3d8a41dcf01"
   }
 ]

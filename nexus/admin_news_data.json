@@ -1,168 +1,264 @@
 [
   {
-    "title": "Next Halo Game May Be a Master Chief Origin Story, New Report Claims",
-    "summary": "A new report details what may be next for Halo, including a series reboot in the Call of Duty engine.",
+    "title": "Resident Evil Dev Capcom Plans To Embrace AI In Game Development",
+    "summary": "The next iteration of RE Engine is being built so Capcom can make games \"together with AI,\" although it's still not using generative AI",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/halo-reboot-master-chief-origin-story/",
-    "timestamp": "2026-10-02T16:02:54Z",
+    "url": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/",
+    "timestamp": "2026-10-03T14:31:26Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/halo-reboot-master-chief-origin-story/"
+      "https://www.polygon.com/capcom-ai-re-engine-statement-2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-02T16:02:54Z",
-    "id": "energy-9989272657618415"
+    "data_as_of": "2026-10-03T14:31:26Z",
+    "id": "energy-1cfa9a500011a776"
   },
   {
-    "title": "The Internet Is Losing Its Mind Over Retired NFL Coach Mike Tomlin Spending 12 Years Making A Very Intricate Minecraft City",
-    "summary": "'I'm not going to bore you with too much detail' says the fan of bathroom concepts",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/mike-tomlin-minecraft-city-nfl-coach-steelers-mojang-youtube-2000739307",
-    "timestamp": "2026-10-02T16:00:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/mike-tomlin-minecraft-city-nfl-coach-steelers-mojang-youtube-2000739307"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T16:00:22Z",
-    "id": "energy-2a2ff5d19bea0084"
-  },
-  {
-    "title": "Listen to a Wild, 2-Hour UFO 50 Mashup Album by Trombone Champ’s Co-Creator",
-    "summary": "UFO 50,000, an enormous video game mashup album, mixes instrumentals from every game in UFO 50 with hip-hop songs.",
+    "title": "Best Buy's Official 'Pokémon' 30th Anniversary TCG Event Details",
+    "summary": "Pokémon TCG fans will likely receive a Mewtwo promo card and other free 30th Anniversary goodies during Best Buy's Oct. 3 Pokémon event.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/ufo-50-mashup-album/",
-    "timestamp": "2026-10-02T16:00:16Z",
+    "url": "https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/",
+    "timestamp": "2026-10-03T14:18:15Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/ufo-50-mashup-album/"
+      "https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-02T16:00:16Z",
-    "id": "energy-930f5be40ebb2ee8"
+    "data_as_of": "2026-10-03T14:18:15Z",
+    "id": "energy-4378073cb96ff86a"
   },
   {
-    "title": "Eros about the Vatira Atow Zen transfer situation",
-    "summary": "To add context, they're all contracted under the same agency (@ProdigySEG) submitted by /u/No_Square2213 [link] [comments]",
+    "title": "[SheepRLE] Wolves Esports have been selected to participate in the RLCS Club Championship, they will reportedly represent APAC",
+    "summary": "submitted by /u/idunnokerz [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvx7x1/eros_about_the_vatira_atow_zen_transfer_situation/",
-    "timestamp": "2026-10-02T15:46:12Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwobqi/sheeprle_wolves_esports_have_been_selected_to/",
+    "timestamp": "2026-10-03T14:15:42Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvx7x1/eros_about_the_vatira_atow_zen_transfer_situation/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwobqi/sheeprle_wolves_esports_have_been_selected_to/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-02T15:46:12Z",
-    "id": "energy-0f82d13ca4025686"
+    "data_as_of": "2026-10-03T14:15:42Z",
+    "id": "energy-49ce3a81069d8adf"
   },
   {
-    "title": "Supabase Is Acquiring Turso",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
-    "timestamp": "2026-10-02T15:43:03Z",
-    "topic": "Computer Science",
+    "title": "Best of r/RocketLeagueEsports - September 2026",
+    "summary": "submitted by /u/RLEsportsMods [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwo98y/best_of_rrocketleagueesports_september_2026/",
+    "timestamp": "2026-10-03T14:12:35Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://supabase.com/blog/supabase-is-acquiring-turso"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwo98y/best_of_rrocketleagueesports_september_2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-02T15:43:03Z",
-    "id": "energy-58e930e5039fded3"
-  },
-  {
-    "title": "A 20-year-long permanent cookie: America.gov and tracking",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions",
-    "timestamp": "2026-10-02T15:30:24Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions"
+    "entities": [
+      "RLCS"
     ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T15:30:24Z",
-    "id": "energy-a2888241940980be"
+    "data_as_of": "2026-10-03T14:12:35Z",
+    "id": "energy-3e15dae36d3473d6"
   },
   {
-    "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-    "timestamp": "2026-10-02T15:24:54Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T15:24:54Z",
-    "id": "energy-59652c267b1957b4"
-  },
-  {
-    "title": "I’m Not Ready For Lanterns Season 1 To End",
-    "summary": "There's going to be a giant Green Lantern-shaped hole in my life starting next week",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/im-not-ready-for-lanterns-season-1-to-end-2000739322",
-    "timestamp": "2026-10-02T15:20:56Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/im-not-ready-for-lanterns-season-1-to-end-2000739322"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T15:20:56Z",
-    "id": "energy-a3496e51aeb54742"
-  },
-  {
-    "title": "GTA 6’s Next Wild Crossover Is With the Miami Heat",
-    "summary": "The NBA's Miami Heat will play as Vice City to celebrate GTA 6's release this November, and yes, there's merch",
+    "title": "Is Barney Nelson's Dad? 'The Simpsons' Producer Weighs In On a Persistent Fan Theory",
+    "summary": "The Simpsons c-executive producer Mike Price answers some of the internets biggest quarions about the show, including the status of Apu",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-vice-city-miami-heat-nba-collaboration-merch/",
-    "timestamp": "2026-10-02T15:17:08Z",
+    "url": "https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/",
+    "timestamp": "2026-10-03T14:00:15Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/gta-6-vice-city-miami-heat-nba-collaboration-merch/"
+      "https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-02T15:17:08Z",
-    "id": "energy-54537fb1e78c3c6a"
+    "data_as_of": "2026-10-03T14:00:15Z",
+    "id": "energy-7efaaaa6ecf3400b"
+  },
+  {
+    "title": "I Quit OpenAI Because Its Culture Is Broken",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+    "timestamp": "2026-10-03T13:46:34Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-03T13:46:34Z",
+    "id": "energy-c6fdb86719c84796"
+  },
+  {
+    "title": "Team Heretics has been selected to participate in the RLCS Club Championship. - Sheep eSports",
+    "summary": "submitted by /u/HimelTy [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwmq9t/team_heretics_has_been_selected_to_participate_in/",
+    "timestamp": "2026-10-03T13:02:30Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwmq9t/team_heretics_has_been_selected_to_participate_in/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-03T13:02:30Z",
+    "id": "energy-da874c520548823d"
+  },
+  {
+    "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+    "timestamp": "2026-10-03T12:02:10Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-03T12:02:10Z",
+    "id": "energy-38281ff238055cc5"
+  },
+  {
+    "title": "The Escalation of War in Ethiopia",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+    "timestamp": "2026-10-03T11:54:24Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-03T11:54:24Z",
+    "id": "energy-2506a409f7210d1c"
+  },
+  {
+    "title": "Polarity releases MEQ, a FREE match EQ with dynamic processing",
+    "summary": "Polarity has released Polarity-MEQ, a free spectral matching equalizer for macOS, Windows, and Linux. This is a simplified explanation, but Polarity-MEQ basically learns the spectrum of a reference, compares it with your current signal, and generates an EQ curve that moves your current signal toward the reference. You capture at least 3 seconds of representative [...] View post: Polarity releases MEQ, a FREE match EQ with dynamic processing",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/",
+    "timestamp": "2026-10-03T09:39:02Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-03T09:39:02Z",
+    "id": "energy-295d95b2a9a3852c"
+  },
+  {
+    "title": "Soundins offers PhaXer stereo phase optimizer for FREE",
+    "summary": "Soundins offers PhaXer, a free stereo phase correction plugin for macOS and Windows. PhaXer is designed to improve the phase correlation between the left and right channels of a single stereo signal, especially when the low end loses weight in mono. This happens a lot with stereo bass sounds and if you do a lot [...] View post: Soundins offers PhaXer stereo phase optimizer for FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/",
+    "timestamp": "2026-10-03T09:33:59Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-03T09:33:59Z",
+    "id": "energy-437e3d1dd7006ffd"
+  },
+  {
+    "title": "5 Big Things That Just Changed In The World Of Warcraft: Forever Beta",
+    "summary": "A new dungeon, a missing dog, and...hats?",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/5-big-things-world-of-warcraft-forever-beta-2000739404",
+    "timestamp": "2026-10-03T00:00:16Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/5-big-things-world-of-warcraft-forever-beta-2000739404"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-03T00:00:16Z",
+    "id": "energy-ef74955dbfa9e0ac"
+  },
+  {
+    "title": "GTA 6 Had A Really Busy Week",
+    "summary": "We are less than 50 days away from the release of Grand Theft Auto 6 and marketing is kicking into high gear",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409",
+    "timestamp": "2026-10-02T23:00:55Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T23:00:55Z",
+    "id": "energy-ee5aa62c1a5ddd64"
+  },
+  {
+    "title": "In Praise Of World Of Warcraft’s God-Awful Polygonal Prairie Dog",
+    "summary": "I love you, you're perfect, never change",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/in-praise-of-world-of-warcrafts-god-awful-polygonal-prairie-dog-2000739427",
+    "timestamp": "2026-10-02T22:30:54Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/in-praise-of-world-of-warcrafts-god-awful-polygonal-prairie-dog-2000739427"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-02T22:30:54Z",
+    "id": "energy-569781bcf0f4978c"
   },
   {
     "title": "j.mp3 labs releases Pulse Ducker FREE sidechain volume shaper",
@@ -181,42 +277,6 @@
     "primary_source": false,
     "data_as_of": "2026-10-02T15:16:20Z",
     "id": "energy-de81bbabb857dee7"
-  },
-  {
-    "title": "You At Midnight releases Dreamwater FREE vocal sample pack",
-    "summary": "You At Midnight has released Dreamwater, a free collection of 36 dreamy female vocal samples. Free vocal sample packs are still relatively rare, and in this age of machine-generated vocals, I think it is nice to have another real human voice that you can add to a track for free. Dreamwater was performed, composed, recorded, [...] View post: You At Midnight releases Dreamwater FREE vocal sample pack",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/",
-    "timestamp": "2026-10-02T15:07:40Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T15:07:40Z",
-    "id": "energy-22d3603f7113537a"
-  },
-  {
-    "title": "8 Things Final Fantasy VII Revelation Is Changing From The Original On PS1",
-    "summary": "The finale of the ambitious FF7 remake project arrives just in time for the game's 30th anniversary",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on-ps1-2000739078",
-    "timestamp": "2026-10-02T15:00:07Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on-ps1-2000739078"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T15:00:07Z",
-    "id": "energy-810596aa88ca4579"
   },
   {
     "title": "MISO Tries Different Tack For PRMR Allocation, Decides On Forecasting Approach",
@@ -280,45 +340,6 @@
     ],
     "data_as_of": "2026-10-02T14:49:36Z",
     "id": "energy-49ab9390fc39085d"
-  },
-  {
-    "title": "RiverFlux Audio releases Relic with 12 FREE analog-style plugins",
-    "summary": "RiverFlux Audio has released Relic, a free collection of 12 analog-style compressors, equalizers, and tape effects for macOS, Windows, and Linux. First of all, this is a huge freebie. We don’t often get twelve plugins in one pack for free, but it does happen occasionally. KG Series was a recent example, and if you like [...] View post: RiverFlux Audio releases Relic with 12 FREE analog-style plugins",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/",
-    "timestamp": "2026-10-02T14:26:17Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T14:26:17Z",
-    "id": "energy-61d4ba7e631ff417"
-  },
-  {
-    "title": "All RLEsports nominations for the Esports Awards 2026",
-    "summary": "RL was also nominated for Esports GOTY and Rocket Baguette was nominated for Esports Content Group of the Year Source: https://esportsawards.com/vote) submitted by /u/N0b0dy_her3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvv1ud/all_rlesports_nominations_for_the_esports_awards/",
-    "timestamp": "2026-10-02T14:19:55Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvv1ud/all_rlesports_nominations_for_the_esports_awards/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-02T14:19:55Z",
-    "id": "energy-96573602a59d4e63"
   },
   {
     "title": "Best of September 2026",
@@ -391,44 +412,5 @@
     "primary_source": true,
     "data_as_of": "2026-10-02T04:00:00Z",
     "id": "energy-4c83a669693633fe"
-  },
-  {
-    "title": "APAC will become much better in the coming seasons",
-    "summary": "I believe that apac will become a much stronger region in the next couple of seasons. I’m not saying that they will become as good as NA, EU, pr MENA, but I’m saying that they will certainly become much better than they are now. They already have Sphinx, who’s the best player that’s ever come out of Asia. Kevin isn’t bad either, and they have some rising players. One of them is risk, who at 15 yrs old is placing consistently in top 4 in regionals. He also got second in apac 1v1 losing to Sphinx in the final. I also just found a random 14 year old Mongolian player who’s sitting around 2k mmr on twitter. His name is cosmo I belive. Also, apac is a huge market in esports. I have no doubt that epic will want to grow the game, especially as UE6 is just around the corner. But I’m curious to know what you guys think submitted by /u/guavagrav [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvgeia/apac_will_become_much_better_in_the_coming_seasons/",
-    "timestamp": "2026-10-02T00:56:02Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wvgeia/apac_will_become_much_better_in_the_coming_seasons/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-02T00:56:02Z",
-    "id": "energy-85d1db25a74649e5"
-  },
-  {
-    "title": "What’s up with heat-pump water heaters?",
-    "summary": "A conversation with Luke Winston-Almanzar of Reservoir.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/whats-up-with-heat-pump-water-heaters",
-    "timestamp": "2026-09-30T10:04:52Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/whats-up-with-heat-pump-water-heaters"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-09-30T10:04:52Z",
-    "id": "energy-ce4840322c1d091a"
   }
 ]
