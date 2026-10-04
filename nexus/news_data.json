@@ -180,27 +180,5 @@
     ],
     "data_as_of": "2026-10-01T20:35:18Z",
     "id": "energy-07a7b258ead1622f"
-  },
-  {
-    "title": "PA Sen. Gene Yaw’s Letter to the PJM Board Concerning Allocation of 205 Filing Rights",
-    "summary": "Updated Date: 10.01.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261001-letter-to-the-pjm-board-concerning-allocation-of-205-filing-rights.pdf",
-    "timestamp": "2026-10-01T12:35:42Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261001-letter-to-the-pjm-board-concerning-allocation-of-205-filing-rights.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-10-01T12:35:42Z",
-    "id": "energy-a9d0b6ea06660572"
   }
 ]

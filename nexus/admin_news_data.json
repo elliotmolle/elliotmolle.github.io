@@ -1,174 +1,228 @@
 [
   {
-    "title": "Resident Evil Dev Capcom Plans To Embrace AI In Game Development",
-    "summary": "The next iteration of RE Engine is being built so Capcom can make games \"together with AI,\" although it's still not using generative AI",
+    "title": "Ghost of Yotei DLC’s Best Boss Fight Stars Giant Murder Bears",
+    "summary": "Ghost of Yōtei Echoes of Sekigahara features one of the best boss fights in the game, thanks to a pair of deadly bears.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/",
-    "timestamp": "2026-10-03T14:31:26Z",
+    "url": "https://www.polygon.com/ghost-of-yotei-echoes-of-sekigahara-best-boss-fight/",
+    "timestamp": "2026-10-04T15:00:16Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/capcom-ai-re-engine-statement-2026/"
+      "https://www.polygon.com/ghost-of-yotei-echoes-of-sekigahara-best-boss-fight/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-03T14:31:26Z",
-    "id": "energy-1cfa9a500011a776"
+    "data_as_of": "2026-10-04T15:00:16Z",
+    "id": "energy-542c3781b8635ca5"
   },
   {
-    "title": "Best Buy's Official 'Pokémon' 30th Anniversary TCG Event Details",
-    "summary": "Pokémon TCG fans will likely receive a Mewtwo promo card and other free 30th Anniversary goodies during Best Buy's Oct. 3 Pokémon event.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/",
-    "timestamp": "2026-10-03T14:18:15Z",
+    "title": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live",
+    "summary": "Wait Colin Jost is seriously still at the Weekend Update desk? Does he not have anywhere else to go?",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gta-vis-jason-duval-and-link-make-their-final-pitch-on-saturday-night-live-2000739644",
+    "timestamp": "2026-10-04T14:51:07Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/"
+      "https://kotaku.com/gta-vis-jason-duval-and-link-make-their-final-pitch-on-saturday-night-live-2000739644"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-03T14:18:15Z",
-    "id": "energy-4378073cb96ff86a"
+    "data_as_of": "2026-10-04T14:51:07Z",
+    "id": "energy-b82e099c0582a038"
   },
   {
-    "title": "[SheepRLE] Wolves Esports have been selected to participate in the RLCS Club Championship, they will reportedly represent APAC",
-    "summary": "submitted by /u/idunnokerz [link] [comments]",
+    "title": "A Beloved Critical Role Cast Member Will Officially Miss Campaign 4 for a Long Time",
+    "summary": "Critical Role Campaign 4's next arc is only a few days away, but it looks like one cast member probably won't be involved.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/critical-role-campaign-4-travis-willingham-return/",
+    "timestamp": "2026-10-04T14:37:17Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/critical-role-campaign-4-travis-willingham-return/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-04T14:37:17Z",
+    "id": "energy-618b28614c3231f9"
+  },
+  {
+    "title": "[Major] Despite some spreading rumors that they would target Crr and Stizzy, Heretics are not showing interest in any of these two players",
+    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwobqi/sheeprle_wolves_esports_have_been_selected_to/",
-    "timestamp": "2026-10-03T14:15:42Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wxgw2y/major_despite_some_spreading_rumors_that_they/",
+    "timestamp": "2026-10-04T14:21:56Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwobqi/sheeprle_wolves_esports_have_been_selected_to/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wxgw2y/major_despite_some_spreading_rumors_that_they/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-03T14:15:42Z",
-    "id": "energy-49ce3a81069d8adf"
+    "data_as_of": "2026-10-04T14:21:56Z",
+    "id": "energy-2b856a65edd09979"
   },
   {
-    "title": "Best of r/RocketLeagueEsports - September 2026",
-    "summary": "submitted by /u/RLEsportsMods [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwo98y/best_of_rrocketleagueesports_september_2026/",
-    "timestamp": "2026-10-03T14:12:35Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwo98y/best_of_rrocketleagueesports_september_2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-03T14:12:35Z",
-    "id": "energy-3e15dae36d3473d6"
-  },
-  {
-    "title": "Is Barney Nelson's Dad? 'The Simpsons' Producer Weighs In On a Persistent Fan Theory",
-    "summary": "The Simpsons c-executive producer Mike Price answers some of the internets biggest quarions about the show, including the status of Apu",
+    "title": "Avengers: Doomsday Poster Highlights One Of The Film's Biggest Mysteries",
+    "summary": "A new poster from Comic-Con Málaga reignites speculation on who the Latverian Witches are in Avengers: Doomsday",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/",
-    "timestamp": "2026-10-03T14:00:15Z",
+    "url": "https://www.polygon.com/avengers-doomsday-latverian-witches-poster/",
+    "timestamp": "2026-10-04T14:21:11Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/"
+      "https://www.polygon.com/avengers-doomsday-latverian-witches-poster/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-03T14:00:15Z",
-    "id": "energy-7efaaaa6ecf3400b"
+    "data_as_of": "2026-10-04T14:21:11Z",
+    "id": "energy-139fb1bca9e703bd"
   },
   {
-    "title": "I Quit OpenAI Because Its Culture Is Broken",
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
-    "timestamp": "2026-10-03T13:46:34Z",
+    "url": "https://github.com/Niko1221/Strata",
+    "timestamp": "2026-10-04T12:51:53Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
+      "https://github.com/Niko1221/Strata"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-03T13:46:34Z",
-    "id": "energy-c6fdb86719c84796"
+    "data_as_of": "2026-10-04T12:51:53Z",
+    "id": "energy-9919caf68c4cfe9c"
   },
   {
-    "title": "Team Heretics has been selected to participate in the RLCS Club Championship. - Sheep eSports",
-    "summary": "submitted by /u/HimelTy [link] [comments]",
+    "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+    "timestamp": "2026-10-04T11:58:47Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-04T11:58:47Z",
+    "id": "energy-ba4d5078f579c5af"
+  },
+  {
+    "title": "Show HN: AI search for every photo and every frame of video on macOS",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://github.com/allenv0/SCM",
+    "timestamp": "2026-10-04T09:24:52Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://github.com/allenv0/SCM"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-04T09:24:52Z",
+    "id": "energy-2b0620bd249c9757"
+  },
+  {
+    "title": "Why is Rocket league esports Unsustainable for orgs?",
+    "summary": "With the news that KC might be pulling out of the scene, despite the fact that it felt like they were successful, I understand that the whole esports scene is a money sink, but an org like KC that has a massive fanbase shouldn't be struggling to make revenue from the game. submitted by /u/Sad-Network-3079 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwmq9t/team_heretics_has_been_selected_to_participate_in/",
-    "timestamp": "2026-10-03T13:02:30Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wxacw6/why_is_rocket_league_esports_unsustainable_for/",
+    "timestamp": "2026-10-04T08:15:29Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wwmq9t/team_heretics_has_been_selected_to_participate_in/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wxacw6/why_is_rocket_league_esports_unsustainable_for/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-03T13:02:30Z",
-    "id": "energy-da874c520548823d"
+    "data_as_of": "2026-10-04T08:15:29Z",
+    "id": "energy-b774c1ce2539603a"
   },
   {
-    "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
-    "timestamp": "2026-10-03T12:02:10Z",
-    "topic": "Computer Science",
+    "title": "GFE/Dig vs. C9 vs. NRG2: Who is the GOAT Roster?",
+    "summary": "Hi everyone! With the inevitability now that NRG2 (Daniel, BeastMode, Atomic) is splitting up, I've been thinking a lot about how they stack up against the generally-considered top 2 rosters of all time: GFE/Dig (Kaydop, ViolentPanda, Turbopolsa) and C9 (Gimmick, Squishy, Torment). Obviously a lot of this is subjective, but I wanted to actually dive deep into the results each roster had, both online and on LAN, during their time together. 1. Online dominance (regionals) It's hard to compare the league-play era to the open era, but let's first lay out the results. GFE/Dig Season 4 RLCS — 3 seed through league play (5-2), won regional playoffs Season 5 RLCS — 1 seed through league play (6-1), won regional playoffs Season 6 RLCS — 1 seed through league play (7-0), won regional playoffs C9 Season 4 RLCS — 1 seed through league play (6-1), won regional playoffs Season 5 RLCS — 3 seed through league play (4-3), 3rd in regional playoffs Season 6 RLCS — 1 seed through league play (6-1), 3rd in regional playoffs Season 7 RLCS — 3 seed through league play (4-3), 2nd in regional playoffs Season 8 RLCS — 7 seed through league play Season 9 RLCS — 5 seed through league play (5-4), 5th-6th in r…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wx8hwk/gfedig_vs_c9_vs_nrg2_who_is_the_goat_roster/",
+    "timestamp": "2026-10-04T06:19:49Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wx8hwk/gfedig_vs_c9_vs_nrg2_who_is_the_goat_roster/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-03T12:02:10Z",
-    "id": "energy-38281ff238055cc5"
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-04T06:19:49Z",
+    "id": "energy-ca14a9bd408255b3"
   },
   {
-    "title": "The Escalation of War in Ethiopia",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-    "timestamp": "2026-10-03T11:54:24Z",
-    "topic": "Computer Science",
+    "title": "OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+    "summary": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+    "timestamp": "2026-10-03T21:26:58Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia"
+      "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-03T11:54:24Z",
-    "id": "energy-2506a409f7210d1c"
+    "data_as_of": "2026-10-03T21:26:58Z",
+    "id": "energy-bdea50a95c580649"
+  },
+  {
+    "title": "Troves Of Unseen Star Wars Material Emerge Online After Effects Wizard’s Garage Sale",
+    "summary": "Following the closure of Phil Tippett’s studio, hundreds of behind the scenes files from The Matrix, Jurassic Park and more have been uploaded to the Internet Archive",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/troves-of-unseen-star-wars-material-emerge-online-after-effects-wizards-garage-sale-2000739602",
+    "timestamp": "2026-10-03T20:03:47Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/troves-of-unseen-star-wars-material-emerge-online-after-effects-wizards-garage-sale-2000739602"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-03T20:03:47Z",
+    "id": "energy-cd70eab68d48c419"
   },
   {
     "title": "Polarity releases MEQ, a FREE match EQ with dynamic processing",
@@ -205,60 +259,6 @@
     "primary_source": false,
     "data_as_of": "2026-10-03T09:33:59Z",
     "id": "energy-437e3d1dd7006ffd"
-  },
-  {
-    "title": "5 Big Things That Just Changed In The World Of Warcraft: Forever Beta",
-    "summary": "A new dungeon, a missing dog, and...hats?",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/5-big-things-world-of-warcraft-forever-beta-2000739404",
-    "timestamp": "2026-10-03T00:00:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/5-big-things-world-of-warcraft-forever-beta-2000739404"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-03T00:00:16Z",
-    "id": "energy-ef74955dbfa9e0ac"
-  },
-  {
-    "title": "GTA 6 Had A Really Busy Week",
-    "summary": "We are less than 50 days away from the release of Grand Theft Auto 6 and marketing is kicking into high gear",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409",
-    "timestamp": "2026-10-02T23:00:55Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T23:00:55Z",
-    "id": "energy-ee5aa62c1a5ddd64"
-  },
-  {
-    "title": "In Praise Of World Of Warcraft’s God-Awful Polygonal Prairie Dog",
-    "summary": "I love you, you're perfect, never change",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/in-praise-of-world-of-warcrafts-god-awful-polygonal-prairie-dog-2000739427",
-    "timestamp": "2026-10-02T22:30:54Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/in-praise-of-world-of-warcrafts-god-awful-polygonal-prairie-dog-2000739427"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T22:30:54Z",
-    "id": "energy-569781bcf0f4978c"
   },
   {
     "title": "j.mp3 labs releases Pulse Ducker FREE sidechain volume shaper",
