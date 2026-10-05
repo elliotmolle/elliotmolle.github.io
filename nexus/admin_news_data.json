@@ -1,416 +1,335 @@
 [
   {
-    "title": "Ghost of Yotei DLC’s Best Boss Fight Stars Giant Murder Bears",
-    "summary": "Ghost of Yōtei Echoes of Sekigahara features one of the best boss fights in the game, thanks to a pair of deadly bears.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/ghost-of-yotei-echoes-of-sekigahara-best-boss-fight/",
-    "timestamp": "2026-10-04T15:00:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/ghost-of-yotei-echoes-of-sekigahara-best-boss-fight/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-04T15:00:16Z",
-    "id": "energy-542c3781b8635ca5"
-  },
-  {
-    "title": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live",
-    "summary": "Wait Colin Jost is seriously still at the Weekend Update desk? Does he not have anywhere else to go?",
+    "title": "Magic: The Gathering Is Adding God Packs And Removing What My Editor Calls ‘Junk’ Foils From Boosters",
+    "summary": "And no more foil commons and uncommons in booster packs:(",
     "source": "Kotaku",
-    "url": "https://kotaku.com/gta-vis-jason-duval-and-link-make-their-final-pitch-on-saturday-night-live-2000739644",
-    "timestamp": "2026-10-04T14:51:07Z",
+    "url": "https://kotaku.com/magic-the-gathering-adding-god-packs-2000740004",
+    "timestamp": "2026-10-05T19:00:58Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/gta-vis-jason-duval-and-link-make-their-final-pitch-on-saturday-night-live-2000739644"
+      "https://kotaku.com/magic-the-gathering-adding-god-packs-2000740004"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-04T14:51:07Z",
-    "id": "energy-b82e099c0582a038"
+    "data_as_of": "2026-10-05T19:00:58Z",
+    "id": "energy-f58c1c822b8be720"
   },
   {
-    "title": "A Beloved Critical Role Cast Member Will Officially Miss Campaign 4 for a Long Time",
-    "summary": "Critical Role Campaign 4's next arc is only a few days away, but it looks like one cast member probably won't be involved.",
+    "title": "GTA's Wanted Level Is One of Video Games’ Perfect Ideas",
+    "summary": "Grand Theft Auto's notorious Wanted system is one of those quietly brilliant systems that deserves some flowers.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/critical-role-campaign-4-travis-willingham-return/",
-    "timestamp": "2026-10-04T14:37:17Z",
+    "url": "https://www.polygon.com/grand-theft-auto-wanted-level-opinion/",
+    "timestamp": "2026-10-05T19:00:16Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/critical-role-campaign-4-travis-willingham-return/"
+      "https://www.polygon.com/grand-theft-auto-wanted-level-opinion/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-04T14:37:17Z",
-    "id": "energy-618b28614c3231f9"
+    "data_as_of": "2026-10-05T19:00:16Z",
+    "id": "energy-1da4e5239464e654"
   },
   {
-    "title": "[Major] Despite some spreading rumors that they would target Crr and Stizzy, Heretics are not showing interest in any of these two players",
-    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "title": "Stephen King’s 2007 Psychological Horror Box Office Hit Is Now Free to Watch on YouTube",
+    "summary": "John Cusack and Samuel L. Jackson star in 1408, a Stephen King horror adaptation that's currently free to watch on YouTube.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/stephen-king-1408-free-youtube-streaming/",
+    "timestamp": "2026-10-05T18:53:16Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/stephen-king-1408-free-youtube-streaming/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-05T18:53:16Z",
+    "id": "energy-bc7d1e8927ab42ad"
+  },
+  {
+    "title": "Overwatch’s Latest China Exclusive Has Fans Ready To Crash Out: ‘I Still Don’t Know How People Defend Blizzard For This’",
+    "summary": "Shion, Kiriko, Reaper, and more are the latest heroes to reap the benefits of Blizzard and NetEase’s partnership, but only in China",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/overwatch-china-exclusive-shion-kiriko-reaper-dmon-2000740030",
+    "timestamp": "2026-10-05T18:40:09Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/overwatch-china-exclusive-shion-kiriko-reaper-dmon-2000740030"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-05T18:40:09Z",
+    "id": "energy-e71407451e91d3fc"
+  },
+  {
+    "title": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/",
+    "timestamp": "2026-10-05T18:38:01Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-05T18:38:01Z",
+    "id": "energy-a2af892a5fe1f718"
+  },
+  {
+    "title": "Ninjas in Pyjamas are singing the only team that can compete with M8",
+    "summary": "Welcome back Turbo, Kaydop and Violentpanda submitted by /u/Huge-Computer2037 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wxgw2y/major_despite_some_spreading_rumors_that_they/",
-    "timestamp": "2026-10-04T14:21:56Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wyfxn9/ninjas_in_pyjamas_are_singing_the_only_team_that/",
+    "timestamp": "2026-10-05T18:17:25Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wxgw2y/major_despite_some_spreading_rumors_that_they/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wyfxn9/ninjas_in_pyjamas_are_singing_the_only_team_that/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-04T14:21:56Z",
-    "id": "energy-2b856a65edd09979"
+    "data_as_of": "2026-10-05T18:17:25Z",
+    "id": "energy-550db3c49a46d332"
   },
   {
-    "title": "Avengers: Doomsday Poster Highlights One Of The Film's Biggest Mysteries",
-    "summary": "A new poster from Comic-Con Málaga reignites speculation on who the Latverian Witches are in Avengers: Doomsday",
+    "title": "The Batman Part 2 Filming Paused as Director Matt Reeves Steps Away",
+    "summary": "The Batman Part 2 has paused filming as director Matt Reeves steps away to focus on a \"family matter,\" DC Studios says.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/avengers-doomsday-latverian-witches-poster/",
-    "timestamp": "2026-10-04T14:21:11Z",
+    "url": "https://www.polygon.com/the-batman-part-2-filming-paused-director-matt-reeves/",
+    "timestamp": "2026-10-05T18:08:30Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/avengers-doomsday-latverian-witches-poster/"
+      "https://www.polygon.com/the-batman-part-2-filming-paused-director-matt-reeves/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-04T14:21:11Z",
-    "id": "energy-139fb1bca9e703bd"
+    "data_as_of": "2026-10-05T18:08:30Z",
+    "id": "energy-6c163cbecfe445e5"
   },
   {
-    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "title": "Halloween: The Game Adding Michael’s Worst Mask As $10 DLC",
+    "summary": "If you want a better-looking version of the famous killer, you'll also need to fork over another $10",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/halloween-the-game-adding-michaels-worst-mask-as-10-dlc-2000740005",
+    "timestamp": "2026-10-05T18:00:21Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/halloween-the-game-adding-michaels-worst-mask-as-10-dlc-2000740005"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-05T18:00:21Z",
+    "id": "energy-67804fc28d2cf067"
+  },
+  {
+    "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/Niko1221/Strata",
-    "timestamp": "2026-10-04T12:51:53Z",
+    "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+    "timestamp": "2026-10-05T17:53:35Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/Niko1221/Strata"
+      "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-04T12:51:53Z",
-    "id": "energy-9919caf68c4cfe9c"
+    "data_as_of": "2026-10-05T17:53:35Z",
+    "id": "energy-826af5480499839c"
   },
   {
-    "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-    "timestamp": "2026-10-04T11:58:47Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-04T11:58:47Z",
-    "id": "energy-ba4d5078f579c5af"
-  },
-  {
-    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://github.com/allenv0/SCM",
-    "timestamp": "2026-10-04T09:24:52Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://github.com/allenv0/SCM"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-04T09:24:52Z",
-    "id": "energy-2b0620bd249c9757"
-  },
-  {
-    "title": "Why is Rocket league esports Unsustainable for orgs?",
-    "summary": "With the news that KC might be pulling out of the scene, despite the fact that it felt like they were successful, I understand that the whole esports scene is a money sink, but an org like KC that has a massive fanbase shouldn't be struggling to make revenue from the game. submitted by /u/Sad-Network-3079 [link] [comments]",
+    "title": "[Rocket Street] FAZE Clan is set to play in SAM for the club championship",
+    "summary": "submitted by /u/Legitimate-Sign-371 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wxacw6/why_is_rocket_league_esports_unsustainable_for/",
-    "timestamp": "2026-10-04T08:15:29Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wyf2oz/rocket_street_faze_clan_is_set_to_play_in_sam_for/",
+    "timestamp": "2026-10-05T17:45:08Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wxacw6/why_is_rocket_league_esports_unsustainable_for/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wyf2oz/rocket_street_faze_clan_is_set_to_play_in_sam_for/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-04T08:15:29Z",
-    "id": "energy-b774c1ce2539603a"
+    "data_as_of": "2026-10-05T17:45:08Z",
+    "id": "energy-6c75e89637edbc75"
   },
   {
-    "title": "GFE/Dig vs. C9 vs. NRG2: Who is the GOAT Roster?",
-    "summary": "Hi everyone! With the inevitability now that NRG2 (Daniel, BeastMode, Atomic) is splitting up, I've been thinking a lot about how they stack up against the generally-considered top 2 rosters of all time: GFE/Dig (Kaydop, ViolentPanda, Turbopolsa) and C9 (Gimmick, Squishy, Torment). Obviously a lot of this is subjective, but I wanted to actually dive deep into the results each roster had, both online and on LAN, during their time together. 1. Online dominance (regionals) It's hard to compare the league-play era to the open era, but let's first lay out the results. GFE/Dig Season 4 RLCS — 3 seed through league play (5-2), won regional playoffs Season 5 RLCS — 1 seed through league play (6-1), won regional playoffs Season 6 RLCS — 1 seed through league play (7-0), won regional playoffs C9 Season 4 RLCS — 1 seed through league play (6-1), won regional playoffs Season 5 RLCS — 3 seed through league play (4-3), 3rd in regional playoffs Season 6 RLCS — 1 seed through league play (6-1), 3rd in regional playoffs Season 7 RLCS — 3 seed through league play (4-3), 2nd in regional playoffs Season 8 RLCS — 7 seed through league play Season 9 RLCS — 5 seed through league play (5-4), 5th-6th in r…",
+    "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+    "timestamp": "2026-10-05T17:01:27Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-05T17:01:27Z",
+    "id": "energy-bf84d64a53aa2168"
+  },
+  {
+    "title": "Rocket League Esports Earnings Rankings Post-Worlds",
+    "summary": "ORG RANKING MAIN HIGHLIGHT: Falcons have now surpassed all three 2-time worlds winning orgs by winning this World Championship. PLAYER RANKING MAIN HIGHLIGHT: Both Saudi twins have vaulted themselves to top 5, with Rw9 surpassing Atomic, the former runner-up. submitted by /u/Round-Economics-3257 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wx8hwk/gfedig_vs_c9_vs_nrg2_who_is_the_goat_roster/",
-    "timestamp": "2026-10-04T06:19:49Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1wydlis/rocket_league_esports_earnings_rankings_postworlds/",
+    "timestamp": "2026-10-05T16:48:47Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wx8hwk/gfedig_vs_c9_vs_nrg2_who_is_the_goat_roster/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1wydlis/rocket_league_esports_earnings_rankings_postworlds/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-04T06:19:49Z",
-    "id": "energy-ca14a9bd408255b3"
+    "data_as_of": "2026-10-05T16:48:47Z",
+    "id": "energy-7daa954851139af1"
   },
   {
-    "title": "OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-    "summary": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-    "timestamp": "2026-10-03T21:26:58Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-03T21:26:58Z",
-    "id": "energy-bdea50a95c580649"
-  },
-  {
-    "title": "Troves Of Unseen Star Wars Material Emerge Online After Effects Wizard’s Garage Sale",
-    "summary": "Following the closure of Phil Tippett’s studio, hundreds of behind the scenes files from The Matrix, Jurassic Park and more have been uploaded to the Internet Archive",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/troves-of-unseen-star-wars-material-emerge-online-after-effects-wizards-garage-sale-2000739602",
-    "timestamp": "2026-10-03T20:03:47Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/troves-of-unseen-star-wars-material-emerge-online-after-effects-wizards-garage-sale-2000739602"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-03T20:03:47Z",
-    "id": "energy-cd70eab68d48c419"
-  },
-  {
-    "title": "Polarity releases MEQ, a FREE match EQ with dynamic processing",
-    "summary": "Polarity has released Polarity-MEQ, a free spectral matching equalizer for macOS, Windows, and Linux. This is a simplified explanation, but Polarity-MEQ basically learns the spectrum of a reference, compares it with your current signal, and generates an EQ curve that moves your current signal toward the reference. You capture at least 3 seconds of representative [...] View post: Polarity releases MEQ, a FREE match EQ with dynamic processing",
+    "title": "FRCTL Audio releases GRNi Lite FREE granular sampler",
+    "summary": "FRCTL Audio GRNi Lite is a free granular sampler instrument for macOS, Windows, and Linux. We previously covered GRN Lite, a simplified granular effect from the same developer. The names are similar, but their jobs are different: GRN processes audio already passing through a track, while GRNi Lite turns a sample you load into a [...] View post: FRCTL Audio releases GRNi Lite FREE granular sampler",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/",
-    "timestamp": "2026-10-03T09:39:02Z",
+    "url": "https://bedroomproducersblog.com/2026/10/05/frctl-audio-grni-lite/",
+    "timestamp": "2026-10-05T15:14:08Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/"
+      "https://bedroomproducersblog.com/2026/10/05/frctl-audio-grni-lite/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-03T09:39:02Z",
-    "id": "energy-295d95b2a9a3852c"
+    "data_as_of": "2026-10-05T15:14:08Z",
+    "id": "energy-ba388db18f54f661"
   },
   {
-    "title": "Soundins offers PhaXer stereo phase optimizer for FREE",
-    "summary": "Soundins offers PhaXer, a free stereo phase correction plugin for macOS and Windows. PhaXer is designed to improve the phase correlation between the left and right channels of a single stereo signal, especially when the low end loses weight in mono. This happens a lot with stereo bass sounds and if you do a lot [...] View post: Soundins offers PhaXer stereo phase optimizer for FREE",
+    "title": "Rapid Flow gives away True AB Referencing plugin for FREE",
+    "summary": "Rapid Flow True AB Referencing, normally priced at $39, is currently free when you to the developer’s newsletter. The offer is part of Rapid Flow’s fourth-anniversary celebration. This is the complete plugin with a perpetual license, so it’s not a demo or some time-limited version, although the developer has not announced when the promotion [...] View post: Rapid Flow gives away True AB Referencing plugin for FREE",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/",
-    "timestamp": "2026-10-03T09:33:59Z",
+    "url": "https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/",
+    "timestamp": "2026-10-05T14:58:58Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/"
+      "https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-03T09:33:59Z",
-    "id": "energy-437e3d1dd7006ffd"
+    "data_as_of": "2026-10-05T14:58:58Z",
+    "id": "energy-b522d1209404c040"
   },
   {
-    "title": "j.mp3 labs releases Pulse Ducker FREE sidechain volume shaper",
-    "summary": "j.mp3 labs has released Pulse Ducker, a free sidechain-style volume shaper for macOS, Windows, and Linux. Instead of using compression to duck the signal whenever a kick hits, Pulse Ducker lets you apply a volume envelope. This makes the amount and timing of the movement predictable, and it works great for both subtle low-end separation [...] View post: j.mp3 labs releases Pulse Ducker FREE sidechain volume shaper",
+    "title": "Get Moog MF-109S Saturator FREE with a $5 Native Instruments purchase",
+    "summary": "Plugin Boutique is offering Native Instruments Tape Wobble, Kolor, and Psyche Delay for only $5 each, and the purchase qualifies for a free copy of Moog’s MF-109S Saturator. The Native Instruments deal runs through November 1st, reducing these plugins from $19 to $5. More importantly, this is currently one of the cheapest useful purchases you [...] View post: Get Moog MF-109S Saturator FREE with a $5 Native Instruments purchase",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/",
-    "timestamp": "2026-10-02T15:16:20Z",
+    "url": "https://bedroomproducersblog.com/2026/10/05/mf-109s-saturator-free/",
+    "timestamp": "2026-10-05T14:31:19Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/"
+      "https://bedroomproducersblog.com/2026/10/05/mf-109s-saturator-free/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-02T15:16:20Z",
-    "id": "energy-de81bbabb857dee7"
+    "data_as_of": "2026-10-05T14:31:19Z",
+    "id": "energy-683dcf28b78227fe"
   },
   {
-    "title": "MISO Tries Different Tack For PRMR Allocation, Decides On Forecasting Approach",
-    "summary": "By Amanda Durish Cook MISO announced it’s abandoning a plan to use settled load to divide its resource planning obligations among its load-serving entities, moving instead to a forecasting approach it once vowed not to use. Why This Matters It didn’t want to at first, but now MISO says it will use a forecasting method […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/miso-tries-different-tack-for-prmr-allocation-decides-on-forecasting-approach/",
-    "timestamp": "2026-10-02T14:51:14Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/miso-tries-different-tack-for-prmr-allocation-decides-on-forecasting-approach/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-02T14:51:14Z",
-    "id": "energy-8ef0a123ab1317a4"
-  },
-  {
-    "title": "Amazon Promises More Local Funding and Less Secrecy Around Data Centers",
-    "summary": "By Karen Weise Amazon has become the latest big technology company to promise money for local communities and policy changes in reaction to anti-data-center sentiment that has become a political flashpoint around the country. In a lengthy blog post on Friday, the company pledged $1 billion over five years to communities for work force development, […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/amazon-promises-more-local-funding-and-less-secrecy-around-data-centers/",
-    "timestamp": "2026-10-02T14:50:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/amazon-promises-more-local-funding-and-less-secrecy-around-data-centers/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-02T14:50:20Z",
-    "id": "energy-20522ef5660f2d8b"
-  },
-  {
-    "title": "States Sue To Stop Trump’s Retreat On Power Plant Emissions",
-    "summary": "By Evan Halper The Trump administration’s abandonment of climate rules at the nation’s most polluting power plants is being challenged by 21 states, the District of Columbia and three major cities in a federal lawsuit that accuses the Environmental Protection Agency of brazenly shirking a legal obligation. The coalition of Democratic attorneys general, governors and […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/states-sue-to-stop-trumps-retreat-on-power-plant-emissions/",
-    "timestamp": "2026-10-02T14:49:36Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/states-sue-to-stop-trumps-retreat-on-power-plant-emissions/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-02T14:49:36Z",
-    "id": "energy-49ab9390fc39085d"
-  },
-  {
-    "title": "Best of September 2026",
-    "summary": "Highlights from the seven conversations released last month.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/best-of-september-2026",
-    "timestamp": "2026-10-02T10:24:33Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/best-of-september-2026"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-10-02T10:24:33Z",
-    "id": "energy-adb4c09db59d8a92"
-  },
-  {
-    "title": "Zeros and interlacing for multiset Eulerian-Narayana polynomials",
-    "summary": "arXiv:2610.00966v1 Announce Type: new Abstract: We prove the real-rootedness conjecture of Lin, Ma, Ma, and Zhou (2021) for multiset Eulerian-Narayana polynomials, including simplicity and negativity of all zeros after removing the factor t. Using a forest decomposition and Lagrange inversion, we derive a differential formula and a first-order factorization of the differential operator. We use these factors to show that the nonconstant gamma-coefficients and ordered gamma-zeros are nondecreasing, with corresponding bounds given by the Narayana and Eulerian polynomials. The same factorization gives totally nonnegative coefficient transition matrices. We also prove strict interlacing of the zeros of generating polynomials arising from adjacent columns of the transition matrices.",
+    "title": "Zero measure Cantor spectrum for aperiodic metric tiling graphs",
+    "summary": "arXiv:2610.02650v1 Announce Type: new Abstract: We study a family of aperiodic metric graphs generated by one-dimensional tilings. We prove that, generically, the spectrum of the associated Kirchhoff Laplacian has Lebesgue measure zero and, apart from a discrete set of isolated eigenvalues, is a generalized Cantor set. For a large subclass of these graphs, we further show that isolated eigenvalues are generically absent. This extends several well-known results from the setting of discrete ergodic Schr\\\"odinger operators on $\\mathbb{Z}$ to a large family of metric graphs. Earlier results of this kind for metric graphs typically assume equilateral edges and exploit symmetries that reduce the analysis to a Sturm-Liouville operator on the real line. By contrast, the graph families considered here need not have equilateral edges or the symmetries needed for such a reduction and therefore require a different analytical approach.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.00966",
-    "timestamp": "2026-10-02T04:00:00Z",
+    "url": "https://arxiv.org/abs/2610.02650",
+    "timestamp": "2026-10-05T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.00966"
+      "https://arxiv.org/abs/2610.02650"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-02T04:00:00Z",
-    "id": "energy-51549dabc1058b6d"
+    "data_as_of": "2026-10-05T04:00:00Z",
+    "id": "energy-3828d13e7ea5f4ef"
   },
   {
-    "title": "When Information Is Not Enough: Accuracy-Constrained Thermodynamic Costs of Binary Classification",
-    "summary": "arXiv:2610.00291v1 Announce Type: new Abstract: How much entropy must a physical classifier produce to achieve a prescribed accuracy? Rate--distortion theory specifies the minimum information required, but does that information threshold suffice to determine the physical cost? We show that it does not, even for a binary task and a two-state memory. For a uniform binary target observed through a finite symmetric experiment, replacing the classification-error constraint with its necessary mutual-information threshold strictly lowers the infimum of entropy production under a common operation time, integrated mobility budget, and sufficiently large finite transition-rate cap. The separation holds whenever the target error lies strictly between the Bayes error of the observations and chance. Two results establish this physical gap. First, ordering observations by posterior confidence gives exact transport--risk and transport--information frontiers. Observations with the same Bayes error can have different cost frontiers. Second, we construct bounded-rate protocols that realize prescribed encoders with write probabilities below one, starting from exact reset, with an explicit excess cos…",
+    "title": "Why Does Adaptive Batching Help LLM Pretraining? A Perspective from Unbounded Variance",
+    "summary": "arXiv:2610.02355v1 Announce Type: cross Abstract: Increasing the batch size during training is a common practice in large language model (LLM) pretraining, yet the theoretical justification behind its success is not well understood. Analyses of stochastic optimization often assume uniformly bounded stochastic gradient variance, yet recent evidence suggests that this assumption fails in many practical nonconvex problems. The Blum--Gladyshev (BG-$0$) noise model relaxes this assumption by allowing the variance to grow quadratically with the distance from initialization, suggesting that batch size schedulers can help by controlling the variance growth during training. However, this growth can be overly conservative in practice. We empirically investigate variance growth in LLM pretraining and observe that a generalized BG model with a tunable growth exponent provides a tighter description of practical noise behavior. Motivated by this observation, we introduce the generalized BG-$a$ noise model, which interpolates between bounded variance ($a=0$) and BG-$0$ noise ($a=2$). Under $L$-smoothness, we derive an information-theoretic lower bound with growth-dependent oracle complexity $\\Om…",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.00291",
-    "timestamp": "2026-10-02T04:00:00Z",
+    "url": "https://arxiv.org/abs/2610.02355",
+    "timestamp": "2026-10-05T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.00291"
+      "https://arxiv.org/abs/2610.02355"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-02T04:00:00Z",
-    "id": "energy-dcc511bc1d586f2f"
+    "data_as_of": "2026-10-05T04:00:00Z",
+    "id": "energy-aeb940e0295ff5f7"
   },
   {
-    "title": "Wetting Transition of the Two-Dimensional Solid-on-Solid Model with Quenched Disorder",
-    "summary": "arXiv:2610.01157v1 Announce Type: new Abstract: We study the wetting transition for a two-dimensional Solid-On-Solid (SOS) interface above a hard wall in the presence of quenched disorder. The interface is represented by a nonnegative integer-valued height function $\\phi$, with Hamiltonian $\\mathcal H^\\omega(\\phi)=\\beta\\sum_{x\\sim y}|\\phi(x)-\\phi(y)|-\\sum_x(h+\\alpha\\omega_x-\\lambda(\\alpha))\\mathbf 1_{\\{\\phi(x)=0\\}}$, where $(\\omega_x)_{x\\in\\mathbb Z^2}$ is an i.i.d. centered field, $\\alpha\\ge0$ is the disorder strength, and $\\lambda(\\alpha)=\\log\\mathbb E[e^{\\alpha\\omega_0}]$. This normalization is chosen so that the annealed model coincides with the corresponding homogeneous wetting model. As the wall attraction $h$ increases, the interface undergoes a transition from a delocalized phase, in which contacts with the wall have vanishing density, to a localized phase with a positive density of contacts. For sufficiently large $\\beta$, the homogeneous wetting point and its sharp near-critical free-energy behavior are known. We prove that, for every fixed $\\alpha\\ge0$, the quenched critical point coincides with the homogeneous wetting point, $h_c(\\beta,\\alpha)=h_w(\\beta)=-\\log(1-e^{-4\\…",
+    "title": "When defaults cannot be hedged: xVA calculations via local risk-minimization",
+    "summary": "arXiv:2502.12774v3 Announce Type: replace-cross Abstract: We consider the pricing and hedging of counterparty credit risk and funding when there is no possibility to hedge the jump to default of either the bank or the counterparty. This represents the situation which is most often encountered in practice, due to the absence of quoted corporate bonds or CDS contracts written on the counterparty and the difficulty for the bank to buy/sell protection on her own default. We apply local risk-minimization to find the optimal strategy and compute it via a BSDE.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.01157",
-    "timestamp": "2026-10-02T04:00:00Z",
+    "url": "https://arxiv.org/abs/2502.12774",
+    "timestamp": "2026-10-05T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.01157"
+      "https://arxiv.org/abs/2502.12774"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-02T04:00:00Z",
-    "id": "energy-4c83a669693633fe"
+    "data_as_of": "2026-10-05T04:00:00Z",
+    "id": "energy-3c766924d3c60b87"
   }
 ]

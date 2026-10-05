@@ -1,38 +1,62 @@
 [
   {
-    "title": "Modernizing for more megawatts: Columbia’s EPU journey",
-    "summary": "Columbia Generating Station is the third-largest power-generating resource in Washington state and the region’s only operating nuclear plant. It has long served the Bonneville Power Administration’s (BPA’s) public power customers as a 24/7, not-for-profit baseload complement to hydropower, providing operational flexibility during low-water months and supporting grid stability as renewables scale up and contribute their power on a variable basis. Under BPA’s net billing framework, Columbia’s output is marketed at cost, integrating clean, firm capacity into a hydro-dominant system that increasingly faces volatility and growing load.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-02/article-8410/modernizing-for-more-megawatts-columbias-epu-journey/",
-    "timestamp": "2026-10-02T22:10:25Z",
+    "title": "Keep your family safe as fall brings new routines, shorter days and cooler temperatures",
+    "summary": "As cool breezes blow in, families turn the page from summer fun to a host of activities that take advantage of the fall season, from pumpkin spice everything to hayrides, fall festivals and football. Amid all the excitement, keep safety first to make sure your memories are about the experience and not a trip to the E.R. Entergy Mississippi offers these tips for keeping your family safe through it all. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/keep-your-family-safe-as-fall-brings-new-routines-shorter-days-and-cooler-temperatures",
+    "timestamp": "2026-10-05T18:12:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-02/article-8410/modernizing-for-more-megawatts-columbias-epu-journey/"
+      "https://www.entergy.com/blog/keep-your-family-safe-as-fall-brings-new-routines-shorter-days-and-cooler-temperatures"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
+    "source_tier": "primary",
+    "primary_source": true,
     "entities": [
-      "American Nuclear Society",
-      "ANS"
+      "Entergy"
     ],
-    "data_as_of": "2026-10-02T22:10:25Z",
-    "id": "energy-a7207ee6c98173ea"
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-05T18:12:22Z",
+    "id": "energy-3b4feac9a25ec817"
   },
   {
-    "title": "ANS names 2026 Winter Conference award winners, new Fellows",
-    "summary": "As November draws near and the nuclear community prepares to convene in Phoenix, Ariz., for the American Nuclear Society’s 2026 Winter Conference & Expo, it is time once again to celebrate the exceptional colleagues in our midst. ANS President Mark Peters has named this season’s national award recipients, who will be recognized next month at the conference, which is being held November 15–18 at the Arizona Grand Resort & Spa. Recipients of the Society’s professional division awards, winners of this year’s Presidential Citation and the new ANS CEO Service Leadership Award, and recently designated Nuclear Historical Landmarks will be announced soon.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-02/article-8459/ans-names-2026-winter-conference-award-winners-new-fellows/",
-    "timestamp": "2026-10-02T21:38:28Z",
+    "title": "ISO-NE Board of Directors to host open meeting",
+    "summary": "The meeting takes place Nov. 10 in Boston. A virtual attendance option is also available. The post ISO-NE Board of Directors to host open meeting appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/05/iso-ne-board-of-directors-to-host-open-meeting/",
+    "timestamp": "2026-10-05T17:54:36Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-02/article-8459/ans-names-2026-winter-conference-award-winners-new-fellows/"
+      "https://isonewswire.com/2026/10/05/iso-ne-board-of-directors-to-host-open-meeting/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-05T17:54:36Z",
+    "id": "energy-c3d733f359294771"
+  },
+  {
+    "title": "Berkeley opens FLiNaK test bed",
+    "summary": "The University of California–Berkeley now has a forced-flow molten fluoride salt test bed that circulates molten FLiNaK—a salt mixture containing lithium fluoride, sodium fluoride, and potassium fluoride—under conditions representative of many molten-salt nuclear energy applications. Established by Berkeley professor Guanyu Su, the facility can operate between 500°C and 700°C, reach flow rates of up to 60 liters per minute, and maintain a temperature difference of up to 100 K between its hot and cold legs, according to the university.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-05/article-8461/berkeley-opens-flinak-test-bed/",
+    "timestamp": "2026-10-05T17:22:58Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-05/article-8461/berkeley-opens-flinak-test-bed/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +64,98 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-02T21:38:28Z",
-    "id": "energy-6fc4e8e72773d988"
+    "data_as_of": "2026-10-05T17:22:58Z",
+    "id": "energy-45f6e40f56012ce8"
+  },
+  {
+    "title": "Sustaining communities",
+    "summary": "Mark Peterspresident@ans.org The theme of this month’s issue of Nuclear News is plant maintenance, highlighting the teams that keep our operating fleet in good working order. As this month’s features make clear, plant maintenance is anything but simple. It may not produce the flashiest milestones or attract the most public attention, but it is what makes those milestones possible. The same principle applies beyond pipes, pumps, and valves. Physical systems endure because we give them sustained attention and investment; our professional communities require the same. They are where the connections that strengthen the nuclear field are sustained over time. I was reminded of that this month when I had the privilege of visiting and speaking with the Virginia Section of the American Nuclear Society as it marked a remarkable milestone: 70 years since its founding.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-05/article-8406/sustaining-communities/",
+    "timestamp": "2026-10-05T14:56:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-05/article-8406/sustaining-communities/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-05T14:56:21Z",
+    "id": "energy-1538ccb1a5aeb9bf"
+  },
+  {
+    "title": "GAO report looks at NRC workforce recruitment and retention",
+    "summary": "A recently released report from the U.S. Government Accountability Office recommends that the Nuclear Regulatory Commission establish metrics to gauge whether its recruitment and retention efforts are meeting its current and future workforce needs, as well as complete its work on a strategic workforce planning tool by early 2027. The report shed some light on the challenges the NRC has faced in recruiting and retaining employees while implementing Executive Order 14300 and 2024’s ADVANCE Act while experiencing competition from within the nuclear industry. The agency had a net loss of roughly 500 employees from July 2024 through June of this year, the GAO found.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-05/article-8460/gao-report-looks-at-nrc-workforce-recruitment-and-retention/",
+    "timestamp": "2026-10-05T13:17:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-05/article-8460/gao-report-looks-at-nrc-workforce-recruitment-and-retention/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-05T13:17:26Z",
+    "id": "energy-1ae060b394aae6d5"
+  },
+  {
+    "title": "CEBA and DCC Letter to the PJM Board concerning a unified queue process in the large load Show Cause Order",
+    "summary": "Updated Date: 10.05.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261005-ceba-dcc-letter-to-pjm-board-re-ll-show-cause-response.pdf",
+    "timestamp": "2026-10-05T11:46:25Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261005-ceba-dcc-letter-to-pjm-board-re-ll-show-cause-response.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-10-05T11:46:25Z",
+    "id": "energy-3c2ee8df04c504b2"
+  },
+  {
+    "title": "David Borde named president and CEO of Entergy Texas",
+    "summary": "David Borde has been named president and CEO of Entergy Texas, succeeding Eliecer Viamontes. The change is effective Oct. 5. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/borde-named-president-and-ceo-of-entergy-texas",
+    "timestamp": "2026-10-05T10:42:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/borde-named-president-and-ceo-of-entergy-texas"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-05T10:42:28Z",
+    "id": "energy-7cedf2eb432dbe9c"
   },
   {
     "title": "From high seas to the power grid: meet Entergy Texas’ Lineman of the Game",
@@ -88,97 +202,5 @@
     ],
     "data_as_of": "2026-10-02T19:12:27Z",
     "id": "energy-f9360869c30b7451"
-  },
-  {
-    "title": "California bills consider new nuclear power plant and plan for the future of fusion",
-    "summary": "On Wednesday, California Gov. Gavin Newsom signed two bills that could shape the future of nuclear fission and fusion energy in the state. One bill directs the state to conduct a formal assessment of whether new nuclear plants and advanced nuclear technologies could help meet California's clean-energy goals and support critical infrastructure. The other establishes a state fusion energy strategic planning process and directs development of a regulatory framework for fusion energy.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-02/article-8456/california-bills-consider-new-nuclear-power-plant-and-plan-for-the-future-of-fusion/",
-    "timestamp": "2026-10-02T17:35:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-02/article-8456/california-bills-consider-new-nuclear-power-plant-and-plan-for-the-future-of-fusion/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-02T17:35:02Z",
-    "id": "energy-30b58162de9bae9d"
-  },
-  {
-    "title": "Enterprise environmental and safety organizations making strides in workforce development through internships",
-    "summary": "Every summer, Entergy welcomes a new class of interns eager to apply classroom knowledge to real-world challenges. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/enterprise-environmental-and-safety-organizations-making-strides-in-workforce-development-through-internships",
-    "timestamp": "2026-10-02T16:09:52Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/enterprise-environmental-and-safety-organizations-making-strides-in-workforce-development-through-internships"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-02T16:09:52Z",
-    "id": "energy-31278eaacbbbd88b"
-  },
-  {
-    "title": "September speaker roundup: ISO-NE staff discuss the future of the electric grid",
-    "summary": "A roundup of ISO-NE staff speaking engagements in September 2026. The post September speaker roundup: ISO-NE staff discuss the future of the electric grid appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/02/september-speaker-roundup-iso-ne-staff-discuss-the-future-of-the-electric-grid/",
-    "timestamp": "2026-10-02T14:35:53Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/02/september-speaker-roundup-iso-ne-staff-discuss-the-future-of-the-electric-grid/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-02T14:35:53Z",
-    "id": "energy-6f268ee8eb2f1ee1"
-  },
-  {
-    "title": "ACES gives Arkansas students a firsthand look at careers in energy",
-    "summary": "For four University of Arkansas at Pine Bluff students, the Accessing Careers in Energy Summit (ACES) is providing more than an introduction to the energy industry. It’s giving them a chance to see firsthand how their skills and interests can translate into careers that help power their communities. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/aces-gives-arkansas-students-a-firsthand-look-at-careers-in-energy",
-    "timestamp": "2026-10-01T20:35:18Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/aces-gives-arkansas-students-a-firsthand-look-at-careers-in-energy"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-01T20:35:18Z",
-    "id": "energy-07a7b258ead1622f"
   }
 ]
