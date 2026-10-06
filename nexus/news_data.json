@@ -1,5 +1,93 @@
 [
   {
+    "title": "Vistra gets $4.2B DOE loan for planned uprates in Ohio, Pennsylvania",
+    "summary": "Vistra is set to receive an approximately $4.2 billion loan from the Department of Energy to upgrade and uprate its fleet of nuclear reactors in Pennsylvania and Ohio, the DOE announced Monday. This work will add 433 MW of new nuclear capacity to help meet electricity demand in Pennsylvania, Ohio, and the 13-state PJM region, according to the DOE. It also will preserve 4 GW of existing baseload power and support roughly 3,000 engineering, construction, and planned outage jobs and thousands of other permanent jobs.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-06/article-8464/vistra-gets-42b-doe-loan-for-planned-uprates-in-ohio-pennsylvania/",
+    "timestamp": "2026-10-06T15:35:47Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-06/article-8464/vistra-gets-42b-doe-loan-for-planned-uprates-in-ohio-pennsylvania/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-06T15:35:47Z",
+    "id": "energy-430b0267c442f39b"
+  },
+  {
+    "title": "Monthly wholesale electricity prices and demand in New England, August 2026",
+    "summary": "Wholesale prices were up in both the day-ahead and the real-time markets in August. The post Monthly wholesale electricity prices and demand in New England, August 2026 appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/06/monthly-wholesale-electricity-prices-and-demand-in-new-england-august-2026/",
+    "timestamp": "2026-10-06T12:51:53Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/06/monthly-wholesale-electricity-prices-and-demand-in-new-england-august-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-06T12:51:53Z",
+    "id": "energy-d684afefce2d7a0b"
+  },
+  {
+    "title": "Nano Nuclear seeks to build front-end capabilities with Radnostix assets",
+    "summary": "An image representing the intellectual property assets Nano seeks to acquire, which are associated with Radnostix’s previously planned Lea County, N.M., facility. (Source: Nano Nuclear) Nano Nuclear is continuing its efforts to establish itself in multiple sectors of the nuclear energy industry. On October 1, the company, which is perhaps best known for its efforts to deploy high-temperature gas-cooled microreactors, announced that it had agreed to purchase assets related to Radnostix Inc.'s previously planned deconversion facility in Lea County, N.M.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-06/article-8463/nano-nuclear-seeks-to-build-frontend-capabilities-with-radnostix-assets/",
+    "timestamp": "2026-10-06T12:14:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-06/article-8463/nano-nuclear-seeks-to-build-frontend-capabilities-with-radnostix-assets/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-06T12:14:44Z",
+    "id": "energy-ca10ac2e4d7c3e5c"
+  },
+  {
+    "title": "Details emerge on Valar’s Utah plans",
+    "summary": "Last week, NPR reported that reactor start-up Valar Atomics is planning to construct a new facility in Utah that would feature 456 of its reactors. This campus, called Project Beehive, would sit on more than 9,000 acres of Bureau of Land Management land and would feature co-located data centers and a fuel production facility.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-05/article-8462/details-emerge-on-valars-utah-plans/",
+    "timestamp": "2026-10-05T20:15:08Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-05/article-8462/details-emerge-on-valars-utah-plans/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-05T20:15:08Z",
+    "id": "energy-6a11ce15ef433308"
+  },
+  {
     "title": "Keep your family safe as fall brings new routines, shorter days and cooler temperatures",
     "summary": "As cool breezes blow in, families turn the page from summer fun to a host of activities that take advantage of the fall season, from pumpkin spice everything to hayrides, fall festivals and football. Amid all the excitement, keep safety first to make sure your memories are about the experience and not a trip to the E.R. Entergy Mississippi offers these tips for keeping your family safe through it all. Source",
     "source": "Entergy",
@@ -46,72 +134,6 @@
     "id": "energy-c3d733f359294771"
   },
   {
-    "title": "Berkeley opens FLiNaK test bed",
-    "summary": "The University of California–Berkeley now has a forced-flow molten fluoride salt test bed that circulates molten FLiNaK—a salt mixture containing lithium fluoride, sodium fluoride, and potassium fluoride—under conditions representative of many molten-salt nuclear energy applications. Established by Berkeley professor Guanyu Su, the facility can operate between 500°C and 700°C, reach flow rates of up to 60 liters per minute, and maintain a temperature difference of up to 100 K between its hot and cold legs, according to the university.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-05/article-8461/berkeley-opens-flinak-test-bed/",
-    "timestamp": "2026-10-05T17:22:58Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-05/article-8461/berkeley-opens-flinak-test-bed/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-05T17:22:58Z",
-    "id": "energy-45f6e40f56012ce8"
-  },
-  {
-    "title": "Sustaining communities",
-    "summary": "Mark Peterspresident@ans.org The theme of this month’s issue of Nuclear News is plant maintenance, highlighting the teams that keep our operating fleet in good working order. As this month’s features make clear, plant maintenance is anything but simple. It may not produce the flashiest milestones or attract the most public attention, but it is what makes those milestones possible. The same principle applies beyond pipes, pumps, and valves. Physical systems endure because we give them sustained attention and investment; our professional communities require the same. They are where the connections that strengthen the nuclear field are sustained over time. I was reminded of that this month when I had the privilege of visiting and speaking with the Virginia Section of the American Nuclear Society as it marked a remarkable milestone: 70 years since its founding.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-05/article-8406/sustaining-communities/",
-    "timestamp": "2026-10-05T14:56:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-05/article-8406/sustaining-communities/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-05T14:56:21Z",
-    "id": "energy-1538ccb1a5aeb9bf"
-  },
-  {
-    "title": "GAO report looks at NRC workforce recruitment and retention",
-    "summary": "A recently released report from the U.S. Government Accountability Office recommends that the Nuclear Regulatory Commission establish metrics to gauge whether its recruitment and retention efforts are meeting its current and future workforce needs, as well as complete its work on a strategic workforce planning tool by early 2027. The report shed some light on the challenges the NRC has faced in recruiting and retaining employees while implementing Executive Order 14300 and 2024’s ADVANCE Act while experiencing competition from within the nuclear industry. The agency had a net loss of roughly 500 employees from July 2024 through June of this year, the GAO found.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-05/article-8460/gao-report-looks-at-nrc-workforce-recruitment-and-retention/",
-    "timestamp": "2026-10-05T13:17:26Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-05/article-8460/gao-report-looks-at-nrc-workforce-recruitment-and-retention/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-05T13:17:26Z",
-    "id": "energy-1ae060b394aae6d5"
-  },
-  {
     "title": "CEBA and DCC Letter to the PJM Board concerning a unified queue process in the large load Show Cause Order",
     "summary": "Updated Date: 10.05.2026",
     "source": "PJM Public Disclosures",
@@ -156,51 +178,5 @@
     ],
     "data_as_of": "2026-10-05T10:42:28Z",
     "id": "energy-7cedf2eb432dbe9c"
-  },
-  {
-    "title": "From high seas to the power grid: meet Entergy Texas’ Lineman of the Game",
-    "summary": "Navy veteran and Conroe substation technician Johnny Nesmith recognized as Lineman of the Game Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/from-high-seas-to-the-power-grid-meet-entergy-texas-lineman-of-the-game",
-    "timestamp": "2026-10-02T20:01:23Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/from-high-seas-to-the-power-grid-meet-entergy-texas-lineman-of-the-game"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-02T20:01:23Z",
-    "id": "energy-fc735d2661690bb5"
-  },
-  {
-    "title": "Interactive heatmap provides insights into what areas of the New England grid might best support new capacity",
-    "summary": "The heatmap is one of two new maps highlighting geographical information about the regional interconnection process. The post Interactive heatmap provides insights into what areas of the New England grid might best support new capacity appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/02/interactive-heatmap-provides-insights-into-what-areas-of-the-new-england-grid-might-best-support-new-capacity/",
-    "timestamp": "2026-10-02T19:12:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/02/interactive-heatmap-provides-insights-into-what-areas-of-the-new-england-grid-might-best-support-new-capacity/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-02T19:12:27Z",
-    "id": "energy-f9360869c30b7451"
   }
 ]
