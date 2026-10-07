@@ -1,16 +1,62 @@
 [
   {
-    "title": "Vistra gets $4.2B DOE loan for planned uprates in Ohio, Pennsylvania",
-    "summary": "Vistra is set to receive an approximately $4.2 billion loan from the Department of Energy to upgrade and uprate its fleet of nuclear reactors in Pennsylvania and Ohio, the DOE announced Monday. This work will add 433 MW of new nuclear capacity to help meet electricity demand in Pennsylvania, Ohio, and the 13-state PJM region, according to the DOE. It also will preserve 4 GW of existing baseload power and support roughly 3,000 engineering, construction, and planned outage jobs and thousands of other permanent jobs.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-06/article-8464/vistra-gets-42b-doe-loan-for-planned-uprates-in-ohio-pennsylvania/",
-    "timestamp": "2026-10-06T15:35:47Z",
+    "title": "Manufactured homes and energy-saving solutions",
+    "summary": "The Entergy Arkansas Manufactured Homes Program offers a variety of energy-saving products and services to owners and residents, from faucet aerators to advanced power strips. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/manufactured-homes-and-energy-saving-solutions-2",
+    "timestamp": "2026-10-07T15:44:06Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-06/article-8464/vistra-gets-42b-doe-loan-for-planned-uprates-in-ohio-pennsylvania/"
+      "https://www.entergy.com/blog/manufactured-homes-and-energy-saving-solutions-2"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-07T15:44:06Z",
+    "id": "energy-21a293cf9a4004cb"
+  },
+  {
+    "title": "ISO Minute: From intern to employee",
+    "summary": "Emily Laput shares how her internship helped shape her career and ultimately brought her back to ISO New England. The post ISO Minute: From intern to employee appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/07/iso-minute-from-intern-to-employee/",
+    "timestamp": "2026-10-07T15:34:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/07/iso-minute-from-intern-to-employee/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-07T15:34:02Z",
+    "id": "energy-2823d700cad05c8c"
+  },
+  {
+    "title": "ITER welcomes last major component needed for core machine assembly",
+    "summary": "The ninth and final vacuum vessel segment for the ITER fusion machine—vacuum vessel sector #2—has been delivered to the ITER Organization’s site at Cadarache, in southern France. With this delivery, all major components are now on-site for the construction of the “core machine” of the international project—including the vacuum vessel, superconducting magnets, and cryostat.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-07/article-8469/iter-welcomes-last-major-component-needed-for-core-machine-assembly/",
+    "timestamp": "2026-10-07T15:29:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-07/article-8469/iter-welcomes-last-major-component-needed-for-core-machine-assembly/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +64,76 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-06T15:35:47Z",
-    "id": "energy-430b0267c442f39b"
+    "data_as_of": "2026-10-07T15:29:02Z",
+    "id": "energy-179be140e23f0173"
+  },
+  {
+    "title": "Eliminating Heat Risks in Nuclear Cleanup: A DOE Contractor’s High-Tech Blueprint",
+    "summary": "For organizations like the Savannah River Mission Completion (SRMC), a liquid waste contractor for the U.S. Department of Energy (DOE) Office of Environmental Management at the Savannah River Site (SRS) in Aiken, South Carolina, the summer season poses significant challenges for their workforce. In 2025, safety leaders sought to expand the current heat safety program and find a solution that would integrate proactive methods of heat stress mitigation across their 310-square-mile work site.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-07/article-8457/eliminating-heat-risks-in-nuclear-cleanup-a-doe-contractors-hightech-blueprint/",
+    "timestamp": "2026-10-07T14:00:17Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-07/article-8457/eliminating-heat-risks-in-nuclear-cleanup-a-doe-contractors-hightech-blueprint/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-07T14:00:17Z",
+    "id": "energy-61b134de4163e194"
+  },
+  {
+    "title": "State roundup: New developments in Midwest, New England",
+    "summary": "Power purchase agreements, statewide energy plans, and nuclear energy summits are among the developments in Wisconsin, Missouri, and New England that you may have missed during the early days of fall.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-07/article-8468/state-roundup-new-developments-in-midwest-new-england/",
+    "timestamp": "2026-10-07T12:16:47Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-07/article-8468/state-roundup-new-developments-in-midwest-new-england/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-07T12:16:47Z",
+    "id": "energy-e3619f1b6c6a5518"
+  },
+  {
+    "title": "Celebrate energy awareness month by eliminating energy waste",
+    "summary": "October is Energy Awareness Month, making it the perfect time to tackle vampire power and other forms of energy waste in your home. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/celebrate-energy-awareness-month-by-eliminating-energy-waste-2",
+    "timestamp": "2026-10-06T16:20:29Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/celebrate-energy-awareness-month-by-eliminating-energy-waste-2"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-06T16:20:29Z",
+    "id": "energy-4e8a49825bba2e72"
   },
   {
     "title": "Monthly wholesale electricity prices and demand in New England, August 2026",
@@ -42,50 +156,6 @@
     ],
     "data_as_of": "2026-10-06T12:51:53Z",
     "id": "energy-d684afefce2d7a0b"
-  },
-  {
-    "title": "Nano Nuclear seeks to build front-end capabilities with Radnostix assets",
-    "summary": "An image representing the intellectual property assets Nano seeks to acquire, which are associated with Radnostix’s previously planned Lea County, N.M., facility. (Source: Nano Nuclear) Nano Nuclear is continuing its efforts to establish itself in multiple sectors of the nuclear energy industry. On October 1, the company, which is perhaps best known for its efforts to deploy high-temperature gas-cooled microreactors, announced that it had agreed to purchase assets related to Radnostix Inc.'s previously planned deconversion facility in Lea County, N.M.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-06/article-8463/nano-nuclear-seeks-to-build-frontend-capabilities-with-radnostix-assets/",
-    "timestamp": "2026-10-06T12:14:44Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-06/article-8463/nano-nuclear-seeks-to-build-frontend-capabilities-with-radnostix-assets/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-06T12:14:44Z",
-    "id": "energy-ca10ac2e4d7c3e5c"
-  },
-  {
-    "title": "Details emerge on Valar’s Utah plans",
-    "summary": "Last week, NPR reported that reactor start-up Valar Atomics is planning to construct a new facility in Utah that would feature 456 of its reactors. This campus, called Project Beehive, would sit on more than 9,000 acres of Bureau of Land Management land and would feature co-located data centers and a fuel production facility.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-05/article-8462/details-emerge-on-valars-utah-plans/",
-    "timestamp": "2026-10-05T20:15:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-05/article-8462/details-emerge-on-valars-utah-plans/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-05T20:15:08Z",
-    "id": "energy-6a11ce15ef433308"
   },
   {
     "title": "Keep your family safe as fall brings new routines, shorter days and cooler temperatures",
@@ -154,29 +224,5 @@
     ],
     "data_as_of": "2026-10-05T11:46:25Z",
     "id": "energy-3c2ee8df04c504b2"
-  },
-  {
-    "title": "David Borde named president and CEO of Entergy Texas",
-    "summary": "David Borde has been named president and CEO of Entergy Texas, succeeding Eliecer Viamontes. The change is effective Oct. 5. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/borde-named-president-and-ceo-of-entergy-texas",
-    "timestamp": "2026-10-05T10:42:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/borde-named-president-and-ceo-of-entergy-texas"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-05T10:42:28Z",
-    "id": "energy-7cedf2eb432dbe9c"
   }
 ]
