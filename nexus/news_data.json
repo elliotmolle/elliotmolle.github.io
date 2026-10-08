@@ -1,5 +1,95 @@
 [
   {
+    "title": "DOE announces grants for SiC cladding research and testing",
+    "summary": "On October 5, the Department of Energy announced that it plans to award up to $50 million in grants over three years to support research on the use of silicon carbide (SiC) as fuel cladding material. The DOE touts SiC for what it says is the material’s potential to improve the safety and cost efficiency of light water reactors currently operating in the United States and said that research into SiC cladding could further the development of fuels for forthcoming reactors.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-08/article-8473/doe-announces-grants-for-sic-cladding-research-and-testing/",
+    "timestamp": "2026-10-08T16:00:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-08/article-8473/doe-announces-grants-for-sic-cladding-research-and-testing/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-08T16:00:11Z",
+    "id": "energy-493fee3631eacf1d"
+  },
+  {
+    "title": "Rising together: Collaborative project delivery for the nuclear fleet",
+    "summary": "Karen Fili As the nuclear industry enters one of the most significant investment periods in its history, utilities are managing unprecedented capital portfolios while simultaneously preparing for long-term operation, plant modernization, extended power uprates, digital transformation, workforce challenges, and new nuclear opportunities. No single utility can solve these challenges alone. For the past 30 years, Utilities Service Alliance (USA) has demonstrated that collaboration across utilities creates measurable value. What began as an organization focused on sharing operational excellence has evolved into an alliance that supports nearly every aspect of nuclear performance—from safety culture and operational excellence to maintenance, engineering, equipment reliability, supply chain, and now, to large-scale capital project execution.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-08/article-8405/rising-together-collaborative-project-delivery-for-the-nuclear-fleet/",
+    "timestamp": "2026-10-08T12:43:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-08/article-8405/rising-together-collaborative-project-delivery-for-the-nuclear-fleet/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-08T12:43:57Z",
+    "id": "energy-8befcea30de6645e"
+  },
+  {
+    "title": "Supplier Showcase focus: AI-driven diagnostics",
+    "summary": "The American Nuclear Society is hosting a Supplier Showcase webinar, “From Alarm to Answer: How AI Can Reduce Equipment Load and Enhance Performance,” on October 13, from 1:00 p.m. to 2:00 p.m. (CDT) in partnership with Nuclearn, a provider of AI tools purpose-built for the nuclear industry.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-08/article-8472/supplier-showcase-focus-aidriven-diagnostics/",
+    "timestamp": "2026-10-08T12:04:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-08/article-8472/supplier-showcase-focus-aidriven-diagnostics/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-08T12:04:44Z",
+    "id": "energy-50c1e2f777e4df2c"
+  },
+  {
+    "title": "Entergy’s Louisiana utilities monitoring Tropical Storm Isaias",
+    "summary": "Entergy Louisiana and Entergy New Orleans are closely monitoring Tropical Storm Isaias in the Gulf and are preparing for severe weather that could impact our service territory within the next several days. Should the storm impact our service areas, Entergy crews are ready to respond quickly and safely once conditions allow. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergys-louisiana-utilities-monitoring-tropical-storm-isaias",
+    "timestamp": "2026-10-07T18:03:56Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergys-louisiana-utilities-monitoring-tropical-storm-isaias"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-07T18:03:56Z",
+    "id": "energy-e5c0bfed0661a57b"
+  },
+  {
     "title": "Manufactured homes and energy-saving solutions",
     "summary": "The Entergy Arkansas Manufactured Homes Program offers a variety of energy-saving products and services to owners and residents, from faucet aerators to advanced power strips. Source",
     "source": "Entergy",
@@ -46,83 +136,17 @@
     "id": "energy-2823d700cad05c8c"
   },
   {
-    "title": "ITER welcomes last major component needed for core machine assembly",
-    "summary": "The ninth and final vacuum vessel segment for the ITER fusion machine—vacuum vessel sector #2—has been delivered to the ITER Organization’s site at Cadarache, in southern France. With this delivery, all major components are now on-site for the construction of the “core machine” of the international project—including the vacuum vessel, superconducting magnets, and cryostat.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-07/article-8469/iter-welcomes-last-major-component-needed-for-core-machine-assembly/",
-    "timestamp": "2026-10-07T15:29:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-07/article-8469/iter-welcomes-last-major-component-needed-for-core-machine-assembly/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-07T15:29:02Z",
-    "id": "energy-179be140e23f0173"
-  },
-  {
-    "title": "Eliminating Heat Risks in Nuclear Cleanup: A DOE Contractor’s High-Tech Blueprint",
-    "summary": "For organizations like the Savannah River Mission Completion (SRMC), a liquid waste contractor for the U.S. Department of Energy (DOE) Office of Environmental Management at the Savannah River Site (SRS) in Aiken, South Carolina, the summer season poses significant challenges for their workforce. In 2025, safety leaders sought to expand the current heat safety program and find a solution that would integrate proactive methods of heat stress mitigation across their 310-square-mile work site.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-07/article-8457/eliminating-heat-risks-in-nuclear-cleanup-a-doe-contractors-hightech-blueprint/",
-    "timestamp": "2026-10-07T14:00:17Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-07/article-8457/eliminating-heat-risks-in-nuclear-cleanup-a-doe-contractors-hightech-blueprint/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-07T14:00:17Z",
-    "id": "energy-61b134de4163e194"
-  },
-  {
-    "title": "State roundup: New developments in Midwest, New England",
-    "summary": "Power purchase agreements, statewide energy plans, and nuclear energy summits are among the developments in Wisconsin, Missouri, and New England that you may have missed during the early days of fall.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-07/article-8468/state-roundup-new-developments-in-midwest-new-england/",
-    "timestamp": "2026-10-07T12:16:47Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-07/article-8468/state-roundup-new-developments-in-midwest-new-england/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-07T12:16:47Z",
-    "id": "energy-e3619f1b6c6a5518"
-  },
-  {
-    "title": "Celebrate energy awareness month by eliminating energy waste",
-    "summary": "October is Energy Awareness Month, making it the perfect time to tackle vampire power and other forms of energy waste in your home. Source",
+    "title": "Local workers hired through pre-apprenticeship program at Entergy Mississippi sites",
+    "summary": "TIC is making a significant commitment to hiring locally for Entergy Mississippi’s new infrastructure sites through a pre-apprenticeship construction program. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/celebrate-energy-awareness-month-by-eliminating-energy-waste-2",
-    "timestamp": "2026-10-06T16:20:29Z",
+    "url": "https://www.entergy.com/blog/local-workers-hired-through-pre-apprenticeship-program-at-entergy-mississippi-sites",
+    "timestamp": "2026-10-06T21:34:01Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/celebrate-energy-awareness-month-by-eliminating-energy-waste-2"
+      "https://www.entergy.com/blog/local-workers-hired-through-pre-apprenticeship-program-at-entergy-mississippi-sites"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -132,8 +156,8 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-10-06T16:20:29Z",
-    "id": "energy-4e8a49825bba2e72"
+    "data_as_of": "2026-10-06T21:34:01Z",
+    "id": "energy-2cebef72bac53800"
   },
   {
     "title": "Monthly wholesale electricity prices and demand in New England, August 2026",
@@ -158,30 +182,6 @@
     "id": "energy-d684afefce2d7a0b"
   },
   {
-    "title": "Keep your family safe as fall brings new routines, shorter days and cooler temperatures",
-    "summary": "As cool breezes blow in, families turn the page from summer fun to a host of activities that take advantage of the fall season, from pumpkin spice everything to hayrides, fall festivals and football. Amid all the excitement, keep safety first to make sure your memories are about the experience and not a trip to the E.R. Entergy Mississippi offers these tips for keeping your family safe through it all. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/keep-your-family-safe-as-fall-brings-new-routines-shorter-days-and-cooler-temperatures",
-    "timestamp": "2026-10-05T18:12:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/keep-your-family-safe-as-fall-brings-new-routines-shorter-days-and-cooler-temperatures"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-05T18:12:22Z",
-    "id": "energy-3b4feac9a25ec817"
-  },
-  {
     "title": "ISO-NE Board of Directors to host open meeting",
     "summary": "The meeting takes place Nov. 10 in Boston. A virtual attendance option is also available. The post ISO-NE Board of Directors to host open meeting appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -202,27 +202,5 @@
     ],
     "data_as_of": "2026-10-05T17:54:36Z",
     "id": "energy-c3d733f359294771"
-  },
-  {
-    "title": "CEBA and DCC Letter to the PJM Board concerning a unified queue process in the large load Show Cause Order",
-    "summary": "Updated Date: 10.05.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261005-ceba-dcc-letter-to-pjm-board-re-ll-show-cause-response.pdf",
-    "timestamp": "2026-10-05T11:46:25Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261005-ceba-dcc-letter-to-pjm-board-re-ll-show-cause-response.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-10-05T11:46:25Z",
-    "id": "energy-3c2ee8df04c504b2"
   }
 ]
