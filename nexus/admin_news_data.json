@@ -1,186 +1,354 @@
 [
   {
-    "title": "'Forza Horizon 6' Officially Delayed to 2027 on PS5",
-    "summary": "'Forza Horizon 6' has been officially delayed to January 2027 on PlayStation 5, Sony and Playground Games have confirmed.",
+    "title": "'Celeste's Childhood Drawings' quest walkthrough in Arc Raiders",
+    "summary": "A guide on how to complete the \"Celeste's Childhood Drawings\" quest in Arc Raiders, set on Riven Tides.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/forza-horizon-6-officially-delayed-to-2027-on-ps5/",
-    "timestamp": "2026-10-08T17:11:04Z",
+    "url": "https://www.polygon.com/arc-raiders-celestes-childhood-drawings-quest-walkthrough-hotel-room-customs-house-quay/",
+    "timestamp": "2026-10-09T16:47:50Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/forza-horizon-6-officially-delayed-to-2027-on-ps5/"
+      "https://www.polygon.com/arc-raiders-celestes-childhood-drawings-quest-walkthrough-hotel-room-customs-house-quay/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-08T17:11:04Z",
-    "id": "energy-a169c1d6c6635c20"
+    "data_as_of": "2026-10-09T16:47:50Z",
+    "id": "energy-c634c81fc970be1e"
   },
   {
-    "title": "Another Critical Role Actor Joins The Final Fantasy VII Revelation Cast As Shiva (But Not The Shiva You Think)",
-    "summary": "Hmm, wonder where all this chemistry with Vincent is coming from?",
+    "title": "Gears Of War: E-Day Estimated To Have Sold Just 320,000 Copies Despite Rave Reviews",
+    "summary": "But the Game Pass math is more complicated than you might think",
     "source": "Kotaku",
-    "url": "https://kotaku.com/another-critical-role-actor-joins-the-final-fantasy-vii-revelation-cast-as-shiva-but-not-the-shiva-you-think-2000742683",
-    "timestamp": "2026-10-08T17:10:50Z",
+    "url": "https://kotaku.com/gears-of-war-e-day-estimated-to-have-sold-just-320000-copies-despite-rave-reviews-2000743262",
+    "timestamp": "2026-10-09T16:41:58Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/another-critical-role-actor-joins-the-final-fantasy-vii-revelation-cast-as-shiva-but-not-the-shiva-you-think-2000742683"
+      "https://kotaku.com/gears-of-war-e-day-estimated-to-have-sold-just-320000-copies-despite-rave-reviews-2000743262"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-08T17:10:50Z",
-    "id": "energy-7ee997ce440e131e"
+    "data_as_of": "2026-10-09T16:41:58Z",
+    "id": "energy-ffb595036a43f018"
   },
   {
-    "title": "'Pokémon' 30th Anniversary's Biggest TCG Release Is Already A Confirmed Nightmare",
-    "summary": "Pokémon TCG fans should expect a fiasco for the 30th Anniversary's UPC release on Nov. 6",
+    "title": "'Inscryption' Dev’s Horror Classic Is Now Free to Keep On Steam",
+    "summary": "The meta horror game 'Pony Island' is now free to keep on Steam for a limited time.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-30th-anniversary-upc-ultra-premium-preorder-target-walmart-prices/",
-    "timestamp": "2026-10-08T17:05:30Z",
+    "url": "https://www.polygon.com/pony-island-free-to-keep-steam-inscryption/",
+    "timestamp": "2026-10-09T16:20:01Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/pokemon-30th-anniversary-upc-ultra-premium-preorder-target-walmart-prices/"
+      "https://www.polygon.com/pony-island-free-to-keep-steam-inscryption/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-08T17:05:30Z",
-    "id": "energy-38b496d26ff3357b"
+    "data_as_of": "2026-10-09T16:20:01Z",
+    "id": "energy-c3e127ba9be4a8f0"
   },
   {
-    "title": "Netflix’s Bioshock Movie Just Got an Exciting Update",
-    "summary": "Francis Lawrence, director of Netflix's BioShock movie, says the script is almost complete",
+    "title": "Avatar: Seven Havens Is So Good It’s Been Renewed for Two More Seasons",
+    "summary": "Avatar Studios announced that Seven Havens will get two more season, and there's also a new prequel series in the works.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/bioshock-movie-netflix-director-script-in-progress/",
-    "timestamp": "2026-10-08T17:01:51Z",
+    "url": "https://www.polygon.com/avatar-seven-havens-renewal-nycc-avatar-kuruk/",
+    "timestamp": "2026-10-09T16:15:16Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/bioshock-movie-netflix-director-script-in-progress/"
+      "https://www.polygon.com/avatar-seven-havens-renewal-nycc-avatar-kuruk/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-08T17:01:51Z",
-    "id": "energy-4d99886610ba2dbd"
+    "data_as_of": "2026-10-09T16:15:16Z",
+    "id": "energy-b1a11da065249ac2"
   },
   {
-    "title": "Whistle: Speech to Text in 16.9 MB",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://cactuscompute.com/blog/whistle",
-    "timestamp": "2026-10-08T16:59:39Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://cactuscompute.com/blog/whistle"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-08T16:59:39Z",
-    "id": "energy-c87fa88c5bcb42a2"
-  },
-  {
-    "title": "Travis Willingham On Taking Over Sephiroth In Final Fantasy VII Revelation: ‘There’s Nothing More Dangerous Than The Villain That Doesn’t Need To Shout To Be Heard’",
-    "summary": "The Critical Role star is taking over after previous actor Tyler Hoechlin had to step down",
+    "title": "Crimson Desert Exec Explains The Gulf Between The Mid Review Scores And The 7 Million Sales",
+    "summary": "Launch-day patches were part of the problem",
     "source": "Kotaku",
-    "url": "https://kotaku.com/final-fantasy-7-revelation-sephiroth-new-voice-actor-2000742686",
-    "timestamp": "2026-10-08T16:51:03Z",
+    "url": "https://kotaku.com/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-7-million-sales-2000743258",
+    "timestamp": "2026-10-09T16:11:00Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/final-fantasy-7-revelation-sephiroth-new-voice-actor-2000742686"
+      "https://kotaku.com/crimson-desert-exec-explains-the-gulf-between-the-mid-review-scores-and-the-7-million-sales-2000743258"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-08T16:51:03Z",
-    "id": "energy-46426e1c34fbd519"
+    "data_as_of": "2026-10-09T16:11:00Z",
+    "id": "energy-020238605ba21e3a"
   },
   {
-    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://openrouter.ai/stepfun/step-5-preview",
-    "timestamp": "2026-10-08T16:20:20Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://openrouter.ai/stepfun/step-5-preview"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-08T16:20:20Z",
-    "id": "energy-1ef9296e8cb8a105"
-  },
-  {
-    "title": "7 of the top 10 1v1 players are from saudi (not counting nass, 10th is saudi)",
-    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
+    "title": "Is EU in their NA recycling talent era? Or the rest are simply not good enough?",
+    "summary": "From the rumours, EU teams are: Atow, Zen and Vatira Nass, Oski and Diaz MM, Juicy and Seikoo Joyo, Archie and Oaly Joreuz, Crr and Stizzy Atomik, Dorito and Ajg Nass and Zen are the only players who debuted after the 2022 season, compared to NA who have (Zach, Reveal, Tawk, Wahvey, solar and more) \"not sure of the teams yet\" submitted by /u/Beneficial_Cup_3267 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x0v6j9/7_of_the_top_10_1v1_players_are_from_saudi_not/",
-    "timestamp": "2026-10-08T16:15:56Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x1p39y/is_eu_in_their_na_recycling_talent_era_or_the/",
+    "timestamp": "2026-10-09T15:57:23Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x0v6j9/7_of_the_top_10_1v1_players_are_from_saudi_not/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x1p39y/is_eu_in_their_na_recycling_talent_era_or_the/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-08T16:15:56Z",
-    "id": "energy-bb1798888bb80d6b"
+    "data_as_of": "2026-10-09T15:57:23Z",
+    "id": "energy-07cb44b454e2bc87"
   },
   {
-    "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+    "title": "A statement on the Tor Project's relationship with Mullvad",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
-    "timestamp": "2026-10-08T16:03:33Z",
+    "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+    "timestamp": "2026-10-09T15:49:31Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/"
+      "https://blog.torproject.org/on-tor-relationship-with-mullvad/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-08T16:03:33Z",
-    "id": "energy-6d3204084087fb8a"
+    "data_as_of": "2026-10-09T15:49:31Z",
+    "id": "energy-27da56b8a6a71969"
   },
   {
-    "title": "Blizzard Is Making WoW Forever’s Controversial Skyborne Race Look Worse On Purpose, And That’s A Good Thing",
-    "summary": "Standard-definition elf",
+    "title": "So we going into next season with 4 Super-teams?",
+    "summary": "Are all LANs going to be a competition between Falcons, GM8s, Vitality and Shopify? Does anyone else have a chance against them? submitted by /u/spikyraccoon [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x1ocue/so_we_going_into_next_season_with_4_superteams/",
+    "timestamp": "2026-10-09T15:28:44Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x1ocue/so_we_going_into_next_season_with_4_superteams/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-09T15:28:44Z",
+    "id": "energy-2ef4f933d96e360f"
+  },
+  {
+    "title": "[Sheep Esports] Team Heretics are expected to sign AtomiK, Ajg and Dorito for the RLCS Club Championship",
+    "summary": "submitted by /u/MautOfTheRiver [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x1nzuz/sheep_esports_team_heretics_are_expected_to_sign/",
+    "timestamp": "2026-10-09T15:14:14Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x1nzuz/sheep_esports_team_heretics_are_expected_to_sign/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-09T15:14:14Z",
+    "id": "energy-19c84826696b2ee8"
+  },
+  {
+    "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
+    "timestamp": "2026-10-09T15:05:24Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-09T15:05:24Z",
+    "id": "energy-e4dae59b81d80ea2"
+  },
+  {
+    "title": "Charlie Cox Reveals He’s Already Recorded 40 Hours Of Lines For A Surprise Sega Game",
+    "summary": "The Daredevil and Clair Obscur actor confirmed the new voice acting work during his appearance at NYCC",
     "source": "Kotaku",
-    "url": "https://kotaku.com/blizzard-is-making-wow-forevers-controversial-skyborne-race-look-worse-on-purpose-and-thats-a-good-thing-2000742025",
-    "timestamp": "2026-10-08T16:03:15Z",
+    "url": "https://kotaku.com/charlie-cox-reveals-hes-already-recorded-40-hours-of-lines-for-a-surprise-sega-game-2000742798",
+    "timestamp": "2026-10-09T15:00:04Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/blizzard-is-making-wow-forevers-controversial-skyborne-race-look-worse-on-purpose-and-thats-a-good-thing-2000742025"
+      "https://kotaku.com/charlie-cox-reveals-hes-already-recorded-40-hours-of-lines-for-a-surprise-sega-game-2000742798"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-08T16:03:15Z",
-    "id": "energy-b5137fbc42c185e8"
+    "data_as_of": "2026-10-09T15:00:04Z",
+    "id": "energy-7f6c90fc8fbe3c41"
+  },
+  {
+    "title": "Imposing Sanctions on the International Criminal Court",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
+    "timestamp": "2026-10-09T14:55:57Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-09T14:55:57Z",
+    "id": "energy-e4ee965eefcb9e77"
+  },
+  {
+    "title": "What’s up with the new federal permitting reform bill?",
+    "summary": "A conversation with Daniel Palken of Arnold Ventures.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/whats-up-with-the-new-federal-permitting",
+    "timestamp": "2026-10-09T10:01:37Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/whats-up-with-the-new-federal-permitting"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-10-09T10:01:37Z",
+    "id": "energy-0047d87ecf6fce90"
+  },
+  {
+    "title": "W. A. Production’s $155 Techno Mega Pack is FREE exclusively for BPB readers",
+    "summary": "W. A. Production is offering Techno Mega Pack, a bundle of seven sample packs and a video course, FREE exclusively to Bedroom Producers Blog readers. We’ve teamed up with W. A. Production again following our earlier Combustor giveaway, and this time we have 10,000 redemption codes to share. The bundle is currently listed at $155.85 [...] View post: W. A. Production’s $155 Techno Mega Pack is FREE exclusively for BPB readers",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/09/wa-production-techno-mega-pack/",
+    "timestamp": "2026-10-09T09:42:02Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/09/wa-production-techno-mega-pack/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-09T09:42:02Z",
+    "id": "energy-c63feaa572dd117d"
+  },
+  {
+    "title": "Orra Audio releases Orra Key, a FREE key detection plugin with MIDI chord export",
+    "summary": "Orra Audio has released Orra Key, a free key detection plugin with chord previews and drag-and-drop MIDI export for macOS and Windows. We’ve previously covered the developer’s Tone Zone tonal curve corrector and Orra Pump modulation filter. This latest freebie lets you figure out the key of a sample or loop, then helps you write [...] View post: Orra Audio releases Orra Key, a FREE key detection plugin with MIDI chord export",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/09/orra-key/",
+    "timestamp": "2026-10-09T09:34:42Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/09/orra-key/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-09T09:34:42Z",
+    "id": "energy-4a8aa8eab485b9c9"
+  },
+  {
+    "title": "idealism releases hetki piano plugin with a FREE seven-day trial",
+    "summary": "idealism has released hetki, a character piano plugin for macOS and Windows built around a sampled 1908 Steinway Model O. It costs €24.99 including VAT, and the free seven-day trial lets you try the full instrument without feature restrictions. The piano was recorded at Greystoke Studio in London, and the sessions were engineered by Andy [...] View post: idealism releases hetki piano plugin with a FREE seven-day trial",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/09/idealism-hetki-piano/",
+    "timestamp": "2026-10-09T09:30:28Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/09/idealism-hetki-piano/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-09T09:30:28Z",
+    "id": "energy-852ac19b9e66b70a"
+  },
+  {
+    "title": "Zero-one laws for uniform approximation via Gaussian and Eisenstein integers",
+    "summary": "arXiv:2607.11178v2 Announce Type: replace Abstract: We establish two distinct zero-one laws for the uniform Diophantine approximation of complex numbers by quotients of Gaussian integers and by quotients of Eisenstein integers. Using tools from homogeneous dynamics, we study this problem by reducing it to a shrinking target problem on certain homogeneous spaces of $\\mathrm{SL}_2(\\mathbb{C})$. The main novel ingredients include measure estimates on a certain family of neighborhoods of the corresponding critical loci, as well as new disjointness statements to control the short-range mixing contribution. Due to the different nature of the critical loci in the Gaussian and Eisenstein cases, these measure estimates are obtained by rather different arguments.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2607.11178",
+    "timestamp": "2026-10-09T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2607.11178"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-09T04:00:00Z",
+    "id": "energy-cdfa0a5cbadc86d5"
+  },
+  {
+    "title": "Wrinkling of a bilayered cylinder under tension",
+    "summary": "arXiv:2610.11681v1 Announce Type: new Abstract: We study near-surface tension instabilities in bilayered cylinders composed of an incompressible core coated with a thin compressible film. In theory, circumferential wrinkles with axial wavefronts may appear on the outer surface when the cylinder is stretched. We analyze these instabilities through modelling, numerics, finite element simulations, and controlled experiments. We show that the wrinkle amplitude and wavelength depend on the Poisson ratio of the coating and the ratio of the film and substrate shear moduli. We find that the lower the film's Poisson ratio, the earlier the wrinkles emerge under tension. This observation motivates us to use auxetic films (with negative Poisson ratios) with bespoke microstructures in the finite element simulations and the experiments. For the latter, we fabricated 3D-printed soft cylinders with stiff auxetic outer layers and subjected them to axial loading. Although simulations predicted clear wrinkle formation, experimental observation proved more elusive due to the small amplitude of the wrinkles.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.11681",
+    "timestamp": "2026-10-09T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.11681"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-09T04:00:00Z",
+    "id": "energy-402964ce6fbbda14"
+  },
+  {
+    "title": "Witnessing Quantum Bayesian Inference beyond Classical Learning",
+    "summary": "arXiv:2610.09293v2 Announce Type: replace-cross Abstract: Can an agent's predictions reveal whether its reasoning is based on a classical or a quantum model? Using known results on matrix factorizations, here we show that quantum Bayesian retrodiction can produce one-step-ahead forecasts incompatible with every classical Bayesian explanation based on learning about a fixed but unknown sampling law from conditionally independent observations. The separation has a sharp threshold in the number of outcomes: for any measurement with at most four outcomes, the quantum predictions admit a classical realization, irrespective of the prior state and the finite Hilbert-space dimension, whereas a five-outcome measurement on a single qubit already violates an explicit classical bound. This bound holds for arbitrary classical latent states, prior probabilities, and sampling laws, and involves only the agent's initial and updated predictions. Thus, in this setting, quantum Bayesian retrodiction is strictly more expressive than classical Bayesian learning, and this difference can be witnessed without observing or specifying the agent's internal description.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.09293",
+    "timestamp": "2026-10-09T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.09293"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-09T04:00:00Z",
+    "id": "energy-14d435ddc41c263d"
   },
   {
     "title": "Mixed Reactions At FERC To MISO’s One-Time Amnesty Plan For 2022 Queue Cycle, Restudy Cap",
@@ -244,156 +412,6 @@
     ],
     "data_as_of": "2026-10-08T14:33:35Z",
     "id": "energy-9d7786eede1f7f83"
-  },
-  {
-    "title": "Yujin LFT and apologizes to teammates for not being a good teammate.",
-    "summary": "submitted by /u/Huge-Computer2037 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x0rxl7/yujin_lft_and_apologizes_to_teammates_for_not/",
-    "timestamp": "2026-10-08T14:10:00Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x0rxl7/yujin_lft_and_apologizes_to_teammates_for_not/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-08T14:10:00Z",
-    "id": "energy-57a363c7e4cb0966"
-  },
-  {
-    "title": "UVI Prisma is FREE at Loot Audio for a limited time",
-    "summary": "Loot Audio is offering UVI Prisma, a sample-based instrument for macOS and Windows, for free again after the first batch of giveaway codes ran out quickly. The offer is exclusive to Loot Audio, and the restock gives anyone who missed it another chance. Thanks to Bobay for sharing the original offer in our October Deals [...] View post: UVI Prisma is FREE at Loot Audio for a limited time",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/08/uvi-prisma-free/",
-    "timestamp": "2026-10-08T13:23:37Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/08/uvi-prisma-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-08T13:23:37Z",
-    "id": "energy-377a1d80a8e4690a"
-  },
-  {
-    "title": "Bassliner MIDI bassline generator is only €19 for BPB readers",
-    "summary": "Dreeemwave has brought back its exclusive BPB reader discount on Bassliner, a MIDI bassline generator for macOS and Windows. Use the coupon BPB25 at checkout to get Bassliner for €19, down from the regular €24. The code from our June offer is active again, so there’s another chance to grab it if you missed it [...] View post: Bassliner MIDI bassline generator is only €19 for BPB readers",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/08/bassliner-midi-deal/",
-    "timestamp": "2026-10-08T11:29:51Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/08/bassliner-midi-deal/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-08T11:29:51Z",
-    "id": "energy-e9e85e0df748f667"
-  },
-  {
-    "title": "Våld Labs releases Ravik drum synthesizer as a FREE public beta",
-    "summary": "Våld Labs has released Ravik, an eight-channel drum synthesizer with generative sequencing, as a free public beta for macOS, Windows, and iOS. It’s still in beta, and I don’t think the final version will be free, but the current version is already fun for experimenting with drum synthesis. It’s definitely worth a look if you’re [...] View post: Våld Labs releases Ravik drum synthesizer as a FREE public beta",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/08/vald-labs-ravik-beta/",
-    "timestamp": "2026-10-08T11:27:16Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/08/vald-labs-ravik-beta/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-08T11:27:16Z",
-    "id": "energy-9d2c55ff19180c17"
-  },
-  {
-    "title": "M0nkey M00n tweet about his off-season",
-    "summary": "submitted by /u/MautOfTheRiver [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x0nr0k/m0nkey_m00n_tweet_about_his_offseason/",
-    "timestamp": "2026-10-08T10:48:36Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x0nr0k/m0nkey_m00n_tweet_about_his_offseason/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-08T10:48:36Z",
-    "id": "energy-7956cb558969d088"
-  },
-  {
-    "title": "Zero-surgery characterises Whitehead doubles",
-    "summary": "arXiv:2610.10338v1 Announce Type: new Abstract: We show that zero is a characterising slope for the untwisted Whitehead double of any knot $K$. More generally, this holds for all $n$-twisted Whitehead doubles of $K$, with the assumption that $n\\ne pq$ if $K$ is a non-trivial $(p,q)$-torus knot or $(p,q)$-cable. In particular, zero is a characterising slope for all twist knots.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.10338",
-    "timestamp": "2026-10-08T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.10338"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-08T04:00:00Z",
-    "id": "energy-300c164f5a66ea27"
-  },
-  {
-    "title": "Zelevinsky Duality on Basic Local Shimura Varieties",
-    "summary": "arXiv:2109.01213v3 Announce Type: replace Abstract: We give a simple proof of a general result describing the action of the Zelevinsky involution on the cohomology of certain basic local Shimura varieties, using the machinery of Fargues-Scholze. As an application, we generalize earlier results of Fargues and Mieda on the action of the Zelevinsky involution on the cohomology of $GL_{n}$ and $GSp_{4}$ type basic local Shimura varieties, respectively.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2109.01213",
-    "timestamp": "2026-10-08T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2109.01213"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-08T04:00:00Z",
-    "id": "energy-a00d28902ef56aba"
-  },
-  {
-    "title": "Worldsheets reconstructed: Duals to two-cut matrix models",
-    "summary": "arXiv:2610.08913v1 Announce Type: cross Abstract: We compute the higher-rank translation ($\\mathcal{T}$) and rotation ($\\mathcal{R}$) matrices associated with a genus-one spectral curve. Using these data, we reconstruct the worldsheet correlators of vertex operators in the corresponding supersymmetric Landau--Ginzburg (LG) theory. This provides a generalization of the genus-zero, one-cut spectral-curve construction to higher-genus geometries. The matrix-model correlators are mapped to integrals over the moduli space of Riemann surfaces for the symmetric sextic double-well potential, which has a double-cut solution. We further identify the rational and elliptic contributions to the worldsheet integrated vertex operators and show that each of the sector precisely matches the corresponding correlators of single-trace operators in the matrix model. Altogether, our construction showcases an explicit dictionary between the higher-genus spectral-curve data, the associated Cohomological field theory (CohFT), and the worldsheet description of the corresponding matrix-model observables.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.08913",
-    "timestamp": "2026-10-08T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.08913"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-08T04:00:00Z",
-    "id": "energy-a4c71831a34a80bb"
   },
   {
     "title": "The grueling fight to pass the Inflation Reduction Act",

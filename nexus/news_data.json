@@ -1,16 +1,16 @@
 [
   {
-    "title": "DOE announces grants for SiC cladding research and testing",
-    "summary": "On October 5, the Department of Energy announced that it plans to award up to $50 million in grants over three years to support research on the use of silicon carbide (SiC) as fuel cladding material. The DOE touts SiC for what it says is the material’s potential to improve the safety and cost efficiency of light water reactors currently operating in the United States and said that research into SiC cladding could further the development of fuels for forthcoming reactors.",
+    "title": "Researchers in Vienna and Beijing report nuclear clock “milestone”",
+    "summary": "Two papers published recently in Nature report what the journal describes as “the first implementation of a nuclear clock, a milestone in the field of metrology.” The research behind both papers involve the radioisotope thorium-229. “A thorium-229 optical nuclear clock with feedback loop,” by Luca Toscani de Col et al., describes research led by a team from the Vienna Center for Quantum Science and Technology in Austria. “A nuclear clock synchronized to 229Th,” by Beichen Huang et al., describes research by a team from Tsinghua University and the Beijing Academy of Quantum Information Sciences in China.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-08/article-8473/doe-announces-grants-for-sic-cladding-research-and-testing/",
-    "timestamp": "2026-10-08T16:00:11Z",
+    "url": "https://www.ans.org/news/2026-10-09/article-8477/researchers-in-vienna-and-beijing-report-nuclear-clock-milestone/",
+    "timestamp": "2026-10-09T14:32:41Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-08/article-8473/doe-announces-grants-for-sic-cladding-research-and-testing/"
+      "https://www.ans.org/news/2026-10-09/article-8477/researchers-in-vienna-and-beijing-report-nuclear-clock-milestone/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,43 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-08T16:00:11Z",
-    "id": "energy-493fee3631eacf1d"
+    "data_as_of": "2026-10-09T14:32:41Z",
+    "id": "energy-7be3987710075b74"
   },
   {
-    "title": "Rising together: Collaborative project delivery for the nuclear fleet",
-    "summary": "Karen Fili As the nuclear industry enters one of the most significant investment periods in its history, utilities are managing unprecedented capital portfolios while simultaneously preparing for long-term operation, plant modernization, extended power uprates, digital transformation, workforce challenges, and new nuclear opportunities. No single utility can solve these challenges alone. For the past 30 years, Utilities Service Alliance (USA) has demonstrated that collaboration across utilities creates measurable value. What began as an organization focused on sharing operational excellence has evolved into an alliance that supports nearly every aspect of nuclear performance—from safety culture and operational excellence to maintenance, engineering, equipment reliability, supply chain, and now, to large-scale capital project execution.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-08/article-8405/rising-together-collaborative-project-delivery-for-the-nuclear-fleet/",
-    "timestamp": "2026-10-08T12:43:57Z",
+    "title": "Training resources available on cluster study interconnection process",
+    "summary": "New training resources provide information on ISO New England’s cluster study interconnection process and support use of the GridInterConnect for Transmission system. For additional information, visit the Order No. 2023 Key Project page or browse other training materials on Order No. 2023 and the interconnection process. ISO New England offers a variety of training resources to help participants understand the region’s wholesale electricity market and power system. Is there something specific you’d like to see? Take a short survey to provide your feedback. To… The post Training resources available on cluster study interconnection process appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/09/training-resources-available-on-cluster-study-interconnection-process/",
+    "timestamp": "2026-10-09T14:27:19Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-08/article-8405/rising-together-collaborative-project-delivery-for-the-nuclear-fleet/"
+      "https://isonewswire.com/2026/10/09/training-resources-available-on-cluster-study-interconnection-process/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-09T14:27:19Z",
+    "id": "energy-733767c53b9daa1b"
+  },
+  {
+    "title": "Danish Decommissioning files final repository proposal",
+    "summary": "Plans for Denmark to establish a final repository for its nuclear waste moved forward on October 2, when state-owned entity Danish Decommissioning announced that it had submitted a proposal for such a facility to the Danish Agency for Civil Security. The proposal marks a continuation of efforts that began in 2018 with the Danish Parliament’s passage of Proposal B 90. That legislation called for geological assessments of sites in Denmark to a depth of 500 meters, the goal being to support construction of a deep geological repository that would be operational by 2073.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-09/article-8476/danish-decommissioning-files-final-repository-proposal/",
+    "timestamp": "2026-10-09T12:09:46Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-09/article-8476/danish-decommissioning-files-final-repository-proposal/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +62,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-08T12:43:57Z",
-    "id": "energy-8befcea30de6645e"
+    "data_as_of": "2026-10-09T12:09:46Z",
+    "id": "energy-1ed75dab0f2af246"
   },
   {
-    "title": "Supplier Showcase focus: AI-driven diagnostics",
-    "summary": "The American Nuclear Society is hosting a Supplier Showcase webinar, “From Alarm to Answer: How AI Can Reduce Equipment Load and Enhance Performance,” on October 13, from 1:00 p.m. to 2:00 p.m. (CDT) in partnership with Nuclearn, a provider of AI tools purpose-built for the nuclear industry.",
+    "title": "NRC reviews LAR on Palisades fuel loading incident, as Pioneer SMR application advances",
+    "summary": "The Nuclear Regulatory Commission is reviewing a license amendment request (LAR) Holtec submitted in the aftermath of a fuel loading incident that has paused some of the restart work at the Palisades nuclear power plant in Covert, Mich.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-08/article-8472/supplier-showcase-focus-aidriven-diagnostics/",
-    "timestamp": "2026-10-08T12:04:44Z",
+    "url": "https://www.ans.org/news/2026-10-08/article-8474/nrc-reviews-lar-on-palisades-fuel-loading-incident-as-pioneer-smr-application-advances/",
+    "timestamp": "2026-10-08T21:18:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-08/article-8472/supplier-showcase-focus-aidriven-diagnostics/"
+      "https://www.ans.org/news/2026-10-08/article-8474/nrc-reviews-lar-on-palisades-fuel-loading-incident-as-pioneer-smr-application-advances/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,21 +84,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-08T12:04:44Z",
-    "id": "energy-50c1e2f777e4df2c"
+    "data_as_of": "2026-10-08T21:18:22Z",
+    "id": "energy-477ef844283b1b87"
   },
   {
-    "title": "Entergy’s Louisiana utilities monitoring Tropical Storm Isaias",
-    "summary": "Entergy Louisiana and Entergy New Orleans are closely monitoring Tropical Storm Isaias in the Gulf and are preparing for severe weather that could impact our service territory within the next several days. Should the storm impact our service areas, Entergy crews are ready to respond quickly and safely once conditions allow. Source",
+    "title": "Louisiana roots, Arkansas service: Landen May named Lineman of the Game",
+    "summary": "Landen May never expected a college side job to lead him to a career in linework — much less to the field at a New Orleans Saints game. But on October 11, the Louisiana native and Entergy Arkansas lineman will return to his home state to be recognized as Entergy Arkansas’s Lineman of the Game during the Saints’ matchup against the Minnesota Vikings. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergys-louisiana-utilities-monitoring-tropical-storm-isaias",
-    "timestamp": "2026-10-07T18:03:56Z",
+    "url": "https://www.entergy.com/blog/louisiana-roots-arkansas-service-landen-may-named-lineman-of-the-game",
+    "timestamp": "2026-10-08T20:53:21Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/stormcenter/entergys-louisiana-utilities-monitoring-tropical-storm-isaias"
+      "https://www.entergy.com/blog/louisiana-roots-arkansas-service-landen-may-named-lineman-of-the-game"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -86,21 +108,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-10-07T18:03:56Z",
-    "id": "energy-e5c0bfed0661a57b"
+    "data_as_of": "2026-10-08T20:53:21Z",
+    "id": "energy-24b9e6d156025876"
   },
   {
-    "title": "Manufactured homes and energy-saving solutions",
-    "summary": "The Entergy Arkansas Manufactured Homes Program offers a variety of energy-saving products and services to owners and residents, from faucet aerators to advanced power strips. Source",
+    "title": "Entergy Mississippi monitoring Hurricane Isaias",
+    "summary": "Entergy Mississippi is closely monitoring Hurricane Isaias. Should the storm impact our service areas, Entergy crews are ready to respond quickly and safely once conditions allow. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/manufactured-homes-and-energy-saving-solutions-2",
-    "timestamp": "2026-10-07T15:44:06Z",
+    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-monitoring-hurricane-isaias",
+    "timestamp": "2026-10-08T18:32:32Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/manufactured-homes-and-energy-saving-solutions-2"
+      "https://www.entergy.com/stormcenter/entergy-mississippi-monitoring-hurricane-isaias"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -110,8 +132,32 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-10-07T15:44:06Z",
-    "id": "energy-21a293cf9a4004cb"
+    "data_as_of": "2026-10-08T18:32:32Z",
+    "id": "energy-ee1a408c8b71e6c9"
+  },
+  {
+    "title": "Entergy honored with Chartwell’s Award for Excellence in Customer Value and Strategic Growth",
+    "summary": "Chartwell, a specialized research and information provider focused exclusively on utilities, has recognized Entergy with its 2026 Award for Excellence in Customer Value and Strategic Growth. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-honored-with-chartwells-award-for-excellence-in-customer-value-and-strategic-growth",
+    "timestamp": "2026-10-08T16:09:09Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-honored-with-chartwells-award-for-excellence-in-customer-value-and-strategic-growth"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-08T16:09:09Z",
+    "id": "energy-057ef07b96880223"
   },
   {
     "title": "ISO Minute: From intern to employee",
@@ -134,73 +180,5 @@
     ],
     "data_as_of": "2026-10-07T15:34:02Z",
     "id": "energy-2823d700cad05c8c"
-  },
-  {
-    "title": "Local workers hired through pre-apprenticeship program at Entergy Mississippi sites",
-    "summary": "TIC is making a significant commitment to hiring locally for Entergy Mississippi’s new infrastructure sites through a pre-apprenticeship construction program. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/local-workers-hired-through-pre-apprenticeship-program-at-entergy-mississippi-sites",
-    "timestamp": "2026-10-06T21:34:01Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/local-workers-hired-through-pre-apprenticeship-program-at-entergy-mississippi-sites"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-06T21:34:01Z",
-    "id": "energy-2cebef72bac53800"
-  },
-  {
-    "title": "Monthly wholesale electricity prices and demand in New England, August 2026",
-    "summary": "Wholesale prices were up in both the day-ahead and the real-time markets in August. The post Monthly wholesale electricity prices and demand in New England, August 2026 appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/06/monthly-wholesale-electricity-prices-and-demand-in-new-england-august-2026/",
-    "timestamp": "2026-10-06T12:51:53Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/06/monthly-wholesale-electricity-prices-and-demand-in-new-england-august-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-06T12:51:53Z",
-    "id": "energy-d684afefce2d7a0b"
-  },
-  {
-    "title": "ISO-NE Board of Directors to host open meeting",
-    "summary": "The meeting takes place Nov. 10 in Boston. A virtual attendance option is also available. The post ISO-NE Board of Directors to host open meeting appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/05/iso-ne-board-of-directors-to-host-open-meeting/",
-    "timestamp": "2026-10-05T17:54:36Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/05/iso-ne-board-of-directors-to-host-open-meeting/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-05T17:54:36Z",
-    "id": "energy-c3d733f359294771"
   }
 ]
