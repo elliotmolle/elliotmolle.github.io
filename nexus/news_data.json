@@ -1,16 +1,16 @@
 [
   {
-    "title": "Researchers in Vienna and Beijing report nuclear clock “milestone”",
-    "summary": "Two papers published recently in Nature report what the journal describes as “the first implementation of a nuclear clock, a milestone in the field of metrology.” The research behind both papers involve the radioisotope thorium-229. “A thorium-229 optical nuclear clock with feedback loop,” by Luca Toscani de Col et al., describes research led by a team from the Vienna Center for Quantum Science and Technology in Austria. “A nuclear clock synchronized to 229Th,” by Beichen Huang et al., describes research by a team from Tsinghua University and the Beijing Academy of Quantum Information Sciences in China.",
+    "title": "Seeing more, repairing smarter: How advanced NDE and repair technologies are changing nuclear asset management",
+    "summary": "A single ultrasonic inspection of reactor vessel upper head penetrations can generate more than 7 kilometers of inspection data. Historically, analysts have spent days—even weeks—reviewing those results to identify the few indications that might require further evaluation. In 2025, Vattenfall Nuclear in Sweden demonstrated a different approach. By qualifying and deploying an artificial intelligence/machine learning (AI/ML)–assisted ultrasonic inspection process in collaboration with the Swedish Qualification Centre at Ringhals-3, the utility reduced data review workload by up to 95 percent while maintaining rigorous inspection requirements. A subsequent deployment at Ringhals-4 saved approximately one week on inspection activities.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-09/article-8477/researchers-in-vienna-and-beijing-report-nuclear-clock-milestone/",
-    "timestamp": "2026-10-09T14:32:41Z",
+    "url": "https://www.ans.org/news/2026-10-09/article-8411/seeing-more-repairing-smarter-how-advanced-nde-and-repair-technologies-are-changing-nuclear-asset-management/",
+    "timestamp": "2026-10-09T20:49:01Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-09/article-8477/researchers-in-vienna-and-beijing-report-nuclear-clock-milestone/"
+      "https://www.ans.org/news/2026-10-09/article-8411/seeing-more-repairing-smarter-how-advanced-nde-and-repair-technologies-are-changing-nuclear-asset-management/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,52 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-09T14:32:41Z",
-    "id": "energy-7be3987710075b74"
+    "data_as_of": "2026-10-09T20:49:01Z",
+    "id": "energy-0c29d7bdfe89bb73"
+  },
+  {
+    "title": "Fermi America, Blue Energy make strides in Texas",
+    "summary": "A draft environmental impact statement is now complete for Fermi America’s plan to construct and operate four AP1000 reactors at its Project Matador Advanced Energy and Intelligence Campus in Texas, a project that has seen upheaval along the way, including the ouster of cofounders from their leadership roles.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-09/article-8479/fermi-america-blue-energy-make-strides-in-texas/",
+    "timestamp": "2026-10-09T19:05:29Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-09/article-8479/fermi-america-blue-energy-make-strides-in-texas/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-09T19:05:29Z",
+    "id": "energy-a078ae7a731a250c"
+  },
+  {
+    "title": "General Fusion reports electron temperatures exceeding 1 keV",
+    "summary": "General Fusion announced it has achieved compressional plasma heating that produced electron temperatures exceeding 1 keV, measured using Thomson scattering in collaboration with the U.K. Atomic Energy Authority. The 1 keV threshold is regarded as a key milestone, because it demonstrates the ability to produce and control fusion-relevant plasma temperatures. It was first reported on the Soviet T3 tokamak, announced in 1968 and independently verified by U.K. physicists using Thomson scattering the following year. While not the first fusion company to achieve this threshold, it is a first for General Fusion’s unique magnetized target fusion approach, which uses low-speed compression.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-09/article-8478/general-fusion-reports-electron-temperatures-exceeding-1-kev/",
+    "timestamp": "2026-10-09T17:05:16Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-09/article-8478/general-fusion-reports-electron-temperatures-exceeding-1-kev/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-09T17:05:16Z",
+    "id": "energy-089bc0f1b8da544b"
   },
   {
     "title": "Training resources available on cluster study interconnection process",
@@ -42,50 +86,6 @@
     ],
     "data_as_of": "2026-10-09T14:27:19Z",
     "id": "energy-733767c53b9daa1b"
-  },
-  {
-    "title": "Danish Decommissioning files final repository proposal",
-    "summary": "Plans for Denmark to establish a final repository for its nuclear waste moved forward on October 2, when state-owned entity Danish Decommissioning announced that it had submitted a proposal for such a facility to the Danish Agency for Civil Security. The proposal marks a continuation of efforts that began in 2018 with the Danish Parliament’s passage of Proposal B 90. That legislation called for geological assessments of sites in Denmark to a depth of 500 meters, the goal being to support construction of a deep geological repository that would be operational by 2073.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-09/article-8476/danish-decommissioning-files-final-repository-proposal/",
-    "timestamp": "2026-10-09T12:09:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-09/article-8476/danish-decommissioning-files-final-repository-proposal/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-09T12:09:46Z",
-    "id": "energy-1ed75dab0f2af246"
-  },
-  {
-    "title": "NRC reviews LAR on Palisades fuel loading incident, as Pioneer SMR application advances",
-    "summary": "The Nuclear Regulatory Commission is reviewing a license amendment request (LAR) Holtec submitted in the aftermath of a fuel loading incident that has paused some of the restart work at the Palisades nuclear power plant in Covert, Mich.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-08/article-8474/nrc-reviews-lar-on-palisades-fuel-loading-incident-as-pioneer-smr-application-advances/",
-    "timestamp": "2026-10-08T21:18:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-08/article-8474/nrc-reviews-lar-on-palisades-fuel-loading-incident-as-pioneer-smr-application-advances/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-08T21:18:22Z",
-    "id": "energy-477ef844283b1b87"
   },
   {
     "title": "Louisiana roots, Arkansas service: Landen May named Lineman of the Game",
@@ -158,27 +158,5 @@
     ],
     "data_as_of": "2026-10-08T16:09:09Z",
     "id": "energy-057ef07b96880223"
-  },
-  {
-    "title": "ISO Minute: From intern to employee",
-    "summary": "Emily Laput shares how her internship helped shape her career and ultimately brought her back to ISO New England. The post ISO Minute: From intern to employee appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/07/iso-minute-from-intern-to-employee/",
-    "timestamp": "2026-10-07T15:34:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/07/iso-minute-from-intern-to-employee/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-07T15:34:02Z",
-    "id": "energy-2823d700cad05c8c"
   }
 ]
