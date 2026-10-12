@@ -1,416 +1,416 @@
 [
   {
-    "title": "To Reinvent a Stephen King Classic, Mike Flanagan Needed \"One of the Best Actors I’ve Ever Met\"",
-    "summary": "Prime Video’s Carrie reboot hinges on one major change that only Samantha Sloyan could pull off",
+    "title": "Ben Affleck Names Justice League His Career ‘Low Point’",
+    "summary": "Batman actor Ben Affleck talks candidly about his horrible experiencing with making Justice League under Joss Whedon and Warner Bros.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/carrie-interview-mike-flanagan-samantha-sloyan/",
-    "timestamp": "2026-10-11T16:00:16Z",
+    "url": "https://www.polygon.com/ben-affleck-justice-league-negative-experience-batman-zack-snyder/",
+    "timestamp": "2026-10-12T19:21:25Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/carrie-interview-mike-flanagan-samantha-sloyan/"
+      "https://www.polygon.com/ben-affleck-justice-league-negative-experience-batman-zack-snyder/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-11T16:00:16Z",
-    "id": "energy-0dff4376384347e2"
+    "data_as_of": "2026-10-12T19:21:25Z",
+    "id": "energy-79b7e740fdf0c9fe"
   },
   {
-    "title": "Godzilla Minus Zero's Latest Trailer Continues Teasing A New Monstrous Threat",
-    "summary": "A new threat emerges in the latest trailer for Godzilla Minus Zero, suggesting that Gidorah will show up in the highly-anticipated sequel",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/godzilla-minus-zero-second-trailer/",
-    "timestamp": "2026-10-11T15:15:25Z",
+    "title": "Introducing OpenFatigue",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://openfatigue.ai/",
+    "timestamp": "2026-10-12T19:08:21Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://openfatigue.ai/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-12T19:08:21Z",
+    "id": "energy-648439e309343533"
+  },
+  {
+    "title": "Epic Games Forces Shocked Developers Into ‘AI-First’ Mode For Delayed Shooter Featuring Marvel And Star Wars Characters",
+    "summary": "Even artwork will be generated with AI",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620",
+    "timestamp": "2026-10-12T19:00:43Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/godzilla-minus-zero-second-trailer/"
+      "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-11T15:15:25Z",
-    "id": "energy-2f89d5a58fe3114c"
+    "data_as_of": "2026-10-12T19:00:43Z",
+    "id": "energy-06e8e96b0647a890"
   },
   {
-    "title": "Halo Already Delivered the Perfect Master Chief Origin Story, 25 Years Ago",
-    "summary": "Halo: The Fall of Reach gave Master Chief a definitive origin story 25 years ago — and any new prequel should follow its example.",
+    "title": "Stardew Valley's Monster-Mash Cousin Sets New Release Date",
+    "summary": "Grave Seasons' new 2027 release date is cropping up again, as Perfect Garbage plans to launch its farm-sim horror game in spring.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/halo-activision-master-chief-origin-story-fall-of-reach/",
-    "timestamp": "2026-10-11T15:00:17Z",
+    "url": "https://www.polygon.com/grave-seasons-release-date-trailer/",
+    "timestamp": "2026-10-12T19:00:16Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/halo-activision-master-chief-origin-story-fall-of-reach/"
+      "https://www.polygon.com/grave-seasons-release-date-trailer/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-11T15:00:17Z",
-    "id": "energy-9b11c156e512d25e"
+    "data_as_of": "2026-10-12T19:00:16Z",
+    "id": "energy-d9a29a3e725b9201"
   },
   {
-    "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+    "title": "Final Fantasy Meets Dragon Quest in Square Enix’s Latest ’90s Remake",
+    "summary": "Romancing SaGa 3 combines the best parts of Square Enix's biggest RPG franchises, according to our recent preview.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/romancing-saga-3-preview-nycc/",
+    "timestamp": "2026-10-12T19:00:16Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/romancing-saga-3-preview-nycc/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-12T19:00:16Z",
+    "id": "energy-b9b83915639bfe4f"
+  },
+  {
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-    "timestamp": "2026-10-11T14:28:39Z",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "timestamp": "2026-10-12T18:29:04Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/"
+      "https://github.com/openai/codex/issues/48195"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-11T14:28:39Z",
-    "id": "energy-6d26084d1a8d0a0a"
+    "data_as_of": "2026-10-12T18:29:04Z",
+    "id": "energy-37390c001284750b"
   },
   {
-    "title": "Why Texas Is Making Data Centers Wait",
+    "title": "Publishers Killed the Paperback, Then Blamed Readers",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://a16z.com/why-texas-is-making-data-centers-wait/",
-    "timestamp": "2026-10-11T14:21:31Z",
+    "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+    "timestamp": "2026-10-12T18:27:26Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://a16z.com/why-texas-is-making-data-centers-wait/"
+      "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-11T14:21:31Z",
-    "id": "energy-69b72fb3d7bbd451"
+    "data_as_of": "2026-10-12T18:27:26Z",
+    "id": "energy-23413f4e2d5e8121"
   },
   {
-    "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
-    "timestamp": "2026-10-11T13:28:03Z",
-    "topic": "Computer Science",
+    "title": "The Physical Revolution on Jailbroken PS5s Now Has People Emulating PS3 Discs",
+    "summary": "Coder Swordpdf has released a video showing a physical PS3 copy of Gran Turismo 5 being used to boot the game on PS5s, only three days after dropping the PS5SX2 emulator",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-physical-revolution-on-jailbroken-ps5s-now-has-people-emulating-ps3-discs-2000744606",
+    "timestamp": "2026-10-12T18:00:29Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next"
+      "https://kotaku.com/the-physical-revolution-on-jailbroken-ps5s-now-has-people-emulating-ps3-discs-2000744606"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-11T13:28:03Z",
-    "id": "energy-0ffdf8d6c9245bdd"
+    "data_as_of": "2026-10-12T18:00:29Z",
+    "id": "energy-4288ff0cdcf5104a"
   },
   {
-    "title": "Pointless Audio offers PortaTwin, a FREE Tascam Porta Two-inspired cassette plugin",
-    "summary": "Pointless Audio offers PortaTwin, a free cassette channel strip inspired by the 1987 Tascam Porta Two Ministudio. So, yet another tape emulation has arrived in what feels like a sea of them lately. I’m all for tape emulations, but I feel like there’s hardly anything new to offer in that segment of the plugin market. [...] View post: Pointless Audio offers PortaTwin, a FREE Tascam Porta Two-inspired cassette plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/",
-    "timestamp": "2026-10-11T10:04:04Z",
-    "topic": "Music Production",
+    "title": "Cut Assassin’s Creed Black Flag Resynced Epilogue Seemingly Teases Assassin’s Creed 3 Prequel",
+    "summary": "Assassin's Creed: Freedom Cry's protagonist Adéwalé also makes an appearance in the scrapped scene, which appears to be set two years after the birth of Assassin's Creed III's antagonist Haytham Kenway",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/cut-assassins-creed-black-flag-resynced-epilogue-seemingly-teases-assassins-creed-3-prequel-2000744566",
+    "timestamp": "2026-10-12T17:00:04Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/"
+      "https://kotaku.com/cut-assassins-creed-black-flag-resynced-epilogue-seemingly-teases-assassins-creed-3-prequel-2000744566"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-11T10:04:04Z",
-    "id": "energy-b6760d31612f8e46"
+    "data_as_of": "2026-10-12T17:00:04Z",
+    "id": "energy-c94fcf690af5786f"
   },
   {
-    "title": "SQ8L returns as a FREE 64-bit Ensoniq SQ-80 synth for macOS, Windows, and Linux",
-    "summary": "The free SQ8L synth is back as an unofficial 64-bit port for macOS, Windows, and Linux. Siegfried Kullmann’s original Ensoniq SQ-80 emulation was a 32-bit Windows VST, last updated in 2008. Its source code was never released, so the revival team rebuilt the plugin from the original binary. The current release is still a beta, [...] View post: SQ8L returns as a FREE 64-bit Ensoniq SQ-80 synth for macOS, Windows, and Linux",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/",
-    "timestamp": "2026-10-11T09:45:42Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-11T09:45:42Z",
-    "id": "energy-6f8a50db6ac5fe63"
-  },
-  {
-    "title": "XLN Audio RC-20 Retro Color drops to $29 in a 70% off sale",
-    "summary": "Plugin Boutique is offering XLN Audio RC-20 Retro Color for only $29 until October 16, 2026. That’s 70% off its regular $99 price. You can get RC-20 at Plugin Boutique while the sale is running. We covered a $39 offer in June, and $29 is the lowest price I remember seeing for it. I own [...] View post: XLN Audio RC-20 Retro Color drops to $29 in a 70% off sale",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/11/xln-audio-rc-20-sale/",
-    "timestamp": "2026-10-11T09:21:14Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/11/xln-audio-rc-20-sale/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-11T09:21:14Z",
-    "id": "energy-3e8deebef6794331"
-  },
-  {
-    "title": "Rank Your Top 25 RLCS 3v3 Players going into 2027!",
-    "summary": "Sorry for deleting the previous post, i faced an issue with the website. i listed 37 player for you to rank, feel free to rank who you think is the top 25 players going into 2027. if you think there's a player missing please let me know: https://tally.so/r/PdMlGP -Please Answer This One- H2H Ranking: https://all-our-ideas.citizens.is/group/4095 (This is a new link, the previous one didn't register 4 names. Sorry for the inconvenience) Results will be revealed Later. if you have any suggestion or a better way to do this please let me know! submitted by /u/mrabu3abd12 [link] [comments]",
+    "title": "RLFS S5: Sim 7 Results [Final Bracket - Lower Bracket Quarterfinals]",
+    "summary": "The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. If you'd like to know how the %'s were calculated, click on the 'Match X' link and search for a comment I make in that thread where I adjust the polling numbers to our weighted voting system. This season the RLFS uses the combined-format method in determining final game-win %s. Previous sims from this season Sim 1 - Swiss Round 1 Sim 2- Swiss Round 2 Sim 3 - Swiss Round 3 Sim 4 - Swiss Round 4 Sim 5 - Swiss Round 5 Sim 6 - Upper Bracket Quarterfinals & Lower Brack…",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x32guq/rank_your_top_25_rlcs_3v3_players_going_into_2027/",
-    "timestamp": "2026-10-11T08:03:29Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x47cpf/rlfs_s5_sim_7_results_final_bracket_lower_bracket/",
+    "timestamp": "2026-10-12T16:59:57Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x32guq/rank_your_top_25_rlcs_3v3_players_going_into_2027/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x47cpf/rlfs_s5_sim_7_results_final_bracket_lower_bracket/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-11T08:03:29Z",
-    "id": "energy-8f7dabf74dfe52aa"
+    "data_as_of": "2026-10-12T16:59:57Z",
+    "id": "energy-9c96123e5ccec13d"
   },
   {
-    "title": "The mental wall of rocket league",
-    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "title": "Ghaazi has officially signed as new twisted minds 3rd - Crespor",
+    "summary": "submitted by /u/HimelTy [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x306ac/the_mental_wall_of_rocket_league/",
-    "timestamp": "2026-10-11T05:44:16Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x44i7v/ghaazi_has_officially_signed_as_new_twisted_minds/",
+    "timestamp": "2026-10-12T15:13:40Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x306ac/the_mental_wall_of_rocket_league/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x44i7v/ghaazi_has_officially_signed_as_new_twisted_minds/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-11T05:44:16Z",
-    "id": "energy-2bfa5c8f041ad871"
+    "data_as_of": "2026-10-12T15:13:40Z",
+    "id": "energy-df8a234e44da5af4"
   },
   {
-    "title": "Lj is a stylistic upgrade over chronic and I really like this new fut roster",
-    "summary": "I honestly think jstn and cheese are gonna have a much easier time playing around lj than they did playing with chronic. Jstn is one of the best third men in the game right now which is exactly what lj needs, and cheese, a lot like late career chicago with whom lj was a top 10 player itw with, is fantastic at challenging in the midfield to win possession and create space. Jstn seems to play best when his teammates are motivated and grinding, and lj and cheese are two of the biggest twos grinders there are. Cheese is constantly improving and seemed to take a step up mechanically last season, and lj finally is gonna have his chance to be the main guy again, he can play as first man and not have to worry about stepping on fk’s toes, which will do great things for him as a player. If Lj can adjust quickly and go back to being a guy who beats two as first man and is creative in attack, jstn and cheese are gonna thrive and this fut team is gonna be in contention at the top of the region. Overall really excited for this new fut roster and think they can fight for top 3 or even 2 in NA, and I really hope we get to see LJ back at his best. submitted by /u/McEaglethe7th [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x2zirw/lj_is_a_stylistic_upgrade_over_chronic_and_i/",
-    "timestamp": "2026-10-11T05:05:19Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x2zirw/lj_is_a_stylistic_upgrade_over_chronic_and_i/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-11T05:05:19Z",
-    "id": "energy-35b8577516d2e394"
-  },
-  {
-    "title": "New Deadlock Hero’s Reload Animations Based On Famous Chess Matches",
-    "summary": "From within a closed beta, the board-wielding Solomon already has fans eager to crown him royalty",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/new-deadlock-heros-reload-animations-based-on-famous-chess-matches-2000743806",
-    "timestamp": "2026-10-10T21:30:15Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/new-deadlock-heros-reload-animations-based-on-famous-chess-matches-2000743806"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-10T21:30:15Z",
-    "id": "energy-6c0888e78e8435e6"
-  },
-  {
-    "title": "Ben Affleck’s ‘Ethical AI’ Vehicle Failing To Impress Human Viewers",
-    "summary": "As Affleck seeks to establish a seat for movie stars at AI's table, his use-case political thriller Animals isn't exactly persuasive",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/ben-afflecks-ethical-ai-vehicle-failing-to-impress-human-viewers-2000743803",
-    "timestamp": "2026-10-10T20:30:39Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/ben-afflecks-ethical-ai-vehicle-failing-to-impress-human-viewers-2000743803"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-10T20:30:39Z",
-    "id": "energy-857ae61a35ca85e6"
-  },
-  {
-    "title": "Jailbroken PS5s Can Now Emulate PS2 Games Using Physical Discs",
-    "summary": "Support for PlayStation 3 discs appears to be on the way too",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/jailbroken-ps5s-can-now-emulate-ps2-games-using-physical-discs-2000743781",
-    "timestamp": "2026-10-10T19:51:08Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/jailbroken-ps5s-can-now-emulate-ps2-games-using-physical-discs-2000743781"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-10T19:51:08Z",
-    "id": "energy-e9e29f35d371f48f"
-  },
-  {
-    "title": "MISO Issues Load Pocket Advisories In South For Fifth Straight Day",
-    "summary": "By Ronnie Turner • Region under conservative operations due to hurricane • SPP East under resource advisory through late Oct. 8 The Midcontinent Independent System issued load pocket advisories for its South Region because of tight grid conditions Oct. 8 for the fifth consecutive day, while neighboring Southwest Power Pool’s East balancing authority area remained […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/miso-issues-load-pocket-advisories-in-south-for-fifth-straight-day/",
-    "timestamp": "2026-10-09T14:49:24Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/miso-issues-load-pocket-advisories-in-south-for-fifth-straight-day/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-09T14:49:24Z",
-    "id": "energy-d21f489efef2fae3"
-  },
-  {
-    "title": "Northern USGC To Face Strengthening Hurricane Isaias Oct. 9-10: NHC",
-    "summary": "By Markham Watson, Claudia Acosta, Amy Debayle and Amilcar Flores • Power demand typically drops 20% during landfalls • Natural gas prices show mixed regional trends The US National Hurricane Center on Oct. 8 forecast Hurricane Isaias, currently packing 85-mile-per-hour winds, to strengthen before making landfall along the northern Gulf Coast late Oct. 9 or […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/northern-usgc-to-face-strengthening-hurricane-isaias-oct-9-10-nhc/",
-    "timestamp": "2026-10-09T14:48:52Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/northern-usgc-to-face-strengthening-hurricane-isaias-oct-9-10-nhc/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-09T14:48:52Z",
-    "id": "energy-8d5bf18c13a44c34"
-  },
-  {
-    "title": "Power System Plans To Meet Large-Load Demand Miss Near-Term Solutions: Analysts",
-    "summary": "By Herman K. Trabish Power system planners — including utilities, grid operators and regulators — are racing to develop new ways to bring large loads online faster, but they are often overlooking solutions that could increase capacity quickly while long-term, structural remedies are being negotiated and implemented, analysts and stakeholders told Utility Dive. Shortages of […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/power-system-plans-to-meet-large-load-demand-miss-near-term-solutions-analysts/",
-    "timestamp": "2026-10-09T14:48:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/power-system-plans-to-meet-large-load-demand-miss-near-term-solutions-analysts/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-09T14:48:02Z",
-    "id": "energy-af40721deb09ceb6"
-  },
-  {
-    "title": "What’s up with the new federal permitting reform bill?",
-    "summary": "A conversation with Daniel Palken of Arnold Ventures.",
+    "title": "Volts community thread #31: Postcard from Denmark",
+    "summary": "Open to all free & paid subscribers.",
     "source": "Volts",
-    "url": "https://www.volts.wtf/p/whats-up-with-the-new-federal-permitting",
-    "timestamp": "2026-10-09T10:01:37Z",
+    "url": "https://www.volts.wtf/p/volts-community-thread-31-postcard",
+    "timestamp": "2026-10-12T15:03:51Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.volts.wtf/p/whats-up-with-the-new-federal-permitting"
+      "https://www.volts.wtf/p/volts-community-thread-31-postcard"
     ],
     "source_tier": "opinion",
     "primary_source": false,
-    "data_as_of": "2026-10-09T10:01:37Z",
-    "id": "energy-0047d87ecf6fce90"
+    "data_as_of": "2026-10-12T15:03:51Z",
+    "id": "energy-214d41ddba1717e8"
   },
   {
-    "title": "Zero-one laws for uniform approximation via Gaussian and Eisenstein integers",
-    "summary": "arXiv:2607.11178v2 Announce Type: replace Abstract: We establish two distinct zero-one laws for the uniform Diophantine approximation of complex numbers by quotients of Gaussian integers and by quotients of Eisenstein integers. Using tools from homogeneous dynamics, we study this problem by reducing it to a shrinking target problem on certain homogeneous spaces of $\\mathrm{SL}_2(\\mathbb{C})$. The main novel ingredients include measure estimates on a certain family of neighborhoods of the corresponding critical loci, as well as new disjointness statements to control the short-range mixing contribution. Due to the different nature of the critical loci in the Gaussian and Eisenstein cases, these measure estimates are obtained by rather different arguments.",
+    "title": "MISO Issues Pair Of Grid Advisories On Above-Normal Temperatures, Higher Load",
+    "summary": "By Ronnie Turner • Capacity advisory, conservative operations start Oct. 12 • Indiana Hub on-peak day-ahead power jumps to $111/MWh The Midcontinent Independent System Operator issued a capacity advisory and a conservative operations declaration Oct. 9, due to forecasts of elevated temperatures and load levels across its footprint. MISO declared a capacity advisory for its […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/miso-issues-pair-of-grid-advisories-on-above-normal-temperatures-higher-load/",
+    "timestamp": "2026-10-12T14:53:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/miso-issues-pair-of-grid-advisories-on-above-normal-temperatures-higher-load/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-12T14:53:02Z",
+    "id": "energy-7d143347d468075e"
+  },
+  {
+    "title": "IMM Patton Appears Unfazed By MISO 3rd-Party Review",
+    "summary": "By Michael Brooks Potomac Economics President David Patton apparently is not worried that the third-party “best practices” review of his role as Independent Market Monitor for MISO will result in any significant changes. Why This Matters MISO stakeholder feedback is largely positive about David Patton’s expertise in markets, but there’s disagreement about the Monitor’s role […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/imm-patton-appears-unfazed-by-miso-3rd-party-review/",
+    "timestamp": "2026-10-12T14:52:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/imm-patton-appears-unfazed-by-miso-3rd-party-review/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-12T14:52:02Z",
+    "id": "energy-d8f6332362ec1454"
+  },
+  {
+    "title": "Opinion: Cut Your Losses On Solar Power, Mayor Bowser. D.C. Will Thank You.",
+    "summary": "By Isaac Orr and Mitch Rolling Imagine your state’s lawmakers passed a bill requiring that roughly 4 percent of your groceries on every trip to the store had to be bananas. Worse, each one had to be grown in a local greenhouse for 177 times the price of an import. A $2 bunch would suddenly […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/opinion-cut-your-losses-on-solar-power-mayor-bowser-d-c-will-thank-you/",
+    "timestamp": "2026-10-12T14:51:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/opinion-cut-your-losses-on-solar-power-mayor-bowser-d-c-will-thank-you/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-12T14:51:00Z",
+    "id": "energy-7b2f45cbfa4ad541"
+  },
+  {
+    "title": "Music By Mattie releases magic.METER, a FREE vocal analyzer plugin",
+    "summary": "Music By Mattie has released magic.METER, a free plugin that compares your vocal mix with measurements from 3,054 hit songs. Learning to trust your ears is the most important part of mixing and producing music. But I’ve always found vocals harder to mix than guitars, drums, or bass. We bedroom producers rarely have access to [...] View post: Music By Mattie releases magic.METER, a FREE vocal analyzer plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/12/music-by-mattie-magic-meter/",
+    "timestamp": "2026-10-12T14:48:21Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/12/music-by-mattie-magic-meter/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-12T14:48:21Z",
+    "id": "energy-11a5ac1fdb0a98ba"
+  },
+  {
+    "title": "FSVR brings the Yamaha FS1R to your DAW as a FREE synth plugin",
+    "summary": "Musica Studio’s FSVR is a free, open-source recreation of the Yamaha FS1R for macOS, Windows, and Linux. The original FS1R is a 1998 rackmount synth that combined FM with formant synthesis. It can produce all of those classic metallic and glassy FM tones, but its formant sequences can also give you moving, voice-like textures you [...] View post: FSVR brings the Yamaha FS1R to your DAW as a FREE synth plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/",
+    "timestamp": "2026-10-12T10:19:36Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-12T10:19:36Z",
+    "id": "energy-8b21d3d2e7d8a3fa"
+  },
+  {
+    "title": "Safari Audio launches Everything Bundle V2 with 16 plugins",
+    "summary": "Safari Audio has launched Everything Bundle V2, a collection of 16 effects, instruments, and studio tools for macOS and Windows. The new bundle updates the effects lineup with redesigned interfaces, a shared preset browser, revised processing algorithms, and new controls in individual plugins. It also includes Cosmic Parrot Echo, a new tape-style delay exclusive to [...] View post: Safari Audio launches Everything Bundle V2 with 16 plugins",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/12/safari-audio-everything-bundle/",
+    "timestamp": "2026-10-12T10:07:31Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/12/safari-audio-everything-bundle/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-12T10:07:31Z",
+    "id": "energy-ee0746499af6111e"
+  },
+  {
+    "title": "When do new esports decals come out?",
+    "summary": "Are the old ones going to dissapear from the shop? submitted by /u/No_Cricket_4560 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x3u633/when_do_new_esports_decals_come_out/",
+    "timestamp": "2026-10-12T06:07:44Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x3u633/when_do_new_esports_decals_come_out/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-12T06:07:44Z",
+    "id": "energy-08f761499cb7338d"
+  },
+  {
+    "title": "Zeros of the Spectrogram of White Noise with Hermite Windows",
+    "summary": "arXiv:2610.13531v1 Announce Type: new Abstract: We study the zeros of the spectrogram of complex white noise analyzed with Hermite windows of order n, extending the classical Gaussian-window correspondence with Gaussian Analytic Functions to the polyanalytic setting. Using the polyanalytic Bargmann transform, these zeros split into two families according to the sign of the local Jacobian, giving rise to a natural notion of charge, and we show that these zeros are almost surely simple, isolated, and form a translation and rotation-invariant point process. We derive closed-form expressions for the one-point intensity, decomposed by charge, and also for the unsigned, signed, and hybrid two-point intensities. Besides, we prove that unlike the total repulsion observed with a Gaussian window, the Hermite window of order n generates a pair correlation function that converges at the origin to a strictly positive constant depending on n. Finally, we propose a numerical method for detecting spectrogram zeros via the winding number around candidate local minima.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2607.11178",
-    "timestamp": "2026-10-09T04:00:00Z",
+    "url": "https://arxiv.org/abs/2610.13531",
+    "timestamp": "2026-10-12T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2607.11178"
+      "https://arxiv.org/abs/2610.13531"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-09T04:00:00Z",
-    "id": "energy-cdfa0a5cbadc86d5"
+    "data_as_of": "2026-10-12T04:00:00Z",
+    "id": "energy-d4a17c5b2abfc32d"
   },
   {
-    "title": "Wrinkling of a bilayered cylinder under tension",
-    "summary": "arXiv:2610.11681v1 Announce Type: new Abstract: We study near-surface tension instabilities in bilayered cylinders composed of an incompressible core coated with a thin compressible film. In theory, circumferential wrinkles with axial wavefronts may appear on the outer surface when the cylinder is stretched. We analyze these instabilities through modelling, numerics, finite element simulations, and controlled experiments. We show that the wrinkle amplitude and wavelength depend on the Poisson ratio of the coating and the ratio of the film and substrate shear moduli. We find that the lower the film's Poisson ratio, the earlier the wrinkles emerge under tension. This observation motivates us to use auxetic films (with negative Poisson ratios) with bespoke microstructures in the finite element simulations and the experiments. For the latter, we fabricated 3D-printed soft cylinders with stiff auxetic outer layers and subjected them to axial loading. Although simulations predicted clear wrinkle formation, experimental observation proved more elusive due to the small amplitude of the wrinkles.",
+    "title": "Yet Another Family of Complex Structures on $S^6$",
+    "summary": "arXiv:2609.33826v2 Announce Type: replace Abstract: Following a similar path as the recent construction of a complex structure on $S^6$ we construct another such family, disjoint from the known ones.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.11681",
-    "timestamp": "2026-10-09T04:00:00Z",
+    "url": "https://arxiv.org/abs/2609.33826",
+    "timestamp": "2026-10-12T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.11681"
+      "https://arxiv.org/abs/2609.33826"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-09T04:00:00Z",
-    "id": "energy-402964ce6fbbda14"
+    "data_as_of": "2026-10-12T04:00:00Z",
+    "id": "energy-97e9d4572a1b420e"
   },
   {
-    "title": "Witnessing Quantum Bayesian Inference beyond Classical Learning",
-    "summary": "arXiv:2610.09293v2 Announce Type: replace-cross Abstract: Can an agent's predictions reveal whether its reasoning is based on a classical or a quantum model? Using known results on matrix factorizations, here we show that quantum Bayesian retrodiction can produce one-step-ahead forecasts incompatible with every classical Bayesian explanation based on learning about a fixed but unknown sampling law from conditionally independent observations. The separation has a sharp threshold in the number of outcomes: for any measurement with at most four outcomes, the quantum predictions admit a classical realization, irrespective of the prior state and the finite Hilbert-space dimension, whereas a five-outcome measurement on a single qubit already violates an explicit classical bound. This bound holds for arbitrary classical latent states, prior probabilities, and sampling laws, and involves only the agent's initial and updated predictions. Thus, in this setting, quantum Bayesian retrodiction is strictly more expressive than classical Bayesian learning, and this difference can be witnessed without observing or specifying the agent's internal description.",
+    "title": "Wiener's lemma for quasicrystals: hull-uniform decay of covariant kernels on Delone sets",
+    "summary": "arXiv:2610.12770v1 Announce Type: new Abstract: This paper studies continuous covariant kernel families over hulls of Delone sets of finite local complexity using graded Wiener-algebra methods. The norm given by the least common weighted summable off-diagonal profile is identified isometrically with a graded $\\ell^1$-norm. The resulting Banach $*$-algebras are symmetric, spectrally invariant in the reduced groupoid C*-algebra, and stable under holomorphic functional calculus. Exact physical weights give preservation of polynomial and stretched-exponential classes, including a fixed stretched-exponential rate. A configuration with dense orbit has a faithful regular representation. Invertibility on that configuration therefore gives an inverse family with one profile valid throughout the hull; for repetitive sets every configuration has this property. For polynomial weights of order $s>0$, return-vector counting yields a differential estimate with parameter $\\kappa/(\\kappa+s)$, where $\\kappa$ is a growth exponent of the return vectors and may be taken equal to $d$ for Meyer sets. Combined with established norm-controlled inversion criteria, this gives explicit bounds in the common-p…",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.09293",
-    "timestamp": "2026-10-09T04:00:00Z",
+    "url": "https://arxiv.org/abs/2610.12770",
+    "timestamp": "2026-10-12T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.09293"
+      "https://arxiv.org/abs/2610.12770"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-09T04:00:00Z",
-    "id": "energy-14d435ddc41c263d"
+    "data_as_of": "2026-10-12T04:00:00Z",
+    "id": "energy-27a7af0cee6b75f5"
   }
 ]
