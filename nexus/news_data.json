@@ -1,16 +1,16 @@
 [
   {
-    "title": "Harriet Tubman Charter turns energy efficiency into opportunities for students",
-    "summary": "Entergy New Orleans supports organizations that are finding creative ways to manage energy, strengthen sustainability and make every dollar count. Crescent City Schools’ Harriet Tubman Charter is putting those principles into action through its participation in Entergy New Orleans’ Energy Smart programs. Source",
+    "title": "Entergy celebrates 25 years of local sustainability impact through Environmental Initiative Fund",
+    "summary": "Entergy is commemorating the 25th anniversary of its Environmental Initiatives Fund, marking a milestone in a long history of environmental commitment that began well before sustainability became a corporate trend. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/harriet-tubman-charter-turns-energy-efficiency-into-opportunities-for-students",
-    "timestamp": "2026-10-12T18:26:42Z",
+    "url": "https://www.entergy.com/news/entergy-celebrates-25-years-of-local-sustainability-impact-through-environmental-initiative-fund",
+    "timestamp": "2026-10-13T15:45:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/harriet-tubman-charter-turns-energy-efficiency-into-opportunities-for-students"
+      "https://www.entergy.com/news/entergy-celebrates-25-years-of-local-sustainability-impact-through-environmental-initiative-fund"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -20,69 +20,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-10-12T18:26:42Z",
-    "id": "energy-e292f82f78334995"
+    "data_as_of": "2026-10-13T15:45:22Z",
+    "id": "energy-93dec0dee8e69b0b"
   },
   {
-    "title": "Keep your family safe as fall brings new routines, shorter days and cooler temperatures",
-    "summary": "As cooler air begins to arrive, families turn the page from summer fun to a host of activities that take advantage of the fall season, from pumpkin spice everything and hayrides to fall festivals and football. Entergy Louisiana offers these tips for keeping your family safe through it all. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/keep-your-family-safe-as-fall-brings-new-routines-shorter-days-and-cooler-temperatures-2",
-    "timestamp": "2026-10-12T15:27:40Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/keep-your-family-safe-as-fall-brings-new-routines-shorter-days-and-cooler-temperatures-2"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-12T15:27:40Z",
-    "id": "energy-5e47c2c0964c89f4"
-  },
-  {
-    "title": "Ampirical and Entergy: A partnership powering Louisiana’s workforce, communities and future",
-    "summary": "Ampirical Solutions, LLC — a long standing engineering and grid services partner to Entergy Louisiana — is expanding its headquarters and plans to add 175 new high wage technical jobs. This growth will deepen Louisiana’s energy workforce, accelerate critical grid and data center projects and fuel statewide economic momentum. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/ampirical-and-entergy-a-partnership-powering-louisianas-workforce-communities-and-future",
-    "timestamp": "2026-10-12T15:08:17Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/ampirical-and-entergy-a-partnership-powering-louisianas-workforce-communities-and-future"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-12T15:08:17Z",
-    "id": "energy-26a9d3daecd44348"
-  },
-  {
-    "title": "Seeing more, repairing smarter: How advanced NDE and repair technologies are changing nuclear asset management",
-    "summary": "A single ultrasonic inspection of reactor vessel upper head penetrations can generate more than 7 kilometers of inspection data. Historically, analysts have spent days—even weeks—reviewing those results to identify the few indications that might require further evaluation. In 2025, Vattenfall Nuclear in Sweden demonstrated a different approach. By qualifying and deploying an artificial intelligence/machine learning (AI/ML)–assisted ultrasonic inspection process in collaboration with the Swedish Qualification Centre at Ringhals-3, the utility reduced data review workload by up to 95 percent while maintaining rigorous inspection requirements. A subsequent deployment at Ringhals-4 saved approximately one week on inspection activities.",
+    "title": "Three fusion companies in DOE’s Milestone program have updates",
+    "summary": "Three U.S. companies participating in the Department of Energy’s public-private Milestone-Based Fusion Development Program recently have reported new developments. Xcimer Energy, Zap Energy, and Commonwealth Fusion Systems are among the eight companies that the DOE selected in 2023 to develop fusion pilot plant designs and resolve related scientific and technological challenges within 5–10 years. The goal of the Milestone Program is to accelerate privately funded fusion companies toward commercial viability with the assistance of targeted public-private investment that is linked to independently verified technical and commercial “milestones.”",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-09/article-8411/seeing-more-repairing-smarter-how-advanced-nde-and-repair-technologies-are-changing-nuclear-asset-management/",
-    "timestamp": "2026-10-09T20:49:01Z",
+    "url": "https://www.ans.org/news/2026-10-13/article-8481/three-fusion-companies-in-does-milestone-program-have-updates/",
+    "timestamp": "2026-10-13T14:56:23Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-09/article-8411/seeing-more-repairing-smarter-how-advanced-nde-and-repair-technologies-are-changing-nuclear-asset-management/"
+      "https://www.ans.org/news/2026-10-13/article-8481/three-fusion-companies-in-does-milestone-program-have-updates/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -90,7 +42,120 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-09T20:49:01Z",
-    "id": "energy-0c29d7bdfe89bb73"
+    "data_as_of": "2026-10-13T14:56:23Z",
+    "id": "energy-ea56ee1adcce107e"
+  },
+  {
+    "title": "Consumer Liaison Group explores growing role of energy storage",
+    "summary": "A video recording and summary of the Sept. 24 meeting in Portland, Maine, are available online. The post Consumer Liaison Group explores growing role of energy storage appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/13/consumer-liaison-group-explores-growing-role-of-energy-storage/",
+    "timestamp": "2026-10-13T14:46:09Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/13/consumer-liaison-group-explores-growing-role-of-energy-storage/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-13T14:46:09Z",
+    "id": "energy-23f33e8f9c9ed83b"
+  },
+  {
+    "title": "Chernobyl updates: Stable fuel particles, solid waste disposal",
+    "summary": "More than 40 years after the meltdown of Unit 4 at Ukraine’s Chernobyl nuclear power plant, research into radioactive material at the site continues, as do efforts toward cleanup and decommissioning. In a paper published in the March 2026 issue of the Journal of Hazardous Materials and disseminated widely last week, a team of researchers from the Leibniz University Hannover and Helmholtz-Zentrum Dresden-Rossendorf research laboratory revealed that the fuel components of six “hot particles”—pieces of radioactive debris resulting from the Chernobyl explosion—appeared structurally stable, with the fissile material bound within the particles.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-13/article-8480/chernobyl-updates-stable-fuel-particles-solid-waste-disposal/",
+    "timestamp": "2026-10-13T11:47:04Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-13/article-8480/chernobyl-updates-stable-fuel-particles-solid-waste-disposal/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-13T11:47:04Z",
+    "id": "energy-a82903e50b1ae1cf"
+  },
+  {
+    "title": "Bangladesh’s Rooppur-1 Nuclear Plant Achieves First Criticality",
+    "summary": "Unit 1 at the Rooppur nuclear power station being built by Russia in Bangladesh has achieved criticality with grid connection expected by the end of November. The 1,080-MW VVER V-523 pressurised water reactor unit, construction of which began in 2017, achieved first criticality at 15:34 on 11 October. First criticality is the milestone moment when a nuclear reactor achieves a self-sustaining, controlled chain reaction for the very first time. Rooppur, Bangladesh’s most expensive infrastructure facility, has considerable backing from Russia. Moscow is financing $11.9bn (€10.6bn) in state loans for the project, which has been estimated to cost up to $12.8bn.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/bangladesh-s-rooppur-1-nuclear-plant-achieves-first-criticality-10-1-2026",
+    "timestamp": "2026-10-13T07:32:21Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/bangladesh-s-rooppur-1-nuclear-plant-achieves-first-criticality-10-1-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-13T07:32:21Z",
+    "id": "energy-a4dfcbcd5db8680a"
+  },
+  {
+    "title": "Weatherize your home to stay nice and cozy",
+    "summary": "Keep your home comfortable while saving energy by weatherizing your home. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/weatherize-your-home-to-stay-nice-and-cozy",
+    "timestamp": "2026-10-12T21:38:17Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/weatherize-your-home-to-stay-nice-and-cozy"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-12T21:38:17Z",
+    "id": "energy-a3d47598c3a5001c"
+  },
+  {
+    "title": "October is Energy Awareness Month",
+    "summary": "National Energy Awareness Month puts the spotlight on conservation and sustainability. Learn how you can play your part. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/october-is-energy-awareness-month",
+    "timestamp": "2026-10-12T21:05:25Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/october-is-energy-awareness-month"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-12T21:05:25Z",
+    "id": "energy-1dcabd62118e513f"
   }
 ]

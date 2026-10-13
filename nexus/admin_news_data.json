@@ -1,165 +1,282 @@
 [
   {
-    "title": "Ben Affleck Names Justice League His Career ‘Low Point’",
-    "summary": "Batman actor Ben Affleck talks candidly about his horrible experiencing with making Justice League under Joss Whedon and Warner Bros.",
+    "title": "'Baywatch' Reboot Trailer Has All the Slo-Mo You Could Ever Want",
+    "summary": "Fox's Baywatch Reboot starring Stephen Amell releases trailer packed with steamy drama and slo-mo",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/ben-affleck-justice-league-negative-experience-batman-zack-snyder/",
-    "timestamp": "2026-10-12T19:21:25Z",
+    "url": "https://www.polygon.com/baywatch-reboot-trailer-fox-stephen-amell/",
+    "timestamp": "2026-10-13T17:16:02Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/ben-affleck-justice-league-negative-experience-batman-zack-snyder/"
+      "https://www.polygon.com/baywatch-reboot-trailer-fox-stephen-amell/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-12T19:21:25Z",
-    "id": "energy-79b7e740fdf0c9fe"
+    "data_as_of": "2026-10-13T17:16:02Z",
+    "id": "energy-37425ad9ca22a8bc"
   },
   {
-    "title": "Introducing OpenFatigue",
+    "title": "Bethesda Updates Oblivion Remastered On Switch 2 To Fix Issues Added In The Last Update",
+    "summary": "The classic tradition of Bethesda updating its games to fix its past updates continues",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-to-fix-issues-added-in-the-last-update-2000745324",
+    "timestamp": "2026-10-13T17:15:29Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-to-fix-issues-added-in-the-last-update-2000745324"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-13T17:15:29Z",
+    "id": "energy-61d3b1d18078eab9"
+  },
+  {
+    "title": "'An Unheard Farewell' quest walkthrough in Valor Mortis",
+    "summary": "Here's how to complete the Adjudant's side quest, \"An Unheard Farewell,\" in Valor Mortis, and where to find the missing soldiers.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/valor-mortis-an-unheard-farewell-quest-walkthrough/",
+    "timestamp": "2026-10-13T17:09:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/valor-mortis-an-unheard-farewell-quest-walkthrough/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-13T17:09:18Z",
+    "id": "energy-b027c9f6582735c0"
+  },
+  {
+    "title": "How to unlock fast travel in Valor Mortis",
+    "summary": "Here's how to teleport between lanterns in Valor Mortis and explore previous areas",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/valor-mortis-fast-travel-how-to-unlock/",
+    "timestamp": "2026-10-13T17:01:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/valor-mortis-fast-travel-how-to-unlock/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-13T17:01:15Z",
+    "id": "energy-d445ef68d5b01604"
+  },
+  {
+    "title": "Coris (YC S22) Is Hiring Back End Engineer",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://openfatigue.ai/",
-    "timestamp": "2026-10-12T19:08:21Z",
+    "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+    "timestamp": "2026-10-13T17:00:39Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://openfatigue.ai/"
+      "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-12T19:08:21Z",
-    "id": "energy-648439e309343533"
+    "data_as_of": "2026-10-13T17:00:39Z",
+    "id": "energy-cafe698e8408f36f"
   },
   {
-    "title": "Epic Games Forces Shocked Developers Into ‘AI-First’ Mode For Delayed Shooter Featuring Marvel And Star Wars Characters",
-    "summary": "Even artwork will be generated with AI",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620",
-    "timestamp": "2026-10-12T19:00:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-12T19:00:43Z",
-    "id": "energy-06e8e96b0647a890"
-  },
-  {
-    "title": "Stardew Valley's Monster-Mash Cousin Sets New Release Date",
-    "summary": "Grave Seasons' new 2027 release date is cropping up again, as Perfect Garbage plans to launch its farm-sim horror game in spring.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/grave-seasons-release-date-trailer/",
-    "timestamp": "2026-10-12T19:00:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/grave-seasons-release-date-trailer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-12T19:00:16Z",
-    "id": "energy-d9a29a3e725b9201"
-  },
-  {
-    "title": "Final Fantasy Meets Dragon Quest in Square Enix’s Latest ’90s Remake",
-    "summary": "Romancing SaGa 3 combines the best parts of Square Enix's biggest RPG franchises, according to our recent preview.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/romancing-saga-3-preview-nycc/",
-    "timestamp": "2026-10-12T19:00:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/romancing-saga-3-preview-nycc/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-12T19:00:16Z",
-    "id": "energy-b9b83915639bfe4f"
-  },
-  {
-    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "title": "Gemini 4 Argon for Robotics Blog",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/openai/codex/issues/48195",
-    "timestamp": "2026-10-12T18:29:04Z",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "timestamp": "2026-10-13T16:55:47Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/openai/codex/issues/48195"
+      "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-12T18:29:04Z",
-    "id": "energy-37390c001284750b"
+    "data_as_of": "2026-10-13T16:55:47Z",
+    "id": "energy-b0a0c60c14a90a09"
   },
   {
-    "title": "Publishers Killed the Paperback, Then Blamed Readers",
+    "title": "Avatar Voice Actor Responds To Bigoted Seven Havens Backlash With A Big Middle Finger",
+    "summary": "‘So sorry LGBTQ and disabled people exist. That must be traumatic for you’",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/avatar-seven-havens-jae-datu-relationship-gay-reaction-2000745334",
+    "timestamp": "2026-10-13T16:54:50Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/avatar-seven-havens-jae-datu-relationship-gay-reaction-2000745334"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-13T16:54:50Z",
+    "id": "energy-32b8d550d4ba9c17"
+  },
+  {
+    "title": "Americans Trust in Federal Government Sinks to New Depths",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
-    "timestamp": "2026-10-12T18:27:26Z",
+    "url": "https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx",
+    "timestamp": "2026-10-13T16:48:18Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback"
+      "https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-12T18:27:26Z",
-    "id": "energy-23413f4e2d5e8121"
+    "data_as_of": "2026-10-13T16:48:18Z",
+    "id": "energy-b0734dea242f8d0f"
   },
   {
-    "title": "The Physical Revolution on Jailbroken PS5s Now Has People Emulating PS3 Discs",
-    "summary": "Coder Swordpdf has released a video showing a physical PS3 copy of Gran Turismo 5 being used to boot the game on PS5s, only three days after dropping the PS5SX2 emulator",
+    "title": "Max Payne 3 Wasn’t A Big Hit, And Former Rockstar VP And Writer Dan Houser Blames Himself: ‘I Failed’",
+    "summary": "Houser says a lot of people 'really missed' Max Payne creator Sam Lake's writing",
     "source": "Kotaku",
-    "url": "https://kotaku.com/the-physical-revolution-on-jailbroken-ps5s-now-has-people-emulating-ps3-discs-2000744606",
-    "timestamp": "2026-10-12T18:00:29Z",
+    "url": "https://kotaku.com/max-payne-3-wasnt-a-big-hit-and-former-rockstar-vp-and-writer-dan-houser-blames-himself-i-failed-2000745306",
+    "timestamp": "2026-10-13T16:30:09Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/the-physical-revolution-on-jailbroken-ps5s-now-has-people-emulating-ps3-discs-2000744606"
+      "https://kotaku.com/max-payne-3-wasnt-a-big-hit-and-former-rockstar-vp-and-writer-dan-houser-blames-himself-i-failed-2000745306"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-12T18:00:29Z",
-    "id": "energy-4288ff0cdcf5104a"
+    "data_as_of": "2026-10-13T16:30:09Z",
+    "id": "energy-f4c0330056ae17fc"
   },
   {
-    "title": "Cut Assassin’s Creed Black Flag Resynced Epilogue Seemingly Teases Assassin’s Creed 3 Prequel",
-    "summary": "Assassin's Creed: Freedom Cry's protagonist Adéwalé also makes an appearance in the scrapped scene, which appears to be set two years after the birth of Assassin's Creed III's antagonist Haytham Kenway",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/cut-assassins-creed-black-flag-resynced-epilogue-seemingly-teases-assassins-creed-3-prequel-2000744566",
-    "timestamp": "2026-10-12T17:00:04Z",
-    "topic": "Gaming",
+    "title": "Rising AI Demand Boosts Case For New US Trunk Power Lines",
+    "summary": "By Neil Ford The slow buildout of U.S. transmission and surging demand from new data centers continues to hike congestion levels across the country. Congestion costs in the large PJM network jumped in the first half of 2026 due to increasing overload on high-voltage transmission lines, the grid operator’s independent market monitor said in August. […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/rising-ai-demand-boosts-case-for-new-us-trunk-power-lines/",
+    "timestamp": "2026-10-13T14:36:14Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/cut-assassins-creed-black-flag-resynced-epilogue-seemingly-teases-assassins-creed-3-prequel-2000744566"
+      "https://misoxenwatch.com/2026/10/rising-ai-demand-boosts-case-for-new-us-trunk-power-lines/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-13T14:36:14Z",
+    "id": "energy-5b58ef1a3113786e"
+  },
+  {
+    "title": "Summary Of FERC Meeting Agenda For October 2026",
+    "summary": "By Aaron Bryant Following are summaries of the agenda items for FERC’s monthly open meeting, to be held Oct. 15. It was furnished by the White & Case law firm, with contributions from Ruta Skučas, George Fatula and Chimera Thompson. Electric E-1, Docket No. EL25-92-001 McKenzie Electric Cooperative v. Basin Electric Power Cooperative. On June […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/summary-of-ferc-meeting-agenda-for-october-2026/",
+    "timestamp": "2026-10-13T14:35:15Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/summary-of-ferc-meeting-agenda-for-october-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-13T14:35:15Z",
+    "id": "energy-bf59628b8c26fbd9"
+  },
+  {
+    "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
+    "summary": "By Jennifer Hiller Data-center developers are turning to utilities and grid operators for unprecedented amounts of electricity. The power industry is countering with a perhaps surprising question of its own: Are you for real? The artificial-intelligence boom is driving a once-in-a-generation surge in electricity demand that should translate to a heyday for utilities. Yet the […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need/",
+    "timestamp": "2026-10-13T14:33:53Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-13T14:33:53Z",
+    "id": "energy-a67e549632f312ca"
+  },
+  {
+    "title": "Beat Magazine #250 includes Super VHS and Cubase LE 15 for €4.99",
+    "summary": "The November 2026 issue of Beat Magazine includes Baby Audio Super VHS and Steinberg Cubase LE 15 alongside its usual collection of sounds and production software. The English digital issue costs €4.99 from the publisher. This is issue #250, and its main focus is on microphones, room treatment, recording chains, and getting a vocal from [...] View post: Beat Magazine #250 includes Super VHS and Cubase LE 15 for €4.99",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/13/beat-magazine-250/",
+    "timestamp": "2026-10-13T10:19:58Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/13/beat-magazine-250/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-12T17:00:04Z",
-    "id": "energy-c94fcf690af5786f"
+    "data_as_of": "2026-10-13T10:19:58Z",
+    "id": "energy-a775123f55730851"
+  },
+  {
+    "title": "BeatSkillz Slam2 is FREE with the SLAMJAM coupon code",
+    "summary": "BeatSkillz is offering Slam2, its track phattener plugin for macOS and Windows, for free with the code SLAMJAM. Slam2 was heavily discounted when we covered it back in 2021. It is currently listed at $79 on the BeatSkillz site, but the coupon brings the cart and checkout total down to $0. To claim it, add [...] View post: BeatSkillz Slam2 is FREE with the SLAMJAM coupon code",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/13/beatskillz-slam2-free/",
+    "timestamp": "2026-10-13T10:14:09Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/13/beatskillz-slam2-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-13T10:14:09Z",
+    "id": "energy-a34827f44c706f84"
+  },
+  {
+    "title": "Drumforge offers Kickforge kick drum plugin for FREE for a limited time",
+    "summary": "Drumforge is giving away Kickforge, its kick drum instrument plugin for macOS and Windows. The offer appears as a pop-up when you visit the Drumforge homepage, but the free claim page I linked to below is the more convenient route. It takes you straight to a form asking for your first name and email address, [...] View post: Drumforge offers Kickforge kick drum plugin for FREE for a limited time",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/13/drumforge-kickforge-free/",
+    "timestamp": "2026-10-13T10:08:43Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/13/drumforge-kickforge-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-13T10:08:43Z",
+    "id": "energy-1e132dbfbfa249e3"
   },
   {
     "title": "RLFS S5: Sim 7 Results [Final Bracket - Lower Bracket Quarterfinals]",
@@ -220,123 +337,6 @@
     "primary_source": false,
     "data_as_of": "2026-10-12T15:03:51Z",
     "id": "energy-214d41ddba1717e8"
-  },
-  {
-    "title": "MISO Issues Pair Of Grid Advisories On Above-Normal Temperatures, Higher Load",
-    "summary": "By Ronnie Turner • Capacity advisory, conservative operations start Oct. 12 • Indiana Hub on-peak day-ahead power jumps to $111/MWh The Midcontinent Independent System Operator issued a capacity advisory and a conservative operations declaration Oct. 9, due to forecasts of elevated temperatures and load levels across its footprint. MISO declared a capacity advisory for its […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/miso-issues-pair-of-grid-advisories-on-above-normal-temperatures-higher-load/",
-    "timestamp": "2026-10-12T14:53:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/miso-issues-pair-of-grid-advisories-on-above-normal-temperatures-higher-load/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-12T14:53:02Z",
-    "id": "energy-7d143347d468075e"
-  },
-  {
-    "title": "IMM Patton Appears Unfazed By MISO 3rd-Party Review",
-    "summary": "By Michael Brooks Potomac Economics President David Patton apparently is not worried that the third-party “best practices” review of his role as Independent Market Monitor for MISO will result in any significant changes. Why This Matters MISO stakeholder feedback is largely positive about David Patton’s expertise in markets, but there’s disagreement about the Monitor’s role […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/imm-patton-appears-unfazed-by-miso-3rd-party-review/",
-    "timestamp": "2026-10-12T14:52:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/imm-patton-appears-unfazed-by-miso-3rd-party-review/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-12T14:52:02Z",
-    "id": "energy-d8f6332362ec1454"
-  },
-  {
-    "title": "Opinion: Cut Your Losses On Solar Power, Mayor Bowser. D.C. Will Thank You.",
-    "summary": "By Isaac Orr and Mitch Rolling Imagine your state’s lawmakers passed a bill requiring that roughly 4 percent of your groceries on every trip to the store had to be bananas. Worse, each one had to be grown in a local greenhouse for 177 times the price of an import. A $2 bunch would suddenly […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/opinion-cut-your-losses-on-solar-power-mayor-bowser-d-c-will-thank-you/",
-    "timestamp": "2026-10-12T14:51:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/opinion-cut-your-losses-on-solar-power-mayor-bowser-d-c-will-thank-you/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-12T14:51:00Z",
-    "id": "energy-7b2f45cbfa4ad541"
-  },
-  {
-    "title": "Music By Mattie releases magic.METER, a FREE vocal analyzer plugin",
-    "summary": "Music By Mattie has released magic.METER, a free plugin that compares your vocal mix with measurements from 3,054 hit songs. Learning to trust your ears is the most important part of mixing and producing music. But I’ve always found vocals harder to mix than guitars, drums, or bass. We bedroom producers rarely have access to [...] View post: Music By Mattie releases magic.METER, a FREE vocal analyzer plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/12/music-by-mattie-magic-meter/",
-    "timestamp": "2026-10-12T14:48:21Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/12/music-by-mattie-magic-meter/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-12T14:48:21Z",
-    "id": "energy-11a5ac1fdb0a98ba"
-  },
-  {
-    "title": "FSVR brings the Yamaha FS1R to your DAW as a FREE synth plugin",
-    "summary": "Musica Studio’s FSVR is a free, open-source recreation of the Yamaha FS1R for macOS, Windows, and Linux. The original FS1R is a 1998 rackmount synth that combined FM with formant synthesis. It can produce all of those classic metallic and glassy FM tones, but its formant sequences can also give you moving, voice-like textures you [...] View post: FSVR brings the Yamaha FS1R to your DAW as a FREE synth plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/",
-    "timestamp": "2026-10-12T10:19:36Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-12T10:19:36Z",
-    "id": "energy-8b21d3d2e7d8a3fa"
-  },
-  {
-    "title": "Safari Audio launches Everything Bundle V2 with 16 plugins",
-    "summary": "Safari Audio has launched Everything Bundle V2, a collection of 16 effects, instruments, and studio tools for macOS and Windows. The new bundle updates the effects lineup with redesigned interfaces, a shared preset browser, revised processing algorithms, and new controls in individual plugins. It also includes Cosmic Parrot Echo, a new tape-style delay exclusive to [...] View post: Safari Audio launches Everything Bundle V2 with 16 plugins",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/12/safari-audio-everything-bundle/",
-    "timestamp": "2026-10-12T10:07:31Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/12/safari-audio-everything-bundle/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-12T10:07:31Z",
-    "id": "energy-ee0746499af6111e"
   },
   {
     "title": "When do new esports decals come out?",
