@@ -1,5 +1,141 @@
 [
   {
+    "title": "Germany launches its own fusion milestone program",
+    "summary": "Germany’s Federal Agency for Breakthrough Innovation (SPRIND) has established a milestone-based fusion program on behalf of the Federal Ministry of Research, Technology, and Space (BMFTR) and as part of the government’s High-Tech Agenda Germany (HTAD). The initiative is designed to help the HTAD in its efforts to use technology-specific roadmaps and flagship programs to strengthen Germany’s high-performing technology innovation and to speed the conversion of tech research into practical applications. Through the new Milestone Program, the German government intends to provide financial support to fusion companies—particularly start-ups—to advance fusion technology development. The funds will be awarded via a competitive process.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-14/article-8485/germany-launches-its-own-fusion-milestone-program/",
+    "timestamp": "2026-10-14T14:35:40Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-14/article-8485/germany-launches-its-own-fusion-milestone-program/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-14T14:35:40Z",
+    "id": "energy-dc1533f7c71486aa"
+  },
+  {
+    "title": "CoP webinar lays out timeline of RIPB policy",
+    "summary": "The American Nuclear Society’s Risk-informed, Performance-based Principles and Policy Committee (RP3C) recently held another presentation in its monthly Community of Practice (CoP) series. Former RP3C chair N. Prasad Kadambi opened the meeting with brief introductory remarks about the RP3C, the value of risk-informed, performance-based (RIPB) techniques, and the Nuclear Regulatory Commission’s current interest in and work on the field. After these remarks, Kadambi introduced this month’s speaker: Steven Krahn, a professor of the practice of nuclear environmental engineering at Vanderbilt University and chair of the RP3C committee. Krahn’s presentation was titled “The Evolution of the Understanding of Nuclear Reactor Risk and Risk-Informed, Performance-Based Policy in the U.S.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-14/article-8484/cop-webinar-lays-out-timeline-of-ripb-policy/",
+    "timestamp": "2026-10-14T12:59:30Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-14/article-8484/cop-webinar-lays-out-timeline-of-ripb-policy/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-14T12:59:30Z",
+    "id": "energy-d58c222b3ec23b08"
+  },
+  {
+    "title": "Video explains changes to Day-Ahead Ancillary Services market",
+    "summary": "The DA A/S enhancements were developed in response to operational experience, market observations, and stakeholder feedback. The post Video explains changes to Day-Ahead Ancillary Services market appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/14/video-explains-changes-to-day-ahead-ancillary-services-market/",
+    "timestamp": "2026-10-14T12:04:06Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/14/video-explains-changes-to-day-ahead-ancillary-services-market/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-14T12:04:06Z",
+    "id": "energy-f77c1211ef07de6b"
+  },
+  {
+    "title": "Entergy invests in the future workforce through STEM scholarships for students attending Historically Black Colleges and Universities",
+    "summary": "Entergy's Power of Prosperity program equips recipients with tools for success through education, career and workforce development programs Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-invests-in-the-future-workforce-through-stem-scholarships-for-students-attending-historically-black-colleges-and-universities",
+    "timestamp": "2026-10-14T11:10:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-invests-in-the-future-workforce-through-stem-scholarships-for-students-attending-historically-black-colleges-and-universities"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-14T11:10:44Z",
+    "id": "energy-65f36dc0efe997ac"
+  },
+  {
+    "title": "Westinghouse moves forward on Polish, Dutch power plant projects",
+    "summary": "Westinghouse continues to make progress on building the first nuclear power plant in Poland, having begun the long-lead-item procurement process and signed conditional purchase orders for the first of three planned AP1000 units. The company also announced recently that it will be partnering with Hyundai Engineering & Construction on the front-end engineering design (FEED) phase of a project to deploy two large-scale reactors in the Netherlands.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-13/article-8483/westinghouse-moves-forward-on-polish-dutch-power-plant-projects/",
+    "timestamp": "2026-10-13T21:12:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-13/article-8483/westinghouse-moves-forward-on-polish-dutch-power-plant-projects/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-13T21:12:20Z",
+    "id": "energy-bfe2ab1cc0e29e22"
+  },
+  {
+    "title": "The road to Kansas: Entergy lineworkers take their skills to the international stage",
+    "summary": "For the Entergy lineworkers headed to Overland Park, Kansas, the competition doesn’t begin when they arrive at the rodeo grounds. It begins weeks and sometimes months earlier, with practice, preparation and repeated drills that demand the same precision and attention to detail they bring to their work every day. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/the-road-to-kansas-entergy-lineworkers-take-their-skills-to-the-international-stage",
+    "timestamp": "2026-10-13T20:06:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/the-road-to-kansas-entergy-lineworkers-take-their-skills-to-the-international-stage"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-13T20:06:00Z",
+    "id": "energy-00e3b184c1a69377"
+  },
+  {
     "title": "Entergy celebrates 25 years of local sustainability impact through Environmental Initiative Fund",
     "summary": "Entergy is commemorating the 25th anniversary of its Environmental Initiatives Fund, marking a milestone in a long history of environmental commitment that began well before sustainability became a corporate trend. Source",
     "source": "Entergy",
@@ -24,28 +160,6 @@
     "id": "energy-93dec0dee8e69b0b"
   },
   {
-    "title": "Three fusion companies in DOE’s Milestone program have updates",
-    "summary": "Three U.S. companies participating in the Department of Energy’s public-private Milestone-Based Fusion Development Program recently have reported new developments. Xcimer Energy, Zap Energy, and Commonwealth Fusion Systems are among the eight companies that the DOE selected in 2023 to develop fusion pilot plant designs and resolve related scientific and technological challenges within 5–10 years. The goal of the Milestone Program is to accelerate privately funded fusion companies toward commercial viability with the assistance of targeted public-private investment that is linked to independently verified technical and commercial “milestones.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-13/article-8481/three-fusion-companies-in-does-milestone-program-have-updates/",
-    "timestamp": "2026-10-13T14:56:23Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-13/article-8481/three-fusion-companies-in-does-milestone-program-have-updates/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-13T14:56:23Z",
-    "id": "energy-ea56ee1adcce107e"
-  },
-  {
     "title": "Consumer Liaison Group explores growing role of energy storage",
     "summary": "A video recording and summary of the Sept. 24 meeting in Portland, Maine, are available online. The post Consumer Liaison Group explores growing role of energy storage appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -68,28 +182,6 @@
     "id": "energy-23f33e8f9c9ed83b"
   },
   {
-    "title": "Chernobyl updates: Stable fuel particles, solid waste disposal",
-    "summary": "More than 40 years after the meltdown of Unit 4 at Ukraine’s Chernobyl nuclear power plant, research into radioactive material at the site continues, as do efforts toward cleanup and decommissioning. In a paper published in the March 2026 issue of the Journal of Hazardous Materials and disseminated widely last week, a team of researchers from the Leibniz University Hannover and Helmholtz-Zentrum Dresden-Rossendorf research laboratory revealed that the fuel components of six “hot particles”—pieces of radioactive debris resulting from the Chernobyl explosion—appeared structurally stable, with the fissile material bound within the particles.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-13/article-8480/chernobyl-updates-stable-fuel-particles-solid-waste-disposal/",
-    "timestamp": "2026-10-13T11:47:04Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-13/article-8480/chernobyl-updates-stable-fuel-particles-solid-waste-disposal/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-13T11:47:04Z",
-    "id": "energy-a82903e50b1ae1cf"
-  },
-  {
     "title": "Bangladesh’s Rooppur-1 Nuclear Plant Achieves First Criticality",
     "summary": "Unit 1 at the Rooppur nuclear power station being built by Russia in Bangladesh has achieved criticality with grid connection expected by the end of November. The 1,080-MW VVER V-523 pressurised water reactor unit, construction of which began in 2017, achieved first criticality at 15:34 on 11 October. First criticality is the milestone moment when a nuclear reactor achieves a self-sustaining, controlled chain reaction for the very first time. Rooppur, Bangladesh’s most expensive infrastructure facility, has considerable backing from Russia. Moscow is financing $11.9bn (€10.6bn) in state loans for the project, which has been estimated to cost up to $12.8bn.",
     "source": "NucNet: Global Nuclear News",
@@ -109,53 +201,5 @@
     ],
     "data_as_of": "2026-10-13T07:32:21Z",
     "id": "energy-a4dfcbcd5db8680a"
-  },
-  {
-    "title": "Weatherize your home to stay nice and cozy",
-    "summary": "Keep your home comfortable while saving energy by weatherizing your home. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/weatherize-your-home-to-stay-nice-and-cozy",
-    "timestamp": "2026-10-12T21:38:17Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/weatherize-your-home-to-stay-nice-and-cozy"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-12T21:38:17Z",
-    "id": "energy-a3d47598c3a5001c"
-  },
-  {
-    "title": "October is Energy Awareness Month",
-    "summary": "National Energy Awareness Month puts the spotlight on conservation and sustainability. Learn how you can play your part. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/october-is-energy-awareness-month",
-    "timestamp": "2026-10-12T21:05:25Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/october-is-energy-awareness-month"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-12T21:05:25Z",
-    "id": "energy-1dcabd62118e513f"
   }
 ]

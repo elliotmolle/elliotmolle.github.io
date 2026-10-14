@@ -1,282 +1,300 @@
 [
   {
-    "title": "'Baywatch' Reboot Trailer Has All the Slo-Mo You Could Ever Want",
-    "summary": "Fox's Baywatch Reboot starring Stephen Amell releases trailer packed with steamy drama and slo-mo",
+    "title": "'Homesick' quest walkthrough in Valor Mortis",
+    "summary": "Here's how to complete the \"Homesick\" Chapter 4 side quest in Valor Mortis, including how to start the quest.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/baywatch-reboot-trailer-fox-stephen-amell/",
-    "timestamp": "2026-10-13T17:16:02Z",
+    "url": "https://www.polygon.com/valor-mortis-homesick-quest-walkthrough/",
+    "timestamp": "2026-10-14T14:46:10Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/baywatch-reboot-trailer-fox-stephen-amell/"
+      "https://www.polygon.com/valor-mortis-homesick-quest-walkthrough/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-13T17:16:02Z",
-    "id": "energy-37425ad9ca22a8bc"
+    "data_as_of": "2026-10-14T14:46:10Z",
+    "id": "energy-be575671a0bae909"
   },
   {
-    "title": "Bethesda Updates Oblivion Remastered On Switch 2 To Fix Issues Added In The Last Update",
-    "summary": "The classic tradition of Bethesda updating its games to fix its past updates continues",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-to-fix-issues-added-in-the-last-update-2000745324",
-    "timestamp": "2026-10-13T17:15:29Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-to-fix-issues-added-in-the-last-update-2000745324"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-13T17:15:29Z",
-    "id": "energy-61d3b1d18078eab9"
-  },
-  {
-    "title": "'An Unheard Farewell' quest walkthrough in Valor Mortis",
-    "summary": "Here's how to complete the Adjudant's side quest, \"An Unheard Farewell,\" in Valor Mortis, and where to find the missing soldiers.",
+    "title": "Who Is Paladin? 'VisionQuest's New Villain Is a Wild Fusion of Marvel and Star Wars History",
+    "summary": "Vision is being hunted by the MCU’s version of a Mandalorian",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/valor-mortis-an-unheard-farewell-quest-walkthrough/",
-    "timestamp": "2026-10-13T17:09:18Z",
+    "url": "https://www.polygon.com/paladin-visionquest-explainer/",
+    "timestamp": "2026-10-14T14:42:43Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/valor-mortis-an-unheard-farewell-quest-walkthrough/"
+      "https://www.polygon.com/paladin-visionquest-explainer/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-13T17:09:18Z",
-    "id": "energy-b027c9f6582735c0"
+    "data_as_of": "2026-10-14T14:42:43Z",
+    "id": "energy-1a70bfa9592471d8"
   },
   {
-    "title": "How to unlock fast travel in Valor Mortis",
-    "summary": "Here's how to teleport between lanterns in Valor Mortis and explore previous areas",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/valor-mortis-fast-travel-how-to-unlock/",
-    "timestamp": "2026-10-13T17:01:15Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/valor-mortis-fast-travel-how-to-unlock/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-13T17:01:15Z",
-    "id": "energy-d445ef68d5b01604"
-  },
-  {
-    "title": "Coris (YC S22) Is Hiring Back End Engineer",
+    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
-    "timestamp": "2026-10-13T17:00:39Z",
+    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+    "timestamp": "2026-10-14T14:38:55Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations"
+      "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-13T17:00:39Z",
-    "id": "energy-cafe698e8408f36f"
+    "data_as_of": "2026-10-14T14:38:55Z",
+    "id": "energy-ab22ca525bd7891e"
   },
   {
-    "title": "Gemini 4 Argon for Robotics Blog",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-    "timestamp": "2026-10-13T16:55:47Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-13T16:55:47Z",
-    "id": "energy-b0a0c60c14a90a09"
-  },
-  {
-    "title": "Avatar Voice Actor Responds To Bigoted Seven Havens Backlash With A Big Middle Finger",
-    "summary": "‘So sorry LGBTQ and disabled people exist. That must be traumatic for you’",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/avatar-seven-havens-jae-datu-relationship-gay-reaction-2000745334",
-    "timestamp": "2026-10-13T16:54:50Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/avatar-seven-havens-jae-datu-relationship-gay-reaction-2000745334"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-13T16:54:50Z",
-    "id": "energy-32b8d550d4ba9c17"
-  },
-  {
-    "title": "Americans Trust in Federal Government Sinks to New Depths",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx",
-    "timestamp": "2026-10-13T16:48:18Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-13T16:48:18Z",
-    "id": "energy-b0734dea242f8d0f"
-  },
-  {
-    "title": "Max Payne 3 Wasn’t A Big Hit, And Former Rockstar VP And Writer Dan Houser Blames Himself: ‘I Failed’",
-    "summary": "Houser says a lot of people 'really missed' Max Payne creator Sam Lake's writing",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/max-payne-3-wasnt-a-big-hit-and-former-rockstar-vp-and-writer-dan-houser-blames-himself-i-failed-2000745306",
-    "timestamp": "2026-10-13T16:30:09Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/max-payne-3-wasnt-a-big-hit-and-former-rockstar-vp-and-writer-dan-houser-blames-himself-i-failed-2000745306"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-13T16:30:09Z",
-    "id": "energy-f4c0330056ae17fc"
-  },
-  {
-    "title": "Rising AI Demand Boosts Case For New US Trunk Power Lines",
-    "summary": "By Neil Ford The slow buildout of U.S. transmission and surging demand from new data centers continues to hike congestion levels across the country. Congestion costs in the large PJM network jumped in the first half of 2026 due to increasing overload on high-voltage transmission lines, the grid operator’s independent market monitor said in August. […]",
+    "title": "FERC: MISO Zero-Injection Gen Plan For Large Loads Incomplete",
+    "summary": "By Amanda Durish Cook FERC said MISO’s plan to accelerate interconnections for large loads to be served exclusively by generators that pledge not to inject power onto the larger system is unfinished as filed (ER26-3552). In a deficiency letter to the RTO on Oct. 9, FERC said MISO must justify its proposed deviations from the […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/rising-ai-demand-boosts-case-for-new-us-trunk-power-lines/",
-    "timestamp": "2026-10-13T14:36:14Z",
+    "url": "https://misoxenwatch.com/2026/10/ferc-miso-zero-injection-gen-plan-for-large-loads-incomplete/",
+    "timestamp": "2026-10-14T14:33:00Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/rising-ai-demand-boosts-case-for-new-us-trunk-power-lines/"
+      "https://misoxenwatch.com/2026/10/ferc-miso-zero-injection-gen-plan-for-large-loads-incomplete/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-13T14:36:14Z",
-    "id": "energy-5b58ef1a3113786e"
+    "data_as_of": "2026-10-14T14:33:00Z",
+    "id": "energy-dec419945b632d91"
   },
   {
-    "title": "Summary Of FERC Meeting Agenda For October 2026",
-    "summary": "By Aaron Bryant Following are summaries of the agenda items for FERC’s monthly open meeting, to be held Oct. 15. It was furnished by the White & Case law firm, with contributions from Ruta Skučas, George Fatula and Chimera Thompson. Electric E-1, Docket No. EL25-92-001 McKenzie Electric Cooperative v. Basin Electric Power Cooperative. On June […]",
+    "title": "AI Data Centers Are Coming For Federal Land. They’re Roiling The Nevada Governor’s Race",
+    "summary": "By Jessica Hill Janelle Sorenson loves the clear night skies in Boulder City, less than an hour’s drive from the bright lights of the Las Vegas Strip. It’s a small, quiet town, and she thinks an artificial intelligence data center would ruin the community and scar the desert landscape. So over the summer, she joined […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/summary-of-ferc-meeting-agenda-for-october-2026/",
-    "timestamp": "2026-10-13T14:35:15Z",
+    "url": "https://misoxenwatch.com/2026/10/ai-data-centers-are-coming-for-federal-land-theyre-roiling-the-nevada-governors/",
+    "timestamp": "2026-10-14T14:32:19Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/summary-of-ferc-meeting-agenda-for-october-2026/"
+      "https://misoxenwatch.com/2026/10/ai-data-centers-are-coming-for-federal-land-theyre-roiling-the-nevada-governors/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-13T14:35:15Z",
-    "id": "energy-bf59628b8c26fbd9"
+    "data_as_of": "2026-10-14T14:32:19Z",
+    "id": "energy-2416d22994b50031"
   },
   {
-    "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
-    "summary": "By Jennifer Hiller Data-center developers are turning to utilities and grid operators for unprecedented amounts of electricity. The power industry is countering with a perhaps surprising question of its own: Are you for real? The artificial-intelligence boom is driving a once-in-a-generation surge in electricity demand that should translate to a heyday for utilities. Yet the […]",
+    "title": "American Electric Power To Invest $4 Billion In Fuel Cell Project To Meet Energy Demand From Google",
+    "summary": "By Kelly Cloonan American Electric Power plans to invest about $4 billion in a Wyoming fuel cell generation project to meet growing energy demand from Alphabet’s Google. AEP said Wednesday Google will acquire power from Cheyenne Fuel Cell, which is about 92% owned and controlled by AEP, under a 20-year power purchase agreement. The facility […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need/",
-    "timestamp": "2026-10-13T14:33:53Z",
+    "url": "https://misoxenwatch.com/2026/10/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google/",
+    "timestamp": "2026-10-14T14:31:41Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need/"
+      "https://misoxenwatch.com/2026/10/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-13T14:33:53Z",
-    "id": "energy-a67e549632f312ca"
+    "data_as_of": "2026-10-14T14:31:41Z",
+    "id": "energy-e7281b704f3ed0dd"
   },
   {
-    "title": "Beat Magazine #250 includes Super VHS and Cubase LE 15 for €4.99",
-    "summary": "The November 2026 issue of Beat Magazine includes Baby Audio Super VHS and Steinberg Cubase LE 15 alongside its usual collection of sounds and production software. The English digital issue costs €4.99 from the publisher. This is issue #250, and its main focus is on microphones, room treatment, recording chains, and getting a vocal from [...] View post: Beat Magazine #250 includes Super VHS and Cubase LE 15 for €4.99",
+    "title": "How Over-reliance On Google Calendar Ruined My Fire Emblem: Fortune’s Weave Playthrough",
+    "summary": "'Added to your calendar' meant something totally different than what I've become used to",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/how-over-reliance-on-google-calendar-ruined-my-fire-emblem-fortunes-weave-playthrough-2000745899",
+    "timestamp": "2026-10-14T14:30:42Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/how-over-reliance-on-google-calendar-ruined-my-fire-emblem-fortunes-weave-playthrough-2000745899"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-14T14:30:42Z",
+    "id": "energy-39d1077fd1f4b9d5"
+  },
+  {
+    "title": "Rockstar Issues Rare Official GTA 6 Development Update",
+    "summary": "Rockstar reveals the surprising reasons why GTA 6 took over a decade to release, including studio clashes and development issues",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-6-bloomberg-jason-rockstar-development/",
+    "timestamp": "2026-10-14T14:17:51Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/gta-6-bloomberg-jason-rockstar-development/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-14T14:17:51Z",
+    "id": "energy-e6aaeb6e5afa8388"
+  },
+  {
+    "title": "GTA 6 Leaker Announces They Won’t Release The Full Game: ‘The Leeks Stop For Now’",
+    "summary": "Cyberleek seems done with leaks, but says there is a dead man's switch waiting if someone comes after them",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gta-6-leaker-announces-they-wont-leak-the-full-game-the-leeks-stop-for-now-2000745917",
+    "timestamp": "2026-10-14T14:17:10Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/gta-6-leaker-announces-they-wont-leak-the-full-game-the-leeks-stop-for-now-2000745917"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-14T14:17:10Z",
+    "id": "energy-d78a2745c9bdc8c2"
+  },
+  {
+    "title": "Enshrouded Is A Survival Adventure Perfected To A Form Of Art By Its Players",
+    "summary": "After two years as an Early Access hit, the full launch for PC and PlayStation 5 is just hours away.",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/enshrouded-is-a-survival-game-evolved-into-an-art-form-by-its-players-2000728929",
+    "timestamp": "2026-10-14T14:00:49Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/enshrouded-is-a-survival-game-evolved-into-an-art-form-by-its-players-2000728929"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-14T14:00:49Z",
+    "id": "energy-eea63b960630a00c"
+  },
+  {
+    "title": "Switzerland proposes banning profiling-based ads to minors",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+    "timestamp": "2026-10-14T13:20:02Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-14T13:20:02Z",
+    "id": "energy-b94681aa1b3e14ed"
+  },
+  {
+    "title": "Eric Binnion has died",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://ma.tt/2026/10/rip-eric/",
+    "timestamp": "2026-10-14T12:58:32Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://ma.tt/2026/10/rip-eric/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-14T12:58:32Z",
+    "id": "energy-e64cc92ba16f5d01"
+  },
+  {
+    "title": "All The Machines offers UN/T-01, a FREE 808 drum machine plugin",
+    "summary": "All The Machines is offering UN/T-01, a free drum machine with synthesized 808 sounds, sample playback, and a built-in step sequencer. I’m a sucker for drum machine plugins, mainly because of the workflow. When working with a step sequencer, I often find patterns or combinations of sounds that I wouldn’t have come up with by [...] View post: All The Machines offers UN/T-01, a FREE 808 drum machine plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/13/beat-magazine-250/",
-    "timestamp": "2026-10-13T10:19:58Z",
+    "url": "https://bedroomproducersblog.com/2026/10/14/all-the-machines-unt-01/",
+    "timestamp": "2026-10-14T11:40:15Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/13/beat-magazine-250/"
+      "https://bedroomproducersblog.com/2026/10/14/all-the-machines-unt-01/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-13T10:19:58Z",
-    "id": "energy-a775123f55730851"
+    "data_as_of": "2026-10-14T11:40:15Z",
+    "id": "energy-67569dc5ed45ed0d"
   },
   {
-    "title": "BeatSkillz Slam2 is FREE with the SLAMJAM coupon code",
-    "summary": "BeatSkillz is offering Slam2, its track phattener plugin for macOS and Windows, for free with the code SLAMJAM. Slam2 was heavily discounted when we covered it back in 2021. It is currently listed at $79 on the BeatSkillz site, but the coupon brings the cart and checkout total down to $0. To claim it, add [...] View post: BeatSkillz Slam2 is FREE with the SLAMJAM coupon code",
+    "title": "Minikod offers FREE TD-3 Recall and an exclusive 50% discount for BPB readers",
+    "summary": "Minikod offers TD-3 Recall, a free plugin for saving Behringer TD-3 settings in your DAW project. The developer has also given BPB readers an exclusive 50% discount on any of its paid hardware companion plugins. The discount code is BPB50, and it works for the first 20 customers. The paid plugins normally cost €9.50 each, [...] View post: Minikod offers FREE TD-3 Recall and an exclusive 50% discount for BPB readers",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/13/beatskillz-slam2-free/",
-    "timestamp": "2026-10-13T10:14:09Z",
+    "url": "https://bedroomproducersblog.com/2026/10/14/minikod-bpb-deal/",
+    "timestamp": "2026-10-14T11:36:18Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/13/beatskillz-slam2-free/"
+      "https://bedroomproducersblog.com/2026/10/14/minikod-bpb-deal/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-13T10:14:09Z",
-    "id": "energy-a34827f44c706f84"
+    "data_as_of": "2026-10-14T11:36:18Z",
+    "id": "energy-ea711de26abb69f2"
   },
   {
-    "title": "Drumforge offers Kickforge kick drum plugin for FREE for a limited time",
-    "summary": "Drumforge is giving away Kickforge, its kick drum instrument plugin for macOS and Windows. The offer appears as a pop-up when you visit the Drumforge homepage, but the free claim page I linked to below is the more convenient route. It takes you straight to a form asking for your first name and email address, [...] View post: Drumforge offers Kickforge kick drum plugin for FREE for a limited time",
+    "title": "discoDSP releases WavePrompt, a FREE AI music generation app for macOS and Windows",
+    "summary": "From developer discoDSP comes WavePrompt, a free AI music generation app for macOS and Windows. Currently, AI music generation is a hot but divisive topic. As there is an expanding list of developers adopting the text-to-music approach, the conversation isn’t going anywhere soon. discoDSP is the latest to join that list, and the New Mexico-based [...] View post: discoDSP releases WavePrompt, a FREE AI music generation app for macOS and Windows",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/13/drumforge-kickforge-free/",
-    "timestamp": "2026-10-13T10:08:43Z",
+    "url": "https://bedroomproducersblog.com/2026/10/14/discodsp-waveprompt/",
+    "timestamp": "2026-10-14T11:29:17Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/13/drumforge-kickforge-free/"
+      "https://bedroomproducersblog.com/2026/10/14/discodsp-waveprompt/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-13T10:08:43Z",
-    "id": "energy-1e132dbfbfa249e3"
+    "data_as_of": "2026-10-14T11:29:17Z",
+    "id": "energy-39de09f401353933"
+  },
+  {
+    "title": "Checking back in with Greenlight America",
+    "summary": "A conversation with Matt Traldi.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/checking-back-in-with-greenlight",
+    "timestamp": "2026-10-14T10:07:46Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/checking-back-in-with-greenlight"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-10-14T10:07:46Z",
+    "id": "energy-1f0bdabf9708620f"
   },
   {
     "title": "RLFS S5: Sim 7 Results [Final Bracket - Lower Bracket Quarterfinals]",
