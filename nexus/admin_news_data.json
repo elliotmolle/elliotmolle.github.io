@@ -1,57 +1,336 @@
 [
   {
-    "title": "'Homesick' quest walkthrough in Valor Mortis",
-    "summary": "Here's how to complete the \"Homesick\" Chapter 4 side quest in Valor Mortis, including how to start the quest.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/valor-mortis-homesick-quest-walkthrough/",
-    "timestamp": "2026-10-14T14:46:10Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/valor-mortis-homesick-quest-walkthrough/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T14:46:10Z",
-    "id": "energy-be575671a0bae909"
-  },
-  {
-    "title": "Who Is Paladin? 'VisionQuest's New Villain Is a Wild Fusion of Marvel and Star Wars History",
-    "summary": "Vision is being hunted by the MCU’s version of a Mandalorian",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/paladin-visionquest-explainer/",
-    "timestamp": "2026-10-14T14:42:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/paladin-visionquest-explainer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T14:42:43Z",
-    "id": "energy-1a70bfa9592471d8"
-  },
-  {
-    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+    "title": "Using AI to reverse engineer hardware",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-    "timestamp": "2026-10-14T14:38:55Z",
+    "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "timestamp": "2026-10-15T14:35:15Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
+      "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-14T14:38:55Z",
-    "id": "energy-ab22ca525bd7891e"
+    "data_as_of": "2026-10-15T14:35:15Z",
+    "id": "energy-1bc6f0408e6a7c0a"
+  },
+  {
+    "title": "Activision’s Head Marketer Says Modern Warfare 4 Faces A ‘Call Of Duty Tax’",
+    "summary": "The newest sequel needs to bolster flagging engagement",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/activisions-head-marketer-says-modern-warfare-4-faces-a-call-of-duty-tax-2000746337",
+    "timestamp": "2026-10-15T14:30:12Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/activisions-head-marketer-says-modern-warfare-4-faces-a-call-of-duty-tax-2000746337"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T14:30:12Z",
+    "id": "energy-ba3f2e9410f88e85"
+  },
+  {
+    "title": "'Lullaby' quest walkthrough in Valor Mortis",
+    "summary": "Here's where to find the baby's toy and complete the \"Lullaby\" side quest in Valor Mortis.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/valor-mortis-lullaby-quest-walkthrough-how-to-complete/",
+    "timestamp": "2026-10-15T14:02:46Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/valor-mortis-lullaby-quest-walkthrough-how-to-complete/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T14:02:46Z",
+    "id": "energy-edac9728eaa6c16d"
+  },
+  {
+    "title": "All sprites in Fortnite Chapter 7 Season 4",
+    "summary": "Here's a list of all the new sprites added in Fortnite Chapter 7 Season 4, including the Sonic the Hedgehog sprites.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/",
+    "timestamp": "2026-10-15T13:59:40Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T13:59:40Z",
+    "id": "energy-211bf997f7006915"
+  },
+  {
+    "title": "Sega’s Total War: Shogun 2 Remake Is Such A Disaster It’s Being Pulled From Sale",
+    "summary": "One of the most beloved games of all time has done horrible damage to its reputation",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
+    "timestamp": "2026-10-15T13:59:17Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T13:59:17Z",
+    "id": "energy-71ef80ee0be88822"
+  },
+  {
+    "title": "The Sex Scene Is One Of The Best Parts Of Grand Theft Auto 6′s New Trailer",
+    "summary": "Jason and Lucia bare it all in the GTA6 launch trailer",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/grand-theft-auto-6-new-trailer-sex-scene-jason-lucia-2000746333",
+    "timestamp": "2026-10-15T13:53:58Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/grand-theft-auto-6-new-trailer-sex-scene-jason-lucia-2000746333"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T13:53:58Z",
+    "id": "energy-35fa91b541da6c40"
+  },
+  {
+    "title": "I know why Mathematicians weep",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "timestamp": "2026-10-15T13:44:32Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T13:44:32Z",
+    "id": "energy-b15c1bab09b7f13d"
+  },
+  {
+    "title": "The Beekeeper 2 Brings Back Jason Statham in First Official Trailer",
+    "summary": "Jason Statham is back to protect the hive, as seen in this first-look trailer for The Beekeeper 2, a sequel to David Ayer's action masterpiece.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/the-beekeeper-2-trailer-jason-statham-2027/",
+    "timestamp": "2026-10-15T13:40:20Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/the-beekeeper-2-trailer-jason-statham-2027/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T13:40:20Z",
+    "id": "energy-01a8274226252c1d"
+  },
+  {
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://github.com/fyzugx/DEsk",
+    "timestamp": "2026-10-15T13:23:44Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://github.com/fyzugx/DEsk"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T13:23:44Z",
+    "id": "energy-8ad15f387d928025"
+  },
+  {
+    "title": "Nush and trook’s problem with their team seems to be big",
+    "summary": "submitted by /u/oshxl [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6kz9h/nush_and_trooks_problem_with_their_team_seems_to/",
+    "timestamp": "2026-10-15T13:00:05Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6kz9h/nush_and_trooks_problem_with_their_team_seems_to/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-15T13:00:05Z",
+    "id": "energy-3b9c2025c32d69d5"
+  },
+  {
+    "title": "13x Audio releases Colony, a FREE six-effect plugin for macOS, Windows, and Linux",
+    "summary": "13x Audio has released Colony, a free multi-effect plugin that combines saturation, modulation, reverb, ducking, stereo widening, and lo-fi color in one window. The six effects, which 13x calls Cells, are grouped around the central ENERGY knob. When you turn it, each active Cell moves through its own range. You can set those ranges in [...] View post: 13x Audio releases Colony, a FREE six-effect plugin for macOS, Windows, and Linux",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/15/13x-audio-colony/",
+    "timestamp": "2026-10-15T12:04:32Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/15/13x-audio-colony/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T12:04:32Z",
+    "id": "energy-b5bc1e86121be86b"
+  },
+  {
+    "title": "Plugin Alliance Makes bx_console N and Five More Plugins FREE",
+    "summary": "Plugin Alliance is now offering six plugins for free, including the bx_console N channel strip, Lindell Audio 254E compressor, and bx_masterdesk mastering tool. We covered Plugin Alliance’s previous 20-plugin bundle in 2024. Their free plugins page now offers a completely different set of six plugins, available with any free Plugin Alliance account. Plugin Alliance’s support [...] View post: Plugin Alliance Makes bx_console N and Five More Plugins FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/15/plugin-alliance-bundle-free/",
+    "timestamp": "2026-10-15T11:54:45Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/15/plugin-alliance-bundle-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T11:54:45Z",
+    "id": "energy-4b1dd855ed8e293c"
+  },
+  {
+    "title": "Venus Theory releases Auras:Eria, a FREE cinematic vocal synthesis instrument for Decent Sampler",
+    "summary": "Developer Venus Theory has released Auras:Eria, a free cinematic vocal synthesis instrument for Decent Sampler. Sometimes, when a developer adds a new instrument to a free collection, we rely on the description and demos to decide whether to download it. Other times, we automatically put every new release on the “must try” list. For me, [...] View post: Venus Theory releases Auras:Eria, a FREE cinematic vocal synthesis instrument for Decent Sampler",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/15/venus-theory-auras-eria/",
+    "timestamp": "2026-10-15T11:46:36Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/15/venus-theory-auras-eria/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-15T11:46:36Z",
+    "id": "energy-e6ef0af0107d8166"
+  },
+  {
+    "title": "Could someone explain the 2027 schedule?",
+    "summary": "The schedule is very confusing to me, i heard someone say that there won't be world in 2027 and im pretty sure they're wrong and just misunderstood, because there is no way there is no worlds. I have been following the scene very seriously for the past 3 years, but i didn't read into the schedule much for 2027. submitted by /u/Lil-AbootZ [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6gvb9/could_someone_explain_the_2027_schedule/",
+    "timestamp": "2026-10-15T09:13:53Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6gvb9/could_someone_explain_the_2027_schedule/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-15T09:13:53Z",
+    "id": "energy-95b2cbf35738483a"
+  },
+  {
+    "title": "Stallions CEO: Our reputation alone is enough—it’s what has you trembling at the mere letters of my name and censoring it out. Beating around the bush is the trick of the coward who knows that if they came right out and made a statement, t…",
+    "summary": "Ai translation Rumor has it that Nush and Trook want out of Stallions, Trook even named himself in RL \" i wanna leave Stallions\". This is the ceo response submitted by /u/Beneficial_Cup_3267 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6ggoi/stallions_ceo_our_reputation_alone_is_enoughits/",
+    "timestamp": "2026-10-15T08:48:15Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6ggoi/stallions_ceo_our_reputation_alone_is_enoughits/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-15T08:48:15Z",
+    "id": "energy-f18fef6b1fcacbcd"
+  },
+  {
+    "title": "Zero-cycles and Brauer groups on certain Enriques surfaces",
+    "summary": "arXiv:2610.19307v1 Announce Type: new Abstract: In this paper, we study the Chow group of zero-cycles $\\text{CH}_0(S)$ for certain Enriques quotients $S$ of the Kummer surface associated to the product of two geometrically non-isogenous elliptic curves $E_1$ and $E_2$. We show that over fields of characteristic different from $2$ or $3$, the degree-zero subgroup $A_0(S) \\subset \\text{CH}_0(S)$ is 16-torsion. Over p-adic fields, we compute the transcendental Brauer group $\\text{Br}(S)/\\text{Br}_1(S)$. Using the Brauer-Manin pairing, we construct examples of Enriques surfaces for which $A_0(S)$ attains nontrivial 2-torsion elements arising from push-forward from the abelian surface $E_1\\times E_2$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.19307",
+    "timestamp": "2026-10-15T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.19307"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-15T04:00:00Z",
+    "id": "energy-4816892baab5deff"
+  },
+  {
+    "title": "Wrong Operator or Blind Design? A Post-Training Diagnostic for Physics-Informed Coefficient Learning",
+    "summary": "arXiv:2608.16925v3 Announce Type: replace-cross Abstract: Physics-informed and hybrid models integrate data and physics, and read learned coefficients as physical. Yet a small prediction error guarantees neither that the postulated operator is right, nor that the design identifies the coefficient, nor that training reached its minimum. On one parabolic benchmark where a sensor aggregates several diffusion rates and the truth is known, a correct operator recovers the coefficient to machine precision. A wrong one leaves it $30\\%$ off while the in-domain error is 1.36 times the noise, and drifts $27\\%$ across windows. At $7\\%$ noise the error falls below the noise; the coefficient stays $30\\%$ off. Without the truth, a post-training coefficient diagnostic questions the trained model with three classical statistics, without oracle; the first two need no refit. Does it explain the data? Can the design resolve the named physics? Does the coefficient depend on the window? The specification test keeps its pre-registered false-alarm ceiling and rejects every replicate of both wrong operators tested; a network frozen at its minimum returns the same verdicts. Where the design is blind, a wro…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2608.16925",
+    "timestamp": "2026-10-15T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2608.16925"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-15T04:00:00Z",
+    "id": "energy-1e01221b171be964"
+  },
+  {
+    "title": "Work statistics of sudden quantum quenches: A random matrix theory perspective on Gaussianity and its deviations",
+    "summary": "arXiv:2509.09640v2 Announce Type: replace-cross Abstract: We show that, for sudden quenches, the work distribution reduces to the statistics of the traces of powers of Haar unitaries, which are random unitary matrices drawn uniformly from the unitary group. For translation-invariant quadratic fermionic chains with interactions extending to $m$ neighbors and periodic boundary conditions, the Loschmidt amplitude admits a unitary matrix model / Toeplitz representation, which yields a work variable of the form $W=\\sum_{r\\le m} a_r \\Re\\operatorname{Tr} U^r$ (and in models with pairing terms -superconducting pairing- additional $b_r \\Im\\operatorname{Tr} U^r$ terms appear). By invoking multivariate central limit theorems for vectors of traces of unitaries, we obtain a Gaussian distribution for $P(W)$ with variance $\\mathrm{Var}(W)=\\frac{1}{2}\\sum_r r (a_r^2+b_r^2)$ and asymptotic independence across different powers. We also characterise the conditions under which non-Gaussian tails arise, for example from many interaction terms or their slow decay, as well as the appearance of Fisher-Hartwig singularities. We illustrate these mechanisms in the XY chain. Various numerical diagnostics sup…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2509.09640",
+    "timestamp": "2026-10-15T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2509.09640"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-15T04:00:00Z",
+    "id": "energy-809bba5d1b5839aa"
   },
   {
     "title": "FERC: MISO Zero-Injection Gen Plan For Large Loads Incomplete",
@@ -117,168 +396,6 @@
     "id": "energy-e7281b704f3ed0dd"
   },
   {
-    "title": "How Over-reliance On Google Calendar Ruined My Fire Emblem: Fortune’s Weave Playthrough",
-    "summary": "'Added to your calendar' meant something totally different than what I've become used to",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/how-over-reliance-on-google-calendar-ruined-my-fire-emblem-fortunes-weave-playthrough-2000745899",
-    "timestamp": "2026-10-14T14:30:42Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/how-over-reliance-on-google-calendar-ruined-my-fire-emblem-fortunes-weave-playthrough-2000745899"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T14:30:42Z",
-    "id": "energy-39d1077fd1f4b9d5"
-  },
-  {
-    "title": "Rockstar Issues Rare Official GTA 6 Development Update",
-    "summary": "Rockstar reveals the surprising reasons why GTA 6 took over a decade to release, including studio clashes and development issues",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-bloomberg-jason-rockstar-development/",
-    "timestamp": "2026-10-14T14:17:51Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/gta-6-bloomberg-jason-rockstar-development/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T14:17:51Z",
-    "id": "energy-e6aaeb6e5afa8388"
-  },
-  {
-    "title": "GTA 6 Leaker Announces They Won’t Release The Full Game: ‘The Leeks Stop For Now’",
-    "summary": "Cyberleek seems done with leaks, but says there is a dead man's switch waiting if someone comes after them",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/gta-6-leaker-announces-they-wont-leak-the-full-game-the-leeks-stop-for-now-2000745917",
-    "timestamp": "2026-10-14T14:17:10Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/gta-6-leaker-announces-they-wont-leak-the-full-game-the-leeks-stop-for-now-2000745917"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T14:17:10Z",
-    "id": "energy-d78a2745c9bdc8c2"
-  },
-  {
-    "title": "Enshrouded Is A Survival Adventure Perfected To A Form Of Art By Its Players",
-    "summary": "After two years as an Early Access hit, the full launch for PC and PlayStation 5 is just hours away.",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/enshrouded-is-a-survival-game-evolved-into-an-art-form-by-its-players-2000728929",
-    "timestamp": "2026-10-14T14:00:49Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/enshrouded-is-a-survival-game-evolved-into-an-art-form-by-its-players-2000728929"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T14:00:49Z",
-    "id": "energy-eea63b960630a00c"
-  },
-  {
-    "title": "Switzerland proposes banning profiling-based ads to minors",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
-    "timestamp": "2026-10-14T13:20:02Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T13:20:02Z",
-    "id": "energy-b94681aa1b3e14ed"
-  },
-  {
-    "title": "Eric Binnion has died",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://ma.tt/2026/10/rip-eric/",
-    "timestamp": "2026-10-14T12:58:32Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://ma.tt/2026/10/rip-eric/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T12:58:32Z",
-    "id": "energy-e64cc92ba16f5d01"
-  },
-  {
-    "title": "All The Machines offers UN/T-01, a FREE 808 drum machine plugin",
-    "summary": "All The Machines is offering UN/T-01, a free drum machine with synthesized 808 sounds, sample playback, and a built-in step sequencer. I’m a sucker for drum machine plugins, mainly because of the workflow. When working with a step sequencer, I often find patterns or combinations of sounds that I wouldn’t have come up with by [...] View post: All The Machines offers UN/T-01, a FREE 808 drum machine plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/14/all-the-machines-unt-01/",
-    "timestamp": "2026-10-14T11:40:15Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/14/all-the-machines-unt-01/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T11:40:15Z",
-    "id": "energy-67569dc5ed45ed0d"
-  },
-  {
-    "title": "Minikod offers FREE TD-3 Recall and an exclusive 50% discount for BPB readers",
-    "summary": "Minikod offers TD-3 Recall, a free plugin for saving Behringer TD-3 settings in your DAW project. The developer has also given BPB readers an exclusive 50% discount on any of its paid hardware companion plugins. The discount code is BPB50, and it works for the first 20 customers. The paid plugins normally cost €9.50 each, [...] View post: Minikod offers FREE TD-3 Recall and an exclusive 50% discount for BPB readers",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/14/minikod-bpb-deal/",
-    "timestamp": "2026-10-14T11:36:18Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/14/minikod-bpb-deal/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T11:36:18Z",
-    "id": "energy-ea711de26abb69f2"
-  },
-  {
-    "title": "discoDSP releases WavePrompt, a FREE AI music generation app for macOS and Windows",
-    "summary": "From developer discoDSP comes WavePrompt, a free AI music generation app for macOS and Windows. Currently, AI music generation is a hot but divisive topic. As there is an expanding list of developers adopting the text-to-music approach, the conversation isn’t going anywhere soon. discoDSP is the latest to join that list, and the New Mexico-based [...] View post: discoDSP releases WavePrompt, a FREE AI music generation app for macOS and Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/14/discodsp-waveprompt/",
-    "timestamp": "2026-10-14T11:29:17Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/14/discodsp-waveprompt/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T11:29:17Z",
-    "id": "energy-39de09f401353933"
-  },
-  {
     "title": "Checking back in with Greenlight America",
     "summary": "A conversation with Matt Traldi.",
     "source": "Volts",
@@ -297,48 +414,6 @@
     "id": "energy-1f0bdabf9708620f"
   },
   {
-    "title": "RLFS S5: Sim 7 Results [Final Bracket - Lower Bracket Quarterfinals]",
-    "summary": "The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. If you'd like to know how the %'s were calculated, click on the 'Match X' link and search for a comment I make in that thread where I adjust the polling numbers to our weighted voting system. This season the RLFS uses the combined-format method in determining final game-win %s. Previous sims from this season Sim 1 - Swiss Round 1 Sim 2- Swiss Round 2 Sim 3 - Swiss Round 3 Sim 4 - Swiss Round 4 Sim 5 - Swiss Round 5 Sim 6 - Upper Bracket Quarterfinals & Lower Brack…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x47cpf/rlfs_s5_sim_7_results_final_bracket_lower_bracket/",
-    "timestamp": "2026-10-12T16:59:57Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x47cpf/rlfs_s5_sim_7_results_final_bracket_lower_bracket/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-12T16:59:57Z",
-    "id": "energy-9c96123e5ccec13d"
-  },
-  {
-    "title": "Ghaazi has officially signed as new twisted minds 3rd - Crespor",
-    "summary": "submitted by /u/HimelTy [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x44i7v/ghaazi_has_officially_signed_as_new_twisted_minds/",
-    "timestamp": "2026-10-12T15:13:40Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x44i7v/ghaazi_has_officially_signed_as_new_twisted_minds/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-12T15:13:40Z",
-    "id": "energy-df8a234e44da5af4"
-  },
-  {
     "title": "Volts community thread #31: Postcard from Denmark",
     "summary": "Open to all free & paid subscribers.",
     "source": "Volts",
@@ -355,80 +430,5 @@
     "primary_source": false,
     "data_as_of": "2026-10-12T15:03:51Z",
     "id": "energy-214d41ddba1717e8"
-  },
-  {
-    "title": "When do new esports decals come out?",
-    "summary": "Are the old ones going to dissapear from the shop? submitted by /u/No_Cricket_4560 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x3u633/when_do_new_esports_decals_come_out/",
-    "timestamp": "2026-10-12T06:07:44Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x3u633/when_do_new_esports_decals_come_out/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-12T06:07:44Z",
-    "id": "energy-08f761499cb7338d"
-  },
-  {
-    "title": "Zeros of the Spectrogram of White Noise with Hermite Windows",
-    "summary": "arXiv:2610.13531v1 Announce Type: new Abstract: We study the zeros of the spectrogram of complex white noise analyzed with Hermite windows of order n, extending the classical Gaussian-window correspondence with Gaussian Analytic Functions to the polyanalytic setting. Using the polyanalytic Bargmann transform, these zeros split into two families according to the sign of the local Jacobian, giving rise to a natural notion of charge, and we show that these zeros are almost surely simple, isolated, and form a translation and rotation-invariant point process. We derive closed-form expressions for the one-point intensity, decomposed by charge, and also for the unsigned, signed, and hybrid two-point intensities. Besides, we prove that unlike the total repulsion observed with a Gaussian window, the Hermite window of order n generates a pair correlation function that converges at the origin to a strictly positive constant depending on n. Finally, we propose a numerical method for detecting spectrogram zeros via the winding number around candidate local minima.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.13531",
-    "timestamp": "2026-10-12T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.13531"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-12T04:00:00Z",
-    "id": "energy-d4a17c5b2abfc32d"
-  },
-  {
-    "title": "Yet Another Family of Complex Structures on $S^6$",
-    "summary": "arXiv:2609.33826v2 Announce Type: replace Abstract: Following a similar path as the recent construction of a complex structure on $S^6$ we construct another such family, disjoint from the known ones.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.33826",
-    "timestamp": "2026-10-12T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.33826"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-12T04:00:00Z",
-    "id": "energy-97e9d4572a1b420e"
-  },
-  {
-    "title": "Wiener's lemma for quasicrystals: hull-uniform decay of covariant kernels on Delone sets",
-    "summary": "arXiv:2610.12770v1 Announce Type: new Abstract: This paper studies continuous covariant kernel families over hulls of Delone sets of finite local complexity using graded Wiener-algebra methods. The norm given by the least common weighted summable off-diagonal profile is identified isometrically with a graded $\\ell^1$-norm. The resulting Banach $*$-algebras are symmetric, spectrally invariant in the reduced groupoid C*-algebra, and stable under holomorphic functional calculus. Exact physical weights give preservation of polynomial and stretched-exponential classes, including a fixed stretched-exponential rate. A configuration with dense orbit has a faithful regular representation. Invertibility on that configuration therefore gives an inverse family with one profile valid throughout the hull; for repetitive sets every configuration has this property. For polynomial weights of order $s>0$, return-vector counting yields a differential estimate with parameter $\\kappa/(\\kappa+s)$, where $\\kappa$ is a growth exponent of the return vectors and may be taken equal to $d$ for Meyer sets. Combined with established norm-controlled inversion criteria, this gives explicit bounds in the common-p…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.12770",
-    "timestamp": "2026-10-12T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.12770"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-12T04:00:00Z",
-    "id": "energy-27a7af0cee6b75f5"
   }
 ]

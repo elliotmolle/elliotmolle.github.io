@@ -1,16 +1,16 @@
 [
   {
-    "title": "Germany launches its own fusion milestone program",
-    "summary": "Germany’s Federal Agency for Breakthrough Innovation (SPRIND) has established a milestone-based fusion program on behalf of the Federal Ministry of Research, Technology, and Space (BMFTR) and as part of the government’s High-Tech Agenda Germany (HTAD). The initiative is designed to help the HTAD in its efforts to use technology-specific roadmaps and flagship programs to strengthen Germany’s high-performing technology innovation and to speed the conversion of tech research into practical applications. Through the new Milestone Program, the German government intends to provide financial support to fusion companies—particularly start-ups—to advance fusion technology development. The funds will be awarded via a competitive process.",
+    "title": "Public-private partnership to bring new exhaust system to DIII-D",
+    "summary": "The DIII-D National Fusion Facility announced last week that it will partner with Kyoto Fusioneering to design, manufacture, install, and operate a new power exhaust system in the DIII-D tokamak to advance a negative triangularity approach for commercialization. This effort builds on the company’s partnership with Oak Ridge National Laboratory, which was announced earlier this year.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-14/article-8485/germany-launches-its-own-fusion-milestone-program/",
-    "timestamp": "2026-10-14T14:35:40Z",
+    "url": "https://www.ans.org/news/2026-10-15/article-8489/publicprivate-partnership-to-bring-new-exhaust-system-to-diiid/",
+    "timestamp": "2026-10-15T13:06:14Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-14/article-8485/germany-launches-its-own-fusion-milestone-program/"
+      "https://www.ans.org/news/2026-10-15/article-8489/publicprivate-partnership-to-bring-new-exhaust-system-to-diiid/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-14T14:35:40Z",
-    "id": "energy-dc1533f7c71486aa"
+    "data_as_of": "2026-10-15T13:06:14Z",
+    "id": "energy-49e81a8848c4c5fc"
   },
   {
-    "title": "CoP webinar lays out timeline of RIPB policy",
-    "summary": "The American Nuclear Society’s Risk-informed, Performance-based Principles and Policy Committee (RP3C) recently held another presentation in its monthly Community of Practice (CoP) series. Former RP3C chair N. Prasad Kadambi opened the meeting with brief introductory remarks about the RP3C, the value of risk-informed, performance-based (RIPB) techniques, and the Nuclear Regulatory Commission’s current interest in and work on the field. After these remarks, Kadambi introduced this month’s speaker: Steven Krahn, a professor of the practice of nuclear environmental engineering at Vanderbilt University and chair of the RP3C committee. Krahn’s presentation was titled “The Evolution of the Understanding of Nuclear Reactor Risk and Risk-Informed, Performance-Based Policy in the U.S.”",
+    "title": "Supplier Showcase: Nuclearn talks equipment AI",
+    "summary": "The American Nuclear Society recently hosted a Supplier Showcase webinar, “From Alarm to Answer: How AI Can Reduce Equipment Load and Enhance Performance,” in partnership with Nuclearn, a provider of AI tools built for the nuclear industry.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-14/article-8484/cop-webinar-lays-out-timeline-of-ripb-policy/",
-    "timestamp": "2026-10-14T12:59:30Z",
+    "url": "https://www.ans.org/news/2026-10-15/article-8488/supplier-showcase-nuclearn-talks-equipment-ai/",
+    "timestamp": "2026-10-15T12:11:19Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-14/article-8484/cop-webinar-lays-out-timeline-of-ripb-policy/"
+      "https://www.ans.org/news/2026-10-15/article-8488/supplier-showcase-nuclearn-talks-equipment-ai/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +40,145 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-14T12:59:30Z",
-    "id": "energy-d58c222b3ec23b08"
+    "data_as_of": "2026-10-15T12:11:19Z",
+    "id": "energy-11a2bfe09a4c6f08"
+  },
+  {
+    "title": "Generator Information System cost-exemption requests and renewals for 2027 due Nov. 16",
+    "summary": "GIS is an emissions reporting and tracking tool that monitors environmental attributes of generated electricity. The post Generator Information System cost-exemption requests and renewals for 2027 due Nov. 16 appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/15/generator-information-system-cost-exemption-requests-and-renewals-for-2027-due-nov-16/",
+    "timestamp": "2026-10-15T12:00:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/15/generator-information-system-cost-exemption-requests-and-renewals-for-2027-due-nov-16/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-15T12:00:00Z",
+    "id": "energy-d0e1613202642bb5"
+  },
+  {
+    "title": "Maritime Nuclear Startup Bluecore Buys First Uranium For Nuclear Plants On Barges",
+    "summary": "Bluecore Energy, the Long Beach, US-based floating nuclear power startup, has bought its first supply of uranium hexafluoride (UF6), a low-enriched 4.95% blend of U-235 suitable for a commercial nuclear power installation. The material is being held at a US nuclear fuel facility outside the state of California while Bluecore advances its plans for future fuel fabrication, testing and validation. UF6 is the required form of uranium during the enrichment stage of the nuclear fuel cycle. During the fuel fabrication stage, the UF6 is converted into uranium dioxide, or UO2, which can then be fabricated into fuel pellets and assembled into nuclear fuel. The purchase follows Bluecore’s recent $50m (€44m) seed financing.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/maritime-nuclear-startup-bluecore-buys-first-uranium-for-nuclear-plants-on-barges-10-4-2026",
+    "timestamp": "2026-10-15T10:38:40Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/maritime-nuclear-startup-bluecore-buys-first-uranium-for-nuclear-plants-on-barges-10-4-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-15T10:38:40Z",
+    "id": "energy-a66844b136e148d9"
+  },
+  {
+    "title": "ABS, DOE-NE sign maritime nuclear MOU",
+    "summary": "The American Bureau of Shipping and the Department of Energy’s Office of Nuclear Energy have signed a memorandum of understanding to advance modern commercial nuclear technology at sea, whether as floating nuclear power plants; nuclear-powered vessels; or at ports, shipyards, or industrial bases.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-14/article-8487/abs-doene-sign-maritime-nuclear-mou/",
+    "timestamp": "2026-10-14T20:34:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-14/article-8487/abs-doene-sign-maritime-nuclear-mou/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-14T20:34:20Z",
+    "id": "energy-481dc10a3c760b50"
+  },
+  {
+    "title": "Entergy Texas pone en operación la Central Eléctrica Avanzada de Orange County (OCAPS) para suministrar energía confiable al Sureste de Texas",
+    "summary": "La instalación de 1.215 megavatios ayudará a satisfacer la creciente demanda eléctrica; además utiliza tecnología con mayor eficiencia de combustible para generar más de $1.000 millones en ahorros a largo plazo para los clientes. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-texas-pone-en-operacion-la-central-electrica-avanzada-de-orange-county-ocaps-para-suministrar-energia-confiable-al-sureste-de-texas",
+    "timestamp": "2026-10-14T20:27:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-texas-pone-en-operacion-la-central-electrica-avanzada-de-orange-county-ocaps-para-suministrar-energia-confiable-al-sureste-de-texas"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-14T20:27:36Z",
+    "id": "energy-12f70cc6ed8cc566"
+  },
+  {
+    "title": "Entergy Texas’ Orange County Advanced Power Station begins delivering reliable power to Southeast Texas",
+    "summary": "Entergy Texas officially placed its Orange County Advanced Power Station into service today, adding a new source of around-the-clock power to help meet the growing energy needs across Southeast Texas. The 1,215-megawatt facility can generate enough electricity to power more than 230,000 homes. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-texas-orange-county-advanced-power-station-begins-delivering-reliable-power-to-southeast-texas",
+    "timestamp": "2026-10-14T20:16:42Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-texas-orange-county-advanced-power-station-begins-delivering-reliable-power-to-southeast-texas"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-14T20:16:42Z",
+    "id": "energy-2954b0e6be21ba32"
+  },
+  {
+    "title": "Meet the pros: Jeffery Moore",
+    "summary": "For Jeffery Moore, a financial analyst based out of our Nuclear Headquarters in Jackson, Mississippi, financial proficiency begins with collaborative efforts that support the company’s nuclear excellence model through financial planning, forecasting and regulatory support. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/meet-the-pros-jeffery-moore",
+    "timestamp": "2026-10-14T18:22:05Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/meet-the-pros-jeffery-moore"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-14T18:22:05Z",
+    "id": "energy-83f0ac68974191cc"
   },
   {
     "title": "Video explains changes to Day-Ahead Ancillary Services market",
@@ -64,100 +201,6 @@
     ],
     "data_as_of": "2026-10-14T12:04:06Z",
     "id": "energy-f77c1211ef07de6b"
-  },
-  {
-    "title": "Entergy invests in the future workforce through STEM scholarships for students attending Historically Black Colleges and Universities",
-    "summary": "Entergy's Power of Prosperity program equips recipients with tools for success through education, career and workforce development programs Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-invests-in-the-future-workforce-through-stem-scholarships-for-students-attending-historically-black-colleges-and-universities",
-    "timestamp": "2026-10-14T11:10:44Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-invests-in-the-future-workforce-through-stem-scholarships-for-students-attending-historically-black-colleges-and-universities"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-14T11:10:44Z",
-    "id": "energy-65f36dc0efe997ac"
-  },
-  {
-    "title": "Westinghouse moves forward on Polish, Dutch power plant projects",
-    "summary": "Westinghouse continues to make progress on building the first nuclear power plant in Poland, having begun the long-lead-item procurement process and signed conditional purchase orders for the first of three planned AP1000 units. The company also announced recently that it will be partnering with Hyundai Engineering & Construction on the front-end engineering design (FEED) phase of a project to deploy two large-scale reactors in the Netherlands.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-13/article-8483/westinghouse-moves-forward-on-polish-dutch-power-plant-projects/",
-    "timestamp": "2026-10-13T21:12:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-13/article-8483/westinghouse-moves-forward-on-polish-dutch-power-plant-projects/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-13T21:12:20Z",
-    "id": "energy-bfe2ab1cc0e29e22"
-  },
-  {
-    "title": "The road to Kansas: Entergy lineworkers take their skills to the international stage",
-    "summary": "For the Entergy lineworkers headed to Overland Park, Kansas, the competition doesn’t begin when they arrive at the rodeo grounds. It begins weeks and sometimes months earlier, with practice, preparation and repeated drills that demand the same precision and attention to detail they bring to their work every day. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/the-road-to-kansas-entergy-lineworkers-take-their-skills-to-the-international-stage",
-    "timestamp": "2026-10-13T20:06:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/the-road-to-kansas-entergy-lineworkers-take-their-skills-to-the-international-stage"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-13T20:06:00Z",
-    "id": "energy-00e3b184c1a69377"
-  },
-  {
-    "title": "Entergy celebrates 25 years of local sustainability impact through Environmental Initiative Fund",
-    "summary": "Entergy is commemorating the 25th anniversary of its Environmental Initiatives Fund, marking a milestone in a long history of environmental commitment that began well before sustainability became a corporate trend. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-celebrates-25-years-of-local-sustainability-impact-through-environmental-initiative-fund",
-    "timestamp": "2026-10-13T15:45:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-celebrates-25-years-of-local-sustainability-impact-through-environmental-initiative-fund"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-13T15:45:22Z",
-    "id": "energy-93dec0dee8e69b0b"
   },
   {
     "title": "Consumer Liaison Group explores growing role of energy storage",
