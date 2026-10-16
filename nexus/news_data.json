@@ -1,16 +1,16 @@
 [
   {
-    "title": "Public-private partnership to bring new exhaust system to DIII-D",
-    "summary": "The DIII-D National Fusion Facility announced last week that it will partner with Kyoto Fusioneering to design, manufacture, install, and operate a new power exhaust system in the DIII-D tokamak to advance a negative triangularity approach for commercialization. This effort builds on the company’s partnership with Oak Ridge National Laboratory, which was announced earlier this year.",
+    "title": "NRC OKs Westinghouse AP1000 design certification revision, renewal",
+    "summary": "The Nuclear Regulatory Commission has approved Westinghouse’s request to renew and update the standard design certification (DC) for its AP1000 reactor. Wednesday’s renewal allows Westinghouse to incorporate the lessons learned from the construction of Vogtle-3 and -4 in Georgia into the design of the AP1000, establishing Vogtle-4 as the standard AP1000 reference plant for U.S. deployment. The DC renewal should further Westinghouse’s efforts to make repeated deployments of its AP1000—a reactor that is a key player in domestic efforts to quadruple nuclear capacity over the next few decades—more rapid and efficient.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-15/article-8489/publicprivate-partnership-to-bring-new-exhaust-system-to-diiid/",
-    "timestamp": "2026-10-15T13:06:14Z",
+    "url": "https://www.ans.org/news/2026-10-16/article-8493/nrc-oks-westinghouse-ap1000-design-certification-revision-renewal/",
+    "timestamp": "2026-10-16T13:30:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-15/article-8489/publicprivate-partnership-to-bring-new-exhaust-system-to-diiid/"
+      "https://www.ans.org/news/2026-10-16/article-8493/nrc-oks-westinghouse-ap1000-design-certification-revision-renewal/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,88 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-15T13:06:14Z",
-    "id": "energy-49e81a8848c4c5fc"
+    "data_as_of": "2026-10-16T13:30:39Z",
+    "id": "energy-34981b337d286cf2"
   },
   {
-    "title": "Supplier Showcase: Nuclearn talks equipment AI",
-    "summary": "The American Nuclear Society recently hosted a Supplier Showcase webinar, “From Alarm to Answer: How AI Can Reduce Equipment Load and Enhance Performance,” in partnership with Nuclearn, a provider of AI tools built for the nuclear industry.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-15/article-8488/supplier-showcase-nuclearn-talks-equipment-ai/",
-    "timestamp": "2026-10-15T12:11:19Z",
+    "title": "Sweden’s Studsvik Signs ‘Landmark’ Spent Nuclear Fuel Agreement With Norway",
+    "summary": "Sweden-based nuclear services company Studsvik has signed what it called a “landmark” agreement to manage Norway’s legacy spent nuclear fuel. The agreement with Norwegian Nuclear Decommissioning (NND), the Norwegian state agency responsible for decommissioning the country’s nuclear facilities, runs until 2055 and has an estimated contractual minimum value of about SEK 875m (€78m, $88m) and a potential total value for Studsvik of SEK 3-4bn. It covers transport, treatment of waste to meet long-term storage requirements and the interim storage of spent fuel from Norway’s former research reactors at Halden and Kjeller.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/studsvik-signs-landmark-spent-nuclear-fuel-agreement-with-norway-10-5-2026",
+    "timestamp": "2026-10-16T12:40:53Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/studsvik-signs-landmark-spent-nuclear-fuel-agreement-with-norway-10-5-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-16T12:40:53Z",
+    "id": "energy-265307e2e8052a17"
+  },
+  {
+    "title": "Interactive user guide available for NX Application",
+    "summary": "The NX Application hosts generator and transmission data that is used to model the power system and support reliability. The post Interactive user guide available for NX Application appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/16/interactive-user-guide-available-for-nx-application/",
+    "timestamp": "2026-10-16T12:00:00Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-15/article-8488/supplier-showcase-nuclearn-talks-equipment-ai/"
+      "https://isonewswire.com/2026/10/16/interactive-user-guide-available-for-nx-application/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-16T12:00:00Z",
+    "id": "energy-7a33f4b3a26da6f1"
+  },
+  {
+    "title": "Insights from the Entergy Arkansas Affordability Summit",
+    "summary": "Entergy Arkansas's Affordability Summit brought together organizations that serve many of the same communities and often encounter the same challenges from different perspectives. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/insights-from-the-entergy-arkansas-affordability-summit",
+    "timestamp": "2026-10-15T20:49:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/insights-from-the-entergy-arkansas-affordability-summit"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-15T20:49:44Z",
+    "id": "energy-da9e5b79ab28231c"
+  },
+  {
+    "title": "Oklo announces plans for Groves-2",
+    "summary": "This week, Oklo revealed the details of the next chapter of its Groves project. Those plans will build on the company’s previous progress through the Department of Energy’s Reactor Pilot Program, will be enabled by the DOE’s follow-on Nuclear Energy Launch Pad Program, and will focus initially on medical isotope production.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-15/article-8492/oklo-announces-plans-for-groves2/",
+    "timestamp": "2026-10-15T20:47:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-15/article-8492/oklo-announces-plans-for-groves2/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +107,54 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-15T12:11:19Z",
-    "id": "energy-11a2bfe09a4c6f08"
+    "data_as_of": "2026-10-15T20:47:26Z",
+    "id": "energy-fc55f2d36be8c0b1"
+  },
+  {
+    "title": "Forward Searcy Site 1 earns Entergy Arkansas ‘Select Site’ certification",
+    "summary": "Forward Searcy and Entergy Arkansas today announced that Forward Searcy Site 1 has earned Entergy Arkansas’ Select Site certification, recognizing the 44.46-acre property as a development-ready industrial site that has completed rigorous due diligence and meets established site-readiness standards. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/forward-searcy-site-1-earns-entergy-arkansas-select-site-certification",
+    "timestamp": "2026-10-15T19:07:41Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/forward-searcy-site-1-earns-entergy-arkansas-select-site-certification"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-15T19:07:41Z",
+    "id": "energy-828b1d80ddaf91b7"
+  },
+  {
+    "title": "Molten salt–fueled reactor experiment approved for DOE cost-shared funding",
+    "summary": "Yesterday, Southern Company and Core Power announced that the Department of Energy approved cost-shared funding through the Advanced Reactor Demonstration Program (ARDP) for an accelerated final stage of the Molten Chloride Reactor Experiment (MCRE), which the companies are conducting in collaboration with Idaho National Laboratory. According to the announcement, MCRE could achieve criticality as early as 2027, which could be a world-first: To date, no fast-spectrum molten chloride salt reactor has reached criticality.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-15/article-8491/molten-saltfueled-reactor-experiment-approved-for-doe-costshared-funding/",
+    "timestamp": "2026-10-15T18:30:42Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-15/article-8491/molten-saltfueled-reactor-experiment-approved-for-doe-costshared-funding/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-15T18:30:42Z",
+    "id": "energy-263ada517b17133c"
   },
   {
     "title": "Generator Information System cost-exemption requests and renewals for 2027 due Nov. 16",
@@ -87,28 +200,6 @@
     "id": "energy-a66844b136e148d9"
   },
   {
-    "title": "ABS, DOE-NE sign maritime nuclear MOU",
-    "summary": "The American Bureau of Shipping and the Department of Energy’s Office of Nuclear Energy have signed a memorandum of understanding to advance modern commercial nuclear technology at sea, whether as floating nuclear power plants; nuclear-powered vessels; or at ports, shipyards, or industrial bases.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-14/article-8487/abs-doene-sign-maritime-nuclear-mou/",
-    "timestamp": "2026-10-14T20:34:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-14/article-8487/abs-doene-sign-maritime-nuclear-mou/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-14T20:34:20Z",
-    "id": "energy-481dc10a3c760b50"
-  },
-  {
     "title": "Entergy Texas pone en operación la Central Eléctrica Avanzada de Orange County (OCAPS) para suministrar energía confiable al Sureste de Texas",
     "summary": "La instalación de 1.215 megavatios ayudará a satisfacer la creciente demanda eléctrica; además utiliza tecnología con mayor eficiencia de combustible para generar más de $1.000 millones en ahorros a largo plazo para los clientes. Source",
     "source": "Entergy",
@@ -133,54 +224,6 @@
     "id": "energy-12f70cc6ed8cc566"
   },
   {
-    "title": "Entergy Texas’ Orange County Advanced Power Station begins delivering reliable power to Southeast Texas",
-    "summary": "Entergy Texas officially placed its Orange County Advanced Power Station into service today, adding a new source of around-the-clock power to help meet the growing energy needs across Southeast Texas. The 1,215-megawatt facility can generate enough electricity to power more than 230,000 homes. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-texas-orange-county-advanced-power-station-begins-delivering-reliable-power-to-southeast-texas",
-    "timestamp": "2026-10-14T20:16:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-texas-orange-county-advanced-power-station-begins-delivering-reliable-power-to-southeast-texas"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-14T20:16:42Z",
-    "id": "energy-2954b0e6be21ba32"
-  },
-  {
-    "title": "Meet the pros: Jeffery Moore",
-    "summary": "For Jeffery Moore, a financial analyst based out of our Nuclear Headquarters in Jackson, Mississippi, financial proficiency begins with collaborative efforts that support the company’s nuclear excellence model through financial planning, forecasting and regulatory support. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/meet-the-pros-jeffery-moore",
-    "timestamp": "2026-10-14T18:22:05Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/meet-the-pros-jeffery-moore"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-14T18:22:05Z",
-    "id": "energy-83f0ac68974191cc"
-  },
-  {
     "title": "Video explains changes to Day-Ahead Ancillary Services market",
     "summary": "The DA A/S enhancements were developed in response to operational experience, market observations, and stakeholder feedback. The post Video explains changes to Day-Ahead Ancillary Services market appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -201,48 +244,5 @@
     ],
     "data_as_of": "2026-10-14T12:04:06Z",
     "id": "energy-f77c1211ef07de6b"
-  },
-  {
-    "title": "Consumer Liaison Group explores growing role of energy storage",
-    "summary": "A video recording and summary of the Sept. 24 meeting in Portland, Maine, are available online. The post Consumer Liaison Group explores growing role of energy storage appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/13/consumer-liaison-group-explores-growing-role-of-energy-storage/",
-    "timestamp": "2026-10-13T14:46:09Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/13/consumer-liaison-group-explores-growing-role-of-energy-storage/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-13T14:46:09Z",
-    "id": "energy-23f33e8f9c9ed83b"
-  },
-  {
-    "title": "Bangladesh’s Rooppur-1 Nuclear Plant Achieves First Criticality",
-    "summary": "Unit 1 at the Rooppur nuclear power station being built by Russia in Bangladesh has achieved criticality with grid connection expected by the end of November. The 1,080-MW VVER V-523 pressurised water reactor unit, construction of which began in 2017, achieved first criticality at 15:34 on 11 October. First criticality is the milestone moment when a nuclear reactor achieves a self-sustaining, controlled chain reaction for the very first time. Rooppur, Bangladesh’s most expensive infrastructure facility, has considerable backing from Russia. Moscow is financing $11.9bn (€10.6bn) in state loans for the project, which has been estimated to cost up to $12.8bn.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/bangladesh-s-rooppur-1-nuclear-plant-achieves-first-criticality-10-1-2026",
-    "timestamp": "2026-10-13T07:32:21Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/bangladesh-s-rooppur-1-nuclear-plant-achieves-first-criticality-10-1-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-13T07:32:21Z",
-    "id": "energy-a4dfcbcd5db8680a"
   }
 ]

@@ -1,165 +1,354 @@
 [
   {
-    "title": "Using AI to reverse engineer hardware",
+    "title": "Energy Dept. Issues Emergency Order Amid Above-Average Temperatures",
+    "summary": "By Chrstine Hauser Power grids are vulnerable to wild swings in weather, from crippling winter cold to oppressive summer heat. But unseasonably warm early fall weather has energy officials taking steps this week to reduce the risk of outages in some parts of the country. The Energy Department issued an order intended to make it […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/energy-dept-issues-emergency-order-amid-above-average-temperatures/",
+    "timestamp": "2026-10-16T14:32:29Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/energy-dept-issues-emergency-order-amid-above-average-temperatures/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-16T14:32:29Z",
+    "id": "energy-831638e3c37b8b04"
+  },
+  {
+    "title": "US Is Reviving Shuttered Nuclear Plants To Meet Growing Electricity Demand And To Power Data Centers",
+    "summary": "By Jennifer McDermott The United States is making an unprecedented attempt to revive three shuttered nuclear plants to meet rising energy demand, including from large-scale data centers. No commercial nuclear reactor is known to have resumed generating electricity after beginning the decommissioning process that takes one out of service, though some reactors have restarted after […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers/",
+    "timestamp": "2026-10-16T14:30:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-16T14:30:27Z",
+    "id": "energy-27c4a17b34564aa1"
+  },
+  {
+    "title": "Silent Hill And Metal Gear Publisher Konami Does ‘Not Believe The Market Will Shift Significantly’ Because Of AI",
+    "summary": "The idea-making process of developers 'cannot be replaced easily,' the company insists in new financial report",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506",
+    "timestamp": "2026-10-16T14:30:23Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T14:30:23Z",
+    "id": "energy-adf131c6521d32e1"
+  },
+  {
+    "title": "Entergy Texas Begins Service At 1.2-GW Gas-Fired Plant",
+    "summary": "By Jerome Ignacio and Markham Watson • Combined-cycle tech cuts fuel costs by $1B • Texas demand grows 13% through 2028 Entergy Texas Inc. has placed its 1,215-megawatt Orange County Advanced Power Station into service, adding a new resource to help meet growing power demand across Southeast Texas, the company said in a press release […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/entergy-texas-begins-service-at-1-2-gw-gas-fired-plant/",
+    "timestamp": "2026-10-16T14:28:37Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/entergy-texas-begins-service-at-1-2-gw-gas-fired-plant/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-16T14:28:37Z",
+    "id": "energy-c01878fba03ca3db"
+  },
+  {
+    "title": "'Cyberpunk 2077' Movie First Details Officially Confirmed, Won’t Adapt Game 1:1",
+    "summary": "CD Projekt Red CEO Michał Nowakowski confirmed that the upcoming live-action Cyberpunk movie won't be a 1:1 adaptation of the game.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/cyberpunk-2077-movie-first-details-confirmed/",
+    "timestamp": "2026-10-16T14:20:54Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/cyberpunk-2077-movie-first-details-confirmed/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T14:20:54Z",
+    "id": "energy-5606f4c0b797b8a2"
+  },
+  {
+    "title": "One of the Most Intriguing RPGs of 2027 Plays With Time Brilliantly",
+    "summary": "Eternal Anima is a new JRPG from Marvelous Inc. that uses time-manipulation to reinvent turn-based battles and class systems.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/eternal-anima-rpg-preview-ps5-switch-2-pc-xbox/",
+    "timestamp": "2026-10-16T14:10:03Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/eternal-anima-rpg-preview-ps5-switch-2-pc-xbox/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T14:10:03Z",
+    "id": "energy-76863624350b6ad6"
+  },
+  {
+    "title": "25 Years Later, DC's Most Innovative Sci-Fi Show Changed Superheroes Forever",
+    "summary": "Smallville turns 25. Its focus on Clark Kent, friendship with Lex Luthor, and “no tights, no flights” rule helped change superhero TV.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/smallville-25th-anniversary-superman/",
+    "timestamp": "2026-10-16T14:01:17Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/smallville-25th-anniversary-superman/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T14:01:17Z",
+    "id": "energy-3ef3b4cb5a94a1d9"
+  },
+  {
+    "title": "More Surprise Zelda: Ocarina Of Time Remake Footage Reveals One Of The Coolest Moments From The Original",
+    "summary": "Dark Link was one of the top 10 highlights of the N64 classic",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/more-surprise-zelda-ocarina-of-time-remake-footage-reveals-one-of-the-coolest-moments-from-the-original-2000746734",
+    "timestamp": "2026-10-16T14:00:21Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/more-surprise-zelda-ocarina-of-time-remake-footage-reveals-one-of-the-coolest-moments-from-the-original-2000746734"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T14:00:21Z",
+    "id": "energy-3e1fd87ceb2c1a3d"
+  },
+  {
+    "title": "Everything You Need To Know About Street Fighter’s Post-Credits Scene",
+    "summary": "Kitao Sakurai’s fighting game adaptation sets up a sequel with a familiar face",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/street-fighter-post-credits-scene-how-many-when-sagat-2000746739",
+    "timestamp": "2026-10-16T13:30:38Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/street-fighter-post-credits-scene-how-many-when-sagat-2000746739"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T13:30:38Z",
+    "id": "energy-dac80457eb5c0a6b"
+  },
+  {
+    "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-    "timestamp": "2026-10-15T14:35:15Z",
+    "url": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
+    "timestamp": "2026-10-16T13:09:25Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
+      "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-15T14:35:15Z",
-    "id": "energy-1bc6f0408e6a7c0a"
+    "data_as_of": "2026-10-16T13:09:25Z",
+    "id": "energy-1d24bf8002572bae"
   },
   {
-    "title": "Activision’s Head Marketer Says Modern Warfare 4 Faces A ‘Call Of Duty Tax’",
-    "summary": "The newest sequel needs to bolster flagging engagement",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/activisions-head-marketer-says-modern-warfare-4-faces-a-call-of-duty-tax-2000746337",
-    "timestamp": "2026-10-15T14:30:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/activisions-head-marketer-says-modern-warfare-4-faces-a-call-of-duty-tax-2000746337"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T14:30:12Z",
-    "id": "energy-ba3f2e9410f88e85"
-  },
-  {
-    "title": "'Lullaby' quest walkthrough in Valor Mortis",
-    "summary": "Here's where to find the baby's toy and complete the \"Lullaby\" side quest in Valor Mortis.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/valor-mortis-lullaby-quest-walkthrough-how-to-complete/",
-    "timestamp": "2026-10-15T14:02:46Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/valor-mortis-lullaby-quest-walkthrough-how-to-complete/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T14:02:46Z",
-    "id": "energy-edac9728eaa6c16d"
-  },
-  {
-    "title": "All sprites in Fortnite Chapter 7 Season 4",
-    "summary": "Here's a list of all the new sprites added in Fortnite Chapter 7 Season 4, including the Sonic the Hedgehog sprites.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/",
-    "timestamp": "2026-10-15T13:59:40Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T13:59:40Z",
-    "id": "energy-211bf997f7006915"
-  },
-  {
-    "title": "Sega’s Total War: Shogun 2 Remake Is Such A Disaster It’s Being Pulled From Sale",
-    "summary": "One of the most beloved games of all time has done horrible damage to its reputation",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
-    "timestamp": "2026-10-15T13:59:17Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T13:59:17Z",
-    "id": "energy-71ef80ee0be88822"
-  },
-  {
-    "title": "The Sex Scene Is One Of The Best Parts Of Grand Theft Auto 6′s New Trailer",
-    "summary": "Jason and Lucia bare it all in the GTA6 launch trailer",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/grand-theft-auto-6-new-trailer-sex-scene-jason-lucia-2000746333",
-    "timestamp": "2026-10-15T13:53:58Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/grand-theft-auto-6-new-trailer-sex-scene-jason-lucia-2000746333"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T13:53:58Z",
-    "id": "energy-35fa91b541da6c40"
-  },
-  {
-    "title": "I know why Mathematicians weep",
+    "title": "I Love Software Rendering",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-    "timestamp": "2026-10-15T13:44:32Z",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "timestamp": "2026-10-16T12:52:08Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep"
+      "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-15T13:44:32Z",
-    "id": "energy-b15c1bab09b7f13d"
+    "data_as_of": "2026-10-16T12:52:08Z",
+    "id": "energy-e7d1731963986113"
   },
   {
-    "title": "The Beekeeper 2 Brings Back Jason Statham in First Official Trailer",
-    "summary": "Jason Statham is back to protect the hive, as seen in this first-look trailer for The Beekeeper 2, a sequel to David Ayer's action masterpiece.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-beekeeper-2-trailer-jason-statham-2027/",
-    "timestamp": "2026-10-15T13:40:20Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/the-beekeeper-2-trailer-jason-statham-2027/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T13:40:20Z",
-    "id": "energy-01a8274226252c1d"
-  },
-  {
-    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "title": "Bark: The Toll-Free BBS for 90s Teens",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/fyzugx/DEsk",
-    "timestamp": "2026-10-15T13:23:44Z",
+    "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+    "timestamp": "2026-10-16T12:22:13Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/fyzugx/DEsk"
+      "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-15T13:23:44Z",
-    "id": "energy-8ad15f387d928025"
+    "data_as_of": "2026-10-16T12:22:13Z",
+    "id": "energy-2ddef92b5d7f274e"
+  },
+  {
+    "title": "That Worship Sound offers Mammoth Bass Moog one-shots FREE until October 31",
+    "summary": "That Worship Sound is offering Mammoth Bass – Moog Subsequent 37 One Shots, a collection of analog synth bass samples, for free until October 31. The pack normally costs $15. With so many new plugins appearing daily, I think it’s actually becoming more interesting to cover things that involve some real human interaction with gear. [...] View post: That Worship Sound offers Mammoth Bass Moog one-shots FREE until October 31",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/16/mammoth-bass-moog-free/",
+    "timestamp": "2026-10-16T11:58:14Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/16/mammoth-bass-moog-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T11:58:14Z",
+    "id": "energy-c7554e3cfe0d0eea"
+  },
+  {
+    "title": "Slate Digital launches FREE 16-plugin collection with SSL, Harrison, and sonible",
+    "summary": "Slate Digital has launched Complete Access Free Collection, a bundle of 16 plugins from Slate Digital, SSL, Harrison Audio, and sonible that you can keep forever. Another day, another massive free plugin bundle. Yesterday, we covered the new free plugin collection from Plugin Alliance, and now Slate Digital steps in with another set of freebies. [...] View post: Slate Digital launches FREE 16-plugin collection with SSL, Harrison, and sonible",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/16/slate-free-plugin-collection/",
+    "timestamp": "2026-10-16T11:36:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/16/slate-free-plugin-collection/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T11:36:08Z",
+    "id": "energy-091487a65d6b791a"
+  },
+  {
+    "title": "What’s up with Denmark?",
+    "summary": "A conversation with Kristian Jensen of Green Power Denmark.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/whats-up-with-denmark",
+    "timestamp": "2026-10-16T10:05:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/whats-up-with-denmark"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T10:05:36Z",
+    "id": "energy-efa1439ac70f28f4"
+  },
+  {
+    "title": "NoiseWorks releases PloseAssist, a FREE plugin for removing vocal plosives",
+    "summary": "NoiseWorks has released PloseAssist, a free plugin that automatically reduces the low-frequency pops caused by hard P and B sounds in vocal recordings. Back when I was learning to record vocals for the first time, the standard bedroom studio trick was to put a thin sock or similar material in front of the mic as [...] View post: NoiseWorks releases PloseAssist, a FREE plugin for removing vocal plosives",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/16/noiseworks-ploseassist/",
+    "timestamp": "2026-10-16T09:24:07Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/16/noiseworks-ploseassist/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T09:24:07Z",
+    "id": "energy-9992d8dbc365f522"
+  },
+  {
+    "title": "Zhang twists for semigroups and groupoids, with applications to Steinberg algebras",
+    "summary": "arXiv:2610.21005v1 Announce Type: new Abstract: Zhang twists provide a powerful mechanism for deforming graded algebras, while preserving their graded module categories. We extend this theory by introducing Zhang twists for graded semigroups and graded ample groupoids. We show that the twisting construction preserves a broad class of semigroup structures, and that two graded monoids are twists of each other if and only if their categories of graded sets are pointedly equivalent. We show that Zhang twists are compatible with noncommutative Stone duality: twists on graded-Boolean inverse semigroups are in correspondence with those on the associated graded ample groupoids. Moreover, in the setting of Steinberg algebras we prove that twisting the groupoid gives the same result as twisting the corresponding algebra. These results provide a unified framework linking graded semigroups, inverse semigroup duality, ample groupoids, and graded algebras, while extending the scope of Zhang twists to settings arising from symbolic dynamics, graph algebras, and Steinberg algebras.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.21005",
+    "timestamp": "2026-10-16T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.21005"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-16T04:00:00Z",
+    "id": "energy-c52e60ed4a9f4f52"
+  },
+  {
+    "title": "Zero density in short strips and short-interval bounds toward Hypothesis S",
+    "summary": "arXiv:2610.15989v2 Announce Type: replace Abstract: We deduce zero-density estimates in short vertical strips from short-interval moments of globally tempered automorphic $L$-functions, by adapting the large-value estimate of Guth and Maynard and the Type II zero argument of Maynard and Pratt to the framework of Ye and Zhang. For the Riemann zeta function, we obtain $N_\\zeta(\\sigma;T,T+T^a)\\ll T^{15a(1-\\sigma)/(3+5\\sigma)+\\varepsilon}$ for $2/3\\le a\\le1$ and $7/10\\le\\sigma\\le4/5$, improving Ye--Zhang's exponent in the interior of this range. Combining the localized density bound with the recent quasi-Riemann theorems, we estimate smoothed prime-power sums with phase $\\exp(2\\pi i\\alpha n^\\beta)$ on intervals of length $K^\\delta$. For $0<\\beta<13/20$, we obtain a power saving whenever $\\max\\{17/30,1-\\beta\\}<\\delta<1$; in particular the square-root phase admits every $\\delta>17/30$. A revised transform estimate retains both the stationary spread and the Fourier width $K/L$. For example, the bound at $\\beta=1/2$, $\\delta=3/5$ is $K^{15/26+\\varepsilon}$, uniformly for frequencies $m\\alpha$ with $1\\le m\\le K^{1/10}$. We also retain power savings for certain self-dual $GL(2)$ twists and…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.15989",
+    "timestamp": "2026-10-16T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.15989"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-16T04:00:00Z",
+    "id": "energy-c3ea1e25778a331e"
+  },
+  {
+    "title": "Z-Opt: A Near-Optimal Reduced-Complexity Two-Dimensional Grassmannian Constellation",
+    "summary": "arXiv:2605.04545v2 Announce Type: replace Abstract: Grassmannian constellations achieve the capacity of noncoherent communications over Rayleigh fading channels at high SNR, yet their efficient construction remains challenging. In this paper, we present two construction methods for Grassmannian constellations on G(2,1), termed S-Opt and Z-Opt, and propose two low-complexity detectors. Both construction and detection are performed on the unit sphere, known as the Bloch sphere in quantum computing. Exploiting the proportionality between the chordal distance on the Grassmann manifold and the Euclidean distance on the Bloch sphere, we derive a theoretical upper bound on the minimum chordal distance from the Fejes-Toth bound. The S-Opt constellation is constructed from sphere-packing solutions and achieves the theoretical limit corresponding to the considered optimal Bloch-sphere packings. The S-Opt detector applies to arbitrary constellations on G(2,1) and requires a number of complex multiplications scaling linearly with the number of receive antennas and logarithmically with the constellation size, and a number of numerical comparisons scaling logarithmically with the constellation…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2605.04545",
+    "timestamp": "2026-10-16T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2605.04545"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-16T04:00:00Z",
+    "id": "energy-a66314abadc9412d"
   },
   {
     "title": "Nush and trook’s problem with their team seems to be big",
@@ -181,60 +370,6 @@
     ],
     "data_as_of": "2026-10-15T13:00:05Z",
     "id": "energy-3b9c2025c32d69d5"
-  },
-  {
-    "title": "13x Audio releases Colony, a FREE six-effect plugin for macOS, Windows, and Linux",
-    "summary": "13x Audio has released Colony, a free multi-effect plugin that combines saturation, modulation, reverb, ducking, stereo widening, and lo-fi color in one window. The six effects, which 13x calls Cells, are grouped around the central ENERGY knob. When you turn it, each active Cell moves through its own range. You can set those ranges in [...] View post: 13x Audio releases Colony, a FREE six-effect plugin for macOS, Windows, and Linux",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/15/13x-audio-colony/",
-    "timestamp": "2026-10-15T12:04:32Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/15/13x-audio-colony/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T12:04:32Z",
-    "id": "energy-b5bc1e86121be86b"
-  },
-  {
-    "title": "Plugin Alliance Makes bx_console N and Five More Plugins FREE",
-    "summary": "Plugin Alliance is now offering six plugins for free, including the bx_console N channel strip, Lindell Audio 254E compressor, and bx_masterdesk mastering tool. We covered Plugin Alliance’s previous 20-plugin bundle in 2024. Their free plugins page now offers a completely different set of six plugins, available with any free Plugin Alliance account. Plugin Alliance’s support [...] View post: Plugin Alliance Makes bx_console N and Five More Plugins FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/15/plugin-alliance-bundle-free/",
-    "timestamp": "2026-10-15T11:54:45Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/15/plugin-alliance-bundle-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T11:54:45Z",
-    "id": "energy-4b1dd855ed8e293c"
-  },
-  {
-    "title": "Venus Theory releases Auras:Eria, a FREE cinematic vocal synthesis instrument for Decent Sampler",
-    "summary": "Developer Venus Theory has released Auras:Eria, a free cinematic vocal synthesis instrument for Decent Sampler. Sometimes, when a developer adds a new instrument to a free collection, we rely on the description and demos to decide whether to download it. Other times, we automatically put every new release on the “must try” list. For me, [...] View post: Venus Theory releases Auras:Eria, a FREE cinematic vocal synthesis instrument for Decent Sampler",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/15/venus-theory-auras-eria/",
-    "timestamp": "2026-10-15T11:46:36Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/15/venus-theory-auras-eria/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-15T11:46:36Z",
-    "id": "energy-e6ef0af0107d8166"
   },
   {
     "title": "Could someone explain the 2027 schedule?",
@@ -279,123 +414,6 @@
     "id": "energy-f18fef6b1fcacbcd"
   },
   {
-    "title": "Zero-cycles and Brauer groups on certain Enriques surfaces",
-    "summary": "arXiv:2610.19307v1 Announce Type: new Abstract: In this paper, we study the Chow group of zero-cycles $\\text{CH}_0(S)$ for certain Enriques quotients $S$ of the Kummer surface associated to the product of two geometrically non-isogenous elliptic curves $E_1$ and $E_2$. We show that over fields of characteristic different from $2$ or $3$, the degree-zero subgroup $A_0(S) \\subset \\text{CH}_0(S)$ is 16-torsion. Over p-adic fields, we compute the transcendental Brauer group $\\text{Br}(S)/\\text{Br}_1(S)$. Using the Brauer-Manin pairing, we construct examples of Enriques surfaces for which $A_0(S)$ attains nontrivial 2-torsion elements arising from push-forward from the abelian surface $E_1\\times E_2$.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.19307",
-    "timestamp": "2026-10-15T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.19307"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-15T04:00:00Z",
-    "id": "energy-4816892baab5deff"
-  },
-  {
-    "title": "Wrong Operator or Blind Design? A Post-Training Diagnostic for Physics-Informed Coefficient Learning",
-    "summary": "arXiv:2608.16925v3 Announce Type: replace-cross Abstract: Physics-informed and hybrid models integrate data and physics, and read learned coefficients as physical. Yet a small prediction error guarantees neither that the postulated operator is right, nor that the design identifies the coefficient, nor that training reached its minimum. On one parabolic benchmark where a sensor aggregates several diffusion rates and the truth is known, a correct operator recovers the coefficient to machine precision. A wrong one leaves it $30\\%$ off while the in-domain error is 1.36 times the noise, and drifts $27\\%$ across windows. At $7\\%$ noise the error falls below the noise; the coefficient stays $30\\%$ off. Without the truth, a post-training coefficient diagnostic questions the trained model with three classical statistics, without oracle; the first two need no refit. Does it explain the data? Can the design resolve the named physics? Does the coefficient depend on the window? The specification test keeps its pre-registered false-alarm ceiling and rejects every replicate of both wrong operators tested; a network frozen at its minimum returns the same verdicts. Where the design is blind, a wro…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2608.16925",
-    "timestamp": "2026-10-15T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2608.16925"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-15T04:00:00Z",
-    "id": "energy-1e01221b171be964"
-  },
-  {
-    "title": "Work statistics of sudden quantum quenches: A random matrix theory perspective on Gaussianity and its deviations",
-    "summary": "arXiv:2509.09640v2 Announce Type: replace-cross Abstract: We show that, for sudden quenches, the work distribution reduces to the statistics of the traces of powers of Haar unitaries, which are random unitary matrices drawn uniformly from the unitary group. For translation-invariant quadratic fermionic chains with interactions extending to $m$ neighbors and periodic boundary conditions, the Loschmidt amplitude admits a unitary matrix model / Toeplitz representation, which yields a work variable of the form $W=\\sum_{r\\le m} a_r \\Re\\operatorname{Tr} U^r$ (and in models with pairing terms -superconducting pairing- additional $b_r \\Im\\operatorname{Tr} U^r$ terms appear). By invoking multivariate central limit theorems for vectors of traces of unitaries, we obtain a Gaussian distribution for $P(W)$ with variance $\\mathrm{Var}(W)=\\frac{1}{2}\\sum_r r (a_r^2+b_r^2)$ and asymptotic independence across different powers. We also characterise the conditions under which non-Gaussian tails arise, for example from many interaction terms or their slow decay, as well as the appearance of Fisher-Hartwig singularities. We illustrate these mechanisms in the XY chain. Various numerical diagnostics sup…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2509.09640",
-    "timestamp": "2026-10-15T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2509.09640"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-15T04:00:00Z",
-    "id": "energy-809bba5d1b5839aa"
-  },
-  {
-    "title": "FERC: MISO Zero-Injection Gen Plan For Large Loads Incomplete",
-    "summary": "By Amanda Durish Cook FERC said MISO’s plan to accelerate interconnections for large loads to be served exclusively by generators that pledge not to inject power onto the larger system is unfinished as filed (ER26-3552). In a deficiency letter to the RTO on Oct. 9, FERC said MISO must justify its proposed deviations from the […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/ferc-miso-zero-injection-gen-plan-for-large-loads-incomplete/",
-    "timestamp": "2026-10-14T14:33:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/ferc-miso-zero-injection-gen-plan-for-large-loads-incomplete/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-14T14:33:00Z",
-    "id": "energy-dec419945b632d91"
-  },
-  {
-    "title": "AI Data Centers Are Coming For Federal Land. They’re Roiling The Nevada Governor’s Race",
-    "summary": "By Jessica Hill Janelle Sorenson loves the clear night skies in Boulder City, less than an hour’s drive from the bright lights of the Las Vegas Strip. It’s a small, quiet town, and she thinks an artificial intelligence data center would ruin the community and scar the desert landscape. So over the summer, she joined […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/ai-data-centers-are-coming-for-federal-land-theyre-roiling-the-nevada-governors/",
-    "timestamp": "2026-10-14T14:32:19Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/ai-data-centers-are-coming-for-federal-land-theyre-roiling-the-nevada-governors/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-14T14:32:19Z",
-    "id": "energy-2416d22994b50031"
-  },
-  {
-    "title": "American Electric Power To Invest $4 Billion In Fuel Cell Project To Meet Energy Demand From Google",
-    "summary": "By Kelly Cloonan American Electric Power plans to invest about $4 billion in a Wyoming fuel cell generation project to meet growing energy demand from Alphabet’s Google. AEP said Wednesday Google will acquire power from Cheyenne Fuel Cell, which is about 92% owned and controlled by AEP, under a 20-year power purchase agreement. The facility […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google/",
-    "timestamp": "2026-10-14T14:31:41Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-14T14:31:41Z",
-    "id": "energy-e7281b704f3ed0dd"
-  },
-  {
     "title": "Checking back in with Greenlight America",
     "summary": "A conversation with Matt Traldi.",
     "source": "Volts",
@@ -412,23 +430,5 @@
     "primary_source": false,
     "data_as_of": "2026-10-14T10:07:46Z",
     "id": "energy-1f0bdabf9708620f"
-  },
-  {
-    "title": "Volts community thread #31: Postcard from Denmark",
-    "summary": "Open to all free & paid subscribers.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/volts-community-thread-31-postcard",
-    "timestamp": "2026-10-12T15:03:51Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/volts-community-thread-31-postcard"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-10-12T15:03:51Z",
-    "id": "energy-214d41ddba1717e8"
   }
 ]
