@@ -1,228 +1,291 @@
 [
   {
-    "title": "Energy Dept. Issues Emergency Order Amid Above-Average Temperatures",
-    "summary": "By Chrstine Hauser Power grids are vulnerable to wild swings in weather, from crippling winter cold to oppressive summer heat. But unseasonably warm early fall weather has energy officials taking steps this week to reduce the risk of outages in some parts of the country. The Energy Department issued an order intended to make it […]",
+    "title": "The 8 Best Vampire Books Not Written by Anne Rice",
+    "summary": "Sink your teeth into apocalyptic tales and twisted romance",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/8-best-vampire-books/",
+    "timestamp": "2026-10-17T13:00:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/8-best-vampire-books/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T13:00:19Z",
+    "id": "energy-e694342693970669"
+  },
+  {
+    "title": "Netflix’s 'Dealies' Will Be a More Comedy-Focused Joe Bennet Series",
+    "summary": "Joe Bennet shares new details about Dealies, his upcoming Netflix series about a big-box store, a struggling antique shop, and workplace weirdness.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/joe-bennet-netflix-dealies-workplace-comedy/",
+    "timestamp": "2026-10-17T12:30:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/joe-bennet-netflix-dealies-workplace-comedy/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T12:30:18Z",
+    "id": "energy-8be598dccc471fcd"
+  },
+  {
+    "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
+    "summary": "A return to form if not to Call of Duty's heyday",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
+    "timestamp": "2026-10-17T12:09:26Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T12:09:26Z",
+    "id": "energy-d3df301842405322"
+  },
+  {
+    "title": "Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable",
+    "summary": "GTA 4 is one of the best GTA games, as it's the only one where Rockstar took its satire and storytelling seriously",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/",
+    "timestamp": "2026-10-17T12:00:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T12:00:18Z",
+    "id": "energy-ae25205b4818a1fc"
+  },
+  {
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "timestamp": "2026-10-17T08:37:46Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T08:37:46Z",
+    "id": "energy-26d24270a76240a4"
+  },
+  {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "timestamp": "2026-10-17T08:21:25Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T08:21:25Z",
+    "id": "energy-93d757cbd2092889"
+  },
+  {
+    "title": "Sqlar Gets Rank #1 in NA, Leading by 110 Points",
+    "summary": "We might need to start having discussions about Xpere’s ability to find cracked mfs submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x835o4/sqlar_gets_rank_1_in_na_leading_by_110_points/",
+    "timestamp": "2026-10-17T06:35:13Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x835o4/sqlar_gets_rank_1_in_na_leading_by_110_points/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-17T06:35:13Z",
+    "id": "energy-f280fffd7cd2c91b"
+  },
+  {
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://llmspeed.dev/",
+    "timestamp": "2026-10-17T04:36:53Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://llmspeed.dev/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T04:36:53Z",
+    "id": "energy-c7ac8a1e7ed5033d"
+  },
+  {
+    "title": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
+    "summary": "God forbid someone in Rockstar Games' marketing department decided to add a little artistic flair to a trailer",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
+    "timestamp": "2026-10-16T21:30:28Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T21:30:28Z",
+    "id": "energy-029a37a22d11d1e4"
+  },
+  {
+    "title": "Kingdom Hearts’ Opening Is Still Incredible",
+    "summary": "Sora’s adventure begins with an ominous, terrifying nightmare",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/kingdom-hearts-tutorial-dive-into-stained-glass-snow-white-2000746856",
+    "timestamp": "2026-10-16T21:00:28Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/kingdom-hearts-tutorial-dive-into-stained-glass-snow-white-2000746856"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-16T21:00:28Z",
+    "id": "energy-6fafac41caf024e9"
+  },
+  {
+    "title": "NRG parts ways with Atomic, Beastmode, Daniel & Satthew",
+    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x7riw1/nrg_parts_ways_with_atomic_beastmode_daniel/",
+    "timestamp": "2026-10-16T20:45:58Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x7riw1/nrg_parts_ways_with_atomic_beastmode_daniel/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-16T20:45:58Z",
+    "id": "energy-ab50591f7db2d7f1"
+  },
+  {
+    "title": "r/RocketLeagueEsports makes a top 10 all time list. Who is the #4 all time player?",
+    "summary": "In celebration of 10 years of RLCS! Also with major developments in the top 10 and goat debate, and the possibility of a shorter season next year. It only feels right to bring the project back a year early. How it's going to work: • Each week there will be 2 polls to decide 2 spots on the list (starting from the #1 spot and descending towards #10) • Each poll's description will include all accolades/trophies for all 6 nominees. • Each poll will have a pinned comment that will be used to decide a new nominee for the next poll and display all previous results. • Results for all 10 total polls will be combined to create a visual graphic to display the overall results at the end of the project. All accolades/trophies for the 6 nominees on poll #4 Kaydop 🇫🇷 3x RLCS League Play Era World Champion NARLI 2 Champion RLCS X EU Champion 7x LAN 2nd Place 5x EU League Play Champion 1x EU Regional Champion 11 years ongoing career Atomic 🇺🇸 1x RLCS Open Era World Champion 2x RLCS Major Champion 3x LAN 2nd Place 18x RLCS NA Regional Champion WePlay Esports Invitational NA Champion 7 years ongoing career Vatira 🇫🇷 4x RLCS Major Champion 1x Esports World Cup Champion FIFAe World Cup Champion RLCS K…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x7qt36/rrocketleagueesports_makes_a_top_10_all_time_list/",
+    "timestamp": "2026-10-16T20:16:58Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x7qt36/rrocketleagueesports_makes_a_top_10_all_time_list/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-16T20:16:58Z",
+    "id": "energy-0402e80fa3277de0"
+  },
+  {
+    "title": "NextEra Louisiana Battery Would Serve Undisclosed Large Load",
+    "summary": "By Staff Writer A 500-megawatt (MW) battery that NextEra Energy has proposed in Livingston Parish, Louisiana, is being planned around one large customer that no one has named. The grid filing describes a commercial load needing 330 to 360 MW of capacity. It does not identify that customer, and it says nothing about the data […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/energy-dept-issues-emergency-order-amid-above-average-temperatures/",
-    "timestamp": "2026-10-16T14:32:29Z",
+    "url": "https://misoxenwatch.com/2026/10/nextera-louisiana-battery-would-serve-undisclosed-large-load/",
+    "timestamp": "2026-10-16T14:36:38Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/energy-dept-issues-emergency-order-amid-above-average-temperatures/"
+      "https://misoxenwatch.com/2026/10/nextera-louisiana-battery-would-serve-undisclosed-large-load/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-16T14:32:29Z",
-    "id": "energy-831638e3c37b8b04"
+    "data_as_of": "2026-10-16T14:36:38Z",
+    "id": "energy-ccc7eec1e44798dd"
   },
   {
-    "title": "US Is Reviving Shuttered Nuclear Plants To Meet Growing Electricity Demand And To Power Data Centers",
-    "summary": "By Jennifer McDermott The United States is making an unprecedented attempt to revive three shuttered nuclear plants to meet rising energy demand, including from large-scale data centers. No commercial nuclear reactor is known to have resumed generating electricity after beginning the decommissioning process that takes one out of service, though some reactors have restarted after […]",
+    "title": "Nebraskans Are Used To Cheap Energy, But The Aging Grid And Data Centers Are Driving Costs Up",
+    "summary": "By Daniel Wheaton Rising electricity demand from manufacturing and data centers could present a once-in-a-generation opportunity to modernize the electric grid, but rising electricity bills might make such investments politically unpopular. “This is not a sexy topic,” said Charles Hua, executive director of PowerLines, a national energy consumer education nonprofit. “But it is so important […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers/",
-    "timestamp": "2026-10-16T14:30:27Z",
+    "url": "https://misoxenwatch.com/2026/10/100387/",
+    "timestamp": "2026-10-16T14:34:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-and-to-power-data-centers/"
+      "https://misoxenwatch.com/2026/10/100387/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-16T14:30:27Z",
-    "id": "energy-27c4a17b34564aa1"
+    "data_as_of": "2026-10-16T14:34:39Z",
+    "id": "energy-42b960fbee7fa014"
   },
   {
-    "title": "Silent Hill And Metal Gear Publisher Konami Does ‘Not Believe The Market Will Shift Significantly’ Because Of AI",
-    "summary": "The idea-making process of developers 'cannot be replaced easily,' the company insists in new financial report",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506",
-    "timestamp": "2026-10-16T14:30:23Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T14:30:23Z",
-    "id": "energy-adf131c6521d32e1"
-  },
-  {
-    "title": "Entergy Texas Begins Service At 1.2-GW Gas-Fired Plant",
-    "summary": "By Jerome Ignacio and Markham Watson • Combined-cycle tech cuts fuel costs by $1B • Texas demand grows 13% through 2028 Entergy Texas Inc. has placed its 1,215-megawatt Orange County Advanced Power Station into service, adding a new resource to help meet growing power demand across Southeast Texas, the company said in a press release […]",
+    "title": "Across The U.S., People Don’t Want Data Centers Coming To Their Communities",
+    "summary": "By Neha Gour, John Kotcher And Teresa Myers Regardless of their views on politics or climate change, most Americans oppose the development of data centers in their communities. These large buildings filled with computers that store and process digital information, increasingly to support various applications of artificial intelligence, are being built rapidly across the United […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/entergy-texas-begins-service-at-1-2-gw-gas-fired-plant/",
-    "timestamp": "2026-10-16T14:28:37Z",
+    "url": "https://misoxenwatch.com/2026/10/across-the-u-s-people-dont-want-data-centers-coming-to-their-communities/",
+    "timestamp": "2026-10-16T14:34:21Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/entergy-texas-begins-service-at-1-2-gw-gas-fired-plant/"
+      "https://misoxenwatch.com/2026/10/across-the-u-s-people-dont-want-data-centers-coming-to-their-communities/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-16T14:28:37Z",
-    "id": "energy-c01878fba03ca3db"
-  },
-  {
-    "title": "'Cyberpunk 2077' Movie First Details Officially Confirmed, Won’t Adapt Game 1:1",
-    "summary": "CD Projekt Red CEO Michał Nowakowski confirmed that the upcoming live-action Cyberpunk movie won't be a 1:1 adaptation of the game.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/cyberpunk-2077-movie-first-details-confirmed/",
-    "timestamp": "2026-10-16T14:20:54Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/cyberpunk-2077-movie-first-details-confirmed/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T14:20:54Z",
-    "id": "energy-5606f4c0b797b8a2"
-  },
-  {
-    "title": "One of the Most Intriguing RPGs of 2027 Plays With Time Brilliantly",
-    "summary": "Eternal Anima is a new JRPG from Marvelous Inc. that uses time-manipulation to reinvent turn-based battles and class systems.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/eternal-anima-rpg-preview-ps5-switch-2-pc-xbox/",
-    "timestamp": "2026-10-16T14:10:03Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/eternal-anima-rpg-preview-ps5-switch-2-pc-xbox/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T14:10:03Z",
-    "id": "energy-76863624350b6ad6"
-  },
-  {
-    "title": "25 Years Later, DC's Most Innovative Sci-Fi Show Changed Superheroes Forever",
-    "summary": "Smallville turns 25. Its focus on Clark Kent, friendship with Lex Luthor, and “no tights, no flights” rule helped change superhero TV.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/smallville-25th-anniversary-superman/",
-    "timestamp": "2026-10-16T14:01:17Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/smallville-25th-anniversary-superman/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T14:01:17Z",
-    "id": "energy-3ef3b4cb5a94a1d9"
-  },
-  {
-    "title": "More Surprise Zelda: Ocarina Of Time Remake Footage Reveals One Of The Coolest Moments From The Original",
-    "summary": "Dark Link was one of the top 10 highlights of the N64 classic",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/more-surprise-zelda-ocarina-of-time-remake-footage-reveals-one-of-the-coolest-moments-from-the-original-2000746734",
-    "timestamp": "2026-10-16T14:00:21Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/more-surprise-zelda-ocarina-of-time-remake-footage-reveals-one-of-the-coolest-moments-from-the-original-2000746734"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T14:00:21Z",
-    "id": "energy-3e1fd87ceb2c1a3d"
-  },
-  {
-    "title": "Everything You Need To Know About Street Fighter’s Post-Credits Scene",
-    "summary": "Kitao Sakurai’s fighting game adaptation sets up a sequel with a familiar face",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/street-fighter-post-credits-scene-how-many-when-sagat-2000746739",
-    "timestamp": "2026-10-16T13:30:38Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/street-fighter-post-credits-scene-how-many-when-sagat-2000746739"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T13:30:38Z",
-    "id": "energy-dac80457eb5c0a6b"
-  },
-  {
-    "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
-    "timestamp": "2026-10-16T13:09:25Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T13:09:25Z",
-    "id": "energy-1d24bf8002572bae"
-  },
-  {
-    "title": "I Love Software Rendering",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-    "timestamp": "2026-10-16T12:52:08Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T12:52:08Z",
-    "id": "energy-e7d1731963986113"
-  },
-  {
-    "title": "Bark: The Toll-Free BBS for 90s Teens",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
-    "timestamp": "2026-10-16T12:22:13Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T12:22:13Z",
-    "id": "energy-2ddef92b5d7f274e"
+    "data_as_of": "2026-10-16T14:34:21Z",
+    "id": "energy-d76170bdf5f88146"
   },
   {
     "title": "That Worship Sound offers Mammoth Bass Moog one-shots FREE until October 31",
@@ -349,86 +412,5 @@
     "primary_source": true,
     "data_as_of": "2026-10-16T04:00:00Z",
     "id": "energy-a66314abadc9412d"
-  },
-  {
-    "title": "Nush and trook’s problem with their team seems to be big",
-    "summary": "submitted by /u/oshxl [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6kz9h/nush_and_trooks_problem_with_their_team_seems_to/",
-    "timestamp": "2026-10-15T13:00:05Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6kz9h/nush_and_trooks_problem_with_their_team_seems_to/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-15T13:00:05Z",
-    "id": "energy-3b9c2025c32d69d5"
-  },
-  {
-    "title": "Could someone explain the 2027 schedule?",
-    "summary": "The schedule is very confusing to me, i heard someone say that there won't be world in 2027 and im pretty sure they're wrong and just misunderstood, because there is no way there is no worlds. I have been following the scene very seriously for the past 3 years, but i didn't read into the schedule much for 2027. submitted by /u/Lil-AbootZ [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6gvb9/could_someone_explain_the_2027_schedule/",
-    "timestamp": "2026-10-15T09:13:53Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6gvb9/could_someone_explain_the_2027_schedule/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-15T09:13:53Z",
-    "id": "energy-95b2cbf35738483a"
-  },
-  {
-    "title": "Stallions CEO: Our reputation alone is enough—it’s what has you trembling at the mere letters of my name and censoring it out. Beating around the bush is the trick of the coward who knows that if they came right out and made a statement, t…",
-    "summary": "Ai translation Rumor has it that Nush and Trook want out of Stallions, Trook even named himself in RL \" i wanna leave Stallions\". This is the ceo response submitted by /u/Beneficial_Cup_3267 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6ggoi/stallions_ceo_our_reputation_alone_is_enoughits/",
-    "timestamp": "2026-10-15T08:48:15Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x6ggoi/stallions_ceo_our_reputation_alone_is_enoughits/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-15T08:48:15Z",
-    "id": "energy-f18fef6b1fcacbcd"
-  },
-  {
-    "title": "Checking back in with Greenlight America",
-    "summary": "A conversation with Matt Traldi.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/checking-back-in-with-greenlight",
-    "timestamp": "2026-10-14T10:07:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/checking-back-in-with-greenlight"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-10-14T10:07:46Z",
-    "id": "energy-1f0bdabf9708620f"
   }
 ]
