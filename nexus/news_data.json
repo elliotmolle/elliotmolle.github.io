@@ -179,48 +179,5 @@
     ],
     "data_as_of": "2026-10-15T20:49:44Z",
     "id": "energy-da9e5b79ab28231c"
-  },
-  {
-    "title": "Generator Information System cost-exemption requests and renewals for 2027 due Nov. 16",
-    "summary": "GIS is an emissions reporting and tracking tool that monitors environmental attributes of generated electricity. The post Generator Information System cost-exemption requests and renewals for 2027 due Nov. 16 appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/15/generator-information-system-cost-exemption-requests-and-renewals-for-2027-due-nov-16/",
-    "timestamp": "2026-10-15T12:00:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/15/generator-information-system-cost-exemption-requests-and-renewals-for-2027-due-nov-16/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-15T12:00:00Z",
-    "id": "energy-d0e1613202642bb5"
-  },
-  {
-    "title": "Maritime Nuclear Startup Bluecore Buys First Uranium For Nuclear Plants On Barges",
-    "summary": "Bluecore Energy, the Long Beach, US-based floating nuclear power startup, has bought its first supply of uranium hexafluoride (UF6), a low-enriched 4.95% blend of U-235 suitable for a commercial nuclear power installation. The material is being held at a US nuclear fuel facility outside the state of California while Bluecore advances its plans for future fuel fabrication, testing and validation. UF6 is the required form of uranium during the enrichment stage of the nuclear fuel cycle. During the fuel fabrication stage, the UF6 is converted into uranium dioxide, or UO2, which can then be fabricated into fuel pellets and assembled into nuclear fuel. The purchase follows Bluecore’s recent $50m (€44m) seed financing.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/maritime-nuclear-startup-bluecore-buys-first-uranium-for-nuclear-plants-on-barges-10-4-2026",
-    "timestamp": "2026-10-15T10:38:40Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/maritime-nuclear-startup-bluecore-buys-first-uranium-for-nuclear-plants-on-barges-10-4-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-15T10:38:40Z",
-    "id": "energy-a66844b136e148d9"
   }
 ]

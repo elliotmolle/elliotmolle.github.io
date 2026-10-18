@@ -1,228 +1,282 @@
 [
   {
-    "title": "The 8 Best Vampire Books Not Written by Anne Rice",
-    "summary": "Sink your teeth into apocalyptic tales and twisted romance",
+    "title": "Jessica Rothe Officially Confirms Return Plans for Hit Time-Loop Thriller Trilogy",
+    "summary": "Happy Death Day star Jessica Rothe gives an update on a third movie and talks about being a scream queen",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/8-best-vampire-books/",
-    "timestamp": "2026-10-17T13:00:19Z",
+    "url": "https://www.polygon.com/happy-death-day-3-jessica-rothe-scream-queen/",
+    "timestamp": "2026-10-18T13:00:18Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/8-best-vampire-books/"
+      "https://www.polygon.com/happy-death-day-3-jessica-rothe-scream-queen/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-17T13:00:19Z",
-    "id": "energy-e694342693970669"
+    "data_as_of": "2026-10-18T13:00:18Z",
+    "id": "energy-537fb4576d1cce7e"
   },
   {
-    "title": "Netflix’s 'Dealies' Will Be a More Comedy-Focused Joe Bennet Series",
-    "summary": "Joe Bennet shares new details about Dealies, his upcoming Netflix series about a big-box store, a struggling antique shop, and workplace weirdness.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/joe-bennet-netflix-dealies-workplace-comedy/",
-    "timestamp": "2026-10-17T12:30:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/joe-bennet-netflix-dealies-workplace-comedy/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-17T12:30:18Z",
-    "id": "energy-8be598dccc471fcd"
-  },
-  {
-    "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
-    "summary": "A return to form if not to Call of Duty's heyday",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
-    "timestamp": "2026-10-17T12:09:26Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-17T12:09:26Z",
-    "id": "energy-d3df301842405322"
-  },
-  {
-    "title": "Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable",
-    "summary": "GTA 4 is one of the best GTA games, as it's the only one where Rockstar took its satire and storytelling seriously",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/",
-    "timestamp": "2026-10-17T12:00:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-17T12:00:18Z",
-    "id": "energy-ae25205b4818a1fc"
-  },
-  {
-    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-    "timestamp": "2026-10-17T08:37:46Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-17T08:37:46Z",
-    "id": "energy-26d24270a76240a4"
-  },
-  {
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "timestamp": "2026-10-17T08:21:25Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-17T08:21:25Z",
-    "id": "energy-93d757cbd2092889"
-  },
-  {
-    "title": "Sqlar Gets Rank #1 in NA, Leading by 110 Points",
-    "summary": "We might need to start having discussions about Xpere’s ability to find cracked mfs submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "title": "Behind the scenes on how it works to make rosters",
+    "summary": "I saw alot of questions about sqlar pickup i answered some of them, but i also saw alot of them outside of reddit as well about how we find players why we don't pick other players and how this whole orgs situation work, so i am wondering if people would be interested in having a video like this. I will leave the twitter link here so u guys can go vote there, but if you guys ask good questions in here, i can read them in the video if the questions make sense for the video https://x.com/Xpere_/status/2111799669391257782?s=20 submitted by /u/Ohniviur_ [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x835o4/sqlar_gets_rank_1_in_na_leading_by_110_points/",
-    "timestamp": "2026-10-17T06:35:13Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x92cti/behind_the_scenes_on_how_it_works_to_make_rosters/",
+    "timestamp": "2026-10-18T12:46:03Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x835o4/sqlar_gets_rank_1_in_na_leading_by_110_points/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x92cti/behind_the_scenes_on_how_it_works_to_make_rosters/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-17T06:35:13Z",
-    "id": "energy-f280fffd7cd2c91b"
+    "data_as_of": "2026-10-18T12:46:03Z",
+    "id": "energy-618c91863197eee8"
   },
   {
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "title": "America's Dominance in The Game Awards Is Officially Over",
+    "summary": "The TGA jury that decides GOTY has fewer U.S. outlets on it than ever, which may have an impact",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/the-game-awards-goty-jury-usa/",
+    "timestamp": "2026-10-18T12:00:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/the-game-awards-goty-jury-usa/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-18T12:00:18Z",
+    "id": "energy-66799ec3631abfff"
+  },
+  {
+    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://llmspeed.dev/",
-    "timestamp": "2026-10-17T04:36:53Z",
+    "url": "https://github.com/0x23/MicroManipulatorStepper",
+    "timestamp": "2026-10-18T11:16:22Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://llmspeed.dev/"
+      "https://github.com/0x23/MicroManipulatorStepper"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-17T04:36:53Z",
-    "id": "energy-c7ac8a1e7ed5033d"
+    "data_as_of": "2026-10-18T11:16:22Z",
+    "id": "energy-7245a43a5f6492bb"
   },
   {
-    "title": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
-    "summary": "God forbid someone in Rockstar Games' marketing department decided to add a little artistic flair to a trailer",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
-    "timestamp": "2026-10-16T21:30:28Z",
+    "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
+    "summary": "Before unauthorized clips of GTA 6 scandalized fans, GTA 5 made video game leak history for Rockstar and Sony",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/",
+    "timestamp": "2026-10-18T11:00:18Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855"
+      "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-16T21:30:28Z",
-    "id": "energy-029a37a22d11d1e4"
+    "data_as_of": "2026-10-18T11:00:18Z",
+    "id": "energy-84c042c92a8bb982"
   },
   {
-    "title": "Kingdom Hearts’ Opening Is Still Incredible",
-    "summary": "Sora’s adventure begins with an ominous, terrifying nightmare",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/kingdom-hearts-tutorial-dive-into-stained-glass-snow-white-2000746856",
-    "timestamp": "2026-10-16T21:00:28Z",
-    "topic": "Gaming",
+    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+    "timestamp": "2026-10-18T10:21:51Z",
+    "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/kingdom-hearts-tutorial-dive-into-stained-glass-snow-white-2000746856"
+      "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-16T21:00:28Z",
-    "id": "energy-6fafac41caf024e9"
+    "data_as_of": "2026-10-18T10:21:51Z",
+    "id": "energy-26ef3eceb8268bfa"
   },
   {
-    "title": "NRG parts ways with Atomic, Beastmode, Daniel & Satthew",
-    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
+    "title": "TDR Nova FREE dynamic EQ now supports Linux",
+    "summary": "Tokyo Dawn Labs has updated TDR Nova, its free dynamic equalizer, to version 2.2.3 with native Linux support. The update arrived on October 12, and it marks the first official Linux version of Nova. I’m not a Linux user, but I know many of you are, and one of the best free plugins is now [...] View post: TDR Nova FREE dynamic EQ now supports Linux",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/",
+    "timestamp": "2026-10-18T09:08:19Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-18T09:08:19Z",
+    "id": "energy-c5d1eee617f28f4b"
+  },
+  {
+    "title": "What's up with SAM? No rumors so far and i hope they shake it.",
+    "summary": "Last year was too disappointing, in previous years they had a top 4 to show for it but not this time submitted by /u/Beneficial_Cup_3267 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x7riw1/nrg_parts_ways_with_atomic_beastmode_daniel/",
-    "timestamp": "2026-10-16T20:45:58Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x8y273/whats_up_with_sam_no_rumors_so_far_and_i_hope/",
+    "timestamp": "2026-10-18T08:31:09Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x7riw1/nrg_parts_ways_with_atomic_beastmode_daniel/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x8y273/whats_up_with_sam_no_rumors_so_far_and_i_hope/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-16T20:45:58Z",
-    "id": "energy-ab50591f7db2d7f1"
+    "data_as_of": "2026-10-18T08:31:09Z",
+    "id": "energy-43a467e3c60798c9"
   },
   {
-    "title": "r/RocketLeagueEsports makes a top 10 all time list. Who is the #4 all time player?",
-    "summary": "In celebration of 10 years of RLCS! Also with major developments in the top 10 and goat debate, and the possibility of a shorter season next year. It only feels right to bring the project back a year early. How it's going to work: • Each week there will be 2 polls to decide 2 spots on the list (starting from the #1 spot and descending towards #10) • Each poll's description will include all accolades/trophies for all 6 nominees. • Each poll will have a pinned comment that will be used to decide a new nominee for the next poll and display all previous results. • Results for all 10 total polls will be combined to create a visual graphic to display the overall results at the end of the project. All accolades/trophies for the 6 nominees on poll #4 Kaydop 🇫🇷 3x RLCS League Play Era World Champion NARLI 2 Champion RLCS X EU Champion 7x LAN 2nd Place 5x EU League Play Champion 1x EU Regional Champion 11 years ongoing career Atomic 🇺🇸 1x RLCS Open Era World Champion 2x RLCS Major Champion 3x LAN 2nd Place 18x RLCS NA Regional Champion WePlay Esports Invitational NA Champion 7 years ongoing career Vatira 🇫🇷 4x RLCS Major Champion 1x Esports World Cup Champion FIFAe World Cup Champion RLCS K…",
+    "title": "Voidscan Audio offers Parasite FM synth for €59 until October 23",
+    "summary": "Voidscan Audio is offering Parasite, a three-operator FM synthesizer for macOS and Windows, for €59 until October 23, when its price increases to €89. Parasite is the first plugin from the French developer Voidscan Audio, who spent a year building it, focusing on gritty textures and experimental sound design. It comes with per-voice distortion and [...] View post: Voidscan Audio offers Parasite FM synth for €59 until October 23",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/18/voidscan-audio-parasite/",
+    "timestamp": "2026-10-18T08:23:57Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/18/voidscan-audio-parasite/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-18T08:23:57Z",
+    "id": "energy-2e92238410352726"
+  },
+  {
+    "title": "Parser Combinators",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "timestamp": "2026-10-18T08:19:53Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://t3.at/blog/2026-10-17-parser-combinators/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-18T08:19:53Z",
+    "id": "energy-aee5fbab0246e6d8"
+  },
+  {
+    "title": "Player nicknames",
+    "summary": "I feel like in rl we don’t have that many players with cool nicknames. saw a post about vct nicknames and it got me thinking. i’m obviously forgetting a lot, but what do you guys think are the coolest and most iconic nicknames in rlcs history submitted by /u/Vibez67 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x7qt36/rrocketleagueesports_makes_a_top_10_all_time_list/",
-    "timestamp": "2026-10-16T20:16:58Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x8u32w/player_nicknames/",
+    "timestamp": "2026-10-18T04:31:35Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x7qt36/rrocketleagueesports_makes_a_top_10_all_time_list/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x8u32w/player_nicknames/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-16T20:16:58Z",
-    "id": "energy-0402e80fa3277de0"
+    "data_as_of": "2026-10-18T04:31:35Z",
+    "id": "energy-cbabbce7e6cf81fe"
+  },
+  {
+    "title": "The Mortuary Assistant Film Director Jeremiah Kipp Passes Away",
+    "summary": "The underground horror community is mourning a charitable filmmaker, who sharpened his fangs on numerous indie scares",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-mortuary-assistant-film-director-jeremiah-kipp-passes-away-2000747075",
+    "timestamp": "2026-10-17T21:10:34Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/the-mortuary-assistant-film-director-jeremiah-kipp-passes-away-2000747075"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T21:10:34Z",
+    "id": "energy-ec959c626a2e0358"
+  },
+  {
+    "title": "Car Park Capital Is The World’s Most Evil Simulator (Complimentary)",
+    "summary": "Step into Robert Moses’ shoes as you dismantle civilization and ensure these little computer people never witness a 15-minute city in their lifetime",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/car-park-capital-is-the-worlds-most-evil-simulator-complimentary-2000747068",
+    "timestamp": "2026-10-17T19:55:46Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/car-park-capital-is-the-worlds-most-evil-simulator-complimentary-2000747068"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T19:55:46Z",
+    "id": "energy-215252eab29a0fd1"
+  },
+  {
+    "title": "Debra Wilson Also Confused On Why Games Keep Using Her Likeness",
+    "summary": "In an interview with Joseph Shepherd, the prolific Wolverine and Wolfenstein voice actor addresses the amusing trend, but says she prefers to play characters that don’t resemble her",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/debra-wilson-also-confused-on-why-games-keep-using-her-likeness-2000747061",
+    "timestamp": "2026-10-17T17:29:52Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/debra-wilson-also-confused-on-why-games-keep-using-her-likeness-2000747061"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T17:29:52Z",
+    "id": "energy-17b91cb71a5f2a57"
+  },
+  {
+    "title": "Nembrini Audio’s $137 Cali Reverb guitar amp plugin is FREE again until October 31",
+    "summary": "Nembrini Audio is offering Cali Reverb, its Mesa Boogie-inspired guitar amp plugin for macOS and Windows, for free again until October 31, 2026. The regular price is $137. We covered the previous Cali Reverb giveaway in October 2024, so I guess this is another chance to pick it up if you missed it back then. [...] View post: Nembrini Audio’s $137 Cali Reverb guitar amp plugin is FREE again until October 31",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/",
+    "timestamp": "2026-10-17T15:46:32Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-17T15:46:32Z",
+    "id": "energy-b7491b890aa82342"
   },
   {
     "title": "NextEra Louisiana Battery Would Serve Undisclosed Large Load",
@@ -288,42 +342,6 @@
     "id": "energy-d76170bdf5f88146"
   },
   {
-    "title": "That Worship Sound offers Mammoth Bass Moog one-shots FREE until October 31",
-    "summary": "That Worship Sound is offering Mammoth Bass – Moog Subsequent 37 One Shots, a collection of analog synth bass samples, for free until October 31. The pack normally costs $15. With so many new plugins appearing daily, I think it’s actually becoming more interesting to cover things that involve some real human interaction with gear. [...] View post: That Worship Sound offers Mammoth Bass Moog one-shots FREE until October 31",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/16/mammoth-bass-moog-free/",
-    "timestamp": "2026-10-16T11:58:14Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/16/mammoth-bass-moog-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T11:58:14Z",
-    "id": "energy-c7554e3cfe0d0eea"
-  },
-  {
-    "title": "Slate Digital launches FREE 16-plugin collection with SSL, Harrison, and sonible",
-    "summary": "Slate Digital has launched Complete Access Free Collection, a bundle of 16 plugins from Slate Digital, SSL, Harrison Audio, and sonible that you can keep forever. Another day, another massive free plugin bundle. Yesterday, we covered the new free plugin collection from Plugin Alliance, and now Slate Digital steps in with another set of freebies. [...] View post: Slate Digital launches FREE 16-plugin collection with SSL, Harrison, and sonible",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/16/slate-free-plugin-collection/",
-    "timestamp": "2026-10-16T11:36:08Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/16/slate-free-plugin-collection/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T11:36:08Z",
-    "id": "energy-091487a65d6b791a"
-  },
-  {
     "title": "What’s up with Denmark?",
     "summary": "A conversation with Kristian Jensen of Green Power Denmark.",
     "source": "Volts",
@@ -340,24 +358,6 @@
     "primary_source": false,
     "data_as_of": "2026-10-16T10:05:36Z",
     "id": "energy-efa1439ac70f28f4"
-  },
-  {
-    "title": "NoiseWorks releases PloseAssist, a FREE plugin for removing vocal plosives",
-    "summary": "NoiseWorks has released PloseAssist, a free plugin that automatically reduces the low-frequency pops caused by hard P and B sounds in vocal recordings. Back when I was learning to record vocals for the first time, the standard bedroom studio trick was to put a thin sock or similar material in front of the mic as [...] View post: NoiseWorks releases PloseAssist, a FREE plugin for removing vocal plosives",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/16/noiseworks-ploseassist/",
-    "timestamp": "2026-10-16T09:24:07Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/16/noiseworks-ploseassist/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-16T09:24:07Z",
-    "id": "energy-9992d8dbc365f522"
   },
   {
     "title": "Zhang twists for semigroups and groupoids, with applications to Steinberg algebras",
