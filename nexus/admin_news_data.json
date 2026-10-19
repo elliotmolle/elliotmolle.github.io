@@ -1,416 +1,398 @@
 [
   {
-    "title": "Jessica Rothe Officially Confirms Return Plans for Hit Time-Loop Thriller Trilogy",
-    "summary": "Happy Death Day star Jessica Rothe gives an update on a third movie and talks about being a scream queen",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/happy-death-day-3-jessica-rothe-scream-queen/",
-    "timestamp": "2026-10-18T13:00:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/happy-death-day-3-jessica-rothe-scream-queen/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-18T13:00:18Z",
-    "id": "energy-537fb4576d1cce7e"
-  },
-  {
-    "title": "Behind the scenes on how it works to make rosters",
-    "summary": "I saw alot of questions about sqlar pickup i answered some of them, but i also saw alot of them outside of reddit as well about how we find players why we don't pick other players and how this whole orgs situation work, so i am wondering if people would be interested in having a video like this. I will leave the twitter link here so u guys can go vote there, but if you guys ask good questions in here, i can read them in the video if the questions make sense for the video https://x.com/Xpere_/status/2111799669391257782?s=20 submitted by /u/Ohniviur_ [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x92cti/behind_the_scenes_on_how_it_works_to_make_rosters/",
-    "timestamp": "2026-10-18T12:46:03Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x92cti/behind_the_scenes_on_how_it_works_to_make_rosters/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-18T12:46:03Z",
-    "id": "energy-618c91863197eee8"
-  },
-  {
-    "title": "America's Dominance in The Game Awards Is Officially Over",
-    "summary": "The TGA jury that decides GOTY has fewer U.S. outlets on it than ever, which may have an impact",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-game-awards-goty-jury-usa/",
-    "timestamp": "2026-10-18T12:00:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/the-game-awards-goty-jury-usa/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-18T12:00:18Z",
-    "id": "energy-66799ec3631abfff"
-  },
-  {
-    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+    "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/0x23/MicroManipulatorStepper",
-    "timestamp": "2026-10-18T11:16:22Z",
+    "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+    "timestamp": "2026-10-19T16:37:10Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/0x23/MicroManipulatorStepper"
+      "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-18T11:16:22Z",
-    "id": "energy-7245a43a5f6492bb"
+    "data_as_of": "2026-10-19T16:37:10Z",
+    "id": "energy-35eb1c37a8df8b2b"
   },
   {
-    "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
-    "summary": "Before unauthorized clips of GTA 6 scandalized fans, GTA 5 made video game leak history for Rockstar and Sony",
+    "title": "The Most Terrifying Object In You Can See Everything Isn’t Elizabeth Holmes’ Unblinking Eyes, It’s A Bowl Of Eggs",
+    "summary": "No, seriously",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-most-terrifying-object-in-you-can-see-everything-isnt-elizabeth-holmes-unblinking-eyes-its-a-bowl-of-eggs-2000747559",
+    "timestamp": "2026-10-19T16:30:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/the-most-terrifying-object-in-you-can-see-everything-isnt-elizabeth-holmes-unblinking-eyes-its-a-bowl-of-eggs-2000747559"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-19T16:30:11Z",
+    "id": "energy-dd4b8d8e065be04e"
+  },
+  {
+    "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50154029",
+    "timestamp": "2026-10-19T16:00:18Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://news.ycombinator.com/item?id=50154029"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-19T16:00:18Z",
+    "id": "energy-e1184a0c251d8296"
+  },
+  {
+    "title": "Star Wars Book Officially Solves Luke Skywalker's Most Iconic Mystery",
+    "summary": "Did the Force alone help Luke Skywalker fight back against the Empire? Dr. Chris Kempshall answers that question and more in 'Star Pilots.'",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/",
-    "timestamp": "2026-10-18T11:00:18Z",
+    "url": "https://www.polygon.com/star-wars-star-pilots-chris-kempshall-luke-skywalker/",
+    "timestamp": "2026-10-19T16:00:16Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/"
+      "https://www.polygon.com/star-wars-star-pilots-chris-kempshall-luke-skywalker/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-18T11:00:18Z",
-    "id": "energy-84c042c92a8bb982"
+    "data_as_of": "2026-10-19T16:00:16Z",
+    "id": "energy-ac2a320520f11d66"
   },
   {
-    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "title": "Another day another GitHub incident",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-    "timestamp": "2026-10-18T10:21:51Z",
+    "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+    "timestamp": "2026-10-19T15:52:26Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
+      "https://www.githubstatus.com/incidents/8tzbpcnl75jp"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-18T10:21:51Z",
-    "id": "energy-26ef3eceb8268bfa"
+    "data_as_of": "2026-10-19T15:52:26Z",
+    "id": "energy-272909765715d20e"
   },
   {
-    "title": "TDR Nova FREE dynamic EQ now supports Linux",
-    "summary": "Tokyo Dawn Labs has updated TDR Nova, its free dynamic equalizer, to version 2.2.3 with native Linux support. The update arrived on October 12, and it marks the first official Linux version of Nova. I’m not a Linux user, but I know many of you are, and one of the best free plugins is now [...] View post: TDR Nova FREE dynamic EQ now supports Linux",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/",
-    "timestamp": "2026-10-18T09:08:19Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-18T09:08:19Z",
-    "id": "energy-c5d1eee617f28f4b"
-  },
-  {
-    "title": "What's up with SAM? No rumors so far and i hope they shake it.",
-    "summary": "Last year was too disappointing, in previous years they had a top 4 to show for it but not this time submitted by /u/Beneficial_Cup_3267 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x8y273/whats_up_with_sam_no_rumors_so_far_and_i_hope/",
-    "timestamp": "2026-10-18T08:31:09Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x8y273/whats_up_with_sam_no_rumors_so_far_and_i_hope/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-18T08:31:09Z",
-    "id": "energy-43a467e3c60798c9"
-  },
-  {
-    "title": "Voidscan Audio offers Parasite FM synth for €59 until October 23",
-    "summary": "Voidscan Audio is offering Parasite, a three-operator FM synthesizer for macOS and Windows, for €59 until October 23, when its price increases to €89. Parasite is the first plugin from the French developer Voidscan Audio, who spent a year building it, focusing on gritty textures and experimental sound design. It comes with per-voice distortion and [...] View post: Voidscan Audio offers Parasite FM synth for €59 until October 23",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/18/voidscan-audio-parasite/",
-    "timestamp": "2026-10-18T08:23:57Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/18/voidscan-audio-parasite/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-18T08:23:57Z",
-    "id": "energy-2e92238410352726"
-  },
-  {
-    "title": "Parser Combinators",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-    "timestamp": "2026-10-18T08:19:53Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://t3.at/blog/2026-10-17-parser-combinators/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-18T08:19:53Z",
-    "id": "energy-aee5fbab0246e6d8"
-  },
-  {
-    "title": "Player nicknames",
-    "summary": "I feel like in rl we don’t have that many players with cool nicknames. saw a post about vct nicknames and it got me thinking. i’m obviously forgetting a lot, but what do you guys think are the coolest and most iconic nicknames in rlcs history submitted by /u/Vibez67 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x8u32w/player_nicknames/",
-    "timestamp": "2026-10-18T04:31:35Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x8u32w/player_nicknames/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-18T04:31:35Z",
-    "id": "energy-cbabbce7e6cf81fe"
-  },
-  {
-    "title": "The Mortuary Assistant Film Director Jeremiah Kipp Passes Away",
-    "summary": "The underground horror community is mourning a charitable filmmaker, who sharpened his fangs on numerous indie scares",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-mortuary-assistant-film-director-jeremiah-kipp-passes-away-2000747075",
-    "timestamp": "2026-10-17T21:10:34Z",
+    "title": "Pokémon Skateboards Officially Launch, and Scalpers Are Already Buying Them Up",
+    "summary": "The Santa Cruz Pokémon blind bags depicting fan favorite TCG designs are being resold on websites like eBay and Facebook for exorbitant amounts",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/pokemon-skateboard-santa-cruz-restock-shape-prices-charizard-eevee/",
+    "timestamp": "2026-10-19T15:40:28Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/the-mortuary-assistant-film-director-jeremiah-kipp-passes-away-2000747075"
+      "https://www.polygon.com/pokemon-skateboard-santa-cruz-restock-shape-prices-charizard-eevee/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-17T21:10:34Z",
-    "id": "energy-ec959c626a2e0358"
+    "data_as_of": "2026-10-19T15:40:28Z",
+    "id": "energy-e8ead53b57de25d7"
   },
   {
-    "title": "Car Park Capital Is The World’s Most Evil Simulator (Complimentary)",
-    "summary": "Step into Robert Moses’ shoes as you dismantle civilization and ensure these little computer people never witness a 15-minute city in their lifetime",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/car-park-capital-is-the-worlds-most-evil-simulator-complimentary-2000747068",
-    "timestamp": "2026-10-17T19:55:46Z",
+    "title": "Lord of the Rings Director Says He’s Finally Making His Tintin Sequel",
+    "summary": "Peter Jackson gave an update on his upcoming The Adventures of Tintin sequel and has new information on the next two Lord of the Rings movies.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/tintin-update-peter-hackson-lord-of-the-rings/",
+    "timestamp": "2026-10-19T15:34:50Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/car-park-capital-is-the-worlds-most-evil-simulator-complimentary-2000747068"
+      "https://www.polygon.com/tintin-update-peter-hackson-lord-of-the-rings/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-17T19:55:46Z",
-    "id": "energy-215252eab29a0fd1"
+    "data_as_of": "2026-10-19T15:34:50Z",
+    "id": "energy-7cae4ae69c001361"
   },
   {
-    "title": "Debra Wilson Also Confused On Why Games Keep Using Her Likeness",
-    "summary": "In an interview with Joseph Shepherd, the prolific Wolverine and Wolfenstein voice actor addresses the amusing trend, but says she prefers to play characters that don’t resemble her",
+    "title": "AI Cloning Threatens To End Public Playtests For Video Games",
+    "summary": "Moonlighter dev Digital Sun has cancelled plans for a public playtest of its next game, for fears of Claude clones",
     "source": "Kotaku",
-    "url": "https://kotaku.com/debra-wilson-also-confused-on-why-games-keep-using-her-likeness-2000747061",
-    "timestamp": "2026-10-17T17:29:52Z",
+    "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
+    "timestamp": "2026-10-19T15:30:36Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/debra-wilson-also-confused-on-why-games-keep-using-her-likeness-2000747061"
+      "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-17T17:29:52Z",
-    "id": "energy-17b91cb71a5f2a57"
+    "data_as_of": "2026-10-19T15:30:36Z",
+    "id": "energy-e750c5a928f20baa"
   },
   {
-    "title": "Nembrini Audio’s $137 Cali Reverb guitar amp plugin is FREE again until October 31",
-    "summary": "Nembrini Audio is offering Cali Reverb, its Mesa Boogie-inspired guitar amp plugin for macOS and Windows, for free again until October 31, 2026. The regular price is $137. We covered the previous Cali Reverb giveaway in October 2024, so I guess this is another chance to pick it up if you missed it back then. [...] View post: Nembrini Audio’s $137 Cali Reverb guitar amp plugin is FREE again until October 31",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/",
-    "timestamp": "2026-10-17T15:46:32Z",
-    "topic": "Music Production",
+    "title": "Final Fantasy 7 Revelation Lets You Play On The Hardest Difficulty From The Start Because Of The ‘Wide Variety Of End-Game Content’",
+    "summary": "One of my biggest gripe has been fixed",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/final-fantasy-7-revelation-lets-you-play-on-the-hardest-difficulty-from-the-start-because-of-the-wide-variety-of-end-game-content-2000747557",
+    "timestamp": "2026-10-19T15:00:05Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/"
+      "https://kotaku.com/final-fantasy-7-revelation-lets-you-play-on-the-hardest-difficulty-from-the-start-because-of-the-wide-variety-of-end-game-content-2000747557"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-17T15:46:32Z",
-    "id": "energy-b7491b890aa82342"
+    "data_as_of": "2026-10-19T15:00:05Z",
+    "id": "energy-1d6c28188c16daaf"
   },
   {
-    "title": "NextEra Louisiana Battery Would Serve Undisclosed Large Load",
-    "summary": "By Staff Writer A 500-megawatt (MW) battery that NextEra Energy has proposed in Livingston Parish, Louisiana, is being planned around one large customer that no one has named. The grid filing describes a commercial load needing 330 to 360 MW of capacity. It does not identify that customer, and it says nothing about the data […]",
+    "title": "MISO Stakeholders Want Large Load-Driven Tx Project Traceability Before MTEP 27",
+    "summary": "By Amanda Durish Cook Stakeholders have asked MISO to develop a way to assign data center developers the costs of reliability projects they trigger with their massive demand ahead of the RTO’s 2027 transmission planning cycle. MISO opened the floor to stakeholders’ ideas for the 2027 Transmission Expansion Plan (MTEP 27) study scope at an […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/nextera-louisiana-battery-would-serve-undisclosed-large-load/",
-    "timestamp": "2026-10-16T14:36:38Z",
+    "url": "https://misoxenwatch.com/2026/10/miso-stakeholders-want-large-load-driven-tx-project-traceability-before-mtep-27/",
+    "timestamp": "2026-10-19T14:48:48Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/nextera-louisiana-battery-would-serve-undisclosed-large-load/"
+      "https://misoxenwatch.com/2026/10/miso-stakeholders-want-large-load-driven-tx-project-traceability-before-mtep-27/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-16T14:36:38Z",
-    "id": "energy-ccc7eec1e44798dd"
+    "data_as_of": "2026-10-19T14:48:48Z",
+    "id": "energy-4e94b15caeabdb59"
   },
   {
-    "title": "Nebraskans Are Used To Cheap Energy, But The Aging Grid And Data Centers Are Driving Costs Up",
-    "summary": "By Daniel Wheaton Rising electricity demand from manufacturing and data centers could present a once-in-a-generation opportunity to modernize the electric grid, but rising electricity bills might make such investments politically unpopular. “This is not a sexy topic,” said Charles Hua, executive director of PowerLines, a national energy consumer education nonprofit. “But it is so important […]",
+    "title": "Group Questions Transparency Of State Complaint Over MISO Long-Range Transmission",
+    "summary": "By Amanda Durish Cook An investigation into how the complaint against MISO’s $22 billion long-range transmission portfolio was orchestrated shows an absence of public input among the five states that signed onto it. The Bottom Line Though the 2025 drafting of a complaint among five states against MISO’s long-range transmission plan doesn’t appear to run […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/100387/",
-    "timestamp": "2026-10-16T14:34:39Z",
+    "url": "https://misoxenwatch.com/2026/10/group-questions-transparency-of-state-complaint-over-miso-long-range-transmission/",
+    "timestamp": "2026-10-19T14:48:06Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/100387/"
+      "https://misoxenwatch.com/2026/10/group-questions-transparency-of-state-complaint-over-miso-long-range-transmission/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-16T14:34:39Z",
-    "id": "energy-42b960fbee7fa014"
+    "data_as_of": "2026-10-19T14:48:06Z",
+    "id": "energy-7a2fd31d19ecefc5"
   },
   {
-    "title": "Across The U.S., People Don’t Want Data Centers Coming To Their Communities",
-    "summary": "By Neha Gour, John Kotcher And Teresa Myers Regardless of their views on politics or climate change, most Americans oppose the development of data centers in their communities. These large buildings filled with computers that store and process digital information, increasingly to support various applications of artificial intelligence, are being built rapidly across the United […]",
+    "title": "Modeling Iron-Air Battery Arbitrage In U.S. Power Markets",
+    "summary": "By Lucas Caminiti In recent years, one of the biggest challenges the American grid faces is maintaining reliability and stable power pricing amid massive forecasted load growth. Batteries don’t bring new generation to the grid but can store energy to reduce electricity curtailments, smooth pricing, and increase grid reliability while discharging. Utility-scale lithium-ion (Li-ion) batteries […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/across-the-u-s-people-dont-want-data-centers-coming-to-their-communities/",
-    "timestamp": "2026-10-16T14:34:21Z",
+    "url": "https://misoxenwatch.com/2026/10/modeling-iron-air-battery-arbitrage-in-u-s-power-markets/",
+    "timestamp": "2026-10-19T14:47:20Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/across-the-u-s-people-dont-want-data-centers-coming-to-their-communities/"
+      "https://misoxenwatch.com/2026/10/modeling-iron-air-battery-arbitrage-in-u-s-power-markets/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-16T14:34:21Z",
-    "id": "energy-d76170bdf5f88146"
+    "data_as_of": "2026-10-19T14:47:20Z",
+    "id": "energy-7ad64484af35c88a"
   },
   {
-    "title": "What’s up with Denmark?",
-    "summary": "A conversation with Kristian Jensen of Green Power Denmark.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/whats-up-with-denmark",
-    "timestamp": "2026-10-16T10:05:36Z",
-    "topic": "Energy",
+    "title": "RLFS S5: Sim 8 Results [Final Bracket - Semifinals]",
+    "summary": "The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. If you'd like to know how the %'s were calculated, click on the 'Match X' link and search for a comment I make in that thread where I adjust the polling numbers to our weighted voting system. This season the RLFS uses the combined-format method in determining final game-win %s. Previous sims from this season Sim 1 - Swiss Round 1 Sim 2- Swiss Round 2 Sim 3 - Swiss Round 3 Sim 4 - Swiss Round 4 Sim 5 - Swiss Round 5 Sim 6 - Upper Bracket Quarterfinals & Lower Brack…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9wsy2/rlfs_s5_sim_8_results_final_bracket_semifinals/",
+    "timestamp": "2026-10-19T13:24:15Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.volts.wtf/p/whats-up-with-denmark"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9wsy2/rlfs_s5_sim_8_results_final_bracket_semifinals/"
     ],
-    "source_tier": "opinion",
+    "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-16T10:05:36Z",
-    "id": "energy-efa1439ac70f28f4"
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-19T13:24:15Z",
+    "id": "energy-a99e1c9c009f6773"
   },
   {
-    "title": "Zhang twists for semigroups and groupoids, with applications to Steinberg algebras",
-    "summary": "arXiv:2610.21005v1 Announce Type: new Abstract: Zhang twists provide a powerful mechanism for deforming graded algebras, while preserving their graded module categories. We extend this theory by introducing Zhang twists for graded semigroups and graded ample groupoids. We show that the twisting construction preserves a broad class of semigroup structures, and that two graded monoids are twists of each other if and only if their categories of graded sets are pointedly equivalent. We show that Zhang twists are compatible with noncommutative Stone duality: twists on graded-Boolean inverse semigroups are in correspondence with those on the associated graded ample groupoids. Moreover, in the setting of Steinberg algebras we prove that twisting the groupoid gives the same result as twisting the corresponding algebra. These results provide a unified framework linking graded semigroups, inverse semigroup duality, ample groupoids, and graded algebras, while extending the scope of Zhang twists to settings arising from symbolic dynamics, graph algebras, and Steinberg algebras.",
+    "title": "SampleScience releases Compact Acoustic Piano, a FREE lightweight piano plugin",
+    "summary": "SampleScience offers Compact Acoustic Piano, a free sample-based piano plugin for macOS and Windows. I think SampleScience always delivers nice sample-based instruments, and we’ve covered plenty of them here on BPB, including the free Cozy Piano earlier this year. Compact Acoustic Piano definitely isn’t the deepest free piano out there, but I think it’s very [...] View post: SampleScience releases Compact Acoustic Piano, a FREE lightweight piano plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/",
+    "timestamp": "2026-10-19T12:15:50Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-19T12:15:50Z",
+    "id": "energy-6e6c5e9ecd25ba97"
+  },
+  {
+    "title": "Arswerk Harmonia EQ makes room in your mix without sidechain routing",
+    "summary": "Arswerk has updated Harmonia EQ, a dynamic and spectral equalizer that lets tracks respond to one another without manually routing sidechains. We briefly covered it alongside the developer’s free Nyx reverb earlier this month. Now at version 1.1.3, Harmonia EQ costs €79 and includes a seven-day trial with full features and exports. You can place [...] View post: Arswerk Harmonia EQ makes room in your mix without sidechain routing",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/19/arswerk-harmonia-eq/",
+    "timestamp": "2026-10-19T12:15:37Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/19/arswerk-harmonia-eq/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-19T12:15:37Z",
+    "id": "energy-5aafa796245afa76"
+  },
+  {
+    "title": "Sample Roll offers SPCE adaptive sidechain plugin for FREE",
+    "summary": "Sample Roll is offering SPCE, an adaptive sidechain plugin for macOS and Windows, for free for a limited time. It normally costs $39, and it’s currently available as a freebie for a limited time. There is no confirmed end date for the giveaway, though. The website has a countdown for its paid plugin bundle, but [...] View post: Sample Roll offers SPCE adaptive sidechain plugin for FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/19/sample-roll-spce/",
+    "timestamp": "2026-10-19T12:09:51Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/19/sample-roll-spce/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-19T12:09:51Z",
+    "id": "energy-5c7b7ac88bbceb7b"
+  },
+  {
+    "title": "Pre-knockout Series 1v1 tourney ranking.",
+    "summary": "It features Nass, Nwpo, Dralii, Atow, Zen, Mawkzy, Osaft and Prozy. starting from 20 oct to 14 Nov . having cash prize of €18,000($20,156) imo the ranking should be 1.Nwpo(I just think Nwpo might bounce back from his loss and beat nass to #1 place) 2. Nass(completely valid for #1 spot) 3.Mawkzy 4.zen 5.dralii 6.Atow 7.Osaft 8.Prozy what do you guys think? submitted by /u/eNot_O [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9r2sv/preknockout_series_1v1_tourney_ranking/",
+    "timestamp": "2026-10-19T08:13:35Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9r2sv/preknockout_series_1v1_tourney_ranking/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-19T08:13:35Z",
+    "id": "energy-2b095b972bccf0a7"
+  },
+  {
+    "title": "Zagier's 2-3-2 formula for multiple Eisenstein series",
+    "summary": "arXiv:2610.23052v1 Announce Type: new Abstract: We prove a multiple Eisenstein series analogue of Zagier's formula for the multiple zeta values $\\zeta(2,\\ldots,2,3,2,\\ldots,2)$. The multiple Eisenstein series identity contains correction terms given by derivatives of odd Eisenstein series. Using the Goncharov coproduct and Brown's motivic version of Zagier's formula, we show that the normalized difference has rational Fourier coefficients. We then use the $\\mathfrak{sl}_2$-structure and a modularity criterion of Yu to prove the identity by induction.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.21005",
-    "timestamp": "2026-10-16T04:00:00Z",
+    "url": "https://arxiv.org/abs/2610.23052",
+    "timestamp": "2026-10-19T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.21005"
+      "https://arxiv.org/abs/2610.23052"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-16T04:00:00Z",
-    "id": "energy-c52e60ed4a9f4f52"
+    "data_as_of": "2026-10-19T04:00:00Z",
+    "id": "energy-a3350eccdc202fc1"
   },
   {
-    "title": "Zero density in short strips and short-interval bounds toward Hypothesis S",
-    "summary": "arXiv:2610.15989v2 Announce Type: replace Abstract: We deduce zero-density estimates in short vertical strips from short-interval moments of globally tempered automorphic $L$-functions, by adapting the large-value estimate of Guth and Maynard and the Type II zero argument of Maynard and Pratt to the framework of Ye and Zhang. For the Riemann zeta function, we obtain $N_\\zeta(\\sigma;T,T+T^a)\\ll T^{15a(1-\\sigma)/(3+5\\sigma)+\\varepsilon}$ for $2/3\\le a\\le1$ and $7/10\\le\\sigma\\le4/5$, improving Ye--Zhang's exponent in the interior of this range. Combining the localized density bound with the recent quasi-Riemann theorems, we estimate smoothed prime-power sums with phase $\\exp(2\\pi i\\alpha n^\\beta)$ on intervals of length $K^\\delta$. For $0<\\beta<13/20$, we obtain a power saving whenever $\\max\\{17/30,1-\\beta\\}<\\delta<1$; in particular the square-root phase admits every $\\delta>17/30$. A revised transform estimate retains both the stationary spread and the Fourier width $K/L$. For example, the bound at $\\beta=1/2$, $\\delta=3/5$ is $K^{15/26+\\varepsilon}$, uniformly for frequencies $m\\alpha$ with $1\\le m\\le K^{1/10}$. We also retain power savings for certain self-dual $GL(2)$ twists and…",
+    "title": "Wide Regular Subalgebras of Symmetrizable Kac-Moody Algebras and an Extension of Schur's Lemma",
+    "summary": "arXiv:2606.01371v3 Announce Type: replace Abstract: The behavior of representations under restriction is a central theme in Lie theory. We study wide regular subalgebras of symmetrizable Kac--Moody algebras, extending work of Douglas and Repka on semisimple Lie algebras. A subalgebra is \\emph{wide} if every irreducible integrable highest weight module remains indecomposable upon restriction. Let $\\mathfrak{g}$ be a symmetrizable Kac--Moody algebra with Cartan subalgebra $\\mathfrak{h}$, root system $\\Phi$, simple roots $\\Pi$, and root space decomposition $\\mathfrak{g}=\\mathfrak{h}\\oplus\\bigoplus_{\\alpha\\in\\Phi}\\mathfrak{g}_\\alpha$. Denote by $\\Phi_{\\operatorname{re}}$ the set of real roots. To a regular subalgebra $\\mathfrak{s}$ normalized by $\\mathfrak{h}$, we associate a subset $T\\subseteq \\Phi$ by declaring $\\alpha\\in T$ if $\\mathfrak{s}\\cap \\mathfrak{g}_\\alpha\\ne \\{0\\}$. One of our main results is an extension of Schur's lemma: if $\\mathfrak{h}\\subseteq \\mathfrak{s}$ and the real closure of $(T\\cup(-T))\\cap \\Phi_{\\operatorname{re}}$ contains $\\Pi$, then $(\\operatorname{End} V)^{\\mathfrak{s}}=\\mathbb{C}\\operatorname{Id}_V$ for every irreducible integrable highest weight module $…",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.15989",
-    "timestamp": "2026-10-16T04:00:00Z",
+    "url": "https://arxiv.org/abs/2606.01371",
+    "timestamp": "2026-10-19T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.15989"
+      "https://arxiv.org/abs/2606.01371"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-16T04:00:00Z",
-    "id": "energy-c3ea1e25778a331e"
+    "data_as_of": "2026-10-19T04:00:00Z",
+    "id": "energy-62e506f7f6675aed"
   },
   {
-    "title": "Z-Opt: A Near-Optimal Reduced-Complexity Two-Dimensional Grassmannian Constellation",
-    "summary": "arXiv:2605.04545v2 Announce Type: replace Abstract: Grassmannian constellations achieve the capacity of noncoherent communications over Rayleigh fading channels at high SNR, yet their efficient construction remains challenging. In this paper, we present two construction methods for Grassmannian constellations on G(2,1), termed S-Opt and Z-Opt, and propose two low-complexity detectors. Both construction and detection are performed on the unit sphere, known as the Bloch sphere in quantum computing. Exploiting the proportionality between the chordal distance on the Grassmann manifold and the Euclidean distance on the Bloch sphere, we derive a theoretical upper bound on the minimum chordal distance from the Fejes-Toth bound. The S-Opt constellation is constructed from sphere-packing solutions and achieves the theoretical limit corresponding to the considered optimal Bloch-sphere packings. The S-Opt detector applies to arbitrary constellations on G(2,1) and requires a number of complex multiplications scaling linearly with the number of receive antennas and logarithmically with the constellation size, and a number of numerical comparisons scaling logarithmically with the constellation…",
+    "title": "Whittaker Functionals for Exceptional Representations",
+    "summary": "arXiv:2610.23169v1 Announce Type: new Abstract: In the study of automorphic forms on covering groups, Kazhdan-Patterson gives a formula that determines when the Whittaker functionals of induced representations can be descended to exceptional representations. In this paper, first, following the original approach given by Kazhdan-Patterson and applying the block-compatible 2-cocycle of Banks-Levy-Sepanski, we fill in several details omitted in the original proof. Secondly, we compare the formula of Kazhdan-Patterson with that of McNamara and Gao, which is formulated in a more general setting.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2605.04545",
-    "timestamp": "2026-10-16T04:00:00Z",
+    "url": "https://arxiv.org/abs/2610.23169",
+    "timestamp": "2026-10-19T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2605.04545"
+      "https://arxiv.org/abs/2610.23169"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-16T04:00:00Z",
-    "id": "energy-a66314abadc9412d"
+    "data_as_of": "2026-10-19T04:00:00Z",
+    "id": "energy-e1ae01c914397da6"
+  },
+  {
+    "title": "Do you guys root for teams or players?",
+    "summary": "After G2 left, i obviously just rooted for NRG2 but now that they have disbanded i only have players to root for now. i’m definitely gonna be rooting for that new shop team mainly, they have all my favorite players but i honestly don’t really care for the org. just wondering if you guys are more so player supporters or team supporters. i’m assuming in an esport where people move so much that you guys probably mostly support players, but im curious anyways submitted by /u/Vibez67 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9kkxu/do_you_guys_root_for_teams_or_players/",
+    "timestamp": "2026-10-19T01:57:29Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9kkxu/do_you_guys_root_for_teams_or_players/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-19T01:57:29Z",
+    "id": "energy-8ce1a41138d6255e"
   }
 ]

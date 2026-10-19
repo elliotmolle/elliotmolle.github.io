@@ -1,5 +1,113 @@
 [
   {
+    "title": "IBA and Framatome form Ekalia for At-211 production",
+    "summary": "On Friday, Framatome and Ion Beam Applications announced the next step in their plan to advance the industrial-scale production of astatine-211 in Europe and the United States. The partners have formed a jointly owned company, Ekalia, through which they will deploy a network of At-211 production sites close to customers. According to IBA, the first production site is planned in Nantes, France, and Ekalia expects to invest €30 million (about $33.6 million) in it. The permit application has been submitted, the start of construction is anticipated in early 2027, and the site is expected to become operational in 2028. A second pilot site is planned in the United States, though the location and timing have yet to be confirmed.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-19/article-8498/iba-and-framatome-form-ekalia-for-at211-production/",
+    "timestamp": "2026-10-19T15:30:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-19/article-8498/iba-and-framatome-form-ekalia-for-at211-production/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-19T15:30:14Z",
+    "id": "energy-81a9ce719777f933"
+  },
+  {
+    "title": "Centrus Announces $116 Million Acquisition Of Centrifuge Component Supplier Westerman",
+    "summary": "US nuclear fuel company Centrus Energy has acquired Westerman Holdings, a major supplier of components for its uranium enrichment centrifuges, for about $116m (€103m), a statement said. Centrus said the acquisition was financed through about $95m in cash and $21m in equity.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/centrus-announces-usd116-million-acquisition-of-centrifuge-component-supplier-westerman-10-1-2026",
+    "timestamp": "2026-10-19T13:29:26Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/centrus-announces-usd116-million-acquisition-of-centrifuge-component-supplier-westerman-10-1-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-19T13:29:26Z",
+    "id": "energy-4393f93619da080f"
+  },
+  {
+    "title": "IAEA publishes report on isotope tracing for water pollution monitoring",
+    "summary": "After a four-year coordinated research project involving 14 countries to develop and test new isotope-based methods for tracing nitrate pollution in river and groundwater systems led by the International Atomic Energy Agency, a report has been published describing the outcomes. The countries that participated in the study were Argentina, Australia, Burkina Faso, Cameroon, Ecuador, Finland, France, Greece, Italy, Malaysia, Nigeria, Pakistan, Spain, and Ukraine.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-19/article-8497/iaea-publishes-report-on-isotope-tracing-for-water-pollution-monitoring/",
+    "timestamp": "2026-10-19T12:10:01Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-19/article-8497/iaea-publishes-report-on-isotope-tracing-for-water-pollution-monitoring/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-19T12:10:01Z",
+    "id": "energy-215ad4f34b239b0c"
+  },
+  {
+    "title": "Explainer: Why does New England have wholesale electricity markets?",
+    "summary": "The markets allow the power system to operate reliably and cost-effectively while also driving investment. The post Explainer: Why does New England have wholesale electricity markets? appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/19/explainer-why-does-new-england-have-wholesale-electricity-markets/",
+    "timestamp": "2026-10-19T12:09:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/19/explainer-why-does-new-england-have-wholesale-electricity-markets/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-19T12:09:27Z",
+    "id": "energy-3d65df7f8e4ca379"
+  },
+  {
+    "title": "Slovakia’s Mochovce-4 Nuclear Power Plant Connected To Grid For First Time",
+    "summary": "The Mochovce-4 nuclear power plant in Slovakia has been connected to the national electricity grid for the first time, marking a major milestone in the commissioning of the VVER-440 reactor unit. Slovak owner Slovenské Elektrárne said the first of the unit’s two turbine generators was synchronised with the grid at 20:41 local time on 15 October and began supplying electricity.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/slovakia-s-mochovce-4-nuclear-power-plant-connected-to-grid-for-first-time-10-1-2026",
+    "timestamp": "2026-10-19T09:17:29Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/slovakia-s-mochovce-4-nuclear-power-plant-connected-to-grid-for-first-time-10-1-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-19T09:17:29Z",
+    "id": "energy-21f00ec3cbb52c6a"
+  },
+  {
     "title": "Browns Ferry and the fight against eelgrass",
     "summary": "Opportunities to improve maintenance efficiency can arise unexpectedly at nuclear power plants. At Browns Ferry in Athens, Ala., one opportunity arose when an unexpected surge of nonnative eelgrass in the Tennessee River clogged the cooling water intake, prompting the shutdown of two reactors and the derating of a third to about 78 percent power. Power plant engineers said the single surge reportedly cost the Tennessee Valley Authority about $15 million–$20 million in revenue. A 2026 report from the International Atomic Energy Agency said the same incident resulted in a production loss of roughly 0.5 terawatt-hours.",
     "source": "ANS Newswire",
@@ -20,28 +128,6 @@
     ],
     "data_as_of": "2026-10-16T21:01:55Z",
     "id": "energy-ab8b5fb25bf7d955"
-  },
-  {
-    "title": "Three universities launch nuclear education consortium",
-    "summary": "Three universities are coming together to meet the emerging need to fill gaps in the nuclear workforce by developing microcredentials and immersive training tools that bring nuclear education to a broader group of students. Arizona State University, Purdue University, and the University of Tennessee–Knoxville announced they have launched the New Nuclear Academic Consortium.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-16/article-8496/three-universities-launch-nuclear-education-consortium/",
-    "timestamp": "2026-10-16T19:24:04Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-16/article-8496/three-universities-launch-nuclear-education-consortium/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-16T19:24:04Z",
-    "id": "energy-d34ed7325f3be392"
   },
   {
     "title": "Dry conditions, wind combine to create fire hazards",
@@ -66,118 +152,5 @@
     ],
     "data_as_of": "2026-10-16T18:33:08Z",
     "id": "energy-b8cfa967b5cf0095"
-  },
-  {
-    "title": "NRC allows alternate approach to removing tilted fuel assembly at Palisades",
-    "summary": "Roughly two weeks after Holtec submitted a license amendment request (LAR) following a fuel loading incident at the Palisades nuclear power plant, the Nuclear Regulatory Commission approved Holtec’s emergency request to remove a tilted fuel assembly from the power plant’s reactor vessel using custom-made equipment.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-16/article-8495/nrc-allows-alternate-approach-to-removing-tilted-fuel-assembly-at-palisades/",
-    "timestamp": "2026-10-16T17:43:41Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-16/article-8495/nrc-allows-alternate-approach-to-removing-tilted-fuel-assembly-at-palisades/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-16T17:43:41Z",
-    "id": "energy-83b4d76df8efd778"
-  },
-  {
-    "title": "Sweden’s Studsvik Signs ‘Landmark’ Spent Nuclear Fuel Agreement With Norway",
-    "summary": "Sweden-based nuclear services company Studsvik has signed what it called a “landmark” agreement to manage Norway’s legacy spent nuclear fuel. The agreement with Norwegian Nuclear Decommissioning (NND), the Norwegian state agency responsible for decommissioning the country’s nuclear facilities, runs until 2055 and has an estimated contractual minimum value of about SEK 875m (€78m, $88m) and a potential total value for Studsvik of SEK 3-4bn. It covers transport, treatment of waste to meet long-term storage requirements and the interim storage of spent fuel from Norway’s former research reactors at Halden and Kjeller.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/studsvik-signs-landmark-spent-nuclear-fuel-agreement-with-norway-10-5-2026",
-    "timestamp": "2026-10-16T12:40:53Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/studsvik-signs-landmark-spent-nuclear-fuel-agreement-with-norway-10-5-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-16T12:40:53Z",
-    "id": "energy-265307e2e8052a17"
-  },
-  {
-    "title": "Interactive user guide available for NX Application",
-    "summary": "The NX Application hosts generator and transmission data that is used to model the power system and support reliability. The post Interactive user guide available for NX Application appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/16/interactive-user-guide-available-for-nx-application/",
-    "timestamp": "2026-10-16T12:00:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/16/interactive-user-guide-available-for-nx-application/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-16T12:00:00Z",
-    "id": "energy-7a33f4b3a26da6f1"
-  },
-  {
-    "title": "United Way names Drew and Lynn Marsh as Alexis de Tocqueville honorees",
-    "summary": "The United Way of Southeast Louisiana named Entergy Chair and CEO Drew Marsh and his wife, Lynn, as the 2026 Alexis de Tocqueville Award recipients for their exceptional community leadership and philanthropic commitment. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/united-way-names-drew-and-lynn-marsh-as-alexis-de-tocqueville-honorees",
-    "timestamp": "2026-10-15T21:50:54Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/united-way-names-drew-and-lynn-marsh-as-alexis-de-tocqueville-honorees"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-15T21:50:54Z",
-    "id": "energy-0a1fed5cb6ebcce3"
-  },
-  {
-    "title": "Insights from the Entergy Arkansas Affordability Summit",
-    "summary": "Entergy Arkansas's Affordability Summit brought together organizations that serve many of the same communities and often encounter the same challenges from different perspectives. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/insights-from-the-entergy-arkansas-affordability-summit",
-    "timestamp": "2026-10-15T20:49:44Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/insights-from-the-entergy-arkansas-affordability-summit"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-15T20:49:44Z",
-    "id": "energy-da9e5b79ab28231c"
   }
 ]
