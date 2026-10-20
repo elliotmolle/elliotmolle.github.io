@@ -1,165 +1,246 @@
 [
   {
-    "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+    "title": "Final Fantasy Resonance Reviews Beat Square Enix's Previous HD-2D RPG",
+    "summary": "Final Fantasy Resonance pulls inspiration from the Brave Exvius mobile game, and while critics love the presentation, they're less sold on the story",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/final-fantasy-resonance-review-roundup/",
+    "timestamp": "2026-10-20T14:37:10Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/final-fantasy-resonance-review-roundup/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-20T14:37:10Z",
+    "id": "energy-74e357a652f67582"
+  },
+  {
+    "title": "Nintendo Switch Sports Resort Reviews Prove the Series Isn't Winning Any Awards",
+    "summary": "Nintendo Switch Sports Reviews are in, and they're remarkably consistent with Wii Sports Resort's reception in 2009.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/nintendo-switch-sports-resort-review-roundup/",
+    "timestamp": "2026-10-20T14:31:45Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/nintendo-switch-sports-resort-review-roundup/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-20T14:31:45Z",
+    "id": "energy-05be4916f9345bcf"
+  },
+  {
+    "title": "PS6 price update is bad news for millions of gamers",
+    "summary": "The RAM crisis could put the PS6 out of reach for many",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/ps6-price-update/",
+    "timestamp": "2026-10-20T14:29:28Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/ps6-price-update/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-20T14:29:28Z",
+    "id": "energy-89ebfbf9f3618070"
+  },
+  {
+    "title": "My Friend Bob Cringely",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
-    "timestamp": "2026-10-19T16:37:10Z",
+    "url": "https://tyma.com/my-cringe-story/",
+    "timestamp": "2026-10-20T14:13:49Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
+      "https://tyma.com/my-cringe-story/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-19T16:37:10Z",
-    "id": "energy-35eb1c37a8df8b2b"
+    "data_as_of": "2026-10-20T14:13:49Z",
+    "id": "energy-9afa43a93aeba001"
   },
   {
-    "title": "The Most Terrifying Object In You Can See Everything Isn’t Elizabeth Holmes’ Unblinking Eyes, It’s A Bowl Of Eggs",
-    "summary": "No, seriously",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-most-terrifying-object-in-you-can-see-everything-isnt-elizabeth-holmes-unblinking-eyes-its-a-bowl-of-eggs-2000747559",
-    "timestamp": "2026-10-19T16:30:11Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/the-most-terrifying-object-in-you-can-see-everything-isnt-elizabeth-holmes-unblinking-eyes-its-a-bowl-of-eggs-2000747559"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-19T16:30:11Z",
-    "id": "energy-dd4b8d8e065be04e"
-  },
-  {
-    "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+    "title": "EMudhra Intermediate CA Compromise",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=50154029",
-    "timestamp": "2026-10-19T16:00:18Z",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "timestamp": "2026-10-20T13:58:33Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://news.ycombinator.com/item?id=50154029"
+      "https://emudhra.we-have-a-problem.com/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-19T16:00:18Z",
-    "id": "energy-e1184a0c251d8296"
+    "data_as_of": "2026-10-20T13:58:33Z",
+    "id": "energy-bf3c019bd7d56a30"
   },
   {
-    "title": "Star Wars Book Officially Solves Luke Skywalker's Most Iconic Mystery",
-    "summary": "Did the Force alone help Luke Skywalker fight back against the Empire? Dr. Chris Kempshall answers that question and more in 'Star Pilots.'",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/star-wars-star-pilots-chris-kempshall-luke-skywalker/",
-    "timestamp": "2026-10-19T16:00:16Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/star-wars-star-pilots-chris-kempshall-luke-skywalker/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-19T16:00:16Z",
-    "id": "energy-ac2a320520f11d66"
-  },
-  {
-    "title": "Another day another GitHub incident",
+    "title": "2026 is an exciting year for the Rust compiler (and me)",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
-    "timestamp": "2026-10-19T15:52:26Z",
+    "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+    "timestamp": "2026-10-20T13:53:48Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.githubstatus.com/incidents/8tzbpcnl75jp"
+      "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-19T15:52:26Z",
-    "id": "energy-272909765715d20e"
+    "data_as_of": "2026-10-20T13:53:48Z",
+    "id": "energy-5243d9228d566d79"
   },
   {
-    "title": "Pokémon Skateboards Officially Launch, and Scalpers Are Already Buying Them Up",
-    "summary": "The Santa Cruz Pokémon blind bags depicting fan favorite TCG designs are being resold on websites like eBay and Facebook for exorbitant amounts",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-skateboard-santa-cruz-restock-shape-prices-charizard-eevee/",
-    "timestamp": "2026-10-19T15:40:28Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/pokemon-skateboard-santa-cruz-restock-shape-prices-charizard-eevee/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-19T15:40:28Z",
-    "id": "energy-e8ead53b57de25d7"
-  },
-  {
-    "title": "Lord of the Rings Director Says He’s Finally Making His Tintin Sequel",
-    "summary": "Peter Jackson gave an update on his upcoming The Adventures of Tintin sequel and has new information on the next two Lord of the Rings movies.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/tintin-update-peter-hackson-lord-of-the-rings/",
-    "timestamp": "2026-10-19T15:34:50Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/tintin-update-peter-hackson-lord-of-the-rings/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-19T15:34:50Z",
-    "id": "energy-7cae4ae69c001361"
-  },
-  {
-    "title": "AI Cloning Threatens To End Public Playtests For Video Games",
-    "summary": "Moonlighter dev Digital Sun has cancelled plans for a public playtest of its next game, for fears of Claude clones",
+    "title": "Masahiro Sakurai Says Gaming Needs Originality Or It ‘Will Die Slowly’",
+    "summary": "Sakurai issues comments while warning that AI will introduce a flurry of 'unplayable' games",
     "source": "Kotaku",
-    "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
-    "timestamp": "2026-10-19T15:30:36Z",
+    "url": "https://kotaku.com/masahiro-sakurai-says-gaming-needs-originality-or-it-will-die-slowly-2000747672",
+    "timestamp": "2026-10-20T13:30:38Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558"
+      "https://kotaku.com/masahiro-sakurai-says-gaming-needs-originality-or-it-will-die-slowly-2000747672"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-19T15:30:36Z",
-    "id": "energy-e750c5a928f20baa"
+    "data_as_of": "2026-10-20T13:30:38Z",
+    "id": "energy-df99afd3ef35b03f"
   },
   {
-    "title": "Final Fantasy 7 Revelation Lets You Play On The Hardest Difficulty From The Start Because Of The ‘Wide Variety Of End-Game Content’",
-    "summary": "One of my biggest gripe has been fixed",
+    "title": "Insane RW9 Save in 2's",
+    "summary": "submitted by /u/Kur0k4ze [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xarwvp/insane_rw9_save_in_2s/",
+    "timestamp": "2026-10-20T13:17:48Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xarwvp/insane_rw9_save_in_2s/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-20T13:17:48Z",
+    "id": "energy-c479a66f8dd91199"
+  },
+  {
+    "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
+    "summary": "The 2.5 patch comes just as Cyberpunk: Edgerunners II premieres on Netflix",
     "source": "Kotaku",
-    "url": "https://kotaku.com/final-fantasy-7-revelation-lets-you-play-on-the-hardest-difficulty-from-the-start-because-of-the-wide-variety-of-end-game-content-2000747557",
-    "timestamp": "2026-10-19T15:00:05Z",
+    "url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
+    "timestamp": "2026-10-20T13:09:52Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/final-fantasy-7-revelation-lets-you-play-on-the-hardest-difficulty-from-the-start-because-of-the-wide-variety-of-end-game-content-2000747557"
+      "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-19T15:00:05Z",
-    "id": "energy-1d6c28188c16daaf"
+    "data_as_of": "2026-10-20T13:09:52Z",
+    "id": "energy-a6460de8f9fcf3b8"
+  },
+  {
+    "title": "Final Fantasy Resonance Feels Like Comfort Food, But I Want Cuisine",
+    "summary": "After 12 hours, the Brave Exvius reimagining just can’t satiate my hunger",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/final-fantasy-resonance-brave-exvius-review-rpg-square-enix-2000747599",
+    "timestamp": "2026-10-20T13:00:00Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/final-fantasy-resonance-brave-exvius-review-rpg-square-enix-2000747599"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-20T13:00:00Z",
+    "id": "energy-fb98cd0922f14806"
+  },
+  {
+    "title": "M0nkey M00n fanboy confirmed",
+    "summary": "Hi there! I thought it would be interesting and fun to share some of my masterpieces, which I'm really grateful for and happy with. They did cost a fair amount of money to build, but for me, it was definitely worth it. I made a similar post a few years ago on an old Reddit account, but now — after quite some time, actually — everything is finally finished and has found its place in the house. What do you think? Do you think they're cool? What are some of your own masterpieces that you're really proud of? I hope you enjoy this post! I'm not trying to brag or anything. Have a nice day! submitted by /u/momenteren [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xalx7w/m0nkey_m00n_fanboy_confirmed/",
+    "timestamp": "2026-10-20T07:44:26Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xalx7w/m0nkey_m00n_fanboy_confirmed/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-20T07:44:26Z",
+    "id": "energy-3781130631bd82c5"
+  },
+  {
+    "title": "[5050rl] Today's Showmatch between KV1 and Swiftt against Diaz and Reysbull",
+    "summary": "Post translated: 50/50 KING OF THE LEAGUE: 2v2 🏆 Two top teams face off today for SAM supremacy! ⚔️ 9:00 PM BRT: ReysbullWRLD & diazrll__ vs. kv1_rll & swifttrl 🕗 Broadcast starts at 8:00 PM BRT with all the latest global RL news. 📺 Watch live: twitch.tv/dudsmelow submitted by /u/MeladoDuds [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xa9dxd/5050rl_todays_showmatch_between_kv1_and_swiftt/",
+    "timestamp": "2026-10-19T21:16:48Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xa9dxd/5050rl_todays_showmatch_between_kv1_and_swiftt/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-19T21:16:48Z",
+    "id": "energy-99cc9986e632bd52"
+  },
+  {
+    "title": "SnowTec releases Probe, a FREE plugin analyzer for macOS and Windows",
+    "summary": "SnowTec has released Probe, a free plugin analyzer available as a standalone app and a plugin for macOS and Windows. This one is very useful for testing other plugins and seeing what they really do to the signal. You can inspect an EQ’s frequency response, see the harmonics a saturator adds, or check how a [...] View post: SnowTec releases Probe, a FREE plugin analyzer for macOS and Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/19/snowtec-probe-plugin-analyzer/",
+    "timestamp": "2026-10-19T17:43:03Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/19/snowtec-probe-plugin-analyzer/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-19T17:43:03Z",
+    "id": "energy-285714b77565faa2"
   },
   {
     "title": "MISO Stakeholders Want Large Load-Driven Tx Project Traceability Before MTEP 27",
@@ -225,27 +306,6 @@
     "id": "energy-7ad64484af35c88a"
   },
   {
-    "title": "RLFS S5: Sim 8 Results [Final Bracket - Semifinals]",
-    "summary": "The Rocket League Fantasy Series (RLFS) is a 16-team Rocket League Tournament, where RL players have been fantasy-drafted to teams by users of this subreddit. The RLFS uses reddit polls to determine the odds each team has of winning the series through a weighted-voting system, and then simulates the outcome of the series using these odds and a Random Number Generator. For this season the RLFS tournament will be a Swiss Bracket (that follows Buchholz score), and which ultimately leads to a final-bracket to determine our champion. Teams were drafted before the first regionals were played, and you can view the results of the draft, the rosters of all RLFS teams, and our schedule for the RLFS tournament in this Google Sheet. If you'd like to know how the %'s were calculated, click on the 'Match X' link and search for a comment I make in that thread where I adjust the polling numbers to our weighted voting system. This season the RLFS uses the combined-format method in determining final game-win %s. Previous sims from this season Sim 1 - Swiss Round 1 Sim 2- Swiss Round 2 Sim 3 - Swiss Round 3 Sim 4 - Swiss Round 4 Sim 5 - Swiss Round 5 Sim 6 - Upper Bracket Quarterfinals & Lower Brack…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9wsy2/rlfs_s5_sim_8_results_final_bracket_semifinals/",
-    "timestamp": "2026-10-19T13:24:15Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9wsy2/rlfs_s5_sim_8_results_final_bracket_semifinals/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-19T13:24:15Z",
-    "id": "energy-a99e1c9c009f6773"
-  },
-  {
     "title": "SampleScience releases Compact Acoustic Piano, a FREE lightweight piano plugin",
     "summary": "SampleScience offers Compact Acoustic Piano, a free sample-based piano plugin for macOS and Windows. I think SampleScience always delivers nice sample-based instruments, and we’ve covered plenty of them here on BPB, including the free Cozy Piano earlier this year. Compact Acoustic Piano definitely isn’t the deepest free piano out there, but I think it’s very [...] View post: SampleScience releases Compact Acoustic Piano, a FREE lightweight piano plugin",
     "source": "Bedroom Producers Blog",
@@ -280,45 +340,6 @@
     "primary_source": false,
     "data_as_of": "2026-10-19T12:15:37Z",
     "id": "energy-5aafa796245afa76"
-  },
-  {
-    "title": "Sample Roll offers SPCE adaptive sidechain plugin for FREE",
-    "summary": "Sample Roll is offering SPCE, an adaptive sidechain plugin for macOS and Windows, for free for a limited time. It normally costs $39, and it’s currently available as a freebie for a limited time. There is no confirmed end date for the giveaway, though. The website has a countdown for its paid plugin bundle, but [...] View post: Sample Roll offers SPCE adaptive sidechain plugin for FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/19/sample-roll-spce/",
-    "timestamp": "2026-10-19T12:09:51Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/19/sample-roll-spce/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-19T12:09:51Z",
-    "id": "energy-5c7b7ac88bbceb7b"
-  },
-  {
-    "title": "Pre-knockout Series 1v1 tourney ranking.",
-    "summary": "It features Nass, Nwpo, Dralii, Atow, Zen, Mawkzy, Osaft and Prozy. starting from 20 oct to 14 Nov . having cash prize of €18,000($20,156) imo the ranking should be 1.Nwpo(I just think Nwpo might bounce back from his loss and beat nass to #1 place) 2. Nass(completely valid for #1 spot) 3.Mawkzy 4.zen 5.dralii 6.Atow 7.Osaft 8.Prozy what do you guys think? submitted by /u/eNot_O [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9r2sv/preknockout_series_1v1_tourney_ranking/",
-    "timestamp": "2026-10-19T08:13:35Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9r2sv/preknockout_series_1v1_tourney_ranking/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-19T08:13:35Z",
-    "id": "energy-2b095b972bccf0a7"
   },
   {
     "title": "Zagier's 2-3-2 formula for multiple Eisenstein series",
@@ -373,26 +394,5 @@
     "primary_source": true,
     "data_as_of": "2026-10-19T04:00:00Z",
     "id": "energy-e1ae01c914397da6"
-  },
-  {
-    "title": "Do you guys root for teams or players?",
-    "summary": "After G2 left, i obviously just rooted for NRG2 but now that they have disbanded i only have players to root for now. i’m definitely gonna be rooting for that new shop team mainly, they have all my favorite players but i honestly don’t really care for the org. just wondering if you guys are more so player supporters or team supporters. i’m assuming in an esport where people move so much that you guys probably mostly support players, but im curious anyways submitted by /u/Vibez67 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9kkxu/do_you_guys_root_for_teams_or_players/",
-    "timestamp": "2026-10-19T01:57:29Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1x9kkxu/do_you_guys_root_for_teams_or_players/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-19T01:57:29Z",
-    "id": "energy-8ce1a41138d6255e"
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "title": "IBA and Framatome form Ekalia for At-211 production",
-    "summary": "On Friday, Framatome and Ion Beam Applications announced the next step in their plan to advance the industrial-scale production of astatine-211 in Europe and the United States. The partners have formed a jointly owned company, Ekalia, through which they will deploy a network of At-211 production sites close to customers. According to IBA, the first production site is planned in Nantes, France, and Ekalia expects to invest €30 million (about $33.6 million) in it. The permit application has been submitted, the start of construction is anticipated in early 2027, and the site is expected to become operational in 2028. A second pilot site is planned in the United States, though the location and timing have yet to be confirmed.",
+    "title": "Choosing the Right LTO Partner Matters Now More Than Ever",
+    "summary": "Surging electricity demand. Favorable economics. Paired LTO and uprates. These are just some of the compelling reasons Long-Term Operation programs are gaining momentum among U.S. utilities. As nuclear energy demand continues to grow, many utilities are turning to LTO to transform aging assets into expanded capacity.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-19/article-8498/iba-and-framatome-form-ekalia-for-at211-production/",
-    "timestamp": "2026-10-19T15:30:14Z",
+    "url": "https://www.ans.org/news/2026-10-20/article-8458/choosing-the-right-lto-partner-matters-now-more-than-ever/",
+    "timestamp": "2026-10-20T14:05:35Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-19/article-8498/iba-and-framatome-form-ekalia-for-at211-production/"
+      "https://www.ans.org/news/2026-10-20/article-8458/choosing-the-right-lto-partner-matters-now-more-than-ever/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,121 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-19T15:30:14Z",
-    "id": "energy-81a9ce719777f933"
+    "data_as_of": "2026-10-20T14:05:35Z",
+    "id": "energy-c327c6ec33815f12"
+  },
+  {
+    "title": "NRC reviews first 100 days after reorganization",
+    "summary": "Roughly 100 days ago, the Nuclear Regulatory Commission began a massive structural reorganization, which included, among other changes, a reorganization around core business lines and the establishment of two new offices: the Office of the Chief Nuclear Reactor Inspector and the Office of Advanced Reactors. On October 15, NRC officials and staff met with the five commissioners at the NRC Region IV offices in Arlington, Texas, to assess the successes and challenges resulting from the reorganization. Commissioners welcomed the chance to hold a meeting at a regional office, which allowed them to see firsthand how the changes are impacting staff not based at the NRC’s Maryland headquarters. One of the main changes to the reorganization is having all four regional offices report to the new CNRI.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-20/article-8502/nrc-reviews-first-100-days-after-reorganization/",
+    "timestamp": "2026-10-20T12:40:25Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-20/article-8502/nrc-reviews-first-100-days-after-reorganization/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-20T12:40:25Z",
+    "id": "energy-bb53abdbb509add2"
+  },
+  {
+    "title": "Nuclear Industry Calls For Concrete Action In EU Post-2030 Energy Framework",
+    "summary": "Senior executives from Europe’s nuclear industry have called on the European Commission to take “concrete steps” to support nuclear investments under the EU’s post-2030 energy and climate framework, including a common clean energy target covering both nuclear power and renewables. In a letter dated 19 October to European Commission president Ursula von der Leyen, the executives urged the EU to move away from technology-specific targets and ensure that all low-carbon energy sources receive equal policy support.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/nuclear-industry-calls-for-concrete-action-in-eu-post-2030-energy-framework-10-2-2026",
+    "timestamp": "2026-10-20T11:32:56Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/nuclear-industry-calls-for-concrete-action-in-eu-post-2030-energy-framework-10-2-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-20T11:32:56Z",
+    "id": "energy-17ff0db0527034c0"
+  },
+  {
+    "title": "Amazon, AEP, X-energy explore SMR feasibility in Indiana",
+    "summary": "Amazon, American Electric Power, and X-energy are partnering up to potentially bring a 960-MW nuclear power plant to western Indiana as the state’s first commercial nuclear generation. The three announced earlier today a joint development agreement to explore the feasibility of a nuclear power project at the former Breed coal-fired power plant in Sullivan County, Ind., that would involve the deployment of 12 X-energy Xe-100 high-temperature, gas-cooled reactors. Details on the project are minimal outside of the reactor design and site, as it is in the early stages and has yet to reach any final investment decision. However, this project could create more than 1,000 construction jobs and more than 100 permanent jobs, the companies said.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-19/article-8501/amazon-aep-xenergy-explore-smr-feasibility-in-indiana/",
+    "timestamp": "2026-10-19T21:33:06Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-19/article-8501/amazon-aep-xenergy-explore-smr-feasibility-in-indiana/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-19T21:33:06Z",
+    "id": "energy-e6a9c825ab4b0f16"
+  },
+  {
+    "title": "Entergy Arkansas announces enhanced partnership at Google West Memphis campus, delivering at least $500M in new savings for all customers",
+    "summary": "Google is financially supporting investments by Entergy Arkansas that will strengthen communities, enhance power grid and support regional growth. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-arkansas-announces-enhanced-partnership-at-google-west-memphis-campus-delivering-at-least-500m-in-new-savings-for-all-customers",
+    "timestamp": "2026-10-19T20:06:12Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-arkansas-announces-enhanced-partnership-at-google-west-memphis-campus-delivering-at-least-500m-in-new-savings-for-all-customers"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-19T20:06:12Z",
+    "id": "energy-f4cc032b04433aed"
+  },
+  {
+    "title": "US Energy Department selects Entergy Mississippi to receive $4.2M for grid improvements",
+    "summary": "Entergy Mississippi was selected to receive $4.2 million from the U.S. Department of Energy for upgrades to strengthen performance of its transmission system. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/us-energy-department-selects-entergy-mississippi-to-receive-4-2m",
+    "timestamp": "2026-10-19T17:53:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/us-energy-department-selects-entergy-mississippi-to-receive-4-2m"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-19T17:53:36Z",
+    "id": "energy-4c01e0a0727d8e96"
   },
   {
     "title": "Centrus Announces $116 Million Acquisition Of Centrifuge Component Supplier Westerman",
@@ -41,28 +154,6 @@
     ],
     "data_as_of": "2026-10-19T13:29:26Z",
     "id": "energy-4393f93619da080f"
-  },
-  {
-    "title": "IAEA publishes report on isotope tracing for water pollution monitoring",
-    "summary": "After a four-year coordinated research project involving 14 countries to develop and test new isotope-based methods for tracing nitrate pollution in river and groundwater systems led by the International Atomic Energy Agency, a report has been published describing the outcomes. The countries that participated in the study were Argentina, Australia, Burkina Faso, Cameroon, Ecuador, Finland, France, Greece, Italy, Malaysia, Nigeria, Pakistan, Spain, and Ukraine.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-19/article-8497/iaea-publishes-report-on-isotope-tracing-for-water-pollution-monitoring/",
-    "timestamp": "2026-10-19T12:10:01Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-19/article-8497/iaea-publishes-report-on-isotope-tracing-for-water-pollution-monitoring/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-19T12:10:01Z",
-    "id": "energy-215ad4f34b239b0c"
   },
   {
     "title": "Explainer: Why does New England have wholesale electricity markets?",
@@ -106,51 +197,5 @@
     ],
     "data_as_of": "2026-10-19T09:17:29Z",
     "id": "energy-21f00ec3cbb52c6a"
-  },
-  {
-    "title": "Browns Ferry and the fight against eelgrass",
-    "summary": "Opportunities to improve maintenance efficiency can arise unexpectedly at nuclear power plants. At Browns Ferry in Athens, Ala., one opportunity arose when an unexpected surge of nonnative eelgrass in the Tennessee River clogged the cooling water intake, prompting the shutdown of two reactors and the derating of a third to about 78 percent power. Power plant engineers said the single surge reportedly cost the Tennessee Valley Authority about $15 million–$20 million in revenue. A 2026 report from the International Atomic Energy Agency said the same incident resulted in a production loss of roughly 0.5 terawatt-hours.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-16/article-8413/browns-ferry-and-the-fight-against-eelgrass/",
-    "timestamp": "2026-10-16T21:01:55Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-16/article-8413/browns-ferry-and-the-fight-against-eelgrass/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-16T21:01:55Z",
-    "id": "energy-ab8b5fb25bf7d955"
-  },
-  {
-    "title": "Dry conditions, wind combine to create fire hazards",
-    "summary": "We ask all customers to join us in taking every precaution and follow any local or state orders, such as full or partial burn bans. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/dry-conditions-wind-combine-to-create-fire-hazards",
-    "timestamp": "2026-10-16T18:33:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/dry-conditions-wind-combine-to-create-fire-hazards"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-16T18:33:08Z",
-    "id": "energy-b8cfa967b5cf0095"
   }
 ]
