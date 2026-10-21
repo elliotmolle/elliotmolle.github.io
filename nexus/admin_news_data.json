@@ -1,398 +1,416 @@
 [
   {
-    "title": "Final Fantasy Resonance Reviews Beat Square Enix's Previous HD-2D RPG",
-    "summary": "Final Fantasy Resonance pulls inspiration from the Brave Exvius mobile game, and while critics love the presentation, they're less sold on the story",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/final-fantasy-resonance-review-roundup/",
-    "timestamp": "2026-10-20T14:37:10Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/final-fantasy-resonance-review-roundup/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T14:37:10Z",
-    "id": "energy-74e357a652f67582"
-  },
-  {
-    "title": "Nintendo Switch Sports Resort Reviews Prove the Series Isn't Winning Any Awards",
-    "summary": "Nintendo Switch Sports Reviews are in, and they're remarkably consistent with Wii Sports Resort's reception in 2009.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/nintendo-switch-sports-resort-review-roundup/",
-    "timestamp": "2026-10-20T14:31:45Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/nintendo-switch-sports-resort-review-roundup/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T14:31:45Z",
-    "id": "energy-05be4916f9345bcf"
-  },
-  {
-    "title": "PS6 price update is bad news for millions of gamers",
-    "summary": "The RAM crisis could put the PS6 out of reach for many",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/ps6-price-update/",
-    "timestamp": "2026-10-20T14:29:28Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/ps6-price-update/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T14:29:28Z",
-    "id": "energy-89ebfbf9f3618070"
-  },
-  {
-    "title": "My Friend Bob Cringely",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://tyma.com/my-cringe-story/",
-    "timestamp": "2026-10-20T14:13:49Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://tyma.com/my-cringe-story/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T14:13:49Z",
-    "id": "energy-9afa43a93aeba001"
-  },
-  {
-    "title": "EMudhra Intermediate CA Compromise",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://emudhra.we-have-a-problem.com/",
-    "timestamp": "2026-10-20T13:58:33Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://emudhra.we-have-a-problem.com/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T13:58:33Z",
-    "id": "energy-bf3c019bd7d56a30"
-  },
-  {
-    "title": "2026 is an exciting year for the Rust compiler (and me)",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-    "timestamp": "2026-10-20T13:53:48Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T13:53:48Z",
-    "id": "energy-5243d9228d566d79"
-  },
-  {
-    "title": "Masahiro Sakurai Says Gaming Needs Originality Or It ‘Will Die Slowly’",
-    "summary": "Sakurai issues comments while warning that AI will introduce a flurry of 'unplayable' games",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/masahiro-sakurai-says-gaming-needs-originality-or-it-will-die-slowly-2000747672",
-    "timestamp": "2026-10-20T13:30:38Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/masahiro-sakurai-says-gaming-needs-originality-or-it-will-die-slowly-2000747672"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T13:30:38Z",
-    "id": "energy-df99afd3ef35b03f"
-  },
-  {
-    "title": "Insane RW9 Save in 2's",
-    "summary": "submitted by /u/Kur0k4ze [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xarwvp/insane_rw9_save_in_2s/",
-    "timestamp": "2026-10-20T13:17:48Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xarwvp/insane_rw9_save_in_2s/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-20T13:17:48Z",
-    "id": "energy-c479a66f8dd91199"
-  },
-  {
-    "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
-    "summary": "The 2.5 patch comes just as Cyberpunk: Edgerunners II premieres on Netflix",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
-    "timestamp": "2026-10-20T13:09:52Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T13:09:52Z",
-    "id": "energy-a6460de8f9fcf3b8"
-  },
-  {
-    "title": "Final Fantasy Resonance Feels Like Comfort Food, But I Want Cuisine",
-    "summary": "After 12 hours, the Brave Exvius reimagining just can’t satiate my hunger",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/final-fantasy-resonance-brave-exvius-review-rpg-square-enix-2000747599",
-    "timestamp": "2026-10-20T13:00:00Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/final-fantasy-resonance-brave-exvius-review-rpg-square-enix-2000747599"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-20T13:00:00Z",
-    "id": "energy-fb98cd0922f14806"
-  },
-  {
-    "title": "M0nkey M00n fanboy confirmed",
-    "summary": "Hi there! I thought it would be interesting and fun to share some of my masterpieces, which I'm really grateful for and happy with. They did cost a fair amount of money to build, but for me, it was definitely worth it. I made a similar post a few years ago on an old Reddit account, but now — after quite some time, actually — everything is finally finished and has found its place in the house. What do you think? Do you think they're cool? What are some of your own masterpieces that you're really proud of? I hope you enjoy this post! I'm not trying to brag or anything. Have a nice day! submitted by /u/momenteren [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xalx7w/m0nkey_m00n_fanboy_confirmed/",
-    "timestamp": "2026-10-20T07:44:26Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xalx7w/m0nkey_m00n_fanboy_confirmed/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-20T07:44:26Z",
-    "id": "energy-3781130631bd82c5"
-  },
-  {
-    "title": "[5050rl] Today's Showmatch between KV1 and Swiftt against Diaz and Reysbull",
-    "summary": "Post translated: 50/50 KING OF THE LEAGUE: 2v2 🏆 Two top teams face off today for SAM supremacy! ⚔️ 9:00 PM BRT: ReysbullWRLD & diazrll__ vs. kv1_rll & swifttrl 🕗 Broadcast starts at 8:00 PM BRT with all the latest global RL news. 📺 Watch live: twitch.tv/dudsmelow submitted by /u/MeladoDuds [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xa9dxd/5050rl_todays_showmatch_between_kv1_and_swiftt/",
-    "timestamp": "2026-10-19T21:16:48Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xa9dxd/5050rl_todays_showmatch_between_kv1_and_swiftt/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-19T21:16:48Z",
-    "id": "energy-99cc9986e632bd52"
-  },
-  {
-    "title": "SnowTec releases Probe, a FREE plugin analyzer for macOS and Windows",
-    "summary": "SnowTec has released Probe, a free plugin analyzer available as a standalone app and a plugin for macOS and Windows. This one is very useful for testing other plugins and seeing what they really do to the signal. You can inspect an EQ’s frequency response, see the harmonics a saturator adds, or check how a [...] View post: SnowTec releases Probe, a FREE plugin analyzer for macOS and Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/19/snowtec-probe-plugin-analyzer/",
-    "timestamp": "2026-10-19T17:43:03Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/19/snowtec-probe-plugin-analyzer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-19T17:43:03Z",
-    "id": "energy-285714b77565faa2"
-  },
-  {
-    "title": "MISO Stakeholders Want Large Load-Driven Tx Project Traceability Before MTEP 27",
-    "summary": "By Amanda Durish Cook Stakeholders have asked MISO to develop a way to assign data center developers the costs of reliability projects they trigger with their massive demand ahead of the RTO’s 2027 transmission planning cycle. MISO opened the floor to stakeholders’ ideas for the 2027 Transmission Expansion Plan (MTEP 27) study scope at an […]",
+    "title": "On The Rise: These Leaders Are Gaining Influence As Louisiana Tackles Growing Demand For Power",
+    "summary": "By Sam Barnes Louisiana’s next chapter in energy depends on leaders who can connect statewide strategy with practical results. This year’s finalists are helping shape nuclear development, strengthen the electric grid and secure the power infrastructure needed for major new investments. Laura Beauchamp Vice President, business operations and strategy, Entergy Louisiana In her role, Laura […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/miso-stakeholders-want-large-load-driven-tx-project-traceability-before-mtep-27/",
-    "timestamp": "2026-10-19T14:48:48Z",
+    "url": "https://misoxenwatch.com/2026/10/on-the-rise-these-leaders-are-gaining-influence-as-louisiana-tackles-growing-demand-for-power/",
+    "timestamp": "2026-10-21T14:51:53Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/miso-stakeholders-want-large-load-driven-tx-project-traceability-before-mtep-27/"
+      "https://misoxenwatch.com/2026/10/on-the-rise-these-leaders-are-gaining-influence-as-louisiana-tackles-growing-demand-for-power/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-19T14:48:48Z",
-    "id": "energy-4e94b15caeabdb59"
+    "data_as_of": "2026-10-21T14:51:53Z",
+    "id": "energy-b6653de203a41dbc"
   },
   {
-    "title": "Group Questions Transparency Of State Complaint Over MISO Long-Range Transmission",
-    "summary": "By Amanda Durish Cook An investigation into how the complaint against MISO’s $22 billion long-range transmission portfolio was orchestrated shows an absence of public input among the five states that signed onto it. The Bottom Line Though the 2025 drafting of a complaint among five states against MISO’s long-range transmission plan doesn’t appear to run […]",
+    "title": "Four Data Centers Are Rising At Once In Louisiana. The Early Economic Gains Are Striking, But So Is The Scale Of What Comes Next.",
+    "summary": "By Sam Barnes Regions of the state long known for their economic stagnation—or sluggish growth at best—are now experiencing an unprecedented surge in just about everything. All four of the state’s AI data center projects—Meta, Amazon, Delta Forge 1 and Hut 8—are under construction simultaneously, collectively representing more than $81.6 billion in investment. Sales tax […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/group-questions-transparency-of-state-complaint-over-miso-long-range-transmission/",
-    "timestamp": "2026-10-19T14:48:06Z",
+    "url": "https://misoxenwatch.com/2026/10/four-data-centers-are-rising-at-once-in-louisiana-the-early-economic-gains-are-striking-but-so-is-the-scale-of-what-comes-next/",
+    "timestamp": "2026-10-21T14:51:06Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/group-questions-transparency-of-state-complaint-over-miso-long-range-transmission/"
+      "https://misoxenwatch.com/2026/10/four-data-centers-are-rising-at-once-in-louisiana-the-early-economic-gains-are-striking-but-so-is-the-scale-of-what-comes-next/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-19T14:48:06Z",
-    "id": "energy-7a2fd31d19ecefc5"
+    "data_as_of": "2026-10-21T14:51:06Z",
+    "id": "energy-123d6aa8bb77f0e6"
   },
   {
-    "title": "Modeling Iron-Air Battery Arbitrage In U.S. Power Markets",
-    "summary": "By Lucas Caminiti In recent years, one of the biggest challenges the American grid faces is maintaining reliability and stable power pricing amid massive forecasted load growth. Batteries don’t bring new generation to the grid but can store energy to reduce electricity curtailments, smooth pricing, and increase grid reliability while discharging. Utility-scale lithium-ion (Li-ion) batteries […]",
+    "title": "Amazing Noises releases Grain Freezer, a FREE granular effect for macOS and Windows",
+    "summary": "Amazing Noises has released Grain Freezer, a free granular freeze effect for macOS and Windows. Maurizio Giri, the programmer behind Amazing Noises, has been developing audio software since the early 2000s and also makes plugins with two fellow programmers under the Aqusmatiq brand. This is the first release in his new desktop plugin line, following [...] View post: Amazing Noises releases Grain Freezer, a FREE granular effect for macOS and Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/21/amazing-noises-grain-freezer/",
+    "timestamp": "2026-10-21T14:50:20Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/21/amazing-noises-grain-freezer/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T14:50:20Z",
+    "id": "energy-2f37b0f33a8a9bcc"
+  },
+  {
+    "title": "Entergy Arkansas, Google Expansion To Bring Additional Energy Resources To Arkansas Grid",
+    "summary": "By Staff Writer Entergy Arkansas announced a second phase of its partnership with Google to support the company’s West Memphis campus. The project includes approximately $600 million in planned infrastructure investments and a power purchase agreement, both funded by Google, to support the expanded data center and strengthen the electric grid for Entergy Arkansas customers. […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/modeling-iron-air-battery-arbitrage-in-u-s-power-markets/",
-    "timestamp": "2026-10-19T14:47:20Z",
+    "url": "https://misoxenwatch.com/2026/10/entergy-arkansas-google-expansion-to-bring-additional-energy-resources-to-arkansas-grid/",
+    "timestamp": "2026-10-21T14:50:13Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/10/modeling-iron-air-battery-arbitrage-in-u-s-power-markets/"
+      "https://misoxenwatch.com/2026/10/entergy-arkansas-google-expansion-to-bring-additional-energy-resources-to-arkansas-grid/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-10-19T14:47:20Z",
-    "id": "energy-7ad64484af35c88a"
+    "data_as_of": "2026-10-21T14:50:13Z",
+    "id": "energy-4d925a94f63676b8"
   },
   {
-    "title": "SampleScience releases Compact Acoustic Piano, a FREE lightweight piano plugin",
-    "summary": "SampleScience offers Compact Acoustic Piano, a free sample-based piano plugin for macOS and Windows. I think SampleScience always delivers nice sample-based instruments, and we’ve covered plenty of them here on BPB, including the free Cozy Piano earlier this year. Compact Acoustic Piano definitely isn’t the deepest free piano out there, but I think it’s very [...] View post: SampleScience releases Compact Acoustic Piano, a FREE lightweight piano plugin",
+    "title": "DOT Audio Recorder lets you capture Mac audio (20% off)",
+    "summary": "Plastic has released DOT Audio Recorder, a standalone Mac app that records audio from other apps and detects its key, tempo, and chords. BPB readers get a 20% discount. It normally costs $49 as a one-time purchase, but BPB readers can get DOT for $39.20 using the code BPB at checkout until November 6, 2026. [...] View post: DOT Audio Recorder lets you capture Mac audio (20% off)",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/",
-    "timestamp": "2026-10-19T12:15:50Z",
+    "url": "https://bedroomproducersblog.com/2026/10/21/dot-audio-recorder/",
+    "timestamp": "2026-10-21T14:33:35Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/"
+      "https://bedroomproducersblog.com/2026/10/21/dot-audio-recorder/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-19T12:15:50Z",
-    "id": "energy-6e6c5e9ecd25ba97"
+    "data_as_of": "2026-10-21T14:33:35Z",
+    "id": "energy-886bfe4e9e849c1b"
   },
   {
-    "title": "Arswerk Harmonia EQ makes room in your mix without sidechain routing",
-    "summary": "Arswerk has updated Harmonia EQ, a dynamic and spectral equalizer that lets tracks respond to one another without manually routing sidechains. We briefly covered it alongside the developer’s free Nyx reverb earlier this month. Now at version 1.1.3, Harmonia EQ costs €79 and includes a seven-day trial with full features and exports. You can place [...] View post: Arswerk Harmonia EQ makes room in your mix without sidechain routing",
+    "title": "How to find a dynamic op phone in DMZ in Modern Warfare 4",
+    "summary": "A guide explaining how to find a dynamic op phone in DMZ in Modern Warfare 4, which is required for the \"Payment Due\" order.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-dynamic-op-phone/",
+    "timestamp": "2026-10-21T14:31:21Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/mw4-modern-warfare-4-dmz-dynamic-op-phone/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T14:31:21Z",
+    "id": "energy-3f9fc1cc66f5c769"
+  },
+  {
+    "title": "Xbox's Official Shakeup Continues Through 2027 with New Rounds of Layoffs",
+    "summary": "Xbox is continuing its major \"reset\" as it plans for three more rounds of layoffs in October, November, and January.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/xbox-3-more-rounds-of-layoffs-october-november-january/",
+    "timestamp": "2026-10-21T14:30:58Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/xbox-3-more-rounds-of-layoffs-october-november-january/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T14:30:58Z",
+    "id": "energy-0097b533944e409d"
+  },
+  {
+    "title": "The 25 Best PS5 Games in 2026",
+    "summary": "What are the best PlayStation 5 games? From Ace Combat 8 to Star Wars: Galactic Racer, here are our favorite games to play on the Sony PS5.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/best-playstation-5-games/",
+    "timestamp": "2026-10-21T14:24:43Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/best-playstation-5-games/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T14:24:43Z",
+    "id": "energy-5234426e5add0c11"
+  },
+  {
+    "title": "Patch the Planet",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://patchtheplanet.org/",
+    "timestamp": "2026-10-21T14:08:40Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://patchtheplanet.org/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T14:08:40Z",
+    "id": "energy-1e5255e0fd4deee0"
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "timestamp": "2026-10-21T14:03:43Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T14:03:43Z",
+    "id": "energy-b782b00e6665f58e"
+  },
+  {
+    "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+    "timestamp": "2026-10-21T14:01:25Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T14:01:25Z",
+    "id": "energy-aa6eed9c33631eab"
+  },
+  {
+    "title": "Team Vitality 2026 season discussion",
+    "summary": "What do you think made them pretty good from Boston major-Paris major to a drop-off in EWC and worlds? submitted by /u/ibro2X09 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xbnvlf/team_vitality_2026_season_discussion/",
+    "timestamp": "2026-10-21T13:57:10Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xbnvlf/team_vitality_2026_season_discussion/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-21T13:57:10Z",
+    "id": "energy-ad173288a2d5f275"
+  },
+  {
+    "title": "Pokémon Is Finally Opening Official Stores Outside Of Asia, Starting With London",
+    "summary": "The dedicated Pokémon stores are major tourist attractions in Japan, and often have exclusive merchandise and events",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/pokemon-center-london-japan-locations-new-york-2000748308",
+    "timestamp": "2026-10-21T13:35:45Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/pokemon-center-london-japan-locations-new-york-2000748308"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T13:35:45Z",
+    "id": "energy-c15d059b90c3c26f"
+  },
+  {
+    "title": "Umamusume: Pretty Derby Devs Will Pay For Canceled Flights And Hotels As Fans Spiral Over Missed Concert",
+    "summary": "Cygames goes above and beyond after visas fall through",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/umamusume-pretty-derby-devs-will-pay-for-canceled-flights-and-hotels-as-fans-spiral-over-missed-concert-2000748300",
+    "timestamp": "2026-10-21T12:43:37Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/umamusume-pretty-derby-devs-will-pay-for-canceled-flights-and-hotels-as-fans-spiral-over-missed-concert-2000748300"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T12:43:37Z",
+    "id": "energy-79e126e9a7e8b949"
+  },
+  {
+    "title": "Can distributed energy work around American utilities?",
+    "summary": "A conversation with Nick Chaset of Octopus US (and Uplight).",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/can-distributed-energy-work-around",
+    "timestamp": "2026-10-21T10:09:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/can-distributed-energy-work-around"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-10-21T10:09:33Z",
+    "id": "energy-44bd650d23bda845"
+  },
+  {
+    "title": "Modulor Audio releases Coalesce, a FREE delay plugin for experimental sound design",
+    "summary": "Modulor Audio has released Coalesce, a free delay plugin for macOS and Windows with forward and reverse delays and customizable effects in the feedback loop. This one is a good example of the old-school freebies we used to get before AI development took off. This used to be the norm until a couple of years [...] View post: Modulor Audio releases Coalesce, a FREE delay plugin for experimental sound design",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/19/arswerk-harmonia-eq/",
-    "timestamp": "2026-10-19T12:15:37Z",
+    "url": "https://bedroomproducersblog.com/2026/10/21/modulor-audio-coalesce-delay/",
+    "timestamp": "2026-10-21T08:00:47Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/10/19/arswerk-harmonia-eq/"
+      "https://bedroomproducersblog.com/2026/10/21/modulor-audio-coalesce-delay/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-19T12:15:37Z",
-    "id": "energy-5aafa796245afa76"
+    "data_as_of": "2026-10-21T08:00:47Z",
+    "id": "energy-e511c173a646ac5a"
   },
   {
-    "title": "Zagier's 2-3-2 formula for multiple Eisenstein series",
-    "summary": "arXiv:2610.23052v1 Announce Type: new Abstract: We prove a multiple Eisenstein series analogue of Zagier's formula for the multiple zeta values $\\zeta(2,\\ldots,2,3,2,\\ldots,2)$. The multiple Eisenstein series identity contains correction terms given by derivatives of odd Eisenstein series. Using the Goncharov coproduct and Brown's motivic version of Zagier's formula, we show that the normalized difference has rational Fourier coefficients. We then use the $\\mathfrak{sl}_2$-structure and a modularity criterion of Yu to prove the identity by induction.",
+    "title": "Worst-Case Bayesian CVaR Regret Bounds for Episodic Markov Decision Processes",
+    "summary": "arXiv:2610.28157v1 Announce Type: new Abstract: We study the worst-case, over priors, Bayesian conditional value-at-risk (CVaR) of cumulative pseudo-regret in time-homogeneous finite-horizon episodic Markov decision processes. A high-probability guarantee for UCBVI-BF yields a prior-predictive upper bound. A lower bound follows by a three-state MDP and applying a reverse-KL inequality. For a constant number of states, the bounds have the same polynomial dependence on horizon, actions, and episodes, with a logarithmic gap in the risk level.",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.23052",
-    "timestamp": "2026-10-19T04:00:00Z",
+    "url": "https://arxiv.org/abs/2610.28157",
+    "timestamp": "2026-10-21T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.23052"
+      "https://arxiv.org/abs/2610.28157"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-19T04:00:00Z",
-    "id": "energy-a3350eccdc202fc1"
+    "data_as_of": "2026-10-21T04:00:00Z",
+    "id": "energy-4a3a32e0c3eb3e73"
   },
   {
-    "title": "Wide Regular Subalgebras of Symmetrizable Kac-Moody Algebras and an Extension of Schur's Lemma",
-    "summary": "arXiv:2606.01371v3 Announce Type: replace Abstract: The behavior of representations under restriction is a central theme in Lie theory. We study wide regular subalgebras of symmetrizable Kac--Moody algebras, extending work of Douglas and Repka on semisimple Lie algebras. A subalgebra is \\emph{wide} if every irreducible integrable highest weight module remains indecomposable upon restriction. Let $\\mathfrak{g}$ be a symmetrizable Kac--Moody algebra with Cartan subalgebra $\\mathfrak{h}$, root system $\\Phi$, simple roots $\\Pi$, and root space decomposition $\\mathfrak{g}=\\mathfrak{h}\\oplus\\bigoplus_{\\alpha\\in\\Phi}\\mathfrak{g}_\\alpha$. Denote by $\\Phi_{\\operatorname{re}}$ the set of real roots. To a regular subalgebra $\\mathfrak{s}$ normalized by $\\mathfrak{h}$, we associate a subset $T\\subseteq \\Phi$ by declaring $\\alpha\\in T$ if $\\mathfrak{s}\\cap \\mathfrak{g}_\\alpha\\ne \\{0\\}$. One of our main results is an extension of Schur's lemma: if $\\mathfrak{h}\\subseteq \\mathfrak{s}$ and the real closure of $(T\\cup(-T))\\cap \\Phi_{\\operatorname{re}}$ contains $\\Pi$, then $(\\operatorname{End} V)^{\\mathfrak{s}}=\\mathbb{C}\\operatorname{Id}_V$ for every irreducible integrable highest weight module $…",
+    "title": "Wielandt subgroups of nilpotent residuals and Fitting-height bounds",
+    "summary": "arXiv:2610.28082v1 Announce Type: new Abstract: For a finite group $G$, let $\\mathrm W(G)$ be the intersection of the normalizers of the nilpotent residuals of the subnormal subgroups of $G$, and let $\\ell_{\\mathrm W}(G)$ be the length of the associated upper series. Thus $\\mathrm W(G)=G$ exactly when all these residuals are normal in $G$. We prove that every finite soluble group satisfies $\\ell_{\\mathrm W}(G)\\le h(G)\\le4\\ell_{\\mathrm W}(G)$, where $h(G)$ is the Fitting height, and that $h(G)\\le3\\ell_{\\mathrm W}(G)$ if $|G|$ is odd or the Sylow $2$-subgroups of $G$ are abelian. Both constants are attained at every length, the constant $4$ by $\\{2,3\\}$-groups. Moreover, every pair $(n,h)$ with $n\\le h\\le4n$ occurs as $(\\ell_{\\mathrm W}(G),h(G))$. The constant $4$ comes from primitive groups. A soluble primitive group $V\\rtimes M$ satisfies $\\mathrm W(V\\rtimes M)=V\\rtimes M$ if and only if every abelian subgroup of $\\mathrm F(M)$ is cyclic. It then has Fitting height four if and only if $\\mathrm F(M)=C\\times Q_8$, with $C$ cyclic, and $M$ induces the full group $\\mathrm{Out}(Q_8)\\cong S_3$. We also determine when the base group of a soluble regular wreath product is the first term o…",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2606.01371",
-    "timestamp": "2026-10-19T04:00:00Z",
+    "url": "https://arxiv.org/abs/2610.28082",
+    "timestamp": "2026-10-21T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2606.01371"
+      "https://arxiv.org/abs/2610.28082"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-19T04:00:00Z",
-    "id": "energy-62e506f7f6675aed"
+    "data_as_of": "2026-10-21T04:00:00Z",
+    "id": "energy-c8517cbac3e167e2"
   },
   {
-    "title": "Whittaker Functionals for Exceptional Representations",
-    "summary": "arXiv:2610.23169v1 Announce Type: new Abstract: In the study of automorphic forms on covering groups, Kazhdan-Patterson gives a formula that determines when the Whittaker functionals of induced representations can be descended to exceptional representations. In this paper, first, following the original approach given by Kazhdan-Patterson and applying the block-compatible 2-cocycle of Banks-Levy-Sepanski, we fill in several details omitted in the original proof. Secondly, we compare the formula of Kazhdan-Patterson with that of McNamara and Gao, which is formulated in a more general setting.",
+    "title": "Widely degenerate anisotropic diffusion: local boundedness and semicontinuity",
+    "summary": "arXiv:2604.20597v2 Announce Type: replace Abstract: We investigate the regularity of local weak solutions to evolution equations of the form \\[ \\partial_{t}u\\,=\\,\\sum_{i=1}^{n}\\,\\partial_{x_{i}}\\left[a_{i}(x,t)\\,(\\vert\\partial_{x_{i}}u\\vert-\\delta_{i})_{+}^{p_{i}-1}\\,\\frac{\\partial_{x_{i}}u}{\\vert\\partial_{x_{i}}u\\vert}\\right]\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\mathrm{in}\\,\\,\\,\\Omega_{T}\\,=\\,\\Omega\\times(0,T)\\,, \\] where $\\Omega$ is a bounded domain in $\\mathbb{R}^{n}$ with $n\\geq2$, the coefficients $a_{i}$ are measurable and bounded, $p_{i}>1$ and $\\delta_{i}\\geq0$ are fixed parameters. Under suitable assumptions on the exponents $p_{i}$, we first show that the local boundedness of weak solutions follows from their membership in an appropriate non-homogeneous parabolic De Giorgi class. We then establish the existence of semicontinuous representatives for local weak sub(super)-solutions. Our analysis extends analogous results available for less degenerate operators and generalizes the local boundedness results obtained in [7] to fully anisotropic, widely degenerate parabolic PDEs with non-smooth coefficients depending additionally on the space-time variables $(x,t)$, whose growth is governed by…",
     "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.23169",
-    "timestamp": "2026-10-19T04:00:00Z",
+    "url": "https://arxiv.org/abs/2604.20597",
+    "timestamp": "2026-10-21T04:00:00Z",
     "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://arxiv.org/abs/2610.23169"
+      "https://arxiv.org/abs/2604.20597"
     ],
     "source_tier": "primary",
     "primary_source": true,
-    "data_as_of": "2026-10-19T04:00:00Z",
-    "id": "energy-e1ae01c914397da6"
+    "data_as_of": "2026-10-21T04:00:00Z",
+    "id": "energy-76df8bb18b593ada"
+  },
+  {
+    "title": "[5050RL] BS+ is expected to sign with a new team in Sam",
+    "summary": "Rumors suggest that BScompetition has signed a contract with the team \"BRUMBRUM\" for the upcoming season. 💣 klausrl1, Leodkn1, panrl_, and Kaoshii_ posted a hint today indicating that they have joined an organization. DudsMelow reporting submitted by /u/MeladoDuds [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xb9qlr/5050rl_bs_is_expected_to_sign_with_a_new_team_in/",
+    "timestamp": "2026-10-21T01:12:47Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xb9qlr/5050rl_bs_is_expected_to_sign_with_a_new_team_in/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-21T01:12:47Z",
+    "id": "energy-1d0e8a07c8079f42"
+  },
+  {
+    "title": "Falcons players receive exclusive 'World Champs' goal explosion",
+    "summary": "Video: https://x.com/kiileerrz/status/2112684018323877916/video/1?s=46 RL Announcement: https://x.com/rlesports/status/2112683759728300269?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xb8mqt/falcons_players_receive_exclusive_world_champs/",
+    "timestamp": "2026-10-21T00:19:58Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xb8mqt/falcons_players_receive_exclusive_world_champs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-21T00:19:58Z",
+    "id": "energy-a13cdeb6c7860026"
+  },
+  {
+    "title": "Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List",
+    "summary": "They're saying Fallbearers isn't a real show, but it is a game, and it's blessedly AI-free",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/mix-coffin-flop-with-qwop-and-youve-got-a-game-thats-at-the-top-of-my-steam-next-fest-list-2000746058",
+    "timestamp": "2026-10-20T22:00:46Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/mix-coffin-flop-with-qwop-and-youve-got-a-game-thats-at-the-top-of-my-steam-next-fest-list-2000746058"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-20T22:00:46Z",
+    "id": "energy-d0d98433eb12514d"
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "title": "Choosing the Right LTO Partner Matters Now More Than Ever",
-    "summary": "Surging electricity demand. Favorable economics. Paired LTO and uprates. These are just some of the compelling reasons Long-Term Operation programs are gaining momentum among U.S. utilities. As nuclear energy demand continues to grow, many utilities are turning to LTO to transform aging assets into expanded capacity.",
+    "title": "Second round of Genesis Mission selections includes 12 Phase II awards",
+    "summary": "The Department of Energy has announced the selection of 12 new Phase II awards and six new Phase I awards through its Genesis Mission, including projects related to fusion energy and high-radiation environments. In July, the DOE announced the selection of 278 projects under the Genesis Mission, most of which were Phase I projects. Phase II awards are intended to scale up and expand projects that have already demonstrated potential for transformative scientific capability through multi-year funding.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-20/article-8458/choosing-the-right-lto-partner-matters-now-more-than-ever/",
-    "timestamp": "2026-10-20T14:05:35Z",
+    "url": "https://www.ans.org/news/2026-10-21/article-8506/second-round-of-genesis-mission-selections-includes-12-phase-ii-awards/",
+    "timestamp": "2026-10-21T14:28:03Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-20/article-8458/choosing-the-right-lto-partner-matters-now-more-than-ever/"
+      "https://www.ans.org/news/2026-10-21/article-8506/second-round-of-genesis-mission-selections-includes-12-phase-ii-awards/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-20T14:05:35Z",
-    "id": "energy-c327c6ec33815f12"
+    "data_as_of": "2026-10-21T14:28:03Z",
+    "id": "energy-7d526c476de10813"
   },
   {
-    "title": "NRC reviews first 100 days after reorganization",
-    "summary": "Roughly 100 days ago, the Nuclear Regulatory Commission began a massive structural reorganization, which included, among other changes, a reorganization around core business lines and the establishment of two new offices: the Office of the Chief Nuclear Reactor Inspector and the Office of Advanced Reactors. On October 15, NRC officials and staff met with the five commissioners at the NRC Region IV offices in Arlington, Texas, to assess the successes and challenges resulting from the reorganization. Commissioners welcomed the chance to hold a meeting at a regional office, which allowed them to see firsthand how the changes are impacting staff not based at the NRC’s Maryland headquarters. One of the main changes to the reorganization is having all four regional offices report to the new CNRI.",
+    "title": "Canada: City opposes deep repository designation; court denies NSDF challenge",
+    "summary": "Two recent developments in Ontario, Canada, could have ramifications for the country’s efforts to dispose of its legacy nuclear waste. In the province’s western half, the city of Dryden voted to formally request that Canada’s Major Projects Office deny “project of national interest” status for a proposal for a nearby deep geological repository. To the east, Canada’s Federal Court of Appeal ruled that the Canadian Nuclear Safety Commission did not have an expanded duty to consult the Kebaowek First Nation regarding construction of the Near Surface Disposal Facility (NSDF) near Chalk River Laboratories, 200 kilometers northwest of Ottawa. It also upheld the CNSC’s initial approval of the NSDF site.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-20/article-8502/nrc-reviews-first-100-days-after-reorganization/",
-    "timestamp": "2026-10-20T12:40:25Z",
+    "url": "https://www.ans.org/news/2026-10-21/article-8505/canada-city-opposes-deep-repository-designation-court-denies-nsdf-challenge/",
+    "timestamp": "2026-10-21T12:09:55Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-20/article-8502/nrc-reviews-first-100-days-after-reorganization/"
+      "https://www.ans.org/news/2026-10-21/article-8505/canada-city-opposes-deep-repository-designation-court-denies-nsdf-challenge/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +40,73 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-20T12:40:25Z",
-    "id": "energy-bb53abdbb509add2"
+    "data_as_of": "2026-10-21T12:09:55Z",
+    "id": "energy-551ffb32ca58b0f3"
+  },
+  {
+    "title": "Westinghouse To Invest $1 Billion In New US Higher Enrichment Nuclear Fuel Facility",
+    "summary": "Westinghouse Electric Company has announced an investment of approximately $1bn (€890m) in a new manufacturing facility for low-enriched uranium plus (LEU+) nuclear fuel at its existing Columbia fuel fabrication site in South Carolina, a statement said. The company said construction has begun at the site near Hopkins. Production is scheduled to start in 2030.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/westinghouse-to-invest-usd1-billion-in-new-us-higher-enrichment-nuclear-fuel-facility-10-3-2026",
+    "timestamp": "2026-10-21T11:09:43Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/westinghouse-to-invest-usd1-billion-in-new-us-higher-enrichment-nuclear-fuel-facility-10-3-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-21T11:09:43Z",
+    "id": "energy-d1b6d337338d0200"
+  },
+  {
+    "title": "In latest Indiana power plant proposal, parties to explore CANDU reactors",
+    "summary": "Indiana, the Hoosier Energy Rural Electric Cooperative, and Montreal-based nuclear engineering company AtkinsRéalis have signed a memorandum of understanding (MOU) to partner up and explore the feasibility of an Indiana nuclear power plant with up to eight CANDU reactors. If deployed, the nuclear facility could provide up to 6 GW of new nuclear capacity.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-20/article-8504/in-latest-indiana-power-plant-proposal-parties-to-explore-candu-reactors/",
+    "timestamp": "2026-10-20T20:14:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-20/article-8504/in-latest-indiana-power-plant-proposal-parties-to-explore-candu-reactors/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-20T20:14:28Z",
+    "id": "energy-19d0e8ab28d459cb"
+  },
+  {
+    "title": "FERC accepts ISO-NE proposal to establish independent asset condition reviewer",
+    "summary": "Asset condition projects are undertaken by transmission owners to replace or reconstruct old or obsolete facilities. The post FERC accepts ISO-NE proposal to establish independent asset condition reviewer appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/20/ferc-accepts-iso-ne-proposal-to-establish-independent-asset-condition-reviewer/",
+    "timestamp": "2026-10-20T14:54:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/20/ferc-accepts-iso-ne-proposal-to-establish-independent-asset-condition-reviewer/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-20T14:54:26Z",
+    "id": "energy-6f142bcee9237fc8"
   },
   {
     "title": "Nuclear Industry Calls For Concrete Action In EU Post-2030 Energy Framework",
@@ -63,28 +128,6 @@
     ],
     "data_as_of": "2026-10-20T11:32:56Z",
     "id": "energy-17ff0db0527034c0"
-  },
-  {
-    "title": "Amazon, AEP, X-energy explore SMR feasibility in Indiana",
-    "summary": "Amazon, American Electric Power, and X-energy are partnering up to potentially bring a 960-MW nuclear power plant to western Indiana as the state’s first commercial nuclear generation. The three announced earlier today a joint development agreement to explore the feasibility of a nuclear power project at the former Breed coal-fired power plant in Sullivan County, Ind., that would involve the deployment of 12 X-energy Xe-100 high-temperature, gas-cooled reactors. Details on the project are minimal outside of the reactor design and site, as it is in the early stages and has yet to reach any final investment decision. However, this project could create more than 1,000 construction jobs and more than 100 permanent jobs, the companies said.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-19/article-8501/amazon-aep-xenergy-explore-smr-feasibility-in-indiana/",
-    "timestamp": "2026-10-19T21:33:06Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-19/article-8501/amazon-aep-xenergy-explore-smr-feasibility-in-indiana/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-19T21:33:06Z",
-    "id": "energy-e6a9c825ab4b0f16"
   },
   {
     "title": "Entergy Arkansas announces enhanced partnership at Google West Memphis campus, delivering at least $500M in new savings for all customers",
@@ -176,26 +219,5 @@
     ],
     "data_as_of": "2026-10-19T12:09:27Z",
     "id": "energy-3d65df7f8e4ca379"
-  },
-  {
-    "title": "Slovakia’s Mochovce-4 Nuclear Power Plant Connected To Grid For First Time",
-    "summary": "The Mochovce-4 nuclear power plant in Slovakia has been connected to the national electricity grid for the first time, marking a major milestone in the commissioning of the VVER-440 reactor unit. Slovak owner Slovenské Elektrárne said the first of the unit’s two turbine generators was synchronised with the grid at 20:41 local time on 15 October and began supplying electricity.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/slovakia-s-mochovce-4-nuclear-power-plant-connected-to-grid-for-first-time-10-1-2026",
-    "timestamp": "2026-10-19T09:17:29Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/slovakia-s-mochovce-4-nuclear-power-plant-connected-to-grid-for-first-time-10-1-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-19T09:17:29Z",
-    "id": "energy-21f00ec3cbb52c6a"
   }
 ]
