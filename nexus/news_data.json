@@ -1,38 +1,38 @@
 [
   {
-    "title": "Second round of Genesis Mission selections includes 12 Phase II awards",
-    "summary": "The Department of Energy has announced the selection of 12 new Phase II awards and six new Phase I awards through its Genesis Mission, including projects related to fusion energy and high-radiation environments. In July, the DOE announced the selection of 278 projects under the Genesis Mission, most of which were Phase I projects. Phase II awards are intended to scale up and expand projects that have already demonstrated potential for transformative scientific capability through multi-year funding.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-21/article-8506/second-round-of-genesis-mission-selections-includes-12-phase-ii-awards/",
-    "timestamp": "2026-10-21T14:28:03Z",
+    "title": "ISO-NE issues 2027 Annual Work Plan",
+    "summary": "The plan details high-priority initiatives for innovating, securing, and advancing a reliable, cost-effective power system. The post ISO-NE issues 2027 Annual Work Plan appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/22/iso-ne-issues-2027-annual-work-plan/",
+    "timestamp": "2026-10-22T13:38:06Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-21/article-8506/second-round-of-genesis-mission-selections-includes-12-phase-ii-awards/"
+      "https://isonewswire.com/2026/10/22/iso-ne-issues-2027-annual-work-plan/"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
+    "source_tier": "primary",
+    "primary_source": true,
     "entities": [
-      "American Nuclear Society",
-      "ANS"
+      "ISO New England",
+      "ISO-NE"
     ],
-    "data_as_of": "2026-10-21T14:28:03Z",
-    "id": "energy-7d526c476de10813"
+    "data_as_of": "2026-10-22T13:38:06Z",
+    "id": "energy-6ae4aa2ee2e66e62"
   },
   {
-    "title": "Canada: City opposes deep repository designation; court denies NSDF challenge",
-    "summary": "Two recent developments in Ontario, Canada, could have ramifications for the country’s efforts to dispose of its legacy nuclear waste. In the province’s western half, the city of Dryden voted to formally request that Canada’s Major Projects Office deny “project of national interest” status for a proposal for a nearby deep geological repository. To the east, Canada’s Federal Court of Appeal ruled that the Canadian Nuclear Safety Commission did not have an expanded duty to consult the Kebaowek First Nation regarding construction of the Near Surface Disposal Facility (NSDF) near Chalk River Laboratories, 200 kilometers northwest of Ottawa. It also upheld the CNSC’s initial approval of the NSDF site.",
+    "title": "GAO: Clarify future land use plans, regulatory scope for cleanup efforts",
+    "summary": "On October 16, the Government Accountability Office publicly released two reports related to the Department of Energy’s nuclear waste cleanup efforts. The reports come at a time when the DOE is leasing or transferring land on its legacy nuclear sites to various entities that are pursuing nuclear fuel cycle activities and is considering future leases to support solar arrays, AI infrastructure projects, and other industrial uses. One report concludes with an observation on the DOE’s “renewed focus on the potential future uses of these sites and the interest among some community stakeholders and industry in using the land for commercial and other purposes.”",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-21/article-8505/canada-city-opposes-deep-repository-designation-court-denies-nsdf-challenge/",
-    "timestamp": "2026-10-21T12:09:55Z",
+    "url": "https://www.ans.org/news/2026-10-22/article-8509/gao-clarify-future-land-use-plans-regulatory-scope-for-cleanup-efforts/",
+    "timestamp": "2026-10-22T12:19:56Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-21/article-8505/canada-city-opposes-deep-repository-designation-court-denies-nsdf-challenge/"
+      "https://www.ans.org/news/2026-10-22/article-8509/gao-clarify-future-land-use-plans-regulatory-scope-for-cleanup-efforts/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +40,121 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-21T12:09:55Z",
-    "id": "energy-551ffb32ca58b0f3"
+    "data_as_of": "2026-10-22T12:19:56Z",
+    "id": "energy-79032c0ab11972d5"
+  },
+  {
+    "title": "Finland Grants Operating Licence To World’s First Deep Geologic Nuclear Repository",
+    "summary": "Finland has granted an operating licence to Posiva for its spent nuclear fuel encapsulation and final disposal facility at Olkiluoto, marking the first time a deep geological repository for spent nuclear fuel has received an operating licence anywhere in the world. Posiva said the licence allows it to move towards the operational phase of the facility, but does not authorise the immediate start of disposal activities.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/finland-grants-operating-licence-to-world-s-first-deep-geologic-nuclear-repository-10-4-2026",
+    "timestamp": "2026-10-22T12:11:35Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/finland-grants-operating-licence-to-world-s-first-deep-geologic-nuclear-repository-10-4-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-22T12:11:35Z",
+    "id": "energy-3c6b08a96fe72663"
+  },
+  {
+    "title": "Entergy New Orleans raises record $175,000 at annual Power to Care Golf Tournament",
+    "summary": "Entergy New Orleans brought together business and community partners for a day of golf and giving at its annual Power to Care Golf Tournament. The event raised a record $175,000 to help seniors and customers with disabilities facing financial hardship. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-raises-record-175000-at-annual-power-to-care-golf-tournament",
+    "timestamp": "2026-10-22T00:28:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-new-orleans-raises-record-175000-at-annual-power-to-care-golf-tournament"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-22T00:28:00Z",
+    "id": "energy-054da00a41a40ae6"
+  },
+  {
+    "title": "Nuclear developments in Wyoming, Kentucky, and Louisiana",
+    "summary": "Many regions of the country remain in the headlines with new or developing nuclear projects. Earlier this week, Nuclear News reported on recent goings-on in Indiana. In other updates, TerraPower hosted top-level government officials at its Natrium site in Kemmerer, Wyo.; Kentucky is putting out feelers to gauge interest in available funding for new nuclear projects; and Louisiana’s Advanced Nuclear Exploration Program is up for a vote at the next meeting of the state’s Public Service Commission.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-21/article-8508/nuclear-developments-in-wyoming-kentucky-and-louisiana/",
+    "timestamp": "2026-10-21T20:52:54Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-21/article-8508/nuclear-developments-in-wyoming-kentucky-and-louisiana/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-21T20:52:54Z",
+    "id": "energy-fb64bec7abc5d81a"
+  },
+  {
+    "title": "IPP, Columbia University establish international fusion research center",
+    "summary": "The Max Planck Institute for Plasma Physics (IPP) in Germany and Columbia University have established a new, “virtual,” joint transatlantic fusion energy research center called the Max Planck Columbia Center. The center is being directed by both IPP director Thomas Klinger and Columbia University associate professor of applied physics and applied mathematics Carlos Paz-Soldan. Paz-Soldan also serves as director of the Columbia Fusion Research Center.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-21/article-8507/ipp-columbia-university-establish-international-fusion-research-center/",
+    "timestamp": "2026-10-21T18:49:38Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-21/article-8507/ipp-columbia-university-establish-international-fusion-research-center/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-21T18:49:38Z",
+    "id": "energy-5f1e92542fc68d34"
+  },
+  {
+    "title": "Meet the pros: Daniel Boratko",
+    "summary": "Meet Daniel Boratko, manager of resource planning and market analytics in the system planning and operations organization, based in The Woodlands, Texas. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/meet-the-pros-daniel-boratko",
+    "timestamp": "2026-10-21T18:38:58Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/meet-the-pros-daniel-boratko"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-21T18:38:58Z",
+    "id": "energy-c38315f7cd7ab860"
   },
   {
     "title": "Westinghouse To Invest $1 Billion In New US Higher Enrichment Nuclear Fuel Facility",
@@ -63,28 +176,6 @@
     ],
     "data_as_of": "2026-10-21T11:09:43Z",
     "id": "energy-d1b6d337338d0200"
-  },
-  {
-    "title": "In latest Indiana power plant proposal, parties to explore CANDU reactors",
-    "summary": "Indiana, the Hoosier Energy Rural Electric Cooperative, and Montreal-based nuclear engineering company AtkinsRéalis have signed a memorandum of understanding (MOU) to partner up and explore the feasibility of an Indiana nuclear power plant with up to eight CANDU reactors. If deployed, the nuclear facility could provide up to 6 GW of new nuclear capacity.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-20/article-8504/in-latest-indiana-power-plant-proposal-parties-to-explore-candu-reactors/",
-    "timestamp": "2026-10-20T20:14:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-20/article-8504/in-latest-indiana-power-plant-proposal-parties-to-explore-candu-reactors/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-20T20:14:28Z",
-    "id": "energy-19d0e8ab28d459cb"
   },
   {
     "title": "FERC accepts ISO-NE proposal to establish independent asset condition reviewer",
@@ -152,72 +243,5 @@
     ],
     "data_as_of": "2026-10-19T20:06:12Z",
     "id": "energy-f4cc032b04433aed"
-  },
-  {
-    "title": "US Energy Department selects Entergy Mississippi to receive $4.2M for grid improvements",
-    "summary": "Entergy Mississippi was selected to receive $4.2 million from the U.S. Department of Energy for upgrades to strengthen performance of its transmission system. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/us-energy-department-selects-entergy-mississippi-to-receive-4-2m",
-    "timestamp": "2026-10-19T17:53:36Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/us-energy-department-selects-entergy-mississippi-to-receive-4-2m"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-19T17:53:36Z",
-    "id": "energy-4c01e0a0727d8e96"
-  },
-  {
-    "title": "Centrus Announces $116 Million Acquisition Of Centrifuge Component Supplier Westerman",
-    "summary": "US nuclear fuel company Centrus Energy has acquired Westerman Holdings, a major supplier of components for its uranium enrichment centrifuges, for about $116m (€103m), a statement said. Centrus said the acquisition was financed through about $95m in cash and $21m in equity.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/centrus-announces-usd116-million-acquisition-of-centrifuge-component-supplier-westerman-10-1-2026",
-    "timestamp": "2026-10-19T13:29:26Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/centrus-announces-usd116-million-acquisition-of-centrifuge-component-supplier-westerman-10-1-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-19T13:29:26Z",
-    "id": "energy-4393f93619da080f"
-  },
-  {
-    "title": "Explainer: Why does New England have wholesale electricity markets?",
-    "summary": "The markets allow the power system to operate reliably and cost-effectively while also driving investment. The post Explainer: Why does New England have wholesale electricity markets? appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/19/explainer-why-does-new-england-have-wholesale-electricity-markets/",
-    "timestamp": "2026-10-19T12:09:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/19/explainer-why-does-new-england-have-wholesale-electricity-markets/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-19T12:09:27Z",
-    "id": "energy-3d65df7f8e4ca379"
   }
 ]
