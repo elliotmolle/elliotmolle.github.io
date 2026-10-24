@@ -1,21 +1,282 @@
 [
   {
-    "title": "Genshin Impact version 7.2 livestream codes",
-    "summary": "Here are the three Genshin Impact version 7.2 livestream codes, along with links to redeem them easily.",
+    "title": "Aaron Paul Originally Had A Much More Important Role In Clayface",
+    "summary": "A blink-and-you'll-miss-it Clayface cameo is the last remnant of a character mostly cut from the movie",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/genshin-impact-version-7-2-livestream-codes-redeem/",
-    "timestamp": "2026-10-23T14:39:49Z",
+    "url": "https://www.polygon.com/clayface-aaron-paul-cameo-explained/",
+    "timestamp": "2026-10-24T13:45:48Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/genshin-impact-version-7-2-livestream-codes-redeem/"
+      "https://www.polygon.com/clayface-aaron-paul-cameo-explained/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-23T14:39:49Z",
-    "id": "energy-0f063b95546f6b8d"
+    "data_as_of": "2026-10-24T13:45:48Z",
+    "id": "energy-62718e6f34b9268e"
+  },
+  {
+    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+    "timestamp": "2026-10-24T13:09:28Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-24T13:09:28Z",
+    "id": "energy-448518d548942bd1"
+  },
+  {
+    "title": "Nintendo Is Still Being Wildly Underestimated",
+    "summary": "Once dismissed as 'for kids,' Nintendo now enjoys critical respect - except when it's making casual games like Nintendo Switch Sports Resort",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/switchboard-nintendo-switch-sports-resort/",
+    "timestamp": "2026-10-24T13:00:18Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/switchboard-nintendo-switch-sports-resort/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-24T13:00:18Z",
+    "id": "energy-6321cf2180faa06e"
+  },
+  {
+    "title": "5 Years Later, Metroid Dread’s Perfect Ending Is Still One of Nintendo’s Best",
+    "summary": "Five years after its release, Metroid Dread's haunting ending ranks among one of Nintendo's finest.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/metroid-dread-5-year-retrospective/",
+    "timestamp": "2026-10-24T12:00:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/metroid-dread-5-year-retrospective/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-24T12:00:19Z",
+    "id": "energy-7374cdf00a39a040"
+  },
+  {
+    "title": "[Major] Wildcard looking to add Caleb and Hntr with Bananahead",
+    "summary": "submitted by /u/Beneficial_Cup_3267 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xe6bqn/major_wildcard_looking_to_add_caleb_and_hntr_with/",
+    "timestamp": "2026-10-24T11:33:20Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xe6bqn/major_wildcard_looking_to_add_caleb_and_hntr_with/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-24T11:33:20Z",
+    "id": "energy-c8e0f410b4be70ea"
+  },
+  {
+    "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+    "timestamp": "2026-10-24T11:18:54Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-24T11:18:54Z",
+    "id": "energy-b0df040ef7a28cec"
+  },
+  {
+    "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+    "timestamp": "2026-10-24T10:51:35Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://gitlab.com/c4psu13/mali-pagecache-root"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-24T10:51:35Z",
+    "id": "energy-4b4330143b50662a"
+  },
+  {
+    "title": "Get SampleRoll’s SHFT, DRFT, and FLTR bundle for $49 with our exclusive coupon",
+    "summary": "SampleRoll is offering its SHFT, DRFT, and FLTR effects bundle for $59, combining rhythmic gating, VHS-style degradation, and playable filtering for macOS and Windows. BPB readers can use BPB10 at checkout to take another $10 off the three-plugin bundle, bringing it to $49 instead of the combined $147 list price. The code also works on [...] View post: Get SampleRoll’s SHFT, DRFT, and FLTR bundle for $49 with our exclusive coupon",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/24/sampleroll-bundle/",
+    "timestamp": "2026-10-24T08:55:14Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/24/sampleroll-bundle/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-24T08:55:14Z",
+    "id": "energy-30fae7fa81cd2f3a"
+  },
+  {
+    "title": "Me as a NA not knowing who to root for",
+    "summary": "We are going to do well submitted by /u/KarmaGoat [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xe3o8e/me_as_a_na_not_knowing_who_to_root_for/",
+    "timestamp": "2026-10-24T08:53:59Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xe3o8e/me_as_a_na_not_knowing_who_to_root_for/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-24T08:53:59Z",
+    "id": "energy-bd28b07e8e417b1c"
+  },
+  {
+    "title": "Morningdew Media releases MorningDAW, a FREE DAW for macOS, Windows, and Linux",
+    "summary": "Free digital audio workstations aren’t hard to find these days; we have familiar favourites like Tracktion’s Waveform Free, quirky newcomers like Septabee, and plenty in between. With several newcomers hoping to top the list of the best free DAWs, Morningdew Media is now throwing its developer hat into the ring with MorningDAW. MorningDAW is available [...] View post: Morningdew Media releases MorningDAW, a FREE DAW for macOS, Windows, and Linux",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/",
+    "timestamp": "2026-10-24T06:50:43Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-24T06:50:43Z",
+    "id": "energy-e37e2997a5d8c2c0"
+  },
+  {
+    "title": "The Crow Hill Company releases FREE 100 Year Old Piano instrument",
+    "summary": "As part of their Vaults collection, developer The Crow Hill Company has released the 100 Year Old Piano for macOS and Windows. I’ve praised the Vaults series almost universally since The Crow Hill Company introduced it, and not just for the sound quality. I love the variety and uniqueness of some instruments, which is something [...] View post: The Crow Hill Company releases FREE 100 Year Old Piano instrument",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/",
+    "timestamp": "2026-10-24T06:48:13Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-24T06:48:13Z",
+    "id": "energy-daa1a27e6fe7e183"
+  },
+  {
+    "title": "A Message From yANXNZ",
+    "summary": "submitted by /u/EnergyFax [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xe17qv/a_message_from_yanxnz/",
+    "timestamp": "2026-10-24T06:22:37Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xe17qv/a_message_from_yanxnz/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-24T06:22:37Z",
+    "id": "energy-3afbf6d969927826"
+  },
+  {
+    "title": "Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More",
+    "summary": "ABP, always be parrying",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/belmonts-curse-taught-me-an-important-lesson-about-parrying-namely-i-should-do-it-more-2000749181",
+    "timestamp": "2026-10-23T21:26:36Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/belmonts-curse-taught-me-an-important-lesson-about-parrying-namely-i-should-do-it-more-2000749181"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-23T21:26:36Z",
+    "id": "energy-b6f3c14999a3523d"
+  },
+  {
+    "title": "The Normandy SR-2 Is Now A Haunted House, But It Will Always Be My Home",
+    "summary": "I have spent years not being able to grieve Mass Effect, and now I finally have to",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/mass-effect-5-bioware-closure-universe-legendary-edition-2000749192",
+    "timestamp": "2026-10-23T20:45:06Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/mass-effect-5-bioware-closure-universe-legendary-edition-2000749192"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-23T20:45:06Z",
+    "id": "energy-78711b540cac73e7"
+  },
+  {
+    "title": "Developer Of ‘Ecosocialist’ Game Future? No Thanks! Offers Refunds After Using AI Despite Calling It ‘Technofascist’",
+    "summary": "He seems to still stand by his AI use, though",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
+    "timestamp": "2026-10-23T20:30:36Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-23T20:30:36Z",
+    "id": "energy-e890e04e461a4f52"
   },
   {
     "title": "MISO, SPP Say JTIQ Portfolio ‘Fully Subscribed’",
@@ -79,204 +340,6 @@
     ],
     "data_as_of": "2026-10-23T14:31:39Z",
     "id": "energy-ed40bd9304f47d43"
-  },
-  {
-    "title": "Shigeru Miyamoto Doesn’t Know If AI Can Take Over Creativity, But Says It Could Be An ‘Opportunity’ To Define What It Means To Create",
-    "summary": "The legendary Nintendo developer made his comments while receiving a national award for his contributions to culture",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/shigeru-miyamoto-doesnt-know-if-ai-can-take-over-creativity-but-it-could-become-an-opportunity-to-define-what-it-means-to-create-2000749074",
-    "timestamp": "2026-10-23T14:26:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/shigeru-miyamoto-doesnt-know-if-ai-can-take-over-creativity-but-it-could-become-an-opportunity-to-define-what-it-means-to-create-2000749074"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T14:26:12Z",
-    "id": "energy-3a464d567ad4ea3a"
-  },
-  {
-    "title": "What time are the Fortnitemares power hours in Fortnite Chapter 7 Season 4?",
-    "summary": "This weekend's Fortnite power hours feature Trick or Treat sprites. Here's when they are in your time zone.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-chapter-7-season-4-power-hours-what-time/",
-    "timestamp": "2026-10-23T14:16:10Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fortnite-chapter-7-season-4-power-hours-what-time/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T14:16:10Z",
-    "id": "energy-6fda917162e859e1"
-  },
-  {
-    "title": "Mass Effect Spiritual Successor Officially Reveals Redesigned Protagonist",
-    "summary": "Mass Effect-inspired space RPG Exodus has revealed the protagonist's new look following initial fan feedback",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/exodus-sci-fi-rpg-mass-effect-protagonist-redesign-revealed/",
-    "timestamp": "2026-10-23T14:05:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/exodus-sci-fi-rpg-mass-effect-protagonist-redesign-revealed/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T14:05:22Z",
-    "id": "energy-e9b11c3b5b190649"
-  },
-  {
-    "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-    "timestamp": "2026-10-23T13:41:10Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T13:41:10Z",
-    "id": "energy-9530a4e96b4a904c"
-  },
-  {
-    "title": "Battlefield 6 Quietly Yanks Planned Mass Effect Collab From Its Store After BioWare Closure",
-    "summary": "The EA-owned military shooter has collaborated with the sci-fi RPG in bad taste before",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/battlefield-6-mass-effect-cosmetics-n7-day-store-2000749091",
-    "timestamp": "2026-10-23T13:35:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/battlefield-6-mass-effect-cosmetics-n7-day-store-2000749091"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T13:35:14Z",
-    "id": "energy-7fdccddb471f664c"
-  },
-  {
-    "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://keepandroidopen.org/",
-    "timestamp": "2026-10-23T13:19:42Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://keepandroidopen.org/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T13:19:42Z",
-    "id": "energy-59770c54078965c5"
-  },
-  {
-    "title": "A Canadian Politician Says BioWare Devs Should Be Given Government Funding To Buy The Studio And Get Back To Making Mass Effect",
-    "summary": "‘We should be keeping private equity out, not welcoming it in’",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/a-canadian-politician-says-bioware-devs-should-be-given-government-funding-to-buy-the-studio-and-get-back-to-making-mass-effect-2000749088",
-    "timestamp": "2026-10-23T13:04:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/a-canadian-politician-says-bioware-devs-should-be-given-government-funding-to-buy-the-studio-and-get-back-to-making-mass-effect-2000749088"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T13:04:43Z",
-    "id": "energy-21bc9835a7df58f1"
-  },
-  {
-    "title": "Shitter – A Nitter Fork",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://codeberg.org/shitter/shitter",
-    "timestamp": "2026-10-23T13:02:23Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://codeberg.org/shitter/shitter"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T13:02:23Z",
-    "id": "energy-d7114dc9a662208a"
-  },
-  {
-    "title": "SoundMorph releases First Contact, a FREE 1.16 GB cinematic sound effects library",
-    "summary": "SoundMorph is offering First Contact, a free cinematic sound effects library with over 100 WAV files and 1.16 GB of content. First Contact combines previously unreleased material with selections from Sinematic, Sinematic 2, WATER, Rainscapes, and Robotic Lifeforms 2. We’ve covered SoundMorph before, including the retirement of the original TimeFlux software earlier this year. That [...] View post: SoundMorph releases First Contact, a FREE 1.16 GB cinematic sound effects library",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/23/soundmorph-first-contact/",
-    "timestamp": "2026-10-23T11:05:55Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/23/soundmorph-first-contact/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T11:05:55Z",
-    "id": "energy-3e89b43aa900dcbf"
-  },
-  {
-    "title": "Cableguys releases TimeStop tape-stop plugin and launches Black Friday sale + GIVEAWAY",
-    "summary": "Cableguys has released TimeStop, a $16 tape-stop plugin for macOS and Windows, alongside its Black Friday sale. They are also offering two free TimeStop licenses to BPB readers What is TimeStop? TimeStop lets you draw slowdowns directly in your DAW’s automation lanes. You can automate the large Pitch knob to decide exactly where the sound [...] View post: Cableguys releases TimeStop tape-stop plugin and launches Black Friday sale + GIVEAWAY",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/23/cableguys-timestop/",
-    "timestamp": "2026-10-23T10:55:33Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/23/cableguys-timestop/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T10:55:33Z",
-    "id": "energy-a46ccd66d5cf9e33"
-  },
-  {
-    "title": "D16 Group releases Echolite, a FREE stereo delay plugin",
-    "summary": "D16 Group has released Echolite, a free stereo delay plugin for macOS and Windows with tempo sync, stereo spread, and a multi-mode filter. We’ve covered D16’s free Frontier limiter before, and the developer also has plenty of experience with delays, including Sigmund. Echolite is much simpler than Sigmund, though, and is more useful for quick [...] View post: D16 Group releases Echolite, a FREE stereo delay plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/23/d16-group-echolite/",
-    "timestamp": "2026-10-23T10:46:47Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/23/d16-group-echolite/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-23T10:46:47Z",
-    "id": "energy-a9d9130b19669039"
   },
   {
     "title": "Building our piece of the electric stack",
@@ -349,86 +412,5 @@
     "primary_source": true,
     "data_as_of": "2026-10-23T04:00:00Z",
     "id": "energy-05e97424d425285b"
-  },
-  {
-    "title": "Throwback to Endpoint miraculously winning their first RLCS title 5 Years ago this weekend",
-    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xck4dt/throwback_to_endpoint_miraculously_winning_their/",
-    "timestamp": "2026-10-22T14:28:44Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xck4dt/throwback_to_endpoint_miraculously_winning_their/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-22T14:28:44Z",
-    "id": "energy-0b4d98352ba84f64"
-  },
-  {
-    "title": "What does FindableCarpet say after the famous \"THIS IS ROCKET LEAGUE CALL\" in the season 5 finals?",
-    "summary": "this is a pretty stupid post but I realized I still don't know what exactly he says and my brain just mumbles something before going to \"the rookie of the year.\" id like to correct that and searched online for an answer, but i couldnt find one and it still doesnt seem clear to me. does anybody know? submitted by /u/woomiesarefun [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xcanw6/what_does_findablecarpet_say_after_the_famous/",
-    "timestamp": "2026-10-22T06:05:15Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xcanw6/what_does_findablecarpet_say_after_the_famous/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-22T06:05:15Z",
-    "id": "energy-36b9474264df4580"
-  },
-  {
-    "title": "[5050rl] KV1 appears to be headed to FURIA",
-    "summary": "According to our source, the player is no longer part of the former BS roster and is nearing a deal with the organization. @DudsMelow 📰 submitted by /u/MeladoDuds [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xc8b1d/5050rl_kv1_appears_to_be_headed_to_furia/",
-    "timestamp": "2026-10-22T03:54:20Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xc8b1d/5050rl_kv1_appears_to_be_headed_to_furia/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-22T03:54:20Z",
-    "id": "energy-16c4b15dfacfae4a"
-  },
-  {
-    "title": "Can distributed energy work around American utilities?",
-    "summary": "A conversation with Nick Chaset of Octopus US (and Uplight).",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/can-distributed-energy-work-around",
-    "timestamp": "2026-10-21T10:09:33Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/can-distributed-energy-work-around"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-10-21T10:09:33Z",
-    "id": "energy-44bd650d23bda845"
   }
 ]

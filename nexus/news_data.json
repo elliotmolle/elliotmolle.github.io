@@ -1,16 +1,40 @@
 [
   {
-    "title": "Westinghouse to fabricate LEU+ fuel at expanded S.C. facility",
-    "summary": "Westinghouse has announced that it will invest $1 billion to construct a new plant to fabricate fuel with uranium enriched up to 8 percent U-235 on the site of its Columbia Fuel Fabrication Facility (CFFF) in Hopkins, S.C. Westinghouse has completed pre-construction preparation work on the site and, since 2024, has engaged with the Nuclear Regulatory Commission ahead of submitting an application to amend its existing facility license. It aims to produce 600 metric tons uranium of fuel each year beginning in 2030.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-23/article-8513/westinghouse-to-fabricate-leu-fuel-at-expanded-sc-facility/",
-    "timestamp": "2026-10-23T13:45:44Z",
+    "title": "Entergy celebrates Nuclear Science Week 2026",
+    "summary": "Nuclear Science Week is an internationally recognized annual celebration held during the third week of October, dedicated to advancing awareness of nuclear science across local, regional and global communities. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-celebrates-nuclear-science-week-2026",
+    "timestamp": "2026-10-23T21:26:47Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-23/article-8513/westinghouse-to-fabricate-leu-fuel-at-expanded-sc-facility/"
+      "https://www.entergy.com/blog/entergy-celebrates-nuclear-science-week-2026"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-23T21:26:47Z",
+    "id": "energy-58d2f44ebe505d79"
+  },
+  {
+    "title": "Hands Off the Glovebox: An Electrochemical System for Semiautonomous Decontamination at Los Alamos",
+    "summary": "The radiological glovebox is among the most recognizable pieces of contaminated infrastructure in the nuclear enterprise, and among the most difficult for disposition. Every glovebox used in plutonium operations eventually reaches the end of its service life. It can be dispositioned in its contaminated state, but at considerable cost: disposal as transuranic (TRU) waste is orders of magnitude more expensive than disposal as low-level waste, and it consumes limited capacity at the Waste Isolation Pilot Plant in Carlsbad, N.M., the nation’s only deep geologic repository for defense TRU waste. This economic reality makes decontamination to LLW limits the strongly preferred disposition path. Today, that work is typically performed by an operator reaching through glove ports to repeatedly spray and wipe interior surfaces until surveys confirm acceptable contamination levels. The process is slow, physically demanding, and dose-intensive, and the wipes, rags, and spent reagents it consumes become radioactive waste themselves.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-23/article-8427/hands-offthe-glovebox-an-electrochemical-system-for-semiautonomous-decontamination-at-los-alamos/",
+    "timestamp": "2026-10-23T21:04:48Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-23/article-8427/hands-offthe-glovebox-an-electrochemical-system-for-semiautonomous-decontamination-at-los-alamos/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +42,52 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-23T13:45:44Z",
-    "id": "energy-0bae8c4c159fb097"
+    "data_as_of": "2026-10-23T21:04:48Z",
+    "id": "energy-ce8255b2041bbe31"
+  },
+  {
+    "title": "NRC hosts FERC for joint meeting on nuclear generation, grid reliability",
+    "summary": "Twenty years ago, the Federal Energy Regulatory Commission and the Nuclear Regulatory Commission held their first joint meeting, spurred by the 2003 Northeast blackout during which, among other things, nine U.S. nuclear reactors tripped off line.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-23/article-8516/nrc-hosts-ferc-for-joint-meeting-on-nuclear-generation-grid-reliability/",
+    "timestamp": "2026-10-23T20:09:18Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-23/article-8516/nrc-hosts-ferc-for-joint-meeting-on-nuclear-generation-grid-reliability/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-23T20:09:18Z",
+    "id": "energy-2d2a113b474fd9fb"
+  },
+  {
+    "title": "Radiant Industries chosen for naval station deployment",
+    "summary": "On Wednesday, the Department of the Navy announced that it has selected Radiant Industries to design, build, and deliver a “prototype microreactor power plant” featuring the company’s Kaleidos design for the Naval Weapons Station Crane in Indiana.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-23/article-8515/radiant-industries-chosen-for-naval-station-deployment/",
+    "timestamp": "2026-10-23T18:32:51Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-23/article-8515/radiant-industries-chosen-for-naval-station-deployment/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-23T18:32:51Z",
+    "id": "energy-ffc68fc5c03adacf"
   },
   {
     "title": "Nano Nuclear Signs Engineering Agreement With Argentina’s IMPSA For Kronos Microreactor",
@@ -63,28 +131,6 @@
     ],
     "data_as_of": "2026-10-23T11:56:29Z",
     "id": "energy-34d8d0e360a97e5d"
-  },
-  {
-    "title": "NRC finalizes rule on licensing reactors with prior DOE or DOD authorization",
-    "summary": "The Nuclear Regulatory Commission has finalized a rule that would allow applicants with reactor designs already authorized by the Department of Energy or Department of Defense to pursue a streamlined pathway through the NRC’s commercial licensing process.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-22/article-8512/nrc-finalizes-rule-on-licensing-reactors-with-prior-doe-or-dod-authorization/",
-    "timestamp": "2026-10-22T21:44:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-22/article-8512/nrc-finalizes-rule-on-licensing-reactors-with-prior-doe-or-dod-authorization/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-22T21:44:42Z",
-    "id": "energy-9d88c6e1e88783c3"
   },
   {
     "title": "Sarah McKinley Letter to the PJM Board Concerning a Demand Reduction Concept",
@@ -131,28 +177,6 @@
     ],
     "data_as_of": "2026-10-22T18:15:27Z",
     "id": "energy-ae3df100e736e2a8"
-  },
-  {
-    "title": "Six AP1000 reactors eyed for Kentucky nuclear power facility",
-    "summary": "In the latest example of Westinghouse's AP1000 being proposed for new nuclear power capacity, project development firm The Nuclear Company has announced plans to deploy up to six AP1000s along the Ohio River in eastern Kentucky. Dubbed Prosperity One, the proposed power plant site would generate approximately 6.6 GW of new nuclear power if six reactors are ultimately deployed. Not only would it become Kentucky's first nuclear power plant, but it could also become the largest nuclear power generation site in the United States, the company said on Wednesday.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-22/article-8511/six-ap1000-reactors-eyed-for-kentucky-nuclear-power-facility/",
-    "timestamp": "2026-10-22T17:39:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-22/article-8511/six-ap1000-reactors-eyed-for-kentucky-nuclear-power-facility/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-22T17:39:37Z",
-    "id": "energy-7cddecd162c70833"
   },
   {
     "title": "Advanced transmission technology: A closer look at the innovation that will help us get more from the grid",
@@ -220,72 +244,5 @@
     ],
     "data_as_of": "2026-10-22T12:11:35Z",
     "id": "energy-3c6b08a96fe72663"
-  },
-  {
-    "title": "Entergy New Orleans raises record $175,000 at annual Power to Care Golf Tournament",
-    "summary": "Entergy New Orleans brought together business and community partners for a day of golf and giving at its annual Power to Care Golf Tournament. The event raised a record $175,000 to help seniors and customers with disabilities facing financial hardship. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-raises-record-175000-at-annual-power-to-care-golf-tournament",
-    "timestamp": "2026-10-22T00:28:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-raises-record-175000-at-annual-power-to-care-golf-tournament"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-22T00:28:00Z",
-    "id": "energy-054da00a41a40ae6"
-  },
-  {
-    "title": "Westinghouse To Invest $1 Billion In New US Higher Enrichment Nuclear Fuel Facility",
-    "summary": "Westinghouse Electric Company has announced an investment of approximately $1bn (€890m) in a new manufacturing facility for low-enriched uranium plus (LEU+) nuclear fuel at its existing Columbia fuel fabrication site in South Carolina, a statement said. The company said construction has begun at the site near Hopkins. Production is scheduled to start in 2030.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/westinghouse-to-invest-usd1-billion-in-new-us-higher-enrichment-nuclear-fuel-facility-10-3-2026",
-    "timestamp": "2026-10-21T11:09:43Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/westinghouse-to-invest-usd1-billion-in-new-us-higher-enrichment-nuclear-fuel-facility-10-3-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-21T11:09:43Z",
-    "id": "energy-d1b6d337338d0200"
-  },
-  {
-    "title": "FERC accepts ISO-NE proposal to establish independent asset condition reviewer",
-    "summary": "Asset condition projects are undertaken by transmission owners to replace or reconstruct old or obsolete facilities. The post FERC accepts ISO-NE proposal to establish independent asset condition reviewer appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/20/ferc-accepts-iso-ne-proposal-to-establish-independent-asset-condition-reviewer/",
-    "timestamp": "2026-10-20T14:54:26Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/20/ferc-accepts-iso-ne-proposal-to-establish-independent-asset-condition-reviewer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-20T14:54:26Z",
-    "id": "energy-6f142bcee9237fc8"
   }
 ]
