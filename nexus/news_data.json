@@ -201,48 +201,5 @@
     ],
     "data_as_of": "2026-10-22T16:36:35Z",
     "id": "energy-5d207539d5522de7"
-  },
-  {
-    "title": "ISO-NE issues 2027 Annual Work Plan",
-    "summary": "The plan details high-priority initiatives for innovating, securing, and advancing a reliable, cost-effective power system. The post ISO-NE issues 2027 Annual Work Plan appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/22/iso-ne-issues-2027-annual-work-plan/",
-    "timestamp": "2026-10-22T13:38:06Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/22/iso-ne-issues-2027-annual-work-plan/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-22T13:38:06Z",
-    "id": "energy-6ae4aa2ee2e66e62"
-  },
-  {
-    "title": "Finland Grants Operating Licence To World’s First Deep Geologic Nuclear Repository",
-    "summary": "Finland has granted an operating licence to Posiva for its spent nuclear fuel encapsulation and final disposal facility at Olkiluoto, marking the first time a deep geological repository for spent nuclear fuel has received an operating licence anywhere in the world. Posiva said the licence allows it to move towards the operational phase of the facility, but does not authorise the immediate start of disposal activities.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/finland-grants-operating-licence-to-world-s-first-deep-geologic-nuclear-repository-10-4-2026",
-    "timestamp": "2026-10-22T12:11:35Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/finland-grants-operating-licence-to-world-s-first-deep-geologic-nuclear-repository-10-4-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-22T12:11:35Z",
-    "id": "energy-3c6b08a96fe72663"
   }
 ]
