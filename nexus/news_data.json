@@ -1,5 +1,137 @@
 [
   {
+    "title": "UMich, PSI researchers report new airborne radiation-detection method",
+    "summary": "Researchers from the University of Michigan College of Engineering and Switzerland’s Paul Scherrer Institute are reporting the development of a new airborne method of radiation detection that accurately identifies single or mixed source identity, activity, and location. Their research has been published in Nature Communications under the title “Quantitative Mobile Gamma-Ray Spectrometry through Bayesian Inference.” The research is expected to improve the work of emergency responders by enabling them to more quickly and precisely determine where people in radiologically hazardous situations—such as a nuclear reactor meltdown or a nuclear weapon detonation—should evacuate for safe shelter. The research also should help responders better determine what other types of protective measures should be implemented for such people, including distribution of protective equipment and potassium iodide pills (which protect the thyroid gland from radiation).",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-26/article-8518/umich-psi-researchers-report-new-airborne-radiationdetection-method/",
+    "timestamp": "2026-10-26T15:29:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-26/article-8518/umich-psi-researchers-report-new-airborne-radiationdetection-method/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-26T15:29:02Z",
+    "id": "energy-17568d2c3569c9a7"
+  },
+  {
+    "title": "New Polling Reveals Majority Of Australians Support Nuclear Energy",
+    "summary": "Almost two-thirds of Australians believe nuclear power should be part of the nation's energy future, as new polling reveals growing concerns about Australia's ability to meet its electricity needs. New YouGov research commissioned by lobby group Nuclear for Australia has found that 63% of Australians believe nuclear power should be considered, while 60% believe it will form part of Australia’s future energy mix. The findings come as both the demand for and cost of electricity grows, driven by AI, data centres and electrification, while the conflict in the Middle East contributes to uncertainty in global energy markets.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/new-polling-reveals-majority-of-australians-support-nuclear-energy-10-1-2026",
+    "timestamp": "2026-10-26T14:49:55Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/new-polling-reveals-majority-of-australians-support-nuclear-energy-10-1-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-26T14:49:55Z",
+    "id": "energy-938630e1ed83c2de"
+  },
+  {
+    "title": "Entergy to report third quarter 2026 financial results on Nov. 2",
+    "summary": "Entergy will report its third quarter 2026 financial results before the market opens Monday, Nov. 2. We invite you to listen to a live webcast discussion of Entergy’s quarterly business update and financial results at 10 a.m. Central time that day. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-to-report-third-quarter-2026-financial-results-on-nov-2",
+    "timestamp": "2026-10-26T13:00:49Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-to-report-third-quarter-2026-financial-results-on-nov-2"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-26T13:00:49Z",
+    "id": "energy-073d951a67f36e84"
+  },
+  {
+    "title": "Nucleon Fuel seeks $20M grant for Wyo. conversion facility",
+    "summary": "Nucleon Fuel, a subsidiary of Canadian small modular reactor developer Nucleon Energy, has applied for a $20 million grant and possible $10 million additional loan to build a uranium conversion facility near Gillette, Wyo. Both the grant and the loan would be funded by Wyoming’s recently created Energy Dominance Fund, which seeks to advance projects related to oil, natural gas, coal, and nuclear energy in the state.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-26/article-8517/nucleon-fuel-seeks-20m-grant-for-wyo-conversion-facility/",
+    "timestamp": "2026-10-26T12:39:50Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-26/article-8517/nucleon-fuel-seeks-20m-grant-for-wyo-conversion-facility/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-26T12:39:50Z",
+    "id": "energy-d193d1eef3d5d4e7"
+  },
+  {
+    "title": "Self-paced training available on resource deactivation under Capacity Auction Reforms",
+    "summary": "The Capacity Management Tracking System (CMTS) User Guide is also available. The post Self-paced training available on resource deactivation under Capacity Auction Reforms appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/26/self-paced-training-available-on-resource-deactivation-under-capacity-auction-reforms/",
+    "timestamp": "2026-10-26T12:02:16Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/26/self-paced-training-available-on-resource-deactivation-under-capacity-auction-reforms/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-26T12:02:16Z",
+    "id": "energy-bf54ad705b05f22e"
+  },
+  {
+    "title": "Integrated Repository For Slovenia’s Krško Plant And Test Reactor ‘Cheaper Than Standalone Site’",
+    "summary": "Integrating a deep geologic repository for spent nuclear fuel from Slovenia’s Triga II research reactor into a site at the country’s Krško nuclear power plant would be cheaper than creating a standalone site, a study has shown. The study was carried out by Slovenia’s Agency for Radioactive Waste Management (Arao) and US-based Deep Isolation, which is developing nuclear waste disposal technologies in deep boreholes. The results showed that co-locating spent fuel from the Triga II reactor, which is at the Jožef Stefan Institute near the Slovenian capital of Ljubljana, would avoid duplicating costs over a standalone repository, which would require independent siting and licensing.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/integrated-repository-for-slovenia-s-krsko-plant-and-test-reactor-cheaper-than-standalone-site-10-1-2026",
+    "timestamp": "2026-10-26T11:35:33Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/integrated-repository-for-slovenia-s-krsko-plant-and-test-reactor-cheaper-than-standalone-site-10-1-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-26T11:35:33Z",
+    "id": "energy-fb245b89f07be343"
+  },
+  {
     "title": "Entergy celebrates Nuclear Science Week 2026",
     "summary": "Nuclear Science Week is an internationally recognized annual celebration held during the third week of October, dedicated to advancing awareness of nuclear science across local, regional and global communities. Source",
     "source": "Entergy",
@@ -44,162 +176,5 @@
     ],
     "data_as_of": "2026-10-23T21:04:48Z",
     "id": "energy-ce8255b2041bbe31"
-  },
-  {
-    "title": "NRC hosts FERC for joint meeting on nuclear generation, grid reliability",
-    "summary": "Twenty years ago, the Federal Energy Regulatory Commission and the Nuclear Regulatory Commission held their first joint meeting, spurred by the 2003 Northeast blackout during which, among other things, nine U.S. nuclear reactors tripped off line.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-23/article-8516/nrc-hosts-ferc-for-joint-meeting-on-nuclear-generation-grid-reliability/",
-    "timestamp": "2026-10-23T20:09:18Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-23/article-8516/nrc-hosts-ferc-for-joint-meeting-on-nuclear-generation-grid-reliability/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-23T20:09:18Z",
-    "id": "energy-2d2a113b474fd9fb"
-  },
-  {
-    "title": "Radiant Industries chosen for naval station deployment",
-    "summary": "On Wednesday, the Department of the Navy announced that it has selected Radiant Industries to design, build, and deliver a “prototype microreactor power plant” featuring the company’s Kaleidos design for the Naval Weapons Station Crane in Indiana.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-23/article-8515/radiant-industries-chosen-for-naval-station-deployment/",
-    "timestamp": "2026-10-23T18:32:51Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-23/article-8515/radiant-industries-chosen-for-naval-station-deployment/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-23T18:32:51Z",
-    "id": "energy-ffc68fc5c03adacf"
-  },
-  {
-    "title": "Nano Nuclear Signs Engineering Agreement With Argentina’s IMPSA For Kronos Microreactor",
-    "summary": "US advanced reactor developer Nano Nuclear Energy has signed a three-year engineering services agreement with the US subsidiary of Argentina’s IMPSA to assess the design and manufacture of key components for its Kronos microreactor, a statement said. According to the statement, the initial work would be an approximately six-month design review and manufacturing feasibility study, with the reactor pressure vessel a principal component under assessment.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/nano-nuclear-signs-engineering-agreement-with-argentina-s-impsa-for-kronos-microreactor-10-5-2026",
-    "timestamp": "2026-10-23T13:38:57Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/nano-nuclear-signs-engineering-agreement-with-argentina-s-impsa-for-kronos-microreactor-10-5-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-23T13:38:57Z",
-    "id": "energy-a0b87806c1c3825a"
-  },
-  {
-    "title": "Consumer Liaison Group to meet in Boston; registration open",
-    "summary": "A virtual attendance option is also available for the Dec. 2 event. The post Consumer Liaison Group to meet in Boston; registration open appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/23/consumer-liaison-group-to-meet-in-boston-registration-open/",
-    "timestamp": "2026-10-23T11:56:29Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/23/consumer-liaison-group-to-meet-in-boston-registration-open/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-23T11:56:29Z",
-    "id": "energy-34d8d0e360a97e5d"
-  },
-  {
-    "title": "Sarah McKinley Letter to the PJM Board Concerning a Demand Reduction Concept",
-    "summary": "Updated Date: 10.22.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261022-sarah-mckinley-letter-to-pjm-board.pdf",
-    "timestamp": "2026-10-22T19:48:43Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261022-sarah-mckinley-letter-to-pjm-board.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-10-22T19:48:43Z",
-    "id": "energy-225165dfa411848e"
-  },
-  {
-    "title": "Keep your family safe as fall brings new routines, shorter days and cooler temperatures",
-    "summary": "Following a few simple tips can help families celebrate sweater weather safely Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/keep-your-family-safe-as-fall-brings-new-routines-shorter-days-and-cooler-temperatures-3",
-    "timestamp": "2026-10-22T18:15:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/keep-your-family-safe-as-fall-brings-new-routines-shorter-days-and-cooler-temperatures-3"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-22T18:15:27Z",
-    "id": "energy-ae3df100e736e2a8"
-  },
-  {
-    "title": "Advanced transmission technology: A closer look at the innovation that will help us get more from the grid",
-    "summary": "The advanced transmission technology being deployed will help us increase power capacity, reduce congestion and strengthen the energy grid. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/advanced-transmission-technology-a-closer-look-at-the-innovation-that-will-help-us-get-more-from-the-grid",
-    "timestamp": "2026-10-22T16:36:35Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/advanced-transmission-technology-a-closer-look-at-the-innovation-that-will-help-us-get-more-from-the-grid"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-22T16:36:35Z",
-    "id": "energy-5d207539d5522de7"
   }
 ]
