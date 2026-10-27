@@ -1,16 +1,40 @@
 [
   {
-    "title": "UMich, PSI researchers report new airborne radiation-detection method",
-    "summary": "Researchers from the University of Michigan College of Engineering and Switzerland’s Paul Scherrer Institute are reporting the development of a new airborne method of radiation detection that accurately identifies single or mixed source identity, activity, and location. Their research has been published in Nature Communications under the title “Quantitative Mobile Gamma-Ray Spectrometry through Bayesian Inference.” The research is expected to improve the work of emergency responders by enabling them to more quickly and precisely determine where people in radiologically hazardous situations—such as a nuclear reactor meltdown or a nuclear weapon detonation—should evacuate for safe shelter. The research also should help responders better determine what other types of protective measures should be implemented for such people, including distribution of protective equipment and potassium iodide pills (which protect the thyroid gland from radiation).",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-26/article-8518/umich-psi-researchers-report-new-airborne-radiationdetection-method/",
-    "timestamp": "2026-10-26T15:29:02Z",
+    "title": "Entergy New Orleans completes 200 miles of tree trimming to strengthen grid reliability",
+    "summary": "Entergy New Orleans is investing in a stronger, more resilient electric grid while protecting the city’s unique tree canopy. As part of these efforts, we completed 200 miles of tree trimming across New Orleans to reduce outages, enhance public safety and strengthen our electrical infrastructure. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-completes-200-miles-of-tree-trimming-to-strengthen-grid-reliability",
+    "timestamp": "2026-10-27T15:07:53Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-26/article-8518/umich-psi-researchers-report-new-airborne-radiationdetection-method/"
+      "https://www.entergy.com/blog/entergy-new-orleans-completes-200-miles-of-tree-trimming-to-strengthen-grid-reliability"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-27T15:07:53Z",
+    "id": "energy-9a4db7cc63140c96"
+  },
+  {
+    "title": "GLE and Silex announce final EIS for Paducah enrichment facility",
+    "summary": "The Nuclear Regulatory Commission has released a final environmental impact statement for Global Laser Enrichment’s proposed Paducah Laser Enrichment Facility (PLEF) near Paducah, Ky. GLE and Silex Systems—the Australian firm that holds 51 percent ownership of GLE and that developed the enrichment technology to be used at the PLEF—announced that the EIS supports the issuance of a license to begin construction work on the facility. GLE completed its application for the license in July 2025.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-27/article-8521/gle-and-silex-announce-final-eis-for-paducah-enrichment-facility/",
+    "timestamp": "2026-10-27T14:36:39Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-27/article-8521/gle-and-silex-announce-final-eis-for-paducah-enrichment-facility/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +42,97 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-26T15:29:02Z",
-    "id": "energy-17568d2c3569c9a7"
+    "data_as_of": "2026-10-27T14:36:39Z",
+    "id": "energy-8c657931fdbaef78"
+  },
+  {
+    "title": "European GenAI Platform Now Runs In Production Across All Swiss Nuclear Power Plants",
+    "summary": "GRAYOAK Nuclear, a European provider of generative AI for the nuclear sector, has confirmed that its platform is now in active use at every Swiss nuclear power plant, developed in close partnership with operator Axpo. Twelve months after go-live, the system – known internally as “Lise” – processes more than 1,800 messages per day and has indexed over 550,000 documents spanning more than 50 years of operational history, with an 80% active-user rate among staff",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/european-genai-platform-now-runs-in-production-across-all-swiss-nuclear-power-plants-10-2-2026",
+    "timestamp": "2026-10-27T13:44:34Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/european-genai-platform-now-runs-in-production-across-all-swiss-nuclear-power-plants-10-2-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-27T13:44:34Z",
+    "id": "energy-4359ee794576a186"
+  },
+  {
+    "title": "Legacy cleanup supports modernization and economic development in Oak Ridge",
+    "summary": "Cleanup across the Department of Energy’s Oak Ridge Reservation is bringing economic opportunities to the region while also making land available for continuing DOE missions. DOE cleanup contractor United Cleanup Oak Ridge (UCOR), an Amentum-led company, has been removing excess facilities across the reservation for the past 15 years.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-27/article-8426/legacy-cleanup-supports-modernization-and-economic-development-in-oak-ridge/",
+    "timestamp": "2026-10-27T12:19:37Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-27/article-8426/legacy-cleanup-supports-modernization-and-economic-development-in-oak-ridge/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-27T12:19:37Z",
+    "id": "energy-a83459c8758289be"
+  },
+  {
+    "title": "SpaceNukes receives DARPA award to ground test kilopower reactor",
+    "summary": "The Space Nuclear Power Corporation (SpaceNukes) was awarded an other transaction agreement from the Defense Advanced Research Projects Agency (DARPA) to design, build, and conduct a nuclear ground test of a kilopower reactor in collaboration with Los Alamos National Laboratory, the company announced.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-26/article-8520/spacenukes-receives-darpa-award-to-ground-test-kilopower-reactor/",
+    "timestamp": "2026-10-26T20:13:39Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-26/article-8520/spacenukes-receives-darpa-award-to-ground-test-kilopower-reactor/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-26T20:13:39Z",
+    "id": "energy-a281b64e6284394e"
+  },
+  {
+    "title": "Entergy Arkansas’s Power to Care Golf Tournament raises $315,000 to support customers in need",
+    "summary": "The 2026 Power to Care Golf Tournament brought together 54 teams, 48 sponsors and more than 70 volunteers to support Entergy Arkansas customers facing financial challenges and help them keep their power on by raising $315,000. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-arkansass-power-to-care-golf-tournament-raises-315000-to-support-customers-in-need",
+    "timestamp": "2026-10-26T19:12:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-arkansass-power-to-care-golf-tournament-raises-315000-to-support-customers-in-need"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-26T19:12:20Z",
+    "id": "energy-8d359b22304df34b"
   },
   {
     "title": "New Polling Reveals Majority Of Australians Support Nuclear Energy",
@@ -67,28 +180,6 @@
     "id": "energy-073d951a67f36e84"
   },
   {
-    "title": "Nucleon Fuel seeks $20M grant for Wyo. conversion facility",
-    "summary": "Nucleon Fuel, a subsidiary of Canadian small modular reactor developer Nucleon Energy, has applied for a $20 million grant and possible $10 million additional loan to build a uranium conversion facility near Gillette, Wyo. Both the grant and the loan would be funded by Wyoming’s recently created Energy Dominance Fund, which seeks to advance projects related to oil, natural gas, coal, and nuclear energy in the state.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-26/article-8517/nucleon-fuel-seeks-20m-grant-for-wyo-conversion-facility/",
-    "timestamp": "2026-10-26T12:39:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-26/article-8517/nucleon-fuel-seeks-20m-grant-for-wyo-conversion-facility/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-26T12:39:50Z",
-    "id": "energy-d193d1eef3d5d4e7"
-  },
-  {
     "title": "Self-paced training available on resource deactivation under Capacity Auction Reforms",
     "summary": "The Capacity Management Tracking System (CMTS) User Guide is also available. The post Self-paced training available on resource deactivation under Capacity Auction Reforms appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -130,51 +221,5 @@
     ],
     "data_as_of": "2026-10-26T11:35:33Z",
     "id": "energy-fb245b89f07be343"
-  },
-  {
-    "title": "Entergy celebrates Nuclear Science Week 2026",
-    "summary": "Nuclear Science Week is an internationally recognized annual celebration held during the third week of October, dedicated to advancing awareness of nuclear science across local, regional and global communities. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-celebrates-nuclear-science-week-2026",
-    "timestamp": "2026-10-23T21:26:47Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-celebrates-nuclear-science-week-2026"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-23T21:26:47Z",
-    "id": "energy-58d2f44ebe505d79"
-  },
-  {
-    "title": "Hands Off the Glovebox: An Electrochemical System for Semiautonomous Decontamination at Los Alamos",
-    "summary": "The radiological glovebox is among the most recognizable pieces of contaminated infrastructure in the nuclear enterprise, and among the most difficult for disposition. Every glovebox used in plutonium operations eventually reaches the end of its service life. It can be dispositioned in its contaminated state, but at considerable cost: disposal as transuranic (TRU) waste is orders of magnitude more expensive than disposal as low-level waste, and it consumes limited capacity at the Waste Isolation Pilot Plant in Carlsbad, N.M., the nation’s only deep geologic repository for defense TRU waste. This economic reality makes decontamination to LLW limits the strongly preferred disposition path. Today, that work is typically performed by an operator reaching through glove ports to repeatedly spray and wipe interior surfaces until surveys confirm acceptable contamination levels. The process is slow, physically demanding, and dose-intensive, and the wipes, rags, and spent reagents it consumes become radioactive waste themselves.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-23/article-8427/hands-offthe-glovebox-an-electrochemical-system-for-semiautonomous-decontamination-at-los-alamos/",
-    "timestamp": "2026-10-23T21:04:48Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-23/article-8427/hands-offthe-glovebox-an-electrochemical-system-for-semiautonomous-decontamination-at-los-alamos/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-23T21:04:48Z",
-    "id": "energy-ce8255b2041bbe31"
   }
 ]
