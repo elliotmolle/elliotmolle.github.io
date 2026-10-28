@@ -1,16 +1,59 @@
 [
   {
-    "title": "Entergy New Orleans completes 200 miles of tree trimming to strengthen grid reliability",
-    "summary": "Entergy New Orleans is investing in a stronger, more resilient electric grid while protecting the city’s unique tree canopy. As part of these efforts, we completed 200 miles of tree trimming across New Orleans to reduce outages, enhance public safety and strengthen our electrical infrastructure. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-completes-200-miles-of-tree-trimming-to-strengthen-grid-reliability",
-    "timestamp": "2026-10-27T15:07:53Z",
+    "title": "Study finds silicon in unirradiated TRISO particles",
+    "summary": "Researchers at the University of Western Ontario in Canada analyzed TRISO particles and found small regions of silicon in the unirradiated fuel, raising questions about its impact on fuel performance. TRISO particles consist of a central fuel kernel surrounded by layers of carbon and silicon carbide. Silicon is not generally one of the intended elements in the kernel.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-28/article-8525/study-finds-silicon-in-unirradiated-triso-particles/",
+    "timestamp": "2026-10-28T15:32:26Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-completes-200-miles-of-tree-trimming-to-strengthen-grid-reliability"
+      "https://www.ans.org/news/2026-10-28/article-8525/study-finds-silicon-in-unirradiated-triso-particles/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-28T15:32:26Z",
+    "id": "energy-69de0303257980af"
+  },
+  {
+    "title": "US Agency Signs Agreement With Oil Company On Study Into SMRs For Turkey",
+    "summary": "The US Trade and Development Agency (USTDA) has signed an agreement with Turkish oil refiner Tüpraş to fund a study into the potential use of small modular reactors (SMRs) to supply electricity, heat and steam for refinery operations. According to the USTDA, the proposed study will evaluate several US reactor technologies, including their technical and economic feasibility, environmental performance, regulatory requirements and potential industrial applications. The agreement is also expected to develop a roadmap to support Tüpraş in deciding whether to proceed with SMR deployment.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/us-agency-signs-agreement-with-oil-company-on-study-into-smrs-for-turkey-10-3-2026",
+    "timestamp": "2026-10-28T15:19:59Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/us-agency-signs-agreement-with-oil-company-on-study-into-smrs-for-turkey-10-3-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-28T15:19:59Z",
+    "id": "energy-e7f8fe4ac2ed3ed9"
+  },
+  {
+    "title": "Power safely restored to Entergy Mississippi customers",
+    "summary": "Entergy Mississippi has restored power to the customers in Lawrence County near Monticello, due to the wildfire in the area. Approximately 179 customers were originally taken offline as a proactive safety measure to help protect the public from wildfire hazards. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/power-safely-restored-to-entergy-mississippi-customers",
+    "timestamp": "2026-10-28T14:48:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/power-safely-restored-to-entergy-mississippi-customers"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -20,21 +63,42 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-10-27T15:07:53Z",
-    "id": "energy-9a4db7cc63140c96"
+    "data_as_of": "2026-10-28T14:48:02Z",
+    "id": "energy-4f9eb9cc13e14dfc"
   },
   {
-    "title": "GLE and Silex announce final EIS for Paducah enrichment facility",
-    "summary": "The Nuclear Regulatory Commission has released a final environmental impact statement for Global Laser Enrichment’s proposed Paducah Laser Enrichment Facility (PLEF) near Paducah, Ky. GLE and Silex Systems—the Australian firm that holds 51 percent ownership of GLE and that developed the enrichment technology to be used at the PLEF—announced that the EIS supports the issuance of a license to begin construction work on the facility. GLE completed its application for the license in July 2025.",
+    "title": "Deep Isolation Announces Start Of Site Preparation At Texas Demonstration Project",
+    "summary": "US-based nuclear waste disposal technology company Deep Isolation Nuclear has begun site preparation activities at its deep borehole demonstration centre in Texas. The company said the work marks an early milestone under an April 2026 federal agreement to help promising energy technologies move from the lab to commercial-scale pilot deployment. That agreement saw Deep Isolation selected for the US Department of Energy’s ARPA-E Scaleup Ready programme, which committed up to $40m (€35.9m) to support two projects, including the Deep Isolation project.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/deep-isolation-announces-start-of-site-preparation-at-texas-demonstration-project-10-3-2026",
+    "timestamp": "2026-10-28T13:52:30Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/deep-isolation-announces-start-of-site-preparation-at-texas-demonstration-project-10-3-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-28T13:52:30Z",
+    "id": "energy-b0913d9e43035ab4"
+  },
+  {
+    "title": "Deep Fission signs Kansas power agreement following market woes",
+    "summary": "Last week, reactor developer Deep Fission announced that it had entered into a master energy purchase agreement with the Great Plains Development Authority in Kansas. This new milestone for the Department of Energy–backed start-up comes as it weathers the fallout from a recent report by a short-seller firm that accused the company of exaggerating its commercial viability.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-27/article-8521/gle-and-silex-announce-final-eis-for-paducah-enrichment-facility/",
-    "timestamp": "2026-10-27T14:36:39Z",
+    "url": "https://www.ans.org/news/2026-10-28/article-8524/deep-fission-signs-kansas-power-agreement-following-market-woes/",
+    "timestamp": "2026-10-28T12:15:16Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-27/article-8521/gle-and-silex-announce-final-eis-for-paducah-enrichment-facility/"
+      "https://www.ans.org/news/2026-10-28/article-8524/deep-fission-signs-kansas-power-agreement-following-market-woes/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -42,8 +106,104 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-27T14:36:39Z",
-    "id": "energy-8c657931fdbaef78"
+    "data_as_of": "2026-10-28T12:15:16Z",
+    "id": "energy-ae11e250e872d69a"
+  },
+  {
+    "title": "4th Quarter 2026 Earnings Webcast",
+    "summary": "4th Quarter 2026 Earnings Webcast Kim Leonard Wed, 10/28/2026 - 08:13 GE Vernova leadership team will present. Date Wed, 01/27/2027 - 07:30 - Wed, 01/27/2027 - 08:30 Event Occured No Dark theme Off Show on Masthead Off Past event description GE Vernova leadership team presented. show Event Panel Off",
+    "source": "GE Vernova | The Energy of Change",
+    "url": "https://www.gevernova.com/investors/events/4th-quarter-2026-earnings-webcast",
+    "timestamp": "2026-10-28T12:13:05Z",
+    "topic": "Energy",
+    "category": "Company News",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.gevernova.com/investors/events/4th-quarter-2026-earnings-webcast"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "GE Vernova",
+      "GE-Hitachi",
+      "GE"
+    ],
+    "tickers": [
+      "GEV"
+    ],
+    "data_as_of": "2026-10-28T12:13:05Z",
+    "id": "energy-4eac96538c22d903"
+  },
+  {
+    "title": "Constellation to get up to $5B DOE loan for planned uprates",
+    "summary": "Constellation has a conditional loan agreement of up to $5 billion in place with the Department of Energy’s Office of Energy Dominance Financing to support uprate projects at eight nuclear power plants in Illinois, Maryland, and Pennsylvania, the utility and federal agency announced Tuesday.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-27/article-8523/constellation-to-get-up-to-5b-doe-loan-for-planned-uprates/",
+    "timestamp": "2026-10-28T00:02:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-27/article-8523/constellation-to-get-up-to-5b-doe-loan-for-planned-uprates/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-28T00:02:00Z",
+    "id": "energy-4073605de3eb1688"
+  },
+  {
+    "title": "Entergy Mississippi responds to Lawrence County wildfire",
+    "summary": "Entergy Mississippi has de-energized distribution lines that serve approximately 179 customers in Lawrence County near Monticello – due to the spreading wildfire in the area. The temporary power outage is expected to last until approximately 7 p.m., though the outage could be extended until conditions are safe. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-responds-to-lawrence-county-wildfire",
+    "timestamp": "2026-10-27T23:22:51Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/stormcenter/entergy-mississippi-responds-to-lawrence-county-wildfire"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-27T23:22:51Z",
+    "id": "energy-287b81040c4c6dd5"
+  },
+  {
+    "title": "Entergy Louisiana launches $2 million bill credit program for eligible customers",
+    "summary": "Entergy Louisiana is launching a $2 million bill assistance program to help residential customers manage higher household costs. Beginning Oct. 28 at 9 a.m., eligible customers can apply for a one-time $100 bill credit issued through their local United Way. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-louisiana-launches-2-million-bill-credit-program-for-eligible-customers",
+    "timestamp": "2026-10-27T16:03:48Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-louisiana-launches-2-million-bill-credit-program-for-eligible-customers"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-27T16:03:48Z",
+    "id": "energy-b7f7a5ab89683758"
   },
   {
     "title": "European GenAI Platform Now Runs In Production Across All Swiss Nuclear Power Plants",
@@ -67,119 +227,6 @@
     "id": "energy-4359ee794576a186"
   },
   {
-    "title": "Legacy cleanup supports modernization and economic development in Oak Ridge",
-    "summary": "Cleanup across the Department of Energy’s Oak Ridge Reservation is bringing economic opportunities to the region while also making land available for continuing DOE missions. DOE cleanup contractor United Cleanup Oak Ridge (UCOR), an Amentum-led company, has been removing excess facilities across the reservation for the past 15 years.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-27/article-8426/legacy-cleanup-supports-modernization-and-economic-development-in-oak-ridge/",
-    "timestamp": "2026-10-27T12:19:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-27/article-8426/legacy-cleanup-supports-modernization-and-economic-development-in-oak-ridge/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-27T12:19:37Z",
-    "id": "energy-a83459c8758289be"
-  },
-  {
-    "title": "SpaceNukes receives DARPA award to ground test kilopower reactor",
-    "summary": "The Space Nuclear Power Corporation (SpaceNukes) was awarded an other transaction agreement from the Defense Advanced Research Projects Agency (DARPA) to design, build, and conduct a nuclear ground test of a kilopower reactor in collaboration with Los Alamos National Laboratory, the company announced.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-26/article-8520/spacenukes-receives-darpa-award-to-ground-test-kilopower-reactor/",
-    "timestamp": "2026-10-26T20:13:39Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-26/article-8520/spacenukes-receives-darpa-award-to-ground-test-kilopower-reactor/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-26T20:13:39Z",
-    "id": "energy-a281b64e6284394e"
-  },
-  {
-    "title": "Entergy Arkansas’s Power to Care Golf Tournament raises $315,000 to support customers in need",
-    "summary": "The 2026 Power to Care Golf Tournament brought together 54 teams, 48 sponsors and more than 70 volunteers to support Entergy Arkansas customers facing financial challenges and help them keep their power on by raising $315,000. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-arkansass-power-to-care-golf-tournament-raises-315000-to-support-customers-in-need",
-    "timestamp": "2026-10-26T19:12:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-arkansass-power-to-care-golf-tournament-raises-315000-to-support-customers-in-need"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-26T19:12:20Z",
-    "id": "energy-8d359b22304df34b"
-  },
-  {
-    "title": "New Polling Reveals Majority Of Australians Support Nuclear Energy",
-    "summary": "Almost two-thirds of Australians believe nuclear power should be part of the nation's energy future, as new polling reveals growing concerns about Australia's ability to meet its electricity needs. New YouGov research commissioned by lobby group Nuclear for Australia has found that 63% of Australians believe nuclear power should be considered, while 60% believe it will form part of Australia’s future energy mix. The findings come as both the demand for and cost of electricity grows, driven by AI, data centres and electrification, while the conflict in the Middle East contributes to uncertainty in global energy markets.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/new-polling-reveals-majority-of-australians-support-nuclear-energy-10-1-2026",
-    "timestamp": "2026-10-26T14:49:55Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/new-polling-reveals-majority-of-australians-support-nuclear-energy-10-1-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-26T14:49:55Z",
-    "id": "energy-938630e1ed83c2de"
-  },
-  {
-    "title": "Entergy to report third quarter 2026 financial results on Nov. 2",
-    "summary": "Entergy will report its third quarter 2026 financial results before the market opens Monday, Nov. 2. We invite you to listen to a live webcast discussion of Entergy’s quarterly business update and financial results at 10 a.m. Central time that day. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-to-report-third-quarter-2026-financial-results-on-nov-2",
-    "timestamp": "2026-10-26T13:00:49Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-to-report-third-quarter-2026-financial-results-on-nov-2"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-26T13:00:49Z",
-    "id": "energy-073d951a67f36e84"
-  },
-  {
     "title": "Self-paced training available on resource deactivation under Capacity Auction Reforms",
     "summary": "The Capacity Management Tracking System (CMTS) User Guide is also available. The post Self-paced training available on resource deactivation under Capacity Auction Reforms appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -200,26 +247,5 @@
     ],
     "data_as_of": "2026-10-26T12:02:16Z",
     "id": "energy-bf54ad705b05f22e"
-  },
-  {
-    "title": "Integrated Repository For Slovenia’s Krško Plant And Test Reactor ‘Cheaper Than Standalone Site’",
-    "summary": "Integrating a deep geologic repository for spent nuclear fuel from Slovenia’s Triga II research reactor into a site at the country’s Krško nuclear power plant would be cheaper than creating a standalone site, a study has shown. The study was carried out by Slovenia’s Agency for Radioactive Waste Management (Arao) and US-based Deep Isolation, which is developing nuclear waste disposal technologies in deep boreholes. The results showed that co-locating spent fuel from the Triga II reactor, which is at the Jožef Stefan Institute near the Slovenian capital of Ljubljana, would avoid duplicating costs over a standalone repository, which would require independent siting and licensing.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/integrated-repository-for-slovenia-s-krsko-plant-and-test-reactor-cheaper-than-standalone-site-10-1-2026",
-    "timestamp": "2026-10-26T11:35:33Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/integrated-repository-for-slovenia-s-krsko-plant-and-test-reactor-cheaper-than-standalone-site-10-1-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-26T11:35:33Z",
-    "id": "energy-fb245b89f07be343"
   }
 ]

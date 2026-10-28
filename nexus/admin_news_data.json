@@ -1,93 +1,354 @@
 [
   {
-    "title": "Researchers May Have Cracked The Science Of Falling In Love With Hot Anime Guys",
-    "summary": "New paper finds U.S. players find emotional connection key to having fun In games like Love and Deepspace",
+    "title": "Gentle Mates announce Vatira, Atow and Zen as their roster for the upcoming RLCS season",
+    "summary": "submitted by /u/nickEbutt [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xhsor7/gentle_mates_announce_vatira_atow_and_zen_as/",
+    "timestamp": "2026-10-28T16:20:56Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xhsor7/gentle_mates_announce_vatira_atow_and_zen_as/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-28T16:20:56Z",
+    "id": "energy-24bd774a5628d4ea"
+  },
+  {
+    "title": "Billionaires Spend 0.07% of Their Wealth to Avoid a 5% Tax",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/",
+    "timestamp": "2026-10-28T16:02:07Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T16:02:07Z",
+    "id": "energy-d609e5f2af72cfb2"
+  },
+  {
+    "title": "When You Search For This New Switch 2 Indie Game, An ‘Unauthorized’ Knockoff With ‘AI-Generated Assets’ Shows Up, Too",
+    "summary": "Haunted Paws was just shown off at this morning’s Indie World showcase",
     "source": "Kotaku",
-    "url": "https://kotaku.com/researchers-may-have-cracked-the-science-of-falling-in-love-with-hot-anime-guys-2000749921",
-    "timestamp": "2026-10-27T15:30:06Z",
+    "url": "https://kotaku.com/haunted-paws-switch-2-indie-world-nintendo-ghostly-whiskers-2000750524",
+    "timestamp": "2026-10-28T16:00:32Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/researchers-may-have-cracked-the-science-of-falling-in-love-with-hot-anime-guys-2000749921"
+      "https://kotaku.com/haunted-paws-switch-2-indie-world-nintendo-ghostly-whiskers-2000750524"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-27T15:30:06Z",
-    "id": "energy-3a6f8a087e099393"
+    "data_as_of": "2026-10-28T16:00:32Z",
+    "id": "energy-518f181b528ec757"
   },
   {
-    "title": "Assassin’s Creed Black Flag Resynced Just Got a Final Huge Update",
-    "summary": "Assassin's Creed Black Flag Resynced just got a final major update with New Game Plus, harder difficulty settings, and more.",
+    "title": "The Must-Play Board Games from 2026's Biggest Board Game Fair",
+    "summary": "Highlights include the Cyberpunk TCG, the Diablo board game, and a Gloomhaven spinoff",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-huge-update-new-game-plus-nightmare-mode/",
-    "timestamp": "2026-10-27T15:09:57Z",
+    "url": "https://www.polygon.com/best-new-board-games-spiel-essen-2026/",
+    "timestamp": "2026-10-28T16:00:18Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/assassins-creed-black-flag-resynced-huge-update-new-game-plus-nightmare-mode/"
+      "https://www.polygon.com/best-new-board-games-spiel-essen-2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-27T15:09:57Z",
-    "id": "energy-90d60b8d3d733bd8"
+    "data_as_of": "2026-10-28T16:00:18Z",
+    "id": "energy-35075d0a47dd594a"
   },
   {
-    "title": "10 Best Magic: The Gathering Cards That Capture Black’s Sinister Strategies",
-    "summary": "From sacrificing creatures to stealing an opponent’s turn, these cards show why Black will pay any price for power",
+    "title": "PlayStation Plus November 2026 Free Games Lineup Officially Revealed",
+    "summary": "Sony's free PlayStation Plus Essential games for November 2026 have been announced, and include three wildly different games.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/mtg-best-black-cards-in-magic-gathering/",
-    "timestamp": "2026-10-27T15:01:18Z",
+    "url": "https://www.polygon.com/playstation-plus-november-2026-games-announced-ps4-ps5-free-essential/",
+    "timestamp": "2026-10-28T15:57:01Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/mtg-best-black-cards-in-magic-gathering/"
+      "https://www.polygon.com/playstation-plus-november-2026-games-announced-ps4-ps5-free-essential/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-27T15:01:18Z",
-    "id": "energy-ddbe2fb76fcc1829"
+    "data_as_of": "2026-10-28T15:57:01Z",
+    "id": "energy-952f20c7cf1144af"
   },
   {
-    "title": "Fortnite Officially Reveals One Piece Season in First Trailer",
-    "summary": "One Piece is the centerpiece of the next Fortnite season, and the first official trailer shows the incredible amount of content coming.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/fortnite-one-piece-official-reveal-trailer/",
-    "timestamp": "2026-10-27T14:58:09Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/fortnite-one-piece-official-reveal-trailer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-27T14:58:09Z",
-    "id": "energy-d1a34407449f4934"
-  },
-  {
-    "title": "The 12 Best Moments In Mass Effect",
-    "summary": "As we mourn BioWare, let’s look back at some of the best moments from all four Mass Effect games",
+    "title": "PS5 Finally Gets Really Cool-Looking Translucent Controllers And Console Covers",
+    "summary": "The Prism Collection is going on sale in November",
     "source": "Kotaku",
-    "url": "https://kotaku.com/mass-effect-1-2-3-andromeda-5-best-moments-universe-bioware-2000750168",
-    "timestamp": "2026-10-27T14:45:59Z",
+    "url": "https://kotaku.com/ps5-finally-gets-really-cool-looking-translucent-controllers-and-console-covers-2000750520",
+    "timestamp": "2026-10-28T15:50:50Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/mass-effect-1-2-3-andromeda-5-best-moments-universe-bioware-2000750168"
+      "https://kotaku.com/ps5-finally-gets-really-cool-looking-translucent-controllers-and-console-covers-2000750520"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-27T14:45:59Z",
-    "id": "energy-fd5d0f342873d509"
+    "data_as_of": "2026-10-28T15:50:50Z",
+    "id": "energy-143b859528264b8f"
+  },
+  {
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "timestamp": "2026-10-28T15:46:30Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://surgehq.ai/blog/dayjob-tax"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T15:46:30Z",
+    "id": "energy-6bf5ba3f97c3443c"
+  },
+  {
+    "title": "ApparentlyTedLasso",
+    "summary": "submitted by /u/Babydrone [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xhrh2c/apparentlytedlasso/",
+    "timestamp": "2026-10-28T15:38:01Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xhrh2c/apparentlytedlasso/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-28T15:38:01Z",
+    "id": "energy-d8696c165cb78c3d"
+  },
+  {
+    "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
+    "timestamp": "2026-10-28T15:31:59Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T15:31:59Z",
+    "id": "energy-7d2dcb41d5b9dbab"
+  },
+  {
+    "title": "Valve Knows Steam Has An AI Slop Problem And Has A ‘Significant Number Of People’ Working On It",
+    "summary": "However, as usual, the company puts the onus to solve it on the developers who are getting screwed",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+    "timestamp": "2026-10-28T15:30:21Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T15:30:21Z",
+    "id": "energy-223d75d3740632ea"
+  },
+  {
+    "title": "Pioneers announce Sweaty, Gunz, Tehqoz, Noxes (C), and Herculyse (team stream caster) for RLCS 2027",
+    "summary": "Tweet: https://x.com/pioneersgg/status/2115458630506135912?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xhr0n1/pioneers_announce_sweaty_gunz_tehqoz_noxes_c_and/",
+    "timestamp": "2026-10-28T15:21:38Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xhr0n1/pioneers_announce_sweaty_gunz_tehqoz_noxes_c_and/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-10-28T15:21:38Z",
+    "id": "energy-6625271bd4d72d8b"
+  },
+  {
+    "title": "'Harry Potter Meets Stardew Valley' Game Sets Official Release Date",
+    "summary": "Witchbrook, a magical Stardew Valley-esque life sim, is finally being released in early 2027 on Switch, PC, PS5, and Xbox",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/witchbrook-release-date-announcement/",
+    "timestamp": "2026-10-28T15:15:53Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/witchbrook-release-date-announcement/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T15:15:53Z",
+    "id": "energy-e1f539627c1f3628"
+  },
+  {
+    "title": "Vochlea offers Native Instruments Empire Breaks for FREE",
+    "summary": "Vochlea is offering Empire Breaks, Native Instruments’ $49 boom bap drum instrument for Kontakt, for free with an email signup. With this offer, you get the full Empire Breaks license, and it works in the free Kontakt Player. You don’t need the paid version of Kontakt to buy anything from Vochlea (and by the way, [...] View post: Vochlea offers Native Instruments Empire Breaks for FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/28/vochlea-empire-breaks/",
+    "timestamp": "2026-10-28T14:40:37Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/28/vochlea-empire-breaks/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T14:40:37Z",
+    "id": "energy-9e12a3ea6b1b3c3b"
+  },
+  {
+    "title": "CodWaves launches QUANCE resonance suppressor at €49.99 intro price",
+    "summary": "CodWaves has released QUANCE, an automatic resonance suppression plugin for macOS and Windows, with an introductory price of €49.99. The launch offer runs through November 30, 2026, after which the regular price is €79.99. It’s a one-time purchase, and there’s also a free seven-day trial. We previously covered the developer’s WaveBalance automatic gain-staging plugin. QUANCE [...] View post: CodWaves launches QUANCE resonance suppressor at €49.99 intro price",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/28/codwaves-quance/",
+    "timestamp": "2026-10-28T14:13:40Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/28/codwaves-quance/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T14:13:40Z",
+    "id": "energy-dd8f83009ec9621c"
+  },
+  {
+    "title": "The PAC taking out clean energy opponents",
+    "summary": "A conversation with Tom Matzzie of the Invest in Tomorrow Coalition.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/the-pac-taking-out-clean-energy-opponents",
+    "timestamp": "2026-10-28T10:06:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/the-pac-taking-out-clean-energy-opponents"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T10:06:33Z",
+    "id": "energy-60a7e08d9c0fdf7d"
+  },
+  {
+    "title": "Mastering The Mix offers BASSROOM low-end EQ plugin for FREE",
+    "summary": "Mastering The Mix is offering BASSROOM, its £59 low-end EQ plugin for macOS and Windows, for free through an email signup popup. I usually get a lot of “not working for me” comments when a freebie includes a browser popup, so please read the article first. Here’s how to get BASSROOM for free. First, the [...] View post: Mastering The Mix offers BASSROOM low-end EQ plugin for FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/28/mastering-the-mix-bassroom-free/",
+    "timestamp": "2026-10-28T09:23:07Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/28/mastering-the-mix-bassroom-free/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-28T09:23:07Z",
+    "id": "energy-b98ec4d0aaa93511"
+  },
+  {
+    "title": "Zassenhaus Filtrations and Golod-Shafarevich Methods for Ihara Constants",
+    "summary": "arXiv:2610.33649v2 Announce Type: replace Abstract: Let $X$ be a curve over $\\mathbb{F}_q$. Denote by $N(X)$ and $g(X)$ the number of $\\mathbb{F}_q$-rational points and the genus of $X$ respectively. The Ihara constant \\begin{equation*} A(q)=\\limsup_{g(X)\\to\\infty}\\frac{N(X)}{g(X)} \\end{equation*} measures the asymptotic abundance of rational points on curves over $\\mathbb{F}_q$. It is a central problem in the study of algebraic geometry and has also attracted broader mathematical interest. In particular, the constant $A(2)$ is discussed in the \\emph{Optimization Constants in Mathematics} collection maintained by Terence Tao et al \\cite[Number 33]{DIT26}. In this paper, we study the Zassenhaus filtration of pro-$p$ groups arising from class field towers. By combining Golod--Shafarevich theorem, embedding problems and central class field theory, we establish a new criterion for the infinitude of class field towers. As an application, we obtain an improvement on the best known lower bounds of Ihara constant $A(2)$ and $A(3)$ which are explicitly given by \\[ A(2)\\geq 0.317779\\cdots \\text{ and } A(3)\\geq 0.496074\\cdots. \\]",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.33649",
+    "timestamp": "2026-10-28T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.33649"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-28T04:00:00Z",
+    "id": "energy-1462847c1e917968"
+  },
+  {
+    "title": "Young's lattice, invariant ideals, and weak identities",
+    "summary": "arXiv:2610.36638v1 Announce Type: new Abstract: For a $d$-dimensional vector space $V$ over a field of characteristic zero, we show that $GL(V)$-stable ideals of the universal enveloping algebra of the free two-step nilpotent Lie algebra $\\mathfrak n_2(V)$ are in natural correspondence with filters in Young's lattice of integer partitions with at most $d$ rows. The same classification holds for $GL(V)$-stable Poisson ideals of $S(V\\oplus\\Lambda^2(V))$ with its natural Poisson bracket. As applications, we determine all weak polynomial identities of the $n$-th Weyl algebra relative to its standard generating subspace and of the universal enveloping algebra of the $(2n+1)$-dimensional Heisenberg Lie algebra relative to the Lie algebra itself.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.36638",
+    "timestamp": "2026-10-28T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.36638"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-28T04:00:00Z",
+    "id": "energy-bba5c236e95d71be"
+  },
+  {
+    "title": "Where solitons are in a KdV soliton gas",
+    "summary": "arXiv:2605.18093v3 Announce Type: replace Abstract: The Korteweg-De Vries (KdV) equation is a paradigmatic model of integrable classical fields, with solitonic solutions where localised profiles interact by elastic, factorised scattering. When solitons interact, their shapes are modified, and individual solitons cannot be identified. This is a key problem in soliton gas where one needs a density of solitons per unit distance: can we locate asymptotic objects, quasiparticles, even at finite times in the macroscopic limit? Quasiparticles' positions should satisfy locality properties, the field in mesoscopic regions being determined by quasiparticles lying there. We solve this problem for the KdV equation. We define solitons' positions as functions of spectral and impact parameters via an expansion bijection generalising that of hard rods. These ``KdV rods'' solve the semiclassical Bethe equations, implementing the collision rate ansatz, and satisfy a repulsion condition generalising the rods' lengths to the KdV scattering shifts and related to the condensate condition. This gives an explicit characterisation of multi-soliton fields in terms of solitons' positions instead of impact p…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2605.18093",
+    "timestamp": "2026-10-28T04:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2605.18093"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-10-28T04:00:00Z",
+    "id": "energy-563233744f3f35e6"
   },
   {
     "title": "Clean Energy Groups, States Oppose MISO’s Large Load-Generation Study Plan",
@@ -153,195 +414,6 @@
     "id": "energy-48a2fb93667a8b57"
   },
   {
-    "title": "Zero Escape Writer Is Pro-AI, Believes His New Studio’s Game Wouldn’t Have Been Canceled If He’d Used It To Cut Costs",
-    "summary": "Kotaro Uchikoshi understands the resistance to AI, but feels it is necessary to cut costs and make games faster",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
-    "timestamp": "2026-10-27T14:30:31Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-27T14:30:31Z",
-    "id": "energy-85d4288ea341aea6"
-  },
-  {
-    "title": "Strezov Sampling releases FREE String Contours: Solo Cello Sul Tasto for Kontakt Player",
-    "summary": "From developer Strezov Sampling comes String Contours: Solo Cello Sul Tasto for Kontakt Player. Strezov Sampling is known for producing some high-end, and expectedly pricey, orchestral libraries. But the company, founded by composer and orchestrator George Strezov, has also offered some lovely freebies over the years. Previous freebies include Minimalist String Section and The Creative [...] View post: Strezov Sampling releases FREE String Contours: Solo Cello Sul Tasto for Kontakt Player",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/27/strezov-sampling-solo-cello/",
-    "timestamp": "2026-10-27T14:11:24Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/27/strezov-sampling-solo-cello/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-27T14:11:24Z",
-    "id": "energy-8694cc7bd03e704c"
-  },
-  {
-    "title": "Born Second releases TimeTravel, a FREE reverse delay plugin",
-    "summary": "Born Second has released TimeTravel, a free reverse-delay plugin for macOS, Windows, and Linux, inspired by the Old Blood Noise Endeavors BL-44 Reverse pedal. We previously covered the developer’s BS-203 MacroAcidizer acid synth and also gave away a free copy (congrats again, Buckine!). Born Second has also just released Chucho-16, a Juno/Omnichord-inspired chord synth, but [...] View post: Born Second releases TimeTravel, a FREE reverse delay plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/",
-    "timestamp": "2026-10-27T13:17:34Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-27T13:17:34Z",
-    "id": "energy-296bf70a6d72be63"
-  },
-  {
-    "title": "ebbandflow releases deCADE, a vintage synth instrument with 100 layered sound sources",
-    "summary": "ebbandflow has released deCADE, a sample-based instrument for macOS and Windows that brings together sounds from a dozen vintage synths. You can get deCADE at an introductory price of £39 / $49 / €49, down from £59 / $69 / €69. Existing deFORM owners should also check their inboxes for a loyalty offer. The developers [...] View post: ebbandflow releases deCADE, a vintage synth instrument with 100 layered sound sources",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/27/ebbandflow-decade/",
-    "timestamp": "2026-10-27T13:12:19Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/27/ebbandflow-decade/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-27T13:12:19Z",
-    "id": "energy-f265e8c0c94e4332"
-  },
-  {
-    "title": "UK to charge universities $1,200 per international student",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
-    "timestamp": "2026-10-27T05:13:08Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-27T05:13:08Z",
-    "id": "energy-d5bfdad96a549fc8"
-  },
-  {
-    "title": "There are now 5 inference providers for abliterated DeepSeek",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://allmodels.io/llm/abliterated",
-    "timestamp": "2026-10-27T04:53:52Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://allmodels.io/llm/abliterated"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-27T04:53:52Z",
-    "id": "energy-c3b597541a4fface"
-  },
-  {
-    "title": "I still teach OpenGL ES 3.0",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-    "timestamp": "2026-10-27T02:15:10Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-27T02:15:10Z",
-    "id": "energy-7422d073bc878a1c"
-  },
-  {
-    "title": "Sosa, tms, dvo, Kuxir97 (C) teaming for RLCS 2027",
-    "summary": "Tweet | They will be playing in NA submitted by /u/N0b0dy_her3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xgg32z/sosa_tms_dvo_kuxir97_c_teaming_for_rlcs_2027/",
-    "timestamp": "2026-10-27T01:59:34Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xgg32z/sosa_tms_dvo_kuxir97_c_teaming_for_rlcs_2027/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-27T01:59:34Z",
-    "id": "energy-f7cb09781828b5f9"
-  },
-  {
-    "title": "Droppz, Wisty, Suco & Mateus (C) form \"Larp\" for RLCS Club Championship",
-    "summary": "submitted by /u/John_aka_Alwayz [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xgcx6d/droppz_wisty_suco_mateus_c_form_larp_for_rlcs/",
-    "timestamp": "2026-10-26T23:38:20Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xgcx6d/droppz_wisty_suco_mateus_c_form_larp_for_rlcs/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-26T23:38:20Z",
-    "id": "energy-d63f9199d01c5004"
-  },
-  {
-    "title": "2026 Club Kick-Off tickets for London will have a 24 hour pre-sale Oct 28th @ 2pm GMT. General sale begins 2 days later",
-    "summary": "https://blast.tv/register/rlcs-club-kick-off-2026 submitted by /u/Duke_ofChutney [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xg9rvj/2026_club_kickoff_tickets_for_london_will_have_a/",
-    "timestamp": "2026-10-26T21:27:33Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xg9rvj/2026_club_kickoff_tickets_for_london_will_have_a/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-26T21:27:33Z",
-    "id": "energy-c3ff7a514100b382"
-  },
-  {
     "title": "Windows Announces Landmark Partnership With Ruotolo Brothers",
     "summary": "The worlds of technology and Brazilian Jiu-Jitsu have come together in a high-profile collaboration featuring both Kade Ruotolo and Tye Ruotolo, as Microsoft’s Windows brand puts the celebrated grappling twins at the centre of a new campaign. Titled Iron Sharpens Iron – Training and Surfing with Kade and Tye Ruotolo, the film showcases the brothers’ […] The post Windows Announces Landmark Partnership With Ruotolo Brothers appeared first on Jitsmagazine.com.",
     "source": "Jitsmagazine.com",
@@ -358,59 +430,5 @@
     "primary_source": false,
     "data_as_of": "2026-10-26T16:28:13Z",
     "id": "energy-5470fe39c5552744"
-  },
-  {
-    "title": "Who pays for urban environment management? The role of the third-party service provider",
-    "summary": "arXiv:2610.32528v1 Announce Type: new Abstract: The dominant contemporary paradigm of direct state-led urban environmental regulation entails significant risks, including high administrative burden, frequent conflicts with polluting entities, and economic vulnerabilities for those sources. To address these deficiencies, this paper integrates third-party service provider (TPSP) into China's existing management framework as a beneficial extension beyond conventional government intervention. Utilizing an evolutionary game approach, we compare two distinct institutional settings, a non-integration management mode and an integration management mode, and scrutinize the evolutionary dynamics across both two- and three-dimensional systems. To enhance system robustness, we embed a strategic behavior-based dynamic punishment mechanism that effectively eliminates the perturbing effects of varied penalty rules, thereby steering all stakeholders toward an ideal stable state. This comparative institutional analysis isolates the marginal contribution of third-party intermediation, specifies when outsourcing environmental services outperforms direct government enforcement, and reframes evolutiona…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.32528",
-    "timestamp": "2026-10-26T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.32528"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-26T04:00:00Z",
-    "id": "energy-1d4885dfc7a3b7f4"
-  },
-  {
-    "title": "Well-posedness for the Cubic Nonlinear Schr\\\"odinger Equation With Nonlinearity Supported on a Hypersurface",
-    "summary": "arXiv:2610.32180v1 Announce Type: new Abstract: We prove that the 2-d cubic nonlinear Schr\\\"odinger equation with nonlinearity supported on a line or a sphere is globally well-posed in \\(H^1(\\mathbb{R}^2)\\). For higher dimensions, we prove that the equation with hyperplane-supported nonlinearity is locally well-posed in suitable anisotropic Sobolev spaces. We also prove that the equation with sphere-supported nonlinearity is globally well-posed in \\(H^1(\\mathbb{R}^n)\\) for radial data.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.32180",
-    "timestamp": "2026-10-26T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.32180"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-26T04:00:00Z",
-    "id": "energy-7b31904593a88067"
-  },
-  {
-    "title": "Well-posedness for $p(x)$-Laplacian parabolic equations under a multiple-regime setting on an annulus",
-    "summary": "arXiv:2610.32083v1 Announce Type: new Abstract: This paper proposes an energy-variational framework for the well-posedness of the initial boundary value problem of the parabolic equation with variable exponents on an annulus, under the multiple-regime setting consisting of the subcritical, critical and supercritical regimes of the variable exponents. The multiple-regime setting leads to the appearance of the critical and supercritical regions of positive measure, which cause the failure of the classical Sobolev embedding and the lack of compactness. To address the challenges posed by multiple regimes to well-posedness within the energy framework, we recover the compact Sobolev embedding for a class of radially symmetric functions by the Strauss inequality and obtain the local existence of the solution via the combination of the subdifferential technique and the Principle of Symmetric Criticality for any given radially symmetric initial data. Additionally, the uniqueness result is also given with the recovered Sobolev embedding. Moreover, examining the impact on well-posedness of solutions caused by the variable exponents crossing three sensitive regions, we establish a variational…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.32083",
-    "timestamp": "2026-10-26T04:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.32083"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-10-26T04:00:00Z",
-    "id": "energy-0a4ba6dbfa35c83c"
   }
 ]
