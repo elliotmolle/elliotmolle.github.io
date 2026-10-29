@@ -1,16 +1,16 @@
 [
   {
-    "title": "Study finds silicon in unirradiated TRISO particles",
-    "summary": "Researchers at the University of Western Ontario in Canada analyzed TRISO particles and found small regions of silicon in the unirradiated fuel, raising questions about its impact on fuel performance. TRISO particles consist of a central fuel kernel surrounded by layers of carbon and silicon carbide. Silicon is not generally one of the intended elements in the kernel.",
+    "title": "New nuclear builds, SMR developments in Canada, Turkey, Philippines, Thailand",
+    "summary": "News from the international nuclear stage continues to flow at a steady pace, with recent happenings in Canada, Turkey, the Philippines, and Thailand. Here is the latest from Nuclear News’s international coverage.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-28/article-8525/study-finds-silicon-in-unirradiated-triso-particles/",
-    "timestamp": "2026-10-28T15:32:26Z",
+    "url": "https://www.ans.org/news/2026-10-29/article-8529/new-nuclear-builds-smr-developments-in-canada-turkey-philippines-thailand/",
+    "timestamp": "2026-10-29T15:50:25Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-28/article-8525/study-finds-silicon-in-unirradiated-triso-particles/"
+      "https://www.ans.org/news/2026-10-29/article-8529/new-nuclear-builds-smr-developments-in-canada-turkey-philippines-thailand/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,94 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-28T15:32:26Z",
-    "id": "energy-69de0303257980af"
+    "data_as_of": "2026-10-29T15:50:25Z",
+    "id": "energy-608f43a44de265e6"
+  },
+  {
+    "title": "Russia Begins Fuel Deliveries For First Load At Rooppur-2 Nuclear Plant",
+    "summary": "Russia’s state-owned nuclear corporation Rosatom has begun delivering nuclear fuel for the initial loading of Unit 2 at Bangladesh’s Rooppur nuclear power station, a statement said. Rosatom said that it had completed a first shipment of fuel assemblies manufactured by its Novosibirsk Chemical Concentrates Plant in Russia. The fuel was transported to Bangladesh on a dedicated cargo flight. The company said the fuel containers had been transferred to a storage facility at Rooppur, where the assemblies undergo visual and technical inspections before they can be loaded into the reactor.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/russia-begins-fuel-deliveries-for-first-load-at-rooppur-2-nuclear-plant-10-4-2026",
+    "timestamp": "2026-10-29T14:03:39Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/russia-begins-fuel-deliveries-for-first-load-at-rooppur-2-nuclear-plant-10-4-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-29T14:03:39Z",
+    "id": "energy-a27f2532d2bb6a92"
+  },
+  {
+    "title": "Nano Nuclear Signs MOU With Hyundai Engineering On US University Project",
+    "summary": "Advanced nuclear energy and technology company Nano Nuclear Energy announced that it has signed a memorandum of understanding with Hyundai Engineering to establish a framework for potential collaboration to advance the Kronos MMR (micro-modular reactor) energy system project at the University of Illinois Urbana-Champaign and to evaluate broader cooperation on future manufacturing and deployment. New York-based Nano said the MOU brings together its advanced reactor development programme with South Korea-based Hyundai Engineering capabilities including engineering, procurement, construction and project-management. The two companies initially intend to focus on areas including project-execution planning, conventional and site-related work, procurement readiness, supply-chain development and US localisation planning for the University of Illinois Urbana-Champaign project.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/nano-nuclear-signs-mou-with-hyundai-engineering-on-us-university-project-10-4-2026",
+    "timestamp": "2026-10-29T13:40:14Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/nano-nuclear-signs-mou-with-hyundai-engineering-on-us-university-project-10-4-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-29T13:40:14Z",
+    "id": "energy-33e70f3208b07a95"
+  },
+  {
+    "title": "NN asks: What is the role of online monitoring in plant maintenance?",
+    "summary": "Adam Deatherage The role of online monitoring in plant maintenance is not simply to collect more data. It’s also to provide the information needed to make better maintenance decisions and more efficiently allocate critical craft resources. Historically, the nuclear industry has approached maintenance and surveillance testing activities on a calendar basis (quarterly, every outage, etc.). While this has been effective and straightforward to implement, 50-plus years of operating history has shown that many of these test intervals are overly conservative, resulting in what I’ve heard referred to as “recreational maintenance,” or maintenance activities that don’t actually add to the plant’s safety or reliability. Online monitoring enables a shift to condition-based maintenance, where real plant data can be used to demonstrate that surveillance can be extended and maintenance activities can be reduced. It also can provide early indication of component degradation.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-29/article-8408/what-is-the-role-of-online-monitoring-in-plant-maintenance/",
+    "timestamp": "2026-10-29T12:12:59Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-29/article-8408/what-is-the-role-of-online-monitoring-in-plant-maintenance/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-29T12:12:59Z",
+    "id": "energy-c562a789ebf257a5"
+  },
+  {
+    "title": "Fusion companies sign LOIs for federal R&D awards",
+    "summary": "The Department of Commerce announced the signing of four letters of intent for federal research and development awards under the CHIPS and Science Act focused on semiconductors and power electronics, including awards for fusion companies Helion and Commonwealth Fusion Systems.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-28/article-8526/fusion-companies-sign-lois-for-federal-rd-awards/",
+    "timestamp": "2026-10-28T20:37:42Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-28/article-8526/fusion-companies-sign-lois-for-federal-rd-awards/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-28T20:37:42Z",
+    "id": "energy-31ebad3bdcc8763c"
   },
   {
     "title": "US Agency Signs Agreement With Oil Company On Study Into SMRs For Turkey",
@@ -67,49 +153,6 @@
     "id": "energy-4f9eb9cc13e14dfc"
   },
   {
-    "title": "Deep Isolation Announces Start Of Site Preparation At Texas Demonstration Project",
-    "summary": "US-based nuclear waste disposal technology company Deep Isolation Nuclear has begun site preparation activities at its deep borehole demonstration centre in Texas. The company said the work marks an early milestone under an April 2026 federal agreement to help promising energy technologies move from the lab to commercial-scale pilot deployment. That agreement saw Deep Isolation selected for the US Department of Energy’s ARPA-E Scaleup Ready programme, which committed up to $40m (€35.9m) to support two projects, including the Deep Isolation project.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/deep-isolation-announces-start-of-site-preparation-at-texas-demonstration-project-10-3-2026",
-    "timestamp": "2026-10-28T13:52:30Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/deep-isolation-announces-start-of-site-preparation-at-texas-demonstration-project-10-3-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-28T13:52:30Z",
-    "id": "energy-b0913d9e43035ab4"
-  },
-  {
-    "title": "Deep Fission signs Kansas power agreement following market woes",
-    "summary": "Last week, reactor developer Deep Fission announced that it had entered into a master energy purchase agreement with the Great Plains Development Authority in Kansas. This new milestone for the Department of Energy–backed start-up comes as it weathers the fallout from a recent report by a short-seller firm that accused the company of exaggerating its commercial viability.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-28/article-8524/deep-fission-signs-kansas-power-agreement-following-market-woes/",
-    "timestamp": "2026-10-28T12:15:16Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-28/article-8524/deep-fission-signs-kansas-power-agreement-following-market-woes/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-28T12:15:16Z",
-    "id": "energy-ae11e250e872d69a"
-  },
-  {
     "title": "4th Quarter 2026 Earnings Webcast",
     "summary": "4th Quarter 2026 Earnings Webcast Kim Leonard Wed, 10/28/2026 - 08:13 GE Vernova leadership team will present. Date Wed, 01/27/2027 - 07:30 - Wed, 01/27/2027 - 08:30 Event Occured No Dark theme Off Show on Masthead Off Past event description GE Vernova leadership team presented. show Event Panel Off",
     "source": "GE Vernova | The Energy of Change",
@@ -136,30 +179,8 @@
     "id": "energy-4eac96538c22d903"
   },
   {
-    "title": "Constellation to get up to $5B DOE loan for planned uprates",
-    "summary": "Constellation has a conditional loan agreement of up to $5 billion in place with the Department of Energy’s Office of Energy Dominance Financing to support uprate projects at eight nuclear power plants in Illinois, Maryland, and Pennsylvania, the utility and federal agency announced Tuesday.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-27/article-8523/constellation-to-get-up-to-5b-doe-loan-for-planned-uprates/",
-    "timestamp": "2026-10-28T00:02:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-27/article-8523/constellation-to-get-up-to-5b-doe-loan-for-planned-uprates/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-28T00:02:00Z",
-    "id": "energy-4073605de3eb1688"
-  },
-  {
     "title": "Entergy Mississippi responds to Lawrence County wildfire",
-    "summary": "Entergy Mississippi has de-energized distribution lines that serve approximately 179 customers in Lawrence County near Monticello – due to the spreading wildfire in the area. The temporary power outage is expected to last until approximately 7 p.m., though the outage could be extended until conditions are safe. Source",
+    "summary": "Entergy Mississippi has de-energized distribution lines that serve approximately 179 customers in Lawrence County near Monticello due to the spreading wildfire in the area. The temporary power outage is expected to last until approximately 7 p.m., though the outage could be extended until conditions are safe. Source",
     "source": "Entergy",
     "url": "https://www.entergy.com/stormcenter/entergy-mississippi-responds-to-lawrence-county-wildfire",
     "timestamp": "2026-10-27T23:22:51Z",
@@ -204,48 +225,5 @@
     ],
     "data_as_of": "2026-10-27T16:03:48Z",
     "id": "energy-b7f7a5ab89683758"
-  },
-  {
-    "title": "European GenAI Platform Now Runs In Production Across All Swiss Nuclear Power Plants",
-    "summary": "GRAYOAK Nuclear, a European provider of generative AI for the nuclear sector, has confirmed that its platform is now in active use at every Swiss nuclear power plant, developed in close partnership with operator Axpo. Twelve months after go-live, the system – known internally as “Lise” – processes more than 1,800 messages per day and has indexed over 550,000 documents spanning more than 50 years of operational history, with an 80% active-user rate among staff",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/european-genai-platform-now-runs-in-production-across-all-swiss-nuclear-power-plants-10-2-2026",
-    "timestamp": "2026-10-27T13:44:34Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/european-genai-platform-now-runs-in-production-across-all-swiss-nuclear-power-plants-10-2-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-27T13:44:34Z",
-    "id": "energy-4359ee794576a186"
-  },
-  {
-    "title": "Self-paced training available on resource deactivation under Capacity Auction Reforms",
-    "summary": "The Capacity Management Tracking System (CMTS) User Guide is also available. The post Self-paced training available on resource deactivation under Capacity Auction Reforms appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/26/self-paced-training-available-on-resource-deactivation-under-capacity-auction-reforms/",
-    "timestamp": "2026-10-26T12:02:16Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/26/self-paced-training-available-on-resource-deactivation-under-capacity-auction-reforms/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-26T12:02:16Z",
-    "id": "energy-bf54ad705b05f22e"
   }
 ]
