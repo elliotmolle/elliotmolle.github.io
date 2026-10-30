@@ -1,282 +1,363 @@
 [
   {
-    "title": "A Rare Pokémon Is Being Distributed Again For The First Time In A Decade, But There’s A Catch",
-    "summary": "Nag your friends to log in to Legends: Z-A and do their part",
+    "title": "Ex-BioWare Devs Released A 40-Minute Gameplay Video Of Exodus And Yeah, That’s A Mass Effect Spiritual Successor Alright",
+    "summary": "Can't imagine why they chose now to share it with us, but I'm glad they did",
     "source": "Kotaku",
-    "url": "https://kotaku.com/pokemon-legends-za-vivillon-poke-ball-pattern-mystery-gift-2000751036",
-    "timestamp": "2026-10-29T16:30:29Z",
+    "url": "https://kotaku.com/ex-bioware-devs-released-a-40-minute-gameplay-video-of-exodus-and-yeah-thats-a-mass-effect-spiritual-successor-alright-2000751572",
+    "timestamp": "2026-10-30T16:30:50Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/pokemon-legends-za-vivillon-poke-ball-pattern-mystery-gift-2000751036"
+      "https://kotaku.com/ex-bioware-devs-released-a-40-minute-gameplay-video-of-exodus-and-yeah-thats-a-mass-effect-spiritual-successor-alright-2000751572"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-29T16:30:29Z",
-    "id": "energy-06782f58fefe1634"
+    "data_as_of": "2026-10-30T16:30:50Z",
+    "id": "energy-8b55236efb97d7a3"
   },
   {
-    "title": "Fire Emblem: Fortune’s Weave Actor on Dietrich and Fabio: ‘His First Real Love’",
-    "summary": "Actor Jimmie Yamaguchi takes Polygon behind the scenes of one of Fire Emblem: Fortune’s Weave’s most jaw-dropping moments",
+    "title": "HBO’s New Green Lantern Series Officially Gets an Important Update",
+    "summary": "HBO's My Adventures with Green Lantern reveals official episode count and Superman season 4 update.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/fire-emblem-fortune-weave-fabio-dietrich-love/",
-    "timestamp": "2026-10-29T16:30:19Z",
+    "url": "https://www.polygon.com/dc-my-adventures-with-green-lantern-episode-count-revealed/",
+    "timestamp": "2026-10-30T16:16:15Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/fire-emblem-fortune-weave-fabio-dietrich-love/"
+      "https://www.polygon.com/dc-my-adventures-with-green-lantern-episode-count-revealed/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-29T16:30:19Z",
-    "id": "energy-e88529ef76822248"
+    "data_as_of": "2026-10-30T16:16:15Z",
+    "id": "energy-9052f181010be6d4"
   },
   {
-    "title": "Nintendo Restocks Zelda 40th Anniversary Switch 2 Console",
-    "summary": "Ahead of The Legend of Zelda: Ocarina of Time remake's release, Nintendo has restocked the Zelda 40th Anniversary Switch 2 console.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/zelda-40th-anniversary-switch-2-hardware-restock/",
-    "timestamp": "2026-10-29T16:24:04Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/zelda-40th-anniversary-switch-2-hardware-restock/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T16:24:04Z",
-    "id": "energy-0420903951a4c23c"
-  },
-  {
-    "title": "Spotlight is a FREE stereo shaping plugin with a minimalist interface",
-    "summary": "Developer Daniel Fernandes has released Spotlight, a free/pay-what-you-want stereo shaping plugin for Windows, Linux, and macOS, currently in beta. Spotlight lets you adjust a sound’s width and stereo position by moving around a single dot. Daniel initially set out to make a panning plugin, but expanded it after realizing how closely panning and stereo imaging [...] View post: Spotlight is a FREE stereo shaping plugin with a minimalist interface",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/29/spotlight-stereo-shaping/",
-    "timestamp": "2026-10-29T16:16:42Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/29/spotlight-stereo-shaping/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T16:16:42Z",
-    "id": "energy-45ce0e88ce44a00c"
-  },
-  {
-    "title": "The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced",
-    "summary": "Sounds like fans were right on the money",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-elder-scrolls-6-title-reportedly-being-revealed-next-month-just-about-eight-years-after-it-was-announced-2000751058",
-    "timestamp": "2026-10-29T16:16:12Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/the-elder-scrolls-6-title-reportedly-being-revealed-next-month-just-about-eight-years-after-it-was-announced-2000751058"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T16:16:12Z",
-    "id": "energy-6916deea4282542e"
-  },
-  {
-    "title": "McDonald's 'Pokémon' Happy Meal Is Officially Confirmed, And It's Sooner Than You Think",
-    "summary": "McDonalds will sell Happy Meals with a selection of 15 iconic Pokémon cards and a surprise that's been MIA for years now",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/mcdonalds-pokemon-happy-meal-dates-when-what-cards-toys-release/",
-    "timestamp": "2026-10-29T16:01:25Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/mcdonalds-pokemon-happy-meal-dates-when-what-cards-toys-release/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T16:01:25Z",
-    "id": "energy-c3f5092330289940"
-  },
-  {
-    "title": "Yakuza: Like A Dragon Is In Roblox And Seeing Kiryu Like This Weirds Me Out",
-    "summary": "Kamurocho is explorable in all its blocky glory",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/yakuza-like-a-dragon-is-in-roblox-and-seeing-kiryu-like-this-weirds-me-out-2000750948",
-    "timestamp": "2026-10-29T16:00:57Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/yakuza-like-a-dragon-is-in-roblox-and-seeing-kiryu-like-this-weirds-me-out-2000750948"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T16:00:57Z",
-    "id": "energy-0c515f1cfd6af395"
-  },
-  {
-    "title": "Decent Sampler 1.40.1 adds Kontakt import and automatic hardware sampling for FREE",
-    "summary": "Decent Samples has released Decent Sampler 1.40.1, a major update to its free sampler that adds Kontakt instrument import and an Auto Sampler for recording your hardware instruments. I previously highlighted Decent Sampler in our Kontakt alternatives comparison for its large selection of free libraries. But things just got even better, as this update also [...] View post: Decent Sampler 1.40.1 adds Kontakt import and automatic hardware sampling for FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/29/decent-sampler-kontakt-import/",
-    "timestamp": "2026-10-29T16:00:25Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/29/decent-sampler-kontakt-import/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T16:00:25Z",
-    "id": "energy-3c4a69bf0a0a55fd"
-  },
-  {
-    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=50291116",
-    "timestamp": "2026-10-29T15:56:32Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://news.ycombinator.com/item?id=50291116"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T15:56:32Z",
-    "id": "energy-715ee71386f9718b"
-  },
-  {
-    "title": "H.264 Is Magic",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://sidbala.com/h-264-is-magic/",
-    "timestamp": "2026-10-29T15:53:03Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://sidbala.com/h-264-is-magic/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T15:53:03Z",
-    "id": "energy-9347f3cc7e19a345"
-  },
-  {
-    "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-    "timestamp": "2026-10-29T15:45:05Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T15:45:05Z",
-    "id": "energy-f1f5e82a1564d30c"
-  },
-  {
-    "title": "A Sound Effect gives away the $27 Jump Scares horror sound library for FREE",
-    "summary": "A Sound Effect is giving away Jump Scares, a horror sound effects library by 344 SFX that normally costs $27, to its newsletter subscribers until Halloween night. The pack contains 100 royalty-free sounds, and the offer ends on Saturday, October 31, at 23:59 CET. Both new and existing subscribers can claim it. To get your [...] View post: A Sound Effect gives away the $27 Jump Scares horror sound library for FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/29/jump-scares-horror-sound-library/",
-    "timestamp": "2026-10-29T14:32:26Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/29/jump-scares-horror-sound-library/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-29T14:32:26Z",
-    "id": "energy-47986ae1a4bd59b9"
-  },
-  {
-    "title": "Who is the Best RLCS 3v3 Player While Having the Worst 1v1 Level",
-    "summary": "Title! Shoutout to the KNOCKOUT SERIES by FuuRy inviting prozy and osaft for reminding me of this topic, I love power-ranking 1v1 players and in my opinion it's now been thoroughly debunked that \"1v1 doesn't translate to 3v3\" as many of the best players in the world have had at least a knack for it at some point (MANY of the best even came up from it), I think it is the mode that improves a player's decision-making the most and high talents are often said to have \"Perfect play\" and great mechanics, but who is the comparatively worse 1v1 player / accolades compared to their great 3v3 level? https://preview.redd.it/u7in8sxezcyh1.png?width=900&format=png&auto=webp&s=b4dcc8b5d49313adb212af64672f19c89a24812f First 2 names that came to mind for me were BMode and Kiileerrz, though after thinking about it more Bmode does have some BO1 feats in 1v1 in Gamers8 though I'm not familiar with what Kiileerrz has presented in 1v1 as much. Obviously no disrespect to either player it's just to see who people think is the most \"purist\" 3v3/2v2 player that's not a good 1v1 player, what do you think? Small list of clear (Or at some point were) great 1s players that are established in 3v3 (Not in any o…",
+    "title": "Team Vitality announce Nass, Oski, Diaz, Eversax (C) for RLCS 2027",
+    "summary": "Tweet: https://x.com/teamvitality/status/2116198454502518922?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xidegr/who_is_the_best_rlcs_3v3_player_while_having_the/",
-    "timestamp": "2026-10-29T07:31:19Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjjnu1/team_vitality_announce_nass_oski_diaz_eversax_c/",
+    "timestamp": "2026-10-30T16:13:45Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xidegr/who_is_the_best_rlcs_3v3_player_while_having_the/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjjnu1/team_vitality_announce_nass_oski_diaz_eversax_c/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-29T07:31:19Z",
-    "id": "energy-b415e2f0ec434cf5"
+    "data_as_of": "2026-10-30T16:13:45Z",
+    "id": "energy-e53365336d6d5554"
   },
   {
-    "title": "The Purgatory of Vatira",
-    "summary": "submitted by /u/Jaygames098 [link] [comments]",
+    "title": "Team Heretics announce AtomiK, Dorito, Ajg, Braan (C) for RLCS 2027",
+    "summary": "Tweet: https://x.com/hereticsrl/status/2116198148725166140?s=46 Idk why the account doesn't have a pfp, but the real Heretics account reposted it so the announcement is real submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xiba2g/the_purgatory_of_vatira/",
-    "timestamp": "2026-10-29T05:20:29Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjjjtj/team_heretics_announce_atomik_dorito_ajg_braan_c/",
+    "timestamp": "2026-10-30T16:09:39Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xiba2g/the_purgatory_of_vatira/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjjjtj/team_heretics_announce_atomik_dorito_ajg_braan_c/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-29T05:20:29Z",
-    "id": "energy-dd28dbe3ca62172d"
+    "data_as_of": "2026-10-30T16:09:39Z",
+    "id": "energy-baefe3ea0554d393"
   },
   {
-    "title": "Throwback to one of the most unfortunate moments in rlcs [rlcs season 1]",
-    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "title": "6 Steam Games Coming Soon That Belong on Your Wishlist",
+    "summary": "The best Steam games to wishlist this week include a shooter, some cozy gems, and a twee take on volleyball.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/wishlister-oct-30/",
+    "timestamp": "2026-10-30T16:00:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/wishlister-oct-30/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T16:00:19Z",
+    "id": "energy-948971cea5140c77"
+  },
+  {
+    "title": "AI Is Forcing Reddit To Get Way Worse",
+    "summary": "A 'logged-in only experience' is coming",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/ai-is-forcing-reddit-to-get-way-worse-2000751581",
+    "timestamp": "2026-10-30T16:00:13Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/ai-is-forcing-reddit-to-get-way-worse-2000751581"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T16:00:13Z",
+    "id": "energy-ed2025836ed73e8b"
+  },
+  {
+    "title": "OpenAI Billionaire: PCs Are 'Terrible' When Data Centers Need More Memory",
+    "summary": "OpenAI's Sam Altman argues against hoarding computer chips versus giving it all to ChatGPT's data centers",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/chatgpt-open-ai-sam-altman-youtube-interview-vram-supply-cost-data/",
+    "timestamp": "2026-10-30T15:52:46Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/chatgpt-open-ai-sam-altman-youtube-interview-vram-supply-cost-data/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T15:52:46Z",
+    "id": "energy-717109a04db2c322"
+  },
+  {
+    "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "timestamp": "2026-10-30T15:52:18Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T15:52:18Z",
+    "id": "energy-6f9c6141d4f4b4c0"
+  },
+  {
+    "title": "Geist Serif",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://vercel.com/blog/introducing-geist-serif",
+    "timestamp": "2026-10-30T15:46:42Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://vercel.com/blog/introducing-geist-serif"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T15:46:42Z",
+    "id": "energy-08e1654014231004"
+  },
+  {
+    "title": "The Federated Code Forge",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://tangled.org/blog/forge/",
+    "timestamp": "2026-10-30T15:44:29Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://tangled.org/blog/forge/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T15:44:29Z",
+    "id": "energy-e5fe99d3811eb95f"
+  },
+  {
+    "title": "Call Of Duty: Modern Warfare 4 Promises To Remove Offensive Footage Of Korean Tragedy After Backlash",
+    "summary": "The game’s intro uses videos from a 2022 incident that killed 160 people to set the tone for its fictional war",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/call-of-duty-modern-warfare-4-itaewon-2022-intro-patch-2000751584",
+    "timestamp": "2026-10-30T15:30:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/call-of-duty-modern-warfare-4-itaewon-2022-intro-patch-2000751584"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T15:30:19Z",
+    "id": "energy-acdf531ef559c5b2"
+  },
+  {
+    "title": "All Gamers announce Oaly, Archie, Joyo, Eekso (C) for RLCS 2027",
+    "summary": "Tweet: https://x.com/agglobalesports/status/2116180672289362311?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xiav1z/throwback_to_one_of_the_most_unfortunate_moments/",
-    "timestamp": "2026-10-29T04:56:34Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjicfi/all_gamers_announce_oaly_archie_joyo_eekso_c_for/",
+    "timestamp": "2026-10-30T15:25:04Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xiav1z/throwback_to_one_of_the_most_unfortunate_moments/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjicfi/all_gamers_announce_oaly_archie_joyo_eekso_c_for/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-10-29T04:56:34Z",
-    "id": "energy-c164baf22100fd3a"
+    "data_as_of": "2026-10-30T15:25:04Z",
+    "id": "energy-a964dec9e583c96b"
+  },
+  {
+    "title": "Plugin Boutique offers Reaktor Prism, Evolve Elastic Lite, and ReSing SE as FREE November gifts",
+    "summary": "Plugin Boutique’s November promotion offers Reaktor Prism, Evolve Elastic Lite, and ReSing SE for free with qualifying purchases. Any paid purchase lets you pick either Prism or Elastic Lite, with no minimum spend. To unlock ReSing SE, you’ll need to spend at least $49. That said, keep in mind that all of these are purchase [...] View post: Plugin Boutique offers Reaktor Prism, Evolve Elastic Lite, and ReSing SE as FREE November gifts",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/30/plugin-boutique-nov-26-gifts/",
+    "timestamp": "2026-10-30T14:48:22Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/30/plugin-boutique-nov-26-gifts/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T14:48:22Z",
+    "id": "energy-1a493b2ef0d05a10"
+  },
+  {
+    "title": "simpleTapeStop is a FREE tape stop plugin for macOS, Windows, and Linux",
+    "summary": "simpleSoundbank has released simpleTapeStop, a free tape stop and reverse effect for macOS, Windows, and Linux. We’ve covered quite a few other free tape stop plugins recently, like cStop and TapeFi STOP. There’s also the fantastic TimeStop from Cableguys, which costs $16. With simpleTapeStop, the twist is that releasing Stop speeds the audio back up [...] View post: simpleTapeStop is a FREE tape stop plugin for macOS, Windows, and Linux",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/30/simpletapestop/",
+    "timestamp": "2026-10-30T14:36:43Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/30/simpletapestop/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T14:36:43Z",
+    "id": "energy-827fa886bea4266f"
+  },
+  {
+    "title": "MISO Forecasts Sufficient Generating Capacity To Meet Winter Peak Power Demand",
+    "summary": "By Ronnie Turner • Anticipates winter peak demand of about 107 GW • 134.7 GW of capacity offered in planning resource auction The Midcontinent Independent System Operator projects that it will have sufficient generating capacity to meet power demand this winter amid forecasts of above-normal temperatures across much of its footprint. The grid operator on […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/miso-forecasts-sufficient-generating-capacity-to-meet-winter-peak-power-demand/",
+    "timestamp": "2026-10-30T14:33:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/miso-forecasts-sufficient-generating-capacity-to-meet-winter-peak-power-demand/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-30T14:33:28Z",
+    "id": "energy-125015ad56c9e8f1"
+  },
+  {
+    "title": "Past And Present OMS Regulators Seek Multi-RTO Platform To Coax Interregional Planning",
+    "summary": "By Amanda Durish Cook Past and present MISO state utility commissioners are discussing the possibility of reconstituting a group that would bring together regulators from the MISO and SPP footprints to help move the needle on interregional planning. Why This Matters OMS regulators are looking to give MISO and SPP’s lagging interregional planning efforts a […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/past-and-present-oms-regulators-seek-multi-rto-platform-to-coax-interregional-planning/",
+    "timestamp": "2026-10-30T14:32:56Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/past-and-present-oms-regulators-seek-multi-rto-platform-to-coax-interregional-planning/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-30T14:32:56Z",
+    "id": "energy-1e7835a7e5e954fa"
+  },
+  {
+    "title": "MISO Awards $1.23 Billion Iowa Transmission Project To Ameren, GridLiance, And Dairyland Power Cooperative Consortium",
+    "summary": "By Kelly Lippke Three companies will jointly build one of the Midwest’s most significant new power lines in years. On October 22, 2026, MISO selected a consortium of Ameren Transmission Company of Illinois, GridLiance Heartland, and Dairyland Power Cooperative to develop, build, operate, and maintain the East Adair – Minnesota/Iowa State Line – Arbor Hill […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/10/miso-awards-1-23-billion-iowa-transmission-project-to-ameren-gridliance-and-dairyland-power-cooperative-consortium/",
+    "timestamp": "2026-10-30T14:32:22Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/10/miso-awards-1-23-billion-iowa-transmission-project-to-ameren-gridliance-and-dairyland-power-cooperative-consortium/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-10-30T14:32:22Z",
+    "id": "energy-b59de7f8b0ab0766"
+  },
+  {
+    "title": "Vitric Audio releases Colorfield Mix Stage, a visual room placement plugin",
+    "summary": "Vitric Audio has released Colorfield Mix Stage, a mixing plugin that lets you position your tracks together inside a virtual room. Colorfield Mix Stage costs $29 until November 19, 2026, before rising to its regular $99 price. And you might remember Vitric Audio from Bevel EQ, which we covered during its free launch offer in September. [...] View post: Vitric Audio releases Colorfield Mix Stage, a visual room placement plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/30/vitric-audio-colorfield-mix-stage/",
+    "timestamp": "2026-10-30T14:20:53Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/30/vitric-audio-colorfield-mix-stage/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T14:20:53Z",
+    "id": "energy-1772f6f47ce82b8c"
+  },
+  {
+    "title": "The (climate) case against (AI) data centers",
+    "summary": "A conversation with Ketan Joshi.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/the-climate-case-against-ai-data",
+    "timestamp": "2026-10-30T10:06:37Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/the-climate-case-against-ai-data"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-10-30T10:06:37Z",
+    "id": "energy-5963a23350edca42"
   },
   {
     "title": "The PAC taking out clean energy opponents",
@@ -349,68 +430,5 @@
     "primary_source": true,
     "data_as_of": "2026-10-28T04:00:00Z",
     "id": "energy-563233744f3f35e6"
-  },
-  {
-    "title": "Clean Energy Groups, States Oppose MISO’s Large Load-Generation Study Plan",
-    "summary": "By Ethan Howland Dive Brief: • Clean energy trade groups, ratepayer advocates and 11 out of 15 states in the Midcontinent Independent System Operator’s territory urged federal regulators on Friday to reject the grid operator’s proposal to fast-track combined large load and generation interconnection studies. • In general, they said the Large Load Addition Resource […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/clean-energy-groups-states-oppose-misos-large-load-generation-study-plan/",
-    "timestamp": "2026-10-27T14:37:35Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/clean-energy-groups-states-oppose-misos-large-load-generation-study-plan/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-27T14:37:35Z",
-    "id": "energy-827dd9be7aac801e"
-  },
-  {
-    "title": "FERC Approves New Rules, Penalties For Demand Response In MISO",
-    "summary": "By James Downing FERC approved MISO’s proposed changes to the penalties for load-modifying resources (LMRs), including demand response resources dually registered as LMRs that fail to meet their obligations (ER26-1882-001). LMRs commit to respond to emergencies when called on by MISO. They fall into two categories: demand resources and behind-the-meter generation. Demand resources include any […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/ferc-approves-new-rules-penalties-for-demand-response-in-miso/",
-    "timestamp": "2026-10-27T14:36:54Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/ferc-approves-new-rules-penalties-for-demand-response-in-miso/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-27T14:36:54Z",
-    "id": "energy-9882c5ef680c6446"
-  },
-  {
-    "title": "Consumer Advocates, Others Protest MISO Plan For Pairing Large Loads, Generation",
-    "summary": "By Thomas Tiernan • Critics say plan enables queue jumping • Utilities seen as having too much control Consumer advocates, multiple state regulators in the Midcontinent Independent System Operator region and others have filed protests with federal regulators on MISO’s proposal to expedite reviews of large loads paired with generation projects. While the Data Center […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/10/consumer-advocates-others-protest-miso-plan-for-pairing-large-loads-generation/",
-    "timestamp": "2026-10-27T14:36:16Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/10/consumer-advocates-others-protest-miso-plan-for-pairing-large-loads-generation/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-10-27T14:36:16Z",
-    "id": "energy-48a2fb93667a8b57"
   }
 ]

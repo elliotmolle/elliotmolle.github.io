@@ -1,16 +1,85 @@
 [
   {
-    "title": "New nuclear builds, SMR developments in Canada, Turkey, Philippines, Thailand",
-    "summary": "News from the international nuclear stage continues to flow at a steady pace, with recent happenings in Canada, Turkey, the Philippines, and Thailand. Here is the latest from Nuclear News’s international coverage.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-29/article-8529/new-nuclear-builds-smr-developments-in-canada-turkey-philippines-thailand/",
-    "timestamp": "2026-10-29T15:50:25Z",
+    "title": "Entergy Arkansas Wins MarCom Gold Award for This Is Home Magazine",
+    "summary": "Entergy Arkansas has been named a 2026 MarCom Gold Award winner for This Is Home – Issue One, our Energy Efficiency magazine. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-arkansas-wins-marcom-gold-award-for-this-is-home-magazine",
+    "timestamp": "2026-10-30T14:52:21Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-10-29/article-8529/new-nuclear-builds-smr-developments-in-canada-turkey-philippines-thailand/"
+      "https://www.entergy.com/blog/entergy-arkansas-wins-marcom-gold-award-for-this-is-home-magazine"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-30T14:52:21Z",
+    "id": "energy-46d53b5ea45afda6"
+  },
+  {
+    "title": "IAEA Urges Kenya To Finalise Policies On Radioactive Waste Management",
+    "summary": "Kenya should finalise national policies on radioactive waste management and strengthen regulatory independence as it prepares to introduce nuclear power, an International Atomic Energy Agency (IAEA) review mission has said. The IAEA said an international team had recognised “considerable progress” in the east African nation’s radioactive waste management programme in recent years, but identified areas requiring further development.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/iaea-urges-kenya-to-finalise-policies-on-radioactive-waste-management-10-5-2026",
+    "timestamp": "2026-10-30T13:53:33Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/iaea-urges-kenya-to-finalise-policies-on-radioactive-waste-management-10-5-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-30T13:53:33Z",
+    "id": "energy-a1d28407f5d38cd4"
+  },
+  {
+    "title": "Entergy to participate in EEI Financial Conference",
+    "summary": "Entergy Chair and CEO Drew Marsh and senior leaders will meet with investors at the Edison Electric Institute Financial Conference, held Nov. 8-10. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-to-participate-in-eei-financial-conference-2",
+    "timestamp": "2026-10-30T13:00:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-to-participate-in-eei-financial-conference-2"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-30T13:00:44Z",
+    "id": "energy-b4d4321c412c9beb"
+  },
+  {
+    "title": "ANS webinar gives an overview of nuclear structural engineering",
+    "summary": "The American Nuclear Society recently hosted the latest webinar in its ongoing Educator Training series. This newest installment featured Christine Roy, a structural engineer at Simpson, Gumpertz & Heger, who led a presentation titled “Building Nuclear: How Structural Engineers Shape Nuclear Energy Infrastructure.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-30/article-8530/ans-webinar-gives-an-overview-of-nuclear-structural-engineering/",
+    "timestamp": "2026-10-30T12:22:10Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-30/article-8530/ans-webinar-gives-an-overview-of-nuclear-structural-engineering/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +87,161 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-10-29T15:50:25Z",
-    "id": "energy-608f43a44de265e6"
+    "data_as_of": "2026-10-30T12:22:10Z",
+    "id": "energy-295f48958834d721"
+  },
+  {
+    "title": "Managing distributed energy resource aggregation data: Self-paced training available",
+    "summary": "The Distributed Energy Resource (DER) Data Dictionary and Field Reference Guide is also available. The post Managing distributed energy resource aggregation data: Self-paced training available appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/30/managing-distributed-energy-resource-aggregation-data-self-paced-training-available/",
+    "timestamp": "2026-10-30T12:16:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/30/managing-distributed-energy-resource-aggregation-data-self-paced-training-available/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-30T12:16:00Z",
+    "id": "energy-57bd742abc2a4934"
+  },
+  {
+    "title": "Capacity market participation for distributed energy resource aggregations: Training materials available",
+    "summary": "FERC Order No. 2222 allows DERAs to participate in the region's wholesale electricity markets. The post Capacity market participation for distributed energy resource aggregations: Training materials available appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/30/capacity-market-participation-for-distributed-energy-resource-aggregations-training-materials-available/",
+    "timestamp": "2026-10-30T12:12:06Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/30/capacity-market-participation-for-distributed-energy-resource-aggregations-training-materials-available/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-30T12:12:06Z",
+    "id": "energy-f2ced442a9c7f219"
+  },
+  {
+    "title": "Training resources address utility impacts of distributed energy resource aggregations",
+    "summary": "DERAs will soon begin participating in ISO New England’s wholesale electricity markets under FERC Order No. 2222. The post Training resources address utility impacts of distributed energy resource aggregations appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/30/training-resources-address-utility-impacts-of-distributed-energy-resource-aggregations/",
+    "timestamp": "2026-10-30T12:08:18Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/30/training-resources-address-utility-impacts-of-distributed-energy-resource-aggregations/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-30T12:08:18Z",
+    "id": "energy-ffdac8d5cbb188b6"
+  },
+  {
+    "title": "South Korea’s KHNP Breaks Off Construction Contract Talks On Dukovany Reactor Project",
+    "summary": "Korea Hydro & Nuclear Power (KHNP) has broken off construction contract talks with a Daewoo Engineering & Construction-led consortium for a $18.6bn (€16.5bn) project to build two new nuclear plants at the Dukovany site in the Czech Republic. The state-run nuclear operator said on Thursday (29 October) it would move to terminate its cooperation agreement with the consortium, which includes Doosan Enerbility, and launch a new bidding process to find a replacement contractor. Reports in South Korea said the breakdown followed more than a year of talks over construction costs and who should bear the financial burden of design changes. According to industry sources, KHNP demanded a cut of more than 10% from the consortium’s original bid, equivalent to over $750m.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/south-korea-s-khnp-breaks-off-construction-contract-talks-on-dukovany-reactor-project-10-5-2026",
+    "timestamp": "2026-10-30T11:06:29Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/south-korea-s-khnp-breaks-off-construction-contract-talks-on-dukovany-reactor-project-10-5-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-10-30T11:06:29Z",
+    "id": "energy-1f42e8337bb872c9"
+  },
+  {
+    "title": "DOE’s ARPA-E selects eight transuranic fuel development projects",
+    "summary": "The Department of Energy’s Advanced Research Projects Agency–Energy (ARPA-E) division has chosen eight research projects to receive funding as part of its High-Performance Optimized Recycled Nuclear Isotopes for Gen IV Reactors (HORNIG) program. The program, announced in April, seeks to advance Executive Order 14302, “Reinvigorating the Nuclear Industrial Base,” by supporting projects that will develop fuel technology for advanced nuclear reactors. The projects selected for HORNIG will explore ways to repurpose materials from used nuclear fuel inventories—specifically the transuranic waste elements derived from nuclear weapons production, including plutonium—in the domestic production of fuel for commercial reactors.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-29/article-8532/does-arpae-selects-eight-transuranic-fuel-development-projects/",
+    "timestamp": "2026-10-29T21:21:50Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-29/article-8532/does-arpae-selects-eight-transuranic-fuel-development-projects/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-29T21:21:50Z",
+    "id": "energy-08e9b781de16280c"
+  },
+  {
+    "title": "ACP Letter to the PJM Board regarding PJM’s Combined Queue Process",
+    "summary": "Updated Date: 10.29.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20271029-acp-letter-to-the-pjm-board-re-pjms-combined-queue-process.pdf",
+    "timestamp": "2026-10-29T20:40:08Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20271029-acp-letter-to-the-pjm-board-re-pjms-combined-queue-process.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-10-29T20:40:08Z",
+    "id": "energy-a92c38fda4323ea6"
+  },
+  {
+    "title": "Walsh, industry reps discuss “American energy hub” at Oak Ridge cleanup site",
+    "summary": "On October 27, Tim Walsh, assistant secretary for the Department of Energy’s Office of Environmental Management, gathered with industry representatives at the former site of the Oak Ridge Gaseous Diffusion Plant to showcase several nuclear energy projects in development near the site.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-29/article-8531/walsh-industry-reps-discuss-american-energy-hub-at-oak-ridge-cleanup-site/",
+    "timestamp": "2026-10-29T17:36:32Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-29/article-8531/walsh-industry-reps-discuss-american-energy-hub-at-oak-ridge-cleanup-site/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-29T17:36:32Z",
+    "id": "energy-cefa68ba376e3738"
   },
   {
     "title": "Russia Begins Fuel Deliveries For First Load At Rooppur-2 Nuclear Plant",
@@ -41,92 +263,6 @@
     ],
     "data_as_of": "2026-10-29T14:03:39Z",
     "id": "energy-a27f2532d2bb6a92"
-  },
-  {
-    "title": "Nano Nuclear Signs MOU With Hyundai Engineering On US University Project",
-    "summary": "Advanced nuclear energy and technology company Nano Nuclear Energy announced that it has signed a memorandum of understanding with Hyundai Engineering to establish a framework for potential collaboration to advance the Kronos MMR (micro-modular reactor) energy system project at the University of Illinois Urbana-Champaign and to evaluate broader cooperation on future manufacturing and deployment. New York-based Nano said the MOU brings together its advanced reactor development programme with South Korea-based Hyundai Engineering capabilities including engineering, procurement, construction and project-management. The two companies initially intend to focus on areas including project-execution planning, conventional and site-related work, procurement readiness, supply-chain development and US localisation planning for the University of Illinois Urbana-Champaign project.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/nano-nuclear-signs-mou-with-hyundai-engineering-on-us-university-project-10-4-2026",
-    "timestamp": "2026-10-29T13:40:14Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/nano-nuclear-signs-mou-with-hyundai-engineering-on-us-university-project-10-4-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-29T13:40:14Z",
-    "id": "energy-33e70f3208b07a95"
-  },
-  {
-    "title": "NN asks: What is the role of online monitoring in plant maintenance?",
-    "summary": "Adam Deatherage The role of online monitoring in plant maintenance is not simply to collect more data. It’s also to provide the information needed to make better maintenance decisions and more efficiently allocate critical craft resources. Historically, the nuclear industry has approached maintenance and surveillance testing activities on a calendar basis (quarterly, every outage, etc.). While this has been effective and straightforward to implement, 50-plus years of operating history has shown that many of these test intervals are overly conservative, resulting in what I’ve heard referred to as “recreational maintenance,” or maintenance activities that don’t actually add to the plant’s safety or reliability. Online monitoring enables a shift to condition-based maintenance, where real plant data can be used to demonstrate that surveillance can be extended and maintenance activities can be reduced. It also can provide early indication of component degradation.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-29/article-8408/what-is-the-role-of-online-monitoring-in-plant-maintenance/",
-    "timestamp": "2026-10-29T12:12:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-29/article-8408/what-is-the-role-of-online-monitoring-in-plant-maintenance/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-29T12:12:59Z",
-    "id": "energy-c562a789ebf257a5"
-  },
-  {
-    "title": "Fusion companies sign LOIs for federal R&D awards",
-    "summary": "The Department of Commerce announced the signing of four letters of intent for federal research and development awards under the CHIPS and Science Act focused on semiconductors and power electronics, including awards for fusion companies Helion and Commonwealth Fusion Systems.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-28/article-8526/fusion-companies-sign-lois-for-federal-rd-awards/",
-    "timestamp": "2026-10-28T20:37:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-28/article-8526/fusion-companies-sign-lois-for-federal-rd-awards/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-28T20:37:42Z",
-    "id": "energy-31ebad3bdcc8763c"
-  },
-  {
-    "title": "US Agency Signs Agreement With Oil Company On Study Into SMRs For Turkey",
-    "summary": "The US Trade and Development Agency (USTDA) has signed an agreement with Turkish oil refiner Tüpraş to fund a study into the potential use of small modular reactors (SMRs) to supply electricity, heat and steam for refinery operations. According to the USTDA, the proposed study will evaluate several US reactor technologies, including their technical and economic feasibility, environmental performance, regulatory requirements and potential industrial applications. The agreement is also expected to develop a roadmap to support Tüpraş in deciding whether to proceed with SMR deployment.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/us-agency-signs-agreement-with-oil-company-on-study-into-smrs-for-turkey-10-3-2026",
-    "timestamp": "2026-10-28T15:19:59Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/us-agency-signs-agreement-with-oil-company-on-study-into-smrs-for-turkey-10-3-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-28T15:19:59Z",
-    "id": "energy-e7f8fe4ac2ed3ed9"
   },
   {
     "title": "Power safely restored to Entergy Mississippi customers",
@@ -177,53 +313,5 @@
     ],
     "data_as_of": "2026-10-28T12:13:05Z",
     "id": "energy-4eac96538c22d903"
-  },
-  {
-    "title": "Entergy Mississippi responds to Lawrence County wildfire",
-    "summary": "Entergy Mississippi has de-energized distribution lines that serve approximately 179 customers in Lawrence County near Monticello due to the spreading wildfire in the area. The temporary power outage is expected to last until approximately 7 p.m., though the outage could be extended until conditions are safe. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/entergy-mississippi-responds-to-lawrence-county-wildfire",
-    "timestamp": "2026-10-27T23:22:51Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/entergy-mississippi-responds-to-lawrence-county-wildfire"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-27T23:22:51Z",
-    "id": "energy-287b81040c4c6dd5"
-  },
-  {
-    "title": "Entergy Louisiana launches $2 million bill credit program for eligible customers",
-    "summary": "Entergy Louisiana is launching a $2 million bill assistance program to help residential customers manage higher household costs. Beginning Oct. 28 at 9 a.m., eligible customers can apply for a one-time $100 bill credit issued through their local United Way. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-louisiana-launches-2-million-bill-credit-program-for-eligible-customers",
-    "timestamp": "2026-10-27T16:03:48Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-louisiana-launches-2-million-bill-credit-program-for-eligible-customers"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-27T16:03:48Z",
-    "id": "energy-b7f7a5ab89683758"
   }
 ]
