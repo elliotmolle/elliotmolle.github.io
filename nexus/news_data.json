@@ -1,5 +1,117 @@
 [
   {
+    "title": "How D.C. Cook built a culture of excellence and continuous improvement",
+    "summary": "When the D.C. Cook nuclear power plant received the Utilities Service Alliance (USA) Optimizer Award for the second year in a row at the 2026 USA Executive Summit, it served as validation of a broad transformation that challenged long-standing assumptions, strengthened supplier partnerships, and reshaped how the station views continuous improvement across organizational boundaries. For Cook, it’s a story of how a supply chain team of 61 individuals working with hundreds of suppliers confronted changing industry conditions, recognized that historical methods were no longer producing the desired results, and deliberately created a culture focused on accountability, partnership, learning, and continuous improvement. The plant’s supply chain leadership team often reflects on a simple truth: Winning once demonstrates innovation. Winning twice demonstrates that continuous improvement has become part of who we are.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-30/article-8414/how-dc-cook-built-a-culture-of-excellence-and-continuous-improvement/",
+    "timestamp": "2026-10-30T22:01:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-30/article-8414/how-dc-cook-built-a-culture-of-excellence-and-continuous-improvement/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-30T22:01:36Z",
+    "id": "energy-a2f950c976ef5fa2"
+  },
+  {
+    "title": "NRC finalizes rule setting time limits for contested hearings",
+    "summary": "Contested hearings on license applications could be completed within six months under a rule the Nuclear Regulatory Commission finalized today.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-30/article-8546/nrc-finalizes-rule-setting-time-limits-for-contested-hearings/",
+    "timestamp": "2026-10-30T21:00:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-30/article-8546/nrc-finalizes-rule-setting-time-limits-for-contested-hearings/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-30T21:00:21Z",
+    "id": "energy-7187280d22c8fb21"
+  },
+  {
+    "title": "Entergy increases quarterly dividend payment to shareholders",
+    "summary": "Entergy’s board of directors today declared a quarterly dividend of $0.68 per share on the company’s common stock, an increase of $0.04 per share. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-increases-quarterly-dividend-payment-to-shareholders-2",
+    "timestamp": "2026-10-30T20:20:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-increases-quarterly-dividend-payment-to-shareholders-2"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-10-30T20:20:27Z",
+    "id": "energy-2be1eb1a82a0ce9e"
+  },
+  {
+    "title": "A new current drive option for tokamak-based power plants",
+    "summary": "Researchers at the DIII-D National Fusion Facility published a Physical Review Letters (PRL) paper describing the first experimental confirmation of helicon current drive, a method that could be used to operate a steady state tokamak in regimes that would be used for fusion power.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-10-30/article-8545/a-new-current-drive-option-for-tokamakbased-power-plants/",
+    "timestamp": "2026-10-30T19:13:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-10-30/article-8545/a-new-current-drive-option-for-tokamakbased-power-plants/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-10-30T19:13:00Z",
+    "id": "energy-8db0129184d47d0c"
+  },
+  {
+    "title": "Monthly wholesale electricity prices and demand in New England, September 2026",
+    "summary": "Wholesale prices were up in both the day-ahead and the real-time markets in September. The post Monthly wholesale electricity prices and demand in New England, September 2026 appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/10/30/monthly-wholesale-electricity-prices-and-demand-in-new-england-september-2026/",
+    "timestamp": "2026-10-30T18:32:37Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/10/30/monthly-wholesale-electricity-prices-and-demand-in-new-england-september-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-10-30T18:32:37Z",
+    "id": "energy-b36948ba9bb71391"
+  },
+  {
     "title": "Entergy Arkansas Wins MarCom Gold Award for This Is Home Magazine",
     "summary": "Entergy Arkansas has been named a 2026 MarCom Gold Award winner for This Is Home – Issue One, our Energy Efficiency magazine. Source",
     "source": "Entergy",
@@ -69,28 +181,6 @@
     "id": "energy-b4d4321c412c9beb"
   },
   {
-    "title": "ANS webinar gives an overview of nuclear structural engineering",
-    "summary": "The American Nuclear Society recently hosted the latest webinar in its ongoing Educator Training series. This newest installment featured Christine Roy, a structural engineer at Simpson, Gumpertz & Heger, who led a presentation titled “Building Nuclear: How Structural Engineers Shape Nuclear Energy Infrastructure.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-30/article-8530/ans-webinar-gives-an-overview-of-nuclear-structural-engineering/",
-    "timestamp": "2026-10-30T12:22:10Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-30/article-8530/ans-webinar-gives-an-overview-of-nuclear-structural-engineering/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-30T12:22:10Z",
-    "id": "energy-295f48958834d721"
-  },
-  {
     "title": "Managing distributed energy resource aggregation data: Self-paced training available",
     "summary": "The Distributed Energy Resource (DER) Data Dictionary and Field Reference Guide is also available. The post Managing distributed energy resource aggregation data: Self-paced training available appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -135,28 +225,6 @@
     "id": "energy-f2ced442a9c7f219"
   },
   {
-    "title": "Training resources address utility impacts of distributed energy resource aggregations",
-    "summary": "DERAs will soon begin participating in ISO New England’s wholesale electricity markets under FERC Order No. 2222. The post Training resources address utility impacts of distributed energy resource aggregations appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/10/30/training-resources-address-utility-impacts-of-distributed-energy-resource-aggregations/",
-    "timestamp": "2026-10-30T12:08:18Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/10/30/training-resources-address-utility-impacts-of-distributed-energy-resource-aggregations/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-10-30T12:08:18Z",
-    "id": "energy-ffdac8d5cbb188b6"
-  },
-  {
     "title": "South Korea’s KHNP Breaks Off Construction Contract Talks On Dukovany Reactor Project",
     "summary": "Korea Hydro & Nuclear Power (KHNP) has broken off construction contract talks with a Daewoo Engineering & Construction-led consortium for a $18.6bn (€16.5bn) project to build two new nuclear plants at the Dukovany site in the Czech Republic. The state-run nuclear operator said on Thursday (29 October) it would move to terminate its cooperation agreement with the consortium, which includes Doosan Enerbility, and launch a new bidding process to find a replacement contractor. Reports in South Korea said the breakdown followed more than a year of talks over construction costs and who should bear the financial burden of design changes. According to industry sources, KHNP demanded a cut of more than 10% from the consortium’s original bid, equivalent to over $750m.",
     "source": "NucNet: Global Nuclear News",
@@ -176,28 +244,6 @@
     ],
     "data_as_of": "2026-10-30T11:06:29Z",
     "id": "energy-1f42e8337bb872c9"
-  },
-  {
-    "title": "DOE’s ARPA-E selects eight transuranic fuel development projects",
-    "summary": "The Department of Energy’s Advanced Research Projects Agency–Energy (ARPA-E) division has chosen eight research projects to receive funding as part of its High-Performance Optimized Recycled Nuclear Isotopes for Gen IV Reactors (HORNIG) program. The program, announced in April, seeks to advance Executive Order 14302, “Reinvigorating the Nuclear Industrial Base,” by supporting projects that will develop fuel technology for advanced nuclear reactors. The projects selected for HORNIG will explore ways to repurpose materials from used nuclear fuel inventories—specifically the transuranic waste elements derived from nuclear weapons production, including plutonium—in the domestic production of fuel for commercial reactors.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-29/article-8532/does-arpae-selects-eight-transuranic-fuel-development-projects/",
-    "timestamp": "2026-10-29T21:21:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-29/article-8532/does-arpae-selects-eight-transuranic-fuel-development-projects/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-29T21:21:50Z",
-    "id": "energy-08e9b781de16280c"
   },
   {
     "title": "ACP Letter to the PJM Board regarding PJM’s Combined Queue Process",
@@ -222,28 +268,6 @@
     "id": "energy-a92c38fda4323ea6"
   },
   {
-    "title": "Walsh, industry reps discuss “American energy hub” at Oak Ridge cleanup site",
-    "summary": "On October 27, Tim Walsh, assistant secretary for the Department of Energy’s Office of Environmental Management, gathered with industry representatives at the former site of the Oak Ridge Gaseous Diffusion Plant to showcase several nuclear energy projects in development near the site.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-10-29/article-8531/walsh-industry-reps-discuss-american-energy-hub-at-oak-ridge-cleanup-site/",
-    "timestamp": "2026-10-29T17:36:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-10-29/article-8531/walsh-industry-reps-discuss-american-energy-hub-at-oak-ridge-cleanup-site/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-10-29T17:36:32Z",
-    "id": "energy-cefa68ba376e3738"
-  },
-  {
     "title": "Russia Begins Fuel Deliveries For First Load At Rooppur-2 Nuclear Plant",
     "summary": "Russia’s state-owned nuclear corporation Rosatom has begun delivering nuclear fuel for the initial loading of Unit 2 at Bangladesh’s Rooppur nuclear power station, a statement said. Rosatom said that it had completed a first shipment of fuel assemblies manufactured by its Novosibirsk Chemical Concentrates Plant in Russia. The fuel was transported to Bangladesh on a dedicated cargo flight. The company said the fuel containers had been transferred to a storage facility at Rooppur, where the assemblies undergo visual and technical inspections before they can be loaded into the reactor.",
     "source": "NucNet: Global Nuclear News",
@@ -263,55 +287,5 @@
     ],
     "data_as_of": "2026-10-29T14:03:39Z",
     "id": "energy-a27f2532d2bb6a92"
-  },
-  {
-    "title": "Power safely restored to Entergy Mississippi customers",
-    "summary": "Entergy Mississippi has restored power to the customers in Lawrence County near Monticello, due to the wildfire in the area. Approximately 179 customers were originally taken offline as a proactive safety measure to help protect the public from wildfire hazards. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/stormcenter/power-safely-restored-to-entergy-mississippi-customers",
-    "timestamp": "2026-10-28T14:48:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/stormcenter/power-safely-restored-to-entergy-mississippi-customers"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-10-28T14:48:02Z",
-    "id": "energy-4f9eb9cc13e14dfc"
-  },
-  {
-    "title": "4th Quarter 2026 Earnings Webcast",
-    "summary": "4th Quarter 2026 Earnings Webcast Kim Leonard Wed, 10/28/2026 - 08:13 GE Vernova leadership team will present. Date Wed, 01/27/2027 - 07:30 - Wed, 01/27/2027 - 08:30 Event Occured No Dark theme Off Show on Masthead Off Past event description GE Vernova leadership team presented. show Event Panel Off",
-    "source": "GE Vernova | The Energy of Change",
-    "url": "https://www.gevernova.com/investors/events/4th-quarter-2026-earnings-webcast",
-    "timestamp": "2026-10-28T12:13:05Z",
-    "topic": "Energy",
-    "category": "Company News",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.gevernova.com/investors/events/4th-quarter-2026-earnings-webcast"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "GE Vernova",
-      "GE-Hitachi",
-      "GE"
-    ],
-    "tickers": [
-      "GEV"
-    ],
-    "data_as_of": "2026-10-28T12:13:05Z",
-    "id": "energy-4eac96538c22d903"
   }
 ]
