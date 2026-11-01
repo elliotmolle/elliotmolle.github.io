@@ -1,39 +1,246 @@
 [
   {
-    "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct",
-    "summary": "While there were no new games announced, the Direct provided updates for the upcoming edition of Pikmin 4, Pikmin Bloom and crocheted hats",
+    "title": "Mario-Dressed Speedrunner Breaks World Super Mario Bros. Record On Halloween Stream: ‘Can I Please Break Character’",
+    "summary": "The record-smashing Niftski seems to credit the dress-up routine with taking an edge off, bringing him two frames away from a perfect run",
     "source": "Kotaku",
-    "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
-    "timestamp": "2026-10-31T15:21:38Z",
+    "url": "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087",
+    "timestamp": "2026-11-01T16:28:46Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948"
+      "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-31T15:21:38Z",
-    "id": "energy-9ddfa76a7fe0a0c2"
+    "data_as_of": "2026-11-01T16:28:46Z",
+    "id": "energy-6f5536c3ceb8d837"
   },
   {
-    "title": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart",
-    "summary": "No Man's Sky players are honoring late Star Trek actor Patrick Stewart by naming planets and star systems after him.",
+    "title": "A Persona 1 Remake Is In Development, New Leak Suggests",
+    "summary": "Persona games really do have a bad habit of leaking ahead of their reveals, as gameplay of a Revelations: Persona remake has surfaced",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/no-mans-sky-players-patrick-stewart-memorial-star-systems/",
-    "timestamp": "2026-10-31T15:18:18Z",
+    "url": "https://www.polygon.com/persona-1-remake-leak/",
+    "timestamp": "2026-11-01T16:14:13Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/no-mans-sky-players-patrick-stewart-memorial-star-systems/"
+      "https://www.polygon.com/persona-1-remake-leak/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-10-31T15:18:18Z",
-    "id": "energy-1d7f2c65f5cc7260"
+    "data_as_of": "2026-11-01T16:14:13Z",
+    "id": "energy-de868ed358830789"
+  },
+  {
+    "title": "EU Newgen Vs Mena Newgen",
+    "summary": "EU new/nex gen consist of - Rebmob,osaft,reyyn etc. Mena- Warden,Raddah,Abaan etc which pool of players do you guys think is better? (1v1 ONLY) submitted by /u/eNot_O [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xl6vih/eu_newgen_vs_mena_newgen/",
+    "timestamp": "2026-11-01T16:08:01Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xl6vih/eu_newgen_vs_mena_newgen/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-01T16:08:01Z",
+    "id": "energy-f4c59eae7f52286f"
+  },
+  {
+    "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://hackerbooks.org/",
+    "timestamp": "2026-11-01T15:58:28Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://hackerbooks.org/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-01T15:58:28Z",
+    "id": "energy-e154cf1815b48a8a"
+  },
+  {
+    "title": "Itch.io Reveals Just How Much AI Slop Is Flooding Gaming Storefronts",
+    "summary": "The number of new game pages being created daily has doubled in the past two months, itch.io confirmed",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/",
+    "timestamp": "2026-11-01T15:36:02Z",
+    "topic": "Gaming",
+    "category": "AI",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/itch-io-doubled-game-pages-ai-slop/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-01T15:36:02Z",
+    "id": "energy-1263f082a201049a"
+  },
+  {
+    "title": "Enlightenment 0.28.0 Release",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+    "timestamp": "2026-11-01T15:26:06Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-01T15:26:06Z",
+    "id": "energy-d43314bd3257b66b"
+  },
+  {
+    "title": "New Fortnite Item Makes Everything on the Item Shop Completely Free",
+    "summary": "There's a rare item in Fortnite that grants free Item Shop cosmetics for two weeks, as part of the new One Piece season.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get/",
+    "timestamp": "2026-11-01T15:14:23Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-01T15:14:23Z",
+    "id": "energy-3a28395221e82a74"
+  },
+  {
+    "title": "Valve’s Cancelled Portal Prequel F-Stop Has Leaked",
+    "summary": "Three separate Valve leaks have been combined a fully playable version of the cancelled 2007 game F-Stop",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082",
+    "timestamp": "2026-11-01T15:00:43Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-01T15:00:43Z",
+    "id": "energy-06b7ccef992710e4"
+  },
+  {
+    "title": "Vatira: I think Zen didn't necessarily have the top teammates he could have had, and that's okay.",
+    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xl4nzo/vatira_i_think_zen_didnt_necessarily_have_the_top/",
+    "timestamp": "2026-11-01T14:38:24Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xl4nzo/vatira_i_think_zen_didnt_necessarily_have_the_top/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-01T14:38:24Z",
+    "id": "energy-9d41514f551e5449"
+  },
+  {
+    "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+    "timestamp": "2026-11-01T14:36:13Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-01T14:36:13Z",
+    "id": "energy-c93fdf322861e45a"
+  },
+  {
+    "title": "BeastMode at Gamers8 2023 vs London 2024: Which was his best LAN?",
+    "summary": "The 2024 RLCS London Major is probably the first event that comes to mind when discussing BeastMode's best LAN. He was already competing with zen for best player in the world, and he played like it throughout the tournament. He was incredible in knockouts and especially dominant in the final against Falcons. It felt like confirmation of just how good he was. I'd probably call it his best 3v3 event. But when it comes to his highest individual peak, I still lean toward Gamers8 2023. Going into Gamers8, V1 had missed both the Spring Major and Worlds with BeastMode, Daniel and Comm. Their 2v2 history and Daniel's 1v1 ability were major reasons to believe they could still do well in crew battles. Instead, Daniel struggled in 1s, and BeastMode took over that role in playoffs despite having very little pedigree against the top players in the mode. He finished 2-2: beating Joreuz and trk511 7-3 each, and losing 4-5 to Joreuz and 5-6 to Rw9. Those results are impressive given the opposition, but the way he played is what really sticks with me. You could clearly see him outmatched when it comes traditional 1v1 skills. He made up for those gaps with incredible mechanics and unconventional pl…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xl196w/beastmode_at_gamers8_2023_vs_london_2024_which/",
+    "timestamp": "2026-11-01T11:57:57Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xl196w/beastmode_at_gamers8_2023_vs_london_2024_which/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-01T11:57:57Z",
+    "id": "energy-0707bdb0c56768e1"
+  },
+  {
+    "title": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
+    "summary": "As stumbled upon overnight by a Reddit user, one incensed fan is taking the fight right to the publisher’s gates",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
+    "timestamp": "2026-10-31T19:48:02Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-31T19:48:02Z",
+    "id": "energy-329057333f5d2af0"
+  },
+  {
+    "title": "Vatrica is a FREE mix enhancer and my birthday gift to you",
+    "summary": "Today is my birthday, and I’m celebrating by releasing Vatrica (meaning “little fire” in Serbian), a free one-knob mix enhancer for macOS and Windows. I’m sharing it with all Bedroom Producers Blog readers and Flame Sound customers as a small gift to thank you for your support so far. It honestly means a lot to [...] View post: Vatrica is a FREE mix enhancer and my birthday gift to you",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/10/31/vatrica/",
+    "timestamp": "2026-10-31T16:22:51Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/10/31/vatrica/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-10-31T16:22:51Z",
+    "id": "energy-b48763eec4d449cf"
   },
   {
     "title": "ZL Audio releases ZL Limiter, a FREE limiter for Windows, macOS, and Linux",
@@ -54,81 +261,6 @@
     "id": "energy-963c99c505e60342"
   },
   {
-    "title": "M80 announce Joreuz, Drufinho, Motta for RLCS 2027",
-    "summary": "Tweet: https://x.com/m80gg/status/2116530645660815808?s=46 submitted by /u/N0b0dy_her3 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xkcg2s/m80_announce_joreuz_drufinho_motta_for_rlcs_2027/",
-    "timestamp": "2026-10-31T15:01:18Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xkcg2s/m80_announce_joreuz_drufinho_motta_for_rlcs_2027/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-31T15:01:18Z",
-    "id": "energy-4c2da4a3d2c5b0dd"
-  },
-  {
-    "title": "Austin Abrams Was Grabbed by Tentacles in a 35-Foot Whale Head for the Thriller ‘Whalefall’",
-    "summary": "“Austin’s body is responding to real action in real time.”",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/whalefall-bts-interview/",
-    "timestamp": "2026-10-31T15:01:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/whalefall-bts-interview/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-31T15:01:18Z",
-    "id": "energy-3179e012a009671f"
-  },
-  {
-    "title": "Warframe officially adds a whole new star system in December",
-    "summary": "Warframe will leave the Origin System and head to Tau before the end of the year",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/warframe-tau-release-window/",
-    "timestamp": "2026-10-31T14:58:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/warframe-tau-release-window/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-31T14:58:43Z",
-    "id": "energy-ca58198425adc85e"
-  },
-  {
-    "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-    "timestamp": "2026-10-31T14:57:33Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-31T14:57:33Z",
-    "id": "energy-65bcad9ace931543"
-  },
-  {
     "title": "NeuSynth lets you explore new instrument stems in your projects",
     "summary": "NeuSynth is a Mac plugin for trying new instrument parts against a track you’re already making. If a loop has the right feel but you feel like it’s missing something, the plugin gives you several options to hear in context before importing them into your session. You start with up to 60 seconds of your [...] View post: NeuSynth lets you explore new instrument stems in your projects",
     "source": "Bedroom Producers Blog",
@@ -145,138 +277,6 @@
     "primary_source": false,
     "data_as_of": "2026-10-31T14:21:55Z",
     "id": "energy-44f206a28cf42800"
-  },
-  {
-    "title": "StageBox Software releases Voiks, a FREE toy keyboard sampler plugin",
-    "summary": "StageBox Software has released Voiks, a free lo-fi sampler plugin for macOS and Windows inspired by the Yamaha VSS-30 sampling keyboard. The original VSS-30 arrived in 1987 with an 8-bit sampler and about a second and a half of sample memory. The cool thing was that you could record a short sound and instantly play [...] View post: StageBox Software releases Voiks, a FREE toy keyboard sampler plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/10/31/stagebox-software-voiks/",
-    "timestamp": "2026-10-31T14:19:28Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/10/31/stagebox-software-voiks/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-31T14:19:28Z",
-    "id": "energy-45c9f7d2519eb46b"
-  },
-  {
-    "title": "The Outlast Trials Is An Exercise In Bad Taste And Good Politics",
-    "summary": "This multiplayer prequel is as gruesome as it is relevant",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-outlast-trials-is-an-exercise-in-bad-taste-and-good-politics-2000750631",
-    "timestamp": "2026-10-31T14:05:59Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/the-outlast-trials-is-an-exercise-in-bad-taste-and-good-politics-2000750631"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-31T14:05:59Z",
-    "id": "energy-6d59f6c03462d88e"
-  },
-  {
-    "title": "Doom Director Says ‘We’re Doing Great’ After Half Of id Software Was Laid Off",
-    "summary": "The studio is collaborating more closely than ever with MachineGames",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940",
-    "timestamp": "2026-10-31T13:47:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-31T13:47:14Z",
-    "id": "energy-c8ffa34f0f9ad263"
-  },
-  {
-    "title": "Retired professor arrested for blocking delivery robot. Will do it again",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
-    "timestamp": "2026-10-31T13:39:57Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-31T13:39:57Z",
-    "id": "energy-12c8d00147995dee"
-  },
-  {
-    "title": "Prospero: A new coding harness for a more civilized age",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://nullprogram.com/blog/2026/10/31/",
-    "timestamp": "2026-10-31T11:54:59Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://nullprogram.com/blog/2026/10/31/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-10-31T11:54:59Z",
-    "id": "energy-c74f948ec6f5cece"
-  },
-  {
-    "title": "Pre coupe de france rankings?",
-    "summary": "I'm interested in seeing what everyones opinions are for the teams in Coupe de france and what the rankings will look like at the end of league play. For me best guess would be Gentlemates Vitality Geekay Ikkaku and then I genuinely can't picked between kc and dumornav for 5th and 6th. Gentlemates first until proven otherwise with such a stacked roster, with vitality I don't personally like the team up I think Archie was a key part of the team that diaz isn't gonna replicate but despite that it's just such a high skilled team I see them taking 2nd anyway. The rest is probably more contentious but seikoo and juicy represent the next highest level of continued excellence for me so I'm betting on them to be that 3rd in the region right now. Then exotiik yujin and rezears round out the top 4 for the event as exotiik is abit underrated right now and yujin and rezears have good potential. I'd have all gamers global above ikkaku in that fourth spot if they were invited but since they aren't it's ikkaku imo. submitted by /u/MoviesBooksAndMore [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjxgsf/pre_coupe_de_france_rankings/",
-    "timestamp": "2026-10-31T01:30:39Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjxgsf/pre_coupe_de_france_rankings/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-31T01:30:39Z",
-    "id": "energy-123ec4d83fa3749d"
-  },
-  {
-    "title": "Juicy and Seikoo",
-    "summary": "Can someone explain where Juicy and Seikoo are going? I know man city still haven’t finalized their roster, so I’m hoping Seikoo stays. I also know juicy left kc, so I don’t know where he’ll go. Maybe man city aswell? He is way too good to be on a non-partnered team. submitted by /u/guavagrav [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjtnn5/juicy_and_seikoo/",
-    "timestamp": "2026-10-30T22:40:11Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xjtnn5/juicy_and_seikoo/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-10-30T22:40:11Z",
-    "id": "energy-fbabb455b322d7d2"
   },
   {
     "title": "MISO Forecasts Sufficient Generating Capacity To Meet Winter Peak Power Demand",

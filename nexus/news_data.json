@@ -250,7 +250,7 @@
     "summary": "Updated Date: 10.29.2026",
     "source": "PJM Public Disclosures",
     "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20271029-acp-letter-to-the-pjm-board-re-pjms-combined-queue-process.pdf",
-    "timestamp": "2026-10-29T20:40:08Z",
+    "timestamp": "2026-10-29T21:40:08Z",
     "topic": "Energy",
     "category": "RTOs / ISOs",
     "impact": "Low",
@@ -264,28 +264,7 @@
       "PJM Interconnection",
       "PJM"
     ],
-    "data_as_of": "2026-10-29T20:40:08Z",
+    "data_as_of": "2026-10-29T21:40:08Z",
     "id": "energy-a92c38fda4323ea6"
-  },
-  {
-    "title": "Russia Begins Fuel Deliveries For First Load At Rooppur-2 Nuclear Plant",
-    "summary": "Russia’s state-owned nuclear corporation Rosatom has begun delivering nuclear fuel for the initial loading of Unit 2 at Bangladesh’s Rooppur nuclear power station, a statement said. Rosatom said that it had completed a first shipment of fuel assemblies manufactured by its Novosibirsk Chemical Concentrates Plant in Russia. The fuel was transported to Bangladesh on a dedicated cargo flight. The company said the fuel containers had been transferred to a storage facility at Rooppur, where the assemblies undergo visual and technical inspections before they can be loaded into the reactor.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/russia-begins-fuel-deliveries-for-first-load-at-rooppur-2-nuclear-plant-10-4-2026",
-    "timestamp": "2026-10-29T14:03:39Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/russia-begins-fuel-deliveries-for-first-load-at-rooppur-2-nuclear-plant-10-4-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-10-29T14:03:39Z",
-    "id": "energy-a27f2532d2bb6a92"
   }
 ]
