@@ -1,5 +1,117 @@
 [
   {
+    "title": "Joy for your family, kits for your home",
+    "summary": "The third annual drive-through Magic of Lights holiday lights spectacular will be held at the Brandon Amphitheater from Nov. 20 to Jan. 2. Entergy Mississippi serves as sponsor of the event and will give away energy efficiency kits on two of those nights. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/joy-for-your-family-kits-for-your-home-3",
+    "timestamp": "2026-11-03T15:56:30Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/joy-for-your-family-kits-for-your-home-3"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-03T15:56:30Z",
+    "id": "energy-cae79ca0d248734b"
+  },
+  {
+    "title": "Wyoming signs MOU for expedited permitting under FAST-41",
+    "summary": "Wyoming recently adopted a measure to accelerate federal and state permitting processes for its infrastructure projects, including uranium mining projects. On October 26, Wyoming Gov. Mark Gordon and Emily Domenich, executive director of the Federal Permitting Improvement Steering Council (Permitting Council), signed a memorandum of understanding to bring the state’s infrastructure projects in line with the requirements of Title 41 of the Fixing America’s Surface Transportation Act, also known as FAST-41.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-03/article-8551/wyoming-signs-mou-for-expedited-permitting-under-fast41/",
+    "timestamp": "2026-11-03T15:19:12Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-03/article-8551/wyoming-signs-mou-for-expedited-permitting-under-fast41/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-03T15:19:12Z",
+    "id": "energy-41b23225aea47bf9"
+  },
+  {
+    "title": "AI, energy storage, and more: ISO-NE staff share expertise at October events",
+    "summary": "A roundup of ISO-NE staff speaking engagements in October 2026. The post AI, energy storage, and more: ISO-NE staff share expertise at October events appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/03/ai-energy-storage-and-more-iso-ne-staff-share-expertise-at-october-events/",
+    "timestamp": "2026-11-03T14:54:30Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/03/ai-energy-storage-and-more-iso-ne-staff-share-expertise-at-october-events/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-03T14:54:30Z",
+    "id": "energy-39136a29b4f0fc19"
+  },
+  {
+    "title": "Fusion companies sign agreements during Japan-Germany meeting",
+    "summary": "Last week during a visit to Japan, German Chancellor Friedrich Merz met with Japanese Prime Minister Sanae Takaichi. The two leaders issued a joint declaration on advanced technology cooperation, including a commitment to collaborate on stellarator and laser-based fusion energy technologies. Coinciding with the visit and the signing of the bilateral declaration, several German and Japanese fusion organizations announced new agreements to cooperate on various aspects of fusion development and commercialization. According to a joint statement, “The two leaders underscored that collaboration and exchange in the field of advanced technology, including space and fusion energy, is a key pillar of bilateral ties.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-03/article-8550/fusion-companies-sign-agreements-during-japangermany-meeting/",
+    "timestamp": "2026-11-03T13:53:36Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-03/article-8550/fusion-companies-sign-agreements-during-japangermany-meeting/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-03T13:53:36Z",
+    "id": "energy-04502d19805804bc"
+  },
+  {
+    "title": "Antares, Last Energy, and Radiant hit DOE authorization milestones",
+    "summary": "The month of October saw three of the original Reactor Pilot Program companies hit a handful of milestones as each pursues Department of Energy authorization for the operation of various reactor projects. Both Last Energy and Radiant earned documented safety analyses (DSAs) for their first reactors, and Antares earned its nuclear safety design agreement (NSDA) for its second reactor.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-02/article-8549/antares-last-energy-and-radiant-hit-doe-authorization-milestones/",
+    "timestamp": "2026-11-02T21:25:30Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-02/article-8549/antares-last-energy-and-radiant-hit-doe-authorization-milestones/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-02T21:25:30Z",
+    "id": "energy-8bf72dcd95a1773d"
+  },
+  {
     "title": "Quarterly Settlements Forum registration open",
     "summary": "The webinar is scheduled for Wednesday, Dec. 2, from 10:00 to 11:00 a.m. The post Quarterly Settlements Forum registration open appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -46,28 +158,6 @@
     "id": "energy-b8b942d2ef1c780c"
   },
   {
-    "title": "Centrus sends first new centrifuge built at Oak Ridge to Piketon plant",
-    "summary": "On October 29, representatives from Centrus Energy Corp. joined government officials for a press event to commemorate the completion and shipment of the first centrifuge built for the expansion of the company’s Piketon, Ohio, uranium enrichment plant. Speaking at the Centrus Technology and Manufacturing Center in Oak Ridge, Tenn., Amir Vexler, the company’s president and CEO, said, “This may sound like a simple shipment from one facility to another, but it represents something much larger. It connects American manufacturing in Tennessee and American uranium enrichment in Ohio . . and it demonstrates that Centrus has assembled the specialized people capability and domestic supply chain to build this technology at scale.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-02/article-8548/centrus-sends-first-new-centrifuge-built-at-oak-ridge-to-piketon-plant/",
-    "timestamp": "2026-11-02T18:17:44Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-02/article-8548/centrus-sends-first-new-centrifuge-built-at-oak-ridge-to-piketon-plant/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-02T18:17:44Z",
-    "id": "energy-40c3b348ae47f70e"
-  },
-  {
     "title": "Thank you, New Orleans",
     "summary": "Thank you for making energy efficiency part of your year. Explore helpful resources for a more comfortable home this season. Source",
     "source": "Entergy",
@@ -92,28 +182,6 @@
     "id": "energy-01c6d2428510cb93"
   },
   {
-    "title": "UW-Madison breaks ground on new radioisotope cyclotron facility",
-    "summary": "The University of Wisconsin–Madison School of Medicine and Public Health has broken ground on a project to add two cyclotrons to its existing medical research infrastructure, increasing the university’s radioisotope production capacity by two- to eightfold, depending on the particular isotope. The $62 million project—funded by the National Institutes of Health, the Wisconsin Alumni Research Foundation, and private donations—is expected to be completed by May 2028. The new 13,000-square-foot facility, which is being built within the Wisconsin Institutes for Medical Research complex, is slated to host “the first modern alpha-particle cyclotron of its kind installed in the United States,” according to the university.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-02/article-8547/uwmadison-breaks-ground-on-new-radioisotope-cyclotron-facility/",
-    "timestamp": "2026-11-02T15:34:16Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-02/article-8547/uwmadison-breaks-ground-on-new-radioisotope-cyclotron-facility/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-02T15:34:16Z",
-    "id": "energy-b575827817d025a6"
-  },
-  {
     "title": "ISO-NE markets open to distributed energy resource aggregations",
     "summary": "DERAs are groups of generation, storage, and demand response resources connected to local distribution systems. The post ISO-NE markets open to distributed energy resource aggregations appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -134,51 +202,5 @@
     ],
     "data_as_of": "2026-11-02T14:06:27Z",
     "id": "energy-36c5c846ce722866"
-  },
-  {
-    "title": "NN announces the 2026 40 Under 40 honorees",
-    "summary": "The Nuclear News 40 Under 40 is back for a third year, and with this class the list has now recognized 120 young professionals who are helping shape the future of the nuclear enterprise. What began as an experiment in 2024 is now an annual tradition. Reviewing the stacks of stellar nominations has been a difficult but satisfying task for the editorial team as we create the final list, published in the November issue of Nuclear News.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-02/article-8544/inni-announces-the-2026-40-under-40-honorees/",
-    "timestamp": "2026-11-02T12:49:55Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-02/article-8544/inni-announces-the-2026-40-under-40-honorees/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-02T12:49:55Z",
-    "id": "energy-d353a652371ec725"
-  },
-  {
-    "title": "Entergy reports third quarter 2026 financial results",
-    "summary": "Entergy Corporation reported third quarter 2026 earnings per share of $1.98 on an as-reported and an adjusted (non-GAAP) basis. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-reports-third-quarter-2026-financial-results",
-    "timestamp": "2026-11-02T11:31:07Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-reports-third-quarter-2026-financial-results"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-02T11:31:07Z",
-    "id": "energy-6b4f8946c5a14ab8"
   }
 ]
