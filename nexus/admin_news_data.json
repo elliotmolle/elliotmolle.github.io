@@ -1,240 +1,390 @@
 [
   {
-    "title": "Nass' full 1v1 streak from RLCS EU to Knockout Series (18 as of this post)",
-    "summary": "100% the new GOAT of 1v1. That's all I can say. submitted by /u/Round-Economics-3257 [link] [comments]",
+    "title": "Where to use the blackmarket weapons locker key in DMZ in Modern Warfare 4",
+    "summary": "This guide explains where to use the blackmarket weapons locker key in Modern Warfare 4's DMZ mode.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-blackmarket-weapons-locker-key-location/",
+    "timestamp": "2026-11-04T17:37:03Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/mw4-modern-warfare-4-dmz-blackmarket-weapons-locker-key-location/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T17:37:03Z",
+    "id": "energy-7b68d85eb34bbd37"
+  },
+  {
+    "title": "Three Cheers For The Bonewheel!",
+    "summary": "FromSoftware devs are masters at Looney Tunes–style physical comedy",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/three-cheers-for-the-bonewheel-2000753329",
+    "timestamp": "2026-11-04T17:30:45Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/three-cheers-for-the-bonewheel-2000753329"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T17:30:45Z",
+    "id": "energy-310b723a3866196c"
+  },
+  {
+    "title": "Progress on provable inference for large language models",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "timestamp": "2026-11-04T17:17:46Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.anthropic.com/research/provable-inference"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T17:17:46Z",
+    "id": "energy-8cd75a62f320407a"
+  },
+  {
+    "title": "God of War Laufey Hit With Big Delay",
+    "summary": "Sony Santa Monica has officially delayed God of War Laufey, pushing the PlayStation 5 exclusive back several months",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/god-of-war-laufey-delayed-ps5-2027/",
+    "timestamp": "2026-11-04T17:16:15Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/god-of-war-laufey-delayed-ps5-2027/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T17:16:15Z",
+    "id": "energy-e0515872de973b1b"
+  },
+  {
+    "title": "Nintendo's Biggest Chip Manufacturer Officially Exits Business",
+    "summary": "The biggest manufacturer of Nintendo Switch 1 and 2 chips is exiting the ROM business, making it harder for Nintendo to make Switch cartridges.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/physical-media-nintendo-chip-manufacturer-exits-business/",
+    "timestamp": "2026-11-04T17:13:30Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/physical-media-nintendo-chip-manufacturer-exits-business/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T17:13:30Z",
+    "id": "energy-8df3fe29753dfcf1"
+  },
+  {
+    "title": "God Of War Laufey Hit With Three-Month Delay",
+    "summary": "Santa Monica Studio says it wants to 'make the most of each moment' in order to push the game 'to its fullest potential'",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/god-of-war-laufey-delay-ps5-new-release-date-santa-monica-2000753374",
+    "timestamp": "2026-11-04T17:12:46Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/god-of-war-laufey-delay-ps5-new-release-date-santa-monica-2000753374"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T17:12:46Z",
+    "id": "energy-b96c0089f3147116"
+  },
+  {
+    "title": "An end to buggy web apps",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://replay.io/blog/an-end-to-buggy-web-apps",
+    "timestamp": "2026-11-04T17:01:44Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://replay.io/blog/an-end-to-buggy-web-apps"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T17:01:44Z",
+    "id": "energy-4bda7a54082ab5ea"
+  },
+  {
+    "title": "The Zelda: Ocarina Of Time Remake Has No Master Quest",
+    "summary": "That's a bummer",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-zelda-ocarina-of-time-remake-has-no-master-quest-2000753351",
+    "timestamp": "2026-11-04T17:00:42Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/the-zelda-ocarina-of-time-remake-has-no-master-quest-2000753351"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T17:00:42Z",
+    "id": "energy-a7d376b4abe4599a"
+  },
+  {
+    "title": "Tell me about RCLS London event",
+    "summary": "My kid is into RL, I knew the booking was coming last week to the upcoming London but forgot to get online and check. Can you only attend with a three day ticket? Are there any big teams that a RL fan would know? Regardless it would just be good to attend as a RL fan? Any ideas what times the shows/contests are? Thanks submitted by /u/dadsomerset [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xmzbwp/nass_full_1v1_streak_from_rlcs_eu_to_knockout/",
-    "timestamp": "2026-11-03T17:32:15Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xntbty/tell_me_about_rcls_london_event/",
+    "timestamp": "2026-11-04T16:54:54Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xmzbwp/nass_full_1v1_streak_from_rlcs_eu_to_knockout/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xntbty/tell_me_about_rcls_london_event/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-11-03T17:32:15Z",
-    "id": "energy-6e7960cc691099eb"
+    "data_as_of": "2026-11-04T16:54:54Z",
+    "id": "energy-c7bf6dbdf557e1a5"
   },
   {
-    "title": "'Spider-Man: Brand New Day' Director’s Next Movie Officially Picked up by Sony",
-    "summary": "Sony and Lionsgate are teaming up for Spider-Man Brand New Day director Destin Daniel Cretton's live-action Naruto movie",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/naruto-live-action-movie-sony-lionsgate-destin-daniel-cretton/",
-    "timestamp": "2026-11-03T17:19:21Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/naruto-live-action-movie-sony-lionsgate-destin-daniel-cretton/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T17:19:21Z",
-    "id": "energy-ad9ed4885ce2c2b3"
-  },
-  {
-    "title": "GTA 6 Pre-Load Times, Install Size, And Global Release Times Confirmed",
-    "summary": "Here's how to make sure you're ready for the big day",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/gta-6-pre-load-times-install-size-and-global-release-times-confirmed-2000752787",
-    "timestamp": "2026-11-03T17:00:58Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/gta-6-pre-load-times-install-size-and-global-release-times-confirmed-2000752787"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T17:00:58Z",
-    "id": "energy-25b9946ce639d0ee"
-  },
-  {
-    "title": "Ashby (YC W19) Is Hiring EMs",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28",
-    "timestamp": "2026-11-03T17:00:53Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T17:00:53Z",
-    "id": "energy-a89bad6f0e88d21e"
-  },
-  {
-    "title": "D&D’s World of Warcraft Crossover Is the Bold Shake-Up the Game Needed",
-    "summary": "D&D’s World of Warcraft crossover delivers inventive character options and tougher boss fights that breathe new life into high-level play.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/dungeons-dragons-world-warcraft-review/",
-    "timestamp": "2026-11-03T17:00:18Z",
-    "topic": "Gaming",
-    "category": "Reviews",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/dungeons-dragons-world-warcraft-review/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T17:00:18Z",
-    "id": "energy-d81d4e6a7d23dbe3"
-  },
-  {
-    "title": "Gitbook Breached",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=50354336",
-    "timestamp": "2026-11-03T16:45:49Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://news.ycombinator.com/item?id=50354336"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T16:45:49Z",
-    "id": "energy-645ed3b8323a3d5b"
-  },
-  {
-    "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2611.02618",
-    "timestamp": "2026-11-03T16:40:02Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.02618"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T16:40:02Z",
-    "id": "energy-6ba81ed8d465b8f8"
-  },
-  {
-    "title": "Black Salt Audio offers Low Control bass processor FREE until November 12",
-    "summary": "Black Salt Audio is offering Low Control, its $79 low-end compressor and harmonic enhancer for macOS and Windows, for free until November 12. This one is pretty useful if you work with a lot of heavy bass, whether for sound design or electronic music. Low Control lets you compress the bass frequencies separately from the [...] View post: Black Salt Audio offers Low Control bass processor FREE until November 12",
+    "title": "Sonuscore releases The Score Elements, a FREE cinematic library for Kontakt Player",
+    "summary": "Sonuscore has released The Score Elements, a free cinematic scoring library for Kontakt Player that turns your chords into orchestral arrangements. The Score Elements joins Sonuscore’s already epic and ever-growing collection of freebies, including The Orchestra Elements and LUX Orchestral Strings Elements. This one brings the arrangement-based workflow of the paid The Score into a [...] View post: Sonuscore releases The Score Elements, a FREE cinematic library for Kontakt Player",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/03/black-salt-audio-low-control/",
-    "timestamp": "2026-11-03T16:38:02Z",
+    "url": "https://bedroomproducersblog.com/2026/11/04/sonuscore-score-elements/",
+    "timestamp": "2026-11-04T16:33:43Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/03/black-salt-audio-low-control/"
+      "https://bedroomproducersblog.com/2026/11/04/sonuscore-score-elements/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-03T16:38:02Z",
-    "id": "energy-0ff0e0f9e8795d1c"
+    "data_as_of": "2026-11-04T16:33:43Z",
+    "id": "energy-b6d8267c473c556a"
   },
   {
-    "title": "Expetri is a petri-dish synth with a FREE version, but I still much prefer regular synths",
-    "summary": "Expetri is an experimental synthesizer for macOS and Windows with a free version that lets you build sounds by stirring cells in a virtual petri dish. Simply put, Expetri swaps the usual panel of synth knobs for drifting cells that split and blend into each other’s waveforms. The instrument is monophonic, and each cell acts [...] View post: Expetri is a petri-dish synth with a FREE version, but I still much prefer regular synths",
+    "title": "Musio Studio is a FREE app for writing music, with built-in Cinesamples libraries",
+    "summary": "Musio Studio is a free app designed for writing music, released a few years after the Musio plugin. Mike Patti, founder and CEO of Cinesamples, is the man behind Musio. While the plugin focused on bringing all your Cinesamples libraries (and some from select third-party developers) together in a single plugin, Musio Studio goes a [...] View post: Musio Studio is a FREE app for writing music, with built-in Cinesamples libraries",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/03/expetri-neural-synth/",
-    "timestamp": "2026-11-03T16:32:41Z",
+    "url": "https://bedroomproducersblog.com/2026/11/04/musio-music-writing-app/",
+    "timestamp": "2026-11-04T16:17:02Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/03/expetri-neural-synth/"
+      "https://bedroomproducersblog.com/2026/11/04/musio-music-writing-app/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-03T16:32:41Z",
-    "id": "energy-9a10e8918f0cca69"
+    "data_as_of": "2026-11-04T16:17:02Z",
+    "id": "energy-43c0b2a4b7d55f76"
   },
   {
-    "title": "The Director Of The Original Zelda: Ocarina Of Time Calls Fixing The Infamous Water Temple ‘Overdue Homework’",
-    "summary": "'Since it became well known for its difficulty in the original game, I had the team make some adjustments in this version'",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/original-zelda-ocarina-of-time-director-calls-the-infamous-water-temple-overdue-homework-for-the-remake-2000752762",
-    "timestamp": "2026-11-03T16:30:32Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/original-zelda-ocarina-of-time-director-calls-the-infamous-water-temple-overdue-homework-for-the-remake-2000752762"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T16:30:32Z",
-    "id": "energy-7f9e700d1ada4ad2"
-  },
-  {
-    "title": "FlickSwitch Audio releases Liminal 1.1 and Glacier, now bundled for $69",
-    "summary": "FlickSwitch Audio has released Liminal 1.1 and Glacier, pairing its updated dynamic threshold processor with a new freeze, reverb, and delay effect for macOS and Windows. Both plugins are included in the FlickSwitch Audio Complete Bundle, currently $69 instead of $109. They’re also available separately for $59 and $17, respectively, and Liminal 1.1 is a [...] View post: FlickSwitch Audio releases Liminal 1.1 and Glacier, now bundled for $69",
+    "title": "Orbit lets you rediscover your sample library, comes with a FREE Lite version",
+    "summary": "Orbit is a standalone sample-search and session-recall app for macOS, with a free Lite version and a paid Pro upgrade. Orbit searches the sounds you have on your hard drive. You can point it at your sample folders, let it index them, and describe what you’re looking for instead of trying to remember a filename. [...] View post: Orbit lets you rediscover your sample library, comes with a FREE Lite version",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/03/flickswitch-audio/",
-    "timestamp": "2026-11-03T16:26:22Z",
+    "url": "https://bedroomproducersblog.com/2026/11/04/orbit-sample-search/",
+    "timestamp": "2026-11-04T16:08:36Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/03/flickswitch-audio/"
+      "https://bedroomproducersblog.com/2026/11/04/orbit-sample-search/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-03T16:26:22Z",
-    "id": "energy-02b9b28c4f24c434"
+    "data_as_of": "2026-11-04T16:08:36Z",
+    "id": "energy-5e62e6c8635bb3a5"
   },
   {
-    "title": "PC Games Storefront Does What Valve Won’t, Takes Action Against AI Slop",
-    "summary": "One of Steam's biggest competitors just announced filtering options for AI-generated content.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/itch-io-storefront-removes-ai-slop/",
-    "timestamp": "2026-11-03T16:14:25Z",
-    "topic": "Gaming",
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "timestamp": "2026-11-04T15:38:34Z",
+    "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/itch-io-storefront-removes-ai-slop/"
+      "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-03T16:14:25Z",
-    "id": "energy-3a64f4de10d4a512"
+    "data_as_of": "2026-11-04T15:38:34Z",
+    "id": "energy-33de01c7d7268d7b"
   },
   {
-    "title": "Arc Raiders Developers Try To Rationalize Using AI Voice Actors In Peculiar New Video",
-    "summary": "'The actors would just go crazy if they had to read all of that!'",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/arc-raiders-ai-voice-acting-embark-studios-video-shani-celeste-2000752744",
-    "timestamp": "2026-11-03T16:00:46Z",
-    "topic": "Gaming",
+    "title": "2026 r/RocketLeagueEsports Census Results",
+    "summary": "561 of you answered - here's what you told us tl;dr Result Responses 561 Back the new AI rule 89% Spoiler rule is fair 77% KSA stance is fair 63% Who you are The average survey taker is a 25 year old champ 2 player from NA. Luckily I'm unique because I'm a 30 year old champ 2 player from NA. https://preview.redd.it/7hjdf8u5rhzh1.png?width=980&format=png&auto=webp&s=8ba951d0b76196d110fe75bc3793b169ba3e99cc https://preview.redd.it/76oh27cdrhzh1.png?width=599&format=png&auto=webp&s=db5fc83cd10f44510794d5eed4208b2dcd79b227 https://preview.redd.it/awc0hl7erhzh1.png?width=779&format=png&auto=webp&s=7f71acc5f72069b74117c98d19ae0f18480be92e How you browse Share Mobile app 68% Desktop (new Reddit) 15% Mobile browser 9% Old Reddit 7% Mobile app share climbed slightly from 62% to 68% from 2021 to 2026. How you found us Share Searched Reddit for it 50% r/RocketLeague 34% Google 5% A linked post 5% A pro or caster mentioned it 2% Twitter 2% Other / don't remember 3% https://preview.redd.it/nrc38aporhzh1.png?width=951&format=png&auto=webp&s=85f53af41e9c74891eca297d7296cced6533996e What you watch International LANs reach almost everyone. KSA events trail the Majors but beat most regional opens.…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xnozv2/2026_rrocketleagueesports_census_results/",
+    "timestamp": "2026-11-04T14:03:11Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/arc-raiders-ai-voice-acting-embark-studios-video-shani-celeste-2000752744"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xnozv2/2026_rrocketleagueesports_census_results/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-03T16:00:46Z",
-    "id": "energy-67f3ca300cf97261"
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-04T14:03:11Z",
+    "id": "energy-69bc61a5ec6635df"
+  },
+  {
+    "title": "What happened to Bora?",
+    "summary": "I searched on start.gg and he's not on any NA team right now (maybe I'm wrong and he signed up under a different name?). I just think it's weird because he was on a pretty good Dignitas roster last year with evoh and fiv3up and I expected him to end up on at least a top 8 team this season. Does anyone know if he'll be competing or not? submitted by /u/grasulbeni [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xnoyah/what_happened_to_bora/",
+    "timestamp": "2026-11-04T14:01:34Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xnoyah/what_happened_to_bora/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-04T14:01:34Z",
+    "id": "energy-3558cc1f0a5d8654"
+  },
+  {
+    "title": "BJJ Rankings Update – November 2026",
+    "summary": "The November 2026 update has been applied to the Jits Magazine BJJ Rankings and the full standings can be found here. The biggest impact came from the latest event on the IBJJF no gi grand slam calendar, the IBJJF No Gi European Championship 2026. Although this was one of the smaller major tournaments, it still […] The post BJJ Rankings Update – November 2026 appeared first on Jitsmagazine.com.",
+    "source": "Jitsmagazine.com",
+    "url": "https://jitsmagazine.com/bjj-rankings-update-november-2026/",
+    "timestamp": "2026-11-04T13:42:30Z",
+    "topic": "Jiu-Jitsu",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://jitsmagazine.com/bjj-rankings-update-november-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T13:42:30Z",
+    "id": "energy-4e34ff50eea89b85"
+  },
+  {
+    "title": "The transformative potential of solid-state transformers",
+    "summary": "A conversation with Raghu Belur of Enphase.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/the-transformative-potential-of-solid",
+    "timestamp": "2026-11-04T11:56:13Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/the-transformative-potential-of-solid"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T11:56:13Z",
+    "id": "energy-b941f50e5a3d9440"
+  },
+  {
+    "title": "IBJJF No Gi European Championship 2026 Full Results And Highlights",
+    "summary": "The 2026 IBJJF European No-Gi Championship concluded on November 1, bringing five days of competition to a close at PalaPellicone in Lido di Ostia, Italy. The tournament once again provided a major opportunity for the world’s leading submission grapplers to compete for European honours, with the adult black belt divisions producing an impressive collection of […] The post IBJJF No Gi European Championship 2026 Full Results And Highlights appeared first on Jitsmagazine.com.",
+    "source": "Jitsmagazine.com",
+    "url": "https://jitsmagazine.com/ibjjf-no-gi-european-championship-2026-full-results-and-highlights/",
+    "timestamp": "2026-11-04T11:34:58Z",
+    "topic": "Jiu-Jitsu",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://jitsmagazine.com/ibjjf-no-gi-european-championship-2026-full-results-and-highlights/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-04T11:34:58Z",
+    "id": "energy-c6a54a61e2151a25"
+  },
+  {
+    "title": "Upper estimates of the lifespan for the fractional wave equations with time-dependent damping and a power nonlinearity of subcritical and critical Fujita exponent",
+    "summary": "arXiv:2401.10552v3 Announce Type: replace Abstract: In this paper, we investigate the Cauchy problem of the fractional wave equation with time-dependent damping and the source nonlinearity $f(u)\\approx |u|^p$: $$ \\begin{cases} \\partial_t^2u(t,x)+(-\\Delta)^{\\sigma/2} u(t,x)+b(t) \\partial_t u(t,x) =f(u(t,x)),\\ &(t,x)\\ \\in [0,T)\\times \\mathbb{R}^N,\\\\ u(0,x)=u_0(x),\\ \\partial_tu(0,x)=u_1(x),\\ &x\\ \\in\\ \\mathbb{R}^N, \\end{cases} $$ where the damping coefficient behaves as $b(t)\\approx (1+t)^{-\\beta}$. We first establish local existence and uniqueness of mild and strong solutions in weighted Sobolev spaces by deriving weighted Sobolev estimates for the linear propagators and overcoming the spatial-weight coupling in the nonlinearity through the Bessel potential estimates. Then, in the subcritical and critical cases $1",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2401.10552",
+    "timestamp": "2026-11-04T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2401.10552"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-04T05:00:00Z",
+    "id": "energy-f94dcc5f4d608668"
+  },
+  {
+    "title": "The prime geodesic theorem for the modular orbifold",
+    "summary": "arXiv:2402.12133v4 Announce Type: replace Abstract: We establish the prime geodesic theorem for the modular orbifold with exponent $\\frac{9}{13} = 0.692307 \\cdots$ in the error term. By periodicity and Heath-Brown's quadratic large sieve, we estimate the sixth moment of the error term in an approximation to the Zagier $L$-series at $s = 1$. The smooth explicit formula of Soundararajan and Young then leads to the stated exponent without recourse to subconvexity for quadratic Dirichlet $L$-functions.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2402.12133",
+    "timestamp": "2026-11-04T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2402.12133"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-04T05:00:00Z",
+    "id": "energy-4aa6f21f2aed9483"
+  },
+  {
+    "title": "The Collatz Conjecture & Non-Archimedean Spectral Theory -- Part II -- $\\left(p,q\\right)$-Adic Fourier Analysis and Wiener's Tauberian Theorem",
+    "summary": "arXiv:2208.11082v3 Announce Type: replace Abstract: This paper gives an overview of $\\left(p,q\\right)$-adic Fourier theory - the Fourier theory of functions from the $p$-adic numbers to the $q$-adic numbers, where $p$ and $q$ are distinct primes - which we then use to prove a novel $\\left(p,q\\right)$-adic generalization of Norbert Wiener's celebrated Tauberian Theorem. Letting $K$ be a metrically complete, algebraically closed local field of residue characteristic $q$, letting $C\\left(\\mathbb{Z}_{p},K\\right)$ be the Banach space of continuous functions $\\mathbb{Z}_{p}\\rightarrow K$, and letting $d\\mu$ be a $\\left(p,q\\right)$-adic measure (a continuous linear functional $C\\left(\\mathbb{Z}_{p},K\\right)\\rightarrow K)$, the $\\left(p,q\\right)$-adic Wiener Tauberian Theorem (WTT) we prove establishes that the density of the span of translates of $d\\mu$'s Fourier-Stieltjes Transform implies the non-vanishing of the Radon-Nikodym derivative of $d\\mu$ at all points in $\\mathbb{Z}_{p}$ where the derivative exists in $K$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2208.11082",
+    "timestamp": "2026-11-04T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2208.11082"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-04T05:00:00Z",
+    "id": "energy-aa1167e403adf7a0"
   },
   {
     "title": "Why America Is Struggling To Power The AI Boom",
@@ -300,27 +450,6 @@
     "id": "energy-0873cf0491db53ca"
   },
   {
-    "title": "Best of r/RocketLeagueEsports - October 2026",
-    "summary": "submitted by /u/RLEsportsMods [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xmv7q5/best_of_rrocketleagueesports_october_2026/",
-    "timestamp": "2026-11-03T15:00:23Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xmv7q5/best_of_rrocketleagueesports_october_2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-03T15:00:23Z",
-    "id": "energy-643755aec9b0c4e3"
-  },
-  {
     "title": "UFC BJJ 13 Full Results And Highlights",
     "summary": "UFC BJJ returned to the Meta APEX in Las Vegas on October 29, 2026, for UFC BJJ 13, an event featuring two vacant championship titles and a stacked lineup of elite submission grapplers. The event delivered nine matches, six submission finishes and two new champions. William Tackett headlined the card with an impressive first-round submission of Jacob […] The post UFC BJJ 13 Full Results And Highlights appeared first on Jitsmagazine.com.",
     "source": "Jitsmagazine.com",
@@ -337,80 +466,5 @@
     "primary_source": false,
     "data_as_of": "2026-11-03T12:37:18Z",
     "id": "energy-28fea2c0b68bb7ed"
-  },
-  {
-    "title": "Victor Hugo Opens Up About Potentially Retiring From ADCC",
-    "summary": "Victor Hugo capped off his ADCC journey with four submissions in four matches, explaining that injuries, business commitments and impending fatherhood helped shape his decision to step away from the prestigious tournament. Hugo has achieved the ultimate goal in submission grappling. After years of competing against the world’s best, the Brazilian heavyweight captured his first […] The post Victor Hugo Opens Up About Potentially Retiring From ADCC appeared first on Jitsmagazine.com.",
-    "source": "Jitsmagazine.com",
-    "url": "https://jitsmagazine.com/victor-hugo-opens-up-about-potentially-retiring-from-adcc/",
-    "timestamp": "2026-11-03T11:23:38Z",
-    "topic": "Jiu-Jitsu",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://jitsmagazine.com/victor-hugo-opens-up-about-potentially-retiring-from-adcc/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T11:23:38Z",
-    "id": "energy-007196968287ea34"
-  },
-  {
-    "title": "The new META is killing the game",
-    "summary": "I've been watching Rocket League since 2018, and I've witnessed how much the game has evolved and how the skill ceiling keeps getting higher and higher. That's what made me enjoy watching pro players in the first place. But I started losing interest when the demo meta took over. I'm looking at you, old KC (now GM8). I absolutely hate their playstyle. The heavy demo-focused approach takes your opponents completely out of the game and creates easy scoring opportunities. It forces the other team to abandon their own playstyle and start playing the same way just to keep up. And don't get me wrong, it's not a lack of talent. These guys are incredibly talented players. But I genuinely believe they're choosing to play a cowardly game rather than relying on their actual mechanical skills and creativity. It's basically like poking your opponent's eyes out and then claiming you won because you were better. Sure, you won, but is that really what Rocket League is supposed to be? This playstyle reminds me of Mawkzy's approach: demo, bump, . Or threaten a demo every time they try to make a play. This isn't the Rocket League I love. If this is the direction the game is heading, we might as well…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xmpv7e/the_new_meta_is_killing_the_game/",
-    "timestamp": "2026-11-03T10:51:36Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xmpv7e/the_new_meta_is_killing_the_game/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-03T10:51:36Z",
-    "id": "energy-cc5cc7641cdc5252"
-  },
-  {
-    "title": "Worst-Case Relative Growth of Functionally Generated Portfolios under Restricted Market-Weight Dynamics",
-    "summary": "arXiv:2610.41603v1 Announce Type: new Abstract: We study the worst-case relative growth rate of a fixed functionally generated portfolio under restrictions on market-weight dynamics over a compact convex market state space. For a nonempty compact forward shift-invariant path family, the pathwise wealth decomposition identifies the global rate with the minimum invariant average of the one-step $L$-divergence. For paths generated by a compact one-step transition relation, this rate is also the minimum over balanced transition measures, and a minimizing measure can be chosen on one relation basic set. For a fixed initial state, we study the lower limit of the minimum average $L$-divergence over the first $t$ periods as $t\\to\\infty$. We represent this value using empirical transition laws generated from that state. Their common state marginals are supported on chain-recurrent states that are chain-accessible from the initial state. The lower bound is obtained by minimizing the average $L$-divergence over balanced transition measures on chain-accessible basic sets. Finite exact reachability gives an upper bound. Examples show that both bounds can be strict. We also give a finite exact…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.41603",
-    "timestamp": "2026-11-02T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.41603"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-02T05:00:00Z",
-    "id": "energy-468ffd875143226e"
-  },
-  {
-    "title": "Which Adiabatic Cycles Alter an Action Variable?",
-    "summary": "arXiv:2610.40671v1 Announce Type: new Abstract: Action variables are adiabatic invariants: their values are preserved during adiabatic time evolutions in completely integrable classical Hamiltonian systems. Nevertheless, an adiabatic cycle can alter how an action variable depends on phase-space variables that are independent of adiabatic parameters. Such a change, which we call action variable holonomy, induces adiabatic torus pumping in phase space. For a family of completely integrable kicked-top systems, a homotopy classification of adiabatic cycles identifies which adiabatic cycles induce action variable holonomy and adiabatic torus pumping. A physical example is also provided.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.40671",
-    "timestamp": "2026-11-02T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.40671"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-02T05:00:00Z",
-    "id": "energy-73a5d0665aba22a8"
   }
 ]

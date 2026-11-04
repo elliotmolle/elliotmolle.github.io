@@ -1,5 +1,113 @@
 [
   {
+    "title": "NSUF awards 18 Super Rapid Turnaround Experiments",
+    "summary": "The Department of Energy’s Office of Nuclear Energy has awarded National Science User Facilities (NSUF) access to 18 Super Rapid Turnaround Experiment (Super RTE) projects. The awarded facility access is valued at approximately $2.7 million. The Super RTE projects will support nuclear fuels and materials research, the deployment of new nuclear reactors, and the continued operation of existing reactors. The teams will be led by researchers from 11 institutions representing three national laboratories, seven universities, and one industry partner.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-04/article-8555/nsuf-awards-18-super-rapid-turnaround-experiments/",
+    "timestamp": "2026-11-04T15:46:03Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-04/article-8555/nsuf-awards-18-super-rapid-turnaround-experiments/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-04T15:46:03Z",
+    "id": "energy-763c3d9a655bcd3f"
+  },
+  {
+    "title": "PNNL is developing a new approach for creating alloys",
+    "summary": "Researchers at Pacific Northwest National Laboratory are designing new types of metallic alloys that can better withstand the extreme conditions of heat, radiation, and mechanical stress inside nuclear reactors. Led by materials scientist and principal investigator Osman El Atwani, the team uses an approach termed robust alloy design (RAD) that has been described in the journal Materials & Design.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-04/article-8554/pnnl-is-developing-a-new-approach-for-creating-alloys/",
+    "timestamp": "2026-11-04T14:01:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-04/article-8554/pnnl-is-developing-a-new-approach-for-creating-alloys/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-04T14:01:21Z",
+    "id": "energy-56b6f1846afc891f"
+  },
+  {
+    "title": "Canada’s Bruce-5 Nuclear Plant Taken Offline For Major Component Replacement Outage",
+    "summary": "The Bruce-5 nuclear power plant has been taken offline for its major component replacement (MCR) outage – the fourth unit to be refurbished under Bruce Power’s plan to renew six of the eight units at the Ontario site. The company said the 817-MW Candu pressurised heavy water reactor (PHWR) unit, which began commercial operation in 1985, was taken offline on 1 November. It said: “This represents the second half of the company’s privately backed MCR Project that will see units 3-8 renewed to provide clean, reliable energy for Ontario’s people, businesses and hospitals for decades to come, while also ensuring a dependable source of cancer-fighting medical isotopes for the world healthcare community.”",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/canada-s-bruce-5-nuclear-plant-taken-offline-for-major-component-replacement-outage-11-3-2026",
+    "timestamp": "2026-11-04T13:57:12Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/canada-s-bruce-5-nuclear-plant-taken-offline-for-major-component-replacement-outage-11-3-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-04T13:57:12Z",
+    "id": "energy-e65f236e38eb759e"
+  },
+  {
+    "title": "Unleash Your Organizational Superpower Through Talent Development",
+    "summary": "Looking at the nuclear industry from a demand, policy support, and investment perspective, it is primed for unprecedented growth not seen since the 1970s. Utilities are exploring new builds and capacity expansion options to address this growth. But when we look at this demand from a talent perspective, another narrative emerges.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-04/article-8499/unleash-your-organizational-superpower-through-talent-development/",
+    "timestamp": "2026-11-04T13:14:20Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-04/article-8499/unleash-your-organizational-superpower-through-talent-development/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-04T13:14:20Z",
+    "id": "energy-d5bc8eb6c2a20bfa"
+  },
+  {
+    "title": "Amentum And Kyoto Fusioneering Sign MOU On Fusion In UK, Japan And US",
+    "summary": "US engineering and energy technology company Amentum has entered into a memorandum of understanding with Kyoto Fusioneering to cooperate on nuclear fusion in the UK, Japan and the US. Amentum said the agreement with Kyoto Fusioneering, a Japan-based developer of fusion technologies, establishes a framework to strengthen both companies’ roles in advancing fusion energy commercialisation.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/amentum-and-kyoto-fusioneering-sign-mou-on-fusion-in-uk-japan-and-us-11-3-2026",
+    "timestamp": "2026-11-04T13:13:21Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/amentum-and-kyoto-fusioneering-sign-mou-on-fusion-in-uk-japan-and-us-11-3-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-04T13:13:21Z",
+    "id": "energy-49dc5a20dfbac00c"
+  },
+  {
     "title": "Joy for your family, kits for your home",
     "summary": "The third annual drive-through Magic of Lights holiday lights spectacular will be held at the Brandon Amphitheater from Nov. 20 to Jan. 2. Entergy Mississippi serves as sponsor of the event and will give away energy efficiency kits on two of those nights. Source",
     "source": "Entergy",
@@ -24,28 +132,6 @@
     "id": "energy-cae79ca0d248734b"
   },
   {
-    "title": "Wyoming signs MOU for expedited permitting under FAST-41",
-    "summary": "Wyoming recently adopted a measure to accelerate federal and state permitting processes for its infrastructure projects, including uranium mining projects. On October 26, Wyoming Gov. Mark Gordon and Emily Domenich, executive director of the Federal Permitting Improvement Steering Council (Permitting Council), signed a memorandum of understanding to bring the state’s infrastructure projects in line with the requirements of Title 41 of the Fixing America’s Surface Transportation Act, also known as FAST-41.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-03/article-8551/wyoming-signs-mou-for-expedited-permitting-under-fast41/",
-    "timestamp": "2026-11-03T15:19:12Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-03/article-8551/wyoming-signs-mou-for-expedited-permitting-under-fast41/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-03T15:19:12Z",
-    "id": "energy-41b23225aea47bf9"
-  },
-  {
     "title": "AI, energy storage, and more: ISO-NE staff share expertise at October events",
     "summary": "A roundup of ISO-NE staff speaking engagements in October 2026. The post AI, energy storage, and more: ISO-NE staff share expertise at October events appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -66,50 +152,6 @@
     ],
     "data_as_of": "2026-11-03T14:54:30Z",
     "id": "energy-39136a29b4f0fc19"
-  },
-  {
-    "title": "Fusion companies sign agreements during Japan-Germany meeting",
-    "summary": "Last week during a visit to Japan, German Chancellor Friedrich Merz met with Japanese Prime Minister Sanae Takaichi. The two leaders issued a joint declaration on advanced technology cooperation, including a commitment to collaborate on stellarator and laser-based fusion energy technologies. Coinciding with the visit and the signing of the bilateral declaration, several German and Japanese fusion organizations announced new agreements to cooperate on various aspects of fusion development and commercialization. According to a joint statement, “The two leaders underscored that collaboration and exchange in the field of advanced technology, including space and fusion energy, is a key pillar of bilateral ties.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-03/article-8550/fusion-companies-sign-agreements-during-japangermany-meeting/",
-    "timestamp": "2026-11-03T13:53:36Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-03/article-8550/fusion-companies-sign-agreements-during-japangermany-meeting/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-03T13:53:36Z",
-    "id": "energy-04502d19805804bc"
-  },
-  {
-    "title": "Antares, Last Energy, and Radiant hit DOE authorization milestones",
-    "summary": "The month of October saw three of the original Reactor Pilot Program companies hit a handful of milestones as each pursues Department of Energy authorization for the operation of various reactor projects. Both Last Energy and Radiant earned documented safety analyses (DSAs) for their first reactors, and Antares earned its nuclear safety design agreement (NSDA) for its second reactor.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-02/article-8549/antares-last-energy-and-radiant-hit-doe-authorization-milestones/",
-    "timestamp": "2026-11-02T21:25:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-02/article-8549/antares-last-energy-and-radiant-hit-doe-authorization-milestones/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-02T21:25:30Z",
-    "id": "energy-8bf72dcd95a1773d"
   },
   {
     "title": "Quarterly Settlements Forum registration open",
