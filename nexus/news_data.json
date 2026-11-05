@@ -1,38 +1,88 @@
 [
   {
-    "title": "NSUF awards 18 Super Rapid Turnaround Experiments",
-    "summary": "The Department of Energy’s Office of Nuclear Energy has awarded National Science User Facilities (NSUF) access to 18 Super Rapid Turnaround Experiment (Super RTE) projects. The awarded facility access is valued at approximately $2.7 million. The Super RTE projects will support nuclear fuels and materials research, the deployment of new nuclear reactors, and the continued operation of existing reactors. The teams will be led by researchers from 11 institutions representing three national laboratories, seven universities, and one industry partner.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-04/article-8555/nsuf-awards-18-super-rapid-turnaround-experiments/",
-    "timestamp": "2026-11-04T15:46:03Z",
+    "title": "Five tips for buying a portable space heater",
+    "summary": "Whether it's time to replace your old heater or you simply need to add a little warmth to an area in your home, buying a new portable space heater is a great option. Keep these five things in mind as you search. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/five-tips-for-buying-a-portable-space-heater",
+    "timestamp": "2026-11-05T15:53:59Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-04/article-8555/nsuf-awards-18-super-rapid-turnaround-experiments/"
+      "https://www.entergy.com/blog/five-tips-for-buying-a-portable-space-heater"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
+    "source_tier": "primary",
+    "primary_source": true,
     "entities": [
-      "American Nuclear Society",
-      "ANS"
+      "Entergy"
     ],
-    "data_as_of": "2026-11-04T15:46:03Z",
-    "id": "energy-763c3d9a655bcd3f"
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-05T15:53:59Z",
+    "id": "energy-8758e5579061c44b"
   },
   {
-    "title": "PNNL is developing a new approach for creating alloys",
-    "summary": "Researchers at Pacific Northwest National Laboratory are designing new types of metallic alloys that can better withstand the extreme conditions of heat, radiation, and mechanical stress inside nuclear reactors. Led by materials scientist and principal investigator Osman El Atwani, the team uses an approach termed robust alloy design (RAD) that has been described in the journal Materials & Design.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-04/article-8554/pnnl-is-developing-a-new-approach-for-creating-alloys/",
-    "timestamp": "2026-11-04T14:01:21Z",
+    "title": "Talking turkey: Nine simple energy-saving tips for Thanksgiving",
+    "summary": "Thanksgiving Day is a special time of year, but the extra energy costs can be stressful. Use these simple, straightforward tips to save money and reduce stress. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/talking-turkey-nine-simple-energy-saving-tips-for-thanksgiving",
+    "timestamp": "2026-11-05T15:38:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-04/article-8554/pnnl-is-developing-a-new-approach-for-creating-alloys/"
+      "https://www.entergy.com/blog/talking-turkey-nine-simple-energy-saving-tips-for-thanksgiving"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-05T15:38:22Z",
+    "id": "energy-5c30e5ba806fb36d"
+  },
+  {
+    "title": "Luis Correa Named Entergy Texas’ Lineman of the Game",
+    "summary": "From the deserts of Afghanistan to the electric grid of Southeast Texas, Luis Correa's career journey has been built on service. Correa, a journeyman lineman who works in Entergy’s Port Arthur service network, will step into the spotlight as the Lineman of the Game during the New Orleans Saints vs. Cleveland Browns matchup on Nov. 8 at the Caesars Superdome. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/luis-correa-named-entergy-texas-lineman-of-the-game",
+    "timestamp": "2026-11-05T15:06:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/luis-correa-named-entergy-texas-lineman-of-the-game"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-05T15:06:00Z",
+    "id": "energy-1023388a50aa0ab7"
+  },
+  {
+    "title": "Oak Ridge’s Transuranic Waste Processing Center gets upgrades",
+    "summary": "The Department of Energy’s Office of Environmental Management has announced that part of the Transuranic Waste Processing Center (TWPC) at the Oak Ridge Reservation cleanup site has been remodeled and updated with new equipment. The upgrades will allow that part of the facility to process forms of transuranic (TRU) waste different from what it had processed in the past in order to support efficient site cleanup. The TWPC comprises four areas: a 5-line contact-handled glovebox, a 1,000-square-foot hot cell facility, a large box breakdown area, and a cask processing enclosure (CPE). The CPE is the area that has been updated.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-05/article-8558/oak-ridges-transuranic-waste-processing-center-gets-upgrades/",
+    "timestamp": "2026-11-05T14:11:47Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-05/article-8558/oak-ridges-transuranic-waste-processing-center-gets-upgrades/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +90,73 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-04T14:01:21Z",
-    "id": "energy-56b6f1846afc891f"
+    "data_as_of": "2026-11-05T14:11:47Z",
+    "id": "energy-3ab55ebffc972525"
+  },
+  {
+    "title": "First Fuel Loading Complete At China’s Sanao-2, Says CGN",
+    "summary": "The loading of fuel assemblies into the core of the Sanao-2 nuclear power plant in the eastern Chinese province of Zhejiang has been completed, owner China General Nuclear (CGN) said. According to CGN, fuel loading was completed on 2 November, marking a major step towards nuclear-powered operation and commissioning. Sanao-2 is a 1,117-MW domestic Hualong One, or HPR1000, pressurised water reactor (PWR) unit. Construction began in December 2021.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/first-fuel-loading-complete-at-china-s-sanao-2-says-cgn-11-4-2026",
+    "timestamp": "2026-11-05T13:20:26Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/first-fuel-loading-complete-at-china-s-sanao-2-says-cgn-11-4-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-05T13:20:26Z",
+    "id": "energy-3f1579c080fddc3b"
+  },
+  {
+    "title": "NRC workshop addresses “bridge” between DOE authorization and NRC licensing",
+    "summary": "The Nuclear Regulatory Commission’s Office of Advanced Reactors recently launched a series of workshops aimed at those who want to learn more about or will need to navigate the NRC’s licensing process. Dubbed “License to Launch,” the series began with primers on 10 CFR Parts 50, 52, the finalized 53, and the proposed 57.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-04/article-8557/nrc-workshop-addresses-bridge-between-doe-authorization-and-nrc-licensing/",
+    "timestamp": "2026-11-04T23:10:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-04/article-8557/nrc-workshop-addresses-bridge-between-doe-authorization-and-nrc-licensing/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-04T23:10:31Z",
+    "id": "energy-7c0d27f3d096a6a9"
+  },
+  {
+    "title": "Urenco touts first cylinder of LEU+ for commercial use",
+    "summary": "Urenco USA has produced its first cylinder of uranium hexafluoride enriched to levels of uranium-235 between 5 and 10 percent, or LEU+. The company said that this is the first instance of commercial LEU+ production in “the Western world.” In May of this year, Urenco’s Capenhurst plant in the United Kingdom produced samples of LEU+ enriched to 7 percent U-235 in a trial run. Russia and China have explored the use of nuclear fuel enriched above 5 percent U-235 as well, according to the International Atomic Energy Agency.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-04/article-8556/urenco-touts-first-cylinder-of-leu-for-commercial-use/",
+    "timestamp": "2026-11-04T18:41:55Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-04/article-8556/urenco-touts-first-cylinder-of-leu-for-commercial-use/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-04T18:41:55Z",
+    "id": "energy-ee967bcc2a1130bd"
   },
   {
     "title": "Canada’s Bruce-5 Nuclear Plant Taken Offline For Major Component Replacement Outage",
@@ -65,28 +180,6 @@
     "id": "energy-e65f236e38eb759e"
   },
   {
-    "title": "Unleash Your Organizational Superpower Through Talent Development",
-    "summary": "Looking at the nuclear industry from a demand, policy support, and investment perspective, it is primed for unprecedented growth not seen since the 1970s. Utilities are exploring new builds and capacity expansion options to address this growth. But when we look at this demand from a talent perspective, another narrative emerges.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-04/article-8499/unleash-your-organizational-superpower-through-talent-development/",
-    "timestamp": "2026-11-04T13:14:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-04/article-8499/unleash-your-organizational-superpower-through-talent-development/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-04T13:14:20Z",
-    "id": "energy-d5bc8eb6c2a20bfa"
-  },
-  {
     "title": "Amentum And Kyoto Fusioneering Sign MOU On Fusion In UK, Japan And US",
     "summary": "US engineering and energy technology company Amentum has entered into a memorandum of understanding with Kyoto Fusioneering to cooperate on nuclear fusion in the UK, Japan and the US. Amentum said the agreement with Kyoto Fusioneering, a Japan-based developer of fusion technologies, establishes a framework to strengthen both companies’ roles in advancing fusion energy commercialisation.",
     "source": "NucNet: Global Nuclear News",
@@ -106,30 +199,6 @@
     ],
     "data_as_of": "2026-11-04T13:13:21Z",
     "id": "energy-49dc5a20dfbac00c"
-  },
-  {
-    "title": "Joy for your family, kits for your home",
-    "summary": "The third annual drive-through Magic of Lights holiday lights spectacular will be held at the Brandon Amphitheater from Nov. 20 to Jan. 2. Entergy Mississippi serves as sponsor of the event and will give away energy efficiency kits on two of those nights. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/joy-for-your-family-kits-for-your-home-3",
-    "timestamp": "2026-11-03T15:56:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/joy-for-your-family-kits-for-your-home-3"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-03T15:56:30Z",
-    "id": "energy-cae79ca0d248734b"
   },
   {
     "title": "AI, energy storage, and more: ISO-NE staff share expertise at October events",
@@ -174,75 +243,5 @@
     ],
     "data_as_of": "2026-11-02T19:45:00Z",
     "id": "energy-adf9c267b9096f04"
-  },
-  {
-    "title": "Weatherize your home for enhanced energy efficiency and comfort",
-    "summary": "Enhance your home's energy efficiency while maintaining optimal comfort by weatherizing your house. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/weatherize-your-home-for-enhanced-energy-efficiency-and-comfort-2",
-    "timestamp": "2026-11-02T18:57:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/weatherize-your-home-for-enhanced-energy-efficiency-and-comfort-2"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-02T18:57:50Z",
-    "id": "energy-b8b942d2ef1c780c"
-  },
-  {
-    "title": "Thank you, New Orleans",
-    "summary": "Thank you for making energy efficiency part of your year. Explore helpful resources for a more comfortable home this season. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/thank-you-new-orleans",
-    "timestamp": "2026-11-02T16:08:44Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/thank-you-new-orleans"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-02T16:08:44Z",
-    "id": "energy-01c6d2428510cb93"
-  },
-  {
-    "title": "ISO-NE markets open to distributed energy resource aggregations",
-    "summary": "DERAs are groups of generation, storage, and demand response resources connected to local distribution systems. The post ISO-NE markets open to distributed energy resource aggregations appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/02/iso-ne-markets-open-to-distributed-energy-resource-aggregations/",
-    "timestamp": "2026-11-02T14:06:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/02/iso-ne-markets-open-to-distributed-energy-resource-aggregations/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-02T14:06:27Z",
-    "id": "energy-36c5c846ce722866"
   }
 ]
