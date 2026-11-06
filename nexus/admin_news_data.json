@@ -1,399 +1,417 @@
 [
   {
-    "title": "Mass Effect Studio’s Closure Is Getting Its Own Movie",
-    "summary": "BioWare and the end of Mass Effect are getting a documentary film.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/mass-effect-bioware-studio-closure/",
-    "timestamp": "2026-11-05T17:43:19Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/mass-effect-bioware-studio-closure/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-05T17:43:19Z",
-    "id": "energy-a20c4175dc5ccf93"
-  },
-  {
-    "title": "007 First Light, One Of 2026’s Biggest Surprises, Will Now Let You Play The First Mission For Free",
-    "summary": "Players will be able to carry over progress into the full game if they decide to buy it and continue",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/007-first-light-one-of-2026s-biggest-surprises-will-now-let-you-play-the-first-mission-for-free-2000754211",
-    "timestamp": "2026-11-05T17:34:03Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/007-first-light-one-of-2026s-biggest-surprises-will-now-let-you-play-the-first-mission-for-free-2000754211"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-05T17:34:03Z",
-    "id": "energy-e19f7fa6093614be"
-  },
-  {
-    "title": "My gym forced a social media down my throat. So I reverse-engineered its app",
+    "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://shayon.work/blog/reverse-engineering-gym-pass",
-    "timestamp": "2026-11-05T17:30:17Z",
+    "url": "https://up.codes/careers",
+    "timestamp": "2026-11-06T17:03:33Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://shayon.work/blog/reverse-engineering-gym-pass"
+      "https://up.codes/careers"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-05T17:30:17Z",
-    "id": "energy-26c5c32cfef0b282"
+    "data_as_of": "2026-11-06T17:03:33Z",
+    "id": "energy-3c0f5ad583a6ebb9"
   },
   {
-    "title": "Nintendo Officially Addresses Switch 2 Price Hike Concerns",
-    "summary": "Nintendo president Shuntaro Furukawa said the company isn't currently considering another Nintendo Switch 2 price increase.",
+    "title": "'Godzilla Minus Zero' Officially Fixes King Ghidorah Canon in 1 Brilliant Way",
+    "summary": "The team behind Godzilla Minus Zero on the sights and sounds of King Ghidorah, and that awesome New York City scene",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/nintendo-switch-2-price-increase-november-2026/",
-    "timestamp": "2026-11-05T17:27:25Z",
+    "url": "https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/",
+    "timestamp": "2026-11-06T17:00:20Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/nintendo-switch-2-price-increase-november-2026/"
+      "https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-05T17:27:25Z",
-    "id": "energy-22ab14e7aa25c820"
+    "data_as_of": "2026-11-06T17:00:20Z",
+    "id": "energy-ac853fa20eeff2fb"
   },
   {
-    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+    "title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed",
+    "summary": "Ratchet & Clank: Ranger Rumble never officially launched globally",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657",
+    "timestamp": "2026-11-06T17:00:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-06T17:00:11Z",
+    "id": "energy-1a9d768dce78a156"
+  },
+  {
+    "title": "EA Officially Brings Back 25 PC Classics With Huge Sale",
+    "summary": "EA just released 25 of its classic games on Steam, which includes seven new remasters.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/ea-classic-games-rerelease-wing-commander-remaster-ultima/",
+    "timestamp": "2026-11-06T16:57:40Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/ea-classic-games-rerelease-wing-commander-remaster-ultima/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-06T16:57:40Z",
+    "id": "energy-3221624618032c25"
+  },
+  {
+    "title": "First steps in bare-metal programming using UEFI",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/rivet-dev/rivet",
-    "timestamp": "2026-11-05T17:17:42Z",
+    "url": "https://kevinboone.me/efitest_index.html",
+    "timestamp": "2026-11-06T16:50:29Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/rivet-dev/rivet"
+      "https://kevinboone.me/efitest_index.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-05T17:17:42Z",
-    "id": "energy-67389ed891f41375"
+    "data_as_of": "2026-11-06T16:50:29Z",
+    "id": "energy-862e28a303fd8f9d"
   },
   {
-    "title": "GTA 6 Officially Drops 36 New Screenshots Ahead of Launch",
-    "summary": "Rockstar Games has released a new look at Grand Theft Auto 6 on Nov. 5, with 36 new screenshots of Jason, Lucia, and Vice City.",
+    "title": "Civ 7 Is At The Center Of A Switch 2 Hacking Situation",
+    "summary": "2K has reportedly started recalling the physical version of the strategy game due to the exploit",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/civ-7-is-at-the-center-of-a-switch-2-hacking-situation-2000754656",
+    "timestamp": "2026-11-06T16:45:25Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/civ-7-is-at-the-center-of-a-switch-2-hacking-situation-2000754656"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-06T16:45:25Z",
+    "id": "energy-d3b9a3417f4ec107"
+  },
+  {
+    "title": "New Ratchet & Clank Game Officially Cancelled by Sony",
+    "summary": "The multiplayer shooter Ratchet & Clank: Ranger Rumble is getting delisted this month and fully shut down next May.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-launch-update-screenshots-rockstar-games-nov-5/",
-    "timestamp": "2026-11-05T17:17:12Z",
+    "url": "https://www.polygon.com/ratchet-and-clank-ranger-rumble-canceled-delisted/",
+    "timestamp": "2026-11-06T16:42:44Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/gta-6-launch-update-screenshots-rockstar-games-nov-5/"
+      "https://www.polygon.com/ratchet-and-clank-ranger-rumble-canceled-delisted/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-05T17:17:12Z",
-    "id": "energy-bb78553e9bda7863"
+    "data_as_of": "2026-11-06T16:42:44Z",
+    "id": "energy-cb94c6eaff15d914"
   },
   {
-    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
-    "timestamp": "2026-11-05T17:01:23Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ycombinator.com/companies/bild-ai/jobs"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-05T17:01:23Z",
-    "id": "energy-b9d890a23fa5a7c5"
-  },
-  {
-    "title": "My New Favorite Horror Game Turns Reconnecting With Your Ex Into A Harrowing Experience",
-    "summary": "Tenebris Somnia is an FMV-adjacent game that really is like playing a movie, for real this time",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/tenebris-somnia-an-fmv-game-that-turns-reconnecting-with-your-ex-into-a-harrowing-experience-2000753435",
-    "timestamp": "2026-11-05T17:00:55Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/tenebris-somnia-an-fmv-game-that-turns-reconnecting-with-your-ex-into-a-harrowing-experience-2000753435"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-05T17:00:55Z",
-    "id": "energy-8580e73a2bd167ce"
-  },
-  {
-    "title": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren’t Happy: ‘As A Graffiti Artist Myself, I Honestly Think This Is Pretty Disrespectful’",
-    "summary": "Some have defended the artist, claiming the mural is just a big advertisement and fair game for tagging",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181",
-    "timestamp": "2026-11-05T16:32:30Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-05T16:32:30Z",
-    "id": "energy-bf7e6912c3e3ffa3"
-  },
-  {
-    "title": "Musical Arts School releases Live Grand Light, a FREE Steinway D Model for Kontakt Player",
-    "summary": "Musical Arts School has just released its first virtual piano, Live Grand Modern D ($149), and we’re taking a look at the free version, Live Grand Light. Dominik Schulte is a pianist, educator, developer, and the founder of Musical Arts School. MAS sampled a modern Steinway Model D at River Studios in Cologne, Germany, using [...] View post: Musical Arts School releases Live Grand Light, a FREE Steinway D Model for Kontakt Player",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/05/musical-arts-school-live-grand-light/",
-    "timestamp": "2026-11-05T16:22:53Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/05/musical-arts-school-live-grand-light/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-05T16:22:53Z",
-    "id": "energy-a9e1453bb8c5e44a"
-  },
-  {
-    "title": "Tracktion Waveform 14.1 introduces new features to paid and Free versions",
-    "summary": "Many people consider Tracktion’s Waveform Free the gold standard for free digital audio workstations, and for good reason. It feels more like a robust, fully-fledged DAW with fewer restrictions than many free alternatives, which is why it often serves as the benchmark for newcomers like MorningDAW. We covered the release of Waveform 14 a few [...] View post: Tracktion Waveform 14.1 introduces new features to paid and Free versions",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/",
-    "timestamp": "2026-11-05T16:13:52Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/05/tracktion-waveform-14-1/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-05T16:13:52Z",
-    "id": "energy-88655e3605de723d"
-  },
-  {
-    "title": "Puremagnetik releases Studies with 10 FREE instruments and effects",
-    "summary": "Puremagnetik has released Studies, a plugin library with three instruments and seven effects available for free. Puremagnetik has been around a long time, and they’re great at making experimental instruments and effects with plenty of character. Studies continues that same approach to sound design and brings it into a modern format where it’s basically multiple [...] View post: Puremagnetik releases Studies with 10 FREE instruments and effects",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/",
-    "timestamp": "2026-11-05T16:04:05Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/05/puremagnetik-studies-free/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-05T16:04:05Z",
-    "id": "energy-7cbf8f04115b0f80"
-  },
-  {
-    "title": "5 Acquires Legacy Energy, Expanding Its Presence In PJM And MISO Energy Markets",
-    "summary": "By Amit Chowdry 5, a Dallas-based technology-enabled energy advisory firm, has acquired Legacy Energy, a diversified energy management services company headquartered in Warrenton, Virginia. The acquisition expands 5’s presence in the PJM and MISO energy markets and strengthens its capabilities in energy procurement, utility bill management, tariff rate analysis, and behind-the-meter services. Founded in 1999, […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/5-acquires-legacy-energy-expanding-its-presence-in-pjm-and-miso-energy-markets/",
-    "timestamp": "2026-11-05T15:39:59Z",
+    "title": "Best of October 2026",
+    "summary": "Highlights from the eight conversations released last month.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/best-of-october-2026",
+    "timestamp": "2026-11-06T16:21:20Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/5-acquires-legacy-energy-expanding-its-presence-in-pjm-and-miso-energy-markets/"
+      "https://www.volts.wtf/p/best-of-october-2026"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-11-06T16:21:20Z",
+    "id": "energy-0cd9f912cb45cdf5"
+  },
+  {
+    "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+    "timestamp": "2026-11-06T16:15:03Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://vincent.bernat.ch/en/blog/2026-bunny-geodns"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-06T16:15:03Z",
+    "id": "energy-ecc099ea4f8d9a63"
+  },
+  {
+    "title": "Exelon, Invenergy Complaints At FERC Seek Capacity Market Changes",
+    "summary": "By Ethan Howland Exelon and Invenergy Transmission this week filed separate complaints at the Federal Energy Regulatory Commission seeking changes to the capacity markets run by the PJM Interconnection and the Midcontinent Independent System Operator. Exelon asked FERC to order PJM to shift to a “prompt” auction from its current forward capacity auction schedule, according […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/exelon-invenergy-complaints-at-ferc-seek-capacity-market-changes/",
+    "timestamp": "2026-11-06T15:47:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/11/exelon-invenergy-complaints-at-ferc-seek-capacity-market-changes/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-05T15:39:59Z",
-    "id": "energy-3b6f77b9c92f09ea"
+    "data_as_of": "2026-11-06T15:47:02Z",
+    "id": "energy-54114cd78661c427"
   },
   {
-    "title": "How Trump’s Energy Policies Helped Trigger Tuesday’s Election Rout",
-    "summary": "By David Gelles President Trump spent much of the past two years promising to bring down energy prices. Instead, his war with Iran, as well as other policies, drove up the cost of gasoline, diesel and electricity. At the same time his administration worked to thwart efforts to fight climate change, blocking renewable energy investments […]",
+    "title": "Energy Law: Month In Review – October 2026",
+    "summary": "By Zev Simpser, Brian Bell, and Sonja Smerud Regulatory Developments FERC Approves Penalties for Nonperforming Demand-Side Resources On October 23, the Federal Energy Regulatory Commission (FERC) approved a set of penalties in Docket No. ER26-1882 for Load Modifying Resources (LMR), or demand-side response and behind-the-meter generation assets. The penalties apply to resources that fail to […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/how-trumps-energy-policies-helped-trigger-tuesdays-election-rout/",
-    "timestamp": "2026-11-05T15:39:10Z",
+    "url": "https://misoxenwatch.com/2026/11/energy-law-month-in-review-october-2026/",
+    "timestamp": "2026-11-06T15:46:24Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/how-trumps-energy-policies-helped-trigger-tuesdays-election-rout/"
+      "https://misoxenwatch.com/2026/11/energy-law-month-in-review-october-2026/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-05T15:39:10Z",
-    "id": "energy-435851bc0c8bd4f0"
+    "data_as_of": "2026-11-06T15:46:24Z",
+    "id": "energy-374866af606970dd"
   },
   {
-    "title": "Voters Rejected A.I. In The Midterms. Now Comes An Era Of Scrutiny.",
-    "summary": "By Cecilia Kang and Sophia June Voters on Tuesday slammed the brakes on data centers and swept in governors and legislators who have promised to protect individuals from threats posed by artificial intelligence. Despite record donations by tech executives to tech-friendly candidates, voters chose a new Democratic leadership raring to investigate the cozy ties between […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/voters-rejected-a-i-in-the-midterms-now-comes-an-era-of-scrutiny/",
-    "timestamp": "2026-11-05T15:38:34Z",
-    "topic": "Energy",
+    "title": "Nintendo’s Shigeru Miyamoto Misses Financial Briefing Due To A ‘Sudden Illness’ But Is Expected To Recover Soon",
+    "summary": "'He is expected to recover in a few days to a week'",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655",
+    "timestamp": "2026-11-06T15:46:04Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/voters-rejected-a-i-in-the-midterms-now-comes-an-era-of-scrutiny/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-05T15:38:34Z",
-    "id": "energy-7709e0d7fb90627e"
-  },
-  {
-    "title": "Yet another approach to measuring distance in some hyperspaces",
-    "summary": "arXiv:2611.00249v2 Announce Type: replace Abstract: In this article, we define a new partial distance on hyperspaces consisting of closed balls, which is a partial metric in the sense of Matthews. We prove that these partial metric spaces are complete if and only if the metric spaces from which the corresponding ball spaces arise are complete. Finally, we compare the topology induced by the new partial distance with that induced by the classical Hausdorff distance.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.00249",
-    "timestamp": "2026-11-05T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.00249"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-05T05:00:00Z",
-    "id": "energy-26cdb0d0443992f1"
-  },
-  {
-    "title": "Whole-space eventual log-concavity and level-set geometry for the multidimensional Fisher-KPP equation",
-    "summary": "arXiv:2610.30702v2 Announce Type: replace Abstract: We establish eventual strict log-concavity and quantitative level-set curvature bounds for the Fisher-KPP equation $u_t=\\Delta u+u-u^2$ in $\\mathbb R^N$, $N\\geq2$, with nontrivial, nonnegative, smooth compactly supported initial data. Specifically, there exist $T>1$ and $c>0$ such that $D_x^2\\log u(t,x)\\leq-(c/t)e^{-2(\\sqrt2-1)t}\\mathrm{Id}$ for all $t\\geq T$ and $x\\in\\mathbb R^N$. Consequently, after a single waiting time, the solution has exactly one critical point, which is a nondegenerate global maximizer, and every positive level set below the maximum is smooth, closed, and strictly convex with positive principal curvatures. Moreover, for levels in any fixed closed interval $K\\subset(0,1)$, the principal curvatures are uniformly bounded below by $(1-C\\log t/t)/(2t)$ for all sufficiently large $t$. The proof combines one-sided second angular derivative estimates for the fixed-front region, absorptive comparison in the invaded interior, leading-edge barriers and blow-up arguments through the diffusive scale, and uniform Gaussian amplitude estimates in the exterior.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.30702",
-    "timestamp": "2026-11-05T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.30702"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-05T05:00:00Z",
-    "id": "energy-4f217176394491a8"
-  },
-  {
-    "title": "When light travels with infinite speed: the electromagnetic loop circuits",
-    "summary": "arXiv:2611.05606v1 Announce Type: new Abstract: Considering the ideal limit where the speed of light is infinite, or more precisely where the permittivity and permeability of the vaccuum are both zero, we construct a new type of electromagnetic circuit that we name an EM-loop circuit. These consist of wires having very high permittivity (E-wires) and wires having very high permeability (M-wires). These are threaded together by coils, the E-wire loops and M-wire loops. Some of the loops are terminal loops, pierced by an applied magnetic flux (for E-wire loops) or an applied displacement field (for M-wire loops) that are outside the vacuum since it does not support these fields. The response is the net flux of displacement field through a cross section of each E-wire terminal loop and the net magnetic flux through a cross section of each terminal M-wire loop. To calculate this response, the fields at the internal loops (those that are not terminal loops) are eliminated from the equations.It turns out that the response is governed by a new class of function pairs - dual Herglotz functions. Superpositions of a special class of EM-loop circuits, termed fundamental, allow us to realize…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.05606",
-    "timestamp": "2026-11-05T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.05606"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-05T05:00:00Z",
-    "id": "energy-2a95b9f7682a0815"
-  },
-  {
-    "title": "Coupe de France Slash 2026: playoff outlook across all remaining scenarios",
-    "summary": "Halfway through the Coupe de France Slash League Play, I checked every way the 15 remaining series can end and counted where each team finishes. Reading the card: on the right, the share of all possible outcomes where the team makes playoffs. In the middle, how often it ends at each final rank (#1 to #6, in %); the outlined cell is the rank it's projected to finish at, and the gap marks the playoff line. The bar under each name is the playoff share at a glance (green = qualified, yellow = on tiebreak). How it works Results: pulled from Liquipedia (LPDB API), as of 4 Nov. Tiebreakers are the ones Liquipedia uses for this event, in order: series record, game difference, head-to-head game difference, head-to-head goal difference, then a overall goal difference (in the rules, but not on the Liquipedia page yet, where it's a manual tiebreak). Every outcome: a Bo5 can end 6 ways (3-0, 3-1, 3-2 either way), so 15 series give 615 = 470,184,984,576 possible endings. For each one, the final standings are computed with those tiebreakers, and the card shows how often each team ends at each rank. Without looping over 470 billion standings: the script first goes through every combination of ser…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xo3hyk/coupe_de_france_slash_2026_playoff_outlook_across/",
-    "timestamp": "2026-11-04T23:35:02Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xo3hyk/coupe_de_france_slash_2026_playoff_outlook_across/"
+      "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-04T23:35:02Z",
-    "id": "energy-f958dde68f9a3a18"
+    "data_as_of": "2026-11-06T15:46:04Z",
+    "id": "energy-4f1d535815c4802b"
   },
   {
-    "title": "Chalked cast Pre season rankings",
+    "title": "Right On Queue: Opportunities For Interconnection Queue Reform In The United States",
+    "summary": "By Staff Writer Executive Summary The process of connecting new power to the grid –interconnection– has thwarted bringing new generation online for years. Increasingly long queues, project withdrawals, years-long studies without firm timelines, and uncertain costs have come to define the interconnection process across the country. And most interconnection processes are divorced from grid-wide, long-term […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/right-on-queue-opportunities-for-interconnection-queue-reform-in-the-united-states/",
+    "timestamp": "2026-11-06T15:45:03Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/11/right-on-queue-opportunities-for-interconnection-queue-reform-in-the-united-states/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-06T15:45:03Z",
+    "id": "energy-6db58a8cb3bc992b"
+  },
+  {
+    "title": "Projected Bracket for RLCS Club Championships Kickoff by MartianTurtle",
     "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xo33ie/chalked_cast_pre_season_rankings/",
-    "timestamp": "2026-11-04T23:16:43Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xpfg4m/projected_bracket_for_rlcs_club_championships/",
+    "timestamp": "2026-11-06T15:21:49Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xo33ie/chalked_cast_pre_season_rankings/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xpfg4m/projected_bracket_for_rlcs_club_championships/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-11-04T23:16:43Z",
-    "id": "energy-d8bdd17aa4b84767"
+    "data_as_of": "2026-11-06T15:21:49Z",
+    "id": "energy-fe5229ad1cabb2d8"
   },
   {
-    "title": "What would an NA Coup de France look like?",
-    "summary": "Someone please get Lawler and Jamesbot some sponsors so we can have the most epic NA League Play ever. As fun as it is to watch the french, it feels like everyone else is going to be that much more behind. It would also fill a little piece of the void left by this season’s abbreviated format. submitted by /u/ComparisonOk2250 [link] [comments]",
+    "title": "Green Oak Software updates the classic FREE soft synth Crystal to v2.6.0",
+    "summary": "Developer Green Oak Software has updated their classic free soft synth Crystal to version 2.6.0. Crystal has been around since the early 2000s, and, as it seems, it is not going anywhere. The 2.6.0 update brings support for VST3, Apple Silicon, and a resizable GUI. Crystal is now available in AU and VST3 formats for [...] View post: Green Oak Software updates the classic FREE soft synth Crystal to v2.6.0",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/06/green-oak-crystal-update/",
+    "timestamp": "2026-11-06T14:47:14Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/06/green-oak-crystal-update/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-06T14:47:14Z",
+    "id": "energy-de7ed368d9deb7b8"
+  },
+  {
+    "title": "OXO Synth2 is a FREE Synth1 recreation for modern Macs and iPad",
+    "summary": "OXO Music has released OXO Synth2, a free, open-source virtual analog synthesizer that recreates Synth1 for macOS and iPad. Ichiro Toda’s Synth1 has been part of the freeware synth scene for years. It’s probably the free synth most people my age started with. I was never really impressed by its sound character or the GUI [...] View post: OXO Synth2 is a FREE Synth1 recreation for modern Macs and iPad",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/06/oxo-synth2/",
+    "timestamp": "2026-11-06T14:09:28Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/06/oxo-synth2/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-06T14:09:28Z",
+    "id": "energy-957a90394ed428b7"
+  },
+  {
+    "title": "Vibe Together turns music-making into a multiplayer game you can try for FREE",
+    "summary": "Vibe Together is a free-to-start browser music sandbox where up to eight people can build a song together on a shared grid. Developed by Manik Bhat, aka The Music Unc, Vibe Together has been four years in the making. The idea behind the project is to make creating music feel more like playing a game [...] View post: Vibe Together turns music-making into a multiplayer game you can try for FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/",
+    "timestamp": "2026-11-06T13:30:26Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-06T13:30:26Z",
+    "id": "energy-5d5c54d98ad7af7a"
+  },
+  {
+    "title": "XM4D: 4D Reconstruction through Certifiable Geometric Optimization",
+    "summary": "arXiv:2611.07902v1 Announce Type: cross Abstract: Accurate 4D reconstruction remains challenging: jointly estimating camera motion, scene geometry, and non-rigid deformation entails highly nonconvex optimization, making global optimality difficult to guarantee. We present XM4D, a framework for accurate and efficient 4D reconstruction built upon certifiably globally optimal geometric optimization. By separating the estimation of camera motion from non-rigid deformation, we formulate both stages as structured quadratically constrained quadratic programs (QCQP) that admit semidefinite programming (SDP) relaxations and verifiable global optimality certificates. For camera motion estimation, we lift static point tracks into 3D using foundational depth prediction models and formulate a scaled bundle adjustment problem that jointly estimates camera poses, depth scales, and static landmarks. By analytically eliminating translations and landmarks, we reduce the problem to a QCQP over scaled rotations. For non-rigid reconstruction, we represent dynamic motion using an embedded deformation graph (EDG) and show that its tracking, rigidity, and temporal regularization objectives similarly redu…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.07902",
+    "timestamp": "2026-11-06T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2611.07902"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-06T05:00:00Z",
+    "id": "energy-7bcc9f26fa1366ba"
+  },
+  {
+    "title": "Worst-Case Finite-Horizon Analysis of Perturbed LQR via Performance Estimation Problem",
+    "summary": "arXiv:2610.29910v2 Announce Type: replace Abstract: We propose a framework to assess the robustness of a given state-feedback controller by evaluating its worst-case finite-horizon cost over a class of norm-bounded perturbations. To compute this cost, we show how to apply the Performance Estimation Problem (PEP) framework, originally developed to analyze optimization algorithms, and reformulate the worst-case search as a rank-constrained Semidefinite Program (SDP). Our results suggest that the perturbations that induce the highest finite-horizon costs can differ substantially from those identified using standard asymptotic metrics. Intuitively, worst-case perturbations are obtained by aligning slowly decaying modes with specific initial conditions to drive transient growth, causing a bifurcation in the worst-case behavior as the horizon length changes. These findings open new possibilities to certify finite-horizon performance of broader system classes, including data-driven models or nonlinear components.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2610.29910",
+    "timestamp": "2026-11-06T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2610.29910"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-06T05:00:00Z",
+    "id": "energy-b2ac5102d7aecb57"
+  },
+  {
+    "title": "Worldsheet skeins and block decomposition of quivers",
+    "summary": "arXiv:2611.07455v1 Announce Type: cross Abstract: Following the knot-quiver correspondence, we investigate quiver counterparts of the HOMFLYPT skein relations by interpreting link invariants in terms of holomorphic worldsheets and their multicover contributions. Extending this framework to more general worldsheet geometries, we conjecture that, up to quiver equivalence, the adjacency matrix of the quiver associated with any link in a skein triple admits a block decomposition whose diagonal blocks are quiver adjacency matrices associated with the other two links. We verify this conjecture in numerous examples.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.07455",
+    "timestamp": "2026-11-06T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2611.07455"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-06T05:00:00Z",
+    "id": "energy-d293a5360eb91588"
+  },
+  {
+    "title": "Due to a hand injury Andy's team (Fortnite Flick: incl Flitz and Gyro) must disqualify from the upcoming qualifier",
+    "summary": "submitted by /u/Duke_ofChutney [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xo2ddg/what_would_an_na_coup_de_france_look_like/",
-    "timestamp": "2026-11-04T22:45:58Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xp3bob/due_to_a_hand_injury_andys_team_fortnite_flick/",
+    "timestamp": "2026-11-06T04:03:42Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xo2ddg/what_would_an_na_coup_de_france_look_like/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xp3bob/due_to_a_hand_injury_andys_team_fortnite_flick/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-11-04T22:45:58Z",
-    "id": "energy-77d3c01fa0e5d6a6"
+    "data_as_of": "2026-11-06T04:03:42Z",
+    "id": "energy-31693440e788a8ec"
+  },
+  {
+    "title": "Your Favourite Casting Duo's?",
+    "summary": "For me it's a toss up between CJCJ and JohnyBoi_i, or Stumpy & Cole. I think the way they bounce off each others comments and can use humour to enhance even the bad, or one sided games, are just too great. I might be Aus/EU biased though. Whereas some duo's (even if my fave caster is one of them) just seem to say their own thing regardless of what the previous caster said beforehand and just don't really have that chemistry. Who are your favourite paired up casting duo's? submitted by /u/FoundSteve [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xozxij/your_favourite_casting_duos/",
+    "timestamp": "2026-11-06T01:13:14Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xozxij/your_favourite_casting_duos/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-06T01:13:14Z",
+    "id": "energy-f5334e6faf009969"
   },
   {
     "title": "BJJ Rankings Update – November 2026",
@@ -448,23 +466,5 @@
     "primary_source": false,
     "data_as_of": "2026-11-04T11:34:58Z",
     "id": "energy-c6a54a61e2151a25"
-  },
-  {
-    "title": "UFC BJJ 13 Full Results And Highlights",
-    "summary": "UFC BJJ returned to the Meta APEX in Las Vegas on October 29, 2026, for UFC BJJ 13, an event featuring two vacant championship titles and a stacked lineup of elite submission grapplers. The event delivered nine matches, six submission finishes and two new champions. William Tackett headlined the card with an impressive first-round submission of Jacob […] The post UFC BJJ 13 Full Results And Highlights appeared first on Jitsmagazine.com.",
-    "source": "Jitsmagazine.com",
-    "url": "https://jitsmagazine.com/ufc-bjj-13-full-results-and-highlights/",
-    "timestamp": "2026-11-03T12:37:18Z",
-    "topic": "Jiu-Jitsu",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://jitsmagazine.com/ufc-bjj-13-full-results-and-highlights/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-03T12:37:18Z",
-    "id": "energy-28fea2c0b68bb7ed"
   }
 ]

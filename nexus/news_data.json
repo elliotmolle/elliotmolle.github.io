@@ -1,5 +1,185 @@
 [
   {
+    "title": "Thea Energy, MIT collaborate on testing stellarator magnet technology",
+    "summary": "Stellarator developer Thea Energy has announced that it is collaborating with the Massachusetts Institute of Technology on the testing and validation of an encircling magnet coil for the fusion firm’s Eos stellarator. The work will take place at MIT’s Plasma Science and Fusion Center (PSFC) in Cambridge, Mass.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-06/article-8563/thea-energy-mit-collaborate-on-testing-stellarator-magnet-technology/",
+    "timestamp": "2026-11-06T16:13:04Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-06/article-8563/thea-energy-mit-collaborate-on-testing-stellarator-magnet-technology/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-06T16:13:04Z",
+    "id": "energy-e0013d646ad728ee"
+  },
+  {
+    "title": "Learning resources support commercial operation of distributed energy resource aggregations",
+    "summary": "DERAs may now participate in the wholesale electricity markets through frameworks established under FERC Order No. 2222. The post Learning resources support commercial operation of distributed energy resource aggregations appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/06/learning-resources-support-commercial-operation-of-distributed-energy-resource-aggregations/",
+    "timestamp": "2026-11-06T14:18:08Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/06/learning-resources-support-commercial-operation-of-distributed-energy-resource-aggregations/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-06T14:18:08Z",
+    "id": "energy-ae54e5cd73c37381"
+  },
+  {
+    "title": "Information Technology Industry Council Letter to the PJM Board regarding Large Load Interconnection Reforms",
+    "summary": "Updated Date: 11.06.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261106-information-technology-industry-council-letter-to-the-pjm-board-regarding-large-load.pdf",
+    "timestamp": "2026-11-06T13:27:03Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261106-information-technology-industry-council-letter-to-the-pjm-board-regarding-large-load.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-11-06T13:27:03Z",
+    "id": "energy-2b9ccb25d188b84d"
+  },
+  {
+    "title": "Korean companies partner with U.S. start-ups",
+    "summary": "In recent months, much attention has been paid to the deal between the United States and South Korea involving the potential construction of eight new gigawatt-scale reactors. Outside of that spotlight, however, significant U.S.-Korean collaboration continues on the small reactor front. In the past two weeks, Elementl Power partnered with DS Investment Partners and Hyundai partnered with ARC Clean Technology, Nano Nuclear, and First American Nuclear.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-06/article-8562/korean-companies-partner-with-us-startups/",
+    "timestamp": "2026-11-06T13:18:42Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-06/article-8562/korean-companies-partner-with-us-startups/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-06T13:18:42Z",
+    "id": "energy-eb81d6551dbe520f"
+  },
+  {
+    "title": "Salem power plant planning 200-MW uprate",
+    "summary": "The Salem nuclear power plant is expected to get a 200-MW uprate, executives from PSEG, the co-owners and operators of the Hancocks Bridge, N.J., facility, said in the utility’s recent third quarter earnings call. The planned uprate for the two-unit plant was already mentioned in Constellation’s October announcement that 11 facilities were in line to receive upgrades to increase nuclear capacity, including Salem. Constellation owns 43 percent of the plant, while PSEG Nuclear owns the other 57 percent. The third quarter earnings presentation shed light on the size of the uprate. Of the planned 200-MW uprate, PSEG will receive roughly 112 MW. The uprate aligns with comments made earlier in the year, when PSEG executives said Salem had a capacity uprate potential of nearly 200 MW.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-05/article-8561/salem-power-plant-planning-200mw-uprate/",
+    "timestamp": "2026-11-05T21:32:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-05/article-8561/salem-power-plant-planning-200mw-uprate/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-05T21:32:33Z",
+    "id": "energy-753c3754261da7c6"
+  },
+  {
+    "title": "Cooking up energy savings this holiday season",
+    "summary": "Trim your energy budget with these holiday cooking tips. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/cooking-up-energy-savings-this-holiday-season",
+    "timestamp": "2026-11-05T20:56:12Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/cooking-up-energy-savings-this-holiday-season"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-05T20:56:12Z",
+    "id": "energy-9a9d27c1c6ff58a2"
+  },
+  {
+    "title": "Smart plugs: Advanced features to look for",
+    "summary": "Ready to brighten up your old outlets with smart plugs? These advanced features can save you time, money and add convenience. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/smart-plugs-advanced-features-to-look-for",
+    "timestamp": "2026-11-05T20:10:40Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/smart-plugs-advanced-features-to-look-for"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-05T20:10:40Z",
+    "id": "energy-776359a45ed6c3cc"
+  },
+  {
+    "title": "Video explains capacity market offer floors",
+    "summary": "A companion quick reference guide is also available. The post Video explains capacity market offer floors appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/05/video-explains-capacity-market-offer-floors/",
+    "timestamp": "2026-11-05T18:02:50Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/05/video-explains-capacity-market-offer-floors/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-05T18:02:50Z",
+    "id": "energy-19c6735c2ac33a33"
+  },
+  {
     "title": "Five tips for buying a portable space heater",
     "summary": "Whether it's time to replace your old heater or you simply need to add a little warmth to an area in your home, buying a new portable space heater is a great option. Keep these five things in mind as you search. Source",
     "source": "Entergy",
@@ -24,76 +204,6 @@
     "id": "energy-8758e5579061c44b"
   },
   {
-    "title": "Talking turkey: Nine simple energy-saving tips for Thanksgiving",
-    "summary": "Thanksgiving Day is a special time of year, but the extra energy costs can be stressful. Use these simple, straightforward tips to save money and reduce stress. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/talking-turkey-nine-simple-energy-saving-tips-for-thanksgiving",
-    "timestamp": "2026-11-05T15:38:22Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/talking-turkey-nine-simple-energy-saving-tips-for-thanksgiving"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-05T15:38:22Z",
-    "id": "energy-5c30e5ba806fb36d"
-  },
-  {
-    "title": "Luis Correa Named Entergy Texas’ Lineman of the Game",
-    "summary": "From the deserts of Afghanistan to the electric grid of Southeast Texas, Luis Correa's career journey has been built on service. Correa, a journeyman lineman who works in Entergy’s Port Arthur service network, will step into the spotlight as the Lineman of the Game during the New Orleans Saints vs. Cleveland Browns matchup on Nov. 8 at the Caesars Superdome. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/luis-correa-named-entergy-texas-lineman-of-the-game",
-    "timestamp": "2026-11-05T15:06:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/luis-correa-named-entergy-texas-lineman-of-the-game"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-05T15:06:00Z",
-    "id": "energy-1023388a50aa0ab7"
-  },
-  {
-    "title": "Oak Ridge’s Transuranic Waste Processing Center gets upgrades",
-    "summary": "The Department of Energy’s Office of Environmental Management has announced that part of the Transuranic Waste Processing Center (TWPC) at the Oak Ridge Reservation cleanup site has been remodeled and updated with new equipment. The upgrades will allow that part of the facility to process forms of transuranic (TRU) waste different from what it had processed in the past in order to support efficient site cleanup. The TWPC comprises four areas: a 5-line contact-handled glovebox, a 1,000-square-foot hot cell facility, a large box breakdown area, and a cask processing enclosure (CPE). The CPE is the area that has been updated.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-05/article-8558/oak-ridges-transuranic-waste-processing-center-gets-upgrades/",
-    "timestamp": "2026-11-05T14:11:47Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-05/article-8558/oak-ridges-transuranic-waste-processing-center-gets-upgrades/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-05T14:11:47Z",
-    "id": "energy-3ab55ebffc972525"
-  },
-  {
     "title": "First Fuel Loading Complete At China’s Sanao-2, Says CGN",
     "summary": "The loading of fuel assemblies into the core of the Sanao-2 nuclear power plant in the eastern Chinese province of Zhejiang has been completed, owner China General Nuclear (CGN) said. According to CGN, fuel loading was completed on 2 November, marking a major step towards nuclear-powered operation and commissioning. Sanao-2 is a 1,117-MW domestic Hualong One, or HPR1000, pressurised water reactor (PWR) unit. Construction began in December 2021.",
     "source": "NucNet: Global Nuclear News",
@@ -113,50 +223,6 @@
     ],
     "data_as_of": "2026-11-05T13:20:26Z",
     "id": "energy-3f1579c080fddc3b"
-  },
-  {
-    "title": "NRC workshop addresses “bridge” between DOE authorization and NRC licensing",
-    "summary": "The Nuclear Regulatory Commission’s Office of Advanced Reactors recently launched a series of workshops aimed at those who want to learn more about or will need to navigate the NRC’s licensing process. Dubbed “License to Launch,” the series began with primers on 10 CFR Parts 50, 52, the finalized 53, and the proposed 57.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-04/article-8557/nrc-workshop-addresses-bridge-between-doe-authorization-and-nrc-licensing/",
-    "timestamp": "2026-11-04T23:10:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-04/article-8557/nrc-workshop-addresses-bridge-between-doe-authorization-and-nrc-licensing/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-04T23:10:31Z",
-    "id": "energy-7c0d27f3d096a6a9"
-  },
-  {
-    "title": "Urenco touts first cylinder of LEU+ for commercial use",
-    "summary": "Urenco USA has produced its first cylinder of uranium hexafluoride enriched to levels of uranium-235 between 5 and 10 percent, or LEU+. The company said that this is the first instance of commercial LEU+ production in “the Western world.” In May of this year, Urenco’s Capenhurst plant in the United Kingdom produced samples of LEU+ enriched to 7 percent U-235 in a trial run. Russia and China have explored the use of nuclear fuel enriched above 5 percent U-235 as well, according to the International Atomic Energy Agency.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-04/article-8556/urenco-touts-first-cylinder-of-leu-for-commercial-use/",
-    "timestamp": "2026-11-04T18:41:55Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-04/article-8556/urenco-touts-first-cylinder-of-leu-for-commercial-use/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-04T18:41:55Z",
-    "id": "energy-ee967bcc2a1130bd"
   },
   {
     "title": "Canada’s Bruce-5 Nuclear Plant Taken Offline For Major Component Replacement Outage",
@@ -199,49 +265,5 @@
     ],
     "data_as_of": "2026-11-04T13:13:21Z",
     "id": "energy-49dc5a20dfbac00c"
-  },
-  {
-    "title": "AI, energy storage, and more: ISO-NE staff share expertise at October events",
-    "summary": "A roundup of ISO-NE staff speaking engagements in October 2026. The post AI, energy storage, and more: ISO-NE staff share expertise at October events appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/03/ai-energy-storage-and-more-iso-ne-staff-share-expertise-at-october-events/",
-    "timestamp": "2026-11-03T14:54:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/03/ai-energy-storage-and-more-iso-ne-staff-share-expertise-at-october-events/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-03T14:54:30Z",
-    "id": "energy-39136a29b4f0fc19"
-  },
-  {
-    "title": "Quarterly Settlements Forum registration open",
-    "summary": "The webinar is scheduled for Wednesday, Dec. 2, from 10:00 to 11:00 a.m. The post Quarterly Settlements Forum registration open appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/02/quarterly-settlements-forum-registration-open-2/",
-    "timestamp": "2026-11-02T19:45:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/02/quarterly-settlements-forum-registration-open-2/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-02T19:45:00Z",
-    "id": "energy-adf9c267b9096f04"
   }
 ]
