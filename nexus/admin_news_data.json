@@ -1,129 +1,279 @@
 [
   {
-    "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+    "title": "Sony Delays Wireless PlayStation Pulse Speakers A Week Away From Launch",
+    "summary": "Sony cites a 'production issue' as hardware shortages stymie what would have been an otherwise whirlwind holiday season for the console",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+    "timestamp": "2026-11-07T15:59:42Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T15:59:42Z",
+    "id": "energy-ba88fe07693df77d"
+  },
+  {
+    "title": "GI Joe and Paranormal Activity Get New Official Release Dates from Paramount",
+    "summary": "Paramount reveals the release date for Danny McBride's GI Joe reboot and delays the next installment in the Paranormal Activity series.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/",
+    "timestamp": "2026-11-07T15:31:59Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T15:31:59Z",
+    "id": "energy-00ec5a371dde110a"
+  },
+  {
+    "title": "World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO",
+    "summary": "World of Warcraft got a whole lot of people to come back and play the MMO together",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/",
+    "timestamp": "2026-11-07T15:25:08Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T15:25:08Z",
+    "id": "energy-f31c5672256a8222"
+  },
+  {
+    "title": "One Of Hollywood's Biggest Stars Just Auditioned For James Bond",
+    "summary": "Robert Pattinson might be our next James Bond, according to new reports about the next James Bond film",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/james-bond-robert-pattinson/",
+    "timestamp": "2026-11-07T14:51:43Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/james-bond-robert-pattinson/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T14:51:43Z",
+    "id": "energy-c8d16d19a3b20b7a"
+  },
+  {
+    "title": "New Rule: AI Tool Guidelines",
+    "summary": "Hello everyone, today we are implementing a new rule for the use of AI tools in r/RocketLeagueEsports, a decision backed by 89% of respondents in the Subreddit census. Taking your feedback into account the mod team has had its own conversations and votes to clarify these expectations: AI Tool Guidelines Content including Generative AI (Text, Image, Video) must meet the following guidelines: A text submission cannot be majority generated through the use of AI tools Use of AI to produce content must be disclosed up front. Failure to disclose will result in content removal --Translation tools are exempt from the above two bullets. However a friendly reminder Reddit does have built-in translation capability! Generative AI in code is not so black and white. If prompted, the mod team will review submissions case by case Sharing of images and videos knowingly generated or altered via AI tools - where said image/video is the primary focus of the submission - is strictly forbidden Ex: Sharing the announcement of a new roster may be permitted despite an organization using AI in their video/graphics, as the focus of the post is the announcement and not the media itself. Repeated violations o…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xq73ib/new_rule_ai_tool_guidelines/",
+    "timestamp": "2026-11-07T14:02:57Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xq73ib/new_rule_ai_tool_guidelines/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-07T14:02:57Z",
+    "id": "energy-d070b7d9a9bfed13"
+  },
+  {
+    "title": "The $8 Linux Computer (2022)",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://up.codes/careers",
-    "timestamp": "2026-11-06T17:03:33Z",
+    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+    "timestamp": "2026-11-07T14:00:20Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://up.codes/careers"
+      "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-06T17:03:33Z",
-    "id": "energy-3c0f5ad583a6ebb9"
+    "data_as_of": "2026-11-07T14:00:20Z",
+    "id": "energy-a9efff2412a2e929"
   },
   {
-    "title": "'Godzilla Minus Zero' Officially Fixes King Ghidorah Canon in 1 Brilliant Way",
-    "summary": "The team behind Godzilla Minus Zero on the sights and sounds of King Ghidorah, and that awesome New York City scene",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/",
-    "timestamp": "2026-11-06T17:00:20Z",
-    "topic": "Gaming",
+    "title": "whos the goat according to trk",
+    "summary": "submitted by /u/qooll [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xq6ti7/whos_the_goat_according_to_trk/",
+    "timestamp": "2026-11-07T13:49:57Z",
+    "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xq6ti7/whos_the_goat_according_to_trk/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-06T17:00:20Z",
-    "id": "energy-ac853fa20eeff2fb"
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-07T13:49:57Z",
+    "id": "energy-919b50246ffaac43"
   },
   {
-    "title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed",
-    "summary": "Ratchet & Clank: Ranger Rumble never officially launched globally",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657",
-    "timestamp": "2026-11-06T17:00:11Z",
-    "topic": "Gaming",
+    "title": "PGF Announce Groundbreaking Judo Tournament With $10,000 Prize",
+    "summary": "The Professional Grappling Federation (PGF) is expanding beyond Brazilian Jiu-Jitsu, announcing the launch of an exciting new professional Judo tournament set to take place in Las Vegas on November 10, 2026. Dubbed PGF Pro Judo, the inaugural event will bring together eight competitors in an innovative round-robin format, with a $10,000 cash prize and championship […] The post PGF Announce Groundbreaking Judo Tournament With $10,000 Prize appeared first on Jitsmagazine.com.",
+    "source": "Jitsmagazine.com",
+    "url": "https://jitsmagazine.com/pgf-announce-groundbreaking-judo-tournament-with-10000-prize/",
+    "timestamp": "2026-11-07T11:08:57Z",
+    "topic": "Jiu-Jitsu",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657"
+      "https://jitsmagazine.com/pgf-announce-groundbreaking-judo-tournament-with-10000-prize/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-06T17:00:11Z",
-    "id": "energy-1a9d768dce78a156"
+    "data_as_of": "2026-11-07T11:08:57Z",
+    "id": "energy-57fd1e52fc318107"
   },
   {
-    "title": "EA Officially Brings Back 25 PC Classics With Huge Sale",
-    "summary": "EA just released 25 of its classic games on Steam, which includes seven new remasters.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/ea-classic-games-rerelease-wing-commander-remaster-ultima/",
-    "timestamp": "2026-11-06T16:57:40Z",
-    "topic": "Gaming",
+    "title": "Flame Sound Black Friday sale offers Everything Bundle for $49",
+    "summary": "Flame Sound is running its Black Friday sale from November 6 through December 1, 2026. First, thank you to everyone who has tried VATRA and shared such kind feedback. If you missed the intro sale, the plugin is now $39 again, down from $69. VATRA lets you add loudness with Ignite, warm things up with Heat, [...] View post: Flame Sound Black Friday sale offers Everything Bundle for $49",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/07/flame-sound-black-friday-2026/",
+    "timestamp": "2026-11-07T10:51:16Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/ea-classic-games-rerelease-wing-commander-remaster-ultima/"
+      "https://bedroomproducersblog.com/2026/11/07/flame-sound-black-friday-2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-06T16:57:40Z",
-    "id": "energy-3221624618032c25"
+    "data_as_of": "2026-11-07T10:51:16Z",
+    "id": "energy-8f0b744ae7ec1726"
   },
   {
-    "title": "First steps in bare-metal programming using UEFI",
+    "title": "Polyend offers Patch modular effects sample pack for FREE",
+    "summary": "Polyend is offering Patch, a sample pack featuring 101 experimental Eurorack effects, for free with the code PROMOPATCH at checkout. Simply add the pack to your cart and apply the code before completing checkout. Thanks to BPB reader Stan for the info! The collection is great for a bit of weekend inspiration if you like [...] View post: Polyend offers Patch modular effects sample pack for FREE",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/07/polyend-patch/",
+    "timestamp": "2026-11-07T10:40:36Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/07/polyend-patch/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T10:40:36Z",
+    "id": "energy-f19247cca136b561"
+  },
+  {
+    "title": "ILIO adds 2,000 more FREE Low End Theory 2 licenses for BPB readers",
+    "summary": "ILIO has added 2,000 more free licenses for Low End Theory 2, giving BPB readers another chance to grab Sean Divine’s 100-preset sound pack with the free AAS Player. The first batch from our giveaway earlier this week went quickly, and I’ve received quite a few emails from readers who missed out. I’m very sorry [...] View post: ILIO adds 2,000 more FREE Low End Theory 2 licenses for BPB readers",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/",
+    "timestamp": "2026-11-07T10:36:32Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T10:36:32Z",
+    "id": "energy-dac4000e6aad7199"
+  },
+  {
+    "title": "Upload Your RAM",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://kevinboone.me/efitest_index.html",
-    "timestamp": "2026-11-06T16:50:29Z",
+    "url": "https://uploadyourram.org/",
+    "timestamp": "2026-11-07T10:15:26Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kevinboone.me/efitest_index.html"
+      "https://uploadyourram.org/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-06T16:50:29Z",
-    "id": "energy-862e28a303fd8f9d"
+    "data_as_of": "2026-11-07T10:15:26Z",
+    "id": "energy-6d11447382839188"
   },
   {
-    "title": "Civ 7 Is At The Center Of A Switch 2 Hacking Situation",
-    "summary": "2K has reportedly started recalling the physical version of the strategy game due to the exploit",
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "timestamp": "2026-11-07T09:46:03Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T09:46:03Z",
+    "id": "energy-cf1243cb280c44fe"
+  },
+  {
+    "title": "Three Games You Can Play For Free This Weekend On PC",
+    "summary": "Here's how to save on games in November",
     "source": "Kotaku",
-    "url": "https://kotaku.com/civ-7-is-at-the-center-of-a-switch-2-hacking-situation-2000754656",
-    "timestamp": "2026-11-06T16:45:25Z",
+    "url": "https://kotaku.com/three-free-games-you-can-play-for-free-this-weekend-on-pc-2000754769",
+    "timestamp": "2026-11-06T23:00:34Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/civ-7-is-at-the-center-of-a-switch-2-hacking-situation-2000754656"
+      "https://kotaku.com/three-free-games-you-can-play-for-free-this-weekend-on-pc-2000754769"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-06T16:45:25Z",
-    "id": "energy-d3b9a3417f4ec107"
+    "data_as_of": "2026-11-06T23:00:34Z",
+    "id": "energy-22f3bf09ad848131"
   },
   {
-    "title": "New Ratchet & Clank Game Officially Cancelled by Sony",
-    "summary": "The multiplayer shooter Ratchet & Clank: Ranger Rumble is getting delisted this month and fully shut down next May.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/ratchet-and-clank-ranger-rumble-canceled-delisted/",
-    "timestamp": "2026-11-06T16:42:44Z",
+    "title": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake",
+    "summary": "These boots weren’t made for walking",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765",
+    "timestamp": "2026-11-06T22:30:52Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/ratchet-and-clank-ranger-rumble-canceled-delisted/"
+      "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-06T16:42:44Z",
-    "id": "energy-cb94c6eaff15d914"
+    "data_as_of": "2026-11-06T22:30:52Z",
+    "id": "energy-684993e15342883c"
   },
   {
     "title": "Best of October 2026",
@@ -142,24 +292,6 @@
     "primary_source": false,
     "data_as_of": "2026-11-06T16:21:20Z",
     "id": "energy-0cd9f912cb45cdf5"
-  },
-  {
-    "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
-    "timestamp": "2026-11-06T16:15:03Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://vincent.bernat.ch/en/blog/2026-bunny-geodns"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-06T16:15:03Z",
-    "id": "energy-ecc099ea4f8d9a63"
   },
   {
     "title": "Exelon, Invenergy Complaints At FERC Seek Capacity Market Changes",
@@ -204,24 +336,6 @@
     "id": "energy-374866af606970dd"
   },
   {
-    "title": "Nintendo’s Shigeru Miyamoto Misses Financial Briefing Due To A ‘Sudden Illness’ But Is Expected To Recover Soon",
-    "summary": "'He is expected to recover in a few days to a week'",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655",
-    "timestamp": "2026-11-06T15:46:04Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-06T15:46:04Z",
-    "id": "energy-4f1d535815c4802b"
-  },
-  {
     "title": "Right On Queue: Opportunities For Interconnection Queue Reform In The United States",
     "summary": "By Staff Writer Executive Summary The process of connecting new power to the grid –interconnection– has thwarted bringing new generation online for years. Increasingly long queues, project withdrawals, years-long studies without firm timelines, and uncertain costs have come to define the interconnection process across the country. And most interconnection processes are divorced from grid-wide, long-term […]",
     "source": "MISO XenWatch",
@@ -262,60 +376,6 @@
     ],
     "data_as_of": "2026-11-06T15:21:49Z",
     "id": "energy-fe5229ad1cabb2d8"
-  },
-  {
-    "title": "Green Oak Software updates the classic FREE soft synth Crystal to v2.6.0",
-    "summary": "Developer Green Oak Software has updated their classic free soft synth Crystal to version 2.6.0. Crystal has been around since the early 2000s, and, as it seems, it is not going anywhere. The 2.6.0 update brings support for VST3, Apple Silicon, and a resizable GUI. Crystal is now available in AU and VST3 formats for [...] View post: Green Oak Software updates the classic FREE soft synth Crystal to v2.6.0",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/06/green-oak-crystal-update/",
-    "timestamp": "2026-11-06T14:47:14Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/06/green-oak-crystal-update/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-06T14:47:14Z",
-    "id": "energy-de7ed368d9deb7b8"
-  },
-  {
-    "title": "OXO Synth2 is a FREE Synth1 recreation for modern Macs and iPad",
-    "summary": "OXO Music has released OXO Synth2, a free, open-source virtual analog synthesizer that recreates Synth1 for macOS and iPad. Ichiro Toda’s Synth1 has been part of the freeware synth scene for years. It’s probably the free synth most people my age started with. I was never really impressed by its sound character or the GUI [...] View post: OXO Synth2 is a FREE Synth1 recreation for modern Macs and iPad",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/06/oxo-synth2/",
-    "timestamp": "2026-11-06T14:09:28Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/06/oxo-synth2/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-06T14:09:28Z",
-    "id": "energy-957a90394ed428b7"
-  },
-  {
-    "title": "Vibe Together turns music-making into a multiplayer game you can try for FREE",
-    "summary": "Vibe Together is a free-to-start browser music sandbox where up to eight people can build a song together on a shared grid. Developed by Manik Bhat, aka The Music Unc, Vibe Together has been four years in the making. The idea behind the project is to make creating music feel more like playing a game [...] View post: Vibe Together turns music-making into a multiplayer game you can try for FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/",
-    "timestamp": "2026-11-06T13:30:26Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/06/vibe-together-multiplayer-game/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-06T13:30:26Z",
-    "id": "energy-5d5c54d98ad7af7a"
   },
   {
     "title": "XM4D: 4D Reconstruction through Certifiable Geometric Optimization",
@@ -370,101 +430,5 @@
     "primary_source": true,
     "data_as_of": "2026-11-06T05:00:00Z",
     "id": "energy-d293a5360eb91588"
-  },
-  {
-    "title": "Due to a hand injury Andy's team (Fortnite Flick: incl Flitz and Gyro) must disqualify from the upcoming qualifier",
-    "summary": "submitted by /u/Duke_ofChutney [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xp3bob/due_to_a_hand_injury_andys_team_fortnite_flick/",
-    "timestamp": "2026-11-06T04:03:42Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xp3bob/due_to_a_hand_injury_andys_team_fortnite_flick/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-06T04:03:42Z",
-    "id": "energy-31693440e788a8ec"
-  },
-  {
-    "title": "Your Favourite Casting Duo's?",
-    "summary": "For me it's a toss up between CJCJ and JohnyBoi_i, or Stumpy & Cole. I think the way they bounce off each others comments and can use humour to enhance even the bad, or one sided games, are just too great. I might be Aus/EU biased though. Whereas some duo's (even if my fave caster is one of them) just seem to say their own thing regardless of what the previous caster said beforehand and just don't really have that chemistry. Who are your favourite paired up casting duo's? submitted by /u/FoundSteve [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xozxij/your_favourite_casting_duos/",
-    "timestamp": "2026-11-06T01:13:14Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xozxij/your_favourite_casting_duos/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-06T01:13:14Z",
-    "id": "energy-f5334e6faf009969"
-  },
-  {
-    "title": "BJJ Rankings Update – November 2026",
-    "summary": "The November 2026 update has been applied to the Jits Magazine BJJ Rankings and the full standings can be found here. The biggest impact came from the latest event on the IBJJF no gi grand slam calendar, the IBJJF No Gi European Championship 2026. Although this was one of the smaller major tournaments, it still […] The post BJJ Rankings Update – November 2026 appeared first on Jitsmagazine.com.",
-    "source": "Jitsmagazine.com",
-    "url": "https://jitsmagazine.com/bjj-rankings-update-november-2026/",
-    "timestamp": "2026-11-04T13:42:30Z",
-    "topic": "Jiu-Jitsu",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://jitsmagazine.com/bjj-rankings-update-november-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-04T13:42:30Z",
-    "id": "energy-4e34ff50eea89b85"
-  },
-  {
-    "title": "The transformative potential of solid-state transformers",
-    "summary": "A conversation with Raghu Belur of Enphase.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/the-transformative-potential-of-solid",
-    "timestamp": "2026-11-04T11:56:13Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/the-transformative-potential-of-solid"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-11-04T11:56:13Z",
-    "id": "energy-b941f50e5a3d9440"
-  },
-  {
-    "title": "IBJJF No Gi European Championship 2026 Full Results And Highlights",
-    "summary": "The 2026 IBJJF European No-Gi Championship concluded on November 1, bringing five days of competition to a close at PalaPellicone in Lido di Ostia, Italy. The tournament once again provided a major opportunity for the world’s leading submission grapplers to compete for European honours, with the adult black belt divisions producing an impressive collection of […] The post IBJJF No Gi European Championship 2026 Full Results And Highlights appeared first on Jitsmagazine.com.",
-    "source": "Jitsmagazine.com",
-    "url": "https://jitsmagazine.com/ibjjf-no-gi-european-championship-2026-full-results-and-highlights/",
-    "timestamp": "2026-11-04T11:34:58Z",
-    "topic": "Jiu-Jitsu",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://jitsmagazine.com/ibjjf-no-gi-european-championship-2026-full-results-and-highlights/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-04T11:34:58Z",
-    "id": "energy-c6a54a61e2151a25"
   }
 ]

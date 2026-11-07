@@ -1,16 +1,16 @@
 [
   {
-    "title": "Thea Energy, MIT collaborate on testing stellarator magnet technology",
-    "summary": "Stellarator developer Thea Energy has announced that it is collaborating with the Massachusetts Institute of Technology on the testing and validation of an encircling magnet coil for the fusion firm’s Eos stellarator. The work will take place at MIT’s Plasma Science and Fusion Center (PSFC) in Cambridge, Mass.",
+    "title": "Nuclear News 40 under 40 2026: Supporting deployment",
+    "summary": "Welcome to the third annual Nuclear News 40 Under 40. What started out as a gamble in 2024 has taken root in our community, and we now have recognized 120 young professionals. One thing remains the same from year to year: Narrowing the field to 40 hasn’t gotten any easier.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-06/article-8563/thea-energy-mit-collaborate-on-testing-stellarator-magnet-technology/",
-    "timestamp": "2026-11-06T16:13:04Z",
+    "url": "https://www.ans.org/news/2026-11-06/article-8541/inuclear-newsi-40-under-40-2026-supporting-deployment/",
+    "timestamp": "2026-11-06T22:34:33Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-06/article-8563/thea-energy-mit-collaborate-on-testing-stellarator-magnet-technology/"
+      "https://www.ans.org/news/2026-11-06/article-8541/inuclear-newsi-40-under-40-2026-supporting-deployment/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,96 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-06T16:13:04Z",
-    "id": "energy-e0013d646ad728ee"
+    "data_as_of": "2026-11-06T22:34:33Z",
+    "id": "energy-85c862771f646c2d"
+  },
+  {
+    "title": "IAEA launches network to monitor isotopes in lakes",
+    "summary": "The International Atomic Energy Agency has launched the Global Network of Isotopes in Lakes (GNIL), which aims to help countries monitor changes in their lakes and share the data to protect freshwater resources.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-06/article-8565/iaea-launches-network-to-monitor-isotopes-in-lakes/",
+    "timestamp": "2026-11-06T21:28:09Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-06/article-8565/iaea-launches-network-to-monitor-isotopes-in-lakes/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-06T21:28:09Z",
+    "id": "energy-79d357730f22ffe5"
+  },
+  {
+    "title": "PJM Board Response to CEBA, ACPA, DCC, and ITI concerning Large Load Show Cause Issues",
+    "summary": "Updated Date: 11.06.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261106-pjm-board-response-to-ceba-acpa-dcc-and-iti-concerning-large-load-show-cause-issues.pdf",
+    "timestamp": "2026-11-06T20:01:20Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261106-pjm-board-response-to-ceba-acpa-dcc-and-iti-concerning-large-load-show-cause-issues.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-11-06T20:01:20Z",
+    "id": "energy-3a5a709d29efa434"
+  },
+  {
+    "title": "Public Interest and Environmental Groups’ Letter to the PJM Board Regarding IRAS",
+    "summary": "Updated Date: 11.06.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260611-public-interest-and-environmental-groups-letter-to-pjm-board-re-iras.pdf",
+    "timestamp": "2026-11-06T18:24:08Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260611-public-interest-and-environmental-groups-letter-to-pjm-board-re-iras.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-11-06T18:24:08Z",
+    "id": "energy-77930c573cec6802"
+  },
+  {
+    "title": "U.K. energy bill proposes changes to waste transport regulation",
+    "summary": "A bill introduced in the U.K. Parliament on November 4 includes a provision that potentially would streamline the government’s process for updating rules regarding the transportation of used fuel and radioactive waste. Contained within the Energy Independence Bill are measures that would affect several sectors of the United Kingdom’s energy system in what would amount to a major overhaul. Among the proposals that the legislation calls for are measures to accelerate the deployment of what it identifies as “clean energy” projects, including offshore wind and smart grid projects; support for insulating and otherwise updating residential buildings under the Warm Homes Plan; and an end to licenses for new oil and natural gas exploration.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-06/article-8564/uk-energy-bill-proposes-changes-to-waste-transport-regulation/",
+    "timestamp": "2026-11-06T18:11:54Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-06/article-8564/uk-energy-bill-proposes-changes-to-waste-transport-regulation/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-06T18:11:54Z",
+    "id": "energy-7a55c06eaf58ce42"
   },
   {
     "title": "Learning resources support commercial operation of distributed energy resource aggregations",
@@ -64,50 +152,6 @@
     ],
     "data_as_of": "2026-11-06T13:27:03Z",
     "id": "energy-2b9ccb25d188b84d"
-  },
-  {
-    "title": "Korean companies partner with U.S. start-ups",
-    "summary": "In recent months, much attention has been paid to the deal between the United States and South Korea involving the potential construction of eight new gigawatt-scale reactors. Outside of that spotlight, however, significant U.S.-Korean collaboration continues on the small reactor front. In the past two weeks, Elementl Power partnered with DS Investment Partners and Hyundai partnered with ARC Clean Technology, Nano Nuclear, and First American Nuclear.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-06/article-8562/korean-companies-partner-with-us-startups/",
-    "timestamp": "2026-11-06T13:18:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-06/article-8562/korean-companies-partner-with-us-startups/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-06T13:18:42Z",
-    "id": "energy-eb81d6551dbe520f"
-  },
-  {
-    "title": "Salem power plant planning 200-MW uprate",
-    "summary": "The Salem nuclear power plant is expected to get a 200-MW uprate, executives from PSEG, the co-owners and operators of the Hancocks Bridge, N.J., facility, said in the utility’s recent third quarter earnings call. The planned uprate for the two-unit plant was already mentioned in Constellation’s October announcement that 11 facilities were in line to receive upgrades to increase nuclear capacity, including Salem. Constellation owns 43 percent of the plant, while PSEG Nuclear owns the other 57 percent. The third quarter earnings presentation shed light on the size of the uprate. Of the planned 200-MW uprate, PSEG will receive roughly 112 MW. The uprate aligns with comments made earlier in the year, when PSEG executives said Salem had a capacity uprate potential of nearly 200 MW.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-05/article-8561/salem-power-plant-planning-200mw-uprate/",
-    "timestamp": "2026-11-05T21:32:33Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-05/article-8561/salem-power-plant-planning-200mw-uprate/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-05T21:32:33Z",
-    "id": "energy-753c3754261da7c6"
   },
   {
     "title": "Cooking up energy savings this holiday season",
@@ -223,47 +267,5 @@
     ],
     "data_as_of": "2026-11-05T13:20:26Z",
     "id": "energy-3f1579c080fddc3b"
-  },
-  {
-    "title": "Canada’s Bruce-5 Nuclear Plant Taken Offline For Major Component Replacement Outage",
-    "summary": "The Bruce-5 nuclear power plant has been taken offline for its major component replacement (MCR) outage – the fourth unit to be refurbished under Bruce Power’s plan to renew six of the eight units at the Ontario site. The company said the 817-MW Candu pressurised heavy water reactor (PHWR) unit, which began commercial operation in 1985, was taken offline on 1 November. It said: “This represents the second half of the company’s privately backed MCR Project that will see units 3-8 renewed to provide clean, reliable energy for Ontario’s people, businesses and hospitals for decades to come, while also ensuring a dependable source of cancer-fighting medical isotopes for the world healthcare community.”",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/canada-s-bruce-5-nuclear-plant-taken-offline-for-major-component-replacement-outage-11-3-2026",
-    "timestamp": "2026-11-04T13:57:12Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/canada-s-bruce-5-nuclear-plant-taken-offline-for-major-component-replacement-outage-11-3-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-04T13:57:12Z",
-    "id": "energy-e65f236e38eb759e"
-  },
-  {
-    "title": "Amentum And Kyoto Fusioneering Sign MOU On Fusion In UK, Japan And US",
-    "summary": "US engineering and energy technology company Amentum has entered into a memorandum of understanding with Kyoto Fusioneering to cooperate on nuclear fusion in the UK, Japan and the US. Amentum said the agreement with Kyoto Fusioneering, a Japan-based developer of fusion technologies, establishes a framework to strengthen both companies’ roles in advancing fusion energy commercialisation.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/amentum-and-kyoto-fusioneering-sign-mou-on-fusion-in-uk-japan-and-us-11-3-2026",
-    "timestamp": "2026-11-04T13:13:21Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/amentum-and-kyoto-fusioneering-sign-mou-on-fusion-in-uk-japan-and-us-11-3-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-04T13:13:21Z",
-    "id": "energy-49dc5a20dfbac00c"
   }
 ]
