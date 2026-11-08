@@ -222,50 +222,5 @@
     ],
     "data_as_of": "2026-11-05T18:02:50Z",
     "id": "energy-19c6735c2ac33a33"
-  },
-  {
-    "title": "Five tips for buying a portable space heater",
-    "summary": "Whether it's time to replace your old heater or you simply need to add a little warmth to an area in your home, buying a new portable space heater is a great option. Keep these five things in mind as you search. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/five-tips-for-buying-a-portable-space-heater",
-    "timestamp": "2026-11-05T15:53:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/five-tips-for-buying-a-portable-space-heater"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-05T15:53:59Z",
-    "id": "energy-8758e5579061c44b"
-  },
-  {
-    "title": "First Fuel Loading Complete At China’s Sanao-2, Says CGN",
-    "summary": "The loading of fuel assemblies into the core of the Sanao-2 nuclear power plant in the eastern Chinese province of Zhejiang has been completed, owner China General Nuclear (CGN) said. According to CGN, fuel loading was completed on 2 November, marking a major step towards nuclear-powered operation and commissioning. Sanao-2 is a 1,117-MW domestic Hualong One, or HPR1000, pressurised water reactor (PWR) unit. Construction began in December 2021.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/first-fuel-loading-complete-at-china-s-sanao-2-says-cgn-11-4-2026",
-    "timestamp": "2026-11-05T13:20:26Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/first-fuel-loading-complete-at-china-s-sanao-2-says-cgn-11-4-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-05T13:20:26Z",
-    "id": "energy-3f1579c080fddc3b"
   }
 ]

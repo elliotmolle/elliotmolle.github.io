@@ -1,21 +1,228 @@
 [
   {
-    "title": "Sony Delays Wireless PlayStation Pulse Speakers A Week Away From Launch",
-    "summary": "Sony cites a 'production issue' as hardware shortages stymie what would have been an otherwise whirlwind holiday season for the console",
+    "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+    "timestamp": "2026-11-08T16:07:42Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-08T16:07:42Z",
+    "id": "energy-c83138486725c964"
+  },
+  {
+    "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
+    "timestamp": "2026-11-08T15:44:17Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-08T15:44:17Z",
+    "id": "energy-6818843de44ac34a"
+  },
+  {
+    "title": "Scrine – Joyscroll books. Read any book one sentence at a time",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://scrine.io/",
+    "timestamp": "2026-11-08T15:35:50Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://scrine.io/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-08T15:35:50Z",
+    "id": "energy-b21e0f674d4b9f5e"
+  },
+  {
+    "title": "REV-246 is a FREE EMT 246-inspired reverb for macOS, Windows, and Linux",
+    "summary": "Developer Leigh Pierce has released REV-246, a free, open-source digital reverb inspired by the EMT 246 studio hardware, for macOS, Windows, and Linux. The plugin covers tight rooms, long cathedral tails, and gated or reverse effects across five programs. In addition to these EMT 246-inspired sounds, there’s a program based on the older EMT 250 [...] View post: REV-246 is a FREE EMT 246-inspired reverb for macOS, Windows, and Linux",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/",
+    "timestamp": "2026-11-08T15:02:41Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-08T15:02:41Z",
+    "id": "energy-cda40fdafbd416d2"
+  },
+  {
+    "title": "Tech Audio Shrapnel turns particle collisions into sound, with an exclusive BPB discount",
+    "summary": "Tech Audio has updated Shrapnel, its physics-based sound design plugin for macOS and Windows, with a free 100-preset pack, and BPB readers can get an exclusive 10% discount through November 15. Use the code BPBSHRAP10 at checkout to get Shrapnel for $44.10 instead of $49. The code is valid from November 8 through November 15, [...] View post: Tech Audio Shrapnel turns particle collisions into sound, with an exclusive BPB discount",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/08/tech-audio-shrapnel/",
+    "timestamp": "2026-11-08T14:59:13Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/08/tech-audio-shrapnel/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-08T14:59:13Z",
+    "id": "energy-a762b8328a0e8591"
+  },
+  {
+    "title": "tinyant releases purpl, a FREE chorus and shimmer reverb plugin",
+    "summary": "tinyant has released purpl, a free chorus and reverb plugin for Windows and Linux. It felt super refreshing to discover a free plugin from a developer I haven’t heard of before, and to find a website without the AI design and bombastic marketing messages we’re seeing everywhere nowadays. The product page looks amazing. It’s animated, [...] View post: tinyant releases purpl, a FREE chorus and shimmer reverb plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/",
+    "timestamp": "2026-11-08T11:16:44Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-08T11:16:44Z",
+    "id": "energy-e5c1c8560f88c5a2"
+  },
+  {
+    "title": "If you could revive one org, which one would you revive?",
+    "summary": "Honestly, Team BDS. They just won the 2024 tournament, and in the next season, they disbanded. submitted by /u/Guigao_21 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqjwb0/if_you_could_revive_one_org_which_one_would_you/",
+    "timestamp": "2026-11-07T23:23:37Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqjwb0/if_you_could_revive_one_org_which_one_would_you/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-07T23:23:37Z",
+    "id": "energy-7d58242b48b069c3"
+  },
+  {
+    "title": "[THROWBACK] Streamers reaction to \"Call him mr physics\" moment",
+    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqjin9/throwback_streamers_reaction_to_call_him_mr/",
+    "timestamp": "2026-11-07T23:05:24Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqjin9/throwback_streamers_reaction_to_call_him_mr/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-07T23:05:24Z",
+    "id": "energy-b8c76dfdb1f68275"
+  },
+  {
+    "title": "[5050rl] Top 32 sam open kick-off qualifier",
+    "summary": "These are the 32 best teams from SAM in the Club Championship Kick-off Qualifier! 🔥 The teams return tomorrow to compete for a spot in the RLCS SAM top 16. 📺 Watch at: https://Twitch.tv/DudsMelow submitted by /u/MeladoDuds [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqj7g3/5050rl_top_32_sam_open_kickoff_qualifier/",
+    "timestamp": "2026-11-07T22:50:33Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqj7g3/5050rl_top_32_sam_open_kickoff_qualifier/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-07T22:50:33Z",
+    "id": "energy-76a463af58362fc8"
+  },
+  {
+    "title": "For This Year’s N7 Day, Fans, Alumni And Policy Makers Fought For Mass Effect’s Future",
+    "summary": "While previous years brought hope of updates on BioWare's beloved Mass Effect saga, this November had incensed fans pushing EA towards a course correction",
     "source": "Kotaku",
-    "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
-    "timestamp": "2026-11-07T15:59:42Z",
+    "url": "https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828",
+    "timestamp": "2026-11-07T22:12:46Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806"
+      "https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-07T15:59:42Z",
-    "id": "energy-ba88fe07693df77d"
+    "data_as_of": "2026-11-07T22:12:46Z",
+    "id": "energy-2f39f59b4acd3abf"
+  },
+  {
+    "title": "AI Stuffy Says ‘I Can’t Help With Killing You’ Completely Unprompted",
+    "summary": "Cross that one off the Christmas list",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/ai-stuffy-says-i-cant-help-with-killing-you-completely-unprompted-2000754819",
+    "timestamp": "2026-11-07T21:30:17Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/ai-stuffy-says-i-cant-help-with-killing-you-completely-unprompted-2000754819"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T21:30:17Z",
+    "id": "energy-f6bc2a401c214d5a"
+  },
+  {
+    "title": "New Stellar Blade Ad Gives Fans Plenty To Talk About With Therapist",
+    "summary": "A live action, throwback ad campaign features Eve tucking people in, reading bed time stories, and YouTube commenters wishing it were them",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/new-stellar-blade-ad-gives-fans-plenty-to-talk-about-with-therapist-2000754823",
+    "timestamp": "2026-11-07T21:03:27Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/new-stellar-blade-ad-gives-fans-plenty-to-talk-about-with-therapist-2000754823"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-07T21:03:27Z",
+    "id": "energy-421f54296c8b675f"
   },
   {
     "title": "GI Joe and Paranormal Activity Get New Official Release Dates from Paramount",
@@ -72,66 +279,6 @@
     "id": "energy-c8d16d19a3b20b7a"
   },
   {
-    "title": "New Rule: AI Tool Guidelines",
-    "summary": "Hello everyone, today we are implementing a new rule for the use of AI tools in r/RocketLeagueEsports, a decision backed by 89% of respondents in the Subreddit census. Taking your feedback into account the mod team has had its own conversations and votes to clarify these expectations: AI Tool Guidelines Content including Generative AI (Text, Image, Video) must meet the following guidelines: A text submission cannot be majority generated through the use of AI tools Use of AI to produce content must be disclosed up front. Failure to disclose will result in content removal --Translation tools are exempt from the above two bullets. However a friendly reminder Reddit does have built-in translation capability! Generative AI in code is not so black and white. If prompted, the mod team will review submissions case by case Sharing of images and videos knowingly generated or altered via AI tools - where said image/video is the primary focus of the submission - is strictly forbidden Ex: Sharing the announcement of a new roster may be permitted despite an organization using AI in their video/graphics, as the focus of the post is the announcement and not the media itself. Repeated violations o…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xq73ib/new_rule_ai_tool_guidelines/",
-    "timestamp": "2026-11-07T14:02:57Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xq73ib/new_rule_ai_tool_guidelines/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-07T14:02:57Z",
-    "id": "energy-d070b7d9a9bfed13"
-  },
-  {
-    "title": "The $8 Linux Computer (2022)",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-    "timestamp": "2026-11-07T14:00:20Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T14:00:20Z",
-    "id": "energy-a9efff2412a2e929"
-  },
-  {
-    "title": "whos the goat according to trk",
-    "summary": "submitted by /u/qooll [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xq6ti7/whos_the_goat_according_to_trk/",
-    "timestamp": "2026-11-07T13:49:57Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xq6ti7/whos_the_goat_according_to_trk/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-07T13:49:57Z",
-    "id": "energy-919b50246ffaac43"
-  },
-  {
     "title": "PGF Announce Groundbreaking Judo Tournament With $10,000 Prize",
     "summary": "The Professional Grappling Federation (PGF) is expanding beyond Brazilian Jiu-Jitsu, announcing the launch of an exciting new professional Judo tournament set to take place in Las Vegas on November 10, 2026. Dubbed PGF Pro Judo, the inaugural event will bring together eight competitors in an innovative round-robin format, with a $10,000 cash prize and championship […] The post PGF Announce Groundbreaking Judo Tournament With $10,000 Prize appeared first on Jitsmagazine.com.",
     "source": "Jitsmagazine.com",
@@ -148,132 +295,6 @@
     "primary_source": false,
     "data_as_of": "2026-11-07T11:08:57Z",
     "id": "energy-57fd1e52fc318107"
-  },
-  {
-    "title": "Flame Sound Black Friday sale offers Everything Bundle for $49",
-    "summary": "Flame Sound is running its Black Friday sale from November 6 through December 1, 2026. First, thank you to everyone who has tried VATRA and shared such kind feedback. If you missed the intro sale, the plugin is now $39 again, down from $69. VATRA lets you add loudness with Ignite, warm things up with Heat, [...] View post: Flame Sound Black Friday sale offers Everything Bundle for $49",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/07/flame-sound-black-friday-2026/",
-    "timestamp": "2026-11-07T10:51:16Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/07/flame-sound-black-friday-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T10:51:16Z",
-    "id": "energy-8f0b744ae7ec1726"
-  },
-  {
-    "title": "Polyend offers Patch modular effects sample pack for FREE",
-    "summary": "Polyend is offering Patch, a sample pack featuring 101 experimental Eurorack effects, for free with the code PROMOPATCH at checkout. Simply add the pack to your cart and apply the code before completing checkout. Thanks to BPB reader Stan for the info! The collection is great for a bit of weekend inspiration if you like [...] View post: Polyend offers Patch modular effects sample pack for FREE",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/07/polyend-patch/",
-    "timestamp": "2026-11-07T10:40:36Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/07/polyend-patch/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T10:40:36Z",
-    "id": "energy-f19247cca136b561"
-  },
-  {
-    "title": "ILIO adds 2,000 more FREE Low End Theory 2 licenses for BPB readers",
-    "summary": "ILIO has added 2,000 more free licenses for Low End Theory 2, giving BPB readers another chance to grab Sean Divine’s 100-preset sound pack with the free AAS Player. The first batch from our giveaway earlier this week went quickly, and I’ve received quite a few emails from readers who missed out. I’m very sorry [...] View post: ILIO adds 2,000 more FREE Low End Theory 2 licenses for BPB readers",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/",
-    "timestamp": "2026-11-07T10:36:32Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T10:36:32Z",
-    "id": "energy-dac4000e6aad7199"
-  },
-  {
-    "title": "Upload Your RAM",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://uploadyourram.org/",
-    "timestamp": "2026-11-07T10:15:26Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://uploadyourram.org/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T10:15:26Z",
-    "id": "energy-6d11447382839188"
-  },
-  {
-    "title": "Every Mac comes with an (undocumented) family member classifier",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-    "timestamp": "2026-11-07T09:46:03Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T09:46:03Z",
-    "id": "energy-cf1243cb280c44fe"
-  },
-  {
-    "title": "Three Games You Can Play For Free This Weekend On PC",
-    "summary": "Here's how to save on games in November",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/three-free-games-you-can-play-for-free-this-weekend-on-pc-2000754769",
-    "timestamp": "2026-11-06T23:00:34Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/three-free-games-you-can-play-for-free-this-weekend-on-pc-2000754769"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-06T23:00:34Z",
-    "id": "energy-22f3bf09ad848131"
-  },
-  {
-    "title": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake",
-    "summary": "These boots weren’t made for walking",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765",
-    "timestamp": "2026-11-06T22:30:52Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-06T22:30:52Z",
-    "id": "energy-684993e15342883c"
   },
   {
     "title": "Best of October 2026",
@@ -355,27 +376,6 @@
     ],
     "data_as_of": "2026-11-06T15:45:03Z",
     "id": "energy-6db58a8cb3bc992b"
-  },
-  {
-    "title": "Projected Bracket for RLCS Club Championships Kickoff by MartianTurtle",
-    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xpfg4m/projected_bracket_for_rlcs_club_championships/",
-    "timestamp": "2026-11-06T15:21:49Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xpfg4m/projected_bracket_for_rlcs_club_championships/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-06T15:21:49Z",
-    "id": "energy-fe5229ad1cabb2d8"
   },
   {
     "title": "XM4D: 4D Reconstruction through Certifiable Geometric Optimization",
