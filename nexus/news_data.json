@@ -1,16 +1,16 @@
 [
   {
-    "title": "Nuclear News 40 under 40 2026: Supporting deployment",
-    "summary": "Welcome to the third annual Nuclear News 40 Under 40. What started out as a gamble in 2024 has taken root in our community, and we now have recognized 120 young professionals. One thing remains the same from year to year: Narrowing the field to 40 hasn’t gotten any easier.",
+    "title": "Copenhagen Atomics and Urenco partner on planned deconversion facility",
+    "summary": "Copenhagen Atomics and Urenco have signed a memorandum of understanding to develop a deconversion plant that would produce uranium tetrafluoride (UF4) at a Copenhagen Atomics facility. The MOU establishes a new framework for cooperation between a developer primarily exploring molten salt reactors (MSRs) and a global supplier of uranium enrichment services. Copenhagen Atomics—the MSR developer—seeks to employ Urenco’s expertise in producing uranium hexafluoride (UF6) to establish a UF6-to-UF4 pathway. This would provide Copenhagen Atomics with the UF4 feedstock its MSRs require. The company also has purchased low-enriched uranium from Urenco as part of their collaboration.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-06/article-8541/inuclear-newsi-40-under-40-2026-supporting-deployment/",
-    "timestamp": "2026-11-06T22:34:33Z",
+    "url": "https://www.ans.org/news/2026-11-09/article-8568/copenhagen-atomics-and-urenco-partner-on-planned-deconversion-facility/",
+    "timestamp": "2026-11-09T18:00:52Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-06/article-8541/inuclear-newsi-40-under-40-2026-supporting-deployment/"
+      "https://www.ans.org/news/2026-11-09/article-8568/copenhagen-atomics-and-urenco-partner-on-planned-deconversion-facility/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-06T22:34:33Z",
-    "id": "energy-85c862771f646c2d"
+    "data_as_of": "2026-11-09T18:00:52Z",
+    "id": "energy-4418cd5a03d81d93"
   },
   {
-    "title": "IAEA launches network to monitor isotopes in lakes",
-    "summary": "The International Atomic Energy Agency has launched the Global Network of Isotopes in Lakes (GNIL), which aims to help countries monitor changes in their lakes and share the data to protect freshwater resources.",
+    "title": "Canada assesses its space reactor capabilities",
+    "summary": "The Canadian Space Agency announced a request for information (RFI) seeking input from Canadian industry and academia on the country’s technologies and capabilities related to lunar microreactors, aiming to identify areas where Canada has differentiated or strategically valuable capabilities. The agency identifies fission power as complementary to solar power and batteries for lunar missions, including for exploration, mobility, and future crewed operations. The RFI aims to assess technologies that are at a technology readiness level of at least 2, which could be for a reactor or specific subsystems.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-06/article-8565/iaea-launches-network-to-monitor-isotopes-in-lakes/",
-    "timestamp": "2026-11-06T21:28:09Z",
+    "url": "https://www.ans.org/news/2026-11-09/article-8567/canada-assesses-its-space-reactor-capabilities/",
+    "timestamp": "2026-11-09T16:03:24Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-06/article-8565/iaea-launches-network-to-monitor-isotopes-in-lakes/"
+      "https://www.ans.org/news/2026-11-09/article-8567/canada-assesses-its-space-reactor-capabilities/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,65 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-06T21:28:09Z",
-    "id": "energy-79d357730f22ffe5"
+    "data_as_of": "2026-11-09T16:03:24Z",
+    "id": "energy-5b54596bde11f94c"
   },
   {
-    "title": "PJM Board Response to CEBA, ACPA, DCC, and ITI concerning Large Load Show Cause Issues",
-    "summary": "Updated Date: 11.06.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261106-pjm-board-response-to-ceba-acpa-dcc-and-iti-concerning-large-load-show-cause-issues.pdf",
-    "timestamp": "2026-11-06T20:01:20Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261106-pjm-board-response-to-ceba-acpa-dcc-and-iti-concerning-large-load-show-cause-issues.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-11-06T20:01:20Z",
-    "id": "energy-3a5a709d29efa434"
-  },
-  {
-    "title": "Public Interest and Environmental Groups’ Letter to the PJM Board Regarding IRAS",
-    "summary": "Updated Date: 11.06.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260611-public-interest-and-environmental-groups-letter-to-pjm-board-re-iras.pdf",
-    "timestamp": "2026-11-06T18:24:08Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20260611-public-interest-and-environmental-groups-letter-to-pjm-board-re-iras.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-11-06T18:24:08Z",
-    "id": "energy-77930c573cec6802"
-  },
-  {
-    "title": "U.K. energy bill proposes changes to waste transport regulation",
-    "summary": "A bill introduced in the U.K. Parliament on November 4 includes a provision that potentially would streamline the government’s process for updating rules regarding the transportation of used fuel and radioactive waste. Contained within the Energy Independence Bill are measures that would affect several sectors of the United Kingdom’s energy system in what would amount to a major overhaul. Among the proposals that the legislation calls for are measures to accelerate the deployment of what it identifies as “clean energy” projects, including offshore wind and smart grid projects; support for insulating and otherwise updating residential buildings under the Warm Homes Plan; and an end to licenses for new oil and natural gas exploration.",
+    "title": "INL and Purdue University collaborate on construction demonstration",
+    "summary": "A newly announced collaboration between Idaho National Laboratory’s National Reactor Innovation Center (NRIC) and Purdue University’s Applied Research Institute (PARI) will focus on demonstrating construction techniques for reducing costs and risks of new reactors. The project, which also includes the Electric Power Research Institute and the Nuclear Energy Institute, is part of the implementation of NRIC’s Advanced Construction Technology Initiative (ACTI).",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-06/article-8564/uk-energy-bill-proposes-changes-to-waste-transport-regulation/",
-    "timestamp": "2026-11-06T18:11:54Z",
+    "url": "https://www.ans.org/news/2026-11-09/article-8566/inl-and-purdue-university-collaborate-on-construction-demonstration/",
+    "timestamp": "2026-11-09T13:58:46Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-06/article-8564/uk-energy-bill-proposes-changes-to-waste-transport-regulation/"
+      "https://www.ans.org/news/2026-11-09/article-8566/inl-and-purdue-university-collaborate-on-construction-demonstration/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -106,21 +62,42 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-06T18:11:54Z",
-    "id": "energy-7a55c06eaf58ce42"
+    "data_as_of": "2026-11-09T13:58:46Z",
+    "id": "energy-9c882a6901ce7f53"
   },
   {
-    "title": "Learning resources support commercial operation of distributed energy resource aggregations",
-    "summary": "DERAs may now participate in the wholesale electricity markets through frameworks established under FERC Order No. 2222. The post Learning resources support commercial operation of distributed energy resource aggregations appeared first on ISO Newswire.",
+    "title": "China Pours First Concrete For HTGR At ‘World’s First’ Hybrid Nuclear Power Station",
+    "summary": "The first batch of concrete has been poured for the nuclear island of the high-temperature gas-cooled reactor (HTGR) that forms part the first phase of a hybrid nuclear power station in Jiangsu province, eastern China. The facility, known as the Jiangsu Xuwei Nuclear Heating and Power Plant, will supply both industrial heat and electricity by coupling the Chilong One HTGR with two Hualong One pressurised water reactors (PWRs). CNNC said first concrete had now been poured for the 600-MW HTGR. That follows the pouring of first concrete in January for the nuclear island of Unit 1, a Hualong One PWR.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/china-pours-first-concrete-for-htgr-at-world-s-first-hybrid-nuclear-power-station-11-1-2026",
+    "timestamp": "2026-11-09T13:56:36Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/china-pours-first-concrete-for-htgr-at-world-s-first-hybrid-nuclear-power-station-11-1-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-09T13:56:36Z",
+    "id": "energy-f836d4044638b060"
+  },
+  {
+    "title": "How ISO-NE ensures reliable electricity one day at a time",
+    "summary": "Step inside the Bullpen, where employees blend expertise in transmission, markets, and the weather to power the region. The post How ISO-NE ensures reliable electricity one day at a time appeared first on ISO Newswire.",
     "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/06/learning-resources-support-commercial-operation-of-distributed-energy-resource-aggregations/",
-    "timestamp": "2026-11-06T14:18:08Z",
+    "url": "https://isonewswire.com/2026/11/09/how-iso-ne-ensures-reliable-electricity-one-day-at-a-time/",
+    "timestamp": "2026-11-09T13:06:10Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://isonewswire.com/2026/11/06/learning-resources-support-commercial-operation-of-distributed-energy-resource-aggregations/"
+      "https://isonewswire.com/2026/11/09/how-iso-ne-ensures-reliable-electricity-one-day-at-a-time/"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -128,99 +105,7 @@
       "ISO New England",
       "ISO-NE"
     ],
-    "data_as_of": "2026-11-06T14:18:08Z",
-    "id": "energy-ae54e5cd73c37381"
-  },
-  {
-    "title": "Information Technology Industry Council Letter to the PJM Board regarding Large Load Interconnection Reforms",
-    "summary": "Updated Date: 11.06.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261106-information-technology-industry-council-letter-to-the-pjm-board-regarding-large-load.pdf",
-    "timestamp": "2026-11-06T13:27:03Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261106-information-technology-industry-council-letter-to-the-pjm-board-regarding-large-load.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-11-06T13:27:03Z",
-    "id": "energy-2b9ccb25d188b84d"
-  },
-  {
-    "title": "Cooking up energy savings this holiday season",
-    "summary": "Trim your energy budget with these holiday cooking tips. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/cooking-up-energy-savings-this-holiday-season",
-    "timestamp": "2026-11-05T20:56:12Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/cooking-up-energy-savings-this-holiday-season"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-05T20:56:12Z",
-    "id": "energy-9a9d27c1c6ff58a2"
-  },
-  {
-    "title": "Smart plugs: Advanced features to look for",
-    "summary": "Ready to brighten up your old outlets with smart plugs? These advanced features can save you time, money and add convenience. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/smart-plugs-advanced-features-to-look-for",
-    "timestamp": "2026-11-05T20:10:40Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/smart-plugs-advanced-features-to-look-for"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-05T20:10:40Z",
-    "id": "energy-776359a45ed6c3cc"
-  },
-  {
-    "title": "Video explains capacity market offer floors",
-    "summary": "A companion quick reference guide is also available. The post Video explains capacity market offer floors appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/05/video-explains-capacity-market-offer-floors/",
-    "timestamp": "2026-11-05T18:02:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/05/video-explains-capacity-market-offer-floors/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-05T18:02:50Z",
-    "id": "energy-19c6735c2ac33a33"
+    "data_as_of": "2026-11-09T13:06:10Z",
+    "id": "energy-eb94063157ad75df"
   }
 ]

@@ -1,282 +1,435 @@
 [
   {
-    "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+    "title": "Zelda: Ocarina of Time’s Best Replacement Has 11,000+ ‘Very Positive’ Reviews on Steam",
+    "summary": "Death's Door turns five years old this year, and it's still one of the best games like The Legend of Zelda around.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/",
+    "timestamp": "2026-11-09T20:00:17Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T20:00:17Z",
+    "id": "energy-d99e9b0046eb020d"
+  },
+  {
+    "title": "USPS now offers official ZIP Code boundary polygons",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
-    "timestamp": "2026-11-08T16:07:42Z",
+    "url": "https://postalpro.usps.com/zcb",
+    "timestamp": "2026-11-09T19:58:59Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/"
+      "https://postalpro.usps.com/zcb"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-08T16:07:42Z",
-    "id": "energy-c83138486725c964"
+    "data_as_of": "2026-11-09T19:58:59Z",
+    "id": "energy-3d7e94bd27597cc1"
   },
   {
-    "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
-    "timestamp": "2026-11-08T15:44:17Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-08T15:44:17Z",
-    "id": "energy-6818843de44ac34a"
-  },
-  {
-    "title": "Scrine – Joyscroll books. Read any book one sentence at a time",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://scrine.io/",
-    "timestamp": "2026-11-08T15:35:50Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://scrine.io/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-08T15:35:50Z",
-    "id": "energy-b21e0f674d4b9f5e"
-  },
-  {
-    "title": "REV-246 is a FREE EMT 246-inspired reverb for macOS, Windows, and Linux",
-    "summary": "Developer Leigh Pierce has released REV-246, a free, open-source digital reverb inspired by the EMT 246 studio hardware, for macOS, Windows, and Linux. The plugin covers tight rooms, long cathedral tails, and gated or reverse effects across five programs. In addition to these EMT 246-inspired sounds, there’s a program based on the older EMT 250 [...] View post: REV-246 is a FREE EMT 246-inspired reverb for macOS, Windows, and Linux",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/",
-    "timestamp": "2026-11-08T15:02:41Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-08T15:02:41Z",
-    "id": "energy-cda40fdafbd416d2"
-  },
-  {
-    "title": "Tech Audio Shrapnel turns particle collisions into sound, with an exclusive BPB discount",
-    "summary": "Tech Audio has updated Shrapnel, its physics-based sound design plugin for macOS and Windows, with a free 100-preset pack, and BPB readers can get an exclusive 10% discount through November 15. Use the code BPBSHRAP10 at checkout to get Shrapnel for $44.10 instead of $49. The code is valid from November 8 through November 15, [...] View post: Tech Audio Shrapnel turns particle collisions into sound, with an exclusive BPB discount",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/08/tech-audio-shrapnel/",
-    "timestamp": "2026-11-08T14:59:13Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/08/tech-audio-shrapnel/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-08T14:59:13Z",
-    "id": "energy-a762b8328a0e8591"
-  },
-  {
-    "title": "tinyant releases purpl, a FREE chorus and shimmer reverb plugin",
-    "summary": "tinyant has released purpl, a free chorus and reverb plugin for Windows and Linux. It felt super refreshing to discover a free plugin from a developer I haven’t heard of before, and to find a website without the AI design and bombastic marketing messages we’re seeing everywhere nowadays. The product page looks amazing. It’s animated, [...] View post: tinyant releases purpl, a FREE chorus and shimmer reverb plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/",
-    "timestamp": "2026-11-08T11:16:44Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-08T11:16:44Z",
-    "id": "energy-e5c1c8560f88c5a2"
-  },
-  {
-    "title": "If you could revive one org, which one would you revive?",
-    "summary": "Honestly, Team BDS. They just won the 2024 tournament, and in the next season, they disbanded. submitted by /u/Guigao_21 [link] [comments]",
+    "title": "Notable result from Coupe de France",
+    "summary": "submitted by /u/nickEbutt [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqjwb0/if_you_could_revive_one_org_which_one_would_you/",
-    "timestamp": "2026-11-07T23:23:37Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xs1w1n/notable_result_from_coupe_de_france/",
+    "timestamp": "2026-11-09T19:55:25Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqjwb0/if_you_could_revive_one_org_which_one_would_you/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xs1w1n/notable_result_from_coupe_de_france/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-11-07T23:23:37Z",
-    "id": "energy-7d58242b48b069c3"
+    "data_as_of": "2026-11-09T19:55:25Z",
+    "id": "energy-f73be4da4c36b0fd"
   },
   {
-    "title": "[THROWBACK] Streamers reaction to \"Call him mr physics\" moment",
-    "summary": "submitted by /u/Used_Worldliness_287 [link] [comments]",
+    "title": "Every Legend of Zelda Game, Ranked",
+    "summary": "Polygon ranks all the mainline games in Nintendo's Zelda series, including the 2026 Switch 2 remake of Ocarina of Time",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/zelda-games-all-ranked/",
+    "timestamp": "2026-11-09T19:52:56Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/zelda-games-all-ranked/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T19:52:56Z",
+    "id": "energy-cf466209ea14a4ae"
+  },
+  {
+    "title": "CUI – Native UI components for C",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://yappologistic.github.io/CUI/",
+    "timestamp": "2026-11-09T19:35:16Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://yappologistic.github.io/CUI/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T19:35:16Z",
+    "id": "energy-a4177f6b78417866"
+  },
+  {
+    "title": "What is the Business Scrub password in Zelda Ocarina of Time?",
+    "summary": "Zelda Ocarina of Time's Business Scrub password is hard to find and tricky to use, but the reward is worth the effort",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/zelda-ocarina-of-time-business-scrub-password/",
+    "timestamp": "2026-11-09T19:33:50Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/zelda-ocarina-of-time-business-scrub-password/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T19:33:50Z",
+    "id": "energy-2bab233deca82928"
+  },
+  {
+    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+    "timestamp": "2026-11-09T19:33:09Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T19:33:09Z",
+    "id": "energy-edeed8e75c4eca88"
+  },
+  {
+    "title": "Coupe de France Slash | Day 4 of 7 | Event Thread",
+    "summary": "Liquipedia page: https://liquipedia.net/rocketleague/NEO/Coupe_de_France_Slash/2026 Twitch Livestream link: https://www.twitch.tv/slash_ftv Youtube Livestream link: https://www.youtube.com/watch?v=r6YmVRrx3Uc https://preview.redd.it/t2n50ipcwm0i1.png?width=308&format=png&auto=webp&s=38226fd2063675894ca67433a022d7b5337ec12e Ranking after Day 3 https://preview.redd.it/ex5kaar6wm0i1.png?width=472&format=png&auto=webp&s=ad49c5089bd669ed2fa5897511c3079b8937b4cb submitted by /u/karionstre [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqjin9/throwback_streamers_reaction_to_call_him_mr/",
-    "timestamp": "2026-11-07T23:05:24Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xs0b0n/coupe_de_france_slash_day_4_of_7_event_thread/",
+    "timestamp": "2026-11-09T18:57:27Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqjin9/throwback_streamers_reaction_to_call_him_mr/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xs0b0n/coupe_de_france_slash_day_4_of_7_event_thread/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-11-07T23:05:24Z",
-    "id": "energy-b8c76dfdb1f68275"
+    "data_as_of": "2026-11-09T18:57:27Z",
+    "id": "energy-99e04cf37cf7f3b9"
   },
   {
-    "title": "[5050rl] Top 32 sam open kick-off qualifier",
-    "summary": "These are the 32 best teams from SAM in the Club Championship Kick-off Qualifier! 🔥 The teams return tomorrow to compete for a spot in the RLCS SAM top 16. 📺 Watch at: https://Twitch.tv/DudsMelow submitted by /u/MeladoDuds [link] [comments]",
+    "title": "Has The Ocarina Of Time Remake Changed Too Much? Fans Debate Difficulty, Tone, And Handholding",
+    "summary": "The Switch 2 reimagining of the N64 classic is missing a lot of the original’s friction",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/legend-zelda-ocarina-time-remake-changes-differences-difficulty-soldier-2000755144",
+    "timestamp": "2026-11-09T18:30:06Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/legend-zelda-ocarina-time-remake-changes-differences-difficulty-soldier-2000755144"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T18:30:06Z",
+    "id": "energy-24d8182678464153"
+  },
+  {
+    "title": "Fortnite Bullied Into Divulging The Drop Rate Of The Pirate Shop Token",
+    "summary": "The token that gives you free stuff in the item shop isn't even the rarest loot in the event",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/fortnite-bullied-into-divulging-the-drop-rate-of-the-pirate-shop-token-2000755124",
+    "timestamp": "2026-11-09T18:15:46Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/fortnite-bullied-into-divulging-the-drop-rate-of-the-pirate-shop-token-2000755124"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T18:15:46Z",
+    "id": "energy-acc501024323083a"
+  },
+  {
+    "title": "James Gunn And Peter Safran Step Down As DC Studios Co-Presidents Two Years Into The DC Universe",
+    "summary": "They will be replaced by Marvel veteran Jeremy Latcham",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/james-gunn-peter-safran-dc-studios-steps-down-quits-2000755133",
+    "timestamp": "2026-11-09T17:29:34Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/james-gunn-peter-safran-dc-studios-steps-down-quits-2000755133"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T17:29:34Z",
+    "id": "energy-e6e0cc66e7872e51"
+  },
+  {
+    "title": "Never Found Audio releases MG-Mini, a FREE MIDI grabber plugin for Windows",
+    "summary": "Never Found Audio, a new plugin developer based in Lower Saxony, Germany, has released MG-Mini, a free MIDI grabber plugin for Windows. We recently covered the developer’s debut plugin, VT-Mini, a free vocal tuner. Since then, the company, promising pro tools at bedroom prices, has released several plugins, including VT-Pro, LF-Pro, and EEQ-8. The latest [...] View post: Never Found Audio releases MG-Mini, a FREE MIDI grabber plugin for Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/",
+    "timestamp": "2026-11-09T17:12:47Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T17:12:47Z",
+    "id": "energy-c390c15ed62bcef5"
+  },
+  {
+    "title": "SSL Blitzer compressor is $19.99 at Plugin Boutique until November 30",
+    "summary": "Solid State Logic’s SSL Blitzer compressor is on sale for $19.99, down from $99, until November 30. The offer is available at Plugin Boutique, and the great news is that it also qualifies for a free gift. Blitzer combines compression, harmonic drive, and transient shaping, drawing inspiration from hardware like the 1176 and LA-2A. You [...] View post: SSL Blitzer compressor is $19.99 at Plugin Boutique until November 30",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/",
+    "timestamp": "2026-11-09T17:02:54Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-09T17:02:54Z",
+    "id": "energy-2769ee5178074fc3"
+  },
+  {
+    "title": "FUT's win on NRG at RLCS Worlds last September was Justin's revenge on Atomic and BeastMode",
+    "summary": "If any of u were RLEsports fans in 2022, u guys may remember RLCS 2022 Worlds in Dickies Arena (now Ariat Arena). Justin on NRG faced BeastMode on Version1 in the Upper QF of GSL. And in the end, V1 swept NRG, with NRG only scoring twice in the whole series (the first goal was the jstn sidewall double; the second was a goal from Squishy in Game 4). But V1 came back in Game 3 with a clutch top right slot from Bmode and a team play between Comm and BeastMode in OT. Then, V1 came back again in Game 4. Just like that, NRG was in the lower bracket. They would make a run through the lower bracket, beating Renegades and SMPR, but in the Quarterfinals, NRG faced a longtime regional rival in G2 (with Atomic), who 4-1'd them, ending NRG's season. And in that series, the only goal NRG scored was the sole goal that helped them win Game 2. We all know what happened the next year. And then, 4 years later, at RLCS 2026 Worlds in the same arena, Justin finds himself on FUT while Atomic and BeastMode are on NRG, and they face off in the Upper QF of the Playoffs. FUT would come back at NRG and send them to the lower bracket, where Falcons would be waiting to kill the dynasty and get well-deserved r…",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqj7g3/5050rl_top_32_sam_open_kickoff_qualifier/",
-    "timestamp": "2026-11-07T22:50:33Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xrw3ly/futs_win_on_nrg_at_rlcs_worlds_last_september_was/",
+    "timestamp": "2026-11-09T16:23:56Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xqj7g3/5050rl_top_32_sam_open_kickoff_qualifier/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xrw3ly/futs_win_on_nrg_at_rlcs_worlds_last_september_was/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-11-07T22:50:33Z",
-    "id": "energy-76a463af58362fc8"
+    "data_as_of": "2026-11-09T16:23:56Z",
+    "id": "energy-038d3e77067e3d70"
   },
   {
-    "title": "For This Year’s N7 Day, Fans, Alumni And Policy Makers Fought For Mass Effect’s Future",
-    "summary": "While previous years brought hope of updates on BioWare's beloved Mass Effect saga, this November had incensed fans pushing EA towards a course correction",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828",
-    "timestamp": "2026-11-07T22:12:46Z",
-    "topic": "Gaming",
+    "title": "US Data Center Growth Pushes PJM, MISO To Overhaul Grid Planning",
+    "summary": "By Zack Hale • Grid operators pursuing new study processes • Former FERC chairs warn of affordability risks US grid operators are rethinking how they plan for massive new data center loads as mounting affordability concerns sharpen questions about who should bear the cost and financial risk of the infrastructure needed to connect the facilities […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/us-data-center-growth-pushes-pjm-miso-to-overhaul-grid-planning/",
+    "timestamp": "2026-11-09T15:52:28Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828"
+      "https://misoxenwatch.com/2026/11/us-data-center-growth-pushes-pjm-miso-to-overhaul-grid-planning/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T22:12:46Z",
-    "id": "energy-2f39f59b4acd3abf"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-09T15:52:28Z",
+    "id": "energy-44ed9023072ff4d1"
   },
   {
-    "title": "AI Stuffy Says ‘I Can’t Help With Killing You’ Completely Unprompted",
-    "summary": "Cross that one off the Christmas list",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/ai-stuffy-says-i-cant-help-with-killing-you-completely-unprompted-2000754819",
-    "timestamp": "2026-11-07T21:30:17Z",
-    "topic": "Gaming",
+    "title": "Exelon Asks FERC To Scrap PJM’s Three-Year-Ahead Capacity Auctions; Invenergy Targets MISO Over HVDC Lines",
+    "summary": "By Staff Writer Key points • Exelon wants PJM to hold capacity auctions two months before delivery, starting with 2030/31, and asks FERC to rule by Jan. 31. • Invenergy says MISO counts merchant HVDC lines’ capacity value but bars them from being paid for it. Exelon asks FERC to scrap PJM’s three-year-ahead capacity auctions; […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/exelon-asks-ferc-to-scrap-pjms-three-year-ahead-capacity-auctions-invenergy-targets-miso-over-hvdc-lines/",
+    "timestamp": "2026-11-09T15:51:39Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/ai-stuffy-says-i-cant-help-with-killing-you-completely-unprompted-2000754819"
+      "https://misoxenwatch.com/2026/11/exelon-asks-ferc-to-scrap-pjms-three-year-ahead-capacity-auctions-invenergy-targets-miso-over-hvdc-lines/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T21:30:17Z",
-    "id": "energy-f6bc2a401c214d5a"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-09T15:51:39Z",
+    "id": "energy-375cc68f86a5140a"
   },
   {
-    "title": "New Stellar Blade Ad Gives Fans Plenty To Talk About With Therapist",
-    "summary": "A live action, throwback ad campaign features Eve tucking people in, reading bed time stories, and YouTube commenters wishing it were them",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/new-stellar-blade-ad-gives-fans-plenty-to-talk-about-with-therapist-2000754823",
-    "timestamp": "2026-11-07T21:03:27Z",
-    "topic": "Gaming",
+    "title": "Upgrading Power Grids To Accommodate Renewable Energy Is A Key Issue At Climate Talks",
+    "summary": "By Anton L. Delgado Outdated power grids are a major hurdle in the transition to renewable energy, since older systems often can’t absorb all the electricity from new, cleaner sources. This threatens global efforts to curb climate change by reducing fossil fuels and switching to renewable energy such as solar and wind. At U.N. […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/upgrading-power-grids-to-accommodate-renewable-energy-is-a-key-issue-at-climate-talks/",
+    "timestamp": "2026-11-09T15:50:57Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/new-stellar-blade-ad-gives-fans-plenty-to-talk-about-with-therapist-2000754823"
+      "https://misoxenwatch.com/2026/11/upgrading-power-grids-to-accommodate-renewable-energy-is-a-key-issue-at-climate-talks/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T21:03:27Z",
-    "id": "energy-421f54296c8b675f"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-09T15:50:57Z",
+    "id": "energy-a95a445b053dd52d"
   },
   {
-    "title": "GI Joe and Paranormal Activity Get New Official Release Dates from Paramount",
-    "summary": "Paramount reveals the release date for Danny McBride's GI Joe reboot and delays the next installment in the Paranormal Activity series.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/",
-    "timestamp": "2026-11-07T15:31:59Z",
-    "topic": "Gaming",
+    "title": "Morpheral Machines releases Desense, a FREE lo-fi interference instrument",
+    "summary": "Morpheral Machines has released Desense, a free instrument that turns stuff like phone interference, electrical hum, and radio noise into sounds you can play from your keyboard. The developer is a new Berlin studio founded by Renoise creator Eduard Müller. Desense actually started as the interference noise in the demo version of its other debut [...] View post: Morpheral Machines releases Desense, a FREE lo-fi interference instrument",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/09/morpheral-desense/",
+    "timestamp": "2026-11-09T14:24:54Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/paramount-gi-joe-release-date-paranormal-activity-delay/"
+      "https://bedroomproducersblog.com/2026/11/09/morpheral-desense/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-07T15:31:59Z",
-    "id": "energy-00ec5a371dde110a"
+    "data_as_of": "2026-11-09T14:24:54Z",
+    "id": "energy-e303eb018b8bdff3"
   },
   {
-    "title": "World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO",
-    "summary": "World of Warcraft got a whole lot of people to come back and play the MMO together",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/",
-    "timestamp": "2026-11-07T15:25:08Z",
-    "topic": "Gaming",
+    "title": "So, how about those midterm elections?",
+    "summary": "A conversation with Caroline Spears of Climate Cabinet.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/so-how-about-those-midterm-elections",
+    "timestamp": "2026-11-09T11:05:33Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/"
+      "https://www.volts.wtf/p/so-how-about-those-midterm-elections"
     ],
-    "source_tier": "primary",
+    "source_tier": "opinion",
     "primary_source": false,
-    "data_as_of": "2026-11-07T15:25:08Z",
-    "id": "energy-f31c5672256a8222"
+    "data_as_of": "2026-11-09T11:05:33Z",
+    "id": "energy-e890f858e8c3a378"
   },
   {
-    "title": "One Of Hollywood's Biggest Stars Just Auditioned For James Bond",
-    "summary": "Robert Pattinson might be our next James Bond, according to new reports about the next James Bond film",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/james-bond-robert-pattinson/",
-    "timestamp": "2026-11-07T14:51:43Z",
-    "topic": "Gaming",
+    "title": "Zariski dense hyperbolic 3-manifold groups in $\\mathrm{SL}(4,\\mathbb{Z})$",
+    "summary": "arXiv:2611.09051v1 Announce Type: new Abstract: We show that $\\mathrm{SL}(4,\\mathbb{Z})$ contains an infinite family of Zariski-dense subgroups isomorphic to the fundamental group of a fixed closed hyperbolic $3$-manifold, which are pairwise noncommensurable up to conjugacy.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.09051",
+    "timestamp": "2026-11-09T05:00:00Z",
+    "topic": "Mathematics",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/james-bond-robert-pattinson/"
+      "https://arxiv.org/abs/2611.09051"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-09T05:00:00Z",
+    "id": "energy-606b3886b0e78b42"
+  },
+  {
+    "title": "Zak Phase, Pole--Zero Invariants and the Maslov Index of Bloch Cauchy Lines in One-Dimensional Periodic Media",
+    "summary": "arXiv:2611.09419v1 Announce Type: new Abstract: The topological properties of the Bloch bands of a one-dimensional periodic medium are described either by the Berry--Zak phase or by the poles and zeros of the surface impedance. We show that both can be read from one geometric object: the line spanned by the field and its flux (the Cauchy data) at an inversion centre. For each band, this line turns as the quasi-momentum runs over the Brillouin zone. Its number of turns, the Maslov index, is fixed by the parities (even or odd) of the Bloch functions at the two band edges, and its parity is the Zak phase. In a gap, the Cauchy line of the solution decaying on one side rotates monotonically with the energy, and an interface state between two crystals is a crossing of two such lines. This gives the known criterion of at most one state per gap in terms of the same lines. Examples with a stratified medium show that the choice of inversion centre changes the interface spectrum. The last section discusses what is missing to extend the construction to higher dimension.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.09419",
+    "timestamp": "2026-11-09T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2611.09419"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-09T05:00:00Z",
+    "id": "energy-69ca59f443ab9c66"
+  },
+  {
+    "title": "What remains of the planar induced minor conjectures?",
+    "summary": "arXiv:2611.09627v1 Announce Type: cross Abstract: Dallard, Milani\\v{c}, and \\v{S}torgel, and independently Gartland and Lokshtanov, conjectured that for every planar graph $H$, Maximum Weight Independent Set and List $3$-Coloring are polynomial-time solvable in $H$-induced-minor-free graphs. As a structural explanation, Gartland and Lokshtanov further conjectured that such graphs admit balanced separators dominated by a constant number of vertices. Bonnet and Chang recently refuted the independent-set part of the algorithmic conjecture, by showing that Maximum Independent Set is $\\mathsf{NP}$-hard in graphs excluding the $5\\times5$ grid as an induced minor. We revisit both conjectures. We show that the graphs used by Bonnet and Chang exclude much simpler planar graphs, including several $16$-vertex trees, and we introduce a second, independent family of hard instances. We also prove that $3$-Coloring is $\\mathsf{NP}$-hard in both settings, thus refuting the algorithmic conjecture in full, even in its quasipolynomial version, unless $\\mathsf{NP}\\subseteq\\mathsf{QP}$. On the structural side, we identify planar graphs $H$ for which the structural conjecture holds, while the algorithm…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.09627",
+    "timestamp": "2026-11-09T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2611.09627"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-09T05:00:00Z",
+    "id": "energy-c517aa5ac67041bd"
+  },
+  {
+    "title": "Jiu-Jitsu Legend Renzo Gracie Takes Equity Stake In UJITSU, Joins As Global Ambassador",
+    "summary": "ABU DHABI, UAE – November 8, 2026 – Renzo Gracie, the 7th-degree coral belt and two-time ADCC (Abu Dhabi Combat Club) world champion, has taken an equity stake in UJITSU, the UAE-founded technology company building a global digital platform for Brazilian Jiu-Jitsu, and has joined the company as Global Ambassador and Strategic Partner. The agreement […] The post Jiu-Jitsu Legend Renzo Gracie Takes Equity Stake In UJITSU, Joins As Global Ambassador appeared first on Jitsmagazine.com.",
+    "source": "Jitsmagazine.com",
+    "url": "https://jitsmagazine.com/jiu-jitsu-legend-renzo-gracie-takes-equity-stake-in-ujitsu-joins-as-global-ambassador/",
+    "timestamp": "2026-11-08T21:29:57Z",
+    "topic": "Jiu-Jitsu",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://jitsmagazine.com/jiu-jitsu-legend-renzo-gracie-takes-equity-stake-in-ujitsu-joins-as-global-ambassador/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-07T14:51:43Z",
-    "id": "energy-c8d16d19a3b20b7a"
+    "data_as_of": "2026-11-08T21:29:57Z",
+    "id": "energy-77269cc996a98626"
   },
   {
     "title": "PGF Announce Groundbreaking Judo Tournament With $10,000 Prize",
@@ -295,140 +448,5 @@
     "primary_source": false,
     "data_as_of": "2026-11-07T11:08:57Z",
     "id": "energy-57fd1e52fc318107"
-  },
-  {
-    "title": "Best of October 2026",
-    "summary": "Highlights from the eight conversations released last month.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/best-of-october-2026",
-    "timestamp": "2026-11-06T16:21:20Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/best-of-october-2026"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-11-06T16:21:20Z",
-    "id": "energy-0cd9f912cb45cdf5"
-  },
-  {
-    "title": "Exelon, Invenergy Complaints At FERC Seek Capacity Market Changes",
-    "summary": "By Ethan Howland Exelon and Invenergy Transmission this week filed separate complaints at the Federal Energy Regulatory Commission seeking changes to the capacity markets run by the PJM Interconnection and the Midcontinent Independent System Operator. Exelon asked FERC to order PJM to shift to a “prompt” auction from its current forward capacity auction schedule, according […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/exelon-invenergy-complaints-at-ferc-seek-capacity-market-changes/",
-    "timestamp": "2026-11-06T15:47:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/exelon-invenergy-complaints-at-ferc-seek-capacity-market-changes/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-06T15:47:02Z",
-    "id": "energy-54114cd78661c427"
-  },
-  {
-    "title": "Energy Law: Month In Review – October 2026",
-    "summary": "By Zev Simpser, Brian Bell, and Sonja Smerud Regulatory Developments FERC Approves Penalties for Nonperforming Demand-Side Resources On October 23, the Federal Energy Regulatory Commission (FERC) approved a set of penalties in Docket No. ER26-1882 for Load Modifying Resources (LMR), or demand-side response and behind-the-meter generation assets. The penalties apply to resources that fail to […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/energy-law-month-in-review-october-2026/",
-    "timestamp": "2026-11-06T15:46:24Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/energy-law-month-in-review-october-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-06T15:46:24Z",
-    "id": "energy-374866af606970dd"
-  },
-  {
-    "title": "Right On Queue: Opportunities For Interconnection Queue Reform In The United States",
-    "summary": "By Staff Writer Executive Summary The process of connecting new power to the grid –interconnection– has thwarted bringing new generation online for years. Increasingly long queues, project withdrawals, years-long studies without firm timelines, and uncertain costs have come to define the interconnection process across the country. And most interconnection processes are divorced from grid-wide, long-term […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/right-on-queue-opportunities-for-interconnection-queue-reform-in-the-united-states/",
-    "timestamp": "2026-11-06T15:45:03Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/right-on-queue-opportunities-for-interconnection-queue-reform-in-the-united-states/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-06T15:45:03Z",
-    "id": "energy-6db58a8cb3bc992b"
-  },
-  {
-    "title": "XM4D: 4D Reconstruction through Certifiable Geometric Optimization",
-    "summary": "arXiv:2611.07902v1 Announce Type: cross Abstract: Accurate 4D reconstruction remains challenging: jointly estimating camera motion, scene geometry, and non-rigid deformation entails highly nonconvex optimization, making global optimality difficult to guarantee. We present XM4D, a framework for accurate and efficient 4D reconstruction built upon certifiably globally optimal geometric optimization. By separating the estimation of camera motion from non-rigid deformation, we formulate both stages as structured quadratically constrained quadratic programs (QCQP) that admit semidefinite programming (SDP) relaxations and verifiable global optimality certificates. For camera motion estimation, we lift static point tracks into 3D using foundational depth prediction models and formulate a scaled bundle adjustment problem that jointly estimates camera poses, depth scales, and static landmarks. By analytically eliminating translations and landmarks, we reduce the problem to a QCQP over scaled rotations. For non-rigid reconstruction, we represent dynamic motion using an embedded deformation graph (EDG) and show that its tracking, rigidity, and temporal regularization objectives similarly redu…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.07902",
-    "timestamp": "2026-11-06T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.07902"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-06T05:00:00Z",
-    "id": "energy-7bcc9f26fa1366ba"
-  },
-  {
-    "title": "Worst-Case Finite-Horizon Analysis of Perturbed LQR via Performance Estimation Problem",
-    "summary": "arXiv:2610.29910v2 Announce Type: replace Abstract: We propose a framework to assess the robustness of a given state-feedback controller by evaluating its worst-case finite-horizon cost over a class of norm-bounded perturbations. To compute this cost, we show how to apply the Performance Estimation Problem (PEP) framework, originally developed to analyze optimization algorithms, and reformulate the worst-case search as a rank-constrained Semidefinite Program (SDP). Our results suggest that the perturbations that induce the highest finite-horizon costs can differ substantially from those identified using standard asymptotic metrics. Intuitively, worst-case perturbations are obtained by aligning slowly decaying modes with specific initial conditions to drive transient growth, causing a bifurcation in the worst-case behavior as the horizon length changes. These findings open new possibilities to certify finite-horizon performance of broader system classes, including data-driven models or nonlinear components.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.29910",
-    "timestamp": "2026-11-06T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.29910"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-06T05:00:00Z",
-    "id": "energy-b2ac5102d7aecb57"
-  },
-  {
-    "title": "Worldsheet skeins and block decomposition of quivers",
-    "summary": "arXiv:2611.07455v1 Announce Type: cross Abstract: Following the knot-quiver correspondence, we investigate quiver counterparts of the HOMFLYPT skein relations by interpreting link invariants in terms of holomorphic worldsheets and their multicover contributions. Extending this framework to more general worldsheet geometries, we conjecture that, up to quiver equivalence, the adjacency matrix of the quiver associated with any link in a skein triple admits a block decomposition whose diagonal blocks are quiver adjacency matrices associated with the other two links. We verify this conjecture in numerous examples.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.07455",
-    "timestamp": "2026-11-06T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.07455"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-06T05:00:00Z",
-    "id": "energy-d293a5360eb91588"
   }
 ]
