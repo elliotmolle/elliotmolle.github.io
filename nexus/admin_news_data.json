@@ -1,345 +1,324 @@
 [
   {
-    "title": "Zelda: Ocarina of Time’s Best Replacement Has 11,000+ ‘Very Positive’ Reviews on Steam",
-    "summary": "Death's Door turns five years old this year, and it's still one of the best games like The Legend of Zelda around.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/",
-    "timestamp": "2026-11-09T20:00:17Z",
+    "title": "The November 2026 PS Plus Catalog Update Is Adding Some Very Good Games",
+    "summary": "It's a solid month for anyone not playing Grand Theft Auto 6",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-november-2026-ps-plus-catalog-update-is-adding-some-very-good-games-2000755543",
+    "timestamp": "2026-11-10T17:15:06Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/deaths-door-five-year-anniversary-retrospective/"
+      "https://kotaku.com/the-november-2026-ps-plus-catalog-update-is-adding-some-very-good-games-2000755543"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-09T20:00:17Z",
-    "id": "energy-d99e9b0046eb020d"
+    "data_as_of": "2026-11-10T17:15:06Z",
+    "id": "energy-d507497245148b1e"
   },
   {
-    "title": "USPS now offers official ZIP Code boundary polygons",
+    "title": "AMD's Zen 6 Family: Feeding the Beast",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://postalpro.usps.com/zcb",
-    "timestamp": "2026-11-09T19:58:59Z",
+    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+    "timestamp": "2026-11-10T17:02:32Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://postalpro.usps.com/zcb"
+      "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-09T19:58:59Z",
-    "id": "energy-3d7e94bd27597cc1"
+    "data_as_of": "2026-11-10T17:02:32Z",
+    "id": "energy-7fa36164615cb079"
   },
   {
-    "title": "Notable result from Coupe de France",
-    "summary": "submitted by /u/nickEbutt [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xs1w1n/notable_result_from_coupe_de_france/",
-    "timestamp": "2026-11-09T19:55:25Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xs1w1n/notable_result_from_coupe_de_france/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-09T19:55:25Z",
-    "id": "energy-f73be4da4c36b0fd"
-  },
-  {
-    "title": "Every Legend of Zelda Game, Ranked",
-    "summary": "Polygon ranks all the mainline games in Nintendo's Zelda series, including the 2026 Switch 2 remake of Ocarina of Time",
+    "title": "GTA 6 is Playable on Xbox One, Rockstar Officially Confirms",
+    "summary": "Grand Theft Auto 6 is coming to Xbox One, Rockstar Games confirms ahead of launch, playable through Xbox Cloud Gaming.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/zelda-games-all-ranked/",
-    "timestamp": "2026-11-09T19:52:56Z",
+    "url": "https://www.polygon.com/gta-6-xbox-one-cloud-gaming/",
+    "timestamp": "2026-11-10T17:01:22Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/zelda-games-all-ranked/"
+      "https://www.polygon.com/gta-6-xbox-one-cloud-gaming/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-09T19:52:56Z",
-    "id": "energy-cf466209ea14a4ae"
+    "data_as_of": "2026-11-10T17:01:22Z",
+    "id": "energy-3a2d14d8703cad43"
   },
   {
-    "title": "CUI – Native UI components for C",
+    "title": "5 Years Later, One of Anime’s Biggest Mysteries Has Officially Been Solved",
+    "summary": "Chapter 252 of Dandadan revealed Okarun's backstory after five years, and few could expect it to be so heartbreaking.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
+    "timestamp": "2026-11-10T16:51:44Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-10T16:51:44Z",
+    "id": "energy-d190a3946250ecb3"
+  },
+  {
+    "title": "Marathon’s Big PvE Update Is Starting to Look a Lot Like Destiny",
+    "summary": "Marathon’s upcoming Symbiosis update adds PvE mode, updated Perimeter zone, and social hub that sure sound like Destiny",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/marathon-bungie-playstation-symbiosis-update-destiny/",
+    "timestamp": "2026-11-10T16:42:41Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/marathon-bungie-playstation-symbiosis-update-destiny/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-10T16:42:41Z",
+    "id": "energy-4d545fdcbe33ac29"
+  },
+  {
+    "title": ".name Grandfathered",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://yappologistic.github.io/CUI/",
-    "timestamp": "2026-11-09T19:35:16Z",
+    "url": "https://neil.fraser.name/news/2026/11/10/",
+    "timestamp": "2026-11-10T16:37:44Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://yappologistic.github.io/CUI/"
+      "https://neil.fraser.name/news/2026/11/10/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-09T19:35:16Z",
-    "id": "energy-a4177f6b78417866"
+    "data_as_of": "2026-11-10T16:37:44Z",
+    "id": "energy-3cad58b262973975"
   },
   {
-    "title": "What is the Business Scrub password in Zelda Ocarina of Time?",
-    "summary": "Zelda Ocarina of Time's Business Scrub password is hard to find and tricky to use, but the reward is worth the effort",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/zelda-ocarina-of-time-business-scrub-password/",
-    "timestamp": "2026-11-09T19:33:50Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/zelda-ocarina-of-time-business-scrub-password/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-09T19:33:50Z",
-    "id": "energy-2bab233deca82928"
-  },
-  {
-    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+    "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-    "timestamp": "2026-11-09T19:33:09Z",
+    "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+    "timestamp": "2026-11-10T16:34:45Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+      "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-09T19:33:09Z",
-    "id": "energy-edeed8e75c4eca88"
+    "data_as_of": "2026-11-10T16:34:45Z",
+    "id": "energy-84e5c21f24a03593"
   },
   {
-    "title": "Coupe de France Slash | Day 4 of 7 | Event Thread",
-    "summary": "Liquipedia page: https://liquipedia.net/rocketleague/NEO/Coupe_de_France_Slash/2026 Twitch Livestream link: https://www.twitch.tv/slash_ftv Youtube Livestream link: https://www.youtube.com/watch?v=r6YmVRrx3Uc https://preview.redd.it/t2n50ipcwm0i1.png?width=308&format=png&auto=webp&s=38226fd2063675894ca67433a022d7b5337ec12e Ranking after Day 3 https://preview.redd.it/ex5kaar6wm0i1.png?width=472&format=png&auto=webp&s=ad49c5089bd669ed2fa5897511c3079b8937b4cb submitted by /u/karionstre [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xs0b0n/coupe_de_france_slash_day_4_of_7_event_thread/",
-    "timestamp": "2026-11-09T18:57:27Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xs0b0n/coupe_de_france_slash_day_4_of_7_event_thread/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-09T18:57:27Z",
-    "id": "energy-99e04cf37cf7f3b9"
-  },
-  {
-    "title": "Has The Ocarina Of Time Remake Changed Too Much? Fans Debate Difficulty, Tone, And Handholding",
-    "summary": "The Switch 2 reimagining of the N64 classic is missing a lot of the original’s friction",
+    "title": "Watch A TCG Thief With No Plan Give Up At The Slightest Resistance",
+    "summary": "Not all scalpers are devious masterminds",
     "source": "Kotaku",
-    "url": "https://kotaku.com/legend-zelda-ocarina-time-remake-changes-differences-difficulty-soldier-2000755144",
-    "timestamp": "2026-11-09T18:30:06Z",
+    "url": "https://kotaku.com/magic-tcg-card-thief-video-binder-middle-tennessee-gaming-star-trek-2000755538",
+    "timestamp": "2026-11-10T16:06:09Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/legend-zelda-ocarina-time-remake-changes-differences-difficulty-soldier-2000755144"
+      "https://kotaku.com/magic-tcg-card-thief-video-binder-middle-tennessee-gaming-star-trek-2000755538"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-09T18:30:06Z",
-    "id": "energy-24d8182678464153"
+    "data_as_of": "2026-11-10T16:06:09Z",
+    "id": "energy-ed6ce5f859b967c4"
   },
   {
-    "title": "Fortnite Bullied Into Divulging The Drop Rate Of The Pirate Shop Token",
-    "summary": "The token that gives you free stuff in the item shop isn't even the rarest loot in the event",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/fortnite-bullied-into-divulging-the-drop-rate-of-the-pirate-shop-token-2000755124",
-    "timestamp": "2026-11-09T18:15:46Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/fortnite-bullied-into-divulging-the-drop-rate-of-the-pirate-shop-token-2000755124"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-09T18:15:46Z",
-    "id": "energy-acc501024323083a"
-  },
-  {
-    "title": "James Gunn And Peter Safran Step Down As DC Studios Co-Presidents Two Years Into The DC Universe",
-    "summary": "They will be replaced by Marvel veteran Jeremy Latcham",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/james-gunn-peter-safran-dc-studios-steps-down-quits-2000755133",
-    "timestamp": "2026-11-09T17:29:34Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/james-gunn-peter-safran-dc-studios-steps-down-quits-2000755133"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-09T17:29:34Z",
-    "id": "energy-e6e0cc66e7872e51"
-  },
-  {
-    "title": "Never Found Audio releases MG-Mini, a FREE MIDI grabber plugin for Windows",
-    "summary": "Never Found Audio, a new plugin developer based in Lower Saxony, Germany, has released MG-Mini, a free MIDI grabber plugin for Windows. We recently covered the developer’s debut plugin, VT-Mini, a free vocal tuner. Since then, the company, promising pro tools at bedroom prices, has released several plugins, including VT-Pro, LF-Pro, and EEQ-8. The latest [...] View post: Never Found Audio releases MG-Mini, a FREE MIDI grabber plugin for Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/",
-    "timestamp": "2026-11-09T17:12:47Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/09/never-found-audio-mg-mini/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-09T17:12:47Z",
-    "id": "energy-c390c15ed62bcef5"
-  },
-  {
-    "title": "SSL Blitzer compressor is $19.99 at Plugin Boutique until November 30",
-    "summary": "Solid State Logic’s SSL Blitzer compressor is on sale for $19.99, down from $99, until November 30. The offer is available at Plugin Boutique, and the great news is that it also qualifies for a free gift. Blitzer combines compression, harmonic drive, and transient shaping, drawing inspiration from hardware like the 1176 and LA-2A. You [...] View post: SSL Blitzer compressor is $19.99 at Plugin Boutique until November 30",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/",
-    "timestamp": "2026-11-09T17:02:54Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/09/ssl-blitzer-deal/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-09T17:02:54Z",
-    "id": "energy-2769ee5178074fc3"
-  },
-  {
-    "title": "FUT's win on NRG at RLCS Worlds last September was Justin's revenge on Atomic and BeastMode",
-    "summary": "If any of u were RLEsports fans in 2022, u guys may remember RLCS 2022 Worlds in Dickies Arena (now Ariat Arena). Justin on NRG faced BeastMode on Version1 in the Upper QF of GSL. And in the end, V1 swept NRG, with NRG only scoring twice in the whole series (the first goal was the jstn sidewall double; the second was a goal from Squishy in Game 4). But V1 came back in Game 3 with a clutch top right slot from Bmode and a team play between Comm and BeastMode in OT. Then, V1 came back again in Game 4. Just like that, NRG was in the lower bracket. They would make a run through the lower bracket, beating Renegades and SMPR, but in the Quarterfinals, NRG faced a longtime regional rival in G2 (with Atomic), who 4-1'd them, ending NRG's season. And in that series, the only goal NRG scored was the sole goal that helped them win Game 2. We all know what happened the next year. And then, 4 years later, at RLCS 2026 Worlds in the same arena, Justin finds himself on FUT while Atomic and BeastMode are on NRG, and they face off in the Upper QF of the Playoffs. FUT would come back at NRG and send them to the lower bracket, where Falcons would be waiting to kill the dynasty and get well-deserved r…",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xrw3ly/futs_win_on_nrg_at_rlcs_worlds_last_september_was/",
-    "timestamp": "2026-11-09T16:23:56Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xrw3ly/futs_win_on_nrg_at_rlcs_worlds_last_september_was/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-09T16:23:56Z",
-    "id": "energy-038d3e77067e3d70"
-  },
-  {
-    "title": "US Data Center Growth Pushes PJM, MISO To Overhaul Grid Planning",
-    "summary": "By Zack Hale • Grid operators pursuing new study processes • Former FERC chairs warn of affordability risks US grid operators are rethinking how they plan for massive new data center loads as mounting affordability concerns sharpen questions about who should bear the cost and financial risk of the infrastructure needed to connect the facilities […]",
+    "title": "Invenergy Challenges Treatment Of Merchant HVDC In MISO Capacity Market",
+    "summary": "By Amanda Durish Cook Invenergy has filed a complaint with FERC contesting MISO’s stance that merchant HVDC resources are not capacity resources and arguing the RTO is taking advantage of the contributions of private transmission lines without paying for them. The Chicago-based developer argued that merchant HVDC lines, which provide MISO with capacity benefits, should […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/us-data-center-growth-pushes-pjm-miso-to-overhaul-grid-planning/",
-    "timestamp": "2026-11-09T15:52:28Z",
+    "url": "https://misoxenwatch.com/2026/11/invenergy-challenges-treatment-of-merchant-hvdc-in-miso-capacity-market/",
+    "timestamp": "2026-11-10T15:55:06Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/us-data-center-growth-pushes-pjm-miso-to-overhaul-grid-planning/"
+      "https://misoxenwatch.com/2026/11/invenergy-challenges-treatment-of-merchant-hvdc-in-miso-capacity-market/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-09T15:52:28Z",
-    "id": "energy-44ed9023072ff4d1"
+    "data_as_of": "2026-11-10T15:55:06Z",
+    "id": "energy-4869260229fc500c"
   },
   {
-    "title": "Exelon Asks FERC To Scrap PJM’s Three-Year-Ahead Capacity Auctions; Invenergy Targets MISO Over HVDC Lines",
-    "summary": "By Staff Writer Key points • Exelon wants PJM to hold capacity auctions two months before delivery, starting with 2030/31, and asks FERC to rule by Jan. 31. • Invenergy says MISO counts merchant HVDC lines’ capacity value but bars them from being paid for it. Exelon asks FERC to scrap PJM’s three-year-ahead capacity auctions; […]",
+    "title": "PJM And MISO Winter Outlook: A Mild Season With Thin Margins",
+    "summary": "By Staff Writer A record-strength El Niño points to a warm winter across PJM and MISO. Warm doesn’t mean calm. PJM’s 2028/2029 capacity auction cleared at the price cap for the third straight year, and MISO hit its $10,000/MWh cap on Sept. 2 without a single unit trip. Enverus Intelligence® Research (EIR) sees mild weather […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/exelon-asks-ferc-to-scrap-pjms-three-year-ahead-capacity-auctions-invenergy-targets-miso-over-hvdc-lines/",
-    "timestamp": "2026-11-09T15:51:39Z",
+    "url": "https://misoxenwatch.com/2026/11/pjm-and-miso-winter-outlook-a-mild-season-with-thin-margins/",
+    "timestamp": "2026-11-10T15:54:36Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/exelon-asks-ferc-to-scrap-pjms-three-year-ahead-capacity-auctions-invenergy-targets-miso-over-hvdc-lines/"
+      "https://misoxenwatch.com/2026/11/pjm-and-miso-winter-outlook-a-mild-season-with-thin-margins/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-09T15:51:39Z",
-    "id": "energy-375cc68f86a5140a"
+    "data_as_of": "2026-11-10T15:54:36Z",
+    "id": "energy-baccf71c71468ddd"
   },
   {
-    "title": "Upgrading Power Grids To Accommodate Renewable Energy Is A Key Issue At Climate Talks",
-    "summary": "By Anton L. Delgado Outdated power grids are a major hurdle in the transition to renewable energy, since older systems often can’t absorb all the electricity from new, cleaner sources. This threatens global efforts to curb climate change by reducing fossil fuels and switching to renewable energy such as solar and wind. At U.N. […]",
+    "title": "Put People Over Power Of Lulu-Sorenson",
+    "summary": "By Mike Marturello It has been my lifelong motto to put people first at the heart of everything. As a nurse, a medical advocate, a mother, a wife, a friend and neighbor, that motto has remained a guiding principle. I spent my career with a caregiver’s heart navigating poor policy and practices that supported private […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/upgrading-power-grids-to-accommodate-renewable-energy-is-a-key-issue-at-climate-talks/",
-    "timestamp": "2026-11-09T15:50:57Z",
+    "url": "https://misoxenwatch.com/2026/11/put-people-over-power-of-lulu-sorenson/",
+    "timestamp": "2026-11-10T15:54:04Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/upgrading-power-grids-to-accommodate-renewable-energy-is-a-key-issue-at-climate-talks/"
+      "https://misoxenwatch.com/2026/11/put-people-over-power-of-lulu-sorenson/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-09T15:50:57Z",
-    "id": "energy-a95a445b053dd52d"
+    "data_as_of": "2026-11-10T15:54:04Z",
+    "id": "energy-3bde28ba70e0217d"
   },
   {
-    "title": "Morpheral Machines releases Desense, a FREE lo-fi interference instrument",
-    "summary": "Morpheral Machines has released Desense, a free instrument that turns stuff like phone interference, electrical hum, and radio noise into sounds you can play from your keyboard. The developer is a new Berlin studio founded by Renoise creator Eduard Müller. Desense actually started as the interference noise in the demo version of its other debut [...] View post: Morpheral Machines releases Desense, a FREE lo-fi interference instrument",
+    "title": "Zelda: Ocarina Of Time Remake Has A Massive Second-Act Change That Took My Breath Away",
+    "summary": "Leaving me cold",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518",
+    "timestamp": "2026-11-10T15:30:41Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-10T15:30:41Z",
+    "id": "energy-ef59a32cb691464f"
+  },
+  {
+    "title": "[ECHO MENA] Tokyo is the new host for the FIFAe Finals 2026, will now be held from January 8 to 14, 2027.",
+    "summary": "Echo Mena are a good source in the saudi scene and i would basically consider this as confirmed, pretty hype i think this would be the first big LAN in east asia. 🔗 / https://x.com/echomena\\_/status/2120145586464706878?a=WpFFTuGxI1IoV-VCqlA&s=46 submitted by /u/10c_ [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsnldm/echo_mena_tokyo_is_the_new_host_for_the_fifae/",
+    "timestamp": "2026-11-10T13:59:22Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsnldm/echo_mena_tokyo_is_the_new_host_for_the_fifae/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-10T13:59:22Z",
+    "id": "energy-851dadedaa5c201d"
+  },
+  {
+    "title": "Fuse Audio Labs releases Amber Drive, a FREE British guitar amp plugin",
+    "summary": "Fuse Audio Labs has released Amber Drive, a free British-style guitar amp plugin for macOS and Windows. I love Fuse Audio Labs’ software, and we’ve covered several of their freebies, including VREV-666 Spring Reverb and the VPRE-72 vintage tube preamp. This latest one is pretty cool if you’re into Orange amps but don’t have the [...] View post: Fuse Audio Labs releases Amber Drive, a FREE British guitar amp plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/09/morpheral-desense/",
-    "timestamp": "2026-11-09T14:24:54Z",
+    "url": "https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/",
+    "timestamp": "2026-11-10T12:38:45Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/09/morpheral-desense/"
+      "https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-09T14:24:54Z",
-    "id": "energy-e303eb018b8bdff3"
+    "data_as_of": "2026-11-10T12:38:45Z",
+    "id": "energy-6da6fbceddd4d288"
+  },
+  {
+    "title": "Audio Spices offers Black Pepper pitch delay FREE for Black Friday",
+    "summary": "Audio Spices has opened registration for a free copy of Black Pepper, its new pitch-shifting delay plugin for macOS and Windows. To get it for free, by November 26, and Audio Spices will email your copy on Black Friday, November 27. Enter your email address on the giveaway page linked below and tick [...] View post: Audio Spices offers Black Pepper pitch delay FREE for Black Friday",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/10/audio-spices-black-pepper/",
+    "timestamp": "2026-11-10T12:30:30Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/10/audio-spices-black-pepper/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-10T12:30:30Z",
+    "id": "energy-e451000dbdca8b56"
+  },
+  {
+    "title": "noshigeSound releases noshige73 LITE, a FREE 1073-style EQ for macOS and Windows",
+    "summary": "noshigeSound has released noshige73, a 1073-style console EQ with a free LITE version for macOS and Windows. Before you continue reading, note that this plugin is very CPU-heavy. Using a GPU can reduce the load, but if that’s not your style, feel free to skip this one. We previously covered the developer’s ENHANCER VINTAGE-73 and [...] View post: noshigeSound releases noshige73 LITE, a FREE 1073-style EQ for macOS and Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/",
+    "timestamp": "2026-11-10T11:57:09Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-10T11:57:09Z",
+    "id": "energy-beae3e33bc0afa85"
+  },
+  {
+    "title": "Today I learned Zen and Atow were born 2 days apart",
+    "summary": "Zen: Feb 20, 2007 Atow: Feb 22, 2007 How did I just learn this now?? 😭 submitted by /u/Thin-Scale-1871 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsao2o/today_i_learned_zen_and_atow_were_born_2_days/",
+    "timestamp": "2026-11-10T02:00:36Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsao2o/today_i_learned_zen_and_atow_were_born_2_days/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-10T02:00:36Z",
+    "id": "energy-ea942b60fb75a737"
   },
   {
     "title": "So, how about those midterm elections?",
@@ -430,23 +409,5 @@
     "primary_source": false,
     "data_as_of": "2026-11-08T21:29:57Z",
     "id": "energy-77269cc996a98626"
-  },
-  {
-    "title": "PGF Announce Groundbreaking Judo Tournament With $10,000 Prize",
-    "summary": "The Professional Grappling Federation (PGF) is expanding beyond Brazilian Jiu-Jitsu, announcing the launch of an exciting new professional Judo tournament set to take place in Las Vegas on November 10, 2026. Dubbed PGF Pro Judo, the inaugural event will bring together eight competitors in an innovative round-robin format, with a $10,000 cash prize and championship […] The post PGF Announce Groundbreaking Judo Tournament With $10,000 Prize appeared first on Jitsmagazine.com.",
-    "source": "Jitsmagazine.com",
-    "url": "https://jitsmagazine.com/pgf-announce-groundbreaking-judo-tournament-with-10000-prize/",
-    "timestamp": "2026-11-07T11:08:57Z",
-    "topic": "Jiu-Jitsu",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://jitsmagazine.com/pgf-announce-groundbreaking-judo-tournament-with-10000-prize/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-07T11:08:57Z",
-    "id": "energy-57fd1e52fc318107"
   }
 ]

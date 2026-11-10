@@ -1,38 +1,40 @@
 [
   {
-    "title": "Copenhagen Atomics and Urenco partner on planned deconversion facility",
-    "summary": "Copenhagen Atomics and Urenco have signed a memorandum of understanding to develop a deconversion plant that would produce uranium tetrafluoride (UF4) at a Copenhagen Atomics facility. The MOU establishes a new framework for cooperation between a developer primarily exploring molten salt reactors (MSRs) and a global supplier of uranium enrichment services. Copenhagen Atomics—the MSR developer—seeks to employ Urenco’s expertise in producing uranium hexafluoride (UF6) to establish a UF6-to-UF4 pathway. This would provide Copenhagen Atomics with the UF4 feedstock its MSRs require. The company also has purchased low-enriched uranium from Urenco as part of their collaboration.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-09/article-8568/copenhagen-atomics-and-urenco-partner-on-planned-deconversion-facility/",
-    "timestamp": "2026-11-09T18:00:52Z",
+    "title": "Entergy New Orleans strengthens electric infrastructure in Central Business District and French Quarter",
+    "summary": "Entergy New Orleans is continuing its citywide efforts to strengthen the electric system, with targeted improvements underway in the Central Business District (CBD) and French Quarter to enhance service for customers and support the city’s growing economic activity. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-new-orleans-strengthens-electric-infrastructure-in-central-business-district-and-french-quarter",
+    "timestamp": "2026-11-10T16:32:32Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-09/article-8568/copenhagen-atomics-and-urenco-partner-on-planned-deconversion-facility/"
+      "https://www.entergy.com/blog/entergy-new-orleans-strengthens-electric-infrastructure-in-central-business-district-and-french-quarter"
     ],
-    "source_tier": "trade",
-    "primary_source": false,
+    "source_tier": "primary",
+    "primary_source": true,
     "entities": [
-      "American Nuclear Society",
-      "ANS"
+      "Entergy"
     ],
-    "data_as_of": "2026-11-09T18:00:52Z",
-    "id": "energy-4418cd5a03d81d93"
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-10T16:32:32Z",
+    "id": "energy-963fbf5689301f2e"
   },
   {
-    "title": "Canada assesses its space reactor capabilities",
-    "summary": "The Canadian Space Agency announced a request for information (RFI) seeking input from Canadian industry and academia on the country’s technologies and capabilities related to lunar microreactors, aiming to identify areas where Canada has differentiated or strategically valuable capabilities. The agency identifies fission power as complementary to solar power and batteries for lunar missions, including for exploration, mobility, and future crewed operations. The RFI aims to assess technologies that are at a technology readiness level of at least 2, which could be for a reactor or specific subsystems.",
+    "title": "DOE-EM seeks proposals for Hanford site development projects",
+    "summary": "The Department of Energy’s Office of Environmental Management has announced that it is accepting proposals for industrial development of portions of the Hanford Reservation near Richland, Wash. According to a November 6 press release, as part of its American Energy Hubs initiative, DOE-EM seeks to lease plots of land to companies pursuing projects in “affordable energy generation, advanced manufacturing, critical materials development, and computing capabilities.” The request for offer requires project developers to “build, bring, or buy” the energy required for the project’s operations, though the power generation facility does not need to be co-located on site. Developers working on energy generation or storage initiatives will be responsible for establishing connections with electric utilities.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-09/article-8567/canada-assesses-its-space-reactor-capabilities/",
-    "timestamp": "2026-11-09T16:03:24Z",
+    "url": "https://www.ans.org/news/2026-11-10/article-8571/doeem-seeks-proposals-for-hanford-site-development-projects/",
+    "timestamp": "2026-11-10T15:49:29Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-09/article-8567/canada-assesses-its-space-reactor-capabilities/"
+      "https://www.ans.org/news/2026-11-10/article-8571/doeem-seeks-proposals-for-hanford-site-development-projects/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,21 +42,90 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-09T16:03:24Z",
-    "id": "energy-5b54596bde11f94c"
+    "data_as_of": "2026-11-10T15:49:29Z",
+    "id": "energy-b97bf4c97cb00379"
   },
   {
-    "title": "INL and Purdue University collaborate on construction demonstration",
-    "summary": "A newly announced collaboration between Idaho National Laboratory’s National Reactor Innovation Center (NRIC) and Purdue University’s Applied Research Institute (PARI) will focus on demonstrating construction techniques for reducing costs and risks of new reactors. The project, which also includes the Electric Power Research Institute and the Nuclear Energy Institute, is part of the implementation of NRIC’s Advanced Construction Technology Initiative (ACTI).",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-09/article-8566/inl-and-purdue-university-collaborate-on-construction-demonstration/",
-    "timestamp": "2026-11-09T13:58:46Z",
+    "title": "Entergy programs connect Louisiana residents and businesses to energy efficiency improvements, bill savings (NOLA.com)",
+    "summary": "Entergy is helping residential and business customers address rising energy costs through energy efficiency programs that recommend practical improvements and provide financial incentives to make upgrades more affordable. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-programs-connect-louisiana-residents-and-businesses-to-energy-efficiency-improvements-bill-savings",
+    "timestamp": "2026-11-10T14:50:20Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-09/article-8566/inl-and-purdue-university-collaborate-on-construction-demonstration/"
+      "https://www.entergy.com/blog/entergy-programs-connect-louisiana-residents-and-businesses-to-energy-efficiency-improvements-bill-savings"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-10T14:50:20Z",
+    "id": "energy-be3f3576e96d2126"
+  },
+  {
+    "title": "Strengthening our defenses together: How stakeholder engagement helps protect against social engineering",
+    "summary": "Entergy brought together federal cybersecurity partners, industry experts and local business leaders for a roundtable discussion during Cybersecurity Awareness Month in October. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/strengthening-our-defenses-together-how-stakeholder-engagement-helps-protect-against-social-engineering",
+    "timestamp": "2026-11-10T14:47:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/strengthening-our-defenses-together-how-stakeholder-engagement-helps-protect-against-social-engineering"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-10T14:47:26Z",
+    "id": "energy-036f4db501a7913e"
+  },
+  {
+    "title": "UK Nuclear Professionals Confident, But Warn Of Uncertainties And Challenges",
+    "summary": "Nuclear professionals are confident about the future of the UK industry, but warn that funding uncertainty, skills shortages and challenges delivering major projects could hamper its growth, according to new research from the Nuclear Institute. A survey of Nuclear Institute members found that almost four in five (79.7%) respondents are optimistic about the industry’s future, with a third of these (33.3%) describing themselves as very optimistic. However, the research also highlighted concerns over the industry’s ability to turn ambition into action, with respondents identifying project costs, workforce capacity, regulatory barriers and long-term government support among its most pressing challenges.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/uk-nuclear-professionals-confident-but-warn-of-uncertainties-and-challenges-11-2-2026",
+    "timestamp": "2026-11-10T14:34:27Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/uk-nuclear-professionals-confident-but-warn-of-uncertainties-and-challenges-11-2-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-10T14:34:27Z",
+    "id": "energy-612f978302b63c4d"
+  },
+  {
+    "title": "CoP webinar explores reactor developer’s perspective on RIPB regulation",
+    "summary": "The American Nuclear Society’s Risk-informed, Performance-based Principles and Policy Committee (RP3C) recently held another presentation in its monthly Community of Practice (CoP) series, the RP3C’s final CoP of the year. Former RP3C chair N. Prasad Kadambi opened the meeting with brief introductory remarks about the RP3C and the value of risk-informed, performance-based (RIPB) techniques as opposed to conventional prescriptive and deterministic approaches.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-10/article-8570/cop-webinar-explores-reactor-developers-perspective-on-ripb-regulation/",
+    "timestamp": "2026-11-10T13:12:45Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-10/article-8570/cop-webinar-explores-reactor-developers-perspective-on-ripb-regulation/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -62,8 +133,73 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-09T13:58:46Z",
-    "id": "energy-9c882a6901ce7f53"
+    "data_as_of": "2026-11-10T13:12:45Z",
+    "id": "energy-ad9c6369c183248c"
+  },
+  {
+    "title": "Internal Market Monitor issues summer 2026 quarterly report",
+    "summary": "Total wholesale costs were down, though a drop in natural gas prices was offset by higher emissions costs. The post Internal Market Monitor issues summer 2026 quarterly report appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/10/internal-market-monitor-issues-summer-2026-quarterly-report/",
+    "timestamp": "2026-11-10T13:10:08Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/10/internal-market-monitor-issues-summer-2026-quarterly-report/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-10T13:10:08Z",
+    "id": "energy-9563eefe7bca3425"
+  },
+  {
+    "title": "Estonia Shortlists Three Locations For First BWRX-300 Nuclear Power Plant",
+    "summary": "Estonia said it will now focus on three potential locations in the Viru-Nigula region in the north of the country for the development of its first nuclear power plants having discarded three sites for what it called “national security reasons”. In a statement, the Estonian government said that the Madala, Malla and Letipea sites would be the three sites considered to host Estonia-based project development company Fermi Energia’s planned development of two 300-MW GE Vernova Hitachi Nuclear Energy BWRX-300 small modular reactors (SMRs). Three sites in Lüganuse municipality, also in the north of the country, were excluded from plans due to national defence reasons, a decision based on assessment guidelines outlined by the International Atomic Energy Agency (IAEA) for the risk profile of sites.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/estonia-shortlists-three-locations-for-first-bwrx-300-nuclear-power-plant-11-2-2026",
+    "timestamp": "2026-11-10T11:48:03Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/estonia-shortlists-three-locations-for-first-bwrx-300-nuclear-power-plant-11-2-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-10T11:48:03Z",
+    "id": "energy-20af23c3f3fb239b"
+  },
+  {
+    "title": "How will midterm results impact nuclear energy?",
+    "summary": "In the wake of last Tuesday’s midterm elections and sweeping victories for Democrats across several levels of government, Nuclear News is probing how the results could impact those in and around the nuclear energy community. Below, NN looks at the newly elected officials who flipped U.S. Senate and governor seats from red to blue to see what they’ve said or done regarding nuclear energy, as well as what to expect from Congress during the lame-duck session.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-09/article-8569/how-will-midterm-results-impact-nuclear-energy/",
+    "timestamp": "2026-11-09T21:10:32Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-09/article-8569/how-will-midterm-results-impact-nuclear-energy/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-09T21:10:32Z",
+    "id": "energy-70fe10b8c98dc108"
   },
   {
     "title": "China Pours First Concrete For HTGR At ‘World’s First’ Hybrid Nuclear Power Station",
