@@ -1,16 +1,16 @@
 [
   {
-    "title": "Entergy New Orleans strengthens electric infrastructure in Central Business District and French Quarter",
-    "summary": "Entergy New Orleans is continuing its citywide efforts to strengthen the electric system, with targeted improvements underway in the Central Business District (CBD) and French Quarter to enhance service for customers and support the city’s growing economic activity. Source",
+    "title": "A commitment to service: Entergy Texas employees reflect on their military careers",
+    "summary": "Marine veterans John Edling and Scott Barrios draw on their military experience every day to better serve customers in Southeast Texas Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-new-orleans-strengthens-electric-infrastructure-in-central-business-district-and-french-quarter",
-    "timestamp": "2026-11-10T16:32:32Z",
+    "url": "https://www.entergy.com/blog/a-commitment-to-service-entergy-texas-employees-reflect-on-their-military-careers",
+    "timestamp": "2026-11-11T16:41:19Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-new-orleans-strengthens-electric-infrastructure-in-central-business-district-and-french-quarter"
+      "https://www.entergy.com/blog/a-commitment-to-service-entergy-texas-employees-reflect-on-their-military-careers"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -20,21 +20,112 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-11-10T16:32:32Z",
-    "id": "energy-963fbf5689301f2e"
+    "data_as_of": "2026-11-11T16:41:19Z",
+    "id": "energy-b5278b9a49a56287"
   },
   {
-    "title": "DOE-EM seeks proposals for Hanford site development projects",
-    "summary": "The Department of Energy’s Office of Environmental Management has announced that it is accepting proposals for industrial development of portions of the Hanford Reservation near Richland, Wash. According to a November 6 press release, as part of its American Energy Hubs initiative, DOE-EM seeks to lease plots of land to companies pursuing projects in “affordable energy generation, advanced manufacturing, critical materials development, and computing capabilities.” The request for offer requires project developers to “build, bring, or buy” the energy required for the project’s operations, though the power generation facility does not need to be co-located on site. Developers working on energy generation or storage initiatives will be responsible for establishing connections with electric utilities.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-10/article-8571/doeem-seeks-proposals-for-hanford-site-development-projects/",
-    "timestamp": "2026-11-10T15:49:29Z",
+    "title": "Entergy earns award for veteran hiring, retention",
+    "summary": "The U.S. Department of Labor has recognized Entergy as a recipient of the HIRE Vets Medallion Award, which honors exceptional achievement in veteran employment. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-earns-award-for-veteran-hiring-retention",
+    "timestamp": "2026-11-11T16:09:32Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-10/article-8571/doeem-seeks-proposals-for-hanford-site-development-projects/"
+      "https://www.entergy.com/blog/entergy-earns-award-for-veteran-hiring-retention"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-11T16:09:32Z",
+    "id": "energy-b2028049519d710b"
+  },
+  {
+    "title": "ISO Minute: Finding a familiar mission after military service",
+    "summary": "Shelley Mutti describes how 26 years in the U.S. Air Force has informed her work at the region’s power grid operator. The post ISO Minute: Finding a familiar mission after military service appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/11/iso-minute-finding-a-familiar-mission-after-military-service/",
+    "timestamp": "2026-11-11T11:30:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/11/iso-minute-finding-a-familiar-mission-after-military-service/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-11T11:30:00Z",
+    "id": "energy-3fa92ad5f91c1c93"
+  },
+  {
+    "title": "Pouring Of First Concrete Begins For Nuclear Island At China’s Sanao-4",
+    "summary": "First concrete pouring has begun for the nuclear island of Unit 4 at the Sanao nuclear power station in eastern Chinese province of Zhejiang, project owner China General Nuclear (CGN) announced on Tuesday (10 November). The company said the pouring of first concrete began at 08:28 local time on 10 November, marking the official start of main construction. It said the total volume of concrete poured as of 10 November was approximately 8,820 cubic metres and the process is expected to last 60 hours.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/pouring-of-first-concrete-begins-for-nuclear-island-at-china-s-sanao-4-11-3-2026",
+    "timestamp": "2026-11-11T10:16:11Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/pouring-of-first-concrete-begins-for-nuclear-island-at-china-s-sanao-4-11-3-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-11T10:16:11Z",
+    "id": "energy-d93d2093b19c1d0d"
+  },
+  {
+    "title": "Entergy Texas’ annual golf tournament hits fundraising record",
+    "summary": "Entergy Texas' 2026 Power to Care Golf Charity Classic raised more than $563,000, a record high that will help vulnerable customers facing financial hardship. The annual event held at The Woodlands Country Club-Palmer Course brought together 59 teams, 68 sponsors and dozens of volunteers to raise money for The Power to Care. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-texas-annual-golf-tournament-hits-fundraising-record",
+    "timestamp": "2026-11-10T21:06:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-texas-annual-golf-tournament-hits-fundraising-record"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-10T21:06:27Z",
+    "id": "energy-2022784bef690a45"
+  },
+  {
+    "title": "NRC issues construction permit for Dow/X-energy Long Mott project",
+    "summary": "The Nuclear Regulatory Commission has approved Dow’s construction permit application for its Long Mott Generating Station in Seadrift, Texas, which would include four X-energy Xe-100 reactors.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-10/article-8573/nrc-issues-construction-permit-for-dowxenergy-long-mott-project/",
+    "timestamp": "2026-11-10T21:00:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-10/article-8573/nrc-issues-construction-permit-for-dowxenergy-long-mott-project/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -42,56 +133,52 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-10T15:49:29Z",
-    "id": "energy-b97bf4c97cb00379"
+    "data_as_of": "2026-11-10T21:00:11Z",
+    "id": "energy-9f95219c3660cff4"
   },
   {
-    "title": "Entergy programs connect Louisiana residents and businesses to energy efficiency improvements, bill savings (NOLA.com)",
-    "summary": "Entergy is helping residential and business customers address rising energy costs through energy efficiency programs that recommend practical improvements and provide financial incentives to make upgrades more affordable. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-programs-connect-louisiana-residents-and-businesses-to-energy-efficiency-improvements-bill-savings",
-    "timestamp": "2026-11-10T14:50:20Z",
+    "title": "Atomic spectroscopy used to resolve one nuclear size anomaly and reveal another",
+    "summary": "Researchers have used a new approach to measure differences in the sizes of atomic nuclei, resolving a longstanding discrepancy while uncovering a new finding that current nuclear theories cannot fully explain. The size of an atomic nucleus, measured by its nuclear charge radius, provides information about how protons and neutrons are arranged within it and is used to understand nuclear structure and deformation.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-10/article-8572/atomic-spectroscopy-used-to-resolve-one-nuclear-size-anomaly-and-reveal-another/",
+    "timestamp": "2026-11-10T20:11:09Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/entergy-programs-connect-louisiana-residents-and-businesses-to-energy-efficiency-improvements-bill-savings"
+      "https://www.ans.org/news/2026-11-10/article-8572/atomic-spectroscopy-used-to-resolve-one-nuclear-size-anomaly-and-reveal-another/"
     ],
-    "source_tier": "primary",
-    "primary_source": true,
+    "source_tier": "trade",
+    "primary_source": false,
     "entities": [
-      "Entergy"
+      "American Nuclear Society",
+      "ANS"
     ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-10T14:50:20Z",
-    "id": "energy-be3f3576e96d2126"
+    "data_as_of": "2026-11-10T20:11:09Z",
+    "id": "energy-dd7c858c6c6cd4b1"
   },
   {
-    "title": "Strengthening our defenses together: How stakeholder engagement helps protect against social engineering",
-    "summary": "Entergy brought together federal cybersecurity partners, industry experts and local business leaders for a roundtable discussion during Cybersecurity Awareness Month in October. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/strengthening-our-defenses-together-how-stakeholder-engagement-helps-protect-against-social-engineering",
-    "timestamp": "2026-11-10T14:47:26Z",
+    "title": "Springtime for the full nuclear fuel cycle",
+    "summary": "Craig Piercycpiercy@ans.org The Trump administration’s Department of Energy has done good. Its Nuclear Lifecycle Innovation Campuses (NLIC) initiative has planted some important seeds that are starting to sprout. Five states—Idaho, Louisiana, Oklahoma, Tennessee, and Utah—have found the courage to pull out a map, put a finger on a spot, and say, “This place is worth exploring for nuclear waste disposal.” Of course, these states aren’t looking only at the economic benefits of disposal. They see the larger prize: becoming a hub for recycling, front-end fuel cycle facilities, and advanced reactor development and services. Some in the nuclear community worry that the near-term economic impact of recycling has been oversold to these states, a byproduct of the irrational exuberance of a few. But I suspect that if you polled ANS’s nearly 13,000 members, most would say we’ll be recycling at least some of our nuclear fuel within a few decades. Across the nuclear community, there’s a growing sense that recycling is not an option anymore—it’s an eventuality. The real question is how to get there. What is the path?",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-10/article-8535/springtime-for-the-full-nuclear-fuel-cycle/",
+    "timestamp": "2026-11-10T17:32:30Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/strengthening-our-defenses-together-how-stakeholder-engagement-helps-protect-against-social-engineering"
+      "https://www.ans.org/news/2026-11-10/article-8535/springtime-for-the-full-nuclear-fuel-cycle/"
     ],
-    "source_tier": "primary",
-    "primary_source": true,
+    "source_tier": "trade",
+    "primary_source": false,
     "entities": [
-      "Entergy"
+      "American Nuclear Society",
+      "ANS"
     ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-10T14:47:26Z",
-    "id": "energy-036f4db501a7913e"
+    "data_as_of": "2026-11-10T17:32:30Z",
+    "id": "energy-f40c58a993111a25"
   },
   {
     "title": "UK Nuclear Professionals Confident, But Warn Of Uncertainties And Challenges",
@@ -113,28 +200,6 @@
     ],
     "data_as_of": "2026-11-10T14:34:27Z",
     "id": "energy-612f978302b63c4d"
-  },
-  {
-    "title": "CoP webinar explores reactor developer’s perspective on RIPB regulation",
-    "summary": "The American Nuclear Society’s Risk-informed, Performance-based Principles and Policy Committee (RP3C) recently held another presentation in its monthly Community of Practice (CoP) series, the RP3C’s final CoP of the year. Former RP3C chair N. Prasad Kadambi opened the meeting with brief introductory remarks about the RP3C and the value of risk-informed, performance-based (RIPB) techniques as opposed to conventional prescriptive and deterministic approaches.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-10/article-8570/cop-webinar-explores-reactor-developers-perspective-on-ripb-regulation/",
-    "timestamp": "2026-11-10T13:12:45Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-10/article-8570/cop-webinar-explores-reactor-developers-perspective-on-ripb-regulation/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-10T13:12:45Z",
-    "id": "energy-ad9c6369c183248c"
   },
   {
     "title": "Internal Market Monitor issues summer 2026 quarterly report",
@@ -178,49 +243,6 @@
     ],
     "data_as_of": "2026-11-10T11:48:03Z",
     "id": "energy-20af23c3f3fb239b"
-  },
-  {
-    "title": "How will midterm results impact nuclear energy?",
-    "summary": "In the wake of last Tuesday’s midterm elections and sweeping victories for Democrats across several levels of government, Nuclear News is probing how the results could impact those in and around the nuclear energy community. Below, NN looks at the newly elected officials who flipped U.S. Senate and governor seats from red to blue to see what they’ve said or done regarding nuclear energy, as well as what to expect from Congress during the lame-duck session.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-09/article-8569/how-will-midterm-results-impact-nuclear-energy/",
-    "timestamp": "2026-11-09T21:10:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-09/article-8569/how-will-midterm-results-impact-nuclear-energy/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-09T21:10:32Z",
-    "id": "energy-70fe10b8c98dc108"
-  },
-  {
-    "title": "China Pours First Concrete For HTGR At ‘World’s First’ Hybrid Nuclear Power Station",
-    "summary": "The first batch of concrete has been poured for the nuclear island of the high-temperature gas-cooled reactor (HTGR) that forms part the first phase of a hybrid nuclear power station in Jiangsu province, eastern China. The facility, known as the Jiangsu Xuwei Nuclear Heating and Power Plant, will supply both industrial heat and electricity by coupling the Chilong One HTGR with two Hualong One pressurised water reactors (PWRs). CNNC said first concrete had now been poured for the 600-MW HTGR. That follows the pouring of first concrete in January for the nuclear island of Unit 1, a Hualong One PWR.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/china-pours-first-concrete-for-htgr-at-world-s-first-hybrid-nuclear-power-station-11-1-2026",
-    "timestamp": "2026-11-09T13:56:36Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/china-pours-first-concrete-for-htgr-at-world-s-first-hybrid-nuclear-power-station-11-1-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-09T13:56:36Z",
-    "id": "energy-f836d4044638b060"
   },
   {
     "title": "How ISO-NE ensures reliable electricity one day at a time",

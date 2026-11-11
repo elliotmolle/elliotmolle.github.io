@@ -1,324 +1,417 @@
 [
   {
-    "title": "The November 2026 PS Plus Catalog Update Is Adding Some Very Good Games",
-    "summary": "It's a solid month for anyone not playing Grand Theft Auto 6",
+    "title": "Danganronpa Lead Says Day-One Patches Help Keep Physical Media Alive: ’To Be Frank, We Sometimes Submit Builds Where We Think, ‘No One Should Ever Play It In This State’",
+    "summary": "‘I’m not sure if I should be making such risky confessions in a venue like this’",
     "source": "Kotaku",
-    "url": "https://kotaku.com/the-november-2026-ps-plus-catalog-update-is-adding-some-very-good-games-2000755543",
-    "timestamp": "2026-11-10T17:15:06Z",
+    "url": "https://kotaku.com/kazutaka-kodaka-danganronpa-physical-collectors-edition-2000755945",
+    "timestamp": "2026-11-11T17:30:34Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/the-november-2026-ps-plus-catalog-update-is-adding-some-very-good-games-2000755543"
+      "https://kotaku.com/kazutaka-kodaka-danganronpa-physical-collectors-edition-2000755945"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-10T17:15:06Z",
-    "id": "energy-d507497245148b1e"
+    "data_as_of": "2026-11-11T17:30:34Z",
+    "id": "energy-20b0095111b67882"
   },
   {
-    "title": "AMD's Zen 6 Family: Feeding the Beast",
+    "title": "Disney Plus Officially Adds New Versions of Several Star Wars Films",
+    "summary": "Disney Plus just added 3D versions of several Star Wars films, including Rogue One and The Mandalorian and Grogu.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/star-wars-3d-meta-quest-version-disney-plus/",
+    "timestamp": "2026-11-11T17:24:00Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/star-wars-3d-meta-quest-version-disney-plus/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-11T17:24:00Z",
+    "id": "energy-0856cb18e8df4ca8"
+  },
+  {
+    "title": "Brandon Sanderson Confirms Promising Update on the Mistborn Movie",
+    "summary": "Mistborn movie script gets a major update from Brandon Sanderson, bringing Apple’s adaptation one step closer to completion",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/brandon-sanderson-mistborn-movie-script-update/",
+    "timestamp": "2026-11-11T17:15:06Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/brandon-sanderson-mistborn-movie-script-update/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-11T17:15:06Z",
+    "id": "energy-eb50229a79cd3f02"
+  },
+  {
+    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-    "timestamp": "2026-11-10T17:02:32Z",
+    "url": "https://news.ycombinator.com/item?id=50455811",
+    "timestamp": "2026-11-11T17:11:56Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
+      "https://news.ycombinator.com/item?id=50455811"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-10T17:02:32Z",
-    "id": "energy-7fa36164615cb079"
+    "data_as_of": "2026-11-11T17:11:56Z",
+    "id": "energy-274a1fb32cfd7f83"
   },
   {
-    "title": "GTA 6 is Playable on Xbox One, Rockstar Officially Confirms",
-    "summary": "Grand Theft Auto 6 is coming to Xbox One, Rockstar Games confirms ahead of launch, playable through Xbox Cloud Gaming.",
+    "title": "Sony Officially Confirms Major PS5 Hardware Sales Milestone",
+    "summary": "The impressive PS5 milestone has been reached before GTA 6, poising the console to outdo the PS4 in the near future",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-xbox-one-cloud-gaming/",
-    "timestamp": "2026-11-10T17:01:22Z",
+    "url": "https://www.polygon.com/sony-ps5-sales-numbers-november-2026/",
+    "timestamp": "2026-11-11T17:01:41Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/gta-6-xbox-one-cloud-gaming/"
+      "https://www.polygon.com/sony-ps5-sales-numbers-november-2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-10T17:01:22Z",
-    "id": "energy-3a2d14d8703cad43"
+    "data_as_of": "2026-11-11T17:01:41Z",
+    "id": "energy-d120cf8ed2f4ef92"
   },
   {
-    "title": "5 Years Later, One of Anime’s Biggest Mysteries Has Officially Been Solved",
-    "summary": "Chapter 252 of Dandadan revealed Okarun's backstory after five years, and few could expect it to be so heartbreaking.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
-    "timestamp": "2026-11-10T16:51:44Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-10T16:51:44Z",
-    "id": "energy-d190a3946250ecb3"
-  },
-  {
-    "title": "Marathon’s Big PvE Update Is Starting to Look a Lot Like Destiny",
-    "summary": "Marathon’s upcoming Symbiosis update adds PvE mode, updated Perimeter zone, and social hub that sure sound like Destiny",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/marathon-bungie-playstation-symbiosis-update-destiny/",
-    "timestamp": "2026-11-10T16:42:41Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/marathon-bungie-playstation-symbiosis-update-destiny/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-10T16:42:41Z",
-    "id": "energy-4d545fdcbe33ac29"
-  },
-  {
-    "title": ".name Grandfathered",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://neil.fraser.name/news/2026/11/10/",
-    "timestamp": "2026-11-10T16:37:44Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://neil.fraser.name/news/2026/11/10/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-10T16:37:44Z",
-    "id": "energy-3cad58b262973975"
-  },
-  {
-    "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
-    "timestamp": "2026-11-10T16:34:45Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-10T16:34:45Z",
-    "id": "energy-84e5c21f24a03593"
-  },
-  {
-    "title": "Watch A TCG Thief With No Plan Give Up At The Slightest Resistance",
-    "summary": "Not all scalpers are devious masterminds",
+    "title": "PS5 Sales Just Won’t Quit",
+    "summary": "Sony's current console just crossed the 100 million mark",
     "source": "Kotaku",
-    "url": "https://kotaku.com/magic-tcg-card-thief-video-binder-middle-tennessee-gaming-star-trek-2000755538",
-    "timestamp": "2026-11-10T16:06:09Z",
+    "url": "https://kotaku.com/ps5-sales-just-wont-quit-2000755917",
+    "timestamp": "2026-11-11T17:00:36Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/magic-tcg-card-thief-video-binder-middle-tennessee-gaming-star-trek-2000755538"
+      "https://kotaku.com/ps5-sales-just-wont-quit-2000755917"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-10T16:06:09Z",
-    "id": "energy-ed6ce5f859b967c4"
+    "data_as_of": "2026-11-11T17:00:36Z",
+    "id": "energy-f9c88a94de6e9619"
   },
   {
-    "title": "Invenergy Challenges Treatment Of Merchant HVDC In MISO Capacity Market",
-    "summary": "By Amanda Durish Cook Invenergy has filed a complaint with FERC contesting MISO’s stance that merchant HVDC resources are not capacity resources and arguing the RTO is taking advantage of the contributions of private transmission lines without paying for them. The Chicago-based developer argued that merchant HVDC lines, which provide MISO with capacity benefits, should […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/invenergy-challenges-treatment-of-merchant-hvdc-in-miso-capacity-market/",
-    "timestamp": "2026-11-10T15:55:06Z",
+    "title": "Faster Retrieval for Better, More Efficient RAG",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "timestamp": "2026-11-11T16:57:45Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://machinelearning.apple.com/research/faster-retrieval"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-11T16:57:45Z",
+    "id": "energy-ac292645e8c6211c"
+  },
+  {
+    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "timestamp": "2026-11-11T16:38:44Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-11T16:38:44Z",
+    "id": "energy-039c4453cb91dab7"
+  },
+  {
+    "title": "Fans Gather In Final Fantasy XIV In Memorial For Eikichi Iwai, Bassist For The Primals",
+    "summary": "His passing comes days after he performed at Fan Fest Japan 2026",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/fans-gather-in-final-fantasy-xiv-in-memorial-for-eikichi-iwai-bassist-for-the-primals-2000755897",
+    "timestamp": "2026-11-11T16:30:21Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/fans-gather-in-final-fantasy-xiv-in-memorial-for-eikichi-iwai-bassist-for-the-primals-2000755897"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-11T16:30:21Z",
+    "id": "energy-affd05bcf8d60bf6"
+  },
+  {
+    "title": "The federal permitting bill has been updated. What changed?",
+    "summary": "A(nother) conversation with Daniel Palken.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/the-federal-permitting-bill-has-been",
+    "timestamp": "2026-11-11T15:57:28Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/invenergy-challenges-treatment-of-merchant-hvdc-in-miso-capacity-market/"
+      "https://www.volts.wtf/p/the-federal-permitting-bill-has-been"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-11-11T15:57:28Z",
+    "id": "energy-a84a8dfe926dddc7"
+  },
+  {
+    "title": "Are Data Centers Really Paying Their Share? AES Indiana’s Google Deal Highlights A Thorny Question",
+    "summary": "By Charles Paullin The Indiana Utility Regulatory Commission recently approved AES Indiana’s plan to serve a Google data center in a contested case that highlights the complex challenges regulators and utilities face in allocating system costs for large computational loads. According to the Oct. 7 order, AES will acquire or build new generation, storage and […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/are-data-centers-really-paying-their-share-aes-indianas-google-deal-highlights-a-thorny-question/",
+    "timestamp": "2026-11-11T15:36:30Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/11/are-data-centers-really-paying-their-share-aes-indianas-google-deal-highlights-a-thorny-question/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-10T15:55:06Z",
-    "id": "energy-4869260229fc500c"
+    "data_as_of": "2026-11-11T15:36:30Z",
+    "id": "energy-8a19ce773a799a41"
   },
   {
-    "title": "PJM And MISO Winter Outlook: A Mild Season With Thin Margins",
-    "summary": "By Staff Writer A record-strength El Niño points to a warm winter across PJM and MISO. Warm doesn’t mean calm. PJM’s 2028/2029 capacity auction cleared at the price cap for the third straight year, and MISO hit its $10,000/MWh cap on Sept. 2 without a single unit trip. Enverus Intelligence® Research (EIR) sees mild weather […]",
+    "title": "Utilities Should Consider ‘Taking A Breather’ From Rate Cases: Minnesota PUC Vice Chair",
+    "summary": "By Ethan Howland Utility Dive met with Minnesota Public Utilities Commission Vice Chair Joseph Sullivan on Monday at the National Association of Regulatory Utility Commissioners’ annual meeting in San Juan, Puerto Rico. We wanted to hear his perspective on the top challenges facing regulators in Minnesota, home to utilities like Minnesota Power, Otter Tail Power […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/pjm-and-miso-winter-outlook-a-mild-season-with-thin-margins/",
-    "timestamp": "2026-11-10T15:54:36Z",
+    "url": "https://misoxenwatch.com/2026/11/utilities-should-consider-taking-a-breather-from-rate-cases-minnesota-puc-vice-chair/",
+    "timestamp": "2026-11-11T15:35:47Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/pjm-and-miso-winter-outlook-a-mild-season-with-thin-margins/"
+      "https://misoxenwatch.com/2026/11/utilities-should-consider-taking-a-breather-from-rate-cases-minnesota-puc-vice-chair/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-10T15:54:36Z",
-    "id": "energy-baccf71c71468ddd"
+    "data_as_of": "2026-11-11T15:35:47Z",
+    "id": "energy-d78002df58d38ae0"
   },
   {
-    "title": "Put People Over Power Of Lulu-Sorenson",
-    "summary": "By Mike Marturello It has been my lifelong motto to put people first at the heart of everything. As a nurse, a medical advocate, a mother, a wife, a friend and neighbor, that motto has remained a guiding principle. I spent my career with a caregiver’s heart navigating poor policy and practices that supported private […]",
+    "title": "Many Liberals Hate This Bill To Overhaul Permitting. Democrats May Help Pass It Anyway.",
+    "summary": "By Jake Spring The Senate moved this week to advance a controversial bill that could make it easier and faster to build energy infrastructure — ratcheting up a fight between left-leaning groups who argue that it will gut environmental protections and Republicans and Democrats who want to speed development. On the heels of an election […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/put-people-over-power-of-lulu-sorenson/",
-    "timestamp": "2026-11-10T15:54:04Z",
+    "url": "https://misoxenwatch.com/2026/11/many-liberals-hate-this-bill-to-overhaul-permitting-democrats-may-help-pass-it-anyway/",
+    "timestamp": "2026-11-11T15:35:09Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/put-people-over-power-of-lulu-sorenson/"
+      "https://misoxenwatch.com/2026/11/many-liberals-hate-this-bill-to-overhaul-permitting-democrats-may-help-pass-it-anyway/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-10T15:54:04Z",
-    "id": "energy-3bde28ba70e0217d"
+    "data_as_of": "2026-11-11T15:35:09Z",
+    "id": "energy-d5aad28714fe0412"
   },
   {
-    "title": "Zelda: Ocarina Of Time Remake Has A Massive Second-Act Change That Took My Breath Away",
-    "summary": "Leaving me cold",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518",
-    "timestamp": "2026-11-10T15:30:41Z",
-    "topic": "Gaming",
+    "title": "Reasonable Audio releases Preamble, a FREE preamp distortion plugin",
+    "summary": "Reasonable Audio has released Preamble, a free preamp distortion plugin for macOS, Windows, and Linux. Preamble emulates a bucket-brigade delay pedal’s input stage, without the delay itself. The developer hasn’t named the emulated hardware model, but I guess the idea is to capture the preamp coloration that guitarists typically use before an amp, with enough [...] View post: Reasonable Audio releases Preamble, a FREE preamp distortion plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/11/reasonable-audio-preamble/",
+    "timestamp": "2026-11-11T15:08:54Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518"
+      "https://bedroomproducersblog.com/2026/11/11/reasonable-audio-preamble/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-10T15:30:41Z",
-    "id": "energy-ef59a32cb691464f"
+    "data_as_of": "2026-11-11T15:08:54Z",
+    "id": "energy-e2da903a644a3088"
   },
   {
-    "title": "[ECHO MENA] Tokyo is the new host for the FIFAe Finals 2026, will now be held from January 8 to 14, 2027.",
-    "summary": "Echo Mena are a good source in the saudi scene and i would basically consider this as confirmed, pretty hype i think this would be the first big LAN in east asia. 🔗 / https://x.com/echomena\\_/status/2120145586464706878?a=WpFFTuGxI1IoV-VCqlA&s=46 submitted by /u/10c_ [link] [comments]",
+    "title": "Win a FREE copy of Sample Roll CRTE granular instrument",
+    "summary": "Sample Roll and Bedroom Producers Blog are giving away one FREE copy of CRTE, a granular and wavetable instrument for macOS and Windows. To enter, leave a comment below by November 17, 2026, answering the following question: Do you prefer using samples or virtual instruments to make music? We’ll randomly select one commenter to receive [...] View post: Win a FREE copy of Sample Roll CRTE granular instrument",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/11/sample-roll-crte-giveaway/",
+    "timestamp": "2026-11-11T15:04:16Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/11/sample-roll-crte-giveaway/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-11T15:04:16Z",
+    "id": "energy-1d7aaf60aca77315"
+  },
+  {
+    "title": "Sunfish Software releases FANDUST, a FREE lo-fi plugin with a Windows 98 GUI",
+    "summary": "Sunfish Software has released FANDUST, a free lo-fi effect for slowing down, detuning, and wearing out audio on macOS, Windows, and Linux. I’m a sucker for anything with a vintage Windows GUI, and FANDUST goes all in on the Windows 98 look. It has the gray panels, blue title bar, old-school sliders, and I know [...] View post: Sunfish Software releases FANDUST, a FREE lo-fi plugin with a Windows 98 GUI",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/11/sunfish-software-fandust/",
+    "timestamp": "2026-11-11T14:17:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/11/sunfish-software-fandust/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-11T14:17:08Z",
+    "id": "energy-30a4615025a5a193"
+  },
+  {
+    "title": "Zeroth-Order Gradient Estimators under Decision-Dependent Noise",
+    "summary": "arXiv:2510.24929v2 Announce Type: replace Abstract: We study zeroth-order optimization of a generally nonconvex optimization problem that is accessible only through a noisy black-box oracle, where the observation noise has zero mean and its distribution depends on the queried decision vector. Since the gradient of the objective function is inaccessible, various zeroth-order methods have been developed to solve the problem. However, it remains unclear how the choice of search directions affects the sample complexity of zeroth-order methods and how their algorithmic parameters should be selected. In this paper, we conduct a unified sample complexity analysis of zeroth-order methods across gradient estimators with different search directions. As a result, we show that gradient estimators that average over multiple directions, either uniformly from the unit sphere or from a Gaussian distribution, achieve the lowest sample complexity. The resulting sample-complexity bounds improve upon those of existing zeroth-order methods for nonconvex objective functions that are not bounded above. Moreover, through simulation experiments on multiple products pricing and strategic classification app…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2510.24929",
+    "timestamp": "2026-11-11T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2510.24929"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-11T05:00:00Z",
+    "id": "energy-ac55378433b8177f"
+  },
+  {
+    "title": "Zeros of Katz's p-adic Eisenstein series E2",
+    "summary": "arXiv:2611.14502v1 Announce Type: new Abstract: For every prime $p\\geq5$, the zeros of Katz's $p$-adic Eisenstein series $E_2$ on elliptic curves with good ordinary reduction have exactly $\\lfloor p/12\\rfloor+1$ distinct $j$-invariants. We prove that all these invariants lie in finite unramified extensions of $\\mathbf{Q}_p$. Their reductions are given by a classical formula involving the supersingular polynomial, and each nonelliptic residue class contains a unique simple zero. For the Legendre family, hypergeometric congruences determine the polynomial of the lifted invariants modulo every power of $p$. We also study isogenies between the zeros. Each $p$-power isogeny class contains at most one zero $j$-invariant, and any two distinct isogenous zero invariants are algebraic over $\\mathbf{Q}$. At a fixed cyclic degree, the nonelliptic isogenies give points in a finite divisor over $\\mathbf{Q}$ on the corresponding modular curve. Its degree bounds their number and their fields of definition, and excludes several small degrees. The only zeros with complex multiplication have $j=0$ or $1728$. Whether a non-CM zero can have an algebraic $j$-invariant remains open.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.14502",
+    "timestamp": "2026-11-11T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2611.14502"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-11T05:00:00Z",
+    "id": "energy-5d8425b9fe714d90"
+  },
+  {
+    "title": "Zero-sum Ramsey numbers of forests and complete bipartite graphs",
+    "summary": "arXiv:2611.14160v1 Announce Type: new Abstract: For a graph $G$ and an integer $m\\ge2$ dividing $e(G)$, where $e(G)$ denotes the number of edges of $G$, the zero-sum Ramsey number $R(G,\\mathbb Z_m)$ is the least $N$ such that every $\\mathbb Z_m$-labeling of $E(K_N)$ contains a copy of $G$ whose edge labels sum to zero. Bialostocki and Dierker (1990) [4] conjectured that $R(F,\\mathbb Z_{e(F)})/R(F,2)\\to1$ uniformly over all forests $F$ as $e(F)\\to\\infty$, where $R(F,2)$ is the two-color Ramsey number, and Caro (1991) [9] conjectured that $R(tG,\\mathbb Z_t)=t(|V(G)|+d)-d$ for $t\\ge2$ disjoint copies of $G$, where $d=\\operatorname{def}_t(G)$ is the defect. We disprove the first conjecture by an infinite family of trees. Building on the work of Caro and on his joint work with Provstgaard, we obtain infinitely many counterexamples to the second conjecture, and we determine the zero-sum Ramsey numbers of a class of graphs: for powers of two $q\\ge2$ we characterize all $s,k\\ge1$ satisfying $R(K_{s,kq},\\mathbb Z_q)=s+kq$, and we prove $R(mK_{q,q},\\mathbb Z_m)=2qm+m/\\gcd(m,q)-1$ for every $m\\ge2$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.14160",
+    "timestamp": "2026-11-11T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2611.14160"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-11T05:00:00Z",
+    "id": "energy-43e61de57e96b64e"
+  },
+  {
+    "title": "Superteam Track Record",
+    "summary": "Since their loss yesterday, Gentlemates have gone 31-2 in goals. In 9 games (vs KC, GK, IKK), they have averaged 3.44 goals for and conceded 0.22 goals against. Just wanted to point that out submitted by /u/Rosieverse83 [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsnldm/echo_mena_tokyo_is_the_new_host_for_the_fifae/",
-    "timestamp": "2026-11-10T13:59:22Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xszusx/superteam_track_record/",
+    "timestamp": "2026-11-10T21:52:18Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsnldm/echo_mena_tokyo_is_the_new_host_for_the_fifae/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xszusx/superteam_track_record/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-11-10T13:59:22Z",
-    "id": "energy-851dadedaa5c201d"
+    "data_as_of": "2026-11-10T21:52:18Z",
+    "id": "energy-9ed4b56459308925"
   },
   {
-    "title": "Fuse Audio Labs releases Amber Drive, a FREE British guitar amp plugin",
-    "summary": "Fuse Audio Labs has released Amber Drive, a free British-style guitar amp plugin for macOS and Windows. I love Fuse Audio Labs’ software, and we’ve covered several of their freebies, including VREV-666 Spring Reverb and the VPRE-72 vintage tube preamp. This latest one is pretty cool if you’re into Orange amps but don’t have the [...] View post: Fuse Audio Labs releases Amber Drive, a FREE British guitar amp plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/",
-    "timestamp": "2026-11-10T12:38:45Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/10/fuse-audio-labs-amber-drive/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-10T12:38:45Z",
-    "id": "energy-6da6fbceddd4d288"
-  },
-  {
-    "title": "Audio Spices offers Black Pepper pitch delay FREE for Black Friday",
-    "summary": "Audio Spices has opened registration for a free copy of Black Pepper, its new pitch-shifting delay plugin for macOS and Windows. To get it for free, by November 26, and Audio Spices will email your copy on Black Friday, November 27. Enter your email address on the giveaway page linked below and tick [...] View post: Audio Spices offers Black Pepper pitch delay FREE for Black Friday",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/10/audio-spices-black-pepper/",
-    "timestamp": "2026-11-10T12:30:30Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/10/audio-spices-black-pepper/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-10T12:30:30Z",
-    "id": "energy-e451000dbdca8b56"
-  },
-  {
-    "title": "noshigeSound releases noshige73 LITE, a FREE 1073-style EQ for macOS and Windows",
-    "summary": "noshigeSound has released noshige73, a 1073-style console EQ with a free LITE version for macOS and Windows. Before you continue reading, note that this plugin is very CPU-heavy. Using a GPU can reduce the load, but if that’s not your style, feel free to skip this one. We previously covered the developer’s ENHANCER VINTAGE-73 and [...] View post: noshigeSound releases noshige73 LITE, a FREE 1073-style EQ for macOS and Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/",
-    "timestamp": "2026-11-10T11:57:09Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/10/noshigesound-noshige73-lite/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-10T11:57:09Z",
-    "id": "energy-beae3e33bc0afa85"
-  },
-  {
-    "title": "Today I learned Zen and Atow were born 2 days apart",
-    "summary": "Zen: Feb 20, 2007 Atow: Feb 22, 2007 How did I just learn this now?? 😭 submitted by /u/Thin-Scale-1871 [link] [comments]",
+    "title": "3 qualified, 1 eliminated: Coupe de France standings with 1 day left",
+    "summary": "submitted by /u/nickEbutt [link] [comments]",
     "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsao2o/today_i_learned_zen_and_atow_were_born_2_days/",
-    "timestamp": "2026-11-10T02:00:36Z",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsztco/3_qualified_1_eliminated_coupe_de_france/",
+    "timestamp": "2026-11-10T21:50:40Z",
     "topic": "Rocket League",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsao2o/today_i_learned_zen_and_atow_were_born_2_days/"
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xsztco/3_qualified_1_eliminated_coupe_de_france/"
     ],
     "source_tier": "primary",
     "primary_source": false,
     "entities": [
       "RLCS"
     ],
-    "data_as_of": "2026-11-10T02:00:36Z",
-    "id": "energy-ea942b60fb75a737"
+    "data_as_of": "2026-11-10T21:50:40Z",
+    "id": "energy-5c5664c6b3352e4f"
+  },
+  {
+    "title": "Could a RLCS team successfully run a 4 man roster?",
+    "summary": "This came to me recently when watching CRL and the French tournament. In CRL some teams run a 4 man roster that can be switched out between games which makes sense (it’s college and they got stuff to do). Now that RLCS league play returns this year could a team (if they put their egos aside) be successful if they for instance; have a game plan for a single opponent that works with one roster and use it? Or is this just entirely impossible (rules, pros egos and other stuff). Please let me know submitted by /u/Legitimate-Sign-371 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xszrnk/could_a_rlcs_team_successfully_run_a_4_man_roster/",
+    "timestamp": "2026-11-10T21:48:43Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xszrnk/could_a_rlcs_team_successfully_run_a_4_man_roster/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-10T21:48:43Z",
+    "id": "energy-0e99a3356785e9f6"
   },
   {
     "title": "So, how about those midterm elections?",
@@ -337,60 +430,6 @@
     "primary_source": false,
     "data_as_of": "2026-11-09T11:05:33Z",
     "id": "energy-e890f858e8c3a378"
-  },
-  {
-    "title": "Zariski dense hyperbolic 3-manifold groups in $\\mathrm{SL}(4,\\mathbb{Z})$",
-    "summary": "arXiv:2611.09051v1 Announce Type: new Abstract: We show that $\\mathrm{SL}(4,\\mathbb{Z})$ contains an infinite family of Zariski-dense subgroups isomorphic to the fundamental group of a fixed closed hyperbolic $3$-manifold, which are pairwise noncommensurable up to conjugacy.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.09051",
-    "timestamp": "2026-11-09T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.09051"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-09T05:00:00Z",
-    "id": "energy-606b3886b0e78b42"
-  },
-  {
-    "title": "Zak Phase, Pole--Zero Invariants and the Maslov Index of Bloch Cauchy Lines in One-Dimensional Periodic Media",
-    "summary": "arXiv:2611.09419v1 Announce Type: new Abstract: The topological properties of the Bloch bands of a one-dimensional periodic medium are described either by the Berry--Zak phase or by the poles and zeros of the surface impedance. We show that both can be read from one geometric object: the line spanned by the field and its flux (the Cauchy data) at an inversion centre. For each band, this line turns as the quasi-momentum runs over the Brillouin zone. Its number of turns, the Maslov index, is fixed by the parities (even or odd) of the Bloch functions at the two band edges, and its parity is the Zak phase. In a gap, the Cauchy line of the solution decaying on one side rotates monotonically with the energy, and an interface state between two crystals is a crossing of two such lines. This gives the known criterion of at most one state per gap in terms of the same lines. Examples with a stratified medium show that the choice of inversion centre changes the interface spectrum. The last section discusses what is missing to extend the construction to higher dimension.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.09419",
-    "timestamp": "2026-11-09T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.09419"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-09T05:00:00Z",
-    "id": "energy-69ca59f443ab9c66"
-  },
-  {
-    "title": "What remains of the planar induced minor conjectures?",
-    "summary": "arXiv:2611.09627v1 Announce Type: cross Abstract: Dallard, Milani\\v{c}, and \\v{S}torgel, and independently Gartland and Lokshtanov, conjectured that for every planar graph $H$, Maximum Weight Independent Set and List $3$-Coloring are polynomial-time solvable in $H$-induced-minor-free graphs. As a structural explanation, Gartland and Lokshtanov further conjectured that such graphs admit balanced separators dominated by a constant number of vertices. Bonnet and Chang recently refuted the independent-set part of the algorithmic conjecture, by showing that Maximum Independent Set is $\\mathsf{NP}$-hard in graphs excluding the $5\\times5$ grid as an induced minor. We revisit both conjectures. We show that the graphs used by Bonnet and Chang exclude much simpler planar graphs, including several $16$-vertex trees, and we introduce a second, independent family of hard instances. We also prove that $3$-Coloring is $\\mathsf{NP}$-hard in both settings, thus refuting the algorithmic conjecture in full, even in its quasipolynomial version, unless $\\mathsf{NP}\\subseteq\\mathsf{QP}$. On the structural side, we identify planar graphs $H$ for which the structural conjecture holds, while the algorithm…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.09627",
-    "timestamp": "2026-11-09T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.09627"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-09T05:00:00Z",
-    "id": "energy-c517aa5ac67041bd"
   },
   {
     "title": "Jiu-Jitsu Legend Renzo Gracie Takes Equity Stake In UJITSU, Joins As Global Ambassador",
