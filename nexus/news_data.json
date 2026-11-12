@@ -1,5 +1,94 @@
 [
   {
+    "title": "University of Manchester develops new methods for treating radioactive waste",
+    "summary": "New methods for treating radioactive effluents, remediating contaminated groundwater, and stabilizing waste for long-term disposal have been reported by University of Manchester researchers working at the National Nuclear User Facility Radioactive Waste Management and Environmental Remediation (RADER) laboratories in Manchester, England. The research focuses on converting liquid nuclear waste containing the long-lived radioisotope technetium-99 into stable solid waste forms, as well as locking the radioisotope into phosphate minerals and immobilizing it in contaminated groundwater systems.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-12/article-8574/university-of-manchester-develops-new-methods-for-treating-radioactive-waste/",
+    "timestamp": "2026-11-12T16:55:10Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-12/article-8574/university-of-manchester-develops-new-methods-for-treating-radioactive-waste/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-12T16:55:10Z",
+    "id": "energy-0c7b211d7f24ea86"
+  },
+  {
+    "title": "Entergy Arkansas encourages customers to prepare for fall safety",
+    "summary": "As temperatures begin to cool and daylight hours grow shorter, Entergy Arkansas is encouraging customers to take a few simple steps to prepare their homes and communities for the fall season. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/entergy-arkansas-encourages-customers-to-prepare-for-fall-safety",
+    "timestamp": "2026-11-12T15:29:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/entergy-arkansas-encourages-customers-to-prepare-for-fall-safety"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-12T15:29:02Z",
+    "id": "energy-f5eccc3f4861c7d4"
+  },
+  {
+    "title": "NN Asks: What skill matters most for tomorrow’s nuclear workforce?",
+    "summary": "Bonnie Scott When someone hears “nuclear,” they think of advanced sciences, specialized technology, or complicated engineering jobs. And while these skills are important, the most critical skill for tomorrow’s nuclear workforce is something we all should recognize in everyday life: a mindset of safety-driven actions and decisions. The basis of our industry is the safe production of reliable electricity. This means ensuring that decisions take the safety of employees and the public into consideration. Yes, the systems used in the nuclear industry are complex and technology continues to evolve rapidly, but the guiding principle for all nuclear work is simple: attention to detail, clear thinking, and smart decision-making where employee and public safety are considered. This mindset must be consistent and deliberate; it is what makes the nuclear industry unique.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-12/article-8540/inni-asks-what-skill-matters-most-for-tomorrows-nuclear-workforce/",
+    "timestamp": "2026-11-12T13:46:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-12/article-8540/inni-asks-what-skill-matters-most-for-tomorrows-nuclear-workforce/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-12T13:46:27Z",
+    "id": "energy-4c426a85c99142c8"
+  },
+  {
+    "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
+    "summary": "The first of four BWRX-300 small modular reactors (SMRs) under construction at the Darlington nuclear site in Canada will not be on schedule or to budget, Ontario Power Generation (OPG) has said. OPG said in its 2026 third quarter financial results that it had previously noted that the Darlington New Nuclear Project (DNNP) is subject to “inherent risks and uncertainties that could affect project cost and schedule”.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/opg-begins-comprehensive-assessment-as-canada-smr-project-faces-delays-and-budget-overruns-11-4-2026",
+    "timestamp": "2026-11-12T09:09:41Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/opg-begins-comprehensive-assessment-as-canada-smr-project-faces-delays-and-budget-overruns-11-4-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-12T09:09:41Z",
+    "id": "energy-ab3cba225ddf6a3c"
+  },
+  {
     "title": "A commitment to service: Entergy Texas employees reflect on their military careers",
     "summary": "Marine veterans John Edling and Scott Barrios draw on their military experience every day to better serve customers in Southeast Texas Source",
     "source": "Entergy",
@@ -91,30 +180,6 @@
     "id": "energy-d93d2093b19c1d0d"
   },
   {
-    "title": "Entergy Texas’ annual golf tournament hits fundraising record",
-    "summary": "Entergy Texas' 2026 Power to Care Golf Charity Classic raised more than $563,000, a record high that will help vulnerable customers facing financial hardship. The annual event held at The Woodlands Country Club-Palmer Course brought together 59 teams, 68 sponsors and dozens of volunteers to raise money for The Power to Care. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergy-texas-annual-golf-tournament-hits-fundraising-record",
-    "timestamp": "2026-11-10T21:06:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergy-texas-annual-golf-tournament-hits-fundraising-record"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-10T21:06:27Z",
-    "id": "energy-2022784bef690a45"
-  },
-  {
     "title": "NRC issues construction permit for Dow/X-energy Long Mott project",
     "summary": "The Nuclear Regulatory Commission has approved Dow’s construction permit application for its Long Mott Generating Station in Seadrift, Texas, which would include four X-energy Xe-100 reactors.",
     "source": "ANS Newswire",
@@ -135,50 +200,6 @@
     ],
     "data_as_of": "2026-11-10T21:00:11Z",
     "id": "energy-9f95219c3660cff4"
-  },
-  {
-    "title": "Atomic spectroscopy used to resolve one nuclear size anomaly and reveal another",
-    "summary": "Researchers have used a new approach to measure differences in the sizes of atomic nuclei, resolving a longstanding discrepancy while uncovering a new finding that current nuclear theories cannot fully explain. The size of an atomic nucleus, measured by its nuclear charge radius, provides information about how protons and neutrons are arranged within it and is used to understand nuclear structure and deformation.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-10/article-8572/atomic-spectroscopy-used-to-resolve-one-nuclear-size-anomaly-and-reveal-another/",
-    "timestamp": "2026-11-10T20:11:09Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-10/article-8572/atomic-spectroscopy-used-to-resolve-one-nuclear-size-anomaly-and-reveal-another/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-10T20:11:09Z",
-    "id": "energy-dd7c858c6c6cd4b1"
-  },
-  {
-    "title": "Springtime for the full nuclear fuel cycle",
-    "summary": "Craig Piercycpiercy@ans.org The Trump administration’s Department of Energy has done good. Its Nuclear Lifecycle Innovation Campuses (NLIC) initiative has planted some important seeds that are starting to sprout. Five states—Idaho, Louisiana, Oklahoma, Tennessee, and Utah—have found the courage to pull out a map, put a finger on a spot, and say, “This place is worth exploring for nuclear waste disposal.” Of course, these states aren’t looking only at the economic benefits of disposal. They see the larger prize: becoming a hub for recycling, front-end fuel cycle facilities, and advanced reactor development and services. Some in the nuclear community worry that the near-term economic impact of recycling has been oversold to these states, a byproduct of the irrational exuberance of a few. But I suspect that if you polled ANS’s nearly 13,000 members, most would say we’ll be recycling at least some of our nuclear fuel within a few decades. Across the nuclear community, there’s a growing sense that recycling is not an option anymore—it’s an eventuality. The real question is how to get there. What is the path?",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-10/article-8535/springtime-for-the-full-nuclear-fuel-cycle/",
-    "timestamp": "2026-11-10T17:32:30Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-10/article-8535/springtime-for-the-full-nuclear-fuel-cycle/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-10T17:32:30Z",
-    "id": "energy-f40c58a993111a25"
   },
   {
     "title": "UK Nuclear Professionals Confident, But Warn Of Uncertainties And Challenges",
@@ -222,48 +243,5 @@
     ],
     "data_as_of": "2026-11-10T13:10:08Z",
     "id": "energy-9563eefe7bca3425"
-  },
-  {
-    "title": "Estonia Shortlists Three Locations For First BWRX-300 Nuclear Power Plant",
-    "summary": "Estonia said it will now focus on three potential locations in the Viru-Nigula region in the north of the country for the development of its first nuclear power plants having discarded three sites for what it called “national security reasons”. In a statement, the Estonian government said that the Madala, Malla and Letipea sites would be the three sites considered to host Estonia-based project development company Fermi Energia’s planned development of two 300-MW GE Vernova Hitachi Nuclear Energy BWRX-300 small modular reactors (SMRs). Three sites in Lüganuse municipality, also in the north of the country, were excluded from plans due to national defence reasons, a decision based on assessment guidelines outlined by the International Atomic Energy Agency (IAEA) for the risk profile of sites.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/estonia-shortlists-three-locations-for-first-bwrx-300-nuclear-power-plant-11-2-2026",
-    "timestamp": "2026-11-10T11:48:03Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/estonia-shortlists-three-locations-for-first-bwrx-300-nuclear-power-plant-11-2-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-10T11:48:03Z",
-    "id": "energy-20af23c3f3fb239b"
-  },
-  {
-    "title": "How ISO-NE ensures reliable electricity one day at a time",
-    "summary": "Step inside the Bullpen, where employees blend expertise in transmission, markets, and the weather to power the region. The post How ISO-NE ensures reliable electricity one day at a time appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/09/how-iso-ne-ensures-reliable-electricity-one-day-at-a-time/",
-    "timestamp": "2026-11-09T13:06:10Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/09/how-iso-ne-ensures-reliable-electricity-one-day-at-a-time/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-09T13:06:10Z",
-    "id": "energy-eb94063157ad75df"
   }
 ]
