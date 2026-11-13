@@ -1,16 +1,16 @@
 [
   {
-    "title": "University of Manchester develops new methods for treating radioactive waste",
-    "summary": "New methods for treating radioactive effluents, remediating contaminated groundwater, and stabilizing waste for long-term disposal have been reported by University of Manchester researchers working at the National Nuclear User Facility Radioactive Waste Management and Environmental Remediation (RADER) laboratories in Manchester, England. The research focuses on converting liquid nuclear waste containing the long-lived radioisotope technetium-99 into stable solid waste forms, as well as locking the radioisotope into phosphate minerals and immobilizing it in contaminated groundwater systems.",
+    "title": "Firm developing Portsmouth site data center posts $7B loss",
+    "summary": "Japanese investment firm SoftBank Group, whose subsidiary SB Energy is developing what the Department of Energy calls “the world’s largest artificial intelligence data center” at the Portsmouth, Ohio, nuclear cleanup site, has posted a net quarterly loss of approximately $7 billion. The PORTS Technology Campus (also known as the PORTS-Pike Technology Campus), which the Department of Energy’s Office of Environmental Management announced in March, is slated to be home to a 10-GW AI data center developed through a partnership between SB Energy and OpenAI, with Nvidia providing computing infrastructure for the facility. According to the November 10 episode of DOE-EM’s EnergyCast podcast, the campus also will host the largest energy generation project in the United States. SB Energy has pledged to build 10 GW of new power generation at the site to support the data center, including 9.2 GW of power from natural gas–powered turbines.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-12/article-8574/university-of-manchester-develops-new-methods-for-treating-radioactive-waste/",
-    "timestamp": "2026-11-12T16:55:10Z",
+    "url": "https://www.ans.org/news/2026-11-13/article-8578/firm-developing-portsmouth-site-data-center-posts-7b-loss/",
+    "timestamp": "2026-11-13T16:30:54Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-12/article-8574/university-of-manchester-develops-new-methods-for-treating-radioactive-waste/"
+      "https://www.ans.org/news/2026-11-13/article-8578/firm-developing-portsmouth-site-data-center-posts-7b-loss/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,120 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-12T16:55:10Z",
-    "id": "energy-0c7b211d7f24ea86"
+    "data_as_of": "2026-11-13T16:30:54Z",
+    "id": "energy-cd2ad3596ce170cb"
+  },
+  {
+    "title": "Humble lineman earns spot in the spotlight",
+    "summary": "For most of his career, Johnny Buchanan has avoided the spotlight. A private person who prefers to keep his personal life to himself, Buchanan has spent decades serving his community, often working behind the scenes to restore power and help customers when they need it most. Recognition has never been his goal. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/humble-lineman-earns-spot-in-the-spotlight",
+    "timestamp": "2026-11-13T15:57:29Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/humble-lineman-earns-spot-in-the-spotlight"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-13T15:57:29Z",
+    "id": "energy-252ba5270689e52f"
+  },
+  {
+    "title": "Landowner and Community Communications to the PJM Board Concerning RTEP Projects",
+    "summary": "Updated Date: 11.13.2026",
+    "source": "PJM Public Disclosures",
+    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261112-landowner-and-community-communications-to-the-pjm-board-concerning-rtep-projects.pdf",
+    "timestamp": "2026-11-13T15:45:00Z",
+    "topic": "Energy",
+    "category": "RTOs / ISOs",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261112-landowner-and-community-communications-to-the-pjm-board-concerning-rtep-projects.pdf"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "PJM Interconnection",
+      "PJM"
+    ],
+    "data_as_of": "2026-11-13T15:45:00Z",
+    "id": "energy-97156c7f30fce4e6"
+  },
+  {
+    "title": "IAEA publishes 2026 World Fusion Outlook",
+    "summary": "The fourth edition of the International Atomic Energy Agency’s World Fusion Outlook is now available. The 128-page report is described by the IAEA as an examination of industry developments, including the advancement of fusion power plant concepts into industrial programs, the evolution of experimental fusion machines into integrated facilities, the emergence of a global fusion supply chain, and increased private and governmental investment in fusion energy.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-13/article-8577/iaea-publishes-2026-world-fusion-outlook/",
+    "timestamp": "2026-11-13T14:38:28Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-13/article-8577/iaea-publishes-2026-world-fusion-outlook/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-13T14:38:28Z",
+    "id": "energy-5908600714123d8b"
+  },
+  {
+    "title": "ISO-NE files proposal with FERC to address ‘large loads’",
+    "summary": "New processes would address concerns around cost and reliability related to major electricity users like data centers. The post ISO-NE files proposal with FERC to address ‘large loads’ appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/13/iso-ne-files-proposal-with-ferc-to-address-large-loads/",
+    "timestamp": "2026-11-13T13:09:55Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/13/iso-ne-files-proposal-with-ferc-to-address-large-loads/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-13T13:09:55Z",
+    "id": "energy-aa406a9114f4c92f"
+  },
+  {
+    "title": "Constellation Q3 updates: New Peak+, uprates, restart, midterm elections",
+    "summary": "Constellation has signed a 270-MW agreement with a customer that would link support for clean energy resources like nuclear to other new power generation resources. This agreement under Constellation's Peak+ program was one of several nuclear-related items highlighted by Constellation executives at its third-quarter earnings call Monday. Other topics mentioned included the recent flurry of uprate announcements, the Crane restart, and the midterm elections.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-12/article-8576/constellation-q3-updates-new-peak-uprates-restart-midterm-elections/",
+    "timestamp": "2026-11-12T21:25:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-12/article-8576/constellation-q3-updates-new-peak-uprates-restart-midterm-elections/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-12T21:25:21Z",
+    "id": "energy-5672a67f65e44336"
   },
   {
     "title": "Entergy Arkansas encourages customers to prepare for fall safety",
@@ -44,28 +156,6 @@
     ],
     "data_as_of": "2026-11-12T15:29:02Z",
     "id": "energy-f5eccc3f4861c7d4"
-  },
-  {
-    "title": "NN Asks: What skill matters most for tomorrow’s nuclear workforce?",
-    "summary": "Bonnie Scott When someone hears “nuclear,” they think of advanced sciences, specialized technology, or complicated engineering jobs. And while these skills are important, the most critical skill for tomorrow’s nuclear workforce is something we all should recognize in everyday life: a mindset of safety-driven actions and decisions. The basis of our industry is the safe production of reliable electricity. This means ensuring that decisions take the safety of employees and the public into consideration. Yes, the systems used in the nuclear industry are complex and technology continues to evolve rapidly, but the guiding principle for all nuclear work is simple: attention to detail, clear thinking, and smart decision-making where employee and public safety are considered. This mindset must be consistent and deliberate; it is what makes the nuclear industry unique.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-12/article-8540/inni-asks-what-skill-matters-most-for-tomorrows-nuclear-workforce/",
-    "timestamp": "2026-11-12T13:46:27Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-12/article-8540/inni-asks-what-skill-matters-most-for-tomorrows-nuclear-workforce/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-12T13:46:27Z",
-    "id": "energy-4c426a85c99142c8"
   },
   {
     "title": "OPG Begins ‘Comprehensive Assessment’ As Canada SMR Project Faces Delays And Budget Overruns",
@@ -113,30 +203,6 @@
     "id": "energy-b5278b9a49a56287"
   },
   {
-    "title": "Entergy earns award for veteran hiring, retention",
-    "summary": "The U.S. Department of Labor has recognized Entergy as a recipient of the HIRE Vets Medallion Award, which honors exceptional achievement in veteran employment. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-earns-award-for-veteran-hiring-retention",
-    "timestamp": "2026-11-11T16:09:32Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-earns-award-for-veteran-hiring-retention"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-11T16:09:32Z",
-    "id": "energy-b2028049519d710b"
-  },
-  {
     "title": "ISO Minute: Finding a familiar mission after military service",
     "summary": "Shelley Mutti describes how 26 years in the U.S. Air Force has informed her work at the region’s power grid operator. The post ISO Minute: Finding a familiar mission after military service appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -178,70 +244,5 @@
     ],
     "data_as_of": "2026-11-11T10:16:11Z",
     "id": "energy-d93d2093b19c1d0d"
-  },
-  {
-    "title": "NRC issues construction permit for Dow/X-energy Long Mott project",
-    "summary": "The Nuclear Regulatory Commission has approved Dow’s construction permit application for its Long Mott Generating Station in Seadrift, Texas, which would include four X-energy Xe-100 reactors.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-10/article-8573/nrc-issues-construction-permit-for-dowxenergy-long-mott-project/",
-    "timestamp": "2026-11-10T21:00:11Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-10/article-8573/nrc-issues-construction-permit-for-dowxenergy-long-mott-project/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-10T21:00:11Z",
-    "id": "energy-9f95219c3660cff4"
-  },
-  {
-    "title": "UK Nuclear Professionals Confident, But Warn Of Uncertainties And Challenges",
-    "summary": "Nuclear professionals are confident about the future of the UK industry, but warn that funding uncertainty, skills shortages and challenges delivering major projects could hamper its growth, according to new research from the Nuclear Institute. A survey of Nuclear Institute members found that almost four in five (79.7%) respondents are optimistic about the industry’s future, with a third of these (33.3%) describing themselves as very optimistic. However, the research also highlighted concerns over the industry’s ability to turn ambition into action, with respondents identifying project costs, workforce capacity, regulatory barriers and long-term government support among its most pressing challenges.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/uk-nuclear-professionals-confident-but-warn-of-uncertainties-and-challenges-11-2-2026",
-    "timestamp": "2026-11-10T14:34:27Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/uk-nuclear-professionals-confident-but-warn-of-uncertainties-and-challenges-11-2-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-10T14:34:27Z",
-    "id": "energy-612f978302b63c4d"
-  },
-  {
-    "title": "Internal Market Monitor issues summer 2026 quarterly report",
-    "summary": "Total wholesale costs were down, though a drop in natural gas prices was offset by higher emissions costs. The post Internal Market Monitor issues summer 2026 quarterly report appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/10/internal-market-monitor-issues-summer-2026-quarterly-report/",
-    "timestamp": "2026-11-10T13:10:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/10/internal-market-monitor-issues-summer-2026-quarterly-report/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-10T13:10:08Z",
-    "id": "energy-9563eefe7bca3425"
   }
 ]
