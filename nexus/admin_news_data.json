@@ -1,174 +1,228 @@
 [
   {
-    "title": "Today’s broadcast for North America’s Kick-Off Open will be delayed by one hour",
-    "summary": "submitted by /u/Legitimate-Sign-371 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xvdxjf/todays_broadcast_for_north_americas_kickoff_open/",
-    "timestamp": "2026-11-13T17:25:26Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xvdxjf/todays_broadcast_for_north_americas_kickoff_open/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-13T17:25:26Z",
-    "id": "energy-72256f1f2dbb73a3"
-  },
-  {
-    "title": "Arm boss Rene Haas approached in Nvidia CEO search",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926",
-    "timestamp": "2026-11-13T17:10:33Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-13T17:10:33Z",
-    "id": "energy-aa6d589084e769dd"
-  },
-  {
-    "title": "\"LibreOffice works 365 days a year. Just saying.\"",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
-    "timestamp": "2026-11-13T17:09:58Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://twitter.com/LibreOffice/status/2121205272479998268"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-13T17:09:58Z",
-    "id": "energy-1bb107109b286362"
-  },
-  {
-    "title": "RLCS Club Championship: NA Kickoff Open - GSL Stage",
-    "summary": "RLCS Club Championship: NA Kickoff Open - GSL Stage Schedule Day UTC Top X Bracket. Day 3 Sun 18:00 32 Swiss Day 4 Fri (Today) 18:00 Top 16 GSL Day 5 Sat 18:00 Top 8 Hybrid Elim Day 6 Sun 18:00 Top 6 Hybrid Elim Coverage Liquipedia / / Start.gg / / Blast.tv Streams Twitch RocketLeague Twitch RLEsports YouTube RLEsports submitted by /u/RLMatchThreads [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xvdazw/rlcs_club_championship_na_kickoff_open_gsl_stage/",
-    "timestamp": "2026-11-13T17:02:35Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xvdazw/rlcs_club_championship_na_kickoff_open_gsl_stage/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-13T17:02:35Z",
-    "id": "energy-50984870fc1fbe90"
-  },
-  {
-    "title": "Stephen King and Real-Life Serial Killers Shaped the Most Unhinged Thriller of 2026",
-    "summary": "Maika Monroe talks playing a killer in Victorian Psycho, the films that shaped her villain, They Follow, and who’d win in a fight with Longlegs.",
+    "title": "James Gunn Responds To Scathing Man of Tomorrow Rumors Following DC Studios Exit",
+    "summary": "James Gunn says not to believe rumors about the quality of Man of Tomorrow, as not many people have seen the former DC Studios head's next film yet",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/maika-monroe-victorian-psycho-interview/",
-    "timestamp": "2026-11-13T17:00:19Z",
+    "url": "https://www.polygon.com/james-gunn-responds-man-of-tomorrow-rumors/",
+    "timestamp": "2026-11-14T16:00:50Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/maika-monroe-victorian-psycho-interview/"
+      "https://www.polygon.com/james-gunn-responds-man-of-tomorrow-rumors/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-13T17:00:19Z",
-    "id": "energy-9e1fdbae45f60bd2"
+    "data_as_of": "2026-11-14T16:00:50Z",
+    "id": "energy-d0887ce921b22281"
   },
   {
-    "title": "Overwatch Fans Got The News They Were Afraid Of About The New ‘Omnic Detective’ Hero",
-    "summary": "There’s been a change of plans for hero number 55",
+    "title": "Netflix’s New KPop Demon Hunters Replacement Is an Instant Fantasy Classic",
+    "summary": "'Steps' is a unique take on Cinderella that challenges the fairy tale in fresh, engaging ways.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/steps-2026-netflix-review/",
+    "timestamp": "2026-11-14T16:00:18Z",
+    "topic": "Gaming",
+    "category": "Reviews",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/steps-2026-netflix-review/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-14T16:00:18Z",
+    "id": "energy-c875c2fe1f35dfc7"
+  },
+  {
+    "title": "PyPI's redesigned project pages with clearer security signals are now live",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+    "timestamp": "2026-11-14T15:40:52Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-14T15:40:52Z",
+    "id": "energy-1165fbba1b99e3c5"
+  },
+  {
+    "title": "Pokémon Go 'Streets to Skies' choose a path — steel or dragon?",
+    "summary": "Should you pick steel or dragon in the Pokémon Go 2026 Wild Area \"Streets to Skies\" Special Research? We discuss the options in our guide.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/pokemon-go-wild-area-2026-streets-to-skies-research-steel-dragon/",
+    "timestamp": "2026-11-14T15:18:00Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/pokemon-go-wild-area-2026-streets-to-skies-research-steel-dragon/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-14T15:18:00Z",
+    "id": "energy-8cd24a620a275907"
+  },
+  {
+    "title": "RLCS Club Championship: MENA Kickoff Open - Playoffs",
+    "summary": "RLCS Club Championship: MENA Kickoff Open - Playoffs Schedule Day UTC Top X Bracket. Day 3 Sat 16:00 32 Swiss Day 4 Thurs 16:00 Top 16 GSL Day 5 Fri 16:00 Top 8 Hybrid Elim Day 6 Sat (Today) 16:00 Top 6 Hybrid Elim Coverage Liquipedia / / Start.gg / / Blast.tv Streams ▼ Platforms . Twitch RocketLeagueMENA YouTube EGAmena Teams ▼ Teams . Team X Suspect, T7LM, Twiz NOT Nush, ops, Trook 5Head Abdullah, DrKnown, M7md Room Mate London Hmod, iSL6Nii, SQQP shmn8a mr7 B2seL, Nadr, o0vvl b3den nsme Glowz, JSM, M6R Results Hybrid Elim. UTC Liquipedia Bracket ▼ Lower Quarterfinals Room Mate London 16:00 b3den nsme 5Head 17:00 shmn8a mr7 ▼ Semifinals NOT 18:00 TBD Team X 19:00 TBD ▼ Grand Finals TBD 20:00 TBD submitted by /u/RLMatchThreads [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xw4ho8/rlcs_club_championship_mena_kickoff_open_playoffs/",
+    "timestamp": "2026-11-14T15:02:01Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xw4ho8/rlcs_club_championship_mena_kickoff_open_playoffs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-14T15:02:01Z",
+    "id": "energy-a6f29e28d2fe250a"
+  },
+  {
+    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "timestamp": "2026-11-14T14:09:25Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-14T14:09:25Z",
+    "id": "energy-339a9b68723a258c"
+  },
+  {
+    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://github.com/paul-nameless/agweb",
+    "timestamp": "2026-11-14T14:08:12Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://github.com/paul-nameless/agweb"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-14T14:08:12Z",
+    "id": "energy-f31a0c2c46a6afc9"
+  },
+  {
+    "title": "3 years during a tryout with Joyo and Xpere, Xpere trashtalked Joyo for doing \"stupid shit\", and surprisingly, Joyo didn't like it.",
+    "summary": "Always good to hear behind the scenes stroies. This was from an Alphakep stream 2 weeks ago submitted by /u/Beneficial_Cup_3267 [link] [comments]",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xw18to/3_years_during_a_tryout_with_joyo_and_xpere_xpere/",
+    "timestamp": "2026-11-14T12:28:18Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xw18to/3_years_during_a_tryout_with_joyo_and_xpere_xpere/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-14T12:28:18Z",
+    "id": "energy-efc6a7d4b056a717"
+  },
+  {
+    "title": "Liquipedia Broadcast sections for RLCS: help needed",
+    "summary": "Hi, I'm a regular editor on the Liquipedia Rocket League wiki. I'm writing this post on my own initiative, so I'm not speaking on behalf of the other volunteers. This message is for the teams and individuals involved in team broadcasts (Top 16 / 32). I no longer have a public Twitter account to share this, so I'm posting it here. I've noticed quite a few gaps in the Broadcast section of RLCS pages last season and at the start of this one. How bad it is varies by region. From what I’ve seen, we usually manage to include every team's broadcast link (when there is one), but the people involved often aren’t credited. I think this is mainly due to a lack of time on our side: updating live results takes priority over everything else, and this information isn't always easy to find, especially for teams without an organization or for smaller orgs with less exposure on social media. That said, I'm willing to help fill that gap. And even though I said I'm not speaking for the other volunteers, I doubt I'm the only one who feels this way. So feel free to reach out with this kind of information, and we'll update the pages. You can message us in the #rocketleague channel on the Liquipedia Disc…",
+    "source": "Rocket League Esports",
+    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xvzwwg/liquipedia_broadcast_sections_for_rlcs_help_needed/",
+    "timestamp": "2026-11-14T11:11:27Z",
+    "topic": "Rocket League",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xvzwwg/liquipedia_broadcast_sections_for_rlcs_help_needed/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "entities": [
+      "RLCS"
+    ],
+    "data_as_of": "2026-11-14T11:11:27Z",
+    "id": "energy-127f05fa942eee49"
+  },
+  {
+    "title": "Microsoft On FAA Ground Stop: It Wasn’t Me",
+    "summary": "The cause is still unknown",
     "source": "Kotaku",
-    "url": "https://kotaku.com/overwatch-hudson-omnic-detective-damage-support-role-2000756631",
-    "timestamp": "2026-11-13T17:00:01Z",
+    "url": "https://kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749",
+    "timestamp": "2026-11-13T23:24:49Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/overwatch-hudson-omnic-detective-damage-support-role-2000756631"
+      "https://kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-13T17:00:01Z",
-    "id": "energy-d84a12397ed7695c"
+    "data_as_of": "2026-11-13T23:24:49Z",
+    "id": "energy-c17684c5c7db31a0"
   },
   {
-    "title": "Psyonix is refusing to accept Falcons' victory at Worlds",
-    "summary": "submitted by /u/Round-Economics-3257 [link] [comments]",
-    "source": "Rocket League Esports",
-    "url": "https://www.reddit.com/r/RocketLeagueEsports/comments/1xvd6sz/psyonix_is_refusing_to_accept_falcons_victory_at/",
-    "timestamp": "2026-11-13T16:58:26Z",
-    "topic": "Rocket League",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.reddit.com/r/RocketLeagueEsports/comments/1xvd6sz/psyonix_is_refusing_to_accept_falcons_victory_at/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "entities": [
-      "RLCS"
-    ],
-    "data_as_of": "2026-11-13T16:58:26Z",
-    "id": "energy-b04ea9ad8fa644ab"
-  },
-  {
-    "title": "Pokémon Legends: Z-A Changes into a Weirdly Restrictive Game this Week",
-    "summary": "Pokémon Legends: Z-A season X begins today, and we have the details of which Pokémon are banned.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-legends-z-a-season-x-details-banned-pokemon/",
-    "timestamp": "2026-11-13T16:50:54Z",
+    "title": "The Hater’s Guide To Ocarina Of Time",
+    "summary": "Stay strong, fellow Ocarina antagonists, we will get through this",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-haters-guide-to-ocarina-of-time-2000756728",
+    "timestamp": "2026-11-13T22:33:50Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/pokemon-legends-z-a-season-x-details-banned-pokemon/"
+      "https://kotaku.com/the-haters-guide-to-ocarina-of-time-2000756728"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-13T16:50:54Z",
-    "id": "energy-92e664cbcb2dd543"
+    "data_as_of": "2026-11-13T22:33:50Z",
+    "id": "energy-274c7bbebdf5ce35"
   },
   {
-    "title": "North Korean hackers used fake video calls in $400M crypto hack, says FBI",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
-    "timestamp": "2026-11-13T16:50:22Z",
-    "topic": "Computer Science",
+    "title": "Checking In On The Weird Little Guys In Ocarina Of Time To See How They Fared In The Remake",
+    "summary": "Time will change you",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/checking-in-on-the-weird-little-guys-in-ocarina-of-time-to-see-how-they-fared-in-the-remake-2000756684",
+    "timestamp": "2026-11-13T22:00:33Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.bbc.com/news/articles/cqdj1ellpd70o"
+      "https://kotaku.com/checking-in-on-the-weird-little-guys-in-ocarina-of-time-to-see-how-they-fared-in-the-remake-2000756684"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-13T16:50:22Z",
-    "id": "energy-587f687aadcf6fde"
+    "data_as_of": "2026-11-13T22:00:33Z",
+    "id": "energy-3080226e14282380"
   },
   {
     "title": "Audio Plugin Deals offers 17 plugins and sound packs in a FREE Black Friday Mega Bundle",
@@ -205,60 +259,6 @@
     "primary_source": false,
     "data_as_of": "2026-11-13T16:43:48Z",
     "id": "energy-69683e6f260fb76c"
-  },
-  {
-    "title": "GTA 6 Animated Series Gets First Official Trailer",
-    "summary": "Rockstar releases first trailer for GTA 6's in-game animated series, Macca & Friends",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-rockstar-macca-and-friends-animated-trailer/",
-    "timestamp": "2026-11-13T16:43:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/gta-6-rockstar-macca-and-friends-animated-trailer/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-13T16:43:43Z",
-    "id": "energy-c282b22a003f837f"
-  },
-  {
-    "title": "Devs Promise To Pay $5,000 To Help Cover Your Divorce If You Can Be The First To Beat Their Lock-Picking Game",
-    "summary": "You have to do it without cheating, and no, not those kind of love locks",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/devs-promise-to-pay-5000-to-help-cover-your-divorce-if-you-can-be-the-first-to-beat-their-lock-picking-game-2000756596",
-    "timestamp": "2026-11-13T16:30:43Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/devs-promise-to-pay-5000-to-help-cover-your-divorce-if-you-can-be-the-first-to-beat-their-lock-picking-game-2000756596"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-13T16:30:43Z",
-    "id": "energy-ee8267e3ee1d80d8"
-  },
-  {
-    "title": "Spider-Man 2 And A Bunch Of Other Great Games Are About To Look Even Better On Base PS5",
-    "summary": "AI upscaling is finally coming to more than just Wolverine and Ghost of Yotei",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
-    "timestamp": "2026-11-13T16:11:41Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-13T16:11:41Z",
-    "id": "energy-4c4a70010b29e929"
   },
   {
     "title": "MISO Initiatives Target Backlog For Data Center Interconnects",
@@ -358,77 +358,5 @@
     "primary_source": false,
     "data_as_of": "2026-11-13T12:37:57Z",
     "id": "energy-8c0ce19a211c5379"
-  },
-  {
-    "title": "The federal permitting bill has been updated. What changed?",
-    "summary": "A(nother) conversation with Daniel Palken.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/the-federal-permitting-bill-has-been",
-    "timestamp": "2026-11-11T15:57:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/the-federal-permitting-bill-has-been"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-11-11T15:57:28Z",
-    "id": "energy-a84a8dfe926dddc7"
-  },
-  {
-    "title": "Zeroth-Order Gradient Estimators under Decision-Dependent Noise",
-    "summary": "arXiv:2510.24929v2 Announce Type: replace Abstract: We study zeroth-order optimization of a generally nonconvex optimization problem that is accessible only through a noisy black-box oracle, where the observation noise has zero mean and its distribution depends on the queried decision vector. Since the gradient of the objective function is inaccessible, various zeroth-order methods have been developed to solve the problem. However, it remains unclear how the choice of search directions affects the sample complexity of zeroth-order methods and how their algorithmic parameters should be selected. In this paper, we conduct a unified sample complexity analysis of zeroth-order methods across gradient estimators with different search directions. As a result, we show that gradient estimators that average over multiple directions, either uniformly from the unit sphere or from a Gaussian distribution, achieve the lowest sample complexity. The resulting sample-complexity bounds improve upon those of existing zeroth-order methods for nonconvex objective functions that are not bounded above. Moreover, through simulation experiments on multiple products pricing and strategic classification app…",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2510.24929",
-    "timestamp": "2026-11-11T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2510.24929"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-11T05:00:00Z",
-    "id": "energy-ac55378433b8177f"
-  },
-  {
-    "title": "Zeros of Katz's p-adic Eisenstein series E2",
-    "summary": "arXiv:2611.14502v1 Announce Type: new Abstract: For every prime $p\\geq5$, the zeros of Katz's $p$-adic Eisenstein series $E_2$ on elliptic curves with good ordinary reduction have exactly $\\lfloor p/12\\rfloor+1$ distinct $j$-invariants. We prove that all these invariants lie in finite unramified extensions of $\\mathbf{Q}_p$. Their reductions are given by a classical formula involving the supersingular polynomial, and each nonelliptic residue class contains a unique simple zero. For the Legendre family, hypergeometric congruences determine the polynomial of the lifted invariants modulo every power of $p$. We also study isogenies between the zeros. Each $p$-power isogeny class contains at most one zero $j$-invariant, and any two distinct isogenous zero invariants are algebraic over $\\mathbf{Q}$. At a fixed cyclic degree, the nonelliptic isogenies give points in a finite divisor over $\\mathbf{Q}$ on the corresponding modular curve. Its degree bounds their number and their fields of definition, and excludes several small degrees. The only zeros with complex multiplication have $j=0$ or $1728$. Whether a non-CM zero can have an algebraic $j$-invariant remains open.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.14502",
-    "timestamp": "2026-11-11T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.14502"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-11T05:00:00Z",
-    "id": "energy-5d8425b9fe714d90"
-  },
-  {
-    "title": "Zero-sum Ramsey numbers of forests and complete bipartite graphs",
-    "summary": "arXiv:2611.14160v1 Announce Type: new Abstract: For a graph $G$ and an integer $m\\ge2$ dividing $e(G)$, where $e(G)$ denotes the number of edges of $G$, the zero-sum Ramsey number $R(G,\\mathbb Z_m)$ is the least $N$ such that every $\\mathbb Z_m$-labeling of $E(K_N)$ contains a copy of $G$ whose edge labels sum to zero. Bialostocki and Dierker (1990) [4] conjectured that $R(F,\\mathbb Z_{e(F)})/R(F,2)\\to1$ uniformly over all forests $F$ as $e(F)\\to\\infty$, where $R(F,2)$ is the two-color Ramsey number, and Caro (1991) [9] conjectured that $R(tG,\\mathbb Z_t)=t(|V(G)|+d)-d$ for $t\\ge2$ disjoint copies of $G$, where $d=\\operatorname{def}_t(G)$ is the defect. We disprove the first conjecture by an infinite family of trees. Building on the work of Caro and on his joint work with Provstgaard, we obtain infinitely many counterexamples to the second conjecture, and we determine the zero-sum Ramsey numbers of a class of graphs: for powers of two $q\\ge2$ we characterize all $s,k\\ge1$ satisfying $R(K_{s,kq},\\mathbb Z_q)=s+kq$, and we prove $R(mK_{q,q},\\mathbb Z_m)=2qm+m/\\gcd(m,q)-1$ for every $m\\ge2$.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.14160",
-    "timestamp": "2026-11-11T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.14160"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-11T05:00:00Z",
-    "id": "energy-43e61de57e96b64e"
   }
 ]

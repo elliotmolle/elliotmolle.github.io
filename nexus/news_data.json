@@ -1,5 +1,71 @@
 [
   {
+    "title": "Meet NIVA: The nuclear industry’s own AI tool",
+    "summary": "Built on decades of technical, regulatory, and operational experience, the Nuclear Industry Virtual Assistant (NIVA) is out of beta testing and in use at nuclear power plants across North America. NIVA debuted in August, featuring plain-language generative AI functions that would be familiar to people who have come to rely on AI chat tools. But NIVA’s tools, including a “knowledge assistant” and an “operating experience assistant,” are industry-specific and designed to help utilities accelerate licensing and maintenance. NIVA can make both historical lessons learned and the latest regulatory guides more accessible. It can also help newcomers to the nuclear workforce quickly learn what they need to know. What do people in the nuclear industry need to know about NIVA? It begins with how NIVA was conceived as a collaborative effort by three organizations: the Electric Power Research Institute, the Institute of Nuclear Power Operations, and the Nuclear Energy Institute. Nuclear News went to project leaders to learn more.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-13/article-8536/meet-niva-the-nuclear-industrys-own-ai-tool/",
+    "timestamp": "2026-11-13T21:06:14Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-13/article-8536/meet-niva-the-nuclear-industrys-own-ai-tool/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-13T21:06:14Z",
+    "id": "energy-49860d4e5a979bae"
+  },
+  {
+    "title": "Extension for RAI responses delays Project Ike review",
+    "summary": "In a decision that potentially has added two months to its projected review timeline, the Nuclear Regulatory Commission has given Orano Enrichment more time to respond to the commission’s requests for additional information regarding the Project Ike Enrichment Facility. The NRC began an accelerated technical review of Orano’s license application for the Oak Ridge, Tenn., facility in May of this year. In its May 21 letter announcing its acceptance of Orano’s application, the NRC stated that it planned to complete the expedited review by April 30, 2027.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-13/article-8579/extension-for-rai-responses-delays-project-ike-review/",
+    "timestamp": "2026-11-13T19:41:59Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-13/article-8579/extension-for-rai-responses-delays-project-ike-review/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-13T19:41:59Z",
+    "id": "energy-82ded732df81ad0a"
+  },
+  {
+    "title": "Open ISO-NE board meeting considers strategic plan, large loads, winter preparedness",
+    "summary": "The board conducted an open meeting Nov. 10 in Boston to give the public an opportunity to observe its discussions firsthand. The post Open ISO-NE board meeting considers strategic plan, large loads, winter preparedness appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/13/open-iso-ne-board-meeting-considers-strategic-plan-large-loads-winter-preparedness/",
+    "timestamp": "2026-11-13T18:30:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/13/open-iso-ne-board-meeting-considers-strategic-plan-large-loads-winter-preparedness/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-13T18:30:00Z",
+    "id": "energy-0a90ad14b2f3daf2"
+  },
+  {
     "title": "Firm developing Portsmouth site data center posts $7B loss",
     "summary": "Japanese investment firm SoftBank Group, whose subsidiary SB Energy is developing what the Department of Energy calls “the world’s largest artificial intelligence data center” at the Portsmouth, Ohio, nuclear cleanup site, has posted a net quarterly loss of approximately $7 billion. The PORTS Technology Campus (also known as the PORTS-Pike Technology Campus), which the Department of Energy’s Office of Environmental Management announced in March, is slated to be home to a 10-GW AI data center developed through a partnership between SB Energy and OpenAI, with Nvidia providing computing infrastructure for the facility. According to the November 10 episode of DOE-EM’s EnergyCast podcast, the campus also will host the largest energy generation project in the United States. SB Energy has pledged to build 10 GW of new power generation at the site to support the data center, including 9.2 GW of power from natural gas–powered turbines.",
     "source": "ANS Newswire",
@@ -68,28 +134,6 @@
     "id": "energy-97156c7f30fce4e6"
   },
   {
-    "title": "IAEA publishes 2026 World Fusion Outlook",
-    "summary": "The fourth edition of the International Atomic Energy Agency’s World Fusion Outlook is now available. The 128-page report is described by the IAEA as an examination of industry developments, including the advancement of fusion power plant concepts into industrial programs, the evolution of experimental fusion machines into integrated facilities, the emergence of a global fusion supply chain, and increased private and governmental investment in fusion energy.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-13/article-8577/iaea-publishes-2026-world-fusion-outlook/",
-    "timestamp": "2026-11-13T14:38:28Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-13/article-8577/iaea-publishes-2026-world-fusion-outlook/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-13T14:38:28Z",
-    "id": "energy-5908600714123d8b"
-  },
-  {
     "title": "ISO-NE files proposal with FERC to address ‘large loads’",
     "summary": "New processes would address concerns around cost and reliability related to major electricity users like data centers. The post ISO-NE files proposal with FERC to address ‘large loads’ appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -110,28 +154,6 @@
     ],
     "data_as_of": "2026-11-13T13:09:55Z",
     "id": "energy-aa406a9114f4c92f"
-  },
-  {
-    "title": "Constellation Q3 updates: New Peak+, uprates, restart, midterm elections",
-    "summary": "Constellation has signed a 270-MW agreement with a customer that would link support for clean energy resources like nuclear to other new power generation resources. This agreement under Constellation's Peak+ program was one of several nuclear-related items highlighted by Constellation executives at its third-quarter earnings call Monday. Other topics mentioned included the recent flurry of uprate announcements, the Crane restart, and the midterm elections.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-12/article-8576/constellation-q3-updates-new-peak-uprates-restart-midterm-elections/",
-    "timestamp": "2026-11-12T21:25:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-12/article-8576/constellation-q3-updates-new-peak-uprates-restart-midterm-elections/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-12T21:25:21Z",
-    "id": "energy-5672a67f65e44336"
   },
   {
     "title": "Entergy Arkansas encourages customers to prepare for fall safety",
@@ -201,48 +223,5 @@
     ],
     "data_as_of": "2026-11-11T16:41:19Z",
     "id": "energy-b5278b9a49a56287"
-  },
-  {
-    "title": "ISO Minute: Finding a familiar mission after military service",
-    "summary": "Shelley Mutti describes how 26 years in the U.S. Air Force has informed her work at the region’s power grid operator. The post ISO Minute: Finding a familiar mission after military service appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/11/iso-minute-finding-a-familiar-mission-after-military-service/",
-    "timestamp": "2026-11-11T11:30:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/11/iso-minute-finding-a-familiar-mission-after-military-service/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-11T11:30:00Z",
-    "id": "energy-3fa92ad5f91c1c93"
-  },
-  {
-    "title": "Pouring Of First Concrete Begins For Nuclear Island At China’s Sanao-4",
-    "summary": "First concrete pouring has begun for the nuclear island of Unit 4 at the Sanao nuclear power station in eastern Chinese province of Zhejiang, project owner China General Nuclear (CGN) announced on Tuesday (10 November). The company said the pouring of first concrete began at 08:28 local time on 10 November, marking the official start of main construction. It said the total volume of concrete poured as of 10 November was approximately 8,820 cubic metres and the process is expected to last 60 hours.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/pouring-of-first-concrete-begins-for-nuclear-island-at-china-s-sanao-4-11-3-2026",
-    "timestamp": "2026-11-11T10:16:11Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/pouring-of-first-concrete-begins-for-nuclear-island-at-china-s-sanao-4-11-3-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-11T10:16:11Z",
-    "id": "energy-d93d2093b19c1d0d"
   }
 ]
