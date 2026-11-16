@@ -1,60 +1,16 @@
 [
   {
-    "title": "Meet NIVA: The nuclear industry’s own AI tool",
-    "summary": "Built on decades of technical, regulatory, and operational experience, the Nuclear Industry Virtual Assistant (NIVA) is out of beta testing and in use at nuclear power plants across North America. NIVA debuted in August, featuring plain-language generative AI functions that would be familiar to people who have come to rely on AI chat tools. But NIVA’s tools, including a “knowledge assistant” and an “operating experience assistant,” are industry-specific and designed to help utilities accelerate licensing and maintenance. NIVA can make both historical lessons learned and the latest regulatory guides more accessible. It can also help newcomers to the nuclear workforce quickly learn what they need to know. What do people in the nuclear industry need to know about NIVA? It begins with how NIVA was conceived as a collaborative effort by three organizations: the Electric Power Research Institute, the Institute of Nuclear Power Operations, and the Nuclear Energy Institute. Nuclear News went to project leaders to learn more.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-13/article-8536/meet-niva-the-nuclear-industrys-own-ai-tool/",
-    "timestamp": "2026-11-13T21:06:14Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-13/article-8536/meet-niva-the-nuclear-industrys-own-ai-tool/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-13T21:06:14Z",
-    "id": "energy-49860d4e5a979bae"
-  },
-  {
-    "title": "Extension for RAI responses delays Project Ike review",
-    "summary": "In a decision that potentially has added two months to its projected review timeline, the Nuclear Regulatory Commission has given Orano Enrichment more time to respond to the commission’s requests for additional information regarding the Project Ike Enrichment Facility. The NRC began an accelerated technical review of Orano’s license application for the Oak Ridge, Tenn., facility in May of this year. In its May 21 letter announcing its acceptance of Orano’s application, the NRC stated that it planned to complete the expedited review by April 30, 2027.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-13/article-8579/extension-for-rai-responses-delays-project-ike-review/",
-    "timestamp": "2026-11-13T19:41:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-13/article-8579/extension-for-rai-responses-delays-project-ike-review/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-13T19:41:59Z",
-    "id": "energy-82ded732df81ad0a"
-  },
-  {
-    "title": "Open ISO-NE board meeting considers strategic plan, large loads, winter preparedness",
-    "summary": "The board conducted an open meeting Nov. 10 in Boston to give the public an opportunity to observe its discussions firsthand. The post Open ISO-NE board meeting considers strategic plan, large loads, winter preparedness appeared first on ISO Newswire.",
+    "title": "Fall 2026 update on regional transmission investment now available; 4 projects under construction in New England",
+    "summary": "No upgrades have been placed into service since June, according to the latest update to the Regional System Plan Project List. The post Fall 2026 update on regional transmission investment now available; 4 projects under construction in New England appeared first on ISO Newswire.",
     "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/13/open-iso-ne-board-meeting-considers-strategic-plan-large-loads-winter-preparedness/",
-    "timestamp": "2026-11-13T18:30:00Z",
+    "url": "https://isonewswire.com/2026/11/16/fall-2026-update-on-regional-transmission-investment-now-available-4-projects-under-construction-in-new-england/",
+    "timestamp": "2026-11-16T18:30:00Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://isonewswire.com/2026/11/13/open-iso-ne-board-meeting-considers-strategic-plan-large-loads-winter-preparedness/"
+      "https://isonewswire.com/2026/11/16/fall-2026-update-on-regional-transmission-investment-now-available-4-projects-under-construction-in-new-england/"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -62,21 +18,21 @@
       "ISO New England",
       "ISO-NE"
     ],
-    "data_as_of": "2026-11-13T18:30:00Z",
-    "id": "energy-0a90ad14b2f3daf2"
+    "data_as_of": "2026-11-16T18:30:00Z",
+    "id": "energy-4e25a3be0f6c83b4"
   },
   {
-    "title": "Firm developing Portsmouth site data center posts $7B loss",
-    "summary": "Japanese investment firm SoftBank Group, whose subsidiary SB Energy is developing what the Department of Energy calls “the world’s largest artificial intelligence data center” at the Portsmouth, Ohio, nuclear cleanup site, has posted a net quarterly loss of approximately $7 billion. The PORTS Technology Campus (also known as the PORTS-Pike Technology Campus), which the Department of Energy’s Office of Environmental Management announced in March, is slated to be home to a 10-GW AI data center developed through a partnership between SB Energy and OpenAI, with Nvidia providing computing infrastructure for the facility. According to the November 10 episode of DOE-EM’s EnergyCast podcast, the campus also will host the largest energy generation project in the United States. SB Energy has pledged to build 10 GW of new power generation at the site to support the data center, including 9.2 GW of power from natural gas–powered turbines.",
+    "title": "New York picks 10 finalists for upstate new nuclear project",
+    "summary": "The New York Power Authority has picked 10 finalists to support the state’s plans to build a new nuclear power plant in upstate New York that would produce at least 1 GW of new nuclear capacity. The upstate nuclear deployment is one piece of New York’s larger plans to add at least 5 GW of new nuclear capacity. According to the announcement, the request for qualifications (RFQ) the NYPA issued in May generated 21 submissions from interested developers. The NYPA will select a host community, reactor technology, and development partner “in the coming months.” Eight communities have expressed their interest in siting a new nuclear facility.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-13/article-8578/firm-developing-portsmouth-site-data-center-posts-7b-loss/",
-    "timestamp": "2026-11-13T16:30:54Z",
+    "url": "https://www.ans.org/news/2026-11-16/article-8582/new-york-picks-10-finalists-for-upstate-new-nuclear-project/",
+    "timestamp": "2026-11-16T17:54:37Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-13/article-8578/firm-developing-portsmouth-site-data-center-posts-7b-loss/"
+      "https://www.ans.org/news/2026-11-16/article-8582/new-york-picks-10-finalists-for-upstate-new-nuclear-project/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -84,39 +40,15 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-13T16:30:54Z",
-    "id": "energy-cd2ad3596ce170cb"
-  },
-  {
-    "title": "Humble lineman earns spot in the spotlight",
-    "summary": "For most of his career, Johnny Buchanan has avoided the spotlight. A private person who prefers to keep his personal life to himself, Buchanan has spent decades serving his community, often working behind the scenes to restore power and help customers when they need it most. Recognition has never been his goal. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/humble-lineman-earns-spot-in-the-spotlight",
-    "timestamp": "2026-11-13T15:57:29Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/humble-lineman-earns-spot-in-the-spotlight"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-13T15:57:29Z",
-    "id": "energy-252ba5270689e52f"
+    "data_as_of": "2026-11-16T17:54:37Z",
+    "id": "energy-e43bd45383cf2262"
   },
   {
     "title": "Landowner and Community Communications to the PJM Board Concerning RTEP Projects",
-    "summary": "Updated Date: 11.13.2026",
+    "summary": "Updated Date: 11.16.2026",
     "source": "PJM Public Disclosures",
     "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261112-landowner-and-community-communications-to-the-pjm-board-concerning-rtep-projects.pdf",
-    "timestamp": "2026-11-13T15:45:00Z",
+    "timestamp": "2026-11-16T17:53:00Z",
     "topic": "Energy",
     "category": "RTOs / ISOs",
     "impact": "Low",
@@ -130,21 +62,64 @@
       "PJM Interconnection",
       "PJM"
     ],
-    "data_as_of": "2026-11-13T15:45:00Z",
+    "data_as_of": "2026-11-16T17:53:00Z",
     "id": "energy-97156c7f30fce4e6"
   },
   {
-    "title": "ISO-NE files proposal with FERC to address ‘large loads’",
-    "summary": "New processes would address concerns around cost and reliability related to major electricity users like data centers. The post ISO-NE files proposal with FERC to address ‘large loads’ appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/13/iso-ne-files-proposal-with-ferc-to-address-large-loads/",
-    "timestamp": "2026-11-13T13:09:55Z",
+    "title": "Oklo roundup: Groves-1 plans, Centrus contract, Aurora concrete",
+    "summary": "Over the past week, reactor developer Oklo has informed the public of several developments through a string of press releases, social media posts, and its third quarter financial results presentation. Most interesting among these was an announcement that the company’s Groves-1 reactor has received Department of Energy approval to transition from its initial demonstration status to an “operating platform for research, testing, and training.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-16/article-8581/oklo-roundup-groves1-plans-centrus-contract-aurora-concrete/",
+    "timestamp": "2026-11-16T15:31:38Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://isonewswire.com/2026/11/13/iso-ne-files-proposal-with-ferc-to-address-large-loads/"
+      "https://www.ans.org/news/2026-11-16/article-8581/oklo-roundup-groves1-plans-centrus-contract-aurora-concrete/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-16T15:31:38Z",
+    "id": "energy-c4c6aaea88e7489d"
+  },
+  {
+    "title": "Newcleo And Curio Announce Collaboration To Advance Recycled Nuclear Fuel Supply",
+    "summary": "France-based advanced nuclear technology company Newcleo and Curio Legacy Ventures, a Washington-based company developing its patented NuCycle used nuclear fuel recycling process, announced an agreement to collaborate on the supply of recycled used nuclear fuel and transuranic materials for the production of mixed-oxide (MOX) fuel at Newcleo’s planned US fuel manufacturing facility. The fuel would be used in Newcleo’s lead-cooled fast reactors (LFRs) once they are deployed. A statement said that by combining Curio’s advanced nuclear fuel recycling technology with Newcleo’s MOX fuel fabrication capabilities and LFRs, the companies aim to maximise the reuse of nuclear materials, reduce reliance on fresh uranium resources and minimise long-lived radioactive waste.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/newcleo-and-curio-announce-collaboration-to-advance-recycled-nuclear-fuel-supply-11-1-2026",
+    "timestamp": "2026-11-16T14:05:42Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/newcleo-and-curio-announce-collaboration-to-advance-recycled-nuclear-fuel-supply-11-1-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-16T14:05:42Z",
+    "id": "energy-b3e39c6862a63a19"
+  },
+  {
+    "title": "New England expected to have sufficient electricity supplies this winter",
+    "summary": "ISO-NE closely monitors weather patterns that can drive higher energy demand and affect power system operations. The post New England expected to have sufficient electricity supplies this winter appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/16/new-england-expected-to-have-sufficient-electricity-supplies-this-winter-2/",
+    "timestamp": "2026-11-16T14:00:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/16/new-england-expected-to-have-sufficient-electricity-supplies-this-winter-2/"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -152,7 +127,29 @@
       "ISO New England",
       "ISO-NE"
     ],
-    "data_as_of": "2026-11-13T13:09:55Z",
-    "id": "energy-aa406a9114f4c92f"
+    "data_as_of": "2026-11-16T14:00:00Z",
+    "id": "energy-980b5f113ad77b80"
+  },
+  {
+    "title": "AtkinsRéalis, Turkey eye nuclear plant; Darlington-1 hits delay",
+    "summary": "This past week saw Canada’s nuclear energy ambitions inside and outside its borders make the headlines, with news coming out of Turkey and closer to home at Darlington.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-16/article-8580/atkinsralis-turkey-eye-nuclear-plant-darlington1-hits-delay/",
+    "timestamp": "2026-11-16T12:30:05Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-16/article-8580/atkinsralis-turkey-eye-nuclear-plant-darlington1-hits-delay/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-16T12:30:05Z",
+    "id": "energy-7f3eebf5b7585e87"
   }
 ]
