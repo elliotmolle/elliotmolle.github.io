@@ -1,5 +1,164 @@
 [
   {
+    "title": "EIF at 25: Entergy funding supports Arkansas conservation education",
+    "summary": "Quiz bowls, wild-game cooking and outdoor skills challenges were among the events that drew more than a thousand K-12 students to the inaugural Arkansas Game and Fish Commission’s Generation Conservation Summit in Hot Springs, Arkansas. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/eif-at-25-entergy-funding-supports-arkansas-conservation-education",
+    "timestamp": "2026-11-17T16:28:12Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/eif-at-25-entergy-funding-supports-arkansas-conservation-education"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-17T16:28:12Z",
+    "id": "energy-f9f54b13cae89508"
+  },
+  {
+    "title": "Monument Valley and Rifle: Monitoring Plant-Based Approaches to Milling Site Remediation",
+    "summary": "The U.S. Environmental Protection Agency estimates there are as many as 15,000 sites associated with abandoned uranium mine (AUM) waste across the American West. The Navajo Nation alone is affected by more than 500 of them. Most of this material has sat on the surface for more than half a century—on federal land, state land, private land, and tribal land—weathering into soil and water while the communities nearest to it wait.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-17/article-8429/monument-valley-and-rifle-monitoring-plantbased-approaches-to-milling-site-remediation/",
+    "timestamp": "2026-11-17T15:28:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-17/article-8429/monument-valley-and-rifle-monitoring-plantbased-approaches-to-milling-site-remediation/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-17T15:28:33Z",
+    "id": "energy-e2d52a6632c4fc12"
+  },
+  {
+    "title": "ISO-NE implements ambient air-based ratings for transmission lines",
+    "summary": "High-voltage transmission lines lose efficiency the hotter they get. The post ISO-NE implements ambient air-based ratings for transmission lines appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/17/iso-ne-implements-ambient-air-based-ratings-for-transmission-lines/",
+    "timestamp": "2026-11-17T13:49:50Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/17/iso-ne-implements-ambient-air-based-ratings-for-transmission-lines/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-17T13:49:50Z",
+    "id": "energy-85c490e47cbb299f"
+  },
+  {
+    "title": "NRC issues final rule on ACRS reform",
+    "summary": "The Nuclear Regulatory Commission has finalized a rule impacting the role of the agency’s independent Advisory Committee on Reactor Safeguards. The direct final rule streamlines the ACRS’s role in reviews, focusing its work solely on safety-significant issues that are considered novel or noteworthy. The rulemaking defines novel or noteworthy as attributes of a “facility’s design, siting, and operation associated with 1) safety-related structures, systems, and components as described by the definitions given in NRC rules and regulations or 2) structures, systems, and components that perform safety-significant functions.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-17/article-8585/nrc-issues-final-rule-on-acrs-reform/",
+    "timestamp": "2026-11-17T13:18:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-17/article-8585/nrc-issues-final-rule-on-acrs-reform/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-17T13:18:00Z",
+    "id": "energy-f22ce1a13be327f4"
+  },
+  {
+    "title": "France’s State Auditor Warns On Funding Problems For Six Planned EPR2 Nuclear Power Plants",
+    "summary": "French state utility and nuclear plant operator EDF could face difficulties funding the construction of six new generation nuclear reactors, a state auditor’s report said ​on 16 November. In a report on public support for energy (French only), the Cour des Comptes, France’s public audit body, said the utility faces heavy financial exposure across its long-term nuclear projects and could ​require substantial state backing if energy market revenues fail to ​cover building, maintenance and operating costs. It said EDF’s planned construction of ⁠six EPR2 reactors is budgeted at €72.8bn ($80.24bn) in 2020 values, ​which the court calculated at €84bn in 2025 values, with first ​commercial operation scheduled from 2038.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/france-s-state-auditor-warns-on-funding-problems-for-six-planned-epr2-nuclear-power-plants-11-2-2026",
+    "timestamp": "2026-11-17T09:05:33Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/france-s-state-auditor-warns-on-funding-problems-for-six-planned-epr2-nuclear-power-plants-11-2-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-17T09:05:33Z",
+    "id": "energy-d30813980906fb64"
+  },
+  {
+    "title": "Going critical in Phoenix: ANS Winter Conference opens with a call for durability",
+    "summary": "A week that brought down the country’s email and grounded its airplanes could not stop the nuclear community from getting together in Phoenix. The 2026 ANS Winter Conference & Expo opened this morning in the Copper State, days after Microsoft’s global email service outage on Thursday and an FAA ground stop that halted departing flights across the United States on Friday.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-16/article-8584/going-critical-in-phoenix-ans-winter-conference-opens-with-a-call-for-durability/",
+    "timestamp": "2026-11-17T00:43:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-16/article-8584/going-critical-in-phoenix-ans-winter-conference-opens-with-a-call-for-durability/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-17T00:43:26Z",
+    "id": "energy-ce7521cab449d912"
+  },
+  {
+    "title": "Goldman Sachs Industrials and Materials Conference 2026",
+    "summary": "Goldman Sachs Industrials and Materials Conference 2026 Kim Leonard Mon, 11/16/2026 - 13:36 Scott Strazik will participate in a fireside chat. Date Thu, 12/03/2026 - 08:00 - Thu, 12/03/2026 - 08:35 Webcast Link Watch the event Event Occured No Dark theme Off Show on Masthead On Past event description Scott Strazik participated in a fireside chat. show Event Panel Off",
+    "source": "GE Vernova | The Energy of Change",
+    "url": "https://www.gevernova.com/investors/events/goldman-sachs-industrials-and-materials-conference-2026",
+    "timestamp": "2026-11-16T18:36:17Z",
+    "topic": "Energy",
+    "category": "Company News",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.gevernova.com/investors/events/goldman-sachs-industrials-and-materials-conference-2026"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "GE Vernova",
+      "GE-Hitachi",
+      "GE"
+    ],
+    "tickers": [
+      "GEV"
+    ],
+    "data_as_of": "2026-11-16T18:36:17Z",
+    "id": "energy-14e18ff5e8735244"
+  },
+  {
     "title": "Fall 2026 update on regional transmission investment now available; 4 projects under construction in New England",
     "summary": "No upgrades have been placed into service since June, according to the latest update to the Regional System Plan Project List. The post Fall 2026 update on regional transmission investment now available; 4 projects under construction in New England appeared first on ISO Newswire.",
     "source": "ISO Newswire",
@@ -22,28 +181,6 @@
     "id": "energy-4e25a3be0f6c83b4"
   },
   {
-    "title": "New York picks 10 finalists for upstate new nuclear project",
-    "summary": "The New York Power Authority has picked 10 finalists to support the state’s plans to build a new nuclear power plant in upstate New York that would produce at least 1 GW of new nuclear capacity. The upstate nuclear deployment is one piece of New York’s larger plans to add at least 5 GW of new nuclear capacity. According to the announcement, the request for qualifications (RFQ) the NYPA issued in May generated 21 submissions from interested developers. The NYPA will select a host community, reactor technology, and development partner “in the coming months.” Eight communities have expressed their interest in siting a new nuclear facility.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-16/article-8582/new-york-picks-10-finalists-for-upstate-new-nuclear-project/",
-    "timestamp": "2026-11-16T17:54:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-16/article-8582/new-york-picks-10-finalists-for-upstate-new-nuclear-project/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-16T17:54:37Z",
-    "id": "energy-e43bd45383cf2262"
-  },
-  {
     "title": "Landowner and Community Communications to the PJM Board Concerning RTEP Projects",
     "summary": "Updated Date: 11.16.2026",
     "source": "PJM Public Disclosures",
@@ -64,28 +201,6 @@
     ],
     "data_as_of": "2026-11-16T17:53:00Z",
     "id": "energy-97156c7f30fce4e6"
-  },
-  {
-    "title": "Oklo roundup: Groves-1 plans, Centrus contract, Aurora concrete",
-    "summary": "Over the past week, reactor developer Oklo has informed the public of several developments through a string of press releases, social media posts, and its third quarter financial results presentation. Most interesting among these was an announcement that the company’s Groves-1 reactor has received Department of Energy approval to transition from its initial demonstration status to an “operating platform for research, testing, and training.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-16/article-8581/oklo-roundup-groves1-plans-centrus-contract-aurora-concrete/",
-    "timestamp": "2026-11-16T15:31:38Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-16/article-8581/oklo-roundup-groves1-plans-centrus-contract-aurora-concrete/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-16T15:31:38Z",
-    "id": "energy-c4c6aaea88e7489d"
   },
   {
     "title": "Newcleo And Curio Announce Collaboration To Advance Recycled Nuclear Fuel Supply",
@@ -129,27 +244,5 @@
     ],
     "data_as_of": "2026-11-16T14:00:00Z",
     "id": "energy-980b5f113ad77b80"
-  },
-  {
-    "title": "AtkinsRéalis, Turkey eye nuclear plant; Darlington-1 hits delay",
-    "summary": "This past week saw Canada’s nuclear energy ambitions inside and outside its borders make the headlines, with news coming out of Turkey and closer to home at Darlington.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-16/article-8580/atkinsralis-turkey-eye-nuclear-plant-darlington1-hits-delay/",
-    "timestamp": "2026-11-16T12:30:05Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-16/article-8580/atkinsralis-turkey-eye-nuclear-plant-darlington1-hits-delay/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-16T12:30:05Z",
-    "id": "energy-7f3eebf5b7585e87"
   }
 ]

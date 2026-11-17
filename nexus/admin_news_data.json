@@ -1,5 +1,284 @@
 [
   {
+    "title": "The Best Star Wars Racing Game In Years Is Going To Add Split-Screen Multiplayer",
+    "summary": "Galactic Racer is going old-school",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/the-best-star-wars-racing-game-in-years-is-going-to-add-split-screen-multiplayer-2000757526",
+    "timestamp": "2026-11-17T18:45:22Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/the-best-star-wars-racing-game-in-years-is-going-to-add-split-screen-multiplayer-2000757526"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T18:45:22Z",
+    "id": "energy-f181fcabe74085a7"
+  },
+  {
+    "title": "The Mighty Nein Season 2 Officially Has Fans Worried About One Major Plot Change",
+    "summary": "The Mighty Nein season 2 won’t hit our screens until March, but fans are already speculating about potential changes.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/the-mighty-nein-season-2-iron-shepherds/",
+    "timestamp": "2026-11-17T18:30:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/the-mighty-nein-season-2-iron-shepherds/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T18:30:19Z",
+    "id": "energy-8c0fadf01e756cdc"
+  },
+  {
+    "title": "MAI Code 2 and Code 2 Flash",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "timestamp": "2026-11-17T18:25:13Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T18:25:13Z",
+    "id": "energy-b5b103ac8d6984b3"
+  },
+  {
+    "title": "New 'Pokémon' TCG Lucario Set Leaks In Stores Months Before Official Release",
+    "summary": "Flowing Fists, the next Pokémon set after Delta Reign, isn't scheduled until 2027 yet people are already pulling its chase card",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/pokemon-tcg-flowing-fists-mega-lucario-z-ex-card-early-release-dollar-general/",
+    "timestamp": "2026-11-17T18:25:11Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/pokemon-tcg-flowing-fists-mega-lucario-z-ex-card-early-release-dollar-general/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T18:25:11Z",
+    "id": "energy-f504916d9f25be2d"
+  },
+  {
+    "title": "Pokémon Go’s Most Cursed Crossover Officially Revealed",
+    "summary": "Pokémon is doing a crossover with a certain language learning app.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/pokemon-go-duolingo-crossover-event-rewards/",
+    "timestamp": "2026-11-17T18:22:43Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/pokemon-go-duolingo-crossover-event-rewards/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T18:22:43Z",
+    "id": "energy-2edd30d1ca68a392"
+  },
+  {
+    "title": "MTHRBORD releases ACL2500, a FREE API 2500-style bus compressor",
+    "summary": "MTHRBORD.STUDIO has released ACL2500, a free stereo VCA bus compressor for macOS and Windows, modeled from measurements and recordings of a real API 2500. The developer measured how the hardware responds across different threshold, ratio, attack, release, and knee settings. They also clarified that AI helped with the math and algorithms used to turn those [...] View post: MTHRBORD releases ACL2500, a FREE API 2500-style bus compressor",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/",
+    "timestamp": "2026-11-17T18:15:07Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T18:15:07Z",
+    "id": "energy-7eba047a9f14382e"
+  },
+  {
+    "title": "zc devices releases thicket modular synth at a $99 intro price",
+    "summary": "zc devices has released thicket, a polyphonic modular synthesizer for Windows, macOS, and Linux, with a $99 introductory price through November (regularly $159). We covered thicket’s free open beta back in October. The full release arrived on November 16 with 200 presets and a built-in library of over 100 samples and wavetables. Thicket lets you [...] View post: zc devices releases thicket modular synth at a $99 intro price",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/17/zc-devices-thicket-2/",
+    "timestamp": "2026-11-17T18:09:55Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/17/zc-devices-thicket-2/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T18:09:55Z",
+    "id": "energy-1a21f1f9afdee486"
+  },
+  {
+    "title": "World Of Warcraft Forever’s Economy Problems Continue Because Some People Just Can’t Be Normal About Fictional Money",
+    "summary": "We're not playing Monopoly here, guys",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/world-of-warcraft-forevers-economy-problems-continue-because-some-people-just-cant-be-normal-about-fictional-money-2000757691",
+    "timestamp": "2026-11-17T18:00:32Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/world-of-warcraft-forevers-economy-problems-continue-because-some-people-just-cant-be-normal-about-fictional-money-2000757691"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T18:00:32Z",
+    "id": "energy-6d1d3f34c2f10da1"
+  },
+  {
+    "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+    "timestamp": "2026-11-17T17:49:01Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T17:49:01Z",
+    "id": "energy-63685ea11f89da18"
+  },
+  {
+    "title": "Apple Services Down",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://downdetector.com/status/apple-support/",
+    "timestamp": "2026-11-17T17:47:14Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://downdetector.com/status/apple-support/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T17:47:14Z",
+    "id": "energy-91a765b3747c5bb8"
+  },
+  {
+    "title": "Fox News Weighs In On Grand Theft Auto 6, Asks If Lucia Is A Hooker",
+    "summary": "‘I'm not thinking this is a good thing for our culture and society’",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710",
+    "timestamp": "2026-11-17T17:30:35Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T17:30:35Z",
+    "id": "energy-c4b7af9315c6a67d"
+  },
+  {
+    "title": "MISO Looking To Fix $10K Pricing Intervals During Solar Cliffs",
+    "summary": "By Amanda Durish Cook MISO plans to make market changes to help counter the increasing number of intervals that prices hit the RTO’s $10,000/MWh value of lost load when its system runs short on rampable generation during steep daily drops in solar output. The RTO intends to review its real-time market clearing and commitment processes […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/miso-looking-to-fix-10k-pricing-intervals-during-solar-cliffs/",
+    "timestamp": "2026-11-17T15:39:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/11/miso-looking-to-fix-10k-pricing-intervals-during-solar-cliffs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-17T15:39:57Z",
+    "id": "energy-34b83d504f756fd4"
+  },
+  {
+    "title": "Summary Of FERC Meeting Agenda For November 2026",
+    "summary": "By Aaron Bryant Following are summaries of the agenda items for the FERC’s monthly open meeting to be held Nov. 19, 2026. They were furnished by the White & Case law firm. Electric E-1, E-2 — ISO-NE and New England Transmission Owners (Docket No. ER20-2054-000) On June 15, 2020, ISO-NE, Central Maine Power, Connecticut Light […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/summary-of-ferc-meeting-agenda-for-november-2026/",
+    "timestamp": "2026-11-17T15:39:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/11/summary-of-ferc-meeting-agenda-for-november-2026/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-17T15:39:11Z",
+    "id": "energy-0927172caa94c724"
+  },
+  {
+    "title": "Entergy Utility Pushes Back On MISO’s Rationale For Transmission Upgrade Costs",
+    "summary": "By Ronnie Turner • Protests $112 million tab for upgrades linked to plant • Says gas-fired power plant will not benefit from projects Entergy Texas Inc. again refuted arguments made by the Midcontinent Independent System Operator that a proposed $112 million cost allocation for transmission upgrades linked to a power plant is fair, saying that […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/entergy-utility-pushes-back-on-misos-rationale-for-transmission-upgrade-costs/",
+    "timestamp": "2026-11-17T15:38:11Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/11/entergy-utility-pushes-back-on-misos-rationale-for-transmission-upgrade-costs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-17T15:38:11Z",
+    "id": "energy-82058e24cc49ff59"
+  },
+  {
+    "title": "Get UAD Vibe Analog Machines for $10, plus a FREE Plugin Boutique gift",
+    "summary": "Universal Audio’s Vibe Analog Machines is available for $10 at Plugin Boutique, with a free gift included with the purchase. Plugin Boutique has reduced the price from $99 to $10 through November 30. You get the full version of UAD’s versatile saturation plugin, with ten machines covering tape coloration, preamp crunch, and heavier distortion. For [...] View post: Get UAD Vibe Analog Machines for $10, plus a FREE Plugin Boutique gift",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/17/uad-vibe-analog-machines/",
+    "timestamp": "2026-11-17T14:09:22Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/17/uad-vibe-analog-machines/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-17T14:09:22Z",
+    "id": "energy-666a06f22a6d1635"
+  },
+  {
     "title": "We are now your Official Rocket League Esports Subreddit!",
     "summary": "https://preview.redd.it/wa8irry1y02i1.png?width=1200&format=png&auto=webp&s=128d4669123d6f0ad06fdc582a1442d991053f0e Hello all! Since our inception in 2018, we have operated as a fan-run Subreddit independent from Rocket League Esports. This Subreddit was born as an alternative to r/RocketLeague to allow discussions about the best esport in the world to thrive and stand on their own. 8 years, an entire pandemic, 11 RLCS Seasons, and a 400,000 member community later, we are pleased to announce r/RocketLeagueEsports has entered a working relationship with Psyonix and as of today, r/RocketLeagueEsports is now the official Rocket League Esports Subreddit. What does this mean? This is still a new and developing working relationship, but we do not exaggerate when we say we have high ambitions for where this may lead and are determined to push our Subreddit to new heights. For now, our partnership includes but is not limited to things like: Coordinating social activations with RL and RLE Psyonix/RLEsports official staff posting esports relevant Blog Posts/announcements directly to r/RocketLeagueEsports Access to official RLE assets for the design and appearance of this Subreddit Subreddi…",
     "source": "Rocket League Esports",
@@ -19,168 +298,6 @@
     ],
     "data_as_of": "2026-11-16T19:32:38Z",
     "id": "energy-3602e3eab33c1d18"
-  },
-  {
-    "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
-    "timestamp": "2026-11-16T19:29:17Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T19:29:17Z",
-    "id": "energy-43c04e6bb99c5556"
-  },
-  {
-    "title": "Marvel’s Newest Superhero Was Created to Solve a Major Magic: The Gathering Problem",
-    "summary": "Magic: The Gathering designer Aaron Forsythe explains why Marvel’s new hero was created to fix an ongoing problem with Universes Beyond.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/mtg-marvel-darkhold-destiny-fraxi-scion-of-yggdrasil-spoilers/",
-    "timestamp": "2026-11-16T19:27:44Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/mtg-marvel-darkhold-destiny-fraxi-scion-of-yggdrasil-spoilers/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T19:27:44Z",
-    "id": "energy-b4b50efb4b38bb4b"
-  },
-  {
-    "title": "Nintendo Fans Blast New Switch 2 Release as ‘Paid Downgrade’",
-    "summary": "Pikmin 4 fans are not impressed with the game’s Switch 2 upgrade, Dandori Academy.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/pikmin-4-nintendo-switch-2-release-controversy/",
-    "timestamp": "2026-11-16T19:17:39Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/pikmin-4-nintendo-switch-2-release-controversy/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T19:17:39Z",
-    "id": "energy-1ec8d56aa242d722"
-  },
-  {
-    "title": "Obsession Director Officially Casts Horror Icon in Next Film",
-    "summary": "Obsession director Curry Barker has cast horror icon and Scream star Matthew Lillard in his next film, Anything but Ghosts.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/obsession-director-curry-barker-anything-but-ghosts-matthew-lillard/",
-    "timestamp": "2026-11-16T19:08:35Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/obsession-director-curry-barker-anything-but-ghosts-matthew-lillard/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T19:08:35Z",
-    "id": "energy-e2c9a9ac12171e44"
-  },
-  {
-    "title": "Square Enix Is Making Final Fantasy 14 Free For 30 Days For A Ton More People",
-    "summary": "In preparation for Evercold, Square Enix is giving away 30 days of free game time to eligible players and has a new item for purchase that'll let you skip Dawntrail",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/square-enix-is-making-final-fantasy-14-free-for-30-days-for-a-ton-more-people-2000757498",
-    "timestamp": "2026-11-16T19:00:51Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/square-enix-is-making-final-fantasy-14-free-for-30-days-for-a-ton-more-people-2000757498"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T19:00:51Z",
-    "id": "energy-800c01f7410bf204"
-  },
-  {
-    "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-    "timestamp": "2026-11-16T18:31:30Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T18:31:30Z",
-    "id": "energy-eb647dcd3bda7111"
-  },
-  {
-    "title": "GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak",
-    "summary": "The leak in 2022 was the first time the game was seen by the public before it was officially unveiled the following year",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500",
-    "timestamp": "2026-11-16T18:30:14Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T18:30:14Z",
-    "id": "energy-7bb0f68119e4abab"
-  },
-  {
-    "title": "Software is breaking down at a systemic level",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-    "timestamp": "2026-11-16T18:17:17Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T18:17:17Z",
-    "id": "energy-f7cb9ea6daaf143b"
-  },
-  {
-    "title": "Video Game Union Manifesto Calls On Consumers To ‘Support Games Made Without GenAI’",
-    "summary": "The joint collective made up of six European video game unions has urged consumers to 'be vocal about disliking GenAI in games'",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423",
-    "timestamp": "2026-11-16T18:00:11Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/video-game-union-manifesto-calls-on-consumers-to-support-games-made-without-genai-2000757423"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T18:00:11Z",
-    "id": "energy-36a57db7f5ddc826"
   },
   {
     "title": "Gambit scores a goal ahead of its years in 2015.",
@@ -225,105 +342,6 @@
     "id": "energy-fc8d700305a8a758"
   },
   {
-    "title": "Dystopian Waves releases RHETON Free and DBot, two FREE MIDI plugins",
-    "summary": "Dystopian Waves has released RHETON Free and DBot MIDI Humanizer, two free MIDI plugins that turn block chords into performances and add variation to programmed parts. RHETON Free is the free version of the developer’s Generative Performance Engine. You can feed it a chord progression, and it turns those held notes into guitar strums, fingerpicked [...] View post: Dystopian Waves releases RHETON Free and DBot, two FREE MIDI plugins",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/",
-    "timestamp": "2026-11-16T16:09:49Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T16:09:49Z",
-    "id": "energy-748988ac88d97036"
-  },
-  {
-    "title": "Vocal Pockets releases VIPA, a MIDI chord generator that uses images",
-    "summary": "Vocal Pockets has released VIPA, a MIDI chord generator for macOS and Windows that uses pictures to suggest chords for your next track. The starting point in VIPA is a collection of images called Moodscapes. You can choose one, hit Generate, and the plugin will fill its 16 pads with chords based on the photo’s [...] View post: Vocal Pockets releases VIPA, a MIDI chord generator that uses images",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/",
-    "timestamp": "2026-11-16T16:02:22Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/16/vocal-pockets-vipa/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T16:02:22Z",
-    "id": "energy-7b582c7df62680a6"
-  },
-  {
-    "title": "Defying Federal Court Ruling, DOE Orders Campbell Coal Plant To Stay Open Through At Least February",
-    "summary": "By Sarah Leach The U.S. Department of Energy has issued a seventh consecutive 90-day emergency order keeping the coal-fired J.H. Campbell plant in Port Sheldon Township available to operate through mid-February — despite a recent federal appeals court ruling striking down the original directive. The new order, issued late Friday, Nov. 13, took effect Sunday, […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/defying-federal-court-ruling-doe-orders-campbell-coal-plant-to-stay-open-through-at-least-february/",
-    "timestamp": "2026-11-16T15:42:42Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/defying-federal-court-ruling-doe-orders-campbell-coal-plant-to-stay-open-through-at-least-february/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-16T15:42:42Z",
-    "id": "energy-36662b6cc20bfebe"
-  },
-  {
-    "title": "MISO Rebuffs IMM’s Advice To Restrict Market Reprices",
-    "summary": "By Amanda Durish Cook MISO announced it would not pursue changes to limit instances of market repricing as its Monitor suggested, instead committing to minimizing pricing errors in the first place. Why This Matters MISO said it would rather focus on minimizing pricing errors in the first place than heed its IMM’s advice to edit […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/miso-rebuffs-imms-advice-to-restrict-market-reprices/",
-    "timestamp": "2026-11-16T15:41:34Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/miso-rebuffs-imms-advice-to-restrict-market-reprices/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-16T15:41:34Z",
-    "id": "energy-1bec58e94bed60e2"
-  },
-  {
-    "title": "MISO Vows Improvements After Rash Of Market Pricing Errors, Delays",
-    "summary": "By Amanda Durish Cook After its market has racked up a string of pricing errors in 2026, MISO announced it’s embarking on a market quality initiative. MISO Executive Director of Market Operations Tim Aliff acknowledged that MISO has experienced quality issues recently in its real-time pricing and delays in its day-ahead price postings. “How the […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/miso-vows-improvements-after-rash-of-market-pricing-errors-delays/",
-    "timestamp": "2026-11-16T15:40:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/miso-vows-improvements-after-rash-of-market-pricing-errors-delays/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-16T15:40:37Z",
-    "id": "energy-316800f8b254e4de"
-  },
-  {
     "title": "Beatriz Mesquita Makes History By Breaking Ronda Rousey’s UFC Submission Record",
     "summary": "Beatriz ‘Bia’ Mesquita has continued her remarkable rise through the UFC women’s bantamweight division, securing another dominant submission victory at UFC 334 and surpassing Ronda Rousey’s longstanding record for the most submission wins in the division’s history. The Brazilian Jiu-Jitsu legend faced experienced UFC contender Macy Chiasson on November 14th at Madison Square Garden in […] The post Beatriz Mesquita Makes History By Breaking Ronda Rousey’s UFC Submission Record appeared first on Jitsmagazine.com.",
     "source": "Jitsmagazine.com",
@@ -340,24 +358,6 @@
     "primary_source": false,
     "data_as_of": "2026-11-16T14:10:05Z",
     "id": "energy-3521cd4dbe04bc87"
-  },
-  {
-    "title": "GullDSP Phathom is a FREE bass preamp and distortion plugin for Windows",
-    "summary": "GullDSP offers Phathom, a free and open-source bass guitar preamp plugin for Windows, designed for fuzzy, growling, and clanky modern bass tones. We previously covered the developer’s Circulate phase smearing plugin. That one was pretty wild, and definitely worth trying for interesting effects on percussion. Phathom takes a more conventional approach. It’s basically a virtual [...] View post: GullDSP Phathom is a FREE bass preamp and distortion plugin for Windows",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/",
-    "timestamp": "2026-11-16T13:44:03Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-16T13:44:03Z",
-    "id": "energy-92cc7de2cf9f6b1a"
   },
   {
     "title": "Community Post #32: your Thanksgiving playbook",
