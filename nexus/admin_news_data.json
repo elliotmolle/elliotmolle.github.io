@@ -1,201 +1,357 @@
 [
   {
-    "title": "The Best Star Wars Racing Game In Years Is Going To Add Split-Screen Multiplayer",
-    "summary": "Galactic Racer is going old-school",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/the-best-star-wars-racing-game-in-years-is-going-to-add-split-screen-multiplayer-2000757526",
-    "timestamp": "2026-11-17T18:45:22Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/the-best-star-wars-racing-game-in-years-is-going-to-add-split-screen-multiplayer-2000757526"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-17T18:45:22Z",
-    "id": "energy-f181fcabe74085a7"
-  },
-  {
-    "title": "The Mighty Nein Season 2 Officially Has Fans Worried About One Major Plot Change",
-    "summary": "The Mighty Nein season 2 won’t hit our screens until March, but fans are already speculating about potential changes.",
+    "title": "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy",
+    "summary": "GTA 6 fans playing through early chapters have a new favorite in Mandy, a character who tries to tempt Jason Duval away from Lucia Caminos.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-mighty-nein-season-2-iron-shepherds/",
-    "timestamp": "2026-11-17T18:30:19Z",
+    "url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/",
+    "timestamp": "2026-11-18T18:34:16Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/the-mighty-nein-season-2-iron-shepherds/"
+      "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-17T18:30:19Z",
-    "id": "energy-8c0fadf01e756cdc"
+    "data_as_of": "2026-11-18T18:34:16Z",
+    "id": "energy-ecbebaa49415283d"
   },
   {
-    "title": "MAI Code 2 and Code 2 Flash",
+    "title": "DMZ key and locations in Modern Warfare 4",
+    "summary": "This guide lists all keys that can be found in Modern Warfare 4's DMZ mode and where to use them.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-keys-locations-all-list/",
+    "timestamp": "2026-11-18T18:29:06Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/mw4-modern-warfare-4-dmz-keys-locations-all-list/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-18T18:29:06Z",
+    "id": "energy-2be676e53601e708"
+  },
+  {
+    "title": "GTA 6's Subscription-based Perks are Worrying Players",
+    "summary": "GTA+ members get an exclusive car, garage, discounts, and other benefits in GTA 6's single-player campaign for $7.99 a month.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-6-plus-membership-benefits-exclusive-car-garage/",
+    "timestamp": "2026-11-18T18:20:58Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/gta-6-plus-membership-benefits-exclusive-car-garage/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-18T18:20:58Z",
+    "id": "energy-d785c4cbdeae79a3"
+  },
+  {
+    "title": "Nvidia Hit with a Ransomware",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "timestamp": "2026-11-17T18:25:13Z",
+    "url": "https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg",
+    "timestamp": "2026-11-18T18:19:42Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+      "https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-17T18:25:13Z",
-    "id": "energy-b5b103ac8d6984b3"
+    "data_as_of": "2026-11-18T18:19:42Z",
+    "id": "energy-51a7bf123e6797c0"
   },
   {
-    "title": "New 'Pokémon' TCG Lucario Set Leaks In Stores Months Before Official Release",
-    "summary": "Flowing Fists, the next Pokémon set after Delta Reign, isn't scheduled until 2027 yet people are already pulling its chase card",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-tcg-flowing-fists-mega-lucario-z-ex-card-early-release-dollar-general/",
-    "timestamp": "2026-11-17T18:25:11Z",
+    "title": "Grand Theft Auto 6 Performance Is Mostly Stable, Except On Xbox Series S Where It Can Hit Sub-20FPS",
+    "summary": "Rockstar’s open world is pushing modern consoles to their limits",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/grand-theft-auto-6-gta6-performance-framerate-ps5-xbox-series-x-s-2000758096",
+    "timestamp": "2026-11-18T18:00:41Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/pokemon-tcg-flowing-fists-mega-lucario-z-ex-card-early-release-dollar-general/"
+      "https://kotaku.com/grand-theft-auto-6-gta6-performance-framerate-ps5-xbox-series-x-s-2000758096"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-17T18:25:11Z",
-    "id": "energy-f504916d9f25be2d"
+    "data_as_of": "2026-11-18T18:00:41Z",
+    "id": "energy-47226d07d90843de"
   },
   {
-    "title": "Pokémon Go’s Most Cursed Crossover Officially Revealed",
-    "summary": "Pokémon is doing a crossover with a certain language learning app.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/pokemon-go-duolingo-crossover-event-rewards/",
-    "timestamp": "2026-11-17T18:22:43Z",
+    "title": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://supercite.ai/blog/ai-answers-change-every-day",
+    "timestamp": "2026-11-18T17:58:00Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://supercite.ai/blog/ai-answers-change-every-day"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-18T17:58:00Z",
+    "id": "energy-96d2a17ca5b2f444"
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "timestamp": "2026-11-18T17:45:47Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://openai.com/index/advancing-chip-design-with-our-models/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-18T17:45:47Z",
+    "id": "energy-567a32908f694850"
+  },
+  {
+    "title": "I’ve Played Over 150 Hours Of GTA 6, Ask Me Anything",
+    "summary": "Just know I won't spoil the ending or any major events that happen",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/ive-played-over-150-hours-of-gta-6-ask-me-anything-2000758090",
+    "timestamp": "2026-11-18T17:32:08Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/pokemon-go-duolingo-crossover-event-rewards/"
+      "https://kotaku.com/ive-played-over-150-hours-of-gta-6-ask-me-anything-2000758090"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-17T18:22:43Z",
-    "id": "energy-2edd30d1ca68a392"
+    "data_as_of": "2026-11-18T17:32:08Z",
+    "id": "energy-bf36973b01ea051b"
   },
   {
-    "title": "MTHRBORD releases ACL2500, a FREE API 2500-style bus compressor",
-    "summary": "MTHRBORD.STUDIO has released ACL2500, a free stereo VCA bus compressor for macOS and Windows, modeled from measurements and recordings of a real API 2500. The developer measured how the hardware responds across different threshold, ratio, attack, release, and knee settings. They also clarified that AI helped with the math and algorithms used to turn those [...] View post: MTHRBORD releases ACL2500, a FREE API 2500-style bus compressor",
+    "title": "How Am I Supposed To Wait Until The PC Version To Play GTA 6?",
+    "summary": "I always play GTA games on PC, but I don't know if I possess the strength of mind to hold out for this one",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gta6-grand-theft-auto-vi-pc-version-rockstar-ps5-release-day-wait-2000757983",
+    "timestamp": "2026-11-18T17:30:37Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/gta6-grand-theft-auto-vi-pc-version-rockstar-ps5-release-day-wait-2000757983"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-18T17:30:37Z",
+    "id": "energy-8b4672f0e859c10a"
+  },
+  {
+    "title": "Phil Speiser releases THE_PITCH 2 MINI, a FREE vocal pitch correction plugin",
+    "summary": "Phil Speiser has released THE_PITCH 2 MINI, a free pitch correction plugin for vocals and other single-note sources on macOS and Windows. I already covered my favorite pitch correction tools in the free autotune plugins article. THE_PITCH 2 MINI is the latest contender, and I think its main advantage is the simple workflow. For a [...] View post: Phil Speiser releases THE_PITCH 2 MINI, a FREE vocal pitch correction plugin",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/",
-    "timestamp": "2026-11-17T18:15:07Z",
+    "url": "https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/",
+    "timestamp": "2026-11-18T17:07:06Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/17/mthrbord-acl2500/"
+      "https://bedroomproducersblog.com/2026/11/18/phil-speiser-the_pitch-2-mini/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-17T18:15:07Z",
-    "id": "energy-7eba047a9f14382e"
+    "data_as_of": "2026-11-18T17:07:06Z",
+    "id": "energy-de92ec2e71864a74"
   },
   {
-    "title": "zc devices releases thicket modular synth at a $99 intro price",
-    "summary": "zc devices has released thicket, a polyphonic modular synthesizer for Windows, macOS, and Linux, with a $99 introductory price through November (regularly $159). We covered thicket’s free open beta back in October. The full release arrived on November 16 with 200 presets and a built-in library of over 100 samples and wavetables. Thicket lets you [...] View post: zc devices releases thicket modular synth at a $99 intro price",
+    "title": "Collaya Listener offers FREE key, chord, and mix analysis for Mac, plus a $49 Pro deal",
+    "summary": "Collaya Listener is a free audio analysis plugin for Apple Silicon Macs that identifies notes, keys, and chords while measuring your mix. You can download Listener for free and use it without a paid subscription. Collaya is also offering its Pro annual plan for $49 for the first year (normally $79) through December 14. We [...] View post: Collaya Listener offers FREE key, chord, and mix analysis for Mac, plus a $49 Pro deal",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/17/zc-devices-thicket-2/",
-    "timestamp": "2026-11-17T18:09:55Z",
+    "url": "https://bedroomproducersblog.com/2026/11/18/collaya-listener/",
+    "timestamp": "2026-11-18T16:57:03Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/17/zc-devices-thicket-2/"
+      "https://bedroomproducersblog.com/2026/11/18/collaya-listener/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-17T18:09:55Z",
-    "id": "energy-1a21f1f9afdee486"
+    "data_as_of": "2026-11-18T16:57:03Z",
+    "id": "energy-b3fb821b31d692f1"
   },
   {
-    "title": "World Of Warcraft Forever’s Economy Problems Continue Because Some People Just Can’t Be Normal About Fictional Money",
-    "summary": "We're not playing Monopoly here, guys",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/world-of-warcraft-forevers-economy-problems-continue-because-some-people-just-cant-be-normal-about-fictional-money-2000757691",
-    "timestamp": "2026-11-17T18:00:32Z",
-    "topic": "Gaming",
+    "title": "DAWJunkie offers Super Duper Basses Free, a FREE retro bass instrument",
+    "summary": "DAWJunkie is offering Super Duper Basses Free, a free bass instrument for macOS and Windows inspired by the sounds of 1990s hardware. You can get Super Duper Basses Free through the developer’s download page. It’s a smaller edition of the paid Super Duper Basses (currently on sale for $4.95), with presets created by Steve Cherubino [...] View post: DAWJunkie offers Super Duper Basses Free, a FREE retro bass instrument",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/18/dawjunkie-super-duper-basses-free/",
+    "timestamp": "2026-11-18T16:41:34Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/world-of-warcraft-forevers-economy-problems-continue-because-some-people-just-cant-be-normal-about-fictional-money-2000757691"
+      "https://bedroomproducersblog.com/2026/11/18/dawjunkie-super-duper-basses-free/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-17T18:00:32Z",
-    "id": "energy-6d1d3f34c2f10da1"
+    "data_as_of": "2026-11-18T16:41:34Z",
+    "id": "energy-0986578d5f68aa40"
   },
   {
-    "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-    "timestamp": "2026-11-17T17:49:01Z",
-    "topic": "Computer Science",
+    "title": "“Repowering” worn out solar fields could create gigawatts of new grid capacity, quickly",
+    "summary": "A conversation with Lisa Hansmann of Foundry-Logic.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/repowering-worn-out-solar-fields",
+    "timestamp": "2026-11-18T16:02:59Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
+      "https://www.volts.wtf/p/repowering-worn-out-solar-fields"
     ],
-    "source_tier": "primary",
+    "source_tier": "opinion",
     "primary_source": false,
-    "data_as_of": "2026-11-17T17:49:01Z",
-    "id": "energy-63685ea11f89da18"
+    "data_as_of": "2026-11-18T16:02:59Z",
+    "id": "energy-46e636b4e8fe0c7e"
   },
   {
-    "title": "Apple Services Down",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://downdetector.com/status/apple-support/",
-    "timestamp": "2026-11-17T17:47:14Z",
-    "topic": "Computer Science",
+    "title": "MMA pound-for-pound rankings: Harrison, Nunes in a league of their own",
+    "summary": "Who do Kayla Harrison and Amanda Nunes replace in ESPN's P4P women's top 10?",
+    "source": "www.espn.com - MMA",
+    "url": "https://www.espn.com/mma/story/_/id/24067525/mma-pound-rankings-kayla-harrison-returns-top",
+    "timestamp": "2026-11-18T13:01:25Z",
+    "topic": "UFC",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://downdetector.com/status/apple-support/"
+      "https://www.espn.com/mma/story/_/id/24067525/mma-pound-rankings-kayla-harrison-returns-top"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-17T17:47:14Z",
-    "id": "energy-91a765b3747c5bb8"
+    "primary_source": true,
+    "entities": [
+      "UFC",
+      "MMA"
+    ],
+    "data_as_of": "2026-11-18T13:01:25Z",
+    "id": "energy-b3645bc92a8711c9"
   },
   {
-    "title": "Fox News Weighs In On Grand Theft Auto 6, Asks If Lucia Is A Hooker",
-    "summary": "‘I'm not thinking this is a good thing for our culture and society’",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710",
-    "timestamp": "2026-11-17T17:30:35Z",
-    "topic": "Gaming",
+    "title": "MMA divisional rankings: Kayla Harrison is back and in top form",
+    "summary": "Here's a look at every weight class to determine the best of the best in UFC, PFL and beyond.",
+    "source": "www.espn.com - MMA",
+    "url": "https://www.espn.com/mma/story/_/id/21807736/mma-divisional-rankings-ufc-pfl-weight-class",
+    "timestamp": "2026-11-18T13:01:25Z",
+    "topic": "UFC",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710"
+      "https://www.espn.com/mma/story/_/id/21807736/mma-divisional-rankings-ufc-pfl-weight-class"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-17T17:30:35Z",
-    "id": "energy-c4b7af9315c6a67d"
+    "primary_source": true,
+    "entities": [
+      "UFC",
+      "MMA"
+    ],
+    "data_as_of": "2026-11-18T13:01:25Z",
+    "id": "energy-dcc418e8414fb47e"
+  },
+  {
+    "title": "Nunes wants rematch after submission loss to Harrison at UFC 334",
+    "summary": "Amanda Nunes is calling for a rematch against Kayla Harrison after she tapped out and suffered a submission-loss in their bantamweight title fight at UFC 334.",
+    "source": "www.espn.com - MMA",
+    "url": "https://www.espn.com/mma/story/_/id/50504744/ufc-nunes-calls-rematch-submission-loss-harrison",
+    "timestamp": "2026-11-18T13:00:09Z",
+    "topic": "UFC",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.espn.com/mma/story/_/id/50504744/ufc-nunes-calls-rematch-submission-loss-harrison"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "UFC",
+      "MMA"
+    ],
+    "data_as_of": "2026-11-18T13:00:09Z",
+    "id": "energy-402a37bfc6e45632"
+  },
+  {
+    "title": "Zong's problem on $2d$ half-spaces containing the unit ball",
+    "summary": "arXiv:2609.38394v3 Announce Type: replace Abstract: We prove that the intersection of $2d$ half-spaces containing the Euclidean unit ball in $\\mathbb{R}^d$ contains a point of norm at least $\\sqrt{d}$. Equality in the radius bound characterizes the cube up to orthogonal transformations. The proof gives a lower bound for the average squared norm of the vertices, weighted by the Gaussian measures of their normal cones. This estimate follows from an inequality for the Gaussian measures of a simplicial cone and its projected facets, which in turn reduces to a linear estimate for the Gaussian centroid of a simplicial cone. We also discuss a quadratic extension of the problem and give a bound for it using an independent spectral argument. This bound implies that the intersection of any $m > d$ half-spaces containing the unit ball contains a point of norm at least $\\sqrt{m}\\,\\ln\\frac{m}{m-d}$.",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2609.38394",
+    "timestamp": "2026-11-18T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2609.38394"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-18T05:00:00Z",
+    "id": "energy-3078259231717623"
+  },
+  {
+    "title": "When Is Membership Graded? Identifiability and Resolution Limits of a Graded Gaussian Mixture Model",
+    "summary": "arXiv:2611.21863v1 Announce Type: new Abstract: Mixed-membership models describe each unit as a graded blend of latent types. Before the blend is interpreted, the data should be able to rule out the simpler story in which every unit belongs to a single type. We ask when they can, in a scalar graded Gaussian mixture model, in which each observation is a Beta-weighted convex combination of independent Gaussian draws from two types, the mechanism behind functional mixed-membership models and the normal compositional model. The model is identifiable, unequal variances included, but the identifying information sits in the far tails of the marginal. For the symmetric model we give a closed-form hard-membership mixture that matches the graded marginal in five cumulants, and a Le Cam bound turns it into a certified sample size below which no test separates graded from hard membership with summed error under one half. The threshold is governed by the concentration $c$ relative to $c_0\\approx d^2$, where $d$ is the type half-separation in within-type standard deviations. At $d=3$ it is about 2,600 observations at $c=3$ and 77,000 at $c=6$. Most of the difficulty comes from learning $c$. On…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.21863",
+    "timestamp": "2026-11-18T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2611.21863"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-18T05:00:00Z",
+    "id": "energy-cbf0926eac696c7b"
+  },
+  {
+    "title": "What the occupation law of a finite Markov chain determines: time reversal and principal minors",
+    "summary": "arXiv:2611.14587v2 Announce Type: replace Abstract: What does the occupation law of a finite Markov chain determine about its generator $Q$? From the stationary start, the law of the occupation times at one time determines $Q$ up to time reversal and reversals of memoryless blocks, the sets of states that are all left at one rate with one landing law and are entered in proportion to the stationary law. These reversals commute and give exactly $2^k$ generators, with $k$ read off a tree of memoryless blocks. This leaves only time reversal when $Q$ has no rank-one cut, when there are at most 4 states, and generically. The law at one time determines the law at every time, and a generic start determines $Q$. A renewal block is a set of states that is left at the same rates from each of its states, is entered with one law, and is charged by the start in proportion to that law. From every start the law determines $Q$ up to lumped reversals, which lump disjoint renewal blocks to single states and reverse a memoryless block of the lumped chain. We also find every start that hides time reversal. At the scale of large deviations, the functional of Donsker and Varadhan determines exactly the…",
+    "source": "math updates on arXiv.org",
+    "url": "https://arxiv.org/abs/2611.14587",
+    "timestamp": "2026-11-18T05:00:00Z",
+    "topic": "Mathematics",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://arxiv.org/abs/2611.14587"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "data_as_of": "2026-11-18T05:00:00Z",
+    "id": "energy-564cefeaf53ee787"
   },
   {
     "title": "MISO Looking To Fix $10K Pricing Intervals During Solar Cliffs",
@@ -259,24 +415,6 @@
     ],
     "data_as_of": "2026-11-17T15:38:11Z",
     "id": "energy-82058e24cc49ff59"
-  },
-  {
-    "title": "Get UAD Vibe Analog Machines for $10, plus a FREE Plugin Boutique gift",
-    "summary": "Universal Audio’s Vibe Analog Machines is available for $10 at Plugin Boutique, with a free gift included with the purchase. Plugin Boutique has reduced the price from $99 to $10 through November 30. You get the full version of UAD’s versatile saturation plugin, with ten machines covering tape coloration, preamp crunch, and heavier distortion. For [...] View post: Get UAD Vibe Analog Machines for $10, plus a FREE Plugin Boutique gift",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/17/uad-vibe-analog-machines/",
-    "timestamp": "2026-11-17T14:09:22Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/17/uad-vibe-analog-machines/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-17T14:09:22Z",
-    "id": "energy-666a06f22a6d1635"
   },
   {
     "title": "We are now your Official Rocket League Esports Subreddit!",
@@ -376,59 +514,5 @@
     "primary_source": false,
     "data_as_of": "2026-11-16T11:04:27Z",
     "id": "energy-1d04fe56e2477f1e"
-  },
-  {
-    "title": "Zong's problem on $2d$ half-spaces containing the unit ball",
-    "summary": "arXiv:2609.38394v2 Announce Type: replace Abstract: We prove that the intersection of $2d$ half-spaces containing the Euclidean unit ball in $\\mathbb{R}^d$ contains a point of norm at least $\\sqrt{d}$. Equality in the radius bound characterizes the cube up to orthogonal transformations. The proof gives a lower bound for the average squared norm of the vertices, weighted by the Gaussian measures of their normal cones. This estimate follows from an inequality for the Gaussian measures of a simplicial cone and its projected facets, which in turn reduces to a linear estimate for the Gaussian centroid of a simplicial cone. We also discuss a quadratic extension of the problem and give a bound for it using an independent spectral argument. This bound implies that the intersection of any $m > d$ half-spaces containing the unit ball contains a point of norm at least $\\sqrt{m}\\,\\ln\\frac{m}{m-d}$.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2609.38394",
-    "timestamp": "2026-11-16T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2609.38394"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-16T05:00:00Z",
-    "id": "energy-3078259231717623"
-  },
-  {
-    "title": "Yang-Mills-Higgs Limits of Reflexive Higgs Sheaves",
-    "summary": "arXiv:2610.35742v2 Announce Type: replace Abstract: For stable Higgs bundles, Hermitian-Einstein metrics can be obtained as limits of the Yang-Mills-Higgs (Y-M-H) flow. We study the algebraic structure of subsequential limits of this flow for reflexive Higgs sheaves over compact K\\\"ahler manifolds, without assuming stability. We prove that the limiting reflexive Higgs sheaf is isomorphic to the double dual of the graded sheaf associated with the Harder-Narasimhan-Seshadri filtration of the initial sheaf.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2610.35742",
-    "timestamp": "2026-11-16T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2610.35742"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-16T05:00:00Z",
-    "id": "energy-ab1ae0e25c8198ff"
-  },
-  {
-    "title": "Wireless Node Ranking via Fourier-Driven Maximum-Likelihood Estimation (extended version)",
-    "summary": "arXiv:2611.17973v1 Announce Type: new Abstract: We apply non-abelian Fourier theory to the problem of maximum-likelihood estimation of the order of a line topology, based on signal strength measurements under shadowing only. This yields up to a 60-fold speedup over standard methods for uncorrelated shadowing. Moreover, for correlated Gaussian shadowing with a singular covariance (e.g. the joint path-loss model), maximum-likelihood recovery is exact and independent of the shadowing variance (an infinite Le Cam threshold), which our implementation confirms for $\\sigma/\\alpha$ as high as 7.0. The key object is the covariance's null space. Its dimension is fixed by the topology; its orientation depends on the correlation function only through the per-link variances. Although the mechanism formally requires an exact line, it is robust to small perturbations of the formation: an approximate kernel recovers as well as the exact one. We explore the dependence on the perturbation in detail for five nodes.",
-    "source": "math updates on arXiv.org",
-    "url": "https://arxiv.org/abs/2611.17973",
-    "timestamp": "2026-11-16T05:00:00Z",
-    "topic": "Mathematics",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://arxiv.org/abs/2611.17973"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "data_as_of": "2026-11-16T05:00:00Z",
-    "id": "energy-8ec09db772c95d51"
   }
 ]
