@@ -1,16 +1,16 @@
 [
   {
-    "title": "Winter Conference headliners: Sustaining momentum",
-    "summary": "Tuesday’s plenary session at the 2026 ANS Winter Conference & Expo may have involved three different formats—introductory speeches, a panel discussion, and a fireside chat—but ultimately had one overarching theme: sustaining momentum. With technology, policy, and financing seemingly aligning within the nuclear energy industry, Tuesday’s speakers urged attendees to seize the moment and build on it, whether it was through small moments at the conference or larger efforts at their respective workplaces.",
+    "title": "Fusion Innovation Bootcamp: Addressing workforce needs with unique educational opportunities",
+    "summary": "Louise Ferris Yuqiao (Joy) Fan For decades, fusion energy has been primarily a scientific and engineering challenge, with much of the work focused on understanding plasma behavior, developing novel materials for extreme environments, and solving the technical questions that stand between a concept and a practical energy source. That challenge has not disappeared, but the field is in a state of flux thanks to recent breakthroughs, increased federal support, and growing private investment. We are at a turning point. As Oak Ridge National Laboratory’s Troy Carter wrote in a previous Nuclear News Leaders column, “over the past decade, fusion energy has moved decisively toward a credible pathway to a new energy technology” (NN, Feb. 2026, p. 10).",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-18/article-8588/winter-conference-headliners-sustaining-momentum/",
-    "timestamp": "2026-11-18T16:07:51Z",
+    "url": "https://www.ans.org/news/2026-11-19/article-8533/fusion-innovation-bootcamp-addressing-workforce-needs-with-unique-educational-opportunities/",
+    "timestamp": "2026-11-19T17:46:58Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-18/article-8588/winter-conference-headliners-sustaining-momentum/"
+      "https://www.ans.org/news/2026-11-19/article-8533/fusion-innovation-bootcamp-addressing-workforce-needs-with-unique-educational-opportunities/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,97 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-18T16:07:51Z",
-    "id": "energy-1b1e26e8f84c4898"
+    "data_as_of": "2026-11-19T17:46:58Z",
+    "id": "energy-38d35ab2c9b9d4cd"
+  },
+  {
+    "title": "City of Hot Springs receives more than $340,000 Entergy Arkansas energy efficiency incentives in 2026",
+    "summary": "The City of Hot Springs has received more than $340,000 in incentives this year through Entergy Arkansas’s Entergy Solutions CitySmart program, including $288,467.07 for energy efficiency improvements at the Davidson Wastewater Treatment Plant. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/news/city-of-hot-springs-receives-more-than-340000-entergy-arkansas-energy-efficiency-incentives-in-2026",
+    "timestamp": "2026-11-19T16:28:44Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/news/city-of-hot-springs-receives-more-than-340000-entergy-arkansas-energy-efficiency-incentives-in-2026"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-19T16:28:44Z",
+    "id": "energy-237295ee48b486b3"
+  },
+  {
+    "title": "IAEA, Grossi give updates on Ukraine, Iran, North Korea, nuclear power growth projections",
+    "summary": "Multiple updates have emerged from the International Atomic Energy Agency over the last several days, including the status of the Zaporizhzhia power plant in Ukraine and Director General Rafael Mariano Grossi’s address to the agency’s Board of Governors on Wednesday.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-19/article-8592/iaea-grossi-give-updates-on-ukraine-iran-north-korea-nuclear-power-growth-projections/",
+    "timestamp": "2026-11-19T15:32:32Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-19/article-8592/iaea-grossi-give-updates-on-ukraine-iran-north-korea-nuclear-power-growth-projections/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-19T15:32:32Z",
+    "id": "energy-813078f96dcd0677"
+  },
+  {
+    "title": "Norway Consortium Gets €1.8 Million Towards Development Of Nuclear Power For Maritime Industry",
+    "summary": "Norway is moving a step closer to testing nuclear propulsion for commercial ships, with a consortium including shipbuilder Vard and offshore service vessel operator Island Offshore securing NOK20m (€1.8m, $2m) in government funding to develop an integrated nuclear power system for the maritime industry. The marine nuclear propulsion system (MarNuPS) project, led by Emerald Nuclear Norway, aims to move the technology from engineering studies into full-scale testing, with a first vessel deployment targeted for 2031 or 2032.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/norway-consortium-gets-eur1-8-million-towards-development-of-nuclear-power-for-maritime-industry-11-4-2026",
+    "timestamp": "2026-11-19T15:02:33Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/norway-consortium-gets-eur1-8-million-towards-development-of-nuclear-power-for-maritime-industry-11-4-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-19T15:02:33Z",
+    "id": "energy-912581f01cb0ed6a"
+  },
+  {
+    "title": "Bangladesh’s Rooppur begins supplying nuclear electricity to grid",
+    "summary": "State-owned Power Grid Bangladesh, which is the South Asian nation’s only distributor of electric power, reported that Unit 1 of the Rooppur nuclear power plant fed electricity into the grid for the first time on Tuesday, November 17, with the initial output reaching 350 MW and lasting between 8 and 10 hours.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-19/article-8591/bangladeshs-rooppur-begins-supplying-nuclear-electricity-to-grid/",
+    "timestamp": "2026-11-19T13:44:02Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-19/article-8591/bangladeshs-rooppur-begins-supplying-nuclear-electricity-to-grid/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-19T13:44:02Z",
+    "id": "energy-18cdb85f40dc53e5"
   },
   {
     "title": "Sweden’s Skanska Completes Critical Demonstrator Project For Rolls-Royce SMR",
@@ -43,28 +132,6 @@
     "id": "energy-7c5c544d72feb2a1"
   },
   {
-    "title": "Crews complete demolition of ORNL’s Isotope Row",
-    "summary": "The Department of Energy’s Office of Environmental Management announced on November 10 that crews have demolished the 10 buildings that once made up Oak Ridge National Laboratory’s Isotope Row, completing the work approximately two months after demolition commenced.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-18/article-8583/crews-complete-demolition-of-ornls-isotope-row/",
-    "timestamp": "2026-11-18T13:16:47Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-18/article-8583/crews-complete-demolition-of-ornls-isotope-row/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-18T13:16:47Z",
-    "id": "energy-2a88c319c72b6624"
-  },
-  {
     "title": "IAEA Team Welcomes Ageing Management Improvements At Japan’s Mihama-3",
     "summary": "An International Atomic Energy Agency (IAEA) team has welcomed improvements in ageing management at the Mihama-3 nuclear plant in Japan, but said the operator should ensure the adequate coordination and oversight of key activities. The team, which reviewed the long-term operational safety of Mihama-3, said Kansai Electric Power Company (Kepco) should also ensure the adequate analysis and use of external operating experience from external organisations in the area of long-term operation and improve the analysis and management of data for ageing management.",
     "source": "NucNet: Global Nuclear News",
@@ -84,28 +151,6 @@
     ],
     "data_as_of": "2026-11-18T13:07:51Z",
     "id": "energy-e9a7eadc65b88cd9"
-  },
-  {
-    "title": "ANS names 2026 Presidential Citation, CEO Service Leadership Award recipients",
-    "summary": "ANS President Mark Peters recognized several Presidential Citation recipients on November 16 at the opening plenary of the 2026 ANS Winter Conference & Expo in Phoenix, Ariz. Presidential Citations are conferred twice each year, at the Annual and Winter Conferences of the American Nuclear Society, to honor individuals who have demonstrated outstanding effort for the benefit of ANS or the nuclear community at large.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-17/article-8587/ans-names-2026-presidential-citation-ceo-service-leadership-award-recipients/",
-    "timestamp": "2026-11-17T22:35:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-17/article-8587/ans-names-2026-presidential-citation-ceo-service-leadership-award-recipients/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-17T22:35:00Z",
-    "id": "energy-070d738b83a44403"
   },
   {
     "title": "Helping customers stay warm and save money this winter",
@@ -176,118 +221,5 @@
     ],
     "data_as_of": "2026-11-17T13:49:50Z",
     "id": "energy-85c490e47cbb299f"
-  },
-  {
-    "title": "France’s State Auditor Warns On Funding Problems For Six Planned EPR2 Nuclear Power Plants",
-    "summary": "French state utility and nuclear plant operator EDF could face difficulties funding the construction of six new generation nuclear reactors, a state auditor’s report said ​on 16 November. In a report on public support for energy (French only), the Cour des Comptes, France’s public audit body, said the utility faces heavy financial exposure across its long-term nuclear projects and could ​require substantial state backing if energy market revenues fail to ​cover building, maintenance and operating costs. It said EDF’s planned construction of ⁠six EPR2 reactors is budgeted at €72.8bn ($80.24bn) in 2020 values, ​which the court calculated at €84bn in 2025 values, with first ​commercial operation scheduled from 2038.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/france-s-state-auditor-warns-on-funding-problems-for-six-planned-epr2-nuclear-power-plants-11-2-2026",
-    "timestamp": "2026-11-17T09:05:33Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/france-s-state-auditor-warns-on-funding-problems-for-six-planned-epr2-nuclear-power-plants-11-2-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-17T09:05:33Z",
-    "id": "energy-d30813980906fb64"
-  },
-  {
-    "title": "Goldman Sachs Industrials and Materials Conference 2026",
-    "summary": "Goldman Sachs Industrials and Materials Conference 2026 Kim Leonard Mon, 11/16/2026 - 13:36 Scott Strazik will participate in a fireside chat. Date Thu, 12/03/2026 - 08:00 - Thu, 12/03/2026 - 08:35 Webcast Link Watch the event Event Occured No Dark theme Off Show on Masthead On Past event description Scott Strazik participated in a fireside chat. show Event Panel Off",
-    "source": "GE Vernova | The Energy of Change",
-    "url": "https://www.gevernova.com/investors/events/goldman-sachs-industrials-and-materials-conference-2026",
-    "timestamp": "2026-11-16T18:36:17Z",
-    "topic": "Energy",
-    "category": "Company News",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.gevernova.com/investors/events/goldman-sachs-industrials-and-materials-conference-2026"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "GE Vernova",
-      "GE-Hitachi",
-      "GE"
-    ],
-    "tickers": [
-      "GEV"
-    ],
-    "data_as_of": "2026-11-16T18:36:17Z",
-    "id": "energy-14e18ff5e8735244"
-  },
-  {
-    "title": "Fall 2026 update on regional transmission investment now available; 4 projects under construction in New England",
-    "summary": "No upgrades have been placed into service since June, according to the latest update to the Regional System Plan Project List. The post Fall 2026 update on regional transmission investment now available; 4 projects under construction in New England appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/16/fall-2026-update-on-regional-transmission-investment-now-available-4-projects-under-construction-in-new-england/",
-    "timestamp": "2026-11-16T18:30:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/16/fall-2026-update-on-regional-transmission-investment-now-available-4-projects-under-construction-in-new-england/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-16T18:30:00Z",
-    "id": "energy-4e25a3be0f6c83b4"
-  },
-  {
-    "title": "Landowner and Community Communications to the PJM Board Concerning RTEP Projects",
-    "summary": "Updated Date: 11.16.2026",
-    "source": "PJM Public Disclosures",
-    "url": "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261112-landowner-and-community-communications-to-the-pjm-board-concerning-rtep-projects.pdf",
-    "timestamp": "2026-11-16T17:53:00Z",
-    "topic": "Energy",
-    "category": "RTOs / ISOs",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.pjm.com/-/media/DotCom/about-pjm/who-we-are/public-disclosures/2026/20261112-landowner-and-community-communications-to-the-pjm-board-concerning-rtep-projects.pdf"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "PJM Interconnection",
-      "PJM"
-    ],
-    "data_as_of": "2026-11-16T17:53:00Z",
-    "id": "energy-97156c7f30fce4e6"
-  },
-  {
-    "title": "New England expected to have sufficient electricity supplies this winter",
-    "summary": "ISO-NE closely monitors weather patterns that can drive higher energy demand and affect power system operations. The post New England expected to have sufficient electricity supplies this winter appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/16/new-england-expected-to-have-sufficient-electricity-supplies-this-winter-2/",
-    "timestamp": "2026-11-16T14:00:00Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/16/new-england-expected-to-have-sufficient-electricity-supplies-this-winter-2/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-16T14:00:00Z",
-    "id": "energy-980b5f113ad77b80"
   }
 ]
