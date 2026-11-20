@@ -1,16 +1,16 @@
 [
   {
-    "title": "Fusion Innovation Bootcamp: Addressing workforce needs with unique educational opportunities",
-    "summary": "Louise Ferris Yuqiao (Joy) Fan For decades, fusion energy has been primarily a scientific and engineering challenge, with much of the work focused on understanding plasma behavior, developing novel materials for extreme environments, and solving the technical questions that stand between a concept and a practical energy source. That challenge has not disappeared, but the field is in a state of flux thanks to recent breakthroughs, increased federal support, and growing private investment. We are at a turning point. As Oak Ridge National Laboratory’s Troy Carter wrote in a previous Nuclear News Leaders column, “over the past decade, fusion energy has moved decisively toward a credible pathway to a new energy technology” (NN, Feb. 2026, p. 10).",
+    "title": "Comments close soon on PRM for fuel reprocessing plants",
+    "summary": "Members of the public have until 11:59 p.m. (EST) on Monday, November 23, to submit comments to the Nuclear Regulatory Commission regarding a petition for rulemaking (PRM) that proposes changes to the way irradiated fuel reprocessing plants are regulated. If the updates that the petition suggests are accepted, fuel reprocessing facilities that handle quantities of strategic special nuclear material (SSNM) large enough to support commercial production would be required to follow the same material control and accounting (MC&A) requirements as other nuclear fuel facilities not covered by an exception. The effect would be a tightening of the regulations that govern reprocessing plants, compared with those currently in effect.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-19/article-8533/fusion-innovation-bootcamp-addressing-workforce-needs-with-unique-educational-opportunities/",
-    "timestamp": "2026-11-19T17:46:58Z",
+    "url": "https://www.ans.org/news/2026-11-20/article-8596/comments-close-soon-on-prm-for-fuel-reprocessing-plants/",
+    "timestamp": "2026-11-20T18:10:53Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-19/article-8533/fusion-innovation-bootcamp-addressing-workforce-needs-with-unique-educational-opportunities/"
+      "https://www.ans.org/news/2026-11-20/article-8596/comments-close-soon-on-prm-for-fuel-reprocessing-plants/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,65 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-19T17:46:58Z",
-    "id": "energy-38d35ab2c9b9d4cd"
+    "data_as_of": "2026-11-20T18:10:53Z",
+    "id": "energy-384f72a4cb1aa1dc"
   },
   {
-    "title": "City of Hot Springs receives more than $340,000 Entergy Arkansas energy efficiency incentives in 2026",
-    "summary": "The City of Hot Springs has received more than $340,000 in incentives this year through Entergy Arkansas’s Entergy Solutions CitySmart program, including $288,467.07 for energy efficiency improvements at the Davidson Wastewater Treatment Plant. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/city-of-hot-springs-receives-more-than-340000-entergy-arkansas-energy-efficiency-incentives-in-2026",
-    "timestamp": "2026-11-19T16:28:44Z",
+    "title": "New York’s 5-GW nuclear master plan",
+    "summary": "On November 18, New York Gov. Kathy Hochul introduced the state’s Master Plan for Responsible Advanced Nuclear Development in New York, a long-term layout of how the state and its interested stakeholders can add 5 GW of new nuclear capacity. The plan—supported by a dozen studies and more than 1,000 pages of research—came out just in time for the state’s third Advanced Nuclear NY Summit, held in Rochester on Wednesday. Its release fits the timeline announced earlier this year.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-20/article-8595/new-yorks-5gw-nuclear-master-plan/",
+    "timestamp": "2026-11-20T15:29:15Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/news/city-of-hot-springs-receives-more-than-340000-entergy-arkansas-energy-efficiency-incentives-in-2026"
+      "https://www.ans.org/news/2026-11-20/article-8595/new-yorks-5gw-nuclear-master-plan/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-20T15:29:15Z",
+    "id": "energy-133b47982769300c"
+  },
+  {
+    "title": "Training materials address out-of-market support for capacity resources",
+    "summary": "A video and quick-reference guide address how out-of-market support is relevant to buyer-side market power evaluations. The post Training materials address out-of-market support for capacity resources appeared first on ISO Newswire.",
+    "source": "ISO Newswire",
+    "url": "https://isonewswire.com/2026/11/20/training-materials-address-out-of-market-support-for-capacity-resources/",
+    "timestamp": "2026-11-20T14:51:34Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://isonewswire.com/2026/11/20/training-materials-address-out-of-market-support-for-capacity-resources/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "ISO New England",
+      "ISO-NE"
+    ],
+    "data_as_of": "2026-11-20T14:51:34Z",
+    "id": "energy-bda9d3506dfef1c1"
+  },
+  {
+    "title": "Building brighter futures one school welcome at a time",
+    "summary": "For the third year, Entergy Arkansas employees started the school year with high fives, smiles and a warm welcome for students across the state. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/building-brighter-futures-one-school-welcome-at-a-time",
+    "timestamp": "2026-11-20T14:27:42Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/building-brighter-futures-one-school-welcome-at-a-time"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -42,21 +86,21 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-11-19T16:28:44Z",
-    "id": "energy-237295ee48b486b3"
+    "data_as_of": "2026-11-20T14:27:42Z",
+    "id": "energy-a670994fad6bf5a3"
   },
   {
-    "title": "IAEA, Grossi give updates on Ukraine, Iran, North Korea, nuclear power growth projections",
-    "summary": "Multiple updates have emerged from the International Atomic Energy Agency over the last several days, including the status of the Zaporizhzhia power plant in Ukraine and Director General Rafael Mariano Grossi’s address to the agency’s Board of Governors on Wednesday.",
+    "title": "ANS panel discusses fusion optimism and reality",
+    "summary": "At the 2026 ANS Winter Conference & Expo in Phoenix, Ariz., earlier this week, panelists in the session “Fusion: The Hype vs. the Hope” discussed the current state of commercial fusion; public perception; community priorities; and the roles of national laboratories, industry, and universities. The panel featured Laura Berzak Hopkins, deputy director for research and the chief research officer at Princeton Plasma Physics Laboratory; Tomas Diaz de la Rubia, senior vice president for research and partnerships at the University of Arizona; and Benj Conway, president and cofounder of Zap Energy. It was moderated by Tammy Ma, director of the Livermore Institute for Fusion Technology at Lawrence Livermore National Laboratory.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-19/article-8592/iaea-grossi-give-updates-on-ukraine-iran-north-korea-nuclear-power-growth-projections/",
-    "timestamp": "2026-11-19T15:32:32Z",
+    "url": "https://www.ans.org/news/2026-11-20/article-8594/ans-panel-discusses-fusion-optimism-and-reality/",
+    "timestamp": "2026-11-20T13:32:55Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-19/article-8592/iaea-grossi-give-updates-on-ukraine-iran-north-korea-nuclear-power-growth-projections/"
+      "https://www.ans.org/news/2026-11-20/article-8594/ans-panel-discusses-fusion-optimism-and-reality/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -64,8 +108,77 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-19T15:32:32Z",
-    "id": "energy-813078f96dcd0677"
+    "data_as_of": "2026-11-20T13:32:55Z",
+    "id": "energy-b70a8c1c6f0a29e4"
+  },
+  {
+    "title": "Bechtel Says Poland Agreement ‘Opens New Chapter’ In Nuclear Cooperation",
+    "summary": "Bechtel, Gdańsk University of Technology and the University of South Carolina, have signed a memorandum of cooperation that “opens a new chapter” in nuclear energy cooperation between the academic communities of Poland and the US. Bechtel, a key partner in the construction of Poland’s first nuclear power plant, which will be built at the Lubiatowo-Kopalino site in the Pomerania region in the north of the country, said the agreement builds on its existing partnership with the University of South Carolina’s Molinaroli College of Engineering and Computing, announced in October 2026, which established a fund to support nuclear education and workforce development.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/bechtel-says-poland-agreement-opens-new-chapter-in-nuclear-cooperation-11-5-2026",
+    "timestamp": "2026-11-20T08:56:12Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/bechtel-says-poland-agreement-opens-new-chapter-in-nuclear-cooperation-11-5-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-20T08:56:12Z",
+    "id": "energy-edcf789f5e910ffd"
+  },
+  {
+    "title": "Entergy Mississippi helps advance Museum Trail with Capitol Green Connector milestone",
+    "summary": "Entergy Mississippi helped advance the Museum Trail with the completion of the Capitol Green Connector, supported by company grants and employee volunteers. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-mississippi-helps-advance-museum-trail-with-capitol-green-connector-milestone",
+    "timestamp": "2026-11-19T19:31:58Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-mississippi-helps-advance-museum-trail-with-capitol-green-connector-milestone"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-19T19:31:58Z",
+    "id": "energy-0f4f70c911001f9b"
+  },
+  {
+    "title": "Entergy and NOABJ honor journalism trailblazers and support emerging storytellers",
+    "summary": "Entergy proudly served as presenting sponsor of the New Orleans Association of Black Journalists’ 4th Annual Jazz Brunch and Silent Auction, reinforcing our commitment to education and community investment. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/entergy-and-noabj-honor-journalism-trailblazers-and-support-emerging-storytellers",
+    "timestamp": "2026-11-19T19:05:29Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/entergy-and-noabj-honor-journalism-trailblazers-and-support-emerging-storytellers"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-19T19:05:29Z",
+    "id": "energy-319691f096a868a8"
   },
   {
     "title": "Norway Consortium Gets €1.8 Million Towards Development Of Nuclear Power For Maritime Industry",
@@ -89,28 +202,6 @@
     "id": "energy-912581f01cb0ed6a"
   },
   {
-    "title": "Bangladesh’s Rooppur begins supplying nuclear electricity to grid",
-    "summary": "State-owned Power Grid Bangladesh, which is the South Asian nation’s only distributor of electric power, reported that Unit 1 of the Rooppur nuclear power plant fed electricity into the grid for the first time on Tuesday, November 17, with the initial output reaching 350 MW and lasting between 8 and 10 hours.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-19/article-8591/bangladeshs-rooppur-begins-supplying-nuclear-electricity-to-grid/",
-    "timestamp": "2026-11-19T13:44:02Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-19/article-8591/bangladeshs-rooppur-begins-supplying-nuclear-electricity-to-grid/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-19T13:44:02Z",
-    "id": "energy-18cdb85f40dc53e5"
-  },
-  {
     "title": "Sweden’s Skanska Completes Critical Demonstrator Project For Rolls-Royce SMR",
     "summary": "Swedish construction company Skanska has successfully completed an aseismic bearing pedestal demonstrator for Rolls-Royce SMR, marking an important milestone in the development of the British company’s factory-built small modular reactor (SMR) nuclear power plant. The demonstrator, constructed and trialled at Skanska’s Bentley Works facility in Doncaster, northern England, has proven the approach to producing the first-of-its-kind precast bearing pedestal offsite, Skanska said.",
     "source": "NucNet: Global Nuclear News",
@@ -130,96 +221,5 @@
     ],
     "data_as_of": "2026-11-18T14:41:24Z",
     "id": "energy-7c5c544d72feb2a1"
-  },
-  {
-    "title": "IAEA Team Welcomes Ageing Management Improvements At Japan’s Mihama-3",
-    "summary": "An International Atomic Energy Agency (IAEA) team has welcomed improvements in ageing management at the Mihama-3 nuclear plant in Japan, but said the operator should ensure the adequate coordination and oversight of key activities. The team, which reviewed the long-term operational safety of Mihama-3, said Kansai Electric Power Company (Kepco) should also ensure the adequate analysis and use of external operating experience from external organisations in the area of long-term operation and improve the analysis and management of data for ageing management.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/iaea-team-welcomes-ageing-management-improvements-at-japan-s-mihama-3-11-3-2026",
-    "timestamp": "2026-11-18T13:07:51Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/iaea-team-welcomes-ageing-management-improvements-at-japan-s-mihama-3-11-3-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-18T13:07:51Z",
-    "id": "energy-e9a7eadc65b88cd9"
-  },
-  {
-    "title": "Helping customers stay warm and save money this winter",
-    "summary": "As winter approaches and temperatures begin dropping, you may begin using your heating system more and this could lead to an increase in electricity usage. However, staying warm and comfortable does not have to come at the cost of high electric bills. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/helping-customers-stay-warm-and-save-money-this-winter",
-    "timestamp": "2026-11-17T22:09:46Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/helping-customers-stay-warm-and-save-money-this-winter"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-17T22:09:46Z",
-    "id": "energy-102db274c1a1facc"
-  },
-  {
-    "title": "EIF at 25: Entergy funding supports Arkansas conservation education",
-    "summary": "Quiz bowls, wild-game cooking and outdoor skills challenges were among the events that drew more than a thousand K-12 students to the inaugural Arkansas Game and Fish Commission’s Generation Conservation Summit in Hot Springs, Arkansas. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/eif-at-25-entergy-funding-supports-arkansas-conservation-education",
-    "timestamp": "2026-11-17T16:28:12Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/eif-at-25-entergy-funding-supports-arkansas-conservation-education"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-17T16:28:12Z",
-    "id": "energy-f9f54b13cae89508"
-  },
-  {
-    "title": "ISO-NE implements ambient air-based ratings for transmission lines",
-    "summary": "High-voltage transmission lines lose efficiency the hotter they get. The post ISO-NE implements ambient air-based ratings for transmission lines appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/17/iso-ne-implements-ambient-air-based-ratings-for-transmission-lines/",
-    "timestamp": "2026-11-17T13:49:50Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/17/iso-ne-implements-ambient-air-based-ratings-for-transmission-lines/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-17T13:49:50Z",
-    "id": "energy-85c490e47cbb299f"
   }
 ]
