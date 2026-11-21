@@ -1,219 +1,259 @@
 [
   {
-    "title": "Sega Officially Reveals Huge Black Friday Sale",
-    "summary": "Sega just revealed its Black Friday 2026 sale, which includes Persona, Yakuza, Sonic the Hedgehog, and more.",
+    "title": "How to use auto drive in GTA 6",
+    "summary": "GTA 6's auto drive feature lets you enjoy the sights and sounds of Vice City without driving manually. Here's how to use auto drive in GTA 6.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/sega-black-friday-sale-sonic-persona-yakuza/",
-    "timestamp": "2026-11-20T18:10:50Z",
+    "url": "https://www.polygon.com/gta-6-auto-drive-how-to/",
+    "timestamp": "2026-11-21T16:53:58Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/sega-black-friday-sale-sonic-persona-yakuza/"
+      "https://www.polygon.com/gta-6-auto-drive-how-to/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T18:10:50Z",
-    "id": "energy-bebcde66ae7e7b60"
+    "data_as_of": "2026-11-21T16:53:58Z",
+    "id": "energy-1384777c7c2d6d05"
   },
   {
-    "title": "Someone Discovered How To Glitch Into First-Person Mode In GTA 6",
-    "summary": "There's no official first-person option yet, but one could be added in a future update",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/someone-discovered-how-to-glitch-into-first-person-mode-in-gta-6-2000758931",
-    "timestamp": "2026-11-20T18:02:54Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/someone-discovered-how-to-glitch-into-first-person-mode-in-gta-6-2000758931"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-20T18:02:54Z",
-    "id": "energy-6f794ee478b6fd40"
-  },
-  {
-    "title": "Fortune and Cursed treasure hours schedule in the Fortnite Chapter 7 mini season",
-    "summary": "Here's what time you can expect the next batch of Fortnite treasure hours, as well as what bonuses are coming with them.",
+    "title": "Apple TV’s New 8-Part Crime Thriller Is Already a No. 1 Streaming Hit",
+    "summary": "Apple TV’s 12 12 12 follows a bank robbery across three timelines and has quickly become a streaming sensation.",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/fornite-treasure-hours-chapter-7-mini-season-c7ms/",
-    "timestamp": "2026-11-20T17:45:09Z",
+    "url": "https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/",
+    "timestamp": "2026-11-21T16:32:03Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/fornite-treasure-hours-chapter-7-mini-season-c7ms/"
+      "https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T17:45:09Z",
-    "id": "energy-5c073b5c1052c699"
+    "data_as_of": "2026-11-21T16:32:03Z",
+    "id": "energy-f3c8aa01a54df0d6"
   },
   {
-    "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+    "title": "Darkest Dungeon 2 DLC's New Mode Is Very Different From The Base Game",
+    "summary": "The Butcher's Asylum features a new narrator and drastically shakes up the roguelike's structure",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/",
+    "timestamp": "2026-11-21T16:31:42Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-21T16:31:42Z",
+    "id": "energy-432549418dc46807"
+  },
+  {
+    "title": "Show HN: Zero C#, Power of C# without any GC",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-    "timestamp": "2026-11-20T17:44:01Z",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "timestamp": "2026-11-21T15:39:09Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
+      "https://onurgumus.github.io/zero-csharp/index.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T17:44:01Z",
-    "id": "energy-452a52f9381e796d"
+    "data_as_of": "2026-11-21T15:39:09Z",
+    "id": "energy-e4d856c83d65f4c6"
   },
   {
-    "title": "There’s An Infinite Money Glitch In GTA 6, But Many Players Are Refusing To Use It And It Might Be A Waste Of Time Anyway",
-    "summary": "Getting your money for nothing and your chicks for free does not make for great game design",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/gta-6-infinite-money-glitch-how-to-rockstar-games-ps5-2000758907",
-    "timestamp": "2026-11-20T17:30:07Z",
-    "topic": "Gaming",
+    "title": "Rocksolid Audio releases Vintage Pre, a FREE valve preamp plugin",
+    "summary": "Rocksolid Audio has released Vintage Pre, a free 1950s-style valve preamp plugin for Windows and macOS. Vintage Pre simulates the coloration of an old console channel, and you get two main controls for pushing its virtual transformers and valves. It works well for gentle saturation, but you can also turn up the drive for more [...] View post: Rocksolid Audio releases Vintage Pre, a FREE valve preamp plugin",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/",
+    "timestamp": "2026-11-21T15:23:18Z",
+    "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/gta-6-infinite-money-glitch-how-to-rockstar-games-ps5-2000758907"
+      "https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T17:30:07Z",
-    "id": "energy-b02d64e4194ad62e"
+    "data_as_of": "2026-11-21T15:23:18Z",
+    "id": "energy-7c4feca38a988ca5"
   },
   {
-    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "title": "sonible releases pure:smooth resonance suppressor at €25 intro price",
+    "summary": "sonible has released pure:smooth, an intelligent resonance suppression plugin for macOS and Windows, with an introductory price of €25 instead of €39. The introductory offer runs until December 14, 2026. The plugin also joins the pure:bundle, bringing the collection to eight processors, with the bundle currently priced at €99 instead of €179. pure:smooth automatically identifies [...] View post: sonible releases pure:smooth resonance suppressor at €25 intro price",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/21/sonible-pure-smooth/",
+    "timestamp": "2026-11-21T15:12:17Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/21/sonible-pure-smooth/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-21T15:12:17Z",
+    "id": "energy-7efdef982da0a233"
+  },
+  {
+    "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-    "timestamp": "2026-11-20T17:21:36Z",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "timestamp": "2026-11-21T14:36:45Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+      "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T17:21:36Z",
-    "id": "energy-67665ef1f8b9e633"
+    "data_as_of": "2026-11-21T14:36:45Z",
+    "id": "energy-adf5506d86a5c6fa"
   },
   {
-    "title": "GTA 6's Autosave Is Ruining The Game, But Not For The Reason You Think",
-    "summary": "GTA 6 fans say they're losing many hours of progress during their adventures with Jason and Lucia, but the issue is deeper than lost time",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-auto-save-does-it-why-cant-i-mission-checkpoint-gameplay/",
-    "timestamp": "2026-11-20T17:19:57Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/gta-6-auto-save-does-it-why-cant-i-mission-checkpoint-gameplay/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-20T17:19:57Z",
-    "id": "energy-1667bc12ecfa2e59"
-  },
-  {
-    "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+    "title": "Derek Lowe: Detonating a Pile of Lead Azide",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
-    "timestamp": "2026-11-20T17:14:03Z",
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "timestamp": "2026-11-21T13:23:14Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md"
+      "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T17:14:03Z",
-    "id": "energy-71644f7c80d7dfde"
+    "data_as_of": "2026-11-21T13:23:14Z",
+    "id": "energy-bc397bff749747a0"
   },
   {
-    "title": "Can Jason And Lucia Actually Get Naked In Grand Theft Auto 6?",
-    "summary": "Early leaks showed Jason rocking out with his hog out, but can you actually do that in the final game?",
+    "title": "These Are The 11 Best Romances BioWare Ever Made",
+    "summary": "BioWare set the standard for having some of the best lovers in video games",
     "source": "Kotaku",
-    "url": "https://kotaku.com/grand-theft-auto-6-naked-nudity-jason-lucia-sex-scenes-shower-2000758866",
-    "timestamp": "2026-11-20T17:00:11Z",
+    "url": "https://kotaku.com/bioware-best-11-romance-dragon-age-mass-effect-garrus-2000758976",
+    "timestamp": "2026-11-21T13:00:31Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/grand-theft-auto-6-naked-nudity-jason-lucia-sex-scenes-shower-2000758866"
+      "https://kotaku.com/bioware-best-11-romance-dragon-age-mass-effect-garrus-2000758976"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T17:00:11Z",
-    "id": "energy-5277553e73e55f28"
+    "data_as_of": "2026-11-21T13:00:31Z",
+    "id": "energy-5e855221f28b13ee"
   },
   {
-    "title": "Plugin Boutique adds Roland JUNO-60 Chorus and UAD Cooper Time Cube to its FREE gifts",
-    "summary": "Plugin Boutique has expanded its November gifts with Roland JUNO-60 Chorus and UAD Cooper Time Cube Delay, both free with qualifying purchases. Since our previous Plugin Boutique freebies roundup, JUNO-60 Chorus has joined the options available with any paid purchase. Cooper Time Cube requires a minimum spend of $49, €49, or £49. JUNO-60 Chorus recreates [...] View post: Plugin Boutique adds Roland JUNO-60 Chorus and UAD Cooper Time Cube to its FREE gifts",
+    "title": "Never Found Audio releases VF-Mini, a FREE reverse riser plugin for vocals",
+    "summary": "The latest release from the developer Never Found Audio is the VF-Mini, a free reverse riser plugin for vocals. Like Never Found Audio’s previous Mini series FX plugins, VF-Mini is the free version of a paid product: VF-Pro. While the Pro version offers 21 vocal effects across five categories, including Risers, Stutters, Throws, Tape Stop/Start, [...] View post: Never Found Audio releases VF-Mini, a FREE reverse riser plugin for vocals",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/",
-    "timestamp": "2026-11-20T16:31:10Z",
+    "url": "https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/",
+    "timestamp": "2026-11-21T11:27:50Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/20/plugin-boutique-juno-60-chorus/"
+      "https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T16:31:10Z",
-    "id": "energy-6c9525c7abe15f9d"
+    "data_as_of": "2026-11-21T11:27:50Z",
+    "id": "energy-da4f380cd75bf8f5"
   },
   {
-    "title": "Sonarworks Black Friday sale offers up to 60% off SoundID Reference, Virtual Monitoring, and VoiceAI",
-    "summary": "Sonarworks is offering up to 60% off its calibration, virtual monitoring, and voice-processing software in its Black Friday sale. The Sonarworks Black Friday offers run until November 30, 2026, at 11:59 PM Pacific Time. SoundID Reference for Headphones is back at $49, down from $99, following the headphone calibration deal we covered in March. Select [...] View post: Sonarworks Black Friday sale offers up to 60% off SoundID Reference, Virtual Monitoring, and VoiceAI",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/20/sonarworks-black-friday-sale/",
-    "timestamp": "2026-11-20T16:24:01Z",
-    "topic": "Music Production",
+    "title": "Permitting Reform’s $199 Billion Wind and Solar Subsidy Blowout",
+    "summary": "BAAJA blasting a giant hole in the budget",
+    "source": "Energy Bad Boys",
+    "url": "https://energybadboys.substack.com/p/permitting-reforms-199-billion-subsidy",
+    "timestamp": "2026-11-21T10:02:00Z",
+    "topic": "Energy",
+    "category": "Grid Impacts",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://energybadboys.substack.com/p/permitting-reforms-199-billion-subsidy"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-11-21T10:02:00Z",
+    "id": "energy-4edbb5dccd785462"
+  },
+  {
+    "title": "Here Are Some Super Useful Control Shortcuts GTA 6 Doesn’t Tell You About",
+    "summary": "Did you know you can turn your radio on and off without using a submenu?",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/here-are-some-super-useful-control-shortcuts-gta-6-doesnt-tell-you-about-2000759100",
+    "timestamp": "2026-11-21T00:30:14Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/20/sonarworks-black-friday-sale/"
+      "https://kotaku.com/here-are-some-super-useful-control-shortcuts-gta-6-doesnt-tell-you-about-2000759100"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T16:24:01Z",
-    "id": "energy-90e7b58b5ecb8eab"
+    "data_as_of": "2026-11-21T00:30:14Z",
+    "id": "energy-ec1a2b102d08dbf0"
   },
   {
-    "title": "AudioKit releases Super 909, a FREE drum machine for iOS and macOS",
-    "summary": "AudioKit Pro has released Super 909, a free TR-909-inspired drum machine for iPhone, iPad, and Mac, available as a standalone app and AUv3 plugin. The developer previously gave us Synth One J6, a free iOS synth. This time, they switched focus to legendary synthesized drums from Roland, with a step sequencer, playable pads, and tools [...] View post: AudioKit releases Super 909, a FREE drum machine for iOS and macOS",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/20/audiokit-super-909/",
-    "timestamp": "2026-11-20T16:17:25Z",
-    "topic": "Music Production",
+    "title": "So Is The $100 GTA 6 Ultimate Edition Actually Worth It?",
+    "summary": "It really comes down to how many extra shirts, tattoo designs, and car options you want",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998",
+    "timestamp": "2026-11-21T00:00:19Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/20/audiokit-super-909/"
+      "https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-20T16:17:25Z",
-    "id": "energy-3bd621d52c39fcd3"
+    "data_as_of": "2026-11-21T00:00:19Z",
+    "id": "energy-a7671522d6350337"
+  },
+  {
+    "title": "UFC fighter Fiorot banned for 3 months for violating anti-doping policy",
+    "summary": "UFC fighter Manon Fiorot of France has been banned for three months for violating its anti-doping policy, the mixed martial arts competition said.",
+    "source": "www.espn.com - MMA",
+    "url": "https://www.espn.com/mma/story/_/id/50540039/ufc-fighter-manon-fiorot-banned-3-months-doping",
+    "timestamp": "2026-11-20T12:13:10Z",
+    "topic": "UFC",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.espn.com/mma/story/_/id/50540039/ufc-fighter-manon-fiorot-banned-3-months-doping"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "UFC",
+      "MMA"
+    ],
+    "data_as_of": "2026-11-20T12:13:10Z",
+    "id": "energy-5bca3a677047938d"
   },
   {
     "title": "Can a developer turn data centers’ reputation around?",
@@ -286,6 +326,28 @@
     "primary_source": true,
     "data_as_of": "2026-11-20T05:00:00Z",
     "id": "energy-49a5c56344767ff4"
+  },
+  {
+    "title": "Senate passes its own version after House advances boxing-reform act",
+    "summary": "Questions and answers about the reform bill and its impact on the sport.",
+    "source": "www.espn.com - MMA",
+    "url": "https://www.espn.com/boxing/story/_/id/48298613/boxing-reforms-congress-dana-white",
+    "timestamp": "2026-11-19T23:11:23Z",
+    "topic": "UFC",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.espn.com/boxing/story/_/id/48298613/boxing-reforms-congress-dana-white"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "UFC",
+      "MMA"
+    ],
+    "data_as_of": "2026-11-19T23:11:23Z",
+    "id": "energy-c0b7a6a222e5f5de"
   },
   {
     "title": "Utilities And MISO Ask FERC To Bind Data Centers To Grid Contracts Of 10 To 20 Years",
@@ -371,67 +433,5 @@
     ],
     "data_as_of": "2026-11-18T19:29:08Z",
     "id": "energy-91abba92ccf01761"
-  },
-  {
-    "title": "“Repowering” worn out solar fields could create gigawatts of new grid capacity, quickly",
-    "summary": "A conversation with Lisa Hansmann of Foundry-Logic.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/repowering-worn-out-solar-fields",
-    "timestamp": "2026-11-18T16:02:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.volts.wtf/p/repowering-worn-out-solar-fields"
-    ],
-    "source_tier": "opinion",
-    "primary_source": false,
-    "data_as_of": "2026-11-18T16:02:59Z",
-    "id": "energy-46e636b4e8fe0c7e"
-  },
-  {
-    "title": "MMA pound-for-pound rankings: Harrison, Nunes in a league of their own",
-    "summary": "Who do Kayla Harrison and Amanda Nunes replace in ESPN's P4P women's top 10?",
-    "source": "www.espn.com - MMA",
-    "url": "https://www.espn.com/mma/story/_/id/24067525/mma-pound-rankings-kayla-harrison-returns-top",
-    "timestamp": "2026-11-18T13:01:25Z",
-    "topic": "UFC",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.espn.com/mma/story/_/id/24067525/mma-pound-rankings-kayla-harrison-returns-top"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "UFC",
-      "MMA"
-    ],
-    "data_as_of": "2026-11-18T13:01:25Z",
-    "id": "energy-b3645bc92a8711c9"
-  },
-  {
-    "title": "MMA divisional rankings: Kayla Harrison is back and in top form",
-    "summary": "Here's a look at every weight class to determine the best of the best in UFC, PFL and beyond.",
-    "source": "www.espn.com - MMA",
-    "url": "https://www.espn.com/mma/story/_/id/21807736/mma-divisional-rankings-ufc-pfl-weight-class",
-    "timestamp": "2026-11-18T13:01:25Z",
-    "topic": "UFC",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.espn.com/mma/story/_/id/21807736/mma-divisional-rankings-ufc-pfl-weight-class"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "UFC",
-      "MMA"
-    ],
-    "data_as_of": "2026-11-18T13:01:25Z",
-    "id": "energy-dcc418e8414fb47e"
   }
 ]

@@ -1,5 +1,49 @@
 [
   {
+    "title": "Building nuclear’s next-gen workforce",
+    "summary": "As the nuclear energy industry advances a new generation of more cost-effective, more efficient small reactors, another challenge is coming into sharper focus: Who will build, operate, and maintain them? The Department of Energy projects that the nuclear energy sector will need more than 375,000 skilled workers by 2050 to sustain existing nuclear power operations and support deployment of next-gen reactors. Meeting that demand will require a workforce pipeline that begins well before someone walks through the doors of a nuclear facility for the first time. The Nuclear Energy Academic Roadmap (NEAR) was created to address the critical need for a skilled nuclear energy workforce.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-20/article-8538/building-nuclears-nextgen-workforce/",
+    "timestamp": "2026-11-20T21:03:17Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-20/article-8538/building-nuclears-nextgen-workforce/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-20T21:03:17Z",
+    "id": "energy-1b544ac87b433924"
+  },
+  {
+    "title": "Pacific Fusion receives N.M. radioactive materials license",
+    "summary": "The New Mexico Environment Department (NMED) has approved Pacific Fusion’s radioactive materials license, allowing it to fabricate and test deuterium-tritium fusion targets and conduct experiments at a facility that is under construction in Albuquerque, N.M., the company announced. The license authorizes up to 15,000 curies (around 1.5 grams) of tritium, although the company said it “never intends to have an inventory that exceeds 10,000 curies.” The license also authorizes the use of materials needed to store tritium and support diagnostics and fusion operations.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-20/article-8599/pacific-fusion-receives-nm-radioactive-materials-license/",
+    "timestamp": "2026-11-20T19:39:57Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-20/article-8599/pacific-fusion-receives-nm-radioactive-materials-license/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-20T19:39:57Z",
+    "id": "energy-d6ddc1253e9c1774"
+  },
+  {
     "title": "Comments close soon on PRM for fuel reprocessing plants",
     "summary": "Members of the public have until 11:59 p.m. (EST) on Monday, November 23, to submit comments to the Nuclear Regulatory Commission regarding a petition for rulemaking (PRM) that proposes changes to the way irradiated fuel reprocessing plants are regulated. If the updates that the petition suggests are accepted, fuel reprocessing facilities that handle quantities of strategic special nuclear material (SSNM) large enough to support commercial production would be required to follow the same material control and accounting (MC&A) requirements as other nuclear fuel facilities not covered by an exception. The effect would be a tightening of the regulations that govern reprocessing plants, compared with those currently in effect.",
     "source": "ANS Newswire",
@@ -20,28 +64,6 @@
     ],
     "data_as_of": "2026-11-20T18:10:53Z",
     "id": "energy-384f72a4cb1aa1dc"
-  },
-  {
-    "title": "New York’s 5-GW nuclear master plan",
-    "summary": "On November 18, New York Gov. Kathy Hochul introduced the state’s Master Plan for Responsible Advanced Nuclear Development in New York, a long-term layout of how the state and its interested stakeholders can add 5 GW of new nuclear capacity. The plan—supported by a dozen studies and more than 1,000 pages of research—came out just in time for the state’s third Advanced Nuclear NY Summit, held in Rochester on Wednesday. Its release fits the timeline announced earlier this year.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-20/article-8595/new-yorks-5gw-nuclear-master-plan/",
-    "timestamp": "2026-11-20T15:29:15Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-20/article-8595/new-yorks-5gw-nuclear-master-plan/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-20T15:29:15Z",
-    "id": "energy-133b47982769300c"
   },
   {
     "title": "Training materials address out-of-market support for capacity resources",
@@ -88,28 +110,6 @@
     ],
     "data_as_of": "2026-11-20T14:27:42Z",
     "id": "energy-a670994fad6bf5a3"
-  },
-  {
-    "title": "ANS panel discusses fusion optimism and reality",
-    "summary": "At the 2026 ANS Winter Conference & Expo in Phoenix, Ariz., earlier this week, panelists in the session “Fusion: The Hype vs. the Hope” discussed the current state of commercial fusion; public perception; community priorities; and the roles of national laboratories, industry, and universities. The panel featured Laura Berzak Hopkins, deputy director for research and the chief research officer at Princeton Plasma Physics Laboratory; Tomas Diaz de la Rubia, senior vice president for research and partnerships at the University of Arizona; and Benj Conway, president and cofounder of Zap Energy. It was moderated by Tammy Ma, director of the Livermore Institute for Fusion Technology at Lawrence Livermore National Laboratory.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-20/article-8594/ans-panel-discusses-fusion-optimism-and-reality/",
-    "timestamp": "2026-11-20T13:32:55Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-20/article-8594/ans-panel-discusses-fusion-optimism-and-reality/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-20T13:32:55Z",
-    "id": "energy-b70a8c1c6f0a29e4"
   },
   {
     "title": "Bechtel Says Poland Agreement ‘Opens New Chapter’ In Nuclear Cooperation",
@@ -200,26 +200,5 @@
     ],
     "data_as_of": "2026-11-19T15:02:33Z",
     "id": "energy-912581f01cb0ed6a"
-  },
-  {
-    "title": "Sweden’s Skanska Completes Critical Demonstrator Project For Rolls-Royce SMR",
-    "summary": "Swedish construction company Skanska has successfully completed an aseismic bearing pedestal demonstrator for Rolls-Royce SMR, marking an important milestone in the development of the British company’s factory-built small modular reactor (SMR) nuclear power plant. The demonstrator, constructed and trialled at Skanska’s Bentley Works facility in Doncaster, northern England, has proven the approach to producing the first-of-its-kind precast bearing pedestal offsite, Skanska said.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/sweden-s-skanska-completes-critical-demonstrator-project-for-rolls-royce-smr-11-3-2026",
-    "timestamp": "2026-11-18T14:41:24Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/sweden-s-skanska-completes-critical-demonstrator-project-for-rolls-royce-smr-11-3-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-18T14:41:24Z",
-    "id": "energy-7c5c544d72feb2a1"
   }
 ]
