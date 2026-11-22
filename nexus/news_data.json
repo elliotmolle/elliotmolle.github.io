@@ -179,26 +179,5 @@
     ],
     "data_as_of": "2026-11-19T19:05:29Z",
     "id": "energy-319691f096a868a8"
-  },
-  {
-    "title": "Norway Consortium Gets €1.8 Million Towards Development Of Nuclear Power For Maritime Industry",
-    "summary": "Norway is moving a step closer to testing nuclear propulsion for commercial ships, with a consortium including shipbuilder Vard and offshore service vessel operator Island Offshore securing NOK20m (€1.8m, $2m) in government funding to develop an integrated nuclear power system for the maritime industry. The marine nuclear propulsion system (MarNuPS) project, led by Emerald Nuclear Norway, aims to move the technology from engineering studies into full-scale testing, with a first vessel deployment targeted for 2031 or 2032.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/norway-consortium-gets-eur1-8-million-towards-development-of-nuclear-power-for-maritime-industry-11-4-2026",
-    "timestamp": "2026-11-19T15:02:33Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/norway-consortium-gets-eur1-8-million-towards-development-of-nuclear-power-for-maritime-industry-11-4-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-19T15:02:33Z",
-    "id": "energy-912581f01cb0ed6a"
   }
 ]

@@ -1,183 +1,219 @@
 [
   {
-    "title": "How to use auto drive in GTA 6",
-    "summary": "GTA 6's auto drive feature lets you enjoy the sights and sounds of Vice City without driving manually. Here's how to use auto drive in GTA 6.",
+    "title": "Christopher Nolan's Mystery Thriller Masterpiece Is Officially Being Removed from Netflix",
+    "summary": "The director's 2001 breakthrough film established many of the techniques and themes he's used throughout his career",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-auto-drive-how-to/",
-    "timestamp": "2026-11-21T16:53:58Z",
+    "url": "https://www.polygon.com/memento-leaving-netflix-december-2026/",
+    "timestamp": "2026-11-22T17:23:18Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/gta-6-auto-drive-how-to/"
+      "https://www.polygon.com/memento-leaving-netflix-december-2026/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-21T16:53:58Z",
-    "id": "energy-1384777c7c2d6d05"
+    "data_as_of": "2026-11-22T17:23:18Z",
+    "id": "energy-45a599805ad709e7"
   },
   {
-    "title": "Apple TV’s New 8-Part Crime Thriller Is Already a No. 1 Streaming Hit",
-    "summary": "Apple TV’s 12 12 12 follows a bank robbery across three timelines and has quickly become a streaming sensation.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/",
-    "timestamp": "2026-11-21T16:32:03Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/anthony-mackie-12-12-12-apple-tv-streaming-success-november-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T16:32:03Z",
-    "id": "energy-f3c8aa01a54df0d6"
-  },
-  {
-    "title": "Darkest Dungeon 2 DLC's New Mode Is Very Different From The Base Game",
-    "summary": "The Butcher's Asylum features a new narrator and drastically shakes up the roguelike's structure",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/",
-    "timestamp": "2026-11-21T16:31:42Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T16:31:42Z",
-    "id": "energy-432549418dc46807"
-  },
-  {
-    "title": "Show HN: Zero C#, Power of C# without any GC",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://onurgumus.github.io/zero-csharp/index.html",
-    "timestamp": "2026-11-21T15:39:09Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://onurgumus.github.io/zero-csharp/index.html"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T15:39:09Z",
-    "id": "energy-e4d856c83d65f4c6"
-  },
-  {
-    "title": "Rocksolid Audio releases Vintage Pre, a FREE valve preamp plugin",
-    "summary": "Rocksolid Audio has released Vintage Pre, a free 1950s-style valve preamp plugin for Windows and macOS. Vintage Pre simulates the coloration of an old console channel, and you get two main controls for pushing its virtual transformers and valves. It works well for gentle saturation, but you can also turn up the drive for more [...] View post: Rocksolid Audio releases Vintage Pre, a FREE valve preamp plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/",
-    "timestamp": "2026-11-21T15:23:18Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/21/rocksolid-audio-vintage-pre/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T15:23:18Z",
-    "id": "energy-7c4feca38a988ca5"
-  },
-  {
-    "title": "sonible releases pure:smooth resonance suppressor at €25 intro price",
-    "summary": "sonible has released pure:smooth, an intelligent resonance suppression plugin for macOS and Windows, with an introductory price of €25 instead of €39. The introductory offer runs until December 14, 2026. The plugin also joins the pure:bundle, bringing the collection to eight processors, with the bundle currently priced at €99 instead of €179. pure:smooth automatically identifies [...] View post: sonible releases pure:smooth resonance suppressor at €25 intro price",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/21/sonible-pure-smooth/",
-    "timestamp": "2026-11-21T15:12:17Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/21/sonible-pure-smooth/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T15:12:17Z",
-    "id": "energy-7efdef982da0a233"
-  },
-  {
-    "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-    "timestamp": "2026-11-21T14:36:45Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T14:36:45Z",
-    "id": "energy-adf5506d86a5c6fa"
-  },
-  {
-    "title": "Derek Lowe: Detonating a Pile of Lead Azide",
-    "summary": "Comments",
-    "source": "Hacker News",
-    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-    "timestamp": "2026-11-21T13:23:14Z",
-    "topic": "Computer Science",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T13:23:14Z",
-    "id": "energy-bc397bff749747a0"
-  },
-  {
-    "title": "These Are The 11 Best Romances BioWare Ever Made",
-    "summary": "BioWare set the standard for having some of the best lovers in video games",
+    "title": "Creator Of Infamous E.T. Atari Game Warns That AI Could Trigger Another ’83-Style Crash",
+    "summary": "While the hastily made Spielberg tie-in is often blamed for the industry collapse of the 1980s, any crash in the 2020s would be unrelated to that same filmmaker's Artificial Intelligence",
     "source": "Kotaku",
-    "url": "https://kotaku.com/bioware-best-11-romance-dragon-age-mass-effect-garrus-2000758976",
-    "timestamp": "2026-11-21T13:00:31Z",
+    "url": "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257",
+    "timestamp": "2026-11-22T17:12:48Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/bioware-best-11-romance-dragon-age-mass-effect-garrus-2000758976"
+      "https://kotaku.com/creator-of-infamous-e-t-atari-game-warns-that-ai-could-trigger-another-83-style-crash-2000759257"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-21T13:00:31Z",
-    "id": "energy-5e855221f28b13ee"
+    "data_as_of": "2026-11-22T17:12:48Z",
+    "id": "energy-4d773a5fcbbf43ca"
   },
   {
-    "title": "Never Found Audio releases VF-Mini, a FREE reverse riser plugin for vocals",
-    "summary": "The latest release from the developer Never Found Audio is the VF-Mini, a free reverse riser plugin for vocals. Like Never Found Audio’s previous Mini series FX plugins, VF-Mini is the free version of a paid product: VF-Pro. While the Pro version offers 21 vocal effects across five categories, including Risers, Stutters, Throws, Tape Stop/Start, [...] View post: Never Found Audio releases VF-Mini, a FREE reverse riser plugin for vocals",
+    "title": "Perplexity and Intelligence",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "timestamp": "2026-11-22T17:06:27Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://openai.com/index/perplexity-and-intelligence/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-22T17:06:27Z",
+    "id": "energy-341e30d726d6a419"
+  },
+  {
+    "title": "Christopher Nolan's The Odyssey Built a 36-Foot Cyclops Puppet and Hauled It Up a Mountain",
+    "summary": "The Odyssey's effects team reveals how they built a 36-foot Cyclops puppet and hauled it up a mountain to film inside a cave in Greece.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/the-odyssey-cyclops-puppet-practical-effects/",
+    "timestamp": "2026-11-22T17:00:19Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/the-odyssey-cyclops-puppet-practical-effects/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-22T17:00:19Z",
+    "id": "energy-77c32022fe973e81"
+  },
+  {
+    "title": "Sunrise on the Reaping Makes Hunger Games A Box Office Blockbuster Franchise Again",
+    "summary": "Sunrise on the Reaping had a strong opening box office haul this weekend, re-establishing The Hunger Games as a box office giant.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/the-hunger-games-sunrise-on-the-reaping-box-office/",
+    "timestamp": "2026-11-22T16:49:49Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/the-hunger-games-sunrise-on-the-reaping-box-office/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-22T16:49:49Z",
+    "id": "energy-32247a56afb72f37"
+  },
+  {
+    "title": "Ask HN: Are the trades a safe career transition?",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50600771",
+    "timestamp": "2026-11-22T15:52:33Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://news.ycombinator.com/item?id=50600771"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-22T15:52:33Z",
+    "id": "energy-58901bc949ee4eeb"
+  },
+  {
+    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+    "summary": "Comments",
+    "source": "Hacker News",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+    "timestamp": "2026-11-22T15:42:40Z",
+    "topic": "Computer Science",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-22T15:42:40Z",
+    "id": "energy-55972d9113dd7545"
+  },
+  {
+    "title": "fedDSP offers KAMI compressor pedal plugin FREE until December 2",
+    "summary": "Developer fedDSP is offering KAMI, a compressor pedal plugin for macOS and Windows, free until December 2, 2026. The regular price is $39, but the launch offer gives you a perpetual license with free updates and three activations. It’s another one in a long tradition of fedDSP giveaways, including the Snapper compressor we covered in [...] View post: fedDSP offers KAMI compressor pedal plugin FREE until December 2",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/",
-    "timestamp": "2026-11-21T11:27:50Z",
+    "url": "https://bedroomproducersblog.com/2026/11/22/feddsp-kami-free/",
+    "timestamp": "2026-11-22T11:04:44Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/21/never-found-audio-vf-mini/"
+      "https://bedroomproducersblog.com/2026/11/22/feddsp-kami-free/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-21T11:27:50Z",
-    "id": "energy-da4f380cd75bf8f5"
+    "data_as_of": "2026-11-22T11:04:44Z",
+    "id": "energy-dbc5642c213ca8af"
+  },
+  {
+    "title": "MrMoustache offers FREE Mr.Warmer and up to 50% off its analog-style plugins for Black Friday",
+    "summary": "MrMoustache is offering 30% off its four paid mixing and mastering plugins for Black Friday, with a larger 50% discount available to newsletter subscribers until November 30. To get the bigger discount, to the newsletter on the developer’s website and confirm your email address. You’ll receive a personal code valid for up to four [...] View post: MrMoustache offers FREE Mr.Warmer and up to 50% off its analog-style plugins for Black Friday",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/22/mrmoustache-black-friday/",
+    "timestamp": "2026-11-22T10:58:53Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/22/mrmoustache-black-friday/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-22T10:58:53Z",
+    "id": "energy-97f39313eb89c83d"
+  },
+  {
+    "title": "Mercurial Tones releases Siren, a FREE pitch correction plugin with a note editor",
+    "summary": "Mercurial Tones offers Siren, a free vocal pitch correction plugin with automatic tuning and a graphical note editor. I find it hard to believe how many free autotune plugins are out there now compared to just two or three years ago. The options keep adding up, and this week we got two new ones. We [...] View post: Mercurial Tones releases Siren, a FREE pitch correction plugin with a note editor",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/",
+    "timestamp": "2026-11-22T10:49:30Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-22T10:49:30Z",
+    "id": "energy-6771362f08c2cfed"
+  },
+  {
+    "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
+    "summary": "A Vice City mode was using music made by AI",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+    "timestamp": "2026-11-22T00:18:14Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-22T00:18:14Z",
+    "id": "energy-eada222b790a2606"
+  },
+  {
+    "title": "Final Fantasy Toy Counterfeiting Ring Ends In $300,000 Bust Of Tifa Lockhart Statues",
+    "summary": "13 individuals have reportedly been arrested in connection to $300,000 worth of counterfeit Final Fantasy figurines",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/shanghai-police-bust-up-bootleg-tifa-lockhart-toy-operation-2000759206",
+    "timestamp": "2026-11-21T22:54:21Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/shanghai-police-bust-up-bootleg-tifa-lockhart-toy-operation-2000759206"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-21T22:54:21Z",
+    "id": "energy-dc9f0ab0598945ed"
   },
   {
     "title": "Permitting Reform’s $199 Billion Wind and Solar Subsidy Blowout",
@@ -198,40 +234,67 @@
     "id": "energy-4edbb5dccd785462"
   },
   {
-    "title": "Here Are Some Super Useful Control Shortcuts GTA 6 Doesn’t Tell You About",
-    "summary": "Did you know you can turn your radio on and off without using a submenu?",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/here-are-some-super-useful-control-shortcuts-gta-6-doesnt-tell-you-about-2000759100",
-    "timestamp": "2026-11-21T00:30:14Z",
-    "topic": "Gaming",
+    "title": "PJM IMM Knocks Potential Plan For MISO Internal Monitor",
+    "summary": "By Amanda Durish Cook PJM’s Independent Market Monitor pulled no punches in contending that a tentative proposal to establish an internal market monitor in MISO would be detrimental to its markets. Notable Quote “There is no way that a hybrid model can work. You don’t need two market monitors. There’s no division of labor needed. […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/pjm-imm-knocks-potential-plan-for-miso-internal-monitor/",
+    "timestamp": "2026-11-20T15:41:11Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/here-are-some-super-useful-control-shortcuts-gta-6-doesnt-tell-you-about-2000759100"
+      "https://misoxenwatch.com/2026/11/pjm-imm-knocks-potential-plan-for-miso-internal-monitor/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T00:30:14Z",
-    "id": "energy-ec1a2b102d08dbf0"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-20T15:41:11Z",
+    "id": "energy-2ee050b11c072cad"
   },
   {
-    "title": "So Is The $100 GTA 6 Ultimate Edition Actually Worth It?",
-    "summary": "It really comes down to how many extra shirts, tattoo designs, and car options you want",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998",
-    "timestamp": "2026-11-21T00:00:19Z",
-    "topic": "Gaming",
+    "title": "Five Grid Operators Respond To FERC With Distinct Plans For Large-Load Integration",
+    "summary": "By Sonal C. Patel Five U.S. regional grid operators have submitted sweeping tariff reforms to the Federal Energy Regulatory Commission (FERC) that could fundamentally change how data centers and other large electricity consumers connect to the transmission system, secure access to generating capacity, and pay for the necessary infrastructure. The proposals, filed Nov. 13 and […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/five-grid-operators-respond-to-ferc-with-distinct-plans-for-large-load-integration/",
+    "timestamp": "2026-11-20T15:40:31Z",
+    "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998"
+      "https://misoxenwatch.com/2026/11/five-grid-operators-respond-to-ferc-with-distinct-plans-for-large-load-integration/"
     ],
     "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-21T00:00:19Z",
-    "id": "energy-a7671522d6350337"
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-20T15:40:31Z",
+    "id": "energy-17b687a202b72887"
+  },
+  {
+    "title": "Five Grid Operators Send FERC Five Different Plans For Connecting Data Centers And Other Large Loads",
+    "summary": "By Staff Writer The five largest US grid operators outside Texas and the Southwest Power Pool have told federal regulators how they want to connect data centers and other giant electricity users, and their answers diverge on almost every design choice [1]. PJM, MISO, CAISO and NYISO filed on Nov. 16 and ISO New England […]",
+    "source": "MISO XenWatch",
+    "url": "https://misoxenwatch.com/2026/11/five-grid-operators-send-ferc-five-different-plans-for-connecting-data-centers-and-other-large-loads/",
+    "timestamp": "2026-11-20T15:39:26Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://misoxenwatch.com/2026/11/five-grid-operators-send-ferc-five-different-plans-for-connecting-data-centers-and-other-large-loads/"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "MISO"
+    ],
+    "data_as_of": "2026-11-20T15:39:26Z",
+    "id": "energy-9579f07cff3fb124"
   },
   {
     "title": "UFC fighter Fiorot banned for 3 months for violating anti-doping policy",
@@ -348,90 +411,5 @@
     ],
     "data_as_of": "2026-11-19T23:11:23Z",
     "id": "energy-c0b7a6a222e5f5de"
-  },
-  {
-    "title": "Utilities And MISO Ask FERC To Bind Data Centers To Grid Contracts Of 10 To 20 Years",
-    "summary": "By Staff Writer Key points PJM-region utilities propose a minimum 10-year commitment to pay at least 80% of requested transmission service, backed by collateral [1]. New York and California utilities propose 15 years, and MISO proposes a three-way contract of up to 20 years [1]. None of the contracts is final: FERC must accept them, […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/utilities-and-miso-ask-ferc-to-bind-data-centers-to-grid-contracts-of-10-to-20-years/",
-    "timestamp": "2026-11-19T15:50:44Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/utilities-and-miso-ask-ferc-to-bind-data-centers-to-grid-contracts-of-10-to-20-years/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-19T15:50:44Z",
-    "id": "energy-ef500a53813445b9"
-  },
-  {
-    "title": "See How Data Centers Became The Growth Engine Of America’s Power Grid",
-    "summary": "By Jennifer Hiller Backlash against data-center construction is raising questions about the future of America’s AI build-out. For the power grid, the picture isn’t as murky—data centers are by far the biggest growth engine. They are vacuuming up electricity at a historic clip, ending decades of static power usage and reshaping who is plugging into […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/see-how-data-centers-became-the-growth-engine-of-americas-power-grid/",
-    "timestamp": "2026-11-19T15:49:56Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/see-how-data-centers-became-the-growth-engine-of-americas-power-grid/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-19T15:49:56Z",
-    "id": "energy-cce7e19eb42941ee"
-  },
-  {
-    "title": "A Data Center Was Coming. The Town Had A Message: Stay Out.",
-    "summary": "By Jackie Snow The Appalachian Trail runs through East Fishkill, N.Y., a hilly, bucolic town where people keep to themselves. But this year, residents were activated. Big time. About a data center. And it poured out at a town board meeting, right after the Pledge of Allegiance. Amid mentions of the Boy Scouts, a fitness […]",
-    "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/a-data-center-was-coming-the-town-had-a-message-stay-out/",
-    "timestamp": "2026-11-19T15:49:08Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://misoxenwatch.com/2026/11/a-data-center-was-coming-the-town-had-a-message-stay-out/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "MISO"
-    ],
-    "data_as_of": "2026-11-19T15:49:08Z",
-    "id": "energy-10586e016fb2ae50"
-  },
-  {
-    "title": "UFC releases former strawweight title challenger Jandiroba",
-    "summary": "Virna Jandiroba, a former title challenger and the current No. 3-ranked fighter in the women's strawweight division, has been released by the UFC.",
-    "source": "www.espn.com - MMA",
-    "url": "https://www.espn.com/mma/story/_/id/50523092/ufc-releases-former-strawweight-title-challenger-jandiroba",
-    "timestamp": "2026-11-18T19:29:08Z",
-    "topic": "UFC",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.espn.com/mma/story/_/id/50523092/ufc-releases-former-strawweight-title-challenger-jandiroba"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "UFC",
-      "MMA"
-    ],
-    "data_as_of": "2026-11-18T19:29:08Z",
-    "id": "energy-91abba92ccf01761"
   }
 ]
