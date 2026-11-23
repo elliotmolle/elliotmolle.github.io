@@ -1,16 +1,16 @@
 [
   {
-    "title": "Building nuclear’s next-gen workforce",
-    "summary": "As the nuclear energy industry advances a new generation of more cost-effective, more efficient small reactors, another challenge is coming into sharper focus: Who will build, operate, and maintain them? The Department of Energy projects that the nuclear energy sector will need more than 375,000 skilled workers by 2050 to sustain existing nuclear power operations and support deployment of next-gen reactors. Meeting that demand will require a workforce pipeline that begins well before someone walks through the doors of a nuclear facility for the first time. The Nuclear Energy Academic Roadmap (NEAR) was created to address the critical need for a skilled nuclear energy workforce.",
+    "title": "NRC opens comments on draft EA for Crownpoint ISR project",
+    "summary": "Through December 21, the Nuclear Regulatory Commission is accepting public comments on a draft environmental assessment (EA), a draft programmatic agreement (PA), and a finding of no significant impact (FONSI) for an in situ recovery (ISR) uranium mining project covering four locations in McKinley County, N.M. NuFuels, a subsidiary of Laramide Resources, has applied for a renewal of license SUA-1580 to construct and operate the Crownpoint Uranium Project (CUP), also known as the Crownpoint–Church Rock Uranium Project. Permitting processes for the project are being expedited under the federal FAST-41 program, with final reviews expected to be completed in May 2027. If approved, the renewed license would cover construction and operation of the project for 20 years.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-20/article-8538/building-nuclears-nextgen-workforce/",
-    "timestamp": "2026-11-20T21:03:17Z",
+    "url": "https://www.ans.org/news/2026-11-23/article-8612/nrc-opens-comments-on-draft-ea-for-crownpoint-isr-project/",
+    "timestamp": "2026-11-23T19:01:39Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-20/article-8538/building-nuclears-nextgen-workforce/"
+      "https://www.ans.org/news/2026-11-23/article-8612/nrc-opens-comments-on-draft-ea-for-crownpoint-isr-project/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-20T21:03:17Z",
-    "id": "energy-1b544ac87b433924"
+    "data_as_of": "2026-11-23T19:01:39Z",
+    "id": "energy-597e7fd4582fbe68"
   },
   {
-    "title": "Pacific Fusion receives N.M. radioactive materials license",
-    "summary": "The New Mexico Environment Department (NMED) has approved Pacific Fusion’s radioactive materials license, allowing it to fabricate and test deuterium-tritium fusion targets and conduct experiments at a facility that is under construction in Albuquerque, N.M., the company announced. The license authorizes up to 15,000 curies (around 1.5 grams) of tritium, although the company said it “never intends to have an inventory that exceeds 10,000 curies.” The license also authorizes the use of materials needed to store tritium and support diagnostics and fusion operations.",
+    "title": "IEA’s World Energy Outlook 2026 looks at nuclear power’s future amid global turmoil",
+    "summary": "The global crises currently impacting energy supply and demand have countries looking inward to solve their energy needs. A shift toward more domestic energy resources ultimately should help nuclear energy, the International Energy Agency argued in its latest annual World Energy Outlook. The energy market impacts of the conflicts in the Middle East and the resulting disruptions to shipping through the Strait of Hormuz echo the oil crises of the 1970s. According to the World Energy Outlook 2026, issued on November 19, the current global moment should reinforce the resurgence of nuclear power.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-20/article-8599/pacific-fusion-receives-nm-radioactive-materials-license/",
-    "timestamp": "2026-11-20T19:39:57Z",
+    "url": "https://www.ans.org/news/2026-11-23/article-8611/ieas-world-energy-outlook-2026-looks-at-nuclear-powers-future-amid-global-turmoil/",
+    "timestamp": "2026-11-23T15:31:19Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-20/article-8599/pacific-fusion-receives-nm-radioactive-materials-license/"
+      "https://www.ans.org/news/2026-11-23/article-8611/ieas-world-energy-outlook-2026-looks-at-nuclear-powers-future-amid-global-turmoil/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,43 +40,21 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-20T19:39:57Z",
-    "id": "energy-d6ddc1253e9c1774"
+    "data_as_of": "2026-11-23T15:31:19Z",
+    "id": "energy-f8eb771adfe6dc63"
   },
   {
-    "title": "Comments close soon on PRM for fuel reprocessing plants",
-    "summary": "Members of the public have until 11:59 p.m. (EST) on Monday, November 23, to submit comments to the Nuclear Regulatory Commission regarding a petition for rulemaking (PRM) that proposes changes to the way irradiated fuel reprocessing plants are regulated. If the updates that the petition suggests are accepted, fuel reprocessing facilities that handle quantities of strategic special nuclear material (SSNM) large enough to support commercial production would be required to follow the same material control and accounting (MC&A) requirements as other nuclear fuel facilities not covered by an exception. The effect would be a tightening of the regulations that govern reprocessing plants, compared with those currently in effect.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-20/article-8596/comments-close-soon-on-prm-for-fuel-reprocessing-plants/",
-    "timestamp": "2026-11-20T18:10:53Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-20/article-8596/comments-close-soon-on-prm-for-fuel-reprocessing-plants/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-20T18:10:53Z",
-    "id": "energy-384f72a4cb1aa1dc"
-  },
-  {
-    "title": "Training materials address out-of-market support for capacity resources",
-    "summary": "A video and quick-reference guide address how out-of-market support is relevant to buyer-side market power evaluations. The post Training materials address out-of-market support for capacity resources appeared first on ISO Newswire.",
+    "title": "ISO-NE staff share insights on reliability, market reforms, and the energy transition in November",
+    "summary": "A roundup of staff speaking engagements in November 2026. The post ISO-NE staff share insights on reliability, market reforms, and the energy transition in November appeared first on ISO Newswire.",
     "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/20/training-materials-address-out-of-market-support-for-capacity-resources/",
-    "timestamp": "2026-11-20T14:51:34Z",
+    "url": "https://isonewswire.com/2026/11/23/iso-ne-staff-share-insights-on-reliability-market-reforms-and-the-energy-transition-in-november/",
+    "timestamp": "2026-11-23T15:02:11Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://isonewswire.com/2026/11/20/training-materials-address-out-of-market-support-for-capacity-resources/"
+      "https://isonewswire.com/2026/11/23/iso-ne-staff-share-insights-on-reliability-market-reforms-and-the-energy-transition-in-november/"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -84,21 +62,21 @@
       "ISO New England",
       "ISO-NE"
     ],
-    "data_as_of": "2026-11-20T14:51:34Z",
-    "id": "energy-bda9d3506dfef1c1"
+    "data_as_of": "2026-11-23T15:02:11Z",
+    "id": "energy-904fc769cf09f8c5"
   },
   {
-    "title": "Building brighter futures one school welcome at a time",
-    "summary": "For the third year, Entergy Arkansas employees started the school year with high fives, smiles and a warm welcome for students across the state. Source",
+    "title": "From the control room to the turkey farm: Arkansas Nuclear One employee helps bring Thanksgiving to the table",
+    "summary": "For many families, Thanksgiving wouldn’t be complete without a turkey on the table. For one Arkansas Nuclear One employee, raising those turkeys is a year-round tradition. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/building-brighter-futures-one-school-welcome-at-a-time",
-    "timestamp": "2026-11-20T14:27:42Z",
+    "url": "https://www.entergy.com/blog/from-the-control-room-to-the-turkey-farm-arkansas-nuclear-one-employee-helps-bring-thanksgiving-to-the-table",
+    "timestamp": "2026-11-23T14:24:17Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/building-brighter-futures-one-school-welcome-at-a-time"
+      "https://www.entergy.com/blog/from-the-control-room-to-the-turkey-farm-arkansas-nuclear-one-employee-helps-bring-thanksgiving-to-the-table"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -108,76 +86,50 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-11-20T14:27:42Z",
-    "id": "energy-a670994fad6bf5a3"
+    "data_as_of": "2026-11-23T14:24:17Z",
+    "id": "energy-56629faae88bb133"
   },
   {
-    "title": "Bechtel Says Poland Agreement ‘Opens New Chapter’ In Nuclear Cooperation",
-    "summary": "Bechtel, Gdańsk University of Technology and the University of South Carolina, have signed a memorandum of cooperation that “opens a new chapter” in nuclear energy cooperation between the academic communities of Poland and the US. Bechtel, a key partner in the construction of Poland’s first nuclear power plant, which will be built at the Lubiatowo-Kopalino site in the Pomerania region in the north of the country, said the agreement builds on its existing partnership with the University of South Carolina’s Molinaroli College of Engineering and Computing, announced in October 2026, which established a fund to support nuclear education and workforce development.",
+    "title": "INL Computing Facility becomes DOE-NE user facility, launches Arco",
+    "summary": "The Department of Energy’s Office of Nuclear Energy has designated the Idaho National Laboratory Computing Facility (INLCF) as an official user facility, making it the first such facility in the United States for high-performance computing focused on nuclear energy research. Christian Natoni, the deputy manager for facilities, programs, and partnerships at the DOE Idaho Operations Office, said, “Making these computing resources available as a DOE Office of Nuclear Energy user facility gives researchers across the nuclear energy community access to capabilities they need to tackle complex challenges.”",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-23/article-8610/inl-computing-facility-becomes-doene-user-facility-launches-arco/",
+    "timestamp": "2026-11-23T13:08:37Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-23/article-8610/inl-computing-facility-becomes-doene-user-facility-launches-arco/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-23T13:08:37Z",
+    "id": "energy-f0d2133fbc39cd4d"
+  },
+  {
+    "title": "Pacific Fusion Gets Key Licence For $1 Billion New Mexico Demonstration Facility",
+    "summary": "US-based Pacific Fusion announced that the New Mexico Environment Department (NMED) has approved its radioactive materials licence, enabling the company to operate a fusion machine and accelerate its efforts to bring fusion energy to the grid. The licence authorises Pacific Fusion to possess and use tritium for fusion at its $1bn (€910m) research and manufacturing campus in Albuquerque, a facility that will house its demonstration fusion system. The company said this is the first radioactive materials licence New Mexico has ever issued to a private fusion company, and enables key research supporting the company’s goal of net facility gain by 2030, generating more energy output than the energy used to power the system.",
     "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/bechtel-says-poland-agreement-opens-new-chapter-in-nuclear-cooperation-11-5-2026",
-    "timestamp": "2026-11-20T08:56:12Z",
+    "url": "https://www.nucnet.org/news/pacific-fusion-gets-key-licence-for-usd1-billion-new-mexico-demonstration-facility-11-1-2026",
+    "timestamp": "2026-11-23T10:30:45Z",
     "topic": "Energy",
     "category": "Nuclear Technology",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.nucnet.org/news/bechtel-says-poland-agreement-opens-new-chapter-in-nuclear-cooperation-11-5-2026"
+      "https://www.nucnet.org/news/pacific-fusion-gets-key-licence-for-usd1-billion-new-mexico-demonstration-facility-11-1-2026"
     ],
     "source_tier": "trade",
     "primary_source": false,
     "entities": [
       "NucNet"
     ],
-    "data_as_of": "2026-11-20T08:56:12Z",
-    "id": "energy-edcf789f5e910ffd"
-  },
-  {
-    "title": "Entergy Mississippi helps advance Museum Trail with Capitol Green Connector milestone",
-    "summary": "Entergy Mississippi helped advance the Museum Trail with the completion of the Capitol Green Connector, supported by company grants and employee volunteers. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-mississippi-helps-advance-museum-trail-with-capitol-green-connector-milestone",
-    "timestamp": "2026-11-19T19:31:58Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-mississippi-helps-advance-museum-trail-with-capitol-green-connector-milestone"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-19T19:31:58Z",
-    "id": "energy-0f4f70c911001f9b"
-  },
-  {
-    "title": "Entergy and NOABJ honor journalism trailblazers and support emerging storytellers",
-    "summary": "Entergy proudly served as presenting sponsor of the New Orleans Association of Black Journalists’ 4th Annual Jazz Brunch and Silent Auction, reinforcing our commitment to education and community investment. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/entergy-and-noabj-honor-journalism-trailblazers-and-support-emerging-storytellers",
-    "timestamp": "2026-11-19T19:05:29Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/entergy-and-noabj-honor-journalism-trailblazers-and-support-emerging-storytellers"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-19T19:05:29Z",
-    "id": "energy-319691f096a868a8"
+    "data_as_of": "2026-11-23T10:30:45Z",
+    "id": "energy-88095c1c17cf333c"
   }
 ]
