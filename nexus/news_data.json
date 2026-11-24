@@ -1,16 +1,16 @@
 [
   {
-    "title": "NRC opens comments on draft EA for Crownpoint ISR project",
-    "summary": "Through December 21, the Nuclear Regulatory Commission is accepting public comments on a draft environmental assessment (EA), a draft programmatic agreement (PA), and a finding of no significant impact (FONSI) for an in situ recovery (ISR) uranium mining project covering four locations in McKinley County, N.M. NuFuels, a subsidiary of Laramide Resources, has applied for a renewal of license SUA-1580 to construct and operate the Crownpoint Uranium Project (CUP), also known as the Crownpoint–Church Rock Uranium Project. Permitting processes for the project are being expedited under the federal FAST-41 program, with final reviews expected to be completed in May 2027. If approved, the renewed license would cover construction and operation of the project for 20 years.",
+    "title": "Senate approves permitting bill with nuclear energy amendments—what’s next?",
+    "summary": "Just before Congress left Washington, D.C., for the Thanksgiving holiday, the U.S. Senate passed a permitting reform bill that would overhaul the permitting process for numerous types of energy projects—including those in and around nuclear energy—to get projects off the ground and completed in less time. The Bipartisan American Affordability and Jobs Act (BAAJA) passed the Senate on November 19 with a 62–33 vote. The legislation now heads to the U.S. House and to a lame-duck chamber, where its fate remains uncertain. Whether it successfully passes or is not enacted into law, BAAJA will have an impact on future nuclear energy projects, as the bill addresses specific nuclear topics in a series of amendments made ahead of the Senate vote.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-23/article-8612/nrc-opens-comments-on-draft-ea-for-crownpoint-isr-project/",
-    "timestamp": "2026-11-23T19:01:39Z",
+    "url": "https://www.ans.org/news/2026-11-24/article-8616/senate-approves-permitting-bill-with-nuclear-energy-amendmentswhats-next/",
+    "timestamp": "2026-11-24T18:23:59Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-23/article-8612/nrc-opens-comments-on-draft-ea-for-crownpoint-isr-project/"
+      "https://www.ans.org/news/2026-11-24/article-8616/senate-approves-permitting-bill-with-nuclear-energy-amendmentswhats-next/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,21 +18,45 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-23T19:01:39Z",
-    "id": "energy-597e7fd4582fbe68"
+    "data_as_of": "2026-11-24T18:23:59Z",
+    "id": "energy-735feff4bfde36f6"
   },
   {
-    "title": "IEA’s World Energy Outlook 2026 looks at nuclear power’s future amid global turmoil",
-    "summary": "The global crises currently impacting energy supply and demand have countries looking inward to solve their energy needs. A shift toward more domestic energy resources ultimately should help nuclear energy, the International Energy Agency argued in its latest annual World Energy Outlook. The energy market impacts of the conflicts in the Middle East and the resulting disruptions to shipping through the Strait of Hormuz echo the oil crises of the 1970s. According to the World Energy Outlook 2026, issued on November 19, the current global moment should reinforce the resurgence of nuclear power.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-23/article-8611/ieas-world-energy-outlook-2026-looks-at-nuclear-powers-future-amid-global-turmoil/",
-    "timestamp": "2026-11-23T15:31:19Z",
+    "title": "A dandy Lineman of the Game",
+    "summary": "Serving game day looks, Johnny Buchanan, Entergy Mississippi's Lineman of the Game, is bringing the good vibes from the sideline. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/a-dandy-lineman-of-the-game",
+    "timestamp": "2026-11-24T17:15:59Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-23/article-8611/ieas-world-energy-outlook-2026-looks-at-nuclear-powers-future-amid-global-turmoil/"
+      "https://www.entergy.com/blog/a-dandy-lineman-of-the-game"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-24T17:15:59Z",
+    "id": "energy-5a70bd4ab579eb2c"
+  },
+  {
+    "title": "INL chooses Guidedwave for fuel canister monitoring demo at SONGS",
+    "summary": "The Center for Used Fuel Research at Idaho National Laboratory has announced that it will use acoustic emissions (AE) technology from development firm Guidedwave in an upcoming demonstration project. The project will test the ability of Guidedwave’s AE sensors to provide continuous, automated monitoring of a simulation nuclear fuel canister at San Onofre Nuclear Generating Station (SONGS) in California, a facility that permanently ceased operating in 2013. The dry storage canister will be fitted with electric heaters and will not contain nuclear waste. The demo will last for one year, beginning in February 2027.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-24/article-8615/inl-chooses-guidedwave-for-fuel-canister-monitoring-demo-at-songs/",
+    "timestamp": "2026-11-24T15:35:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-24/article-8615/inl-chooses-guidedwave-for-fuel-canister-monitoring-demo-at-songs/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -40,8 +64,54 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-23T15:31:19Z",
-    "id": "energy-f8eb771adfe6dc63"
+    "data_as_of": "2026-11-24T15:35:31Z",
+    "id": "energy-f944b96af94b6aa2"
+  },
+  {
+    "title": "EIF at 25: Entergy, Ducks Unlimited help farmers improve wildlife habitat",
+    "summary": "The project’s goals include increasing energy efficiency, converting ground water to surface water usage, improving water quality, optimizing irrigation water systems and providing wildlife habitat. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/eif-at-25-entergy-ducks-unlimited-help-farmers-improve-wildlife-habitat",
+    "timestamp": "2026-11-24T14:00:27Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/eif-at-25-entergy-ducks-unlimited-help-farmers-improve-wildlife-habitat"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-24T14:00:27Z",
+    "id": "energy-9775f6304e954a38"
+  },
+  {
+    "title": "Sandia researchers are developing SPINE robot for Hanford Site cleanup",
+    "summary": "The ongoing nuclear waste cleanup efforts at Washington state’s Hanford Site may soon get a boost from robots developed at Sandia National Laboratories. Led by mechanical engineer Steve Buerger, a team at Sandia has created a two-inch-by-six-inch robotic device called SPINE (Self-Propelled Interior Inspector for Nondestructive-Testing Examination) to crawl through and inspect aging pipes that link one underground storage tank to another at Hanford.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-24/article-8614/sandia-researchers-are-developing-spine-robot-for-hanford-site-cleanup/",
+    "timestamp": "2026-11-24T13:12:43Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-24/article-8614/sandia-researchers-are-developing-spine-robot-for-hanford-site-cleanup/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-24T13:12:43Z",
+    "id": "energy-b015ed62bed76803"
   },
   {
     "title": "ISO-NE staff share insights on reliability, market reforms, and the energy transition in November",
@@ -88,28 +158,6 @@
     ],
     "data_as_of": "2026-11-23T14:24:17Z",
     "id": "energy-56629faae88bb133"
-  },
-  {
-    "title": "INL Computing Facility becomes DOE-NE user facility, launches Arco",
-    "summary": "The Department of Energy’s Office of Nuclear Energy has designated the Idaho National Laboratory Computing Facility (INLCF) as an official user facility, making it the first such facility in the United States for high-performance computing focused on nuclear energy research. Christian Natoni, the deputy manager for facilities, programs, and partnerships at the DOE Idaho Operations Office, said, “Making these computing resources available as a DOE Office of Nuclear Energy user facility gives researchers across the nuclear energy community access to capabilities they need to tackle complex challenges.”",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-23/article-8610/inl-computing-facility-becomes-doene-user-facility-launches-arco/",
-    "timestamp": "2026-11-23T13:08:37Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-23/article-8610/inl-computing-facility-becomes-doene-user-facility-launches-arco/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-23T13:08:37Z",
-    "id": "energy-f0d2133fbc39cd4d"
   },
   {
     "title": "Pacific Fusion Gets Key Licence For $1 Billion New Mexico Demonstration Facility",
