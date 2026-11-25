@@ -1,16 +1,16 @@
 [
   {
-    "title": "Senate approves permitting bill with nuclear energy amendments—what’s next?",
-    "summary": "Just before Congress left Washington, D.C., for the Thanksgiving holiday, the U.S. Senate passed a permitting reform bill that would overhaul the permitting process for numerous types of energy projects—including those in and around nuclear energy—to get projects off the ground and completed in less time. The Bipartisan American Affordability and Jobs Act (BAAJA) passed the Senate on November 19 with a 62–33 vote. The legislation now heads to the U.S. House and to a lame-duck chamber, where its fate remains uncertain. Whether it successfully passes or is not enacted into law, BAAJA will have an impact on future nuclear energy projects, as the bill addresses specific nuclear topics in a series of amendments made ahead of the Senate vote.",
+    "title": "Helium bubble replenishment keeps MSR fuel clean",
+    "summary": "Researchers at Rensselaer Polytechnic Institute and Argonne National Laboratory have developed models to predict how helium bubbles behave in the liquid fuel of molten salt reactors. Unlike conventional reactors, where fission products remain trapped in fuel pellets, fission products in an MSR circulate throughout the system and can create operational challenges if not properly managed.",
     "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-24/article-8616/senate-approves-permitting-bill-with-nuclear-energy-amendmentswhats-next/",
-    "timestamp": "2026-11-24T18:23:59Z",
+    "url": "https://www.ans.org/news/2026-11-25/article-8620/helium-bubble-replenishment-keeps-msr-fuel-clean/",
+    "timestamp": "2026-11-25T18:36:05Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.ans.org/news/2026-11-24/article-8616/senate-approves-permitting-bill-with-nuclear-energy-amendmentswhats-next/"
+      "https://www.ans.org/news/2026-11-25/article-8620/helium-bubble-replenishment-keeps-msr-fuel-clean/"
     ],
     "source_tier": "trade",
     "primary_source": false,
@@ -18,8 +18,97 @@
       "American Nuclear Society",
       "ANS"
     ],
-    "data_as_of": "2026-11-24T18:23:59Z",
-    "id": "energy-735feff4bfde36f6"
+    "data_as_of": "2026-11-25T18:36:05Z",
+    "id": "energy-d5b22ab22c257e48"
+  },
+  {
+    "title": "Report looks at reasons for Vogtle construction delays",
+    "summary": "A lack of a realistic schedule; a failure to adhere to the Nuclear Regulatory Commission’s quality assurance requirements; and changes to Westinghouse’s AP1000 incomplete reactor design during construction were the primary reasons Vogtle-3 and -4 suffered delays, a new report says. Columbia University’s Center on Global Energy Policy (CGEP) issued its report, “Insights into Construction Delays at the Vogtle Nuclear Plant: Primary Sources of Delay Identified by the Independent Construction Monitor,” on November 15. This report investigated the delays that ultimately made the country’s most recent commercial reactor project a costly affair and outlined the lessons learned that current and future projects can take from Vogtle.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-25/article-8619/report-looks-at-reasons-for-vogtle-construction-delays/",
+    "timestamp": "2026-11-25T15:24:00Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-25/article-8619/report-looks-at-reasons-for-vogtle-construction-delays/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-25T15:24:00Z",
+    "id": "energy-3f093440fc8ef00b"
+  },
+  {
+    "title": "Type One Energy, UTK receive IRIS grant for fusion R&D",
+    "summary": "The Tennessee Department of Economic and Community Development (TNECD) Office of Innovation has awarded its inaugural Innovation and Research for Industry Success (IRIS) grant to stellarator fusion technology developer Type One Energy, in partnership with the University of Tennessee–Knoxville. Type One Energy, which is headquartered in Knoxville, is working with UTK on a two-year project to develop a new class of coated ceramic breeder particles to be used in the production and management of tritium fuel for future fusion power plants.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-25/article-8618/type-one-energy-utk-receive-iris-grant-for-fusion-rd/",
+    "timestamp": "2026-11-25T13:40:21Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-25/article-8618/type-one-energy-utk-receive-iris-grant-for-fusion-rd/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-25T13:40:21Z",
+    "id": "energy-a878b5eab7d18e3e"
+  },
+  {
+    "title": "Framatome Inaugurates Major Components Facility As France Prepares For Reactor Rollout",
+    "summary": "Framatome, the nuclear engineering subsidiary of French state-owned utility EDF, has inaugurated a new €100m ($109m) nuclear component manufacturing facility as France prepares to advance its next generation of nuclear power projects. The facility at Le Creusot in eastern France is dedicated to the manufacturing and assembly of nuclear reactor pressure vessel internals. Framatome said the project entailed the acquisition and complete transformation of roughly 15,000 m2 of industrial spaces, with the integration of large-scale machining, welding and assembly equipment.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/framatome-inaugurates-major-components-facility-as-france-prepares-for-reactor-rollout-11-3-2026",
+    "timestamp": "2026-11-25T08:53:23Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/framatome-inaugurates-major-components-facility-as-france-prepares-for-reactor-rollout-11-3-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-25T08:53:23Z",
+    "id": "energy-29720cf10ac3bb44"
+  },
+  {
+    "title": "Celebrate the season with smart energy choices",
+    "summary": "Start with these simple steps that fit your home and routine. Visit Energy Smart for more holiday tips you can use throughout December. Source",
+    "source": "Entergy",
+    "url": "https://www.entergy.com/blog/celebrate-the-season-with-smart-energy-choices",
+    "timestamp": "2026-11-24T18:19:31Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.entergy.com/blog/celebrate-the-season-with-smart-energy-choices"
+    ],
+    "source_tier": "primary",
+    "primary_source": true,
+    "entities": [
+      "Entergy"
+    ],
+    "tickers": [
+      "ETR"
+    ],
+    "data_as_of": "2026-11-24T18:19:31Z",
+    "id": "energy-a4c5f1fbfc7ec95f"
   },
   {
     "title": "A dandy Lineman of the Game",
@@ -46,39 +135,17 @@
     "id": "energy-5a70bd4ab579eb2c"
   },
   {
-    "title": "INL chooses Guidedwave for fuel canister monitoring demo at SONGS",
-    "summary": "The Center for Used Fuel Research at Idaho National Laboratory has announced that it will use acoustic emissions (AE) technology from development firm Guidedwave in an upcoming demonstration project. The project will test the ability of Guidedwave’s AE sensors to provide continuous, automated monitoring of a simulation nuclear fuel canister at San Onofre Nuclear Generating Station (SONGS) in California, a facility that permanently ceased operating in 2013. The dry storage canister will be fitted with electric heaters and will not contain nuclear waste. The demo will last for one year, beginning in February 2027.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-24/article-8615/inl-chooses-guidedwave-for-fuel-canister-monitoring-demo-at-songs/",
-    "timestamp": "2026-11-24T15:35:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-24/article-8615/inl-chooses-guidedwave-for-fuel-canister-monitoring-demo-at-songs/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-24T15:35:31Z",
-    "id": "energy-f944b96af94b6aa2"
-  },
-  {
-    "title": "EIF at 25: Entergy, Ducks Unlimited help farmers improve wildlife habitat",
-    "summary": "The project’s goals include increasing energy efficiency, converting ground water to surface water usage, improving water quality, optimizing irrigation water systems and providing wildlife habitat. Source",
+    "title": "Entergy’s Louisiana utilities helping customers stay warm and save money with energy efficiency tips and resources",
+    "summary": "By making a few simple changes around your home, you can improve its energy efficiency and keep costs down throughout the colder months. Source",
     "source": "Entergy",
-    "url": "https://www.entergy.com/blog/eif-at-25-entergy-ducks-unlimited-help-farmers-improve-wildlife-habitat",
-    "timestamp": "2026-11-24T14:00:27Z",
+    "url": "https://www.entergy.com/news/entergys-louisiana-utilities-helping-customers-stay-warm-and-save-money-with-energy-efficiency-tips-and-resources",
+    "timestamp": "2026-11-24T15:21:12Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.entergy.com/blog/eif-at-25-entergy-ducks-unlimited-help-farmers-improve-wildlife-habitat"
+      "https://www.entergy.com/news/entergys-louisiana-utilities-helping-customers-stay-warm-and-save-money-with-energy-efficiency-tips-and-resources"
     ],
     "source_tier": "primary",
     "primary_source": true,
@@ -88,30 +155,8 @@
     "tickers": [
       "ETR"
     ],
-    "data_as_of": "2026-11-24T14:00:27Z",
-    "id": "energy-9775f6304e954a38"
-  },
-  {
-    "title": "Sandia researchers are developing SPINE robot for Hanford Site cleanup",
-    "summary": "The ongoing nuclear waste cleanup efforts at Washington state’s Hanford Site may soon get a boost from robots developed at Sandia National Laboratories. Led by mechanical engineer Steve Buerger, a team at Sandia has created a two-inch-by-six-inch robotic device called SPINE (Self-Propelled Interior Inspector for Nondestructive-Testing Examination) to crawl through and inspect aging pipes that link one underground storage tank to another at Hanford.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-24/article-8614/sandia-researchers-are-developing-spine-robot-for-hanford-site-cleanup/",
-    "timestamp": "2026-11-24T13:12:43Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-24/article-8614/sandia-researchers-are-developing-spine-robot-for-hanford-site-cleanup/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-24T13:12:43Z",
-    "id": "energy-b015ed62bed76803"
+    "data_as_of": "2026-11-24T15:21:12Z",
+    "id": "energy-c5ca0610c202286c"
   },
   {
     "title": "ISO-NE staff share insights on reliability, market reforms, and the energy transition in November",
@@ -134,30 +179,6 @@
     ],
     "data_as_of": "2026-11-23T15:02:11Z",
     "id": "energy-904fc769cf09f8c5"
-  },
-  {
-    "title": "From the control room to the turkey farm: Arkansas Nuclear One employee helps bring Thanksgiving to the table",
-    "summary": "For many families, Thanksgiving wouldn’t be complete without a turkey on the table. For one Arkansas Nuclear One employee, raising those turkeys is a year-round tradition. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/from-the-control-room-to-the-turkey-farm-arkansas-nuclear-one-employee-helps-bring-thanksgiving-to-the-table",
-    "timestamp": "2026-11-23T14:24:17Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/from-the-control-room-to-the-turkey-farm-arkansas-nuclear-one-employee-helps-bring-thanksgiving-to-the-table"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-23T14:24:17Z",
-    "id": "energy-56629faae88bb133"
   },
   {
     "title": "Pacific Fusion Gets Key Licence For $1 Billion New Mexico Demonstration Facility",

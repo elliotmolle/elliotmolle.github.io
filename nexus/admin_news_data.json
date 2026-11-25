@@ -1,282 +1,300 @@
 [
   {
-    "title": "The Witcher 4 Will Be a GTA 6-Sized Leap Forward, CD Projekt Red Says",
-    "summary": "The Witcher 4 will be a generational leap forward, a la Grand Theft Auto 6, CD Projekt Red boss says.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/the-witcher-4-vs-gta-6-cyberpunk-2-cd-projekt-red/",
-    "timestamp": "2026-11-24T20:10:45Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/the-witcher-4-vs-gta-6-cyberpunk-2-cd-projekt-red/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-24T20:10:45Z",
-    "id": "energy-e076450920622941"
-  },
-  {
-    "title": "In Defense Of The Legend Of Zelda: Skyward Sword",
-    "summary": "In hindsight and with an updated Switch version, this game deserves a re-evaluation",
+    "title": "Grand Theft Auto 6 Roasts Naughty Dog For Constantly Repackaging The Last Of Us",
+    "summary": "Throwing stones in glass houses, aren’t we?",
     "source": "Kotaku",
-    "url": "https://kotaku.com/in-defense-of-the-legend-of-zelda-skyward-sword-2001000036",
-    "timestamp": "2026-11-24T20:00:55Z",
+    "url": "https://kotaku.com/grand-theft-auto-6-last-of-us-reference-easter-egg-2001000427",
+    "timestamp": "2026-11-25T19:30:51Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/in-defense-of-the-legend-of-zelda-skyward-sword-2001000036"
+      "https://kotaku.com/grand-theft-auto-6-last-of-us-reference-easter-egg-2001000427"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-24T20:00:55Z",
-    "id": "energy-2b8c90088992da50"
+    "data_as_of": "2026-11-25T19:30:51Z",
+    "id": "energy-7ce8b26f246e208d"
   },
   {
-    "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+    "title": "All Key Lento standout vehicles in GTA 6",
+    "summary": "Standout vehicles are one of the many collectibles in GTA 6. Here's where to find every one in Key Lento.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-6-standout-vehicles-key-lento-locations-list-grand-theft-auto/",
+    "timestamp": "2026-11-25T19:18:58Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/gta-6-standout-vehicles-key-lento-locations-list-grand-theft-auto/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-25T19:18:58Z",
+    "id": "energy-e3c653e8bc1e8368"
+  },
+  {
+    "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-    "timestamp": "2026-11-24T19:40:43Z",
+    "url": "https://scottaaronson.blog/?p=10379",
+    "timestamp": "2026-11-25T19:11:27Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
+      "https://scottaaronson.blog/?p=10379"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-24T19:40:43Z",
-    "id": "energy-28ddcab38c2a91c2"
+    "data_as_of": "2026-11-25T19:11:27Z",
+    "id": "energy-fde96546064a1f34"
   },
   {
-    "title": "The One Thing to Know About Jason and Lucia Before You Play Too Much GTA 6",
-    "summary": "Grand Theft Auto 6 hides some key character details behind moments you'll only see when Jason and Lucia are together.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-jason-lucia-dialogue/",
-    "timestamp": "2026-11-24T19:40:05Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/gta-6-jason-lucia-dialogue/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-24T19:40:05Z",
-    "id": "energy-a4ecde184f436ee3"
-  },
-  {
-    "title": "The GTA 6 NPCs Who Crash Out When You Steal From Them Are Some Of The Funniest In The Game",
-    "summary": "Not every potential grand theft auto victim will go quietly into the night",
+    "title": "The Video Game Hardship Fund Raised Almost $300,000 For Laid-Off Developers",
+    "summary": "The United Video Game Workers report that it's dispersed the funds to help with things like rent and medical bills",
     "source": "Kotaku",
-    "url": "https://kotaku.com/grand-theft-auto-6-gta6-npc-fight-back-car-hijack-2001000086",
-    "timestamp": "2026-11-24T19:30:39Z",
+    "url": "https://kotaku.com/the-video-game-hardship-fund-raised-almost-300000-for-laid-off-developers-2001000336",
+    "timestamp": "2026-11-25T19:00:22Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/grand-theft-auto-6-gta6-npc-fight-back-car-hijack-2001000086"
+      "https://kotaku.com/the-video-game-hardship-fund-raised-almost-300000-for-laid-off-developers-2001000336"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-24T19:30:39Z",
-    "id": "energy-489fe0645b7a01c9"
+    "data_as_of": "2026-11-25T19:00:22Z",
+    "id": "energy-4595b02daf28f588"
   },
   {
-    "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+    "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://grafana.com/grafana/download",
-    "timestamp": "2026-11-24T19:23:44Z",
+    "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+    "timestamp": "2026-11-25T18:59:43Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://grafana.com/grafana/download"
+      "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-24T19:23:44Z",
-    "id": "energy-fd6fa713b4e5c6fe"
+    "data_as_of": "2026-11-25T18:59:43Z",
+    "id": "energy-5ead989465c02d13"
   },
   {
-    "title": "Compiling Web Applications into Verified Operations for AI Agents",
+    "title": "Lego Announces New Set for Fan-Favorite Marvel Character",
+    "summary": "Lego has revealed its first Marvel Rivals set starring fan-favorite character Jeff the Land Shark",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/lego-marvel-rivals-jeff-the-land-shark-set-announced/",
+    "timestamp": "2026-11-25T18:45:37Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/lego-marvel-rivals-jeff-the-land-shark-set-announced/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-25T18:45:37Z",
+    "id": "energy-bcdff5b42920f944"
+  },
+  {
+    "title": "How to whistle to distract enemies in GTA 6",
+    "summary": "Here's how to whistle in GTA 6 and when you can whistle, one of the best skills to use if you plan on hiding from enemies and taking them by surprise.",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-6-whistle-how-to-distract-npcs/",
+    "timestamp": "2026-11-25T18:39:58Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/gta-6-whistle-how-to-distract-npcs/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-25T18:39:58Z",
+    "id": "energy-537ffd9ee9f86f0a"
+  },
+  {
+    "title": "Add A Worf TV Show To The Growing Pile Of Abandoned Star Trek Series",
+    "summary": "Every day is a good day to die for Paramount Star Trek pitches, apparently",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/add-a-worf-tv-show-to-the-growing-pile-of-abandoned-star-trek-series-2001000350",
+    "timestamp": "2026-11-25T18:30:39Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/add-a-worf-tv-show-to-the-growing-pile-of-abandoned-star-trek-series-2001000350"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-25T18:30:39Z",
+    "id": "energy-66fced463a5a81d8"
+  },
+  {
+    "title": "Britain's ghost stations",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://protocolis.co/paper/",
-    "timestamp": "2026-11-24T19:12:02Z",
+    "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+    "timestamp": "2026-11-25T17:43:46Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://protocolis.co/paper/"
+      "https://spectator.com/article/britains-ghost-stations-are-fascinating/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-24T19:12:02Z",
-    "id": "energy-fba51850ce8251cb"
+    "data_as_of": "2026-11-25T17:43:46Z",
+    "id": "energy-c3d0b4a2561e3431"
   },
   {
-    "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2",
-    "summary": "Grand Theft Auto 6 achievement data shows that only 40% of players have reached Chapter 3.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
-    "timestamp": "2026-11-24T19:08:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-24T19:08:18Z",
-    "id": "energy-20773a4f2b982da0"
-  },
-  {
-    "title": "Here’s How To Listen To The Radio On Foot In GTA 6 Using Headphones",
-    "summary": "This earbud’s for you.",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/heres-how-to-listen-to-the-radio-on-foot-in-gta-6-using-headphones-2001000040",
-    "timestamp": "2026-11-24T19:00:08Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/heres-how-to-listen-to-the-radio-on-foot-in-gta-6-using-headphones-2001000040"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-24T19:00:08Z",
-    "id": "energy-4060f3bbc36b0e3c"
-  },
-  {
-    "title": "Instruments.digital releases Felted Piano, a FREE upright felt piano VST for Windows and Linux",
-    "summary": "From developer Instruments.digital comes Felted Piano, a free upright felt piano VST for Windows and Linux. Just last week, we talked about the transition from LABS to Splice Instrument, and some comments focused on possible replacements for Soft Piano. A few readers rightly mentioned Pianobook’s Claustrophobic Piano, which you can run in the free Decent [...] View post: Instruments.digital releases Felted Piano, a FREE upright felt piano VST for Windows and Linux",
+    "title": "Clark Audio Dark Fantasy is FREE at Audio Plugin Deals for a limited time",
+    "summary": "Audio Plugin Deals is offering Dark Fantasy by Clark Audio, a $49 virtual instrument for dark ambient and dungeon synth sounds, as a free download for a limited time. You can claim Dark Fantasy for free before December 4, 2026, at 07:00 UTC. The offer is available through Audio Plugin Deals, while Clark Audio’s own [...] View post: Clark Audio Dark Fantasy is FREE at Audio Plugin Deals for a limited time",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/24/instruments-digital-releases-felted-piano-a-free-upright-felt-piano-vst-for-windows-and-linux/",
-    "timestamp": "2026-11-24T17:33:04Z",
+    "url": "https://bedroomproducersblog.com/2026/11/25/clark-audio-dark-fantasy/",
+    "timestamp": "2026-11-25T16:47:08Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/24/instruments-digital-releases-felted-piano-a-free-upright-felt-piano-vst-for-windows-and-linux/"
+      "https://bedroomproducersblog.com/2026/11/25/clark-audio-dark-fantasy/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-24T17:33:04Z",
-    "id": "energy-51a0284b9084565e"
+    "data_as_of": "2026-11-25T16:47:08Z",
+    "id": "energy-c0ce1af4f809d20e"
   },
   {
-    "title": "Top 10 Plugin Boutique Black Friday deals for $10 or less",
-    "summary": "Plugin Boutique has plenty of Black Friday deals for $10 or less, including bass instruments, tape effects, and a few ways to give your sounds some extra grit. I listed my favorite picks below, starting at $7, and any paid purchase also lets you choose one of this month’s bonus freebies. All prices are in [...] View post: Top 10 Plugin Boutique Black Friday deals for $10 or less",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/24/plugin-boutique-10-2026/",
-    "timestamp": "2026-11-24T17:32:28Z",
-    "topic": "Music Production",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://bedroomproducersblog.com/2026/11/24/plugin-boutique-10-2026/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-24T17:32:28Z",
-    "id": "energy-7dd405ed8b5faab8"
-  },
-  {
-    "title": "FERC Approves MISO Plan To Speed Legacy Interconnection Study Process",
-    "summary": "By Ethan Howland The Federal Energy Regulatory Commission on Friday approved the Midcontinent Independent System Operator’s plan for clearing out its legacy generation and storage interconnection queue, in part by giving project developers a chance to withdraw nonviable projects without paying a penalty. The plan is designed to speed up MISO’s review of its “Definitive […]",
+    "title": "Driftless Region Counties Present United Front Opposing MariBell And BECI",
+    "summary": "By Gillian Pomplun Counties in the Driftless Region of Southwest Wisconsin continue to unite in opposition to the proposed 765 kV transmission lines – MariBell and BECI. Vernon, Crawford and Richland county boards have all progressed beyond asking for information or communicating formal opposition. Those three counties have now called for the Wisconsin Legislature to […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/ferc-approves-miso-plan-to-speed-legacy-interconnection-study-process/",
-    "timestamp": "2026-11-24T15:50:25Z",
+    "url": "https://misoxenwatch.com/2026/11/driftless-region-counties-present-united-front-opposing-maribell-and-beci/",
+    "timestamp": "2026-11-25T15:46:46Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/ferc-approves-miso-plan-to-speed-legacy-interconnection-study-process/"
+      "https://misoxenwatch.com/2026/11/driftless-region-counties-present-united-front-opposing-maribell-and-beci/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-24T15:50:25Z",
-    "id": "energy-05074643ec4b4607"
+    "data_as_of": "2026-11-25T15:46:46Z",
+    "id": "energy-cfb45c9a3803393e"
   },
   {
-    "title": "FERC Approves MISO Generator Queue Update With Penalty-Free Withdrawal",
-    "summary": "By Thomas Tiernan • MISO targets 72.1 GW backlog in 2022 queue • Higher penalties balance withdrawal option, FERC says The Federal Energy Regulatory Commission approved the Midcontinent Independent System Operator’s latest plan to reduce its generator interconnection queue backlog, allowing developers a one-time, penalty-free withdrawal from a 2022 legacy queue to limit transmission grid […]",
+    "title": "Backlash Against Data Centers Helped Democrats Win The Midterms",
+    "summary": "By Jesse Usher Barrett, Jesse Rhodes, Tatishe Nteta, and Tim Komatsu The 2026 midterm elections that swept Democrats into power in Congress and state legislatures also delivered a stunning rebuke to the artificial intelligence industry. Ballot measures that limited the construction of data centers – from California to Kansas to North Dakota – were approved […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/ferc-approves-miso-generator-queue-update-with-penalty-free-withdrawal/",
-    "timestamp": "2026-11-24T15:49:51Z",
+    "url": "https://misoxenwatch.com/2026/11/backlash-against-data-centers-helped-democrats-win-the-midterms/",
+    "timestamp": "2026-11-25T15:45:22Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/ferc-approves-miso-generator-queue-update-with-penalty-free-withdrawal/"
+      "https://misoxenwatch.com/2026/11/backlash-against-data-centers-helped-democrats-win-the-midterms/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-24T15:49:51Z",
-    "id": "energy-afea7044bd27b2dc"
+    "data_as_of": "2026-11-25T15:45:22Z",
+    "id": "energy-9be801ebf37ea82e"
   },
   {
-    "title": "FERC OKs Penalty-Free Exits For 2022 MISO Queue Cycle, Restudy Cap",
-    "summary": "By Amanda Durish Cook MISO is free to offer a one-time, penalty-free exit for 2022 interconnection queue projects while capping late-stage restudies, FERC ruled. The Bottom Line MISO can offer a one-time, penalty-free exit option for generation proposals from its vast 2022 class of queue entrants while imposing stricter conditions on developers that choose to […]",
+    "title": "Proposed Wind Farm Projects Seeking State Law Exemptions",
+    "summary": "By Sydney Sasser Several proposed wind farm projects in Arkansas are seeking a declaratory order from the Public Service Commission for an exemption to a state law regulating them. The Arkansas Wind Energy Development Act, or Act 945, requires a wind farm developer to obtain a permit from the commission for wind energy facilities designed […]",
     "source": "MISO XenWatch",
-    "url": "https://misoxenwatch.com/2026/11/ferc-oks-penalty-free-exits-for-2022-miso-queue-cycle-restudy-cap/",
-    "timestamp": "2026-11-24T15:49:23Z",
+    "url": "https://misoxenwatch.com/2026/11/proposed-wind-farm-projects-seeking-state-law-exemptions/",
+    "timestamp": "2026-11-25T15:44:04Z",
     "topic": "Energy",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://misoxenwatch.com/2026/11/ferc-oks-penalty-free-exits-for-2022-miso-queue-cycle-restudy-cap/"
+      "https://misoxenwatch.com/2026/11/proposed-wind-farm-projects-seeking-state-law-exemptions/"
     ],
     "source_tier": "primary",
     "primary_source": true,
     "entities": [
       "MISO"
     ],
-    "data_as_of": "2026-11-24T15:49:23Z",
-    "id": "energy-06dcda944d7a74ea"
+    "data_as_of": "2026-11-25T15:44:04Z",
+    "id": "energy-5d49486c4f3350b9"
   },
   {
-    "title": "InnerMost47 releases GRM Guitar, a FREE physically modeled acoustic guitar for Windows and Linux",
-    "summary": "Developer InnerMost47 has released GRM Guitar, a free physically modelled acoustic guitar for Windows and Linux. GRM Guitar is a free, open-source, physically modelled acoustic guitar instrument available in VST3 and Standalone formats for Windows and Linux. InnerMost47 developed GRM Guitar using C++ and JUCE 8. The same developer that released OBSIDIAN Neural Sound Engine, [...] View post: InnerMost47 releases GRM Guitar, a FREE physically modeled acoustic guitar for Windows and Linux",
+    "title": "Forma Labs Audio offers Filament orchestration plugin for £89.99 this Black Friday",
+    "summary": "Forma Labs Audio is offering Filament, its real-time orchestration plugin for macOS and Windows, for £89.99 instead of £149 this Black Friday. The Filament sale runs until 23:59 GMT on Tuesday, December 1, 2026. That’s a saving of £59.01, and it doesn’t require a coupon code. We covered Filament during its public beta in April. [...] View post: Forma Labs Audio offers Filament orchestration plugin for £89.99 this Black Friday",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/",
-    "timestamp": "2026-11-24T12:47:38Z",
+    "url": "https://bedroomproducersblog.com/2026/11/25/forma-labs-filament-2/",
+    "timestamp": "2026-11-25T15:37:31Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/24/innermost47-grm-guitar/"
+      "https://bedroomproducersblog.com/2026/11/25/forma-labs-filament-2/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-24T12:47:38Z",
-    "id": "energy-c75df7dec2abefd6"
+    "data_as_of": "2026-11-25T15:37:31Z",
+    "id": "energy-c7d1867f0b409eab"
+  },
+  {
+    "title": "The Synth Palace is a FREE collection of nine vintage synths for macOS and Windows",
+    "summary": "Synth Palace has released The Synth Palace, a free instrument featuring nine vintage-inspired synthesizers for macOS and Windows. First of all, until this year, a free plugin on this scale was almost unimaginable. And seeing how much is included for free makes me think AI coding tools probably helped speed up development and make it [...] View post: The Synth Palace is a FREE collection of nine vintage synths for macOS and Windows",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/25/the-synth-palace-collection/",
+    "timestamp": "2026-11-25T14:00:08Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/25/the-synth-palace-collection/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-25T14:00:08Z",
+    "id": "energy-8a19d5f8da4b68b7"
+  },
+  {
+    "title": "The truth about data centers and electricity prices",
+    "summary": "A conversation with Long Lam and Natalie Northrup of the Brattle Group.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/the-truth-about-data-centers-and",
+    "timestamp": "2026-11-25T13:58:09Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/the-truth-about-data-centers-and"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-11-25T13:58:09Z",
+    "id": "energy-e1ee907ccae12ddb"
   },
   {
     "title": "Polaris 40 Full Results And Highlights",
