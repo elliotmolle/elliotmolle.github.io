@@ -1,5 +1,27 @@
 [
   {
+    "title": "Y-12’s new playbook on STEM and skilled trades outreach",
+    "summary": "The Y-12 National Security Complex in Oak Ridge, Tenn., which was born out of the Manhattan Project in 1943, is revamping its educational outreach program to develop a pipeline of employees to ensure the safety and efficacy of the nation’s nuclear deterrent.",
+    "source": "ANS Newswire",
+    "url": "https://www.ans.org/news/2026-11-25/article-8537/y12s-new-playbook-on-stem-and-skilled-trades-outreach/",
+    "timestamp": "2026-11-25T21:00:24Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.ans.org/news/2026-11-25/article-8537/y12s-new-playbook-on-stem-and-skilled-trades-outreach/"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "American Nuclear Society",
+      "ANS"
+    ],
+    "data_as_of": "2026-11-25T21:00:24Z",
+    "id": "energy-663f491c8d601753"
+  },
+  {
     "title": "Helium bubble replenishment keeps MSR fuel clean",
     "summary": "Researchers at Rensselaer Polytechnic Institute and Argonne National Laboratory have developed models to predict how helium bubbles behave in the liquid fuel of molten salt reactors. Unlike conventional reactors, where fission products remain trapped in fuel pellets, fission products in an MSR circulate throughout the system and can create operational challenges if not properly managed.",
     "source": "ANS Newswire",
@@ -42,28 +64,6 @@
     ],
     "data_as_of": "2026-11-25T15:24:00Z",
     "id": "energy-3f093440fc8ef00b"
-  },
-  {
-    "title": "Type One Energy, UTK receive IRIS grant for fusion R&D",
-    "summary": "The Tennessee Department of Economic and Community Development (TNECD) Office of Innovation has awarded its inaugural Innovation and Research for Industry Success (IRIS) grant to stellarator fusion technology developer Type One Energy, in partnership with the University of Tennessee–Knoxville. Type One Energy, which is headquartered in Knoxville, is working with UTK on a two-year project to develop a new class of coated ceramic breeder particles to be used in the production and management of tritium fuel for future fusion power plants.",
-    "source": "ANS Newswire",
-    "url": "https://www.ans.org/news/2026-11-25/article-8618/type-one-energy-utk-receive-iris-grant-for-fusion-rd/",
-    "timestamp": "2026-11-25T13:40:21Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.ans.org/news/2026-11-25/article-8618/type-one-energy-utk-receive-iris-grant-for-fusion-rd/"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "American Nuclear Society",
-      "ANS"
-    ],
-    "data_as_of": "2026-11-25T13:40:21Z",
-    "id": "energy-a878b5eab7d18e3e"
   },
   {
     "title": "Framatome Inaugurates Major Components Facility As France Prepares For Reactor Rollout",
@@ -157,48 +157,5 @@
     ],
     "data_as_of": "2026-11-24T15:21:12Z",
     "id": "energy-c5ca0610c202286c"
-  },
-  {
-    "title": "ISO-NE staff share insights on reliability, market reforms, and the energy transition in November",
-    "summary": "A roundup of staff speaking engagements in November 2026. The post ISO-NE staff share insights on reliability, market reforms, and the energy transition in November appeared first on ISO Newswire.",
-    "source": "ISO Newswire",
-    "url": "https://isonewswire.com/2026/11/23/iso-ne-staff-share-insights-on-reliability-market-reforms-and-the-energy-transition-in-november/",
-    "timestamp": "2026-11-23T15:02:11Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://isonewswire.com/2026/11/23/iso-ne-staff-share-insights-on-reliability-market-reforms-and-the-energy-transition-in-november/"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "ISO New England",
-      "ISO-NE"
-    ],
-    "data_as_of": "2026-11-23T15:02:11Z",
-    "id": "energy-904fc769cf09f8c5"
-  },
-  {
-    "title": "Pacific Fusion Gets Key Licence For $1 Billion New Mexico Demonstration Facility",
-    "summary": "US-based Pacific Fusion announced that the New Mexico Environment Department (NMED) has approved its radioactive materials licence, enabling the company to operate a fusion machine and accelerate its efforts to bring fusion energy to the grid. The licence authorises Pacific Fusion to possess and use tritium for fusion at its $1bn (€910m) research and manufacturing campus in Albuquerque, a facility that will house its demonstration fusion system. The company said this is the first radioactive materials licence New Mexico has ever issued to a private fusion company, and enables key research supporting the company’s goal of net facility gain by 2030, generating more energy output than the energy used to power the system.",
-    "source": "NucNet: Global Nuclear News",
-    "url": "https://www.nucnet.org/news/pacific-fusion-gets-key-licence-for-usd1-billion-new-mexico-demonstration-facility-11-1-2026",
-    "timestamp": "2026-11-23T10:30:45Z",
-    "topic": "Energy",
-    "category": "Nuclear Technology",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.nucnet.org/news/pacific-fusion-gets-key-licence-for-usd1-billion-new-mexico-demonstration-facility-11-1-2026"
-    ],
-    "source_tier": "trade",
-    "primary_source": false,
-    "entities": [
-      "NucNet"
-    ],
-    "data_as_of": "2026-11-23T10:30:45Z",
-    "id": "energy-88095c1c17cf333c"
   }
 ]
