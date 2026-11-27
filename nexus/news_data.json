@@ -1,5 +1,26 @@
 [
   {
+    "title": "Nucleoeléctrica Argentina Signs ‘Landmark’ Agreement With Canada’s Candu Energy",
+    "summary": "Nucleoeléctrica Argentina has signed what it called a landmark agreement with Candu Energy to deliver specialised engineering services and technical assistance to the Canadian company on life-extension projects, scheduled outages and the construction of new nuclear facilities, both in Canada and around the world. Nucleoeléctrica, Argentina’s state nuclear company, said the agreement opens up new business opportunities in the global nuclear services market. Under the agreement, Nucleoeléctrica will provide support to Candu Energy on Candu reactor projects.",
+    "source": "NucNet: Global Nuclear News",
+    "url": "https://www.nucnet.org/news/nucleoelectrica-argentina-signs-landmark-agreement-with-canada-s-candu-energy-11-5-2026",
+    "timestamp": "2026-11-27T13:33:18Z",
+    "topic": "Energy",
+    "category": "Nuclear Technology",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.nucnet.org/news/nucleoelectrica-argentina-signs-landmark-agreement-with-canada-s-candu-energy-11-5-2026"
+    ],
+    "source_tier": "trade",
+    "primary_source": false,
+    "entities": [
+      "NucNet"
+    ],
+    "data_as_of": "2026-11-27T13:33:18Z",
+    "id": "energy-3294feb31cb3b81b"
+  },
+  {
     "title": "Y-12’s new playbook on STEM and skilled trades outreach",
     "summary": "The Y-12 National Security Complex in Oak Ridge, Tenn., which was born out of the Manhattan Project in 1943, is revamping its educational outreach program to develop a pipeline of employees to ensure the safety and efficacy of the nation’s nuclear deterrent.",
     "source": "ANS Newswire",
@@ -85,77 +106,5 @@
     ],
     "data_as_of": "2026-11-25T08:53:23Z",
     "id": "energy-29720cf10ac3bb44"
-  },
-  {
-    "title": "Celebrate the season with smart energy choices",
-    "summary": "Start with these simple steps that fit your home and routine. Visit Energy Smart for more holiday tips you can use throughout December. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/celebrate-the-season-with-smart-energy-choices",
-    "timestamp": "2026-11-24T18:19:31Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/celebrate-the-season-with-smart-energy-choices"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-24T18:19:31Z",
-    "id": "energy-a4c5f1fbfc7ec95f"
-  },
-  {
-    "title": "A dandy Lineman of the Game",
-    "summary": "Serving game day looks, Johnny Buchanan, Entergy Mississippi's Lineman of the Game, is bringing the good vibes from the sideline. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/blog/a-dandy-lineman-of-the-game",
-    "timestamp": "2026-11-24T17:15:59Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/blog/a-dandy-lineman-of-the-game"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-24T17:15:59Z",
-    "id": "energy-5a70bd4ab579eb2c"
-  },
-  {
-    "title": "Entergy’s Louisiana utilities helping customers stay warm and save money with energy efficiency tips and resources",
-    "summary": "By making a few simple changes around your home, you can improve its energy efficiency and keep costs down throughout the colder months. Source",
-    "source": "Entergy",
-    "url": "https://www.entergy.com/news/entergys-louisiana-utilities-helping-customers-stay-warm-and-save-money-with-energy-efficiency-tips-and-resources",
-    "timestamp": "2026-11-24T15:21:12Z",
-    "topic": "Energy",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.entergy.com/news/entergys-louisiana-utilities-helping-customers-stay-warm-and-save-money-with-energy-efficiency-tips-and-resources"
-    ],
-    "source_tier": "primary",
-    "primary_source": true,
-    "entities": [
-      "Entergy"
-    ],
-    "tickers": [
-      "ETR"
-    ],
-    "data_as_of": "2026-11-24T15:21:12Z",
-    "id": "energy-c5ca0610c202286c"
   }
 ]

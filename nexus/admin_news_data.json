@@ -1,219 +1,237 @@
 [
   {
-    "title": "GTA 6 Is A Tragedy Because You Cannot Sit Down And Eat Spaghetti",
-    "summary": "I was bummed about the food selection in GTA 6 until I understood what it was saying about Jason and Lucia",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/gta-6-is-a-tragedy-because-you-cannot-sit-down-and-eat-spaghetti-2001000633",
-    "timestamp": "2026-11-26T19:00:19Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/gta-6-is-a-tragedy-because-you-cannot-sit-down-and-eat-spaghetti-2001000633"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-26T19:00:19Z",
-    "id": "energy-ca7caca69c595a2b"
-  },
-  {
-    "title": "7 Years Later, Hollywood’s Most Notorious Fantasy Flop Deserves Another Shot",
-    "summary": "Seven years later, a first watch of Tom Hooper’s Cats on Netflix finds plenty to enjoy, especially Taylor Swift’s catnip number.",
+    "title": "GTA 6 Officially Passes a Massive Sales Milestone Just 1 Week In",
+    "summary": "Grand Theft Auto 6's week-one sales estimated at 53 million copies, with PS5 taking the lion’s share thanks to marketing deal with Rockstar",
     "source": "Polygon.com",
-    "url": "https://www.polygon.com/cats-movie-retrospective/",
-    "timestamp": "2026-11-26T19:00:18Z",
+    "url": "https://www.polygon.com/gta-6-how-much-sold-week-one-rockstar-games/",
+    "timestamp": "2026-11-27T18:56:45Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.polygon.com/cats-movie-retrospective/"
+      "https://www.polygon.com/gta-6-how-much-sold-week-one-rockstar-games/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-26T19:00:18Z",
-    "id": "energy-15693d7d044db86c"
+    "data_as_of": "2026-11-27T18:56:45Z",
+    "id": "energy-21e9de7cb2d6fc0e"
   },
   {
-    "title": "BPB releases Microspace, a FREE convolution reverb plugin",
-    "summary": "I’m very happy to finally release BPB Microspace, a free convolution-based reverb for all BPB readers. It’s been on the back burner for over a year and is now finally ready for release. I worked with the same developer who helped me create VATRA (and the team was now stronger thanks to a talented 3D [...] View post: BPB releases Microspace, a FREE convolution reverb plugin",
-    "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/26/bpb-microspace/",
-    "timestamp": "2026-11-26T18:56:52Z",
-    "topic": "Music Production",
+    "title": "GTA 6 Players Are Not, In Fact, Eating Good",
+    "summary": "GTA 6's Jason and Lucia don't get much chance to savor Leonida's finest foods, and that's a shame",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-6-food-restaurants/",
+    "timestamp": "2026-11-27T18:35:30Z",
+    "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/26/bpb-microspace/"
+      "https://www.polygon.com/gta-6-food-restaurants/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-26T18:56:52Z",
-    "id": "energy-b191bb426c58ad14"
+    "data_as_of": "2026-11-27T18:35:30Z",
+    "id": "energy-1dcf30935c1c9da3"
   },
   {
-    "title": "George Whitesides, 1939-2026",
+    "title": "'GTA 6' Fans Are Pulling Off Perfect Robberies With Only A Six Pack of Beer",
+    "summary": "These GTA 6 fans only need liquid courage to pull off professional heists with no casualties in Rockstar's open-world game",
+    "source": "Polygon.com",
+    "url": "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/",
+    "timestamp": "2026-11-27T18:27:39Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-27T18:27:39Z",
+    "id": "energy-562d00667c1cfb7e"
+  },
+  {
+    "title": "The NFL Player Who Left Football for Math",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-    "timestamp": "2026-11-26T18:13:07Z",
+    "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+    "timestamp": "2026-11-27T18:17:20Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://www.science.org/content/blog-post/george-whitesides-1939-2026"
+      "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-26T18:13:07Z",
-    "id": "energy-4c2068fd9554d916"
+    "data_as_of": "2026-11-27T18:17:20Z",
+    "id": "energy-20d78c7429e1a17f"
   },
   {
-    "title": "The 14 Best Star Wars Games of All Time, Ranked",
-    "summary": "Out of the many Star Wars games released over the years, these fantastic titles deserve your attention now and forever.",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/best-star-wars-games/",
-    "timestamp": "2026-11-26T18:01:21Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/best-star-wars-games/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-26T18:01:21Z",
-    "id": "energy-097e9ec9f261837c"
-  },
-  {
-    "title": "12 Astonishing Indie Games To Buy Or Wishlist This Thanksgiving Day",
-    "summary": "Thanksgaming 2026 brings an eclectic mix of unknown treats, some released, some coming soon",
-    "source": "Kotaku",
-    "url": "https://kotaku.com/indie-games-pc-steam-wishlist-thanksgiving-2026-thanksgaming-2001000606",
-    "timestamp": "2026-11-26T18:00:48Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://kotaku.com/indie-games-pc-steam-wishlist-thanksgiving-2026-thanksgaming-2001000606"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-26T18:00:48Z",
-    "id": "energy-a9eaa06e1e928d59"
-  },
-  {
-    "title": "Sorry Jason And Lucia, These 5 GTA 6 Side Characters Steal Every Scene They're In",
-    "summary": "Jason and Lucia aren’t GTA 6's only great characters, as these 5 have really endeared themselves to Polygon’s writers",
-    "source": "Polygon.com",
-    "url": "https://www.polygon.com/gta-6-best-side-characters/",
-    "timestamp": "2026-11-26T18:00:18Z",
-    "topic": "Gaming",
-    "category": "General",
-    "impact": "Low",
-    "sentiment": "Neutral",
-    "citations": [
-      "https://www.polygon.com/gta-6-best-side-characters/"
-    ],
-    "source_tier": "primary",
-    "primary_source": false,
-    "data_as_of": "2026-11-26T18:00:18Z",
-    "id": "energy-1aa4cd07508ac608"
-  },
-  {
-    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-    "timestamp": "2026-11-26T17:47:45Z",
+    "url": "https://github.com/convex/convex-backend-skill/issues/64",
+    "timestamp": "2026-11-27T18:02:45Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+      "https://github.com/convex/convex-backend-skill/issues/64"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-26T17:47:45Z",
-    "id": "energy-4424374fd46d06b5"
+    "data_as_of": "2026-11-27T18:02:45Z",
+    "id": "energy-e2ea0eb877c61986"
   },
   {
-    "title": "YouTube Ad Punisher – Bypass anti-adblock",
+    "title": "I'm Scared of AI",
     "summary": "Comments",
     "source": "Hacker News",
-    "url": "https://github.com/antonpictures/youtube-punisher",
-    "timestamp": "2026-11-26T17:36:47Z",
+    "url": "https://thesoapbox.email/archive/3",
+    "timestamp": "2026-11-27T17:45:31Z",
     "topic": "Computer Science",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://github.com/antonpictures/youtube-punisher"
+      "https://thesoapbox.email/archive/3"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-26T17:36:47Z",
-    "id": "energy-1132d3e3fc589a4b"
+    "data_as_of": "2026-11-27T17:45:31Z",
+    "id": "energy-06c9b660482bf58b"
   },
   {
-    "title": "12 Best Video Game Stocking Stuffers Under $30 That People Actually Want",
-    "summary": "Ditch the lame gamer gifts and get them something that's actually useful",
+    "title": "Fight The Bleak Friday Blues With 12 Incredible Indie Games To Slam On Your Wishlist",
+    "summary": "Thanksgaming continues, breaking through the boundaries of a Thursday into unprecedented Friday territory",
     "source": "Kotaku",
-    "url": "https://kotaku.com/12-best-video-game-stocking-stuffers-under-30-that-people-actually-want-2001000398",
-    "timestamp": "2026-11-26T17:00:07Z",
+    "url": "https://kotaku.com/fight-the-bleak-friday-blues-with-12-astonishing-indie-games-to-slam-on-your-wishlist-2001001287",
+    "timestamp": "2026-11-27T16:00:50Z",
     "topic": "Gaming",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://kotaku.com/12-best-video-game-stocking-stuffers-under-30-that-people-actually-want-2001000398"
+      "https://kotaku.com/fight-the-bleak-friday-blues-with-12-astonishing-indie-games-to-slam-on-your-wishlist-2001001287"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-26T17:00:07Z",
-    "id": "energy-73bc742c29e95cb8"
+    "data_as_of": "2026-11-27T16:00:50Z",
+    "id": "energy-724e86f3bd3c10f9"
   },
   {
-    "title": "Nine Plugin Boutique deals for $5 or less, plus a FREE gift",
-    "summary": "If you’re looking for no-brainer combos, Plugin Boutique has nine Black Friday picks for $5 or less that also include a free gift. Following my $10-or-less roundup, here’s another one for an even lower budget. Prices below are in USD before applicable taxes. The $5 deals Crystalline ($5) is an awesome reverb (and definitely my [...] View post: Nine Plugin Boutique deals for $5 or less, plus a FREE gift",
+    "title": "Hollow Knight: Silksong DLC Sea Of Sorrow Releases Free For All Players And Adds Fishing",
+    "summary": "The expansion is out this December",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrow-releases-free-for-all-players-and-adds-fishing-2001001319",
+    "timestamp": "2026-11-27T15:25:27Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrow-releases-free-for-all-players-and-adds-fishing-2001001319"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-27T15:25:27Z",
+    "id": "energy-c703ba837ceffa7b"
+  },
+  {
+    "title": "11 Gifts To Buy For The GTA 6 Fan In Your Life",
+    "summary": "From cool controllers to other games to movies about crime and Miami, we've got you covered with a bunch of options to make that GTA fan happy this holiday season",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/11-gifts-to-buy-for-the-gta-6-fan-in-your-life-2001000423",
+    "timestamp": "2026-11-27T15:00:29Z",
+    "topic": "Gaming",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://kotaku.com/11-gifts-to-buy-for-the-gta-6-fan-in-your-life-2001000423"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-27T15:00:29Z",
+    "id": "energy-93d3243dad7e4472"
+  },
+  {
+    "title": "Get Zero-G Total Bass Drums FREE, exclusively on BPB",
+    "summary": "Zero-G is offering Total Bass Drums, a sample library containing 10,750 kick drums, as a free download exclusively for BPB readers until Cyber Monday. The pack normally costs $34.99, but you can get it for free with the coupon code BPBFREEKICKS as an exclusive Black Friday freebie. Add Total Bass Drums to your cart on [...] View post: Get Zero-G Total Bass Drums FREE, exclusively on BPB",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/26/plugin-boutique-5-bucks-deals/",
-    "timestamp": "2026-11-26T11:39:44Z",
+    "url": "https://bedroomproducersblog.com/2026/11/27/zerog-total-bass-drums-free/",
+    "timestamp": "2026-11-27T09:58:00Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/26/plugin-boutique-5-bucks-deals/"
+      "https://bedroomproducersblog.com/2026/11/27/zerog-total-bass-drums-free/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-26T11:39:44Z",
-    "id": "energy-2211ed614d31d2c7"
+    "data_as_of": "2026-11-27T09:58:00Z",
+    "id": "energy-318a78a6482425e0"
   },
   {
-    "title": "Kaleidon Spark is a FREE effects sequencer that can also host plugins",
-    "summary": "Dylan Mixer offers Kaleidon Spark, a free effects sequencer for macOS and Windows that turns your existing plugins into rhythmic patterns. Before we continue, please note that this one requires the Pulse Downloader, so if that’s not your style, feel free to skip. Spark is the free, four-lane edition of Kaleidon. This is kind of [...] View post: Kaleidon Spark is a FREE effects sequencer that can also host plugins",
+    "title": "Waves offers Rogue Pre-Focus analog preamp plugin FREE for Black Friday",
+    "summary": "Waves Audio is offering Rogue Pre-Focus, a new analog preamp plugin with six selectable models, for free this Black Friday weekend. After last year’s Magma StressBox giveaway, Waves is turning to preamp saturation for its 2026 freebie. Pre-Focus models the input stages of rare and lesser-known hardware, giving you six different ways to add color [...] View post: Waves offers Rogue Pre-Focus analog preamp plugin FREE for Black Friday",
     "source": "Bedroom Producers Blog",
-    "url": "https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/",
-    "timestamp": "2026-11-26T11:28:27Z",
+    "url": "https://bedroomproducersblog.com/2026/11/27/waves-rogue-free/",
+    "timestamp": "2026-11-27T09:56:28Z",
     "topic": "Music Production",
     "category": "General",
     "impact": "Low",
     "sentiment": "Neutral",
     "citations": [
-      "https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/"
+      "https://bedroomproducersblog.com/2026/11/27/waves-rogue-free/"
     ],
     "source_tier": "primary",
     "primary_source": false,
-    "data_as_of": "2026-11-26T11:28:27Z",
-    "id": "energy-0ec7849559fb4da3"
+    "data_as_of": "2026-11-27T09:56:28Z",
+    "id": "energy-6b705a0c2a03c4f1"
+  },
+  {
+    "title": "BPB Exclusive: SoundMorph DUST for $9.99 and Universe Bundle for $299",
+    "summary": "SoundMorph is offering two exclusive Black Friday deals for BPB readers, with DUST for $9.99 and the Universe Bundle for $299 until November 30. You can get DUST for $9.99 using the code BPBDUST, or the Universe Bundle for $299 using BPBUNIVERSE299. Enter your code manually in the cart: click Manage beside the Black Friday [...] View post: BPB Exclusive: SoundMorph DUST for $9.99 and Universe Bundle for $299",
+    "source": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com/2026/11/27/bpb-exclusive-soundmorph/",
+    "timestamp": "2026-11-27T09:55:29Z",
+    "topic": "Music Production",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://bedroomproducersblog.com/2026/11/27/bpb-exclusive-soundmorph/"
+    ],
+    "source_tier": "primary",
+    "primary_source": false,
+    "data_as_of": "2026-11-27T09:55:29Z",
+    "id": "energy-e19010ec4d5a97ff"
+  },
+  {
+    "title": "What’s up with agrivoltaics?",
+    "summary": "A conversation with Jordan Macknick of the National Laboratory of the Rockies.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/whats-up-with-agrivoltaics",
+    "timestamp": "2026-11-27T09:02:33Z",
+    "topic": "Energy",
+    "category": "General",
+    "impact": "Low",
+    "sentiment": "Neutral",
+    "citations": [
+      "https://www.volts.wtf/p/whats-up-with-agrivoltaics"
+    ],
+    "source_tier": "opinion",
+    "primary_source": false,
+    "data_as_of": "2026-11-27T09:02:33Z",
+    "id": "energy-1d3aee68e11dd3d5"
   },
   {
     "title": "Zeroth-order Algorithms for Distributed Online Optimization against Byzantine Edge Attacks",
